@@ -187,7 +187,7 @@ def profile_chart(recs, prof):
             continue
         d = "M %.1f %.1f " % (X(0), Y(pr[0])) + " ".join(
             "L %.1f %.1f" % (X(i * 5), Y(v)) for i, v in enumerate(pr) if i)
-        o.append('<path d="%s" fill="none" stroke="#7c879b" stroke-width="0.85" opacity=".22"/>' % d)
+        o.append('<path d="%s" fill="none" stroke="#7c879b" stroke-width="0.7" opacity=".13"/>' % d)
     o.append('</g>')
 
     for r in recs:
