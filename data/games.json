@@ -1,5 +1,5 @@
 {
- "snapshot": "2026-11-26 18:24 +08",
+ "snapshot": "2026-11-26 19:06 +08",
  "games": [
   {
    "title": "A Way Out",
@@ -1456,6 +1456,18 @@
     "RPG"
    ],
    "count": 63
+  },
+  {
+   "title": "Hollow Knight: Silksong",
+   "appid": 1030300,
+   "name": "Hollow Knight: Silksong",
+   "release": "Sep 4, 2025",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "count": 52
   }
  ]
 }

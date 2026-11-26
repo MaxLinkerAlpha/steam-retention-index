@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26 18:24 +08",
+ "generated": "2026-11-26 19:06 +08",
  "games": [
   {
    "appid": 1222700,
@@ -2929,6 +2929,32 @@
      "name": "Thank You",
      "desc": "Completed the final chapter.",
      "pct": 33.5
+    }
+   ]
+  },
+  {
+   "appid": 1030300,
+   "title": "Hollow Knight: Silksong",
+   "name": "Hollow Knight: Silksong",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Equipped",
+     "desc": "Acquire your first Tool",
+     "pct": 89.6
+    },
+    {
+     "n": 99,
+     "name": "Passing of the Age",
+     "desc": "Grant the Herald's wish and finish the game",
+     "pct": 17.4
     }
    ]
   }

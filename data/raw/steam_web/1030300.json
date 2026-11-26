@@ -1,0 +1,425 @@
+{
+ "appid": 1030300,
+ "game": null,
+ "snapshot": "2026-11-26 11:06",
+ "source": "steamcommunity/achievements",
+ "count": 52,
+ "achievements": [
+  {
+   "name": "Equipped",
+   "desc": "Acquire your first Tool",
+   "hidden": false,
+   "pct": 89.6,
+   "api_name": "FIRST_TOOL",
+   "internal_key": 256
+  },
+  {
+   "name": "Arsenal",
+   "desc": "Acquire all Tools",
+   "hidden": false,
+   "pct": 21.7,
+   "api_name": "ALL_TOOLS",
+   "internal_key": 258
+  },
+  {
+   "name": "Bound",
+   "desc": "Bind your first Silk Skill",
+   "hidden": false,
+   "pct": 87.2,
+   "api_name": "FIRST_SILK_SKILL",
+   "internal_key": 259
+  },
+  {
+   "name": "Woven",
+   "desc": "Bind all Silk Skills",
+   "hidden": false,
+   "pct": 30.6,
+   "api_name": "ALL_SILK_SKILLS",
+   "internal_key": 260
+  },
+  {
+   "name": "Claimed",
+   "desc": "Claim your first Crest",
+   "hidden": false,
+   "pct": 70.8,
+   "api_name": "FIRST_CREST",
+   "internal_key": 261
+  },
+  {
+   "name": "Consumed",
+   "desc": "Claim all Crests",
+   "hidden": false,
+   "pct": 31.6,
+   "api_name": "ALL_CRESTS",
+   "internal_key": 262
+  },
+  {
+   "name": "Protected",
+   "desc": "Acquire 4 Mask Shards",
+   "hidden": false,
+   "pct": 62.6,
+   "api_name": "FIRST_MASK",
+   "internal_key": 263
+  },
+  {
+   "name": "Masked",
+   "desc": "Acquire all Mask Shards",
+   "hidden": false,
+   "pct": 23.7,
+   "api_name": "ALL_MASKS",
+   "internal_key": 264
+  },
+  {
+   "name": "Restored",
+   "desc": "Acquire 2 Spool Fragments",
+   "hidden": false,
+   "pct": 66.3,
+   "api_name": "FIRST_SILK_SPOOL",
+   "internal_key": 265
+  },
+  {
+   "name": "Extended",
+   "desc": "Acquire all Spool Fragments",
+   "hidden": false,
+   "pct": 24.3,
+   "api_name": "ALL_SILK_SPOOLS",
+   "internal_key": 266
+  },
+  {
+   "name": "Regenerated",
+   "desc": "Acquire all Silk Hearts",
+   "hidden": false,
+   "pct": 34.2,
+   "api_name": "ALL_SILK_HEARTS",
+   "internal_key": 267
+  },
+  {
+   "name": "Cartographer",
+   "desc": "Acquire a map of each area",
+   "hidden": false,
+   "pct": 29.7,
+   "api_name": "ALL_MAPS",
+   "internal_key": 268
+  },
+  {
+   "name": "Connected",
+   "desc": "Open all of Pharloom's Bellways",
+   "hidden": false,
+   "pct": 44.3,
+   "api_name": "BELLWAYS_FULL",
+   "internal_key": 269
+  },
+  {
+   "name": "Bonded",
+   "desc": "Learn the Beastling Call",
+   "hidden": true,
+   "pct": 39.3,
+   "api_name": "BELLWAY_MELODY",
+   "internal_key": 270
+  },
+  {
+   "name": "Transported",
+   "desc": "Open all of the Citadel's Ventrica Stations",
+   "hidden": false,
+   "pct": 46.1,
+   "api_name": "TUBES_FULL",
+   "internal_key": 271
+  },
+  {
+   "name": "Keen Hunter",
+   "desc": "Grant Nuu's wish",
+   "hidden": false,
+   "pct": 54.2,
+   "api_name": "JOURNAL_HALF",
+   "internal_key": 272
+  },
+  {
+   "name": "True Hunter",
+   "desc": "Receive the Hunter's Memento",
+   "hidden": false,
+   "pct": 9.5,
+   "api_name": "JOURNAL_FULL",
+   "internal_key": 273
+  },
+  {
+   "name": "Flea Finder",
+   "desc": "Rescue half of Pharloom's lost fleas",
+   "hidden": false,
+   "pct": 50.7,
+   "api_name": "FLEAS_HALF",
+   "internal_key": 274
+  },
+  {
+   "name": "Fleafriend",
+   "desc": "Rescue all of Pharloom's lost fleas and receive their final gift",
+   "hidden": false,
+   "pct": 35.5,
+   "api_name": "FLEAS_ALL",
+   "internal_key": 275
+  },
+  {
+   "name": "Liberated",
+   "desc": "Defeat the Bell Beast",
+   "hidden": false,
+   "pct": 85.2,
+   "api_name": "DEFEATED_BELLBEAST",
+   "internal_key": 276
+  },
+  {
+   "name": "Pharloom's Welcome",
+   "desc": "Defeat Lace in Deep Docks",
+   "hidden": false,
+   "pct": 76.9,
+   "api_name": "DEFEATED_LACE_1",
+   "internal_key": 277
+  },
+  {
+   "name": "Servant",
+   "desc": "Defeat Fourth Chorus",
+   "hidden": false,
+   "pct": 74.8,
+   "api_name": "DEFEATED_SONG_GOLEM",
+   "internal_key": 278
+  },
+  {
+   "name": "Fanatic",
+   "desc": "Defeat Widow",
+   "hidden": false,
+   "pct": 65.1,
+   "api_name": "DEFEATED_WIDOW",
+   "internal_key": 279
+  },
+  {
+   "name": "Judge",
+   "desc": "Defeat the Last Judge",
+   "hidden": false,
+   "pct": 59.6,
+   "api_name": "DEFEATED_LAST_JUDGE_1",
+   "internal_key": 280
+  },
+  {
+   "name": "Last Dance",
+   "desc": "Defeat the Cogwork Dancers",
+   "hidden": false,
+   "pct": 57.5,
+   "api_name": "DEFEATED_COGWORK_DANCERS",
+   "internal_key": 281
+  },
+  {
+   "name": "Tragedian",
+   "desc": "Defeat Trobbio",
+   "hidden": false,
+   "pct": 52.2,
+   "api_name": "DEFEATED_TROBBIO",
+   "internal_key": 282
+  },
+  {
+   "name": "White Knight",
+   "desc": "Defeat Lace in the Cradle",
+   "hidden": false,
+   "pct": 46.8,
+   "api_name": "DEFEATED_LACE_2",
+   "internal_key": 283
+  },
+  {
+   "name": "Grey Ghost",
+   "desc": "Defeat Phantom",
+   "hidden": true,
+   "pct": 47.7,
+   "api_name": "DEFEATED_PHANTOM_1",
+   "internal_key": 284
+  },
+  {
+   "name": "Heretic",
+   "desc": "Defeat First Sinner",
+   "hidden": true,
+   "pct": 40.9,
+   "api_name": "DEFEATED_FIRST_SINNER",
+   "internal_key": 285
+  },
+  {
+   "name": "Tyrant",
+   "desc": "Defeat Crust King Khann",
+   "hidden": true,
+   "pct": 34.0,
+   "api_name": "DEFEATED_CORAL_KING",
+   "internal_key": 286
+  },
+  {
+   "name": "Seed",
+   "desc": "Defeat Nyleth",
+   "hidden": true,
+   "pct": 33.8,
+   "api_name": "DEFEATED_FLOWER_QUEEN",
+   "internal_key": 287
+  },
+  {
+   "name": "Diva",
+   "desc": "Defeat Skarrsinger Karmelita",
+   "hidden": true,
+   "pct": 32.9,
+   "api_name": "DEFEATED_HUNTER_QUEEN",
+   "internal_key": 768
+  },
+  {
+   "name": "Lamenter",
+   "desc": "Defeat the Clover Dancers",
+   "hidden": true,
+   "pct": 29.4,
+   "api_name": "DEFEATED_GREEN_PRINCE",
+   "internal_key": 769
+  },
+  {
+   "name": "Granted",
+   "desc": "Grant your first wish",
+   "hidden": false,
+   "pct": 81.5,
+   "api_name": "FIRST_WISH",
+   "internal_key": 770
+  },
+  {
+   "name": "Glutton",
+   "desc": "Satiate the Grand Gourmand",
+   "hidden": false,
+   "pct": 42.8,
+   "api_name": "GOURMAND_WISH",
+   "internal_key": 771
+  },
+  {
+   "name": "Trail's End",
+   "desc": "Grant Shakra's wish",
+   "hidden": false,
+   "pct": 42.8,
+   "api_name": "SHAKRA_FINAL_QUEST",
+   "internal_key": 772
+  },
+  {
+   "name": "Hero's Call",
+   "desc": "Defeat Lost Garmond",
+   "hidden": true,
+   "pct": 30.9,
+   "api_name": "GARMOND_FINAL_QUEST",
+   "internal_key": 773
+  },
+  {
+   "name": "Fatal Resolve",
+   "desc": "Defeat Pinstress",
+   "hidden": true,
+   "pct": 32.6,
+   "api_name": "PINSTRESS_WISH",
+   "internal_key": 774
+  },
+  {
+   "name": "Entwined",
+   "desc": "Bind Eva",
+   "hidden": true,
+   "pct": 26.5,
+   "api_name": "EVA_FINAL_QUEST",
+   "internal_key": 775
+  },
+  {
+   "name": "Resident",
+   "desc": "Acquire your own Bellhome",
+   "hidden": false,
+   "pct": 46.9,
+   "api_name": "BELLHOME",
+   "internal_key": 776
+  },
+  {
+   "name": "Harmonious",
+   "desc": "Learn the Citadel's Threefold song",
+   "hidden": false,
+   "pct": 48.4,
+   "api_name": "CITADEL_SONG",
+   "internal_key": 777
+  },
+  {
+   "name": "Remembrance",
+   "desc": "Claim the Everbloom from within a distant memory",
+   "hidden": true,
+   "pct": 32.8,
+   "api_name": "WHITE_FLOWER_GAINED",
+   "internal_key": 778
+  },
+  {
+   "name": "Weaver Queen",
+   "desc": "Defeat Grand Mother Silk and bind her power",
+   "hidden": true,
+   "pct": 41.1,
+   "api_name": "ENDING_A",
+   "internal_key": 779
+  },
+  {
+   "name": "Snared Silk",
+   "desc": "Defeat Grand Mother Silk and entrap her with the Soul Snare",
+   "hidden": true,
+   "pct": 39.7,
+   "api_name": "ENDING_C",
+   "internal_key": 780
+  },
+  {
+   "name": "Twisted Child",
+   "desc": "Defeat Grand Mother Silk while cursed",
+   "hidden": true,
+   "pct": 17.4,
+   "api_name": "ENDING_D",
+   "internal_key": 781
+  },
+  {
+   "name": "Sister of the Void",
+   "desc": "Defeat Lost Lace and free Pharloom",
+   "hidden": true,
+   "pct": 29.9,
+   "api_name": "ENDING_E",
+   "internal_key": 783
+  },
+  {
+   "name": "Passing of the Age",
+   "desc": "Grant the Herald's wish and finish the game",
+   "hidden": true,
+   "pct": 17.4,
+   "api_name": "HERALD_WISH",
+   "internal_key": 784
+  },
+  {
+   "name": "Completion",
+   "desc": "Achieve 100% game completion and finish the game",
+   "hidden": false,
+   "pct": 17.0,
+   "api_name": "COMPLETION",
+   "internal_key": 785
+  },
+  {
+   "name": "Speedrunner",
+   "desc": "Complete the game in under 5 hours",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "SPEEDRUN_1",
+   "internal_key": 786
+  },
+  {
+   "name": "Speed Completion",
+   "desc": "Achieve 100% game completion and finish the game in under 30 hours",
+   "hidden": false,
+   "pct": 4.1,
+   "api_name": "SPEED_COMPLETION",
+   "internal_key": 787
+  },
+  {
+   "name": "Steel Soul",
+   "desc": "Finish the game in Steel Soul mode",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "STEEL_SOUL",
+   "internal_key": 788
+  },
+  {
+   "name": "Steel Heart",
+   "desc": "Achieve 100% game completion and finish the game in Steel Soul mode",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "STEEL_SOUL_FULL",
+   "internal_key": 789
+  }
+ ]
+}
