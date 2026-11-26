@@ -246,7 +246,7 @@ button{font:inherit;font-size:12.5px;color:var(--tx2);background:var(--panel2);
 button:hover{color:var(--tx);border-color:#3a465c}
 button.primary{background:rgba(76,194,255,.12);border-color:rgba(76,194,255,.5);color:#8fd8ff}
 button.primary:hover{background:rgba(76,194,255,.2);color:#bfe9ff}
-.chip-sel{display:inline-flex;align-items:center;gap:6px;background:var(--panel2);
+.chip-sel{display:inline-flex;align-items:center;gap:6px;background:var(--panel2);white-space:nowrap;
   border:1px solid var(--line2);border-radius:999px;padding:3px 6px 3px 9px;font-size:12px;color:var(--tx)}
 .chip-sel i{width:8px;height:8px;border-radius:2px;display:inline-block}
 .chip-sel b{font-weight:400}
@@ -289,6 +289,7 @@ tbody tr:hover{background:var(--panel2)}
 .c0 input{accent-color:var(--accent);cursor:pointer;width:15px;height:15px}
 .tag{font-size:10.5px;color:var(--tx3);border:1px solid var(--line2);border-radius:5px;padding:1px 5px}
 .tag.has{color:#8fd8ff;border-color:rgba(76,194,255,.4)}
+.swipe{display:none}
 .pickbox{position:fixed;inset:0;z-index:50;background:rgba(4,6,10,.72);display:none;
   align-items:flex-start;justify-content:center;padding:64px 16px 16px}
 .pickbox.on{display:flex}
@@ -320,12 +321,18 @@ footer{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);font-si
   header{padding:22px 0 4px}
   h1{font-size:21px}
   h1 small{font-size:12.5px}
-  .statbar{gap:18px;padding:12px 0}
+  .statbar{display:grid;grid-template-columns:1fr 1fr;gap:14px 18px;padding:14px 0}
   .stat b{font-size:19px}
   .stat span{font-size:11px}
   section{margin:24px 0 0}
   .panel{padding:11px;border-radius:10px}
   .chart svg{min-width:680px}
+  .chart{-webkit-overflow-scrolling:touch}
+  .swipe{display:block;font-size:11px;color:var(--tx3);margin-top:6px;text-align:right}
+  .toolbar{gap:8px}
+  .chips-wrap{order:3;flex:1 0 100%;flex-wrap:nowrap;overflow-x:auto;padding-bottom:2px}
+  .chips-wrap::-webkit-scrollbar{height:0}
+  #chartcnt{order:4;flex:1 0 100%;margin:0}
   th.m-hide,td.m-hide{display:none}
   .pickbox{padding:0;align-items:flex-end}
   .pickinner{max-width:none;border-radius:16px 16px 0 0;max-height:86vh}
@@ -581,6 +588,7 @@ def main():
       </div>
     </div>
     <div class="chart">{line_chart(curves)}</div>
+    <div class="swipe">← 左右滑动查看完整曲线 →</div>
     <p class="tip">实线 = 多节点章节 · 虚线 = 只有「起点 → 通关」两个点 · <span style="color:var(--tx2)">手机可左右滑动</span></p>
   </div>
 </section>
