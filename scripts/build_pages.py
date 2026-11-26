@@ -367,7 +367,7 @@ JS = r"""
       }
       if(!best)return;
       cols[best.c].push(best.y);
-      e.setAttribute('x',(779+best.c*40).toFixed(1));
+      e.setAttribute('x',(801+best.c*40).toFixed(1));
       e.setAttribute('y',best.y.toFixed(1));
       e.style.display='';
     });
