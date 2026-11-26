@@ -1,0 +1,785 @@
+{
+ "appid": 637650,
+ "game": null,
+ "snapshot": "2026-11-26 18:22",
+ "source": "steamcommunity/achievements",
+ "count": 97,
+ "achievements": [
+  {
+   "name": "Insomnia's Waking Nightmare",
+   "desc": "Completed the Prologue.",
+   "hidden": true,
+   "pct": 91.9,
+   "api_name": "ACH_1",
+   "internal_key": 513
+  },
+  {
+   "name": "Departure",
+   "desc": "Completed Chapter 1.",
+   "hidden": true,
+   "pct": 65.4,
+   "api_name": "ACH_2",
+   "internal_key": 514
+  },
+  {
+   "name": "No Turning Back",
+   "desc": "Completed Chapter 2.",
+   "hidden": true,
+   "pct": 58.6,
+   "api_name": "ACH_3",
+   "internal_key": 515
+  },
+  {
+   "name": "The Open World",
+   "desc": "Completed Chapter 3.",
+   "hidden": true,
+   "pct": 44.9,
+   "api_name": "ACH_4",
+   "internal_key": 516
+  },
+  {
+   "name": "Living Legend",
+   "desc": "Completed Chapter 4.",
+   "hidden": true,
+   "pct": 43.9,
+   "api_name": "ACH_5",
+   "internal_key": 517
+  },
+  {
+   "name": "Dark Clouds",
+   "desc": "Completed Chapter 5.",
+   "hidden": true,
+   "pct": 40.1,
+   "api_name": "ACH_6",
+   "internal_key": 518
+  },
+  {
+   "name": "A Way Forward",
+   "desc": "Completed Chapter 6.",
+   "hidden": true,
+   "pct": 37.0,
+   "api_name": "ACH_7",
+   "internal_key": 519
+  },
+  {
+   "name": "Party of Three",
+   "desc": "Completed Chapter 7.",
+   "hidden": true,
+   "pct": 36.0,
+   "api_name": "ACH_8",
+   "internal_key": 520
+  },
+  {
+   "name": "Seaworthy",
+   "desc": "Completed Chapter 8.",
+   "hidden": true,
+   "pct": 33.6,
+   "api_name": "ACH_9",
+   "internal_key": 521
+  },
+  {
+   "name": "Callings",
+   "desc": "Completed Chapter 9.",
+   "hidden": true,
+   "pct": 31.8,
+   "api_name": "ACH_10",
+   "internal_key": 522
+  },
+  {
+   "name": "The Heart of a King",
+   "desc": "Completed Chapter 10.",
+   "hidden": true,
+   "pct": 30.6,
+   "api_name": "ACH_11",
+   "internal_key": 523
+  },
+  {
+   "name": "In the Dark",
+   "desc": "Completed Chapter 11.",
+   "hidden": true,
+   "pct": 30.5,
+   "api_name": "ACH_12",
+   "internal_key": 524
+  },
+  {
+   "name": "End of Days",
+   "desc": "Completed Chapter 12.",
+   "hidden": true,
+   "pct": 30.1,
+   "api_name": "ACH_13",
+   "internal_key": 525
+  },
+  {
+   "name": "Redemption",
+   "desc": "Completed Chapter 13.",
+   "hidden": true,
+   "pct": 29.1,
+   "api_name": "ACH_14",
+   "internal_key": 526
+  },
+  {
+   "name": "Homecoming",
+   "desc": "Completed Chapter 14.",
+   "hidden": true,
+   "pct": 25.8,
+   "api_name": "ACH_15",
+   "internal_key": 527
+  },
+  {
+   "name": "Chosen King",
+   "desc": "Defeated Ifrit on Normal difficulty.",
+   "hidden": true,
+   "pct": 22.3,
+   "api_name": "ACH_16",
+   "internal_key": 528
+  },
+  {
+   "name": "Learner's Permit",
+   "desc": "Drove the Regalia.",
+   "hidden": false,
+   "pct": 75.4,
+   "api_name": "ACH_17",
+   "internal_key": 529
+  },
+  {
+   "name": "Chocobo Jockey",
+   "desc": "Rode a Chocobo.",
+   "hidden": false,
+   "pct": 47.8,
+   "api_name": "ACH_18",
+   "internal_key": 530
+  },
+  {
+   "name": "Regalia Pilot",
+   "desc": "Flew the Regalia Type-F.",
+   "hidden": true,
+   "pct": 11.3,
+   "api_name": "ACH_19",
+   "internal_key": 531
+  },
+  {
+   "name": "Quadruple Threat",
+   "desc": "Equipped four weapon slots.",
+   "hidden": false,
+   "pct": 76.1,
+   "api_name": "ACH_20",
+   "internal_key": 532
+  },
+  {
+   "name": "Faithful Heir",
+   "desc": "Collected thirteen royal arms.",
+   "hidden": true,
+   "pct": 12.6,
+   "api_name": "ACH_21",
+   "internal_key": 533
+  },
+  {
+   "name": "New Power",
+   "desc": "Learned first ability.",
+   "hidden": false,
+   "pct": 79.5,
+   "api_name": "ACH_22",
+   "internal_key": 534
+  },
+  {
+   "name": "Self-Improved",
+   "desc": "Activated 20 ability nodes.",
+   "hidden": false,
+   "pct": 50.7,
+   "api_name": "ACH_23",
+   "internal_key": 535
+  },
+  {
+   "name": "Self-Mastered",
+   "desc": "Activated 50 ability nodes.",
+   "hidden": false,
+   "pct": 29.3,
+   "api_name": "ACH_24",
+   "internal_key": 536
+  },
+  {
+   "name": "Angling Rookie",
+   "desc": "Improved fishing level for the first time.",
+   "hidden": false,
+   "pct": 42.2,
+   "api_name": "ACH_25",
+   "internal_key": 537
+  },
+  {
+   "name": "Survival Rookie",
+   "desc": "Improved survival level for the first time.",
+   "hidden": false,
+   "pct": 69.6,
+   "api_name": "ACH_26",
+   "internal_key": 538
+  },
+  {
+   "name": "Photo Rookie",
+   "desc": "Improved photography level for the first time.",
+   "hidden": false,
+   "pct": 74.7,
+   "api_name": "ACH_27",
+   "internal_key": 539
+  },
+  {
+   "name": "Cooking Rookie",
+   "desc": "Improved cooking level for the first time.",
+   "hidden": false,
+   "pct": 53.2,
+   "api_name": "ACH_28",
+   "internal_key": 540
+  },
+  {
+   "name": "Angling Expert",
+   "desc": "Reached maximum fishing level.",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "ACH_29",
+   "internal_key": 541
+  },
+  {
+   "name": "Survival Expert",
+   "desc": "Reached maximum survival level.",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "ACH_30",
+   "internal_key": 542
+  },
+  {
+   "name": "Photo Expert",
+   "desc": "Reached maximum photography level.",
+   "hidden": false,
+   "pct": 14.8,
+   "api_name": "ACH_31",
+   "internal_key": 543
+  },
+  {
+   "name": "Cooking Expert",
+   "desc": "Reached maximum cooking level.",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "ACH_32",
+   "internal_key": 768
+  },
+  {
+   "name": "Just Hangin' Around",
+   "desc": "Performed first point-warp suspension.",
+   "hidden": false,
+   "pct": 81.9,
+   "api_name": "ACH_33",
+   "internal_key": 769
+  },
+  {
+   "name": "Brother-in-Arms",
+   "desc": "Issued first ally command.",
+   "hidden": false,
+   "pct": 81.3,
+   "api_name": "ACH_34",
+   "internal_key": 770
+  },
+  {
+   "name": "Blind Spot",
+   "desc": "Performed first blindside link.",
+   "hidden": false,
+   "pct": 85.6,
+   "api_name": "ACH_35",
+   "internal_key": 771
+  },
+  {
+   "name": "Noct You Like a Hurricane",
+   "desc": "Initiated first link-strike after parrying an attack.",
+   "hidden": false,
+   "pct": 75.3,
+   "api_name": "ACH_36",
+   "internal_key": 772
+  },
+  {
+   "name": "The Power of Kings",
+   "desc": "Called forth the Armiger for the first time.",
+   "hidden": false,
+   "pct": 44.3,
+   "api_name": "ACH_37",
+   "internal_key": 773
+  },
+  {
+   "name": "Magical Worker",
+   "desc": "Crafted a spell for the first time.",
+   "hidden": false,
+   "pct": 60.0,
+   "api_name": "ACH_38",
+   "internal_key": 774
+  },
+  {
+   "name": "Black Mage",
+   "desc": "Used magic for the first time.",
+   "hidden": false,
+   "pct": 61.9,
+   "api_name": "ACH_39",
+   "internal_key": 775
+  },
+  {
+   "name": "Divine Intervention",
+   "desc": "Summoned one of the Six for the first time.",
+   "hidden": false,
+   "pct": 30.4,
+   "api_name": "ACH_40",
+   "internal_key": 776
+  },
+  {
+   "name": "High Five for Justice!",
+   "desc": "Played JUSTICE MONSTERS FIVE for the first time.",
+   "hidden": false,
+   "pct": 34.9,
+   "api_name": "ACH_41",
+   "internal_key": 777
+  },
+  {
+   "name": "Immortal Photobomb",
+   "desc": "Caught an image of Gentiana in a photo.",
+   "hidden": true,
+   "pct": 34.6,
+   "api_name": "ACH_42",
+   "internal_key": 778
+  },
+  {
+   "name": "Spinning a Yarn I",
+   "desc": "Completed first sidequest.",
+   "hidden": false,
+   "pct": 69.0,
+   "api_name": "ACH_43",
+   "internal_key": 779
+  },
+  {
+   "name": "Spinning a Yarn II",
+   "desc": "Completed 5 sidequests.",
+   "hidden": false,
+   "pct": 54.0,
+   "api_name": "ACH_44",
+   "internal_key": 780
+  },
+  {
+   "name": "Spinning a Yarn III",
+   "desc": "Completed 10 sidequests.",
+   "hidden": false,
+   "pct": 45.9,
+   "api_name": "ACH_45",
+   "internal_key": 781
+  },
+  {
+   "name": "Spinning a Yarn IV",
+   "desc": "Completed 20 sidequests.",
+   "hidden": false,
+   "pct": 36.2,
+   "api_name": "ACH_46",
+   "internal_key": 782
+  },
+  {
+   "name": "Spinning a Yarn V",
+   "desc": "Completed 40 sidequests.",
+   "hidden": false,
+   "pct": 24.8,
+   "api_name": "ACH_47",
+   "internal_key": 783
+  },
+  {
+   "name": "Weaving a Tapestry",
+   "desc": "Completed 80 sidequests.",
+   "hidden": false,
+   "pct": 14.2,
+   "api_name": "ACH_48",
+   "internal_key": 784
+  },
+  {
+   "name": "My First Hunt",
+   "desc": "Completed first hunt.",
+   "hidden": false,
+   "pct": 69.3,
+   "api_name": "ACH_49",
+   "internal_key": 785
+  },
+  {
+   "name": "Tortoise Toppler",
+   "desc": "Defeated the adamantoise.",
+   "hidden": true,
+   "pct": 8.6,
+   "api_name": "ACH_50",
+   "internal_key": 786
+  },
+  {
+   "name": "Picker-Upper",
+   "desc": "Picked up all items.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ACH_51",
+   "internal_key": 787
+  },
+  {
+   "name": "Column Colossus",
+   "desc": "Uprooted all columns.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "ACH_52",
+   "internal_key": 788
+  },
+  {
+   "name": "Master and Pupil",
+   "desc": "Performed 5 link-strikes with Cor.",
+   "hidden": false,
+   "pct": 9.2,
+   "api_name": "ACH_53",
+   "internal_key": 789
+  },
+  {
+   "name": "Shield of the Chosen King",
+   "desc": "Completed the trials on Normal.",
+   "hidden": false,
+   "pct": 10.6,
+   "api_name": "ACH_54",
+   "internal_key": 790
+  },
+  {
+   "name": "Transcendence",
+   "desc": "Defeated Cor.",
+   "hidden": true,
+   "pct": 2.7,
+   "api_name": "ACH_55",
+   "internal_key": 791
+  },
+  {
+   "name": "No Pain, No Gain",
+   "desc": "Scored 500,000 or more points in Score Attack.",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "ACH_56",
+   "internal_key": 792
+  },
+  {
+   "name": "A New Blademaster",
+   "desc": "Scored 1,000,000 or more points in Score Attack.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ACH_57",
+   "internal_key": 793
+  },
+  {
+   "name": "Unseen Assassin",
+   "desc": "Stealth-killed 3 enemies.",
+   "hidden": false,
+   "pct": 8.4,
+   "api_name": "ACH_58",
+   "internal_key": 794
+  },
+  {
+   "name": "Sharp Shooting",
+   "desc": "Took down 30 enemies with crackshots.",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "ACH_59",
+   "internal_key": 795
+  },
+  {
+   "name": "Field Photographer",
+   "desc": "Took 10 photos mid-battle using Selfie Shot.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "ACH_60",
+   "internal_key": 796
+  },
+  {
+   "name": "Unbreakable Bonds",
+   "desc": "Completed EPISODE PROMPTO on Normal.",
+   "hidden": false,
+   "pct": 8.6,
+   "api_name": "ACH_61",
+   "internal_key": 797
+  },
+  {
+   "name": "An Emperor Deposed",
+   "desc": "Defeated the kaiser behemoth.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "ACH_62",
+   "internal_key": 798
+  },
+  {
+   "name": "The Dragoonslayer",
+   "desc": "Completed Aranea's intensive training.",
+   "hidden": true,
+   "pct": 2.5,
+   "api_name": "ACH_63",
+   "internal_key": 799
+  },
+  {
+   "name": "Dogged Rider",
+   "desc": "Earned the top ranking on all three Time Trial courses.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "ACH_64",
+   "internal_key": 1024
+  },
+  {
+   "name": "Seize the Moment",
+   "desc": "Performed 10 full-hit cross chains.",
+   "hidden": false,
+   "pct": 9.9,
+   "api_name": "ACH_65",
+   "internal_key": 1025
+  },
+  {
+   "name": "Love Turned Tragic",
+   "desc": "Defeated Melusine.",
+   "hidden": true,
+   "pct": 8.2,
+   "api_name": "ACH_66",
+   "internal_key": 1026
+  },
+  {
+   "name": "Beacon of Hope",
+   "desc": "Powered up all facilities in Lestallum.",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "ACH_67",
+   "internal_key": 1027
+  },
+  {
+   "name": "Kingly Blessing",
+   "desc": "Received a Royal Sigil.",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "ACH_68",
+   "internal_key": 1028
+  },
+  {
+   "name": "One with Your Blade",
+   "desc": "Crafted a weapon of Level 30 or higher.",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "ACH_69",
+   "internal_key": 1029
+  },
+  {
+   "name": "Come Back, Kenny!",
+   "desc": "Met the owner of the Crow's Nest Diner.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "ACH_70",
+   "internal_key": 1030
+  },
+  {
+   "name": "Royal Retinue Rumble",
+   "desc": "Bested the Chosen King's companions.",
+   "hidden": true,
+   "pct": 2.4,
+   "api_name": "ACH_71",
+   "internal_key": 1031
+  },
+  {
+   "name": "Cleaving a Path",
+   "desc": "Witnessed the awakening of King Noctis.",
+   "hidden": true,
+   "pct": 2.3,
+   "api_name": "ACH_72",
+   "internal_key": 1032
+  },
+  {
+   "name": "Let There Be Light",
+   "desc": "Amassed an output of 999,999 kW.",
+   "hidden": true,
+   "pct": 1.6,
+   "api_name": "ACH_73",
+   "internal_key": 1033
+  },
+  {
+   "name": "Hidden Power",
+   "desc": "Took down 10 enemies using the spelldaggers.",
+   "hidden": false,
+   "pct": 11.3,
+   "api_name": "ACH_74",
+   "internal_key": 1034
+  },
+  {
+   "name": "Swift Retaliation",
+   "desc": "Took down 10 enemies with counterstrikes.",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "ACH_75",
+   "internal_key": 1035
+  },
+  {
+   "name": "Master of the Elements",
+   "desc": "Took down 100 enemies using Total Clarity.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "ACH_76",
+   "internal_key": 1036
+  },
+  {
+   "name": "A Noble Sacrifice",
+   "desc": "Completed EPISODE IGNIS on Normal.",
+   "hidden": true,
+   "pct": 8.8,
+   "api_name": "ACH_77",
+   "internal_key": 1037
+  },
+  {
+   "name": "Altissian Ambassador",
+   "desc": "Collected all documents.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ACH_78",
+   "internal_key": 1038
+  },
+  {
+   "name": "Another Path",
+   "desc": "Defeated Ardyn in Chapter 3, Verse 2.",
+   "hidden": true,
+   "pct": 6.3,
+   "api_name": "ACH_79",
+   "internal_key": 1039
+  },
+  {
+   "name": "A New Protagonist",
+   "desc": "Earned the top ranking in the Friendly Match.",
+   "hidden": true,
+   "pct": 1.8,
+   "api_name": "ACH_80",
+   "internal_key": 1040
+  },
+  {
+   "name": "Maiden Voyage",
+   "desc": "Captained the royal vessel.",
+   "hidden": true,
+   "pct": 11.9,
+   "api_name": "ACH_81",
+   "internal_key": 1041
+  },
+  {
+   "name": "Narwhal Watching",
+   "desc": "Encountered Bismarck.",
+   "hidden": true,
+   "pct": 7.9,
+   "api_name": "ACH_82",
+   "internal_key": 1042
+  },
+  {
+   "name": "Pursuit of Knowledge",
+   "desc": "Filled 80% of the Datalog.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ACH_83",
+   "internal_key": 1043
+  },
+  {
+   "name": "Speed Daemon",
+   "desc": "Posted excellent times in all cross-country test drives.",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "ACH_84",
+   "internal_key": 1044
+  },
+  {
+   "name": "The Power Within",
+   "desc": "Awakened to the True Power of Kings.",
+   "hidden": true,
+   "pct": 6.9,
+   "api_name": "ACH_85",
+   "internal_key": 1045
+  },
+  {
+   "name": "Tri-Headed Triumph",
+   "desc": "Defeated Cerberus.",
+   "hidden": true,
+   "pct": 26.6,
+   "api_name": "ACH_86",
+   "internal_key": 1046
+  },
+  {
+   "name": "Through the Dimensional Rift",
+   "desc": "Defeated Omega.",
+   "hidden": true,
+   "pct": 4.1,
+   "api_name": "ACH_87",
+   "internal_key": 1047
+  },
+  {
+   "name": "Blessed by All",
+   "desc": "Collected all the Royal Sigils.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ACH_88",
+   "internal_key": 1048
+  },
+  {
+   "name": "Chocobreeder",
+   "desc": "Raised a chocobo to Level 99.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ACH_89",
+   "internal_key": 1049
+  },
+  {
+   "name": "Beacons of Hope",
+   "desc": "Completed the Comrades quest with all four characters.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ACH_90",
+   "internal_key": 1050
+  },
+  {
+   "name": "Fallen Savior",
+   "desc": "Unleashed a spectral assault 10 times.",
+   "hidden": true,
+   "pct": 5.8,
+   "api_name": "ACH_91",
+   "internal_key": 1051
+  },
+  {
+   "name": "The Pyreburner's Keeper",
+   "desc": "Used Ifrit's techniques 10 times.",
+   "hidden": true,
+   "pct": 6.5,
+   "api_name": "ACH_92",
+   "internal_key": 1052
+  },
+  {
+   "name": "King of the Daemons",
+   "desc": "Daemonified 100 enemies.",
+   "hidden": true,
+   "pct": 3.4,
+   "api_name": "ACH_93",
+   "internal_key": 1053
+  },
+  {
+   "name": "The Nightmare Ends",
+   "desc": "Completed EPISODE ARDYN on Normal.",
+   "hidden": true,
+   "pct": 5.7,
+   "api_name": "ACH_94",
+   "internal_key": 1054
+  },
+  {
+   "name": "Mastering the Darkness",
+   "desc": "Unlocked all of Ardyn's abilities.",
+   "hidden": true,
+   "pct": 3.4,
+   "api_name": "ACH_95",
+   "internal_key": 1055
+  },
+  {
+   "name": "Insomnia Insurgence",
+   "desc": "Overtook all sectors of Insomnia.",
+   "hidden": true,
+   "pct": 5.0,
+   "api_name": "ACH_96",
+   "internal_key": 1280
+  },
+  {
+   "name": "Return of the Founder King",
+   "desc": "Earned the top ranking.",
+   "hidden": true,
+   "pct": 1.1,
+   "api_name": "ACH_97",
+   "internal_key": 1281
+  }
+ ]
+}

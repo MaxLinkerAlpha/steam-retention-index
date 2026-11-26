@@ -1,0 +1,641 @@
+{
+ "appid": 2561580,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 79,
+ "achievements": [
+  {
+   "name": "All Achievements Obtained",
+   "desc": "Obtained all Horizon Zero Dawn™ Remastered achievements.",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "alltrophiesobtained",
+   "internal_key": 1
+  },
+  {
+   "name": "Stealth killed 10 machines",
+   "desc": "Performed a stealth kill on 10 machines.",
+   "hidden": false,
+   "pct": 50.4,
+   "api_name": "stealthkilled10machines",
+   "internal_key": 2
+  },
+  {
+   "name": "3 Strikes From Above",
+   "desc": "Killed 3 enemies using the Strike from Above skill.",
+   "hidden": false,
+   "pct": 28.4,
+   "api_name": "3strikesfromabove",
+   "internal_key": 3
+  },
+  {
+   "name": "Tore off 10 components",
+   "desc": "Detached 10 components from machines during combat.",
+   "hidden": false,
+   "pct": 56.9,
+   "api_name": "toreoff10components",
+   "internal_key": 4
+  },
+  {
+   "name": "10 Vulnerable machine kills",
+   "desc": "Killed 10 machines weak to Fire while burning, or weak to Freeze while frozen.",
+   "hidden": false,
+   "pct": 32.6,
+   "api_name": "10vulnerablemachinekills",
+   "internal_key": 5
+  },
+  {
+   "name": "Tore off 5 heavy weapons",
+   "desc": "Detached 5 heavy weapons from machines during combat.",
+   "hidden": false,
+   "pct": 26.5,
+   "api_name": "toreoff5heavyweapons",
+   "internal_key": 6
+  },
+  {
+   "name": "7 types of machine overridden",
+   "desc": "Unlocked and used the overrides for 7 different types of machine.",
+   "hidden": true,
+   "pct": 19.9,
+   "api_name": "7typesofmachineoverridden",
+   "internal_key": 7
+  },
+  {
+   "name": "Headshot 30 human enemies",
+   "desc": "Killed 30 human enemies by landing headshots on them.",
+   "hidden": false,
+   "pct": 35.9,
+   "api_name": "headshot30humanenemies",
+   "internal_key": 8
+  },
+  {
+   "name": "Downed 23 Grazer dummies",
+   "desc": "Found and knocked over all of the Grazer training dummies in the Nora region.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "downed23grazerdummies",
+   "internal_key": 9
+  },
+  {
+   "name": "First Modification",
+   "desc": "Used a Weapon Coil or Outfit Weave on a modifiable weapon or outfit.",
+   "hidden": false,
+   "pct": 64.1,
+   "api_name": "firstmodification",
+   "internal_key": 10
+  },
+  {
+   "name": "All Acquisition machines killed",
+   "desc": "Killed at least one of every type of Acquisition machine.",
+   "hidden": true,
+   "pct": 20.0,
+   "api_name": "allacquisitionmachineskilled",
+   "internal_key": 11
+  },
+  {
+   "name": "All Recon machines killed",
+   "desc": "Killed at least one of every type of Reconnaissance machine.",
+   "hidden": true,
+   "pct": 36.4,
+   "api_name": "allreconmachineskilled",
+   "internal_key": 12
+  },
+  {
+   "name": "All Combat machines killed",
+   "desc": "Killed at least one of every type of Combat machine.",
+   "hidden": true,
+   "pct": 24.8,
+   "api_name": "allcombatmachineskilled",
+   "internal_key": 13
+  },
+  {
+   "name": "All Transport machines killed",
+   "desc": "Killed at least one of every type of Transport machine.",
+   "hidden": true,
+   "pct": 19.5,
+   "api_name": "alltransportmachineskilled",
+   "internal_key": 14
+  },
+  {
+   "name": "Reached level 10",
+   "desc": "Reached player level 10.",
+   "hidden": false,
+   "pct": 56.2,
+   "api_name": "reachedlevel10",
+   "internal_key": 15
+  },
+  {
+   "name": "Reached level 25",
+   "desc": "Reached player level 25.",
+   "hidden": false,
+   "pct": 34.9,
+   "api_name": "reachedlevel25",
+   "internal_key": 16
+  },
+  {
+   "name": "Reached level 40",
+   "desc": "Reached player level 40.",
+   "hidden": false,
+   "pct": 25.0,
+   "api_name": "reachedlevel40",
+   "internal_key": 17
+  },
+  {
+   "name": "Reached level 50",
+   "desc": "Reached player level 50.",
+   "hidden": false,
+   "pct": 19.5,
+   "api_name": "reachedlevel50",
+   "internal_key": 18
+  },
+  {
+   "name": "All Skills learned",
+   "desc": "Learned all available skills.",
+   "hidden": false,
+   "pct": 13.6,
+   "api_name": "allskillslearned",
+   "internal_key": 19
+  },
+  {
+   "name": "First Tallneck Overridden",
+   "desc": "Scaled a Tallneck and accessed its information.",
+   "hidden": true,
+   "pct": 51.2,
+   "api_name": "firsttallneckoverridden",
+   "internal_key": 20
+  },
+  {
+   "name": "First Bandit Camp cleared",
+   "desc": "Took back a settlement from a bandit clan.",
+   "hidden": true,
+   "pct": 46.6,
+   "api_name": "firstbanditcampcleared",
+   "internal_key": 21
+  },
+  {
+   "name": "First Core Overridden",
+   "desc": "Reached the Core of a Cauldron and accessed its information.",
+   "hidden": true,
+   "pct": 38.2,
+   "api_name": "firstcoreoverridden",
+   "internal_key": 22
+  },
+  {
+   "name": "All Suns at one Ground",
+   "desc": "Earned at least a Half Sun mark in all three trials at one Hunting Ground.",
+   "hidden": true,
+   "pct": 25.4,
+   "api_name": "allsunsatoneground",
+   "internal_key": 23
+  },
+  {
+   "name": "Blazing Suns at one Ground",
+   "desc": "Earned a Blazing Sun mark in all three trials at one Hunting Ground.",
+   "hidden": true,
+   "pct": 22.0,
+   "api_name": "blazingsunsatoneground",
+   "internal_key": 24
+  },
+  {
+   "name": "First Corrupted Zone cleared",
+   "desc": "Killed all the corrupted machines in a Corrupted Zone.",
+   "hidden": true,
+   "pct": 49.3,
+   "api_name": "firstcorruptedzonecleared",
+   "internal_key": 25
+  },
+  {
+   "name": "All Tallnecks Overridden",
+   "desc": "Scaled all of the Tallnecks and accessed their information.",
+   "hidden": true,
+   "pct": 22.0,
+   "api_name": "alltallnecksoverridden",
+   "internal_key": 26
+  },
+  {
+   "name": "Cleared all the Bandit Camps",
+   "desc": "Took back all settlements from the bandit clans.",
+   "hidden": true,
+   "pct": 14.6,
+   "api_name": "clearedallthebanditcamps",
+   "internal_key": 27
+  },
+  {
+   "name": "All Cores Overridden",
+   "desc": "Reached the Core of every Cauldron and accessed the information within.",
+   "hidden": true,
+   "pct": 18.0,
+   "api_name": "allcoresoverridden",
+   "internal_key": 28
+  },
+  {
+   "name": "All Suns at all Grounds",
+   "desc": "Earned at least a Half Sun mark in all trials at all of the Hunting Grounds.",
+   "hidden": true,
+   "pct": 12.0,
+   "api_name": "allsunsatallgrounds",
+   "internal_key": 29
+  },
+  {
+   "name": "Blazing Suns at all Grounds",
+   "desc": "Earned a Blazing Sun mark in all trials at all of the Hunting Grounds.",
+   "hidden": true,
+   "pct": 11.8,
+   "api_name": "blazingsunsatallgrounds",
+   "internal_key": 30
+  },
+  {
+   "name": "All Corrupted Zones cleared",
+   "desc": "Killed all the corrupted machines in every Corrupted Zone.",
+   "hidden": true,
+   "pct": 11.9,
+   "api_name": "allcorruptedzonescleared",
+   "internal_key": 31
+  },
+  {
+   "name": "All machines catalogued",
+   "desc": "Encountered and Focus scanned every type of machine.",
+   "hidden": true,
+   "pct": 16.6,
+   "api_name": "allmachinescatalogued",
+   "internal_key": 2048
+  },
+  {
+   "name": "First Vantage found",
+   "desc": "Found and accessed a Vantage datapoint.",
+   "hidden": true,
+   "pct": 33.1,
+   "api_name": "firstvantagefound",
+   "internal_key": 2049
+  },
+  {
+   "name": "First Metal Flower found",
+   "desc": "Discovered a strange metal flower.",
+   "hidden": true,
+   "pct": 47.4,
+   "api_name": "firstmetalflowerfound",
+   "internal_key": 2050
+  },
+  {
+   "name": "First Banuk Figure found",
+   "desc": "Found a wooden effigy left by a Banuk traveler.",
+   "hidden": true,
+   "pct": 21.2,
+   "api_name": "firstbanukfigurefound",
+   "internal_key": 2051
+  },
+  {
+   "name": "First Ancient Vessel found",
+   "desc": "Found an ancient vessel once used by the Old Ones.",
+   "hidden": true,
+   "pct": 49.4,
+   "api_name": "firstancientvesselfound",
+   "internal_key": 2052
+  },
+  {
+   "name": "All Vantages found",
+   "desc": "Found and accessed all of the Vantage datapoints.",
+   "hidden": true,
+   "pct": 10.7,
+   "api_name": "allvantagesfound",
+   "internal_key": 2053
+  },
+  {
+   "name": "All Metal Flowers found",
+   "desc": "Found all of the Metal Flowers.",
+   "hidden": true,
+   "pct": 10.7,
+   "api_name": "allmetalflowersfound",
+   "internal_key": 2054
+  },
+  {
+   "name": "All Banuk Figures found",
+   "desc": "Found all of Arnak's figures.",
+   "hidden": true,
+   "pct": 11.4,
+   "api_name": "allbanukfiguresfound",
+   "internal_key": 2055
+  },
+  {
+   "name": "All Ancient Vessels found",
+   "desc": "Found all the Ancient Vessels.",
+   "hidden": true,
+   "pct": 12.8,
+   "api_name": "allancientvesselsfound",
+   "internal_key": 2056
+  },
+  {
+   "name": "Got the Shield-Weaver outfit",
+   "desc": "Recovered an ancient technology and put it to use.",
+   "hidden": true,
+   "pct": 16.9,
+   "api_name": "gottheshieldweaveroutfit",
+   "internal_key": 2057
+  },
+  {
+   "name": "Followed Rost's teachings",
+   "desc": "Learned to hunt and fight alongside Rost.",
+   "hidden": true,
+   "pct": 75.9,
+   "api_name": "followedrost_steachings",
+   "internal_key": 2058
+  },
+  {
+   "name": "Defeated the Sawtooth",
+   "desc": "Defeated the Sawtooth that threatened the Nora.",
+   "hidden": true,
+   "pct": 65.0,
+   "api_name": "defeatedthesawtooth",
+   "internal_key": 2059
+  },
+  {
+   "name": "Triumphed in the Proving",
+   "desc": "Overcame adversity and placed first in the Proving.",
+   "hidden": true,
+   "pct": 60.7,
+   "api_name": "triumphedintheproving",
+   "internal_key": 2060
+  },
+  {
+   "name": "Fought back the corruption",
+   "desc": "Destroyed the corruption inside the Nora valley.",
+   "hidden": true,
+   "pct": 43.0,
+   "api_name": "foughtbackthecorruption",
+   "internal_key": 2061
+  },
+  {
+   "name": "Learned of the ancient past",
+   "desc": "Learned of the ancient past at Maker's End.",
+   "hidden": true,
+   "pct": 30.6,
+   "api_name": "learnedoftheancientpast",
+   "internal_key": 2062
+  },
+  {
+   "name": "Crashed the Eclipse network",
+   "desc": "Infiltrated the Eclipse battle camp and crashed their network.",
+   "hidden": true,
+   "pct": 27.0,
+   "api_name": "crashedtheeclipsenetwork",
+   "internal_key": 2063
+  },
+  {
+   "name": "Discovered the truth",
+   "desc": "Discovered the truth of Zero Dawn.",
+   "hidden": true,
+   "pct": 26.1,
+   "api_name": "discoveredthetruth",
+   "internal_key": 2064
+  },
+  {
+   "name": "Broke the siege of All-Mother",
+   "desc": "Defeated the invaders and went inside the sacred mountain.",
+   "hidden": true,
+   "pct": 25.5,
+   "api_name": "brokethesiegeofallmother",
+   "internal_key": 2065
+  },
+  {
+   "name": "Recovered a powerful weapon",
+   "desc": "Explored the Mountain That Fell and recovered a powerful weapon.",
+   "hidden": true,
+   "pct": 24.9,
+   "api_name": "recoveredapowerfulweapon",
+   "internal_key": 2066
+  },
+  {
+   "name": "All allies joined",
+   "desc": "Given Aloy's actions, all possible optional allies joined the defense.",
+   "hidden": true,
+   "pct": 9.1,
+   "api_name": "allalliesjoined",
+   "internal_key": 2067
+  },
+  {
+   "name": "Ended the war machine threat",
+   "desc": "Ended the threat of the ancient war machines.",
+   "hidden": true,
+   "pct": 23.4,
+   "api_name": "endedthewarmachinethreat",
+   "internal_key": 2068
+  },
+  {
+   "name": "Victorious with the War-Chief",
+   "desc": "Found the Nora War-Chief and defeated the killers in the Ring of Metal.",
+   "hidden": true,
+   "pct": 41.6,
+   "api_name": "victoriouswiththewarchief",
+   "internal_key": 2069
+  },
+  {
+   "name": "Saved Meridian from its foe",
+   "desc": "Helped Erend investigate Ersa's fate, and foiled a plot against Meridian.",
+   "hidden": true,
+   "pct": 28.2,
+   "api_name": "savedmeridianfromitsfoe",
+   "internal_key": 2070
+  },
+  {
+   "name": "Aided the defectors",
+   "desc": "Aided the escapes of Uthid and the child king Itamen from the Shadow Carja.",
+   "hidden": true,
+   "pct": 17.9,
+   "api_name": "aidedthedefectors",
+   "internal_key": 2071
+  },
+  {
+   "name": "Hunted Redmaw with Talanah",
+   "desc": "Rose through the ranks of the Hunters Lodge and helped Talanah defeat Redmaw.",
+   "hidden": true,
+   "pct": 16.7,
+   "api_name": "huntedredmawwithtalanah",
+   "internal_key": 2072
+  },
+  {
+   "name": "New Game+ Completed",
+   "desc": "Completed a New Game+ playthrough on any difficulty.",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "newgame+completed",
+   "internal_key": 2073
+  },
+  {
+   "name": "Ultra Hard Completed",
+   "desc": "Completed a New Game+ playthrough on Ultra Hard difficulty.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "ultrahardcompleted",
+   "internal_key": 2074
+  },
+  {
+   "name": "Took the Shaman's Path",
+   "desc": "Survived the Shaman's Path and found Ourea's retreat.",
+   "hidden": true,
+   "pct": 20.1,
+   "api_name": "tooktheshaman_spath",
+   "internal_key": 2075
+  },
+  {
+   "name": "Won the Werak Challenge",
+   "desc": "Challenged Aratak at the Frostfigures and won.",
+   "hidden": true,
+   "pct": 18.1,
+   "api_name": "wonthewerakchallenge",
+   "internal_key": 2076
+  },
+  {
+   "name": "Completed the Second Expedition",
+   "desc": "Successfully assaulted Thunder's Drum.",
+   "hidden": true,
+   "pct": 17.1,
+   "api_name": "completedthesecondexpedition",
+   "internal_key": 2077
+  },
+  {
+   "name": "Conquered the Mountain",
+   "desc": "Drove out the threat within the mountain.",
+   "hidden": true,
+   "pct": 16.8,
+   "api_name": "conqueredthemountain",
+   "internal_key": 2078
+  },
+  {
+   "name": "Drained the Flood",
+   "desc": "Completely drained the floodwater from inside the Greycatch.",
+   "hidden": true,
+   "pct": 14.6,
+   "api_name": "drainedtheflood",
+   "internal_key": 2079
+  },
+  {
+   "name": "Won Ikrie's Challenge",
+   "desc": "Met Ikrie again at the Snowchants Hunting Ground and took first place in her challenge.",
+   "hidden": true,
+   "pct": 6.9,
+   "api_name": "wonikrie_schallenge",
+   "internal_key": 2304
+  },
+  {
+   "name": "Fully Improved Weapons",
+   "desc": "Acquired the improved versions of three weapons from Varga.",
+   "hidden": true,
+   "pct": 12.0,
+   "api_name": "fullyimprovedweapons",
+   "internal_key": 2305
+  },
+  {
+   "name": "All Quests completed",
+   "desc": "Completed all side quests and errands in the Frozen Wilds.",
+   "hidden": false,
+   "pct": 7.0,
+   "api_name": "allquestscompleted",
+   "internal_key": 2306
+  },
+  {
+   "name": "All Activities completed",
+   "desc": "Completed the Tallneck, Bandit Camp and Hunting Ground in the Cut.",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "allactivitiescompleted",
+   "internal_key": 2307
+  },
+  {
+   "name": "First Spear Modification",
+   "desc": "Applied a modification to your spear.",
+   "hidden": false,
+   "pct": 16.9,
+   "api_name": "firstspearmodification",
+   "internal_key": 2308
+  },
+  {
+   "name": "5 Dismount Strikes",
+   "desc": "Killed 5 enemies using the Dismount Strike skill.",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "5dismountstrikes",
+   "internal_key": 2309
+  },
+  {
+   "name": "5 Machine Types Repaired",
+   "desc": "Used the Machine Repair or Mount Repair skill on 5 different types of machine.",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "5machinetypesrepaired",
+   "internal_key": 2310
+  },
+  {
+   "name": "Killed 15 Scorchers",
+   "desc": "Killed 15 Scorcher machines.",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "killed15scorchers",
+   "internal_key": 2311
+  },
+  {
+   "name": "Killed 10 Frostclaws",
+   "desc": "Killed 10 Frostclaw machines.",
+   "hidden": false,
+   "pct": 7.6,
+   "api_name": "killed10frostclaws",
+   "internal_key": 2312
+  },
+  {
+   "name": "Killed 6 Fireclaws",
+   "desc": "Killed 6 Fireclaw machines.",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "killed6fireclaws",
+   "internal_key": 2313
+  },
+  {
+   "name": "All Control Towers disabled",
+   "desc": "Disabled all Control Towers by overriding or destroying them.",
+   "hidden": false,
+   "pct": 11.6,
+   "api_name": "allcontroltowersdisabled",
+   "internal_key": 2314
+  },
+  {
+   "name": "All Pigments found",
+   "desc": "Found all of the Pigments in the Cut.",
+   "hidden": false,
+   "pct": 10.3,
+   "api_name": "allpigmentsfound",
+   "internal_key": 2315
+  },
+  {
+   "name": "All Animal Figurines found",
+   "desc": "Found all of the Animal Figurines in the Cut.",
+   "hidden": false,
+   "pct": 10.2,
+   "api_name": "allanimalfigurinesfound",
+   "internal_key": 2316
+  },
+  {
+   "name": "First Bluegleam Trade",
+   "desc": "Traded Bluegleam for a special weapon or outfit.",
+   "hidden": false,
+   "pct": 18.4,
+   "api_name": "firstbluegleamtrade",
+   "internal_key": 2317
+  },
+  {
+   "name": "All Frozen Wilds Skills",
+   "desc": "Learned all of the new skills in the Frozen Wilds.",
+   "hidden": false,
+   "pct": 11.7,
+   "api_name": "allfrozenwildsskills",
+   "internal_key": 2318
+  },
+  {
+   "name": "Reached Level 60",
+   "desc": "Reached player level 60.",
+   "hidden": false,
+   "pct": 9.2,
+   "api_name": "reachedlevel60",
+   "internal_key": 2319
+  }
+ ]
+}

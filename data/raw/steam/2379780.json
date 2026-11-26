@@ -1,0 +1,225 @@
+{
+ "appid": 2379780,
+ "game": "Balatro",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 31,
+ "achievements": [
+  {
+   "api": "BAL_01",
+   "name": "Ante Up!",
+   "desc": "Reach Ante 4",
+   "hidden": false,
+   "pct": 89.8
+  },
+  {
+   "api": "BAL_16",
+   "name": "10K",
+   "desc": "Score 10,000 Chips in a single hand",
+   "hidden": false,
+   "pct": 84.4
+  },
+  {
+   "api": "BAL_02",
+   "name": "Ante Upper!",
+   "desc": "Reach Ante 8",
+   "hidden": false,
+   "pct": 74.4
+  },
+  {
+   "api": "BAL_03",
+   "name": "Heads Up",
+   "desc": "Win a Run",
+   "hidden": false,
+   "pct": 71.5
+  },
+  {
+   "api": "BAL_15",
+   "name": "Retrograde",
+   "desc": "Get any poker hand to level 10",
+   "hidden": false,
+   "pct": 64.7
+  },
+  {
+   "api": "BAL_14",
+   "name": "Royale",
+   "desc": "Play a Royal Flush",
+   "hidden": false,
+   "pct": 63.0
+  },
+  {
+   "api": "BAL_26",
+   "name": "Cartomancy",
+   "desc": "Discover every Tarot card",
+   "hidden": false,
+   "pct": 60.8
+  },
+  {
+   "api": "BAL_07",
+   "name": "Card Player",
+   "desc": "Play at least 2500 Cards",
+   "hidden": false,
+   "pct": 58.1
+  },
+  {
+   "api": "BAL_24",
+   "name": "Legendary",
+   "desc": "Discover a Legendary Joker",
+   "hidden": false,
+   "pct": 57.3
+  },
+  {
+   "api": "BAL_08",
+   "name": "Card Discarder",
+   "desc": "Discard at least 2500 Cards",
+   "hidden": false,
+   "pct": 48.4
+  },
+  {
+   "api": "BAL_17",
+   "name": "1,000K",
+   "desc": "Score 1,000,000 Chips in a single hand",
+   "hidden": false,
+   "pct": 47.7
+  },
+  {
+   "api": "BAL_04",
+   "name": "Low Stakes",
+   "desc": "Win a run on at least Red Stake difficulty",
+   "hidden": false,
+   "pct": 43.6
+  },
+  {
+   "api": "BAL_21",
+   "name": "You Get What You Get",
+   "desc": "Win a run without rerolling the shop",
+   "hidden": false,
+   "pct": 33.3
+  },
+  {
+   "api": "BAL_05",
+   "name": "Mid Stakes",
+   "desc": "Win a run on at least Black Stake difficulty",
+   "hidden": false,
+   "pct": 30.2
+  },
+  {
+   "api": "BAL_27",
+   "name": "Clairvoyance",
+   "desc": "Discover every Spectral card",
+   "hidden": false,
+   "pct": 29.5
+  },
+  {
+   "api": "BAL_18",
+   "name": "100,000K",
+   "desc": "Score 100,000,000 Chips in a single hand",
+   "hidden": false,
+   "pct": 22.4
+  },
+  {
+   "api": "BAL_25",
+   "name": "Astronomy",
+   "desc": "Discover every Planet card",
+   "hidden": false,
+   "pct": 21.2
+  },
+  {
+   "api": "BAL_11",
+   "name": "Speedrunner",
+   "desc": "Win a run in 12 or fewer rounds",
+   "hidden": false,
+   "pct": 20.1
+  },
+  {
+   "api": "BAL_20",
+   "name": "Big Hands",
+   "desc": "Have 80 or more cards in your deck",
+   "hidden": false,
+   "pct": 19.7
+  },
+  {
+   "api": "BAL_13",
+   "name": "Shattered",
+   "desc": "Break 2 Glass Cards in a single hand",
+   "hidden": false,
+   "pct": 17.9
+  },
+  {
+   "api": "BAL_09",
+   "name": "Nest Egg",
+   "desc": "Have $400 or more during a single run",
+   "hidden": false,
+   "pct": 16.6
+  },
+  {
+   "api": "BAL_12",
+   "name": "ROI",
+   "desc": "Buy 5 Vouchers by the end of Ante 4",
+   "hidden": false,
+   "pct": 15.6
+  },
+  {
+   "api": "BAL_22",
+   "name": "Rule Bender",
+   "desc": "Complete any challenge run",
+   "hidden": false,
+   "pct": 14.0
+  },
+  {
+   "api": "BAL_06",
+   "name": "High Stakes",
+   "desc": "Win a run on at least Gold Stake difficulty",
+   "hidden": false,
+   "pct": 12.2
+  },
+  {
+   "api": "BAL_19",
+   "name": "Tiny Hands",
+   "desc": "Thin your deck down to 20 or fewer cards",
+   "hidden": false,
+   "pct": 6.9
+  },
+  {
+   "api": "BAL_28",
+   "name": "Extreme Couponer",
+   "desc": "Discover every Voucher",
+   "hidden": false,
+   "pct": 6.1
+  },
+  {
+   "api": "BAL_29",
+   "name": "Completionist",
+   "desc": "Discover 100% of your collection",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "BAL_10",
+   "name": "Flushed",
+   "desc": "Play a Flush with 5 Wild Cards",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "BAL_23",
+   "name": "Rule Breaker",
+   "desc": "Complete every challenge run",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "BAL_30",
+   "name": "Completionist+",
+   "desc": "Win with every deck on Gold Stake difficulty",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "BAL_31",
+   "name": "Completionist++",
+   "desc": "Earn a Gold Sticker on every Joker",
+   "hidden": false,
+   "pct": 0.9
+  }
+ ]
+}

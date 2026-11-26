@@ -1,0 +1,568 @@
+{
+ "appid": 2420110,
+ "game": "Horizon Forbidden West™ Complete Edition",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 80,
+ "achievements": [
+  {
+   "api": "Trophy004",
+   "name": "Reached the Daunt",
+   "desc": "",
+   "hidden": true,
+   "pct": 80.6
+  },
+  {
+   "api": "Trophy005",
+   "name": "Secured Passage to the Embassy",
+   "desc": "",
+   "hidden": true,
+   "pct": 74.7
+  },
+  {
+   "api": "Trophy045",
+   "name": "Stealth Killed 10 Machines",
+   "desc": "Performed a stealth kill on 10 machines.",
+   "hidden": false,
+   "pct": 74.2
+  },
+  {
+   "api": "Trophy006",
+   "name": "Attended the Embassy",
+   "desc": "",
+   "hidden": true,
+   "pct": 72.0
+  },
+  {
+   "api": "Trophy020",
+   "name": "First Tallneck Overridden",
+   "desc": "",
+   "hidden": true,
+   "pct": 66.9
+  },
+  {
+   "api": "Trophy007",
+   "name": "Established the Base",
+   "desc": "",
+   "hidden": true,
+   "pct": 62.3
+  },
+  {
+   "api": "Trophy046",
+   "name": "Tore off 100 Components",
+   "desc": "Detached 100 components from machines.",
+   "hidden": false,
+   "pct": 61.6
+  },
+  {
+   "api": "Trophy001",
+   "name": "Reached Level 20",
+   "desc": "Reached player level 20.",
+   "hidden": false,
+   "pct": 59.4
+  },
+  {
+   "api": "Trophy022",
+   "name": "First Rebel Camp Completed",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.9
+  },
+  {
+   "api": "Trophy051",
+   "name": "Upgraded 3 Weapons",
+   "desc": "Fully upgraded 3 weapons.",
+   "hidden": false,
+   "pct": 57.6
+  },
+  {
+   "api": "Trophy011",
+   "name": "Recovered Beta",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.9
+  },
+  {
+   "api": "Trophy024",
+   "name": "First Core Overridden",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.8
+  },
+  {
+   "api": "Trophy008",
+   "name": "Recovered AETHER",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.4
+  },
+  {
+   "api": "Trophy055",
+   "name": "Unlocked 3 Weapon Techniques",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.3
+  },
+  {
+   "api": "Trophy009",
+   "name": "Recovered POSEIDON",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.6
+  },
+  {
+   "api": "Trophy050",
+   "name": "Fully Upgraded a Valor Surge",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.3
+  },
+  {
+   "api": "Trophy002",
+   "name": "Reached Level 30",
+   "desc": "Reached player level 30.",
+   "hidden": false,
+   "pct": 51.8
+  },
+  {
+   "api": "Trophy029",
+   "name": "All Recon Machines Killed",
+   "desc": "Killed at least one of every type of Reconnaissance machine.",
+   "hidden": false,
+   "pct": 50.9
+  },
+  {
+   "api": "Trophy010",
+   "name": "Recovered DEMETER",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.9
+  },
+  {
+   "api": "Trophy043",
+   "name": "Used all Elemental States",
+   "desc": "Inflicted every elemental state on an enemy at least once.",
+   "hidden": false,
+   "pct": 49.9
+  },
+  {
+   "api": "Trophy031",
+   "name": "All Transport Machines Killed",
+   "desc": "Killed at least one of every type of Transport machine.",
+   "hidden": false,
+   "pct": 49.1
+  },
+  {
+   "api": "Trophy037",
+   "name": "Completed a Set of Salvage Contracts",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.1
+  },
+  {
+   "api": "Trophy016",
+   "name": "Saved the Daunt",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.9
+  },
+  {
+   "api": "Trophy054",
+   "name": "Enhanced Weapon with Coils",
+   "desc": "Equipped a weapon of any tier with 2 coils.",
+   "hidden": false,
+   "pct": 48.3
+  },
+  {
+   "api": "Trophy044",
+   "name": "Performed 3 Melee Combos",
+   "desc": "Successfully performed 3 different unlockable melee combos.",
+   "hidden": false,
+   "pct": 48.1
+  },
+  {
+   "api": "Trophy047",
+   "name": "Picked up 5 Heavy Weapons",
+   "desc": "Picked up 5 different heavy weapons.",
+   "hidden": false,
+   "pct": 46.7
+  },
+  {
+   "api": "Trophy012",
+   "name": "Discovered Faro's Fate",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.5
+  },
+  {
+   "api": "Trophy013",
+   "name": "Flew on the Wings of the Ten",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.1
+  },
+  {
+   "api": "Trophy038",
+   "name": "Completed 4 Rebel Outposts",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.7
+  },
+  {
+   "api": "Trophy039",
+   "name": "Completed 3 Relic Ruins",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.9
+  },
+  {
+   "api": "Trophy014",
+   "name": "Discovered Nemesis",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.3
+  },
+  {
+   "api": "Trophy057",
+   "name": "Recovered 5 Different Collectables",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.3
+  },
+  {
+   "api": "Trophy030",
+   "name": "All Combat Machines Killed",
+   "desc": "Killed at least one of every type of Combat machine.",
+   "hidden": false,
+   "pct": 38.5
+  },
+  {
+   "api": "Trophy018",
+   "name": "Healed the Land-gods",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.5
+  },
+  {
+   "api": "Trophy042",
+   "name": "Obtained All Weapon Classes",
+   "desc": "Obtained 1 weapon from every weapon class.",
+   "hidden": false,
+   "pct": 37.5
+  },
+  {
+   "api": "Trophy015",
+   "name": "Chose a Desert Commander",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.1
+  },
+  {
+   "api": "Trophy003",
+   "name": "Reached Level 50",
+   "desc": "Reached player level 50.",
+   "hidden": false,
+   "pct": 36.5
+  },
+  {
+   "api": "Trophy053",
+   "name": "Upgraded Every Pouch Type",
+   "desc": "Upgraded the Food Pouch, Potion Pouch, Resource Pouch, Trap Pouch, and any ammo pouch at least once.",
+   "hidden": false,
+   "pct": 36.5
+  },
+  {
+   "api": "Trophy017",
+   "name": "Aided Kotallo",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.8
+  },
+  {
+   "api": "Trophy028",
+   "name": "All Acquisition Machines Killed",
+   "desc": "Killed at least one of every type of Acquisition machine.",
+   "hidden": false,
+   "pct": 33.8
+  },
+  {
+   "api": "Trophy026",
+   "name": "Obtained 3 Stripes at a Hunting Ground",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.7
+  },
+  {
+   "api": "Trophy021",
+   "name": "All Tallnecks Overridden",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.5
+  },
+  {
+   "api": "Trophy056",
+   "name": "Skill Tree Learned",
+   "desc": "Learned all available skills on one tree.",
+   "hidden": false,
+   "pct": 32.7
+  },
+  {
+   "api": "Trophy052",
+   "name": "Upgraded 3 Outfits",
+   "desc": "Fully upgraded 3 different outfits.",
+   "hidden": false,
+   "pct": 31.4
+  },
+  {
+   "api": "Trophy019",
+   "name": "Recovered Alva's Data",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.1
+  },
+  {
+   "api": "Trophy063",
+   "name": "Discovered the Ascension",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.0
+  },
+  {
+   "api": "Trophy032",
+   "name": "Rode All Regular Mounts",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.9
+  },
+  {
+   "api": "Trophy025",
+   "name": "All Cores Overridden",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.8
+  },
+  {
+   "api": "Trophy077",
+   "name": "Used Grapple Strike on Machines",
+   "desc": "Used Grapple Strike on 5 unique machines.",
+   "hidden": false,
+   "pct": 28.0
+  },
+  {
+   "api": "Trophy068",
+   "name": "Reached Level 60",
+   "desc": "Reached player level 60.",
+   "hidden": false,
+   "pct": 27.7
+  },
+  {
+   "api": "Trophy064",
+   "name": "Confronted Londra",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.4
+  },
+  {
+   "api": "Trophy058",
+   "name": "Used Dye Flowers",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.8
+  },
+  {
+   "api": "Trophy040",
+   "name": "Completed Arena Challenge Set",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.5
+  },
+  {
+   "api": "Trophy066",
+   "name": "Defeated Londra and His Horus",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.2
+  },
+  {
+   "api": "Trophy023",
+   "name": "Defeated Asera",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.0
+  },
+  {
+   "api": "Trophy035",
+   "name": "Completed 2 Flying Mount Quests",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.4
+  },
+  {
+   "api": "Trophy070",
+   "name": "Equipped an Elite Coil or Weave",
+   "desc": "Equipped an elite coil on a weapon or an elite weave on an outfit.",
+   "hidden": false,
+   "pct": 24.7
+  },
+  {
+   "api": "Trophy034",
+   "name": "Completed a Long Glide",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.5
+  },
+  {
+   "api": "Trophy033",
+   "name": "All Machine Types Scanned",
+   "desc": "Encountered and Focus scanned every type of machine.",
+   "hidden": false,
+   "pct": 21.6
+  },
+  {
+   "api": "Trophy048",
+   "name": "10 Types of Machine Overridden",
+   "desc": "Unlocked and used the overrides for 10 different types of machine.",
+   "hidden": false,
+   "pct": 21.0
+  },
+  {
+   "api": "Trophy073",
+   "name": "All New Machines Scanned",
+   "desc": "Encountered and Focus scanned every new machine in the Burning Shores.",
+   "hidden": false,
+   "pct": 19.9
+  },
+  {
+   "api": "Trophy071",
+   "name": "Specter Gauntlet Upgraded",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.7
+  },
+  {
+   "api": "Trophy065",
+   "name": "Aided the Quen",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.1
+  },
+  {
+   "api": "Trophy036",
+   "name": "Won 2 Gauntlet Runs",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.5
+  },
+  {
+   "api": "Trophy049",
+   "name": "Defeated the Enduring",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.4
+  },
+  {
+   "api": "Trophy041",
+   "name": "Defeated Machine Strike Challengers",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.4
+  },
+  {
+   "api": "Trophy072",
+   "name": "Cauldron THETA Core Overridden",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.4
+  },
+  {
+   "api": "Trophy062",
+   "name": "All Quests Completed",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.6
+  },
+  {
+   "api": "Trophy069",
+   "name": "Used Brimshine",
+   "desc": "Used Brimshine to purchase 1 outfit and 1 weapon.",
+   "hidden": false,
+   "pct": 13.2
+  },
+  {
+   "api": "Trophy079",
+   "name": "Killed Bileguts and Stingspawn",
+   "desc": "Killed 5 Bileguts and 50 Stingspawn.",
+   "hidden": false,
+   "pct": 13.0
+  },
+  {
+   "api": "Trophy027",
+   "name": "Obtained 3 Stripes at All Hunting Grounds",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.8
+  },
+  {
+   "api": "Trophy074",
+   "name": "Completed the Dino Digits Quiz",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.8
+  },
+  {
+   "api": "Trophy067",
+   "name": "All New Skills Learned",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.9
+  },
+  {
+   "api": "Trophy076",
+   "name": "Recovered All Aerial Captures",
+   "desc": "Discovered and completed all Aerial Captures.",
+   "hidden": false,
+   "pct": 8.0
+  },
+  {
+   "api": "Trophy075",
+   "name": "Recovered the Delvers' Trove",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.3
+  },
+  {
+   "api": "Trophy000",
+   "name": "All Achievements Obtained",
+   "desc": "Obtained all Horizon Forbidden West Achievements.",
+   "hidden": false,
+   "pct": 4.8
+  },
+  {
+   "api": "Trophy078",
+   "name": "Killed Machines While Gliding",
+   "desc": "Killed 5 machines with the Specter Gauntlet while gliding.",
+   "hidden": false,
+   "pct": 4.8
+  },
+  {
+   "api": "Trophy059",
+   "name": "Completed New Game+",
+   "desc": "Completed a New Game+ playthrough on any difficulty.",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "Trophy060",
+   "name": "Completed Ultra Hard",
+   "desc": "Completed a new or New Game+ playthrough on Ultra Hard difficulty.",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "Trophy061",
+   "name": "Obtained All New Game+ Rewards",
+   "desc": "Obtained all New Game+ weapons, dyes, and face paints.",
+   "hidden": false,
+   "pct": 3.1
+  }
+ ]
+}

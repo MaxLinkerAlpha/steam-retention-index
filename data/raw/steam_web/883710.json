@@ -1,0 +1,361 @@
+{
+ "appid": 883710,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 44,
+ "achievements": [
+  {
+   "name": "Welcome to the City of the Dead",
+   "desc": "Make it to the police station.",
+   "hidden": true,
+   "pct": 94.9,
+   "api_name": "NEW_ACHIEVEMENT_1_1",
+   "internal_key": 256
+  },
+  {
+   "name": "Path to the Goddess",
+   "desc": "Solve the Goddess Statue puzzle.",
+   "hidden": true,
+   "pct": 73.4,
+   "api_name": "NEW_ACHIEVEMENT_1_2",
+   "internal_key": 257
+  },
+  {
+   "name": "Never-Ending Rain",
+   "desc": "Escape the police station.",
+   "hidden": true,
+   "pct": 61.8,
+   "api_name": "NEW_ACHIEVEMENT_1_3",
+   "internal_key": 259
+  },
+  {
+   "name": "Hack Complete",
+   "desc": "Complete Ada's segment.",
+   "hidden": true,
+   "pct": 56.5,
+   "api_name": "NEW_ACHIEVEMENT_1_4",
+   "internal_key": 260
+  },
+  {
+   "name": "Hide and Seek",
+   "desc": "Complete Sherry's segment.",
+   "hidden": true,
+   "pct": 39.1,
+   "api_name": "NEW_ACHIEVEMENT_1_5",
+   "internal_key": 261
+  },
+  {
+   "name": "A Great Need for a Shower",
+   "desc": "Escape from the sewers.",
+   "hidden": true,
+   "pct": 57.7,
+   "api_name": "NEW_ACHIEVEMENT_1_6",
+   "internal_key": 262
+  },
+  {
+   "name": "A Hero Emerges",
+   "desc": "Complete Leon's story.",
+   "hidden": false,
+   "pct": 52.0,
+   "api_name": "NEW_ACHIEVEMENT_1_7",
+   "internal_key": 263
+  },
+  {
+   "name": "A Heroine Emerges",
+   "desc": "Complete Claire's story.",
+   "hidden": false,
+   "pct": 36.2,
+   "api_name": "NEW_ACHIEVEMENT_1_8",
+   "internal_key": 264
+  },
+  {
+   "name": "Broken Umbrella",
+   "desc": "Witness the true ending.",
+   "hidden": true,
+   "pct": 28.1,
+   "api_name": "NEW_ACHIEVEMENT_1_9",
+   "internal_key": 265
+  },
+  {
+   "name": "The Basics of Survival",
+   "desc": "Combine two items together.",
+   "hidden": false,
+   "pct": 86.4,
+   "api_name": "NEW_ACHIEVEMENT_1_10",
+   "internal_key": 266
+  },
+  {
+   "name": "Hip to Add Squares",
+   "desc": "Increase your inventory slots.",
+   "hidden": false,
+   "pct": 83.1,
+   "api_name": "NEW_ACHIEVEMENT_1_11",
+   "internal_key": 267
+  },
+  {
+   "name": "Customizer",
+   "desc": "Customize a weapon.",
+   "hidden": false,
+   "pct": 80.4,
+   "api_name": "NEW_ACHIEVEMENT_1_12",
+   "internal_key": 268
+  },
+  {
+   "name": "Don't Need No Stinkin' Gun",
+   "desc": "Defeat an enemy with a knife.",
+   "hidden": false,
+   "pct": 61.4,
+   "api_name": "NEW_ACHIEVEMENT_1_13",
+   "internal_key": 269
+  },
+  {
+   "name": "Eat This!",
+   "desc": "Counterattack with a sub-weapon.",
+   "hidden": false,
+   "pct": 85.2,
+   "api_name": "NEW_ACHIEVEMENT_1_14",
+   "internal_key": 270
+  },
+  {
+   "name": "That'll Hold 'Em",
+   "desc": "Use Wooden Boards to board up a window.",
+   "hidden": false,
+   "pct": 83.0,
+   "api_name": "NEW_ACHIEVEMENT_1_15",
+   "internal_key": 271
+  },
+  {
+   "name": "Vermin Extermination",
+   "desc": "Destroy a Mr. Raccoon.",
+   "hidden": false,
+   "pct": 65.6,
+   "api_name": "NEW_ACHIEVEMENT_1_16",
+   "internal_key": 272
+  },
+  {
+   "name": "A Vault-like Mind",
+   "desc": "Open a portable safe.",
+   "hidden": false,
+   "pct": 78.7,
+   "api_name": "NEW_ACHIEVEMENT_1_17",
+   "internal_key": 273
+  },
+  {
+   "name": "First Break-In",
+   "desc": "Open a dial safe.",
+   "hidden": false,
+   "pct": 82.8,
+   "api_name": "NEW_ACHIEVEMENT_1_18",
+   "internal_key": 274
+  },
+  {
+   "name": "Bon Appétit",
+   "desc": "Shoot the grenade you fed to an enemy.",
+   "hidden": false,
+   "pct": 60.2,
+   "api_name": "NEW_ACHIEVEMENT_1_19",
+   "internal_key": 275
+  },
+  {
+   "name": "Zombie Roundup",
+   "desc": "Kill 3 enemies at once with a sub-weapon.",
+   "hidden": false,
+   "pct": 28.1,
+   "api_name": "NEW_ACHIEVEMENT_1_20",
+   "internal_key": 276
+  },
+  {
+   "name": "Like Skeet Shooting",
+   "desc": "Shoot a zombie dog or a licker out of the air.",
+   "hidden": false,
+   "pct": 55.4,
+   "api_name": "NEW_ACHIEVEMENT_1_21",
+   "internal_key": 277
+  },
+  {
+   "name": "Keep Their Heads Ringin'",
+   "desc": "Paralyze a licker's sense of hearing.",
+   "hidden": false,
+   "pct": 56.9,
+   "api_name": "NEW_ACHIEVEMENT_1_22",
+   "internal_key": 278
+  },
+  {
+   "name": "Hats Off!",
+   "desc": "Shoot Tyrant's hat off his head.",
+   "hidden": false,
+   "pct": 57.7,
+   "api_name": "NEW_ACHIEVEMENT_1_23",
+   "internal_key": 279
+  },
+  {
+   "name": "Gotcha!",
+   "desc": "Defeat Stage 2 G using the crane only once.",
+   "hidden": true,
+   "pct": 25.8,
+   "api_name": "NEW_ACHIEVEMENT_1_24",
+   "internal_key": 280
+  },
+  {
+   "name": "Treasure Hunter",
+   "desc": "Using the photo hints, find 2 hidden items.",
+   "hidden": false,
+   "pct": 21.8,
+   "api_name": "NEW_ACHIEVEMENT_1_25",
+   "internal_key": 281
+  },
+  {
+   "name": "A Waist of Space",
+   "desc": "Expand inventory slots to max.",
+   "hidden": false,
+   "pct": 40.7,
+   "api_name": "NEW_ACHIEVEMENT_1_26",
+   "internal_key": 282
+  },
+  {
+   "name": "One Slick Super-spy",
+   "desc": "Use only the EMF Visualizer to complete Ada's gameplay segment.",
+   "hidden": true,
+   "pct": 6.8,
+   "api_name": "NEW_ACHIEVEMENT_1_27",
+   "internal_key": 283
+  },
+  {
+   "name": "Young Escapee",
+   "desc": "Escape the bedroom within 60 seconds during Sherry's segment.",
+   "hidden": true,
+   "pct": 7.2,
+   "api_name": "NEW_ACHIEVEMENT_1_28",
+   "internal_key": 284
+  },
+  {
+   "name": "With Time to Spare",
+   "desc": "Defeat Stage 4 G with 4+ minutes left until detonation.",
+   "hidden": true,
+   "pct": 24.3,
+   "api_name": "NEW_ACHIEVEMENT_1_29",
+   "internal_key": 285
+  },
+  {
+   "name": "In the Blink of an Eye",
+   "desc": "Defeat Super Tyrant with 5+ minutes left until detonation.",
+   "hidden": true,
+   "pct": 30.8,
+   "api_name": "NEW_ACHIEVEMENT_1_30",
+   "internal_key": 286
+  },
+  {
+   "name": "Lore Explorer",
+   "desc": "Read all of the files.",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "NEW_ACHIEVEMENT_1_31",
+   "internal_key": 287
+  },
+  {
+   "name": "Complete Vermin Extermination",
+   "desc": "Destroy all Mr. Raccoons.",
+   "hidden": false,
+   "pct": 6.7,
+   "api_name": "NEW_ACHIEVEMENT_1_32",
+   "internal_key": 512
+  },
+  {
+   "name": "Master of Unlocking",
+   "desc": "Open all of the safes and locks in the game.",
+   "hidden": false,
+   "pct": 39.1,
+   "api_name": "NEW_ACHIEVEMENT_1_33",
+   "internal_key": 513
+  },
+  {
+   "name": "Leon \"S.\" Kennedy",
+   "desc": "Complete Leon's story on \"Standard\" or \"Hardcore\" with an S rank.",
+   "hidden": true,
+   "pct": 10.0,
+   "api_name": "NEW_ACHIEVEMENT_1_34",
+   "internal_key": 514
+  },
+  {
+   "name": "Sizzling Scarlet Hero",
+   "desc": "Complete Claire's story on \"Standard\" or \"Hardcore\" with an S rank.",
+   "hidden": true,
+   "pct": 9.7,
+   "api_name": "NEW_ACHIEVEMENT_1_35",
+   "internal_key": 515
+  },
+  {
+   "name": "Hardcore Rookie",
+   "desc": "Complete Leon's story on \"Hardcore\" game mode.",
+   "hidden": false,
+   "pct": 10.3,
+   "api_name": "NEW_ACHIEVEMENT_1_36",
+   "internal_key": 516
+  },
+  {
+   "name": "Hardcore College Student",
+   "desc": "Complete Claire's story on \"Hardcore\" game mode.",
+   "hidden": false,
+   "pct": 9.5,
+   "api_name": "NEW_ACHIEVEMENT_1_37",
+   "internal_key": 517
+  },
+  {
+   "name": "Frugalist",
+   "desc": "Complete the game without using a recovery item.",
+   "hidden": false,
+   "pct": 9.6,
+   "api_name": "NEW_ACHIEVEMENT_1_38",
+   "internal_key": 518
+  },
+  {
+   "name": "Minimalist",
+   "desc": "Clear the game without opening the item box.",
+   "hidden": false,
+   "pct": 6.5,
+   "api_name": "NEW_ACHIEVEMENT_1_39",
+   "internal_key": 519
+  },
+  {
+   "name": "A Small Carbon Footprint",
+   "desc": "Take 14000 steps or fewer in one playthrough.",
+   "hidden": false,
+   "pct": 7.8,
+   "api_name": "NEW_ACHIEVEMENT_1_40",
+   "internal_key": 520
+  },
+  {
+   "name": "Grim Reaper",
+   "desc": "Complete \"The 4th Survivor\" extra mode.",
+   "hidden": true,
+   "pct": 9.5,
+   "api_name": "NEW_ACHIEVEMENT_1_41",
+   "internal_key": 521
+  },
+  {
+   "name": "Hell of a Sheriff",
+   "desc": "Complete the No Way Out scenario. (No training mode)",
+   "hidden": true,
+   "pct": 6.7,
+   "api_name": "NEW_ACHIEVEMENT_1_42",
+   "internal_key": 522
+  },
+  {
+   "name": "Got 'Em",
+   "desc": "Destroy all Mr. Raccoons hidden in The Ghost Survivors mode.",
+   "hidden": false,
+   "pct": 4.1,
+   "api_name": "NEW_ACHIEVEMENT_1_43",
+   "internal_key": 523
+  },
+  {
+   "name": "Chasing Jill",
+   "desc": "Read a letter left behind by Jill.",
+   "hidden": false,
+   "pct": 51.0,
+   "api_name": "NEW_ACHIEVEMENT_1_44",
+   "internal_key": 524
+  }
+ ]
+}

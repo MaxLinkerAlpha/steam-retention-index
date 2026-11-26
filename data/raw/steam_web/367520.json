@@ -1,0 +1,513 @@
+{
+ "appid": 367520,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 63,
+ "achievements": [
+  {
+   "name": "Charmed",
+   "desc": "Acquire your first Charm",
+   "hidden": false,
+   "pct": 76.7,
+   "api_name": "CHARMED",
+   "internal_key": 769
+  },
+  {
+   "name": "Enchanted",
+   "desc": "Acquire half of Hallownest's Charms",
+   "hidden": false,
+   "pct": 39.9,
+   "api_name": "ENCHANTED",
+   "internal_key": 770
+  },
+  {
+   "name": "Blessed",
+   "desc": "Acquire all Charms and receive Salubra's blessing",
+   "hidden": false,
+   "pct": 20.3,
+   "api_name": "BLESSED",
+   "internal_key": 771
+  },
+  {
+   "name": "Protected",
+   "desc": "Acquire 4 Mask Shards",
+   "hidden": false,
+   "pct": 47.7,
+   "api_name": "PROTECTED",
+   "internal_key": 772
+  },
+  {
+   "name": "Masked",
+   "desc": "Acquire all Mask Shards",
+   "hidden": false,
+   "pct": 20.4,
+   "api_name": "MASKED",
+   "internal_key": 773
+  },
+  {
+   "name": "Soulful",
+   "desc": "Acquire 3 Vessel Fragments",
+   "hidden": false,
+   "pct": 43.7,
+   "api_name": "SOULFUL",
+   "internal_key": 774
+  },
+  {
+   "name": "Worldsoul",
+   "desc": "Acquire all Vessel Fragments",
+   "hidden": false,
+   "pct": 25.5,
+   "api_name": "WORLDSOUL",
+   "internal_key": 775
+  },
+  {
+   "name": "Falsehood",
+   "desc": "Defeat the False Knight",
+   "hidden": false,
+   "pct": 71.3,
+   "api_name": "FK_DEFEAT",
+   "internal_key": 776
+  },
+  {
+   "name": "Strength",
+   "desc": "Defeat the Failed Champion",
+   "hidden": true,
+   "pct": 26.6,
+   "api_name": "DREAM_FK",
+   "internal_key": 777
+  },
+  {
+   "name": "Test of Resolve",
+   "desc": "Defeat Hornet in Greenpath",
+   "hidden": false,
+   "pct": 62.7,
+   "api_name": "HORNET_1",
+   "internal_key": 778
+  },
+  {
+   "name": "Proof of Resolve",
+   "desc": "Defeat Hornet in Kingdom's Edge",
+   "hidden": true,
+   "pct": 38.7,
+   "api_name": "HORNET_2",
+   "internal_key": 779
+  },
+  {
+   "name": "Illumination",
+   "desc": "Defeat the Soul Master",
+   "hidden": false,
+   "pct": 47.0,
+   "api_name": "SOUL_MASTER_DEFEAT",
+   "internal_key": 780
+  },
+  {
+   "name": "Release",
+   "desc": "Defeat the Broken Vessel",
+   "hidden": false,
+   "pct": 41.9,
+   "api_name": "BROKEN_VESSEL",
+   "internal_key": 781
+  },
+  {
+   "name": "Peace",
+   "desc": "Defeat the Lost Kin",
+   "hidden": true,
+   "pct": 30.7,
+   "api_name": "DREAM_BROKEN_VESSEL",
+   "internal_key": 782
+  },
+  {
+   "name": "Honour",
+   "desc": "Defeat the Dung Defender",
+   "hidden": false,
+   "pct": 42.7,
+   "api_name": "DUNG_DEFENDER",
+   "internal_key": 783
+  },
+  {
+   "name": "Respect",
+   "desc": "Defeat the Mantis Lords",
+   "hidden": false,
+   "pct": 46.6,
+   "api_name": "MANTIS_LORDS",
+   "internal_key": 784
+  },
+  {
+   "name": "Obsession",
+   "desc": "Defeat the Collector",
+   "hidden": true,
+   "pct": 31.1,
+   "api_name": "COLLECTOR",
+   "internal_key": 785
+  },
+  {
+   "name": "Rivalry",
+   "desc": "Defeat Zote in the Colosseum of Fools",
+   "hidden": true,
+   "pct": 28.8,
+   "api_name": "ZOTE",
+   "internal_key": 786
+  },
+  {
+   "name": "Attunement",
+   "desc": "Collect 600 Essence",
+   "hidden": false,
+   "pct": 38.1,
+   "api_name": "ATTUNEMENT",
+   "internal_key": 787
+  },
+  {
+   "name": "Awakening",
+   "desc": "Collect 1800 Essence and awaken the Dream Nail",
+   "hidden": false,
+   "pct": 30.3,
+   "api_name": "AWAKENING",
+   "internal_key": 788
+  },
+  {
+   "name": "Ascension",
+   "desc": "Collect 2400 Essence and hear the Seer's final words",
+   "hidden": false,
+   "pct": 20.3,
+   "api_name": "ASCENSION",
+   "internal_key": 789
+  },
+  {
+   "name": "Grubfriend",
+   "desc": "Rescue half of the imprisoned grubs",
+   "hidden": false,
+   "pct": 38.4,
+   "api_name": "GRUBFRIEND",
+   "internal_key": 790
+  },
+  {
+   "name": "Metamorphosis",
+   "desc": "Rescue all of the imprisoned grubs",
+   "hidden": false,
+   "pct": 26.1,
+   "api_name": "METAMORPHOSIS",
+   "internal_key": 791
+  },
+  {
+   "name": "Neglect",
+   "desc": "Leave Zote to die",
+   "hidden": false,
+   "pct": 7.8,
+   "api_name": "NEGLECT",
+   "internal_key": 792
+  },
+  {
+   "name": "Purity",
+   "desc": "Slay the Nailsmith with the Pure Nail",
+   "hidden": true,
+   "pct": 18.6,
+   "api_name": "NAILSMITH_KILL",
+   "internal_key": 793
+  },
+  {
+   "name": "Happy Couple",
+   "desc": "Allow the Nailsmith to find a new calling",
+   "hidden": true,
+   "pct": 10.2,
+   "api_name": "NAILSMITH_SPARE",
+   "internal_key": 794
+  },
+  {
+   "name": "Witness",
+   "desc": "Spend a final moment with Quirrel",
+   "hidden": true,
+   "pct": 25.0,
+   "api_name": "QUIRREL_EPILOGUE",
+   "internal_key": 795
+  },
+  {
+   "name": "Solace",
+   "desc": "Bring peace to the Grey Mourner",
+   "hidden": false,
+   "pct": 21.2,
+   "api_name": "MOURNER",
+   "internal_key": 796
+  },
+  {
+   "name": "Execution",
+   "desc": "Defeat the Traitor Lord",
+   "hidden": false,
+   "pct": 33.4,
+   "api_name": "TRAITOR_LORD",
+   "internal_key": 797
+  },
+  {
+   "name": "Connection",
+   "desc": "Open half of Hallownest's Stag Stations",
+   "hidden": false,
+   "pct": 49.1,
+   "api_name": "STAG_STATION_HALF",
+   "internal_key": 798
+  },
+  {
+   "name": "Hope",
+   "desc": "Open all of Hallownest's Stag Stations and discover the Stag Nest",
+   "hidden": false,
+   "pct": 33.1,
+   "api_name": "STAG_STATION_ALL",
+   "internal_key": 799
+  },
+  {
+   "name": "Teacher",
+   "desc": "Destroy Monomon the Teacher",
+   "hidden": false,
+   "pct": 37.8,
+   "api_name": "TEACHER",
+   "internal_key": 1536
+  },
+  {
+   "name": "Watcher",
+   "desc": "Destroy Lurien the Watcher",
+   "hidden": false,
+   "pct": 37.6,
+   "api_name": "WATCHER",
+   "internal_key": 1537
+  },
+  {
+   "name": "Beast",
+   "desc": "Destroy Herrah the Beast",
+   "hidden": false,
+   "pct": 38.8,
+   "api_name": "BEAST",
+   "internal_key": 1538
+  },
+  {
+   "name": "Cartographer",
+   "desc": "Acquire a map of each area",
+   "hidden": false,
+   "pct": 36.5,
+   "api_name": "MAP",
+   "internal_key": 1539
+  },
+  {
+   "name": "Warrior",
+   "desc": "Complete the Trial of the Warrior",
+   "hidden": false,
+   "pct": 37.6,
+   "api_name": "COLOSSEUM_1",
+   "internal_key": 1540
+  },
+  {
+   "name": "Conqueror",
+   "desc": "Complete the Trial of the Conqueror",
+   "hidden": false,
+   "pct": 34.5,
+   "api_name": "COLOSSEUM_2",
+   "internal_key": 1541
+  },
+  {
+   "name": "Fool",
+   "desc": "Complete the Trial of the Fool",
+   "hidden": false,
+   "pct": 20.6,
+   "api_name": "COLOSSEUM_3",
+   "internal_key": 1542
+  },
+  {
+   "name": "The Hollow Knight",
+   "desc": "Defeat the Hollow Knight and become the Vessel",
+   "hidden": true,
+   "pct": 24.6,
+   "api_name": "ENDING_A",
+   "internal_key": 1543
+  },
+  {
+   "name": "Sealed Siblings",
+   "desc": "Defeat the Hollow Knight with Hornet by your side",
+   "hidden": true,
+   "pct": 19.0,
+   "api_name": "ENDING_B",
+   "internal_key": 1544
+  },
+  {
+   "name": "Dream No More",
+   "desc": "Defeat the Radiance and consume the light",
+   "hidden": true,
+   "pct": 20.5,
+   "api_name": "ENDING_C",
+   "internal_key": 1545
+  },
+  {
+   "name": "Void",
+   "desc": "Remember the past and unite the Abyss",
+   "hidden": true,
+   "pct": 26.1,
+   "api_name": "VOID",
+   "internal_key": 1546
+  },
+  {
+   "name": "Speedrun 1",
+   "desc": "Complete the game in under 10 hours",
+   "hidden": false,
+   "pct": 6.6,
+   "api_name": "SPEEDRUN_1",
+   "internal_key": 1547
+  },
+  {
+   "name": "Speedrun 2",
+   "desc": "Complete the game in under 5 hours",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "SPEEDRUN_2",
+   "internal_key": 1548
+  },
+  {
+   "name": "Completion",
+   "desc": "Achieve 100% game completion and finish the game",
+   "hidden": false,
+   "pct": 19.2,
+   "api_name": "COMPLETION",
+   "internal_key": 1549
+  },
+  {
+   "name": "Speed Completion",
+   "desc": "Achieve 100% game completion and finish the game in under 20 hours",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "SPEED_COMPLETION",
+   "internal_key": 1550
+  },
+  {
+   "name": "Steel Soul",
+   "desc": "Finish the game in Steel Soul mode",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "STEELSOUL",
+   "internal_key": 1551
+  },
+  {
+   "name": "Steel Heart",
+   "desc": "Achieve 100% game completion and finish the game in Steel Soul mode",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "STEELSOUL_COMPLETION",
+   "internal_key": 1552
+  },
+  {
+   "name": "Keen Hunter",
+   "desc": "Record all of Hallownest's creatures in the Hunter's Journal",
+   "hidden": false,
+   "pct": 7.8,
+   "api_name": "HUNTER_1",
+   "internal_key": 1553
+  },
+  {
+   "name": "True Hunter",
+   "desc": "Receive the Hunter's Mark",
+   "hidden": false,
+   "pct": 7.2,
+   "api_name": "HUNTER_2",
+   "internal_key": 1554
+  },
+  {
+   "name": "Passing of the Age",
+   "desc": "Aid the Herald in moving on",
+   "hidden": true,
+   "pct": 7.0,
+   "api_name": "MR_MUSHROOM",
+   "internal_key": 1555
+  },
+  {
+   "name": "Mortality",
+   "desc": "Defeat the Soul Tyrant",
+   "hidden": true,
+   "pct": 24.2,
+   "api_name": "DREAM_SOUL_MASTER_DEFEAT",
+   "internal_key": 1556
+  },
+  {
+   "name": "Memory",
+   "desc": "Defeat White Defender",
+   "hidden": true,
+   "pct": 18.9,
+   "api_name": "WHITE_DEFENDER",
+   "internal_key": 1558
+  },
+  {
+   "name": "Dark Romance",
+   "desc": "Defeat Grey Prince Zote",
+   "hidden": true,
+   "pct": 21.6,
+   "api_name": "GREY_PRINCE",
+   "internal_key": 1559
+  },
+  {
+   "name": "Grand Performance",
+   "desc": "Defeat Troupe Leader Grimm",
+   "hidden": true,
+   "pct": 26.9,
+   "api_name": "GRIMM",
+   "internal_key": 1560
+  },
+  {
+   "name": "Ritual",
+   "desc": "Defeat the Nightmare King and complete the Ritual",
+   "hidden": true,
+   "pct": 16.3,
+   "api_name": "NIGHTMARE_GRIMM",
+   "internal_key": 1561
+  },
+  {
+   "name": "Banishment",
+   "desc": "Banish the Grimm Troupe from Hallownest",
+   "hidden": true,
+   "pct": 8.2,
+   "api_name": "BANISHMENT",
+   "internal_key": 1562
+  },
+  {
+   "name": "Brotherhood",
+   "desc": "Complete the Pantheon of the Master",
+   "hidden": true,
+   "pct": 17.5,
+   "api_name": "PANTHEON1",
+   "internal_key": 1563
+  },
+  {
+   "name": "Inspiration",
+   "desc": "Complete the Pantheon of the Painter",
+   "hidden": true,
+   "pct": 16.5,
+   "api_name": "PANTHEON2",
+   "internal_key": 1564
+  },
+  {
+   "name": "Focus",
+   "desc": "Complete the Pantheon of the Sage",
+   "hidden": true,
+   "pct": 12.4,
+   "api_name": "PANTHEON3",
+   "internal_key": 1565
+  },
+  {
+   "name": "Soul & Shade",
+   "desc": "Complete the Pantheon of the Knight",
+   "hidden": true,
+   "pct": 10.0,
+   "api_name": "PANTHEON4",
+   "internal_key": 1566
+  },
+  {
+   "name": "Embrace the Void",
+   "desc": "Ascend the Pantheon of Hallownest and take your place at its peak",
+   "hidden": true,
+   "pct": 5.4,
+   "api_name": "ENDINGD",
+   "internal_key": 1567
+  },
+  {
+   "name": "Pure Completion",
+   "desc": "Achieve 112% game completion and finish the game.",
+   "hidden": false,
+   "pct": 7.1,
+   "api_name": "COMPLETIONGG",
+   "internal_key": 1792
+  }
+ ]
+}

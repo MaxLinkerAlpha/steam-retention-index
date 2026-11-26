@@ -1,0 +1,265 @@
+{
+ "appid": 504230,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 32,
+ "achievements": [
+  {
+   "name": "Celeste",
+   "desc": "Climb Celeste Mountain",
+   "hidden": false,
+   "pct": 34.6,
+   "api_name": "CH7",
+   "internal_key": 256
+  },
+  {
+   "name": "Forsaken",
+   "desc": "Complete Chapter 1",
+   "hidden": true,
+   "pct": 70.8,
+   "api_name": "CH1",
+   "internal_key": 257
+  },
+  {
+   "name": "Archaeology",
+   "desc": "Complete Chapter 2",
+   "hidden": true,
+   "pct": 61.7,
+   "api_name": "CH2",
+   "internal_key": 258
+  },
+  {
+   "name": "Checking Out",
+   "desc": "Complete Chapter 3",
+   "hidden": true,
+   "pct": 50.5,
+   "api_name": "CH3",
+   "internal_key": 259
+  },
+  {
+   "name": "Breathe",
+   "desc": "Complete Chapter 4",
+   "hidden": true,
+   "pct": 43.1,
+   "api_name": "CH4",
+   "internal_key": 260
+  },
+  {
+   "name": "In the Mirror",
+   "desc": "Complete Chapter 5",
+   "hidden": true,
+   "pct": 38.5,
+   "api_name": "CH5",
+   "internal_key": 261
+  },
+  {
+   "name": "Reflection",
+   "desc": "Complete Chapter 6",
+   "hidden": true,
+   "pct": 36.7,
+   "api_name": "CH6",
+   "internal_key": 262
+  },
+  {
+   "name": "Strawberry Badge",
+   "desc": "Collect 30 Strawberries",
+   "hidden": true,
+   "pct": 47.8,
+   "api_name": "STRB1",
+   "internal_key": 263
+  },
+  {
+   "name": "Strawberry Medal",
+   "desc": "Collect 80 Strawberries",
+   "hidden": true,
+   "pct": 27.9,
+   "api_name": "STRB2",
+   "internal_key": 264
+  },
+  {
+   "name": "Impress Your Friends",
+   "desc": "Collect 175 Strawberries",
+   "hidden": true,
+   "pct": 10.5,
+   "api_name": "STRB3",
+   "internal_key": 265
+  },
+  {
+   "name": "Gateway",
+   "desc": "Collect a Cassette",
+   "hidden": true,
+   "pct": 62.2,
+   "api_name": "CASS",
+   "internal_key": 266
+  },
+  {
+   "name": "1UP!",
+   "desc": "Get a 1UP",
+   "hidden": false,
+   "pct": 8.3,
+   "api_name": "ONEUP",
+   "internal_key": 267
+  },
+  {
+   "name": "Real Gamer",
+   "desc": "Complete Celeste for PICO-8",
+   "hidden": true,
+   "pct": 17.8,
+   "api_name": "PICO8",
+   "internal_key": 268
+  },
+  {
+   "name": "Pointless Machines",
+   "desc": "Collect the Crystal Heart in Chapter 1",
+   "hidden": true,
+   "pct": 28.4,
+   "api_name": "HEART1",
+   "internal_key": 269
+  },
+  {
+   "name": "Sever the Skyline",
+   "desc": "Complete Chapter 1 B-Side",
+   "hidden": true,
+   "pct": 22.6,
+   "api_name": "BSIDE1",
+   "internal_key": 270
+  },
+  {
+   "name": "Resurrections",
+   "desc": "Collect the Crystal Heart in Chapter 2",
+   "hidden": true,
+   "pct": 26.8,
+   "api_name": "HEART2",
+   "internal_key": 271
+  },
+  {
+   "name": "Black Moonrise",
+   "desc": "Complete Chapter 2 B-Side",
+   "hidden": true,
+   "pct": 23.2,
+   "api_name": "BSIDE2",
+   "internal_key": 272
+  },
+  {
+   "name": "Scattered and Lost",
+   "desc": "Collect the Crystal Heart in Chapter 3",
+   "hidden": true,
+   "pct": 23.5,
+   "api_name": "HEART3",
+   "internal_key": 273
+  },
+  {
+   "name": "Good Karma",
+   "desc": "Complete Chapter 3 B-Side",
+   "hidden": true,
+   "pct": 18.4,
+   "api_name": "BSIDE3",
+   "internal_key": 274
+  },
+  {
+   "name": "Eye of the Storm",
+   "desc": "Collect the Crystal Heart in Chapter 4",
+   "hidden": true,
+   "pct": 24.2,
+   "api_name": "HEART4",
+   "internal_key": 275
+  },
+  {
+   "name": "Golden Feather",
+   "desc": "Complete Chapter 4 B-Side",
+   "hidden": true,
+   "pct": 16.2,
+   "api_name": "BSIDE4",
+   "internal_key": 276
+  },
+  {
+   "name": "Quiet and Falling",
+   "desc": "Collect the Crystal Heart in Chapter 5",
+   "hidden": true,
+   "pct": 18.2,
+   "api_name": "HEART5",
+   "internal_key": 277
+  },
+  {
+   "name": "Mirror Magic",
+   "desc": "Complete Chapter 5 B-Side",
+   "hidden": true,
+   "pct": 15.4,
+   "api_name": "BSIDE5",
+   "internal_key": 278
+  },
+  {
+   "name": "Heavy and Frail",
+   "desc": "Collect the Crystal Heart in Chapter 6",
+   "hidden": true,
+   "pct": 19.3,
+   "api_name": "HEART6",
+   "internal_key": 279
+  },
+  {
+   "name": "Center of the Earth",
+   "desc": "Complete Chapter 6 B-Side",
+   "hidden": true,
+   "pct": 14.3,
+   "api_name": "BSIDE6",
+   "internal_key": 280
+  },
+  {
+   "name": "Pink Sunrise",
+   "desc": "Collect the Crystal Heart in Chapter 7",
+   "hidden": true,
+   "pct": 15.8,
+   "api_name": "HEART7",
+   "internal_key": 281
+  },
+  {
+   "name": "No More Running",
+   "desc": "Complete Chapter 7 B-Side",
+   "hidden": true,
+   "pct": 13.8,
+   "api_name": "BSIDE7",
+   "internal_key": 282
+  },
+  {
+   "name": "Heart of the Mountain",
+   "desc": "Collect the Crystal Heart in Chapter 8",
+   "hidden": true,
+   "pct": 19.2,
+   "api_name": "HEART8",
+   "internal_key": 283
+  },
+  {
+   "name": "Say Goodbye",
+   "desc": "Complete Chapter 8 B-Side",
+   "hidden": true,
+   "pct": 11.5,
+   "api_name": "BSIDE8",
+   "internal_key": 284
+  },
+  {
+   "name": "Thanks For Playing",
+   "desc": "Complete all C-Sides",
+   "hidden": true,
+   "pct": 8.3,
+   "api_name": "CSIDES",
+   "internal_key": 285
+  },
+  {
+   "name": "Farewell",
+   "desc": "Complete Chapter 9",
+   "hidden": true,
+   "pct": 8.9,
+   "api_name": "FAREWELL",
+   "internal_key": 286
+  },
+  {
+   "name": "Wow",
+   "desc": "Find the moon berry",
+   "hidden": true,
+   "pct": 6.7,
+   "api_name": "WOW",
+   "internal_key": 287
+  }
+ ]
+}

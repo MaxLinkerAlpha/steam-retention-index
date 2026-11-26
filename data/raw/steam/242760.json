@@ -1,0 +1,323 @@
+{
+ "appid": 242760,
+ "game": "The Forest",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 45,
+ "achievements": [
+  {
+   "api": "ACH_DAYS_SURVIVED_1",
+   "name": "First Night",
+   "desc": "Survive 1 night",
+   "hidden": false,
+   "pct": 83.7
+  },
+  {
+   "api": "ACH_GROUP_SLEEP",
+   "name": "Camp Out",
+   "desc": "Sleep with another player (group sleep)",
+   "hidden": false,
+   "pct": 72.2
+  },
+  {
+   "api": "ACH_FIRST_RESPONDER",
+   "name": "First Responder",
+   "desc": "Revive one co-op player",
+   "hidden": false,
+   "pct": 57.1
+  },
+  {
+   "api": "ACH_DAYS_SURVIVED_5",
+   "name": "Survivalist",
+   "desc": "Survive 5 nights",
+   "hidden": false,
+   "pct": 54.9
+  },
+  {
+   "api": "ACH_CHOP_TREES_100",
+   "name": "Climate Change",
+   "desc": "Cut down 100 trees",
+   "hidden": false,
+   "pct": 43.8
+  },
+  {
+   "api": "ACH_KILL_BUNNY",
+   "name": "Monster",
+   "desc": "Kill a bunny. Alone in Single Player or together in Multiplayer.",
+   "hidden": false,
+   "pct": 41.0
+  },
+  {
+   "api": "ACH_MINOR_CANNIBALISM",
+   "name": "Minor Cannibalism",
+   "desc": "Eat an enemy",
+   "hidden": false,
+   "pct": 39.2
+  },
+  {
+   "api": "ACH_BE_NICE",
+   "name": "Be Nice",
+   "desc": "Share a food or drink item in MP",
+   "hidden": false,
+   "pct": 37.5
+  },
+  {
+   "api": "ACH_SHOOT_BIRDS",
+   "name": "Birdseye",
+   "desc": "Kill bird with arrow",
+   "hidden": false,
+   "pct": 36.9
+  },
+  {
+   "api": "ACH_STEALTH_ARMOR",
+   "name": "Unseen",
+   "desc": "Make and wear stealth armour",
+   "hidden": false,
+   "pct": 36.0
+  },
+  {
+   "api": "ACH_BOY_SCOOT",
+   "name": "Boy Scout",
+   "desc": "Use the compass",
+   "hidden": false,
+   "pct": 33.3
+  },
+  {
+   "api": "ACH_5_STAR_HOTEL",
+   "name": "5 Star Hotel",
+   "desc": "Sleep on yacht",
+   "hidden": false,
+   "pct": 27.5
+  },
+  {
+   "api": "ACH_KILL_CANNIBALS",
+   "name": "Serial Killer",
+   "desc": "In Single Player, kill 100 cannibals",
+   "hidden": false,
+   "pct": 24.4
+  },
+  {
+   "api": "ACH_USED_BOMBS",
+   "name": "Demolition Man ",
+   "desc": "Set off 20 bombs",
+   "hidden": false,
+   "pct": 21.2
+  },
+  {
+   "api": "ACH_DAYS_WITHOUT_KILLS",
+   "name": "Pacifist",
+   "desc": "In Single Player, don't kill any cannibals for more than 10 days in a row",
+   "hidden": false,
+   "pct": 21.2
+  },
+  {
+   "api": "ACH_MEDIC",
+   "name": "Medic",
+   "desc": "Revive 10 co-op players",
+   "hidden": false,
+   "pct": 20.1
+  },
+  {
+   "api": "ACH_VENDING_MACHINES",
+   "name": "Big Spender",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.4
+  },
+  {
+   "api": "ACH_CHOP_BODIES",
+   "name": "Choppy Chop",
+   "desc": "Chop up 50 bodies",
+   "hidden": false,
+   "pct": 19.0
+  },
+  {
+   "api": "ACH_DRINK_COFFEE",
+   "name": "Daily Grind",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.0
+  },
+  {
+   "api": "ACH_SURVIVE_THE_FOREST",
+   "name": "Survive The Forest",
+   "desc": "Finish Game",
+   "hidden": false,
+   "pct": 17.7
+  },
+  {
+   "api": "ACH_COLLECT_CASSETTES",
+   "name": "Gabe Fan",
+   "desc": "Collect all cassette tapes!",
+   "hidden": false,
+   "pct": 16.4
+  },
+  {
+   "api": "ACH_BE_EXTREMELY_NICE",
+   "name": "Be Extremely Nice",
+   "desc": "Share a weapon in MP",
+   "hidden": false,
+   "pct": 16.2
+  },
+  {
+   "api": "ACH_BUILD_GAZEBO",
+   "name": "You should be looking for Timmy",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.0
+  },
+  {
+   "api": "ACH_TREES_DYNAMITED",
+   "name": "Demolition Expert",
+   "desc": "Knock down 6 or more trees with 1 explosive. Alone in Single Player or together in Multiplayer.",
+   "hidden": false,
+   "pct": 14.5
+  },
+  {
+   "api": "ACH_SPRINKLERS",
+   "name": "Make It Rain",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.3
+  },
+  {
+   "api": "ACH_GARDENER",
+   "name": "Green Thumb",
+   "desc": "Grow all plant types",
+   "hidden": false,
+   "pct": 12.1
+  },
+  {
+   "api": "ACH_MAJOR_CANNIBALISM",
+   "name": "Major Cannibalism",
+   "desc": "Eat an entire family",
+   "hidden": false,
+   "pct": 12.0
+  },
+  {
+   "api": "ACH_NATUROPATH",
+   "name": "Naturopath",
+   "desc": "Craft 10 medicine items",
+   "hidden": false,
+   "pct": 9.7
+  },
+  {
+   "api": "ACH_REPAIR_SHELTER",
+   "name": "Handyman",
+   "desc": "Repair a shelter",
+   "hidden": false,
+   "pct": 9.3
+  },
+  {
+   "api": "ACH_LONG_WALL",
+   "name": "Longest Wall",
+   "desc": "Build a super long wall",
+   "hidden": false,
+   "pct": 6.4
+  },
+  {
+   "api": "ACH_FISH_DYNAMITED",
+   "name": "Commercial Fisherman",
+   "desc": "Kill 6 or more fish with a stick of dynamite. Alone in Single Player or together in Multiplayer.",
+   "hidden": false,
+   "pct": 6.1
+  },
+  {
+   "api": "ACH_COLLECT_ROBOT",
+   "name": "Good Father",
+   "desc": "Collect all robot pieces ",
+   "hidden": false,
+   "pct": 5.0
+  },
+  {
+   "api": "ACH_GROSS_DRINK",
+   "name": "Gross!",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.2
+  },
+  {
+   "api": "ACH_KILL_SHARK",
+   "name": "Bite me!",
+   "desc": "Kill shark. Alone in Single Player or together in Multiplayer.",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "ACH_KILL_DOWNED_ENEMY",
+   "name": "Splatter",
+   "desc": "Killed downed enemy with rock",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "ACH_CHOP_TREES_1000",
+   "name": "Don't Save The Forest",
+   "desc": "Cut down 1000 trees",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "ACH_EAT_ALL_MUSHROOMS",
+   "name": "You are a fun guy",
+   "desc": "Eat all mushroom types",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "ACH_VEGAN",
+   "name": "Vegan",
+   "desc": "Play through entire game without killing or eating animals. Alone in Single Player or together in Multiplayer.",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "ACH_CRAFTY",
+   "name": "Crafty",
+   "desc": "Craft all items",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "ACH_MARATHON_STEPS",
+   "name": "Step Master",
+   "desc": "Pass 50,000 steps",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "ACH_SPELUNKER",
+   "name": "Spelunker",
+   "desc": "Explore all caves",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "ACH_TRAP_FISH",
+   "name": "Fisherman",
+   "desc": "Catch fish with a trap. Alone in Single Player or together in Multiplayer.",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "ACH_BAD_FATHER",
+   "name": "Bad father",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.7
+  },
+  {
+   "api": "ACH_TROPHY_HUNTER",
+   "name": "Trophy Hunter",
+   "desc": "Kill all animal types and display heads",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "ACH_FIND_PASSENGERS",
+   "name": "Get Closure",
+   "desc": "Find all missing passengers",
+   "hidden": false,
+   "pct": 1.6
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "appid": 501300,
+ "game": "What Remains of Edith Finch",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 9,
+ "achievements": [
+  {
+   "api": "Johann",
+   "name": "Thanks, Johann!",
+   "desc": "See Johann's name in the ending credits",
+   "hidden": false,
+   "pct": 58.5
+  },
+  {
+   "api": "AllStories",
+   "name": "The End of Everything",
+   "desc": "Finish all stories",
+   "hidden": false,
+   "pct": 56.7
+  },
+  {
+   "api": "EfficientOwl",
+   "name": "Great Owl",
+   "desc": "Catch 2 rabbits with only 2 swoops",
+   "hidden": false,
+   "pct": 26.3
+  },
+  {
+   "api": "TakeBothPathsToTheHouse",
+   "name": "All Roads",
+   "desc": "Take both paths to the house",
+   "hidden": false,
+   "pct": 25.3
+  },
+  {
+   "api": "KnockAllGregoryLettersIntoBathtub",
+   "name": "G-R-E-G-O-R-Y",
+   "desc": "Knock all the letters of Gregory's name into the bathtub",
+   "hidden": false,
+   "pct": 24.4
+  },
+  {
+   "api": "AllPeepholes",
+   "name": "A Closer Look",
+   "desc": "Look in all peepholes and telescopes long enough to hear Edith's commentary",
+   "hidden": false,
+   "pct": 21.5
+  },
+  {
+   "api": "ReplaySwingset",
+   "name": "Loop-de-loop-de-loop",
+   "desc": "Play Calvin's story again",
+   "hidden": false,
+   "pct": 14.1
+  },
+  {
+   "api": "KnockAllPoolBallsOffTheTable",
+   "name": "Clear the Table",
+   "desc": "Clear all balls off the pool table",
+   "hidden": false,
+   "pct": 13.6
+  },
+  {
+   "api": "LetDrunkenSailorFinishSinging",
+   "name": "Let Him Finish",
+   "desc": "Let the drunken sailor finish his song",
+   "hidden": false,
+   "pct": 12.7
+  }
+ ]
+}

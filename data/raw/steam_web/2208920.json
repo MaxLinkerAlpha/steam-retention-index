@@ -1,0 +1,761 @@
+{
+ "appid": 2208920,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 94,
+ "achievements": [
+  {
+   "name": "The Saga Begins",
+   "desc": "Complete the Prologue",
+   "hidden": true,
+   "pct": 62.6,
+   "api_name": "ACValhalla_Ach_1",
+   "internal_key": 256
+  },
+  {
+   "name": "To England!",
+   "desc": "Leave Norway",
+   "hidden": true,
+   "pct": 43.1,
+   "api_name": "ACValhalla_Ach_2",
+   "internal_key": 257
+  },
+  {
+   "name": "Hard Choices",
+   "desc": "Complete the Grantebridgescire Arc",
+   "hidden": true,
+   "pct": 31.4,
+   "api_name": "ACValhalla_Ach_3",
+   "internal_key": 258
+  },
+  {
+   "name": "The Order Is Revealed",
+   "desc": "Complete the Lunden Arc",
+   "hidden": true,
+   "pct": 20.7,
+   "api_name": "ACValhalla_Ach_4",
+   "internal_key": 259
+  },
+  {
+   "name": "The Good Saxon",
+   "desc": "Complete the East Anglia Arc",
+   "hidden": true,
+   "pct": 22.9,
+   "api_name": "ACValhalla_Ach_5",
+   "internal_key": 260
+  },
+  {
+   "name": "Take My Hand",
+   "desc": "Complete the Cent Arc",
+   "hidden": true,
+   "pct": 16.4,
+   "api_name": "ACValhalla_Ach_6",
+   "internal_key": 261
+  },
+  {
+   "name": "Calling in a Favor",
+   "desc": "Complete the Suthsexe Arc",
+   "hidden": true,
+   "pct": 14.6,
+   "api_name": "ACValhalla_Ach_7",
+   "internal_key": 262
+  },
+  {
+   "name": "The Enemy of My Enemy",
+   "desc": "Complete the Wincestre Arc",
+   "hidden": true,
+   "pct": 12.0,
+   "api_name": "ACValhalla_Ach_8",
+   "internal_key": 263
+  },
+  {
+   "name": "In the Footsteps of the Gods",
+   "desc": "Complete the Asgard and Jotunheim quests",
+   "hidden": true,
+   "pct": 7.3,
+   "api_name": "ACValhalla_Ach_9",
+   "internal_key": 264
+  },
+  {
+   "name": "As It Was Foretold",
+   "desc": "Complete \"The Prophecy\" storyline",
+   "hidden": true,
+   "pct": 10.9,
+   "api_name": "ACValhalla_Ach_10",
+   "internal_key": 265
+  },
+  {
+   "name": "England Subdued",
+   "desc": "Complete Hamtunscire Arc",
+   "hidden": true,
+   "pct": 9.5,
+   "api_name": "ACValhalla_Ach_11",
+   "internal_key": 266
+  },
+  {
+   "name": "Disorder of the Ancients",
+   "desc": "Eliminate all targets of the Order of Ancients",
+   "hidden": true,
+   "pct": 7.6,
+   "api_name": "ACValhalla_Ach_12",
+   "internal_key": 267
+  },
+  {
+   "name": "Rampage",
+   "desc": "Complete your first raid in England",
+   "hidden": true,
+   "pct": 40.8,
+   "api_name": "ACValhalla_Ach_13",
+   "internal_key": 268
+  },
+  {
+   "name": "It's Alive!",
+   "desc": "Create a Jomsviking",
+   "hidden": true,
+   "pct": 34.6,
+   "api_name": "ACValhalla_Ach_14",
+   "internal_key": 269
+  },
+  {
+   "name": "Tranquility",
+   "desc": "Complete a Standing Stone puzzle",
+   "hidden": false,
+   "pct": 24.6,
+   "api_name": "ACValhalla_Ach_15",
+   "internal_key": 270
+  },
+  {
+   "name": "Equilibrium",
+   "desc": "Complete 3 Cairn challenges",
+   "hidden": false,
+   "pct": 10.4,
+   "api_name": "ACValhalla_Ach_16",
+   "internal_key": 271
+  },
+  {
+   "name": "Old School Treasure Hunt",
+   "desc": "Collect 5 Treasure Hoard rewards (Base game only)",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "ACValhalla_Ach_17",
+   "internal_key": 272
+  },
+  {
+   "name": "Skadi's Hobby",
+   "desc": "Perform a 150m slide in the snow",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "ACValhalla_Ach_18",
+   "internal_key": 273
+  },
+  {
+   "name": "Witch Hunter",
+   "desc": "Defeat one Daughter of Lerion",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "ACValhalla_Ach_19",
+   "internal_key": 274
+  },
+  {
+   "name": "Equine Attack",
+   "desc": "Assassinate an enemy from your horse",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "ACValhalla_Ach_20",
+   "internal_key": 275
+  },
+  {
+   "name": "Silent Viking",
+   "desc": "Assassinate 10 enemies in a row without triggering a conflict",
+   "hidden": false,
+   "pct": 18.2,
+   "api_name": "ACValhalla_Ach_21",
+   "internal_key": 276
+  },
+  {
+   "name": "Everyday Life",
+   "desc": "Complete 10 World Events",
+   "hidden": false,
+   "pct": 22.6,
+   "api_name": "ACValhalla_Ach_22",
+   "internal_key": 277
+  },
+  {
+   "name": "Overdesign II",
+   "desc": "While on fire during a fight, kill 3 hard difficulty soldiers without breaking their shields",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "ACValhalla_Ach_23",
+   "internal_key": 278
+  },
+  {
+   "name": "Completionist All the Way!",
+   "desc": "Complete all territories",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "ACValhalla_Ach_24",
+   "internal_key": 279
+  },
+  {
+   "name": "Row Rage",
+   "desc": "Ram and destroy 5 boats in under 2 minutes with your longship (Base game only)",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "ACValhalla_Ach_25",
+   "internal_key": 280
+  },
+  {
+   "name": "We're in the End Game Now",
+   "desc": "Reach Power 280",
+   "hidden": false,
+   "pct": 15.5,
+   "api_name": "ACValhalla_Ach_26",
+   "internal_key": 281
+  },
+  {
+   "name": "A Picture of Grace",
+   "desc": "Run through 30 breakable objects",
+   "hidden": true,
+   "pct": 3.9,
+   "api_name": "ACValhalla_Ach_27",
+   "internal_key": 282
+  },
+  {
+   "name": "Builder",
+   "desc": "Reach settlement level 3",
+   "hidden": false,
+   "pct": 32.1,
+   "api_name": "ACValhalla_Ach_28",
+   "internal_key": 283
+  },
+  {
+   "name": "Home Sweet Home",
+   "desc": "Reach settlement level 6",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "ACValhalla_Ach_29",
+   "internal_key": 284
+  },
+  {
+   "name": "Pioneer",
+   "desc": "Reach Vinland",
+   "hidden": true,
+   "pct": 14.3,
+   "api_name": "ACValhalla_Ach_30",
+   "internal_key": 285
+  },
+  {
+   "name": "Home Decor",
+   "desc": "Place an item on each settlement cosmetic spot (Base game only)",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "ACValhalla_Ach_31",
+   "internal_key": 286
+  },
+  {
+   "name": "Not the Norse You're Looking For",
+   "desc": "Successfully pass close to a guard in a distrust area by blending with a group of monks",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "ACValhalla_Ach_32",
+   "internal_key": 287
+  },
+  {
+   "name": "Face My Might!",
+   "desc": "Equip 8 abilities",
+   "hidden": false,
+   "pct": 27.0,
+   "api_name": "ACValhalla_Ach_33",
+   "internal_key": 512
+  },
+  {
+   "name": "Ultimate Refinement",
+   "desc": "Fully upgrade and enhance a piece of gear",
+   "hidden": false,
+   "pct": 18.8,
+   "api_name": "ACValhalla_Ach_34",
+   "internal_key": 513
+  },
+  {
+   "name": "Flying Eivor",
+   "desc": "Get thrown 30 meters away by a destroyer or a housecarl",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "ACValhalla_Ach_35",
+   "internal_key": 514
+  },
+  {
+   "name": "Twinkle Twinkle",
+   "desc": "Release a firefly in your settlement",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "ACValhalla_Ach_36",
+   "internal_key": 515
+  },
+  {
+   "name": "Archaeologist",
+   "desc": "Complete all Roman collector challenges",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "ACValhalla_Ach_37",
+   "internal_key": 520
+  },
+  {
+   "name": "Orlog Champion",
+   "desc": "Beat all the Orlog players",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ACValhalla_Ach_38",
+   "internal_key": 521
+  },
+  {
+   "name": "Good Catch!",
+   "desc": "Catch a fish of each type using the fishing line",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "ACValhalla_Ach_39",
+   "internal_key": 522
+  },
+  {
+   "name": "Full Mastery",
+   "desc": "Spend your first Mastery point",
+   "hidden": false,
+   "pct": 19.0,
+   "api_name": "ACValhalla_Ach_40",
+   "internal_key": 523
+  },
+  {
+   "name": "Is There Anybody Out There?",
+   "desc": "Light the unlit braziers on Hadrian's Wall",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ACValhalla_Ach_41",
+   "internal_key": 524
+  },
+  {
+   "name": "Slam Master",
+   "desc": "Complete all the flytings",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "ACValhalla_Ach_42",
+   "internal_key": 525
+  },
+  {
+   "name": "Caladfwlch",
+   "desc": "Draw Excalibur from the Stone",
+   "hidden": true,
+   "pct": 5.1,
+   "api_name": "ACValhalla_Ach_43",
+   "internal_key": 526
+  },
+  {
+   "name": "It's Not a Bug, It's a Feature!",
+   "desc": "Complete your first Animus Anomaly",
+   "hidden": true,
+   "pct": 24.7,
+   "api_name": "ACValhalla_Ach_44",
+   "internal_key": 527
+  },
+  {
+   "name": "Seahorse",
+   "desc": "Swim a total of 3km with the horse",
+   "hidden": true,
+   "pct": 5.2,
+   "api_name": "ACValhalla_Ach_45",
+   "internal_key": 528
+  },
+  {
+   "name": "The Hidden Truth",
+   "desc": "Obtain all video fragments and watch the hidden truth video",
+   "hidden": true,
+   "pct": 3.1,
+   "api_name": "ACValhalla_Ach_46",
+   "internal_key": 529
+  },
+  {
+   "name": "Master Hunter",
+   "desc": "Defeat all Alpha animals (Base game only)",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "ACValhalla_Ach_47",
+   "internal_key": 530
+  },
+  {
+   "name": "Dreamcatcher",
+   "desc": "Destroy 10 Curse Symbols (Base game only)",
+   "hidden": false,
+   "pct": 9.5,
+   "api_name": "ACValhalla_Ach_48",
+   "internal_key": 531
+  },
+  {
+   "name": "Godly Reward",
+   "desc": "Obtain Thor's Helmet",
+   "hidden": true,
+   "pct": 9.6,
+   "api_name": "ACValhalla_Ach_49",
+   "internal_key": 532
+  },
+  {
+   "name": "Worthy",
+   "desc": "Wield Mjolnir",
+   "hidden": true,
+   "pct": 4.4,
+   "api_name": "ACValhalla_Ach_50",
+   "internal_key": 533
+  },
+  {
+   "name": "Irish Legend",
+   "desc": "Complete all territories of Ireland (Wrath of the Druids).",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "ACValhalla_Ach_51",
+   "internal_key": 534
+  },
+  {
+   "name": "Ireland's Deliverance",
+   "desc": "Complete the Wrath of the Druids campaign (Wrath of the Druids).",
+   "hidden": true,
+   "pct": 7.1,
+   "api_name": "ACValhalla_Ach_52",
+   "internal_key": 535
+  },
+  {
+   "name": "Dawn of the Druids",
+   "desc": "Collect all the amber shards for Deirdre (Wrath of the Druids).",
+   "hidden": true,
+   "pct": 6.5,
+   "api_name": "ACValhalla_Ach_53",
+   "internal_key": 536
+  },
+  {
+   "name": "Like a Druid",
+   "desc": "Complete a Trial of the Morrigan (Wrath of the Druids).",
+   "hidden": false,
+   "pct": 6.1,
+   "api_name": "ACValhalla_Ach_54",
+   "internal_key": 537
+  },
+  {
+   "name": "All Roads Lead to Dublin",
+   "desc": "Reach the max level of Dublin Renown (Wrath of the Druids).",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "ACValhalla_Ach_55",
+   "internal_key": 538
+  },
+  {
+   "name": "The Legend of St. Patrick",
+   "desc": "Kill the only snake in Ireland (Wrath of the Druids).",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "ACValhalla_Ach_56",
+   "internal_key": 539
+  },
+  {
+   "name": "King’s Maker",
+   "desc": "Complete 10 Royal Demands (Wrath of the Druids).",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "ACValhalla_Ach_57",
+   "internal_key": 540
+  },
+  {
+   "name": "Double Trouble",
+   "desc": "Equip a Sickle in both hands (Wrath of the Druids).",
+   "hidden": true,
+   "pct": 2.1,
+   "api_name": "ACValhalla_Ach_58",
+   "internal_key": 541
+  },
+  {
+   "name": "Decked Out",
+   "desc": "Find the full Dublin Champion armor set (Wrath of the Druids).",
+   "hidden": true,
+   "pct": 5.1,
+   "api_name": "ACValhalla_Ach_59",
+   "internal_key": 542
+  },
+  {
+   "name": "All That Glitters",
+   "desc": "Get your first Gold Medal in Mastery Challenge (Part 1)",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "ACValhalla_Ach_60",
+   "internal_key": 543
+  },
+  {
+   "name": "A True Master",
+   "desc": "Earn all Gold Medals available in Mastery Challenge (Part 1)",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "ACValhalla_Ach_61",
+   "internal_key": 768
+  },
+  {
+   "name": "Do What Is Right",
+   "desc": "Complete the Siege of Paris campaign (The Siege of Paris).",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "ACValhalla_Ach_62",
+   "internal_key": 769
+  },
+  {
+   "name": "Know What Is Right",
+   "desc": "Complete all territories of Francia (The Siege of Paris).",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "ACValhalla_Ach_63",
+   "internal_key": 770
+  },
+  {
+   "name": "We Nobles Three",
+   "desc": "Defeat all three Frankish Nobles (The Siege of Paris).",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "ACValhalla_Ach_64",
+   "internal_key": 771
+  },
+  {
+   "name": "Vive la Résistance",
+   "desc": "Reach maximum Infamy in the Rebel Missions (The Siege of Paris).",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "ACValhalla_Ach_65",
+   "internal_key": 772
+  },
+  {
+   "name": "Future Past",
+   "desc": "Enter the Assassin Bureau in Francia (The Siege of Paris).",
+   "hidden": false,
+   "pct": 4.5,
+   "api_name": "ACValhalla_Ach_66",
+   "internal_key": 773
+  },
+  {
+   "name": "Bad Bull",
+   "desc": "Defeat the Ghost Auroch Boss (The Siege of Paris).",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "ACValhalla_Ach_67",
+   "internal_key": 774
+  },
+  {
+   "name": "Vendange",
+   "desc": "Kill an enemy with a scythe while wearing the full Reaper armor set (The Siege of Paris).",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "ACValhalla_Ach_68",
+   "internal_key": 775
+  },
+  {
+   "name": "Pat the Cats",
+   "desc": "Pat all the cats in Evreux (The Siege of Paris).",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "ACValhalla_Ach_69",
+   "internal_key": 776
+  },
+  {
+   "name": "Lèse-majesté",
+   "desc": "Complete 10 Rebel Missions (The Siege of Paris).",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "ACValhalla_Ach_70",
+   "internal_key": 777
+  },
+  {
+   "name": "Spelunker",
+   "desc": "Complete one Tomb of the Fallen",
+   "hidden": false,
+   "pct": 14.0,
+   "api_name": "ACValhalla_Ach_71",
+   "internal_key": 778
+  },
+  {
+   "name": "Crypt-ologist",
+   "desc": "Complete three Tombs of the Fallen",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "ACValhalla_Ach_72",
+   "internal_key": 779
+  },
+  {
+   "name": "Over the Hills…",
+   "desc": "Complete all territories of Svartalfheim (Dawn of Ragnarök)",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ACValhalla_Ach_73",
+   "internal_key": 780
+  },
+  {
+   "name": "Ashes of Svartalfheim",
+   "desc": "Complete the Dawn of Ragnarök campaign (Dawn of Ragnarök)",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "ACValhalla_Ach_74",
+   "internal_key": 781
+  },
+  {
+   "name": "Hugr Incarnate",
+   "desc": "Fully upgrade the Hugr-Rip (Dawn of Ragnarök)",
+   "hidden": true,
+   "pct": 1.3,
+   "api_name": "ACValhalla_Ach_75",
+   "internal_key": 782
+  },
+  {
+   "name": "Expert Storyteller",
+   "desc": "Tell Kára a Tale with at least four Boasts (Dawn of Ragnarök)",
+   "hidden": true,
+   "pct": 2.3,
+   "api_name": "ACValhalla_Ach_76",
+   "internal_key": 783
+  },
+  {
+   "name": "It's All in the Wrist",
+   "desc": "Kill 30 enemies with an Atgeir (Dawn of Ragnarök)",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "ACValhalla_Ach_77",
+   "internal_key": 784
+  },
+  {
+   "name": "Aesir Spelunker",
+   "desc": "Discover all Shelters (Dawn of Ragnarök)",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "ACValhalla_Ach_78",
+   "internal_key": 785
+  },
+  {
+   "name": "Motsognir's Blessing",
+   "desc": "Purify Hreidmar's Cursed Armor (Dawn of Ragnarök)",
+   "hidden": true,
+   "pct": 1.6,
+   "api_name": "ACValhalla_Ach_79",
+   "internal_key": 786
+  },
+  {
+   "name": "See No Evil",
+   "desc": "Teleport-Assassinate two enemies and fly away without being detected (Dawn of Ragnarök)",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "ACValhalla_Ach_80",
+   "internal_key": 787
+  },
+  {
+   "name": "Flying Fortress",
+   "desc": "Reach a Muspelheim Monolith (Dawn of Ragnarök)",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "ACValhalla_Ach_81",
+   "internal_key": 788
+  },
+  {
+   "name": "Full Master",
+   "desc": "Earn all Gold Medals available in Mastery Challenge",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "ACValhalla_Ach_82",
+   "internal_key": 789
+  },
+  {
+   "name": "Sacrificial Victory",
+   "desc": "Defeat Hel with the Draugr's Toll Outfit equipped (The Forgotten Saga)",
+   "hidden": true,
+   "pct": 1.1,
+   "api_name": "ACValhalla_Ach_83",
+   "internal_key": 790
+  },
+  {
+   "name": "Freedom Fighter",
+   "desc": "Reunite the dead within Kaldstad, Døkkerland and Nidheim (The Forgotten Saga)",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "ACValhalla_Ach_84",
+   "internal_key": 791
+  },
+  {
+   "name": "Pure of Heart",
+   "desc": "Defeat Nidhogg without using an Elk Shrine (The Forgotten Saga)",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "ACValhalla_Ach_85",
+   "internal_key": 792
+  },
+  {
+   "name": "Crossing Dókkerland",
+   "desc": "Complete all encounters in Dókkerland (The Forgotten Saga)",
+   "hidden": true,
+   "pct": 3.5,
+   "api_name": "ACValhalla_Ach_86",
+   "internal_key": 793
+  },
+  {
+   "name": "High Kick",
+   "desc": "Knock 10 enemies off of ledges using the Kick of Tyr Ability (The Forgotten Saga)",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "ACValhalla_Ach_87",
+   "internal_key": 794
+  },
+  {
+   "name": "Royal Treatment",
+   "desc": "Find Hel's Majordomo (The Forgotten Saga)",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "ACValhalla_Ach_88",
+   "internal_key": 795
+  },
+  {
+   "name": "A Favored Customer",
+   "desc": "Buy all of Nar's Favors at least once (The Forgotten Saga)",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "ACValhalla_Ach_89",
+   "internal_key": 796
+  },
+  {
+   "name": "The Queen's Fall",
+   "desc": "Defeat Hel, ruler of Niflheim (The Forgotten Saga)",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "ACValhalla_Ach_90",
+   "internal_key": 797
+  },
+  {
+   "name": "Returning to the Roots",
+   "desc": "Return to Odin's Camp for the first time (The Forgotten Saga)",
+   "hidden": false,
+   "pct": 17.3,
+   "api_name": "ACValhalla_Ach_91",
+   "internal_key": 798
+  },
+  {
+   "name": "Heroes of Ancient Britain",
+   "desc": "Complete all Tombs of the Fallen",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "ACValhalla_Ach_92",
+   "internal_key": 799
+  },
+  {
+   "name": "Cycle of Renewal",
+   "desc": "Complete the main story in New Game+ ",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "ACValhalla_Ach_93",
+   "internal_key": 1024
+  },
+  {
+   "name": "Ivaldi's Heir",
+   "desc": "Fully upgrade any piece of Divine Gear",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "ACValhalla_Ach_94",
+   "internal_key": 1025
+  }
+ ]
+}

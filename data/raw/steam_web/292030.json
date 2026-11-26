@@ -1,0 +1,633 @@
+{
+ "appid": 292030,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 78,
+ "achievements": [
+  {
+   "name": "Lilac and Gooseberries",
+   "desc": "Find Yennefer of Vengerberg.",
+   "hidden": true,
+   "pct": 60.3,
+   "api_name": "LILAC",
+   "internal_key": 256
+  },
+  {
+   "name": "A Friend in Need",
+   "desc": "Find and free Dandelion.",
+   "hidden": true,
+   "pct": 30.6,
+   "api_name": "FRIEND_IN_NEED",
+   "internal_key": 257
+  },
+  {
+   "name": "Necromancer",
+   "desc": "Help Yennefer extract information from Skjall's body.",
+   "hidden": true,
+   "pct": 29.1,
+   "api_name": "NECROMANCER",
+   "internal_key": 259
+  },
+  {
+   "name": "Family Counselor",
+   "desc": "Find the baron's wife and daughter.",
+   "hidden": true,
+   "pct": 37.5,
+   "api_name": "FAMILY_COUNSELOR",
+   "internal_key": 260
+  },
+  {
+   "name": "Something More",
+   "desc": "Find Ciri.",
+   "hidden": true,
+   "pct": 24.6,
+   "api_name": "SOMETHING_MORE",
+   "internal_key": 261
+  },
+  {
+   "name": "Xenonaut",
+   "desc": "Visit Tir ná Lia and convince Ge'els to betray Eredin.",
+   "hidden": true,
+   "pct": 23.4,
+   "api_name": "XENONAUT",
+   "internal_key": 262
+  },
+  {
+   "name": "The King is Dead",
+   "desc": "Defeat Eredin.",
+   "hidden": true,
+   "pct": 22.1,
+   "api_name": "THE_KING",
+   "internal_key": 263
+  },
+  {
+   "name": "Passed the Trial",
+   "desc": "Finish the game on any difficulty.",
+   "hidden": false,
+   "pct": 22.0,
+   "api_name": "PASSED_THE_TRIAL",
+   "internal_key": 264
+  },
+  {
+   "name": "Ran the Gauntlet",
+   "desc": "Finish the game on the \"Blood and Broken Bones!\" or \"Death March!\" difficulty levels.",
+   "hidden": false,
+   "pct": 6.6,
+   "api_name": "RAN_THE_GAUNTLET",
+   "internal_key": 265
+  },
+  {
+   "name": "Walked the Path",
+   "desc": "Finish the game on the \"Death March!\" difficulty level.",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "WALKED_THE_PATH",
+   "internal_key": 266
+  },
+  {
+   "name": "Geralt: The Professional",
+   "desc": "Complete all witcher contracts.",
+   "hidden": true,
+   "pct": 10.2,
+   "api_name": "THE_PROFESSIONAL",
+   "internal_key": 267
+  },
+  {
+   "name": "Kingmaker",
+   "desc": "Complete the subplot about choosing Skellige's ruler.",
+   "hidden": true,
+   "pct": 24.8,
+   "api_name": "MAKER",
+   "internal_key": 268
+  },
+  {
+   "name": "Assassin of Kings",
+   "desc": "Take part in the assassination of King Radovid.",
+   "hidden": true,
+   "pct": 15.2,
+   "api_name": "ASSASSIN",
+   "internal_key": 269
+  },
+  {
+   "name": "Friends With Benefits",
+   "desc": "Complete the subplot involving Keira Metz.",
+   "hidden": true,
+   "pct": 34.1,
+   "api_name": "FRIENDS_WITH_BENEFITS",
+   "internal_key": 270
+  },
+  {
+   "name": "Full Crew",
+   "desc": "Bring all possible allies to Kaer Morhen for the battle against the Hunt.",
+   "hidden": true,
+   "pct": 19.2,
+   "api_name": "FULL_CREW",
+   "internal_key": 271
+  },
+  {
+   "name": "Dendrologist",
+   "desc": "Acquire all the Abilities in one tree.",
+   "hidden": false,
+   "pct": 7.7,
+   "api_name": "DENDROLOGIST",
+   "internal_key": 272
+  },
+  {
+   "name": "The Enemy of My Enemy",
+   "desc": "Use the Axii Sign to force one opponent to kill another. Do this 20 times.",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "ENEMY_OF_MY_ENEMY",
+   "internal_key": 273
+  },
+  {
+   "name": "Humpty Dumpty",
+   "desc": "Kill 10 opponents by knocking them off somewhere high with the Aard Sign.",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "HUMPTY_DUMPTY",
+   "internal_key": 274
+  },
+  {
+   "name": "Environmentally Unfriendly",
+   "desc": "Kill 50 opponents using the environment (e.g. swamp gas, insects or objects).",
+   "hidden": false,
+   "pct": 29.0,
+   "api_name": "ENVIRONMENTALLY_UNFRIENDLY",
+   "internal_key": 275
+  },
+  {
+   "name": "Kaer Morhen Trained",
+   "desc": "Perform 10 effective counterattacks in a row without getting hit or parrying.",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "KAER_MORHEN_TRAINED",
+   "internal_key": 276
+  },
+  {
+   "name": "Can't Touch This!",
+   "desc": "Kill 5 foes in a fight without taking damage (except for Toxicity) and without using the Quen Sign.",
+   "hidden": false,
+   "pct": 43.0,
+   "api_name": "CANT_TOUCH_THIS",
+   "internal_key": 277
+  },
+  {
+   "name": "That Is the Evilest Thing",
+   "desc": "Ignite the gas produced by a Dragon's Dream bomb using a burning opponent. Do this 10 times.",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "THE_EVILEST_THING",
+   "internal_key": 278
+  },
+  {
+   "name": "Mutant",
+   "desc": "Fill all mutagen slots.",
+   "hidden": false,
+   "pct": 26.6,
+   "api_name": "MUTANT",
+   "internal_key": 279
+  },
+  {
+   "name": "Butcher of Blaviken",
+   "desc": "Kill at least 5 opponents in under 10 seconds.",
+   "hidden": false,
+   "pct": 51.2,
+   "api_name": "BUTCHER_OF_BLAVIKEN",
+   "internal_key": 280
+  },
+  {
+   "name": "Triple Threat",
+   "desc": "Kill 3 opponents in one fight using 3 different methods (swords, bombs, crossbow, Signs, etc.).",
+   "hidden": true,
+   "pct": 31.6,
+   "api_name": "TRIPLE_THREAT",
+   "internal_key": 281
+  },
+  {
+   "name": "Brawler",
+   "desc": "Defeat Olaf, the Skellige champion of unarmed combat.",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "BRAWLER",
+   "internal_key": 282
+  },
+  {
+   "name": "Overkill",
+   "desc": "Make an opponent suffer from bleeding, poisoning and burning simultaneously. Do this 10 times.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "OVERKILL",
+   "internal_key": 283
+  },
+  {
+   "name": "Master Marksman",
+   "desc": "Kill 50 human and nonhuman opponents by striking them in the head with a crossbow bolt.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "MASTER_MARKSMAN",
+   "internal_key": 284
+  },
+  {
+   "name": "What Was That?",
+   "desc": "Attack, counter, cast a Sign and throw a bomb (in any order) in under 4 seconds.",
+   "hidden": true,
+   "pct": 3.1,
+   "api_name": "WHAT_WAS_THAT",
+   "internal_key": 285
+  },
+  {
+   "name": "Even Odds",
+   "desc": "Kill 2 monsters you have a contract on without using Signs, potions, mutagens, oils or bombs.",
+   "hidden": false,
+   "pct": 9.5,
+   "api_name": "EVEN_ODDS",
+   "internal_key": 286
+  },
+  {
+   "name": "Globetrotter",
+   "desc": "Discover 100 fast travel points.",
+   "hidden": false,
+   "pct": 24.6,
+   "api_name": "GLOBETROTTER",
+   "internal_key": 287
+  },
+  {
+   "name": "Pest Control",
+   "desc": "Destroy all monster nests in the Velen / Novigrad region, or in Skellige.",
+   "hidden": false,
+   "pct": 8.5,
+   "api_name": "PEST_CONTROL",
+   "internal_key": 512
+  },
+  {
+   "name": "Card Collector",
+   "desc": "Acquire all gwent cards available in the base version of the game.",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "CARD_COLLECTOR",
+   "internal_key": 513
+  },
+  {
+   "name": "Gwent Master",
+   "desc": "Defeat Tybalt and win the gwent tournament held at the Passiflora.",
+   "hidden": false,
+   "pct": 11.3,
+   "api_name": "GWENT_MASTER",
+   "internal_key": 514
+  },
+  {
+   "name": "Let's Cook!",
+   "desc": "Learn 12 potion formulae.",
+   "hidden": false,
+   "pct": 45.0,
+   "api_name": "LETS_COOK",
+   "internal_key": 515
+  },
+  {
+   "name": "Bombardier",
+   "desc": "Collect the formulae for 6 different bomb types.",
+   "hidden": false,
+   "pct": 33.0,
+   "api_name": "BOMBARDIER",
+   "internal_key": 516
+  },
+  {
+   "name": "Bookworm",
+   "desc": "Read 30 books, journals or other documents.",
+   "hidden": false,
+   "pct": 40.2,
+   "api_name": "BOOKWORM",
+   "internal_key": 517
+  },
+  {
+   "name": "Armed and Dangerous",
+   "desc": "Find and equip all the elements of one set of witcher gear.",
+   "hidden": false,
+   "pct": 17.4,
+   "api_name": "ARMED_AND_DANGEROUS",
+   "internal_key": 518
+  },
+  {
+   "name": "Power Overwhelming",
+   "desc": "Have all possible Place of Power bonuses active at the same time.",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "POWER_OVERWHELMING",
+   "internal_key": 519
+  },
+  {
+   "name": "Brawl Master",
+   "desc": "Complete all fistfighting quests in Velen, Skellige and Novigrad.",
+   "hidden": false,
+   "pct": 13.9,
+   "api_name": "BRAWL_MASTER",
+   "internal_key": 520
+  },
+  {
+   "name": "Fast and Furious",
+   "desc": "Win all the horse races in the game.",
+   "hidden": false,
+   "pct": 9.9,
+   "api_name": "FAST_AND_FURIOUS",
+   "internal_key": 521
+  },
+  {
+   "name": "Munchkin",
+   "desc": "Reach character development level 35.",
+   "hidden": false,
+   "pct": 24.3,
+   "api_name": "MUNCHKIN",
+   "internal_key": 522
+  },
+  {
+   "name": "Fire in the Hole",
+   "desc": "Destroy 10 monster nests using bombs.",
+   "hidden": false,
+   "pct": 25.3,
+   "api_name": "FIRE_IN_THE_HOLE",
+   "internal_key": 523
+  },
+  {
+   "name": "Fist of the South Star",
+   "desc": "Defeat an opponent in a fistfight without taking any damage.",
+   "hidden": false,
+   "pct": 49.7,
+   "api_name": "FIST_OF_THE_SOUTH_STAR",
+   "internal_key": 524
+  },
+  {
+   "name": "Geralt and Friends",
+   "desc": "Win a round of gwent using only neutral cards.",
+   "hidden": false,
+   "pct": 16.6,
+   "api_name": "GERALT_AND_FRIENDS",
+   "internal_key": 525
+  },
+  {
+   "name": "All In",
+   "desc": "Play three hero cards in one round of gwent and win the match.",
+   "hidden": false,
+   "pct": 15.5,
+   "api_name": "ALL_IN",
+   "internal_key": 526
+  },
+  {
+   "name": "Shrieker",
+   "desc": "Complete the contract on the shrieker.",
+   "hidden": false,
+   "pct": 30.6,
+   "api_name": "SHRIEKER",
+   "internal_key": 527
+  },
+  {
+   "name": "Fearless Vampire Slayer",
+   "desc": "Complete the contract on Sarasti.",
+   "hidden": false,
+   "pct": 22.7,
+   "api_name": "FEARLESS_VAMPIRE_SLAYER",
+   "internal_key": 528
+  },
+  {
+   "name": "Woodland Spirit",
+   "desc": "Complete the contract on the Woodland Spirit.",
+   "hidden": false,
+   "pct": 12.7,
+   "api_name": "WOODLAND_SPIRIT",
+   "internal_key": 529
+  },
+  {
+   "name": "Fiend or Foe?",
+   "desc": "Complete the contract on Morvudd.",
+   "hidden": false,
+   "pct": 18.3,
+   "api_name": "FIEND_OR_FOE",
+   "internal_key": 530
+  },
+  {
+   "name": "Ashes to Ashes",
+   "desc": "Complete the contract on Therazane.",
+   "hidden": false,
+   "pct": 20.0,
+   "api_name": "ASHES_TO_ASHES",
+   "internal_key": 531
+  },
+  {
+   "name": "The Doppler Effect",
+   "desc": "Resolve the doppler problem in Novigrad.",
+   "hidden": false,
+   "pct": 23.9,
+   "api_name": "THE_DOPPLER_EFFECT",
+   "internal_key": 532
+  },
+  {
+   "name": "I'm Not Kissing That",
+   "desc": "Kill the prince cursed into a toad.",
+   "hidden": true,
+   "pct": 19.0,
+   "api_name": "EP1_1",
+   "internal_key": 533
+  },
+  {
+   "name": "Let the Good Times Roll!",
+   "desc": "Participate in all the activities at the wedding.",
+   "hidden": true,
+   "pct": 8.7,
+   "api_name": "EP1_2",
+   "internal_key": 534
+  },
+  {
+   "name": "Shopaholic",
+   "desc": "Buy all the items put on the block at the Borsodis' Auction House.",
+   "hidden": true,
+   "pct": 9.6,
+   "api_name": "EP1_3",
+   "internal_key": 535
+  },
+  {
+   "name": "Curator of Nightmares",
+   "desc": "Recreate all of Iris' nightmares in the Painted World.",
+   "hidden": true,
+   "pct": 11.1,
+   "api_name": "EP1_4",
+   "internal_key": 536
+  },
+  {
+   "name": "Pacta Sunt Servanda",
+   "desc": "Finish the \"Hearts of Stone\" expansion.",
+   "hidden": true,
+   "pct": 16.5,
+   "api_name": "EP1_5",
+   "internal_key": 537
+  },
+  {
+   "name": "When It's Many Against One…",
+   "desc": "Provoke all Iris von Everec's Nightmares into fighting you at the same time and defeat them.",
+   "hidden": true,
+   "pct": 2.7,
+   "api_name": "EP1_6",
+   "internal_key": 538
+  },
+  {
+   "name": "Return to Sender",
+   "desc": "Kill 3 opponents with their own arrows.",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "EP1_7",
+   "internal_key": 539
+  },
+  {
+   "name": "Can Quit Anytime I Want",
+   "desc": "Be under the influence of seven potions or decoctions at the same time.",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "EP1_8",
+   "internal_key": 540
+  },
+  {
+   "name": "Wild Rose Dethorned",
+   "desc": "Defeat all the fallen knights and loot their campsites.",
+   "hidden": true,
+   "pct": 6.9,
+   "api_name": "EP1_9",
+   "internal_key": 541
+  },
+  {
+   "name": "I Wore Ofieri Before It Was Cool",
+   "desc": "Collect all available Ofieri armor and horse gear, and at least one Ofieri sword.",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "EP1_10",
+   "internal_key": 542
+  },
+  {
+   "name": "Moo-rderer",
+   "desc": "Kill 20 cows.",
+   "hidden": true,
+   "pct": 3.0,
+   "api_name": "EP1_11",
+   "internal_key": 543
+  },
+  {
+   "name": "Rad Steez, Bro!",
+   "desc": "Slide downhill uninterrupted for at least 10 seconds.",
+   "hidden": true,
+   "pct": 13.4,
+   "api_name": "EP1_12",
+   "internal_key": 13824
+  },
+  {
+   "name": "Killed It",
+   "desc": "Win a round of gwent with a total strength of at least 187.",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "EP1_13",
+   "internal_key": 13825
+  },
+  {
+   "name": "The Witcher's Gone South",
+   "desc": "Travel to the Duchy of Toussaint.",
+   "hidden": false,
+   "pct": 19.3,
+   "api_name": "EP2_1",
+   "internal_key": 13826
+  },
+  {
+   "name": "Last Action Hero",
+   "desc": "Be decorated with the Order of Vitis Vinifera.",
+   "hidden": false,
+   "pct": 13.1,
+   "api_name": "EP2_2",
+   "internal_key": 13827
+  },
+  {
+   "name": "Kling of the Clink",
+   "desc": "Serve time in Toussaint.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "EP2_3",
+   "internal_key": 13828
+  },
+  {
+   "name": "A Knight to Remember",
+   "desc": "Obtain a flawless victory in all the competitions during the knights' tourney.",
+   "hidden": false,
+   "pct": 11.5,
+   "api_name": "EP2_4",
+   "internal_key": 13829
+  },
+  {
+   "name": "Embodiment of the Five Virtues",
+   "desc": "Be given Aerondight by the Lady of the Lake.",
+   "hidden": false,
+   "pct": 12.1,
+   "api_name": "EP2_5",
+   "internal_key": 13830
+  },
+  {
+   "name": "Playing House",
+   "desc": "Use all available options for developing Corvo Bianco.",
+   "hidden": false,
+   "pct": 13.3,
+   "api_name": "EP2_6",
+   "internal_key": 13831
+  },
+  {
+   "name": "Turned Every Stone",
+   "desc": "Find all grandmaster diagrams for each witcher school.",
+   "hidden": false,
+   "pct": 7.7,
+   "api_name": "EP2_7",
+   "internal_key": 13832
+  },
+  {
+   "name": "I Have a Gwent Problem",
+   "desc": "Collect all the cards in the Skellige deck.",
+   "hidden": false,
+   "pct": 7.1,
+   "api_name": "EP2_8",
+   "internal_key": 13833
+  },
+  {
+   "name": "The Grapes of Wrath Stomped",
+   "desc": "Help unite the warring vineyards and have a wine named in your honor.",
+   "hidden": true,
+   "pct": 9.6,
+   "api_name": "EP2_9",
+   "internal_key": 13834
+  },
+  {
+   "name": "Dressed to Kill",
+   "desc": "Unlock the bonus for equipping all the witcher gear elements from one School.",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "EP2_10",
+   "internal_key": 13835
+  },
+  {
+   "name": "Weapon \"W\"",
+   "desc": "Develop a mutation.",
+   "hidden": false,
+   "pct": 15.0,
+   "api_name": "EP2_11",
+   "internal_key": 13836
+  },
+  {
+   "name": "Hasta la Vista™",
+   "desc": "Kill a frozen opponent with a crossbow bolt.",
+   "hidden": true,
+   "pct": 2.3,
+   "api_name": "EP2_12",
+   "internal_key": 13837
+  },
+  {
+   "name": "David and Golyat",
+   "desc": "Kill Golyat with a crossbow bolt to his eye.",
+   "hidden": true,
+   "pct": 3.3,
+   "api_name": "EP2_13",
+   "internal_key": 13838
+  }
+ ]
+}

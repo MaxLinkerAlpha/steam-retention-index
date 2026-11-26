@@ -1,0 +1,625 @@
+{
+ "appid": 271590,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 77,
+ "achievements": [
+  {
+   "name": "Welcome to Los Santos",
+   "desc": "You repo'd a car and raced it through the heart of a sun-soaked metropolis.",
+   "hidden": true,
+   "pct": 81.9,
+   "api_name": "ACH00",
+   "internal_key": 5376
+  },
+  {
+   "name": "A Friendship Resurrected",
+   "desc": "With friends like this who needs enemies?",
+   "hidden": true,
+   "pct": 39.1,
+   "api_name": "ACH01",
+   "internal_key": 5377
+  },
+  {
+   "name": "A Fair Day's Pay",
+   "desc": "It's time for a little getaway.",
+   "hidden": true,
+   "pct": 29.0,
+   "api_name": "ACH02",
+   "internal_key": 5378
+  },
+  {
+   "name": "The Moment of Truth",
+   "desc": "You have uncovered the truth about Brad.",
+   "hidden": true,
+   "pct": 23.2,
+   "api_name": "ACH03",
+   "internal_key": 5379
+  },
+  {
+   "name": "To Live or Die in Los Santos",
+   "desc": "Completed the final mission.",
+   "hidden": true,
+   "pct": 23.8,
+   "api_name": "ACH04",
+   "internal_key": 5380
+  },
+  {
+   "name": "Diamond Hard",
+   "desc": "You cleaned out Vangelico to pay back Martin Madrazo.",
+   "hidden": true,
+   "pct": 41.2,
+   "api_name": "ACH05",
+   "internal_key": 5381
+  },
+  {
+   "name": "Subversive",
+   "desc": "You stole an experimental super weapon from Merryweather... and gave it back.",
+   "hidden": true,
+   "pct": 31.4,
+   "api_name": "ACH06",
+   "internal_key": 5382
+  },
+  {
+   "name": "Blitzed",
+   "desc": "You performed a classic blitz play.",
+   "hidden": true,
+   "pct": 30.2,
+   "api_name": "ACH42",
+   "internal_key": 5383
+  },
+  {
+   "name": "Small Town, Big Job",
+   "desc": "You made a big impression at the Paleto Bay Chicken Festival.",
+   "hidden": true,
+   "pct": 27.6,
+   "api_name": "ACH07",
+   "internal_key": 5384
+  },
+  {
+   "name": "The Government Gimps",
+   "desc": "You recovered sensitive information from a highly defended federal building.",
+   "hidden": true,
+   "pct": 24.7,
+   "api_name": "ACH08",
+   "internal_key": 5385
+  },
+  {
+   "name": "The Big One!",
+   "desc": "This ain't no dream no more.",
+   "hidden": true,
+   "pct": 22.8,
+   "api_name": "ACH09",
+   "internal_key": 5386
+  },
+  {
+   "name": "Solid Gold, Baby!",
+   "desc": "Earn 70 Gold Medals on Missions and Strangers and Freaks.",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "ACH10",
+   "internal_key": 5387
+  },
+  {
+   "name": "Career Criminal",
+   "desc": "Attain 100% Game Completion.",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "ACH11",
+   "internal_key": 5388
+  },
+  {
+   "name": "San Andreas Sightseer",
+   "desc": "Explore all of Los Santos and Blaine County.",
+   "hidden": false,
+   "pct": 9.6,
+   "api_name": "ACH50",
+   "internal_key": 5389
+  },
+  {
+   "name": "All's Fare in Love and War",
+   "desc": "Purchase Downtown Cab Co. and complete a private fare.",
+   "hidden": false,
+   "pct": 12.5,
+   "api_name": "ACH12",
+   "internal_key": 5390
+  },
+  {
+   "name": "TP Industries Arms Race",
+   "desc": "Purchase McKenzie Field Hangar and win the arms race.",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "ACH13",
+   "internal_key": 5391
+  },
+  {
+   "name": "Multi-Disciplined",
+   "desc": "Attain a gold medal in all applicable hobbies and pastimes.",
+   "hidden": false,
+   "pct": 11.1,
+   "api_name": "ACH14",
+   "internal_key": 5392
+  },
+  {
+   "name": "From Beyond the Stars",
+   "desc": "Collect and return all spaceship parts.",
+   "hidden": false,
+   "pct": 6.6,
+   "api_name": "ACH15",
+   "internal_key": 5393
+  },
+  {
+   "name": "A Mystery, Solved",
+   "desc": "Solve the mystery of Leonora Johnson.",
+   "hidden": false,
+   "pct": 6.4,
+   "api_name": "ACH16",
+   "internal_key": 5394
+  },
+  {
+   "name": "Waste Management ",
+   "desc": "Purchase the old dock and collect all nuclear waste.",
+   "hidden": false,
+   "pct": 6.5,
+   "api_name": "ACH17",
+   "internal_key": 5395
+  },
+  {
+   "name": "Red Mist",
+   "desc": "Complete all Rampages.",
+   "hidden": false,
+   "pct": 14.9,
+   "api_name": "ACH18",
+   "internal_key": 5396
+  },
+  {
+   "name": "Show Off",
+   "desc": "Complete all Stunt Jumps. ",
+   "hidden": false,
+   "pct": 14.6,
+   "api_name": "ACH19",
+   "internal_key": 5397
+  },
+  {
+   "name": "Kifflom!",
+   "desc": "You completed the Epsilon program and achieved inner peace.",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "ACH20",
+   "internal_key": 5398
+  },
+  {
+   "name": "Three Man Army",
+   "desc": "Survive 3 minutes on at least a 3 star Wanted Level with all three characters together off mission.",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "ACH21",
+   "internal_key": 5399
+  },
+  {
+   "name": "Out of Your Depth",
+   "desc": "You're gonna need a bigger boat...",
+   "hidden": false,
+   "pct": 7.8,
+   "api_name": "ACH22",
+   "internal_key": 5400
+  },
+  {
+   "name": "Altruist Acolyte",
+   "desc": "Deliver an unsuspecting victim to the Altruist Cult.",
+   "hidden": false,
+   "pct": 11.1,
+   "api_name": "ACH23",
+   "internal_key": 5401
+  },
+  {
+   "name": "A Lot of Cheddar",
+   "desc": "Spend a total of $200 million across all three characters.",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "ACH24",
+   "internal_key": 5402
+  },
+  {
+   "name": "Trading Pure Alpha",
+   "desc": "Make a profit over your total investments in the stock market.",
+   "hidden": false,
+   "pct": 20.8,
+   "api_name": "ACH25",
+   "internal_key": 5403
+  },
+  {
+   "name": "Pimp My Sidearm",
+   "desc": "Fully mod a weapon.",
+   "hidden": false,
+   "pct": 42.8,
+   "api_name": "ACH26",
+   "internal_key": 5404
+  },
+  {
+   "name": "Wanted: Alive Or Alive",
+   "desc": "Deliver a bail bond target alive.",
+   "hidden": false,
+   "pct": 10.4,
+   "api_name": "ACH27",
+   "internal_key": 5405
+  },
+  {
+   "name": "Los Santos Customs",
+   "desc": "Fully mod a vehicle.",
+   "hidden": false,
+   "pct": 23.0,
+   "api_name": "ACH28",
+   "internal_key": 5406
+  },
+  {
+   "name": "Close Shave",
+   "desc": "Complete all Under the Bridge and Knife Flight challenges.",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "ACH29",
+   "internal_key": 5407
+  },
+  {
+   "name": "Off the Plane",
+   "desc": "GTA Online: Complete the Introduction.",
+   "hidden": false,
+   "pct": 74.4,
+   "api_name": "ACH30",
+   "internal_key": 5632
+  },
+  {
+   "name": "Three-Bit Gangster",
+   "desc": "GTA Online: Reach Rank 25.",
+   "hidden": false,
+   "pct": 42.5,
+   "api_name": "ACH31",
+   "internal_key": 5633
+  },
+  {
+   "name": "Making Moves",
+   "desc": "GTA Online: Reach Rank 50.",
+   "hidden": false,
+   "pct": 31.4,
+   "api_name": "ACH32",
+   "internal_key": 5634
+  },
+  {
+   "name": "Above the Law",
+   "desc": "GTA Online: Reach Rank 100.",
+   "hidden": false,
+   "pct": 22.2,
+   "api_name": "ACH33",
+   "internal_key": 5635
+  },
+  {
+   "name": "Numero Uno",
+   "desc": "GTA Online: Obtain first place in all competitive game types.",
+   "hidden": false,
+   "pct": 10.3,
+   "api_name": "ACH34",
+   "internal_key": 5636
+  },
+  {
+   "name": "The Midnight Club",
+   "desc": "GTA Online: Use custom vehicles to win 5 Races.",
+   "hidden": false,
+   "pct": 10.5,
+   "api_name": "ACH35",
+   "internal_key": 5637
+  },
+  {
+   "name": "Unnatural Selection",
+   "desc": "GTA Online: Complete all 10 waves of a Survival.",
+   "hidden": false,
+   "pct": 14.6,
+   "api_name": "ACH36",
+   "internal_key": 5638
+  },
+  {
+   "name": "Backseat Driver",
+   "desc": "GTA Online: Direct a driver to 1st place as co-driver in Rally Mode.",
+   "hidden": false,
+   "pct": 6.4,
+   "api_name": "ACH38",
+   "internal_key": 5639
+  },
+  {
+   "name": "Run Like The Wind",
+   "desc": "GTA Online: Survive for a day with a Bounty on your head.",
+   "hidden": false,
+   "pct": 32.0,
+   "api_name": "ACH39",
+   "internal_key": 5640
+  },
+  {
+   "name": "Clean Sweep",
+   "desc": "GTA Online: Finish a Gang Attack without dying and kill at least 10 enemies.",
+   "hidden": false,
+   "pct": 24.3,
+   "api_name": "ACH40",
+   "internal_key": 5641
+  },
+  {
+   "name": "Decorated",
+   "desc": "GTA Online: Earn 30 Platinum Awards.",
+   "hidden": false,
+   "pct": 23.1,
+   "api_name": "ACH41",
+   "internal_key": 5642
+  },
+  {
+   "name": "Stick Up Kid",
+   "desc": "GTA Online: Hold up all 20 Stores.",
+   "hidden": false,
+   "pct": 11.6,
+   "api_name": "ACH43",
+   "internal_key": 5643
+  },
+  {
+   "name": "Enjoy Your Stay",
+   "desc": "GTA Online: Participate in everything Los Santos has to offer.",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "ACH45",
+   "internal_key": 5644
+  },
+  {
+   "name": "Crew Cut",
+   "desc": "GTA Online: Complete a Job as a member of a Crew.",
+   "hidden": false,
+   "pct": 23.0,
+   "api_name": "ACH46",
+   "internal_key": 5645
+  },
+  {
+   "name": "Full Refund",
+   "desc": "GTA Online: Kill the thief that mugged you.",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "ACH47",
+   "internal_key": 5646
+  },
+  {
+   "name": "Dialling Digits",
+   "desc": "GTA Online: Call for a Backup Helicopter for the first time.",
+   "hidden": false,
+   "pct": 15.1,
+   "api_name": "ACH48",
+   "internal_key": 5647
+  },
+  {
+   "name": "American Dream",
+   "desc": "GTA Online: Own an Apartment, Garage and an Insured Vehicle.",
+   "hidden": false,
+   "pct": 52.4,
+   "api_name": "ACH49",
+   "internal_key": 5648
+  },
+  {
+   "name": "A New Perspective",
+   "desc": "Play GTA V for 15 hours in first person mode.",
+   "hidden": false,
+   "pct": 10.5,
+   "api_name": "ACH51",
+   "internal_key": 5649
+  },
+  {
+   "name": "Be Prepared",
+   "desc": "GTA Online: Complete a Heist Setup mission.",
+   "hidden": true,
+   "pct": 43.6,
+   "api_name": "ACHH1",
+   "internal_key": 5650
+  },
+  {
+   "name": "In the Name of Science",
+   "desc": "GTA Online: Complete The Humane Labs Raid and Series A Funding as Heist Leader or Crew.",
+   "hidden": true,
+   "pct": 16.0,
+   "api_name": "ACHH2",
+   "internal_key": 5651
+  },
+  {
+   "name": "Dead Presidents",
+   "desc": "GTA Online: Complete The Fleeca Job and The Pacific Standard Job as Heist Leader or Crew.",
+   "hidden": true,
+   "pct": 16.8,
+   "api_name": "ACHH3",
+   "internal_key": 5652
+  },
+  {
+   "name": "Parole Day",
+   "desc": "GTA Online: Complete The Prison Break as Heist Leader or Crew.",
+   "hidden": true,
+   "pct": 24.6,
+   "api_name": "ACHH4",
+   "internal_key": 5653
+  },
+  {
+   "name": "Shot Caller",
+   "desc": "GTA Online: Invest your hard earned cash to set up a Heist.",
+   "hidden": false,
+   "pct": 23.1,
+   "api_name": "ACHH5",
+   "internal_key": 5654
+  },
+  {
+   "name": "Four Way",
+   "desc": "GTA Online: As Heist Leader set the Finale cut as 25% across all players.",
+   "hidden": false,
+   "pct": 10.5,
+   "api_name": "ACHH6",
+   "internal_key": 5655
+  },
+  {
+   "name": "Live a Little",
+   "desc": "GTA Online: Spend a total of $8,000,000 purchasing vehicles included as part of The Heists Update.",
+   "hidden": false,
+   "pct": 10.3,
+   "api_name": "ACHH7",
+   "internal_key": 5656
+  },
+  {
+   "name": "Can't Touch This",
+   "desc": "GTA Online: Complete a Heist Finale without taking any damage.",
+   "hidden": false,
+   "pct": 21.4,
+   "api_name": "ACHH8",
+   "internal_key": 5657
+  },
+  {
+   "name": "Mastermind",
+   "desc": "GTA Online: Earn 25 platinum medals across Heist Setups and Finales.",
+   "hidden": false,
+   "pct": 9.2,
+   "api_name": "ACHH10",
+   "internal_key": 5658
+  },
+  {
+   "name": "Vinewood Visionary",
+   "desc": "Create and export a video using the Rockstar Editor or enter Director Mode 5 times.",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "ACHH11",
+   "internal_key": 5659
+  },
+  {
+   "name": "Majestic",
+   "desc": "Create and export 10 videos using the Rockstar Editor or enter Director Mode 10 times.",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "ACHR2",
+   "internal_key": 5660
+  },
+  {
+   "name": "Humans of Los Santos",
+   "desc": "Unlock all Special Characters and entered Director Mode as an actor from this category.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "ACHR3",
+   "internal_key": 5661
+  },
+  {
+   "name": "First Time Director",
+   "desc": "Enter Director Mode for the first time as an unlocked actor.",
+   "hidden": false,
+   "pct": 13.6,
+   "api_name": "ACHR4",
+   "internal_key": 5662
+  },
+  {
+   "name": "Animal Lover",
+   "desc": "Enter Director Mode as an unlocked animal actor for the first time.",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "ACHR5",
+   "internal_key": 5663
+  },
+  {
+   "name": "Ensemble Piece",
+   "desc": "Unlock all Story Characters and enter Director Mode as an actor from this category.",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "ACHR6",
+   "internal_key": 6656
+  },
+  {
+   "name": "Cult Movie",
+   "desc": "Enter Director Mode as Cris Formage.",
+   "hidden": false,
+   "pct": 4.5,
+   "api_name": "ACHR7",
+   "internal_key": 6657
+  },
+  {
+   "name": "Location Scout",
+   "desc": "Visit all Locations in Director Mode.",
+   "hidden": false,
+   "pct": 4.5,
+   "api_name": "ACHR8",
+   "internal_key": 6658
+  },
+  {
+   "name": "Method Actor",
+   "desc": "Enter Director Mode using any of your own GTA Online characters.",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "ACHR9",
+   "internal_key": 6659
+  },
+  {
+   "name": "Cryptozoologist",
+   "desc": "Unlock all the animals.",
+   "hidden": true,
+   "pct": 4.6,
+   "api_name": "ACHR10",
+   "internal_key": 6660
+  },
+  {
+   "name": "Getting Started",
+   "desc": "GTA Online: You set up the Doomsday Heist.",
+   "hidden": false,
+   "pct": 13.8,
+   "api_name": "ACHGO1",
+   "internal_key": 6661
+  },
+  {
+   "name": "The Data Breaches",
+   "desc": "GTA Online: You completed Act I of The Doomsday Heist as Leader or Crew.",
+   "hidden": true,
+   "pct": 16.5,
+   "api_name": "ACHGO2",
+   "internal_key": 6662
+  },
+  {
+   "name": "The Bogdan Problem",
+   "desc": "GTA Online: You completed Act II of The Doomsday Heist as Leader or Crew.",
+   "hidden": true,
+   "pct": 14.8,
+   "api_name": "ACHGO3",
+   "internal_key": 6663
+  },
+  {
+   "name": "The Doomsday Scenario",
+   "desc": "GTA Online: You completed Act III of The Doomsday Heist as Leader or Crew.",
+   "hidden": true,
+   "pct": 12.3,
+   "api_name": "ACHGO4",
+   "internal_key": 6664
+  },
+  {
+   "name": "A World Worth Saving",
+   "desc": "GTA Online: You completed The Doomsday Heist as Leader or Crew.",
+   "hidden": true,
+   "pct": 10.2,
+   "api_name": "ACHGO5",
+   "internal_key": 6665
+  },
+  {
+   "name": "Orbital Obliteration",
+   "desc": "GTA Online: You killed another player with the Orbital Cannon.",
+   "hidden": false,
+   "pct": 8.9,
+   "api_name": "ACHGO6",
+   "internal_key": 6666
+  },
+  {
+   "name": "Elitist",
+   "desc": "GTA Online: You completed all 3 Elite Challenges in The Doomsday Heist.",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "ACHGO7",
+   "internal_key": 6667
+  },
+  {
+   "name": "Masterminds",
+   "desc": "GTA Online: You completed all 3 Criminal Mastermind Challenges in The Doomsday Heist.",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "ACHGO8",
+   "internal_key": 6668
+  }
+ ]
+}

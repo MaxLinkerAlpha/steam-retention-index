@@ -1,0 +1,575 @@
+{
+ "appid": 2358720,
+ "game": "Black Myth: Wukong",
+ "snapshot": "2026-11-24 17:53 +08",
+ "count": 81,
+ "achievements": [
+  {
+   "api": "81001",
+   "name": "Home is Behind",
+   "desc": "The old monkey has told his tale. Onward you must go.",
+   "hidden": false,
+   "pct": 97.7
+  },
+  {
+   "api": "81003",
+   "name": "Warring with Wolves",
+   "desc": "",
+   "hidden": true,
+   "pct": 84.8
+  },
+  {
+   "api": "81002",
+   "name": "Hammer and Hew",
+   "desc": "Armed head to toe, dread not the foe.",
+   "hidden": false,
+   "pct": 84.5
+  },
+  {
+   "api": "81004",
+   "name": "Absorb and Cultivate",
+   "desc": "",
+   "hidden": true,
+   "pct": 83.6
+  },
+  {
+   "api": "81005",
+   "name": "Brew of Bravery",
+   "desc": "Fresh brew in an old cask. May it stir a great task!",
+   "hidden": false,
+   "pct": 81.2
+  },
+  {
+   "api": "81006",
+   "name": "Slithering Snake",
+   "desc": "",
+   "hidden": true,
+   "pct": 80.3
+  },
+  {
+   "api": "81007",
+   "name": "Handy and Hardy",
+   "desc": "A good match calls for a good weapon.",
+   "hidden": false,
+   "pct": 78.6
+  },
+  {
+   "api": "81010",
+   "name": "Blazing Black Wind",
+   "desc": "",
+   "hidden": true,
+   "pct": 78.1
+  },
+  {
+   "api": "81008",
+   "name": "Enduring Echoes",
+   "desc": "",
+   "hidden": true,
+   "pct": 74.8
+  },
+  {
+   "api": "81009",
+   "name": "Temple of Taint",
+   "desc": "",
+   "hidden": true,
+   "pct": 74.2
+  },
+  {
+   "api": "81012",
+   "name": "Cursed Clan",
+   "desc": "",
+   "hidden": true,
+   "pct": 73.8
+  },
+  {
+   "api": "81016",
+   "name": "The Stone's Secret",
+   "desc": "",
+   "hidden": true,
+   "pct": 71.3
+  },
+  {
+   "api": "81011",
+   "name": "Creative Concoction",
+   "desc": "Tonics are well and good, but not to be wolfed like food!",
+   "hidden": false,
+   "pct": 70.2
+  },
+  {
+   "api": "81023",
+   "name": "A Great Gust",
+   "desc": "",
+   "hidden": true,
+   "pct": 67.8
+  },
+  {
+   "api": "81025",
+   "name": "Voice Vanquished",
+   "desc": "",
+   "hidden": true,
+   "pct": 63.8
+  },
+  {
+   "api": "81019",
+   "name": "Gleams of Gold",
+   "desc": "",
+   "hidden": true,
+   "pct": 63.5
+  },
+  {
+   "api": "81021",
+   "name": "Shifting Sands",
+   "desc": "",
+   "hidden": true,
+   "pct": 63.3
+  },
+  {
+   "api": "81026",
+   "name": "Karma of Kang-Jin",
+   "desc": "",
+   "hidden": true,
+   "pct": 62.8
+  },
+  {
+   "api": "81015",
+   "name": "Death in Despair",
+   "desc": "",
+   "hidden": true,
+   "pct": 61.5
+  },
+  {
+   "api": "81013",
+   "name": "Cage of Claws",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.7
+  },
+  {
+   "api": "81022",
+   "name": "Precious Pills",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.5
+  },
+  {
+   "api": "81014",
+   "name": "Sound in Stone",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.1
+  },
+  {
+   "api": "81017",
+   "name": "Oṃ Maṇi Padme Hūm",
+   "desc": "",
+   "hidden": true,
+   "pct": 59.7
+  },
+  {
+   "api": "81037",
+   "name": "Matches with the Macaque",
+   "desc": "",
+   "hidden": true,
+   "pct": 59.0
+  },
+  {
+   "api": "81038",
+   "name": "Nifty Nonsense",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.7
+  },
+  {
+   "api": "81039",
+   "name": "Mud on His Face",
+   "desc": "",
+   "hidden": true,
+   "pct": 56.5
+  },
+  {
+   "api": "81027",
+   "name": "Boundless Bitterness",
+   "desc": "",
+   "hidden": true,
+   "pct": 56.2
+  },
+  {
+   "api": "81029",
+   "name": "Secret in the Scroll",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.4
+  },
+  {
+   "api": "81018",
+   "name": "Buried in the Sand",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.3
+  },
+  {
+   "api": "81040",
+   "name": "Gnashing Grudge",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.2
+  },
+  {
+   "api": "81041",
+   "name": "Passion Passes",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.9
+  },
+  {
+   "api": "81020",
+   "name": "The Tiger Family",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.8
+  },
+  {
+   "api": "81033",
+   "name": "Marvelous Melon",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.7
+  },
+  {
+   "api": "81048",
+   "name": "Behold the Betrayal",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.9
+  },
+  {
+   "api": "81031",
+   "name": "The Soaring Slash",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.6
+  },
+  {
+   "api": "81028",
+   "name": "Shell and Scales",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.4
+  },
+  {
+   "api": "81050",
+   "name": "The Furnace Boy",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.3
+  },
+  {
+   "api": "81043",
+   "name": "Secret in Purple Cloud",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.1
+  },
+  {
+   "api": "81059",
+   "name": "Flaming Fury",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.6
+  },
+  {
+   "api": "81046",
+   "name": "The Cockerel Crowed",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.2
+  },
+  {
+   "api": "81065",
+   "name": "The Cloud Claimed",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.1
+  },
+  {
+   "api": "81032",
+   "name": "Happy Harvest",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.0
+  },
+  {
+   "api": "81035",
+   "name": "Corrupted Captains",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.4
+  },
+  {
+   "api": "81042",
+   "name": "The Loong Pattern",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.0
+  },
+  {
+   "api": "81071",
+   "name": "Guardian of Gear",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.6
+  },
+  {
+   "api": "81030",
+   "name": "Pound and Perfect",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.3
+  },
+  {
+   "api": "81024",
+   "name": "Thousand-Mile Quest",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.0
+  },
+  {
+   "api": "81060",
+   "name": "Treasure Trove",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.8
+  },
+  {
+   "api": "81072",
+   "name": "A Duel of Destiny",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.5
+  },
+  {
+   "api": "81036",
+   "name": "Devoted Disciples",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.3
+  },
+  {
+   "api": "81054",
+   "name": "A Willing Warrior",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.2
+  },
+  {
+   "api": "81056",
+   "name": "Three Teams of Two",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.2
+  },
+  {
+   "api": "81058",
+   "name": "Frost and Flame",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.0
+  },
+  {
+   "api": "81047",
+   "name": "Misfit with Merit",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.0
+  },
+  {
+   "api": "81044",
+   "name": "The Wayward Ways",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.0
+  },
+  {
+   "api": "81061",
+   "name": "Mei of Memory",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.8
+  },
+  {
+   "api": "81034",
+   "name": "Lust and Dust",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.7
+  },
+  {
+   "api": "81062",
+   "name": "Meet the Match",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.0
+  },
+  {
+   "api": "81074",
+   "name": "Six Senses Secured",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.9
+  },
+  {
+   "api": "81045",
+   "name": "A Family Finished",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.6
+  },
+  {
+   "api": "81075",
+   "name": "Master of Magic",
+   "desc": "All spells we know are derived from the same source.",
+   "hidden": false,
+   "pct": 39.4
+  },
+  {
+   "api": "81068",
+   "name": "The Five Skandhas",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.9
+  },
+  {
+   "api": "81049",
+   "name": "Always Accompanied",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.7
+  },
+  {
+   "api": "81066",
+   "name": "The Clamor of Frogs",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.2
+  },
+  {
+   "api": "81051",
+   "name": "Urge Unfulfilled",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.4
+  },
+  {
+   "api": "81053",
+   "name": "Souls in the Stalks",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.3
+  },
+  {
+   "api": "81070",
+   "name": "Treaded Tracks",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.0
+  },
+  {
+   "api": "81069",
+   "name": "Medicine Meal",
+   "desc": "\"Here, have it, have it all.\"",
+   "hidden": false,
+   "pct": 31.7
+  },
+  {
+   "api": "81064",
+   "name": "Brews and Barrels",
+   "desc": "Now you can sate yourself with all the drinks.",
+   "hidden": false,
+   "pct": 31.1
+  },
+  {
+   "api": "81063",
+   "name": "Full of Forms",
+   "desc": "Each guise grants a new horizon.",
+   "hidden": false,
+   "pct": 29.8
+  },
+  {
+   "api": "81055",
+   "name": "Scenic Seeker",
+   "desc": "The most marvelous places for meditation have all met your gaze.",
+   "hidden": false,
+   "pct": 29.0
+  },
+  {
+   "api": "81073",
+   "name": "Portraits Perfected",
+   "desc": "Humans, beasts, yaoguais, and the Bodhisattvas. All recorded and noted.",
+   "hidden": false,
+   "pct": 25.3
+  },
+  {
+   "api": "81077",
+   "name": "Page Preserver",
+   "desc": "\"All the tattered pages can now be compiled in full.\"",
+   "hidden": false,
+   "pct": 22.8
+  },
+  {
+   "api": "81076",
+   "name": "Gourds Gathered",
+   "desc": "Rare is not the gourd but a friend to drink with.",
+   "hidden": false,
+   "pct": 21.5
+  },
+  {
+   "api": "81080",
+   "name": "Staffs and Spears",
+   "desc": "A walking vault of arms you have become!",
+   "hidden": false,
+   "pct": 18.3
+  },
+  {
+   "api": "81057",
+   "name": "With Full Spirit",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.5
+  },
+  {
+   "api": "81052",
+   "name": "Seeds to Sow",
+   "desc": "Take more as fruit as your plants take root.",
+   "hidden": false,
+   "pct": 16.2
+  },
+  {
+   "api": "81067",
+   "name": "A Curious Collection",
+   "desc": "Every rare wonder the world can offer, collected and kept.",
+   "hidden": false,
+   "pct": 15.4
+  },
+  {
+   "api": "81078",
+   "name": "Brewer's Bounty",
+   "desc": "A blend for every brew to bring out its best.",
+   "hidden": false,
+   "pct": 14.1
+  },
+  {
+   "api": "81079",
+   "name": "Mantled with Might",
+   "desc": "Shoes on feet, hat on head, embroidered shirt, Daoist robe—free as can be, doing as you please!",
+   "hidden": false,
+   "pct": 14.0
+  },
+  {
+   "api": "81081",
+   "name": "Final Fulfillment",
+   "desc": "Each ordeal paves your path to what you are meant to be.",
+   "hidden": false,
+   "pct": 12.6
+  }
+ ]
+}

@@ -1,0 +1,457 @@
+{
+ "appid": 1196590,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 56,
+ "achievements": [
+  {
+   "name": "Not Lycan This...",
+   "desc": "Survive the lycan attack.",
+   "hidden": true,
+   "pct": 84.6,
+   "api_name": "1",
+   "internal_key": 256
+  },
+  {
+   "name": "Four Lords",
+   "desc": "Escape the mine.",
+   "hidden": true,
+   "pct": 78.9,
+   "api_name": "2",
+   "internal_key": 257
+  },
+  {
+   "name": "That Sucked!",
+   "desc": "Defeat the mutated Dimitrescu.",
+   "hidden": true,
+   "pct": 68.3,
+   "api_name": "3",
+   "internal_key": 258
+  },
+  {
+   "name": "Got No Strings",
+   "desc": "Defeat Donna and Angie.",
+   "hidden": true,
+   "pct": 64.1,
+   "api_name": "4",
+   "internal_key": 259
+  },
+  {
+   "name": "Fish Out of Water",
+   "desc": "Defeat the mutated Moreau.",
+   "hidden": true,
+   "pct": 62.3,
+   "api_name": "5",
+   "internal_key": 260
+  },
+  {
+   "name": "Up Urs!",
+   "desc": "Defeat Uriaș in the stronghold.",
+   "hidden": true,
+   "pct": 61.1,
+   "api_name": "6",
+   "internal_key": 261
+  },
+  {
+   "name": "Temporary Measures",
+   "desc": "Place the Giant's Chalice in the ceremony site.",
+   "hidden": true,
+   "pct": 60.9,
+   "api_name": "7",
+   "internal_key": 262
+  },
+  {
+   "name": "Iron Giant Down",
+   "desc": "Defeat the mutated Heisenberg.",
+   "hidden": true,
+   "pct": 59.3,
+   "api_name": "8",
+   "internal_key": 263
+  },
+  {
+   "name": "The Root of the Matter",
+   "desc": "Find the Megamycete in the underground ruins.",
+   "hidden": true,
+   "pct": 59.1,
+   "api_name": "9",
+   "internal_key": 264
+  },
+  {
+   "name": "Great Dad",
+   "desc": "Finish the story on at least Casual difficulty.",
+   "hidden": false,
+   "pct": 58.3,
+   "api_name": "10",
+   "internal_key": 265
+  },
+  {
+   "name": "Best Dad Ever",
+   "desc": "Finish the story on at least Standard difficulty.",
+   "hidden": false,
+   "pct": 48.3,
+   "api_name": "11",
+   "internal_key": 266
+  },
+  {
+   "name": "World's Best Dad",
+   "desc": "Finish the story on at least Hardcore difficulty.",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "12",
+   "internal_key": 267
+  },
+  {
+   "name": "Universe's Best Dad",
+   "desc": "Finish the story on the Village of Shadows difficulty.",
+   "hidden": false,
+   "pct": 9.3,
+   "api_name": "13",
+   "internal_key": 268
+  },
+  {
+   "name": "Crafter",
+   "desc": "Craft an item in the Crafting menu.",
+   "hidden": false,
+   "pct": 86.3,
+   "api_name": "14",
+   "internal_key": 269
+  },
+  {
+   "name": "Patron",
+   "desc": "Purchase something from the Duke in the story.",
+   "hidden": false,
+   "pct": 76.9,
+   "api_name": "15",
+   "internal_key": 270
+  },
+  {
+   "name": "Petty Thief",
+   "desc": "Unlock a simple lock with a lockpick.",
+   "hidden": false,
+   "pct": 74.7,
+   "api_name": "16",
+   "internal_key": 271
+  },
+  {
+   "name": "Repairer",
+   "desc": "Combine a treasure into its complete form.",
+   "hidden": false,
+   "pct": 57.5,
+   "api_name": "17",
+   "internal_key": 272
+  },
+  {
+   "name": "Hunter",
+   "desc": "Hunt an animal during the story.",
+   "hidden": false,
+   "pct": 69.2,
+   "api_name": "18",
+   "internal_key": 273
+  },
+  {
+   "name": "Get the Ball Rolling",
+   "desc": "Solve a Labyrinth.",
+   "hidden": false,
+   "pct": 66.4,
+   "api_name": "19",
+   "internal_key": 274
+  },
+  {
+   "name": "Goooaaal!",
+   "desc": "Move the ball from the Winterses' bedroom into the study.",
+   "hidden": true,
+   "pct": 14.1,
+   "api_name": "20",
+   "internal_key": 275
+  },
+  {
+   "name": "Squawk Shot",
+   "desc": "Shoot down five flying crows in the story.",
+   "hidden": false,
+   "pct": 15.2,
+   "api_name": "21",
+   "internal_key": 276
+  },
+  {
+   "name": "When You Gotta Go...",
+   "desc": "Open the door to every outhouse in the village in a single playthrough.",
+   "hidden": false,
+   "pct": 18.1,
+   "api_name": "22",
+   "internal_key": 277
+  },
+  {
+   "name": "Hooligan",
+   "desc": "Break every breakable window in Castle Dimitrescu in a single playthrough.",
+   "hidden": false,
+   "pct": 8.6,
+   "api_name": "23",
+   "internal_key": 278
+  },
+  {
+   "name": "Quit Hanging Around",
+   "desc": "Shoot down a Soldat hanging from the production line in the Factory.",
+   "hidden": true,
+   "pct": 19.8,
+   "api_name": "24",
+   "internal_key": 279
+  },
+  {
+   "name": "Push Comes to Shove",
+   "desc": "Push away an enemy after guarding in the story.",
+   "hidden": false,
+   "pct": 42.7,
+   "api_name": "25",
+   "internal_key": 280
+  },
+  {
+   "name": "Trick Shot",
+   "desc": "Defeat an enemy from long range with the sniper rifle in the story.",
+   "hidden": false,
+   "pct": 42.2,
+   "api_name": "26",
+   "internal_key": 281
+  },
+  {
+   "name": "Strategist",
+   "desc": "Defeat at least three enemies with one attack in the story.",
+   "hidden": false,
+   "pct": 67.3,
+   "api_name": "27",
+   "internal_key": 282
+  },
+  {
+   "name": "Medium Rare",
+   "desc": "Set fire to a Moroaică in the story.",
+   "hidden": false,
+   "pct": 45.8,
+   "api_name": "28",
+   "internal_key": 283
+  },
+  {
+   "name": "Fast Reflexes",
+   "desc": "Knock a flaming arrow out of the sky with a close combat weapon in the story.",
+   "hidden": false,
+   "pct": 10.9,
+   "api_name": "29",
+   "internal_key": 284
+  },
+  {
+   "name": "Leader of the Pack",
+   "desc": "Take down the Vârcolac Alfa in the story.",
+   "hidden": false,
+   "pct": 30.2,
+   "api_name": "30",
+   "internal_key": 285
+  },
+  {
+   "name": "Timber",
+   "desc": "Defeat Uriaș during the first lycan attack when you enter the village.",
+   "hidden": true,
+   "pct": 14.8,
+   "api_name": "31",
+   "internal_key": 286
+  },
+  {
+   "name": "Photographer",
+   "desc": "Use Photo Mode.",
+   "hidden": false,
+   "pct": 50.7,
+   "api_name": "32",
+   "internal_key": 287
+  },
+  {
+   "name": "Lucky Number 7",
+   "desc": "Have 777, 7,777, or 77,777 Lei in your possession in the story.",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "33",
+   "internal_key": 512
+  },
+  {
+   "name": "Mapmatician",
+   "desc": "Complete the village map.",
+   "hidden": false,
+   "pct": 36.9,
+   "api_name": "34",
+   "internal_key": 513
+  },
+  {
+   "name": "Cynic",
+   "desc": "Destroy a Goat of Warding.",
+   "hidden": false,
+   "pct": 76.7,
+   "api_name": "35",
+   "internal_key": 514
+  },
+  {
+   "name": "Heretic",
+   "desc": "Destroy all the Goats of Warding.",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "36",
+   "internal_key": 515
+  },
+  {
+   "name": "Gunsmith",
+   "desc": "Equip a gun with a customizable part.",
+   "hidden": false,
+   "pct": 74.8,
+   "api_name": "37",
+   "internal_key": 516
+  },
+  {
+   "name": "Veteran Gunsmith",
+   "desc": "Equip every gun with their customizable parts in the story.",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "38",
+   "internal_key": 517
+  },
+  {
+   "name": "Tinkerer",
+   "desc": "Create every type of item available in the Crafting menu.",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "39",
+   "internal_key": 518
+  },
+  {
+   "name": "Artisan",
+   "desc": "Collect every crafting recipe.",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "40",
+   "internal_key": 519
+  },
+  {
+   "name": "Bookworm",
+   "desc": "Read every single file in the story.",
+   "hidden": false,
+   "pct": 7.0,
+   "api_name": "41",
+   "internal_key": 520
+  },
+  {
+   "name": "Don't Trust That Snake Oil",
+   "desc": "Finish the story only using four or less recovery items.",
+   "hidden": true,
+   "pct": 10.3,
+   "api_name": "42",
+   "internal_key": 521
+  },
+  {
+   "name": "Dashing Dad",
+   "desc": "Finish the story within 3 hours.",
+   "hidden": false,
+   "pct": 8.0,
+   "api_name": "43",
+   "internal_key": 522
+  },
+  {
+   "name": "Frugal Father",
+   "desc": "Finish the story without spending more than 10,000 Lei.",
+   "hidden": false,
+   "pct": 5.6,
+   "api_name": "44",
+   "internal_key": 523
+  },
+  {
+   "name": "Knives Out",
+   "desc": "Not including some boss fights, finish the story using nothing but close combat weapons.",
+   "hidden": true,
+   "pct": 3.7,
+   "api_name": "45",
+   "internal_key": 524
+  },
+  {
+   "name": "Combo King",
+   "desc": "Get a combo of at least 30 during The Mercenaries.",
+   "hidden": false,
+   "pct": 13.1,
+   "api_name": "46",
+   "internal_key": 525
+  },
+  {
+   "name": "Legendary Cowboy",
+   "desc": "Achieve at least an S Rank on all stages in The Mercenaries.",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "47",
+   "internal_key": 526
+  },
+  {
+   "name": "Doll Collector",
+   "desc": "View all character and weapon models.",
+   "hidden": false,
+   "pct": 9.3,
+   "api_name": "48",
+   "internal_key": 527
+  },
+  {
+   "name": "Art Collector",
+   "desc": "View all concept art.",
+   "hidden": false,
+   "pct": 8.2,
+   "api_name": "49",
+   "internal_key": 528
+  },
+  {
+   "name": "Green Teen",
+   "desc": "Finish Shadows of Rose on at least Casual difficulty.",
+   "hidden": false,
+   "pct": 14.8,
+   "api_name": "50",
+   "internal_key": 529
+  },
+  {
+   "name": "Serene Teen",
+   "desc": "Finish Shadows of Rose on at least Standard difficulty.",
+   "hidden": false,
+   "pct": 12.7,
+   "api_name": "51",
+   "internal_key": 530
+  },
+  {
+   "name": "Supreme Teen",
+   "desc": "Finish Shadows of Rose on Hardcore difficulty.",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "52",
+   "internal_key": 531
+  },
+  {
+   "name": "It's Starting to Grow on Me",
+   "desc": "Use Rose's mutamycete powers at least 20 times.",
+   "hidden": true,
+   "pct": 17.1,
+   "api_name": "53",
+   "internal_key": 532
+  },
+  {
+   "name": "Craftsmaster",
+   "desc": "Craft every type of item in Shadows of Rose.",
+   "hidden": false,
+   "pct": 5.4,
+   "api_name": "54",
+   "internal_key": 533
+  },
+  {
+   "name": "Village of Blood",
+   "desc": "Complete the Bloody Village in Additional Orders.",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "55",
+   "internal_key": 534
+  },
+  {
+   "name": "River of Blood",
+   "desc": "Complete the Bloody River in Additional Orders.",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "56",
+   "internal_key": 535
+  }
+ ]
+}

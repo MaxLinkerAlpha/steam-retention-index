@@ -1,0 +1,113 @@
+{
+ "appid": 239030,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 13,
+ "achievements": [
+  {
+   "name": "Antegria Token",
+   "desc": "Collect the hidden Antegria Token",
+   "hidden": false,
+   "pct": 39.6,
+   "api_name": "ACH_TOKEN_ANTEGRIA",
+   "internal_key": 512
+  },
+  {
+   "name": "Republia Token",
+   "desc": "Collect the hidden Republia Token",
+   "hidden": false,
+   "pct": 8.2,
+   "api_name": "ACH_TOKEN_REPUBLIA",
+   "internal_key": 513
+  },
+  {
+   "name": "Impor Token",
+   "desc": "Collect the hidden Impor Token",
+   "hidden": false,
+   "pct": 16.9,
+   "api_name": "ACH_TOKEN_IMPOR",
+   "internal_key": 514
+  },
+  {
+   "name": "Obristan Token",
+   "desc": "Collect the hidden Obristan Token",
+   "hidden": false,
+   "pct": 57.4,
+   "api_name": "ACH_TOKEN_OBRISTAN",
+   "internal_key": 515
+  },
+  {
+   "name": "Kolechia Token",
+   "desc": "Collect the hidden Kolechia Token",
+   "hidden": false,
+   "pct": 17.2,
+   "api_name": "ACH_TOKEN_KOLECHIA",
+   "internal_key": 516
+  },
+  {
+   "name": "Arstotzka Token",
+   "desc": "Collect the hidden Arstotzka Token",
+   "hidden": false,
+   "pct": 36.6,
+   "api_name": "ACH_TOKEN_ARSTOTZKA",
+   "internal_key": 517
+  },
+  {
+   "name": "United Federation Token",
+   "desc": "Collect the hidden United Federation Token",
+   "hidden": false,
+   "pct": 14.7,
+   "api_name": "ACH_TOKEN_UNITEDFED",
+   "internal_key": 518
+  },
+  {
+   "name": "Too Honest",
+   "desc": "Turn over EZIC docs to M.O.I investigator",
+   "hidden": true,
+   "pct": 22.0,
+   "api_name": "ACH_END_TURNEDOVEREZICDOCS",
+   "internal_key": 519
+  },
+  {
+   "name": "Hired Rifle",
+   "desc": "Kill the man in red for EZIC",
+   "hidden": true,
+   "pct": 15.0,
+   "api_name": "ACH_END_KILLEDTARGET",
+   "internal_key": 520
+  },
+  {
+   "name": "Member of the Order",
+   "desc": "Help EZIC overthrow the government",
+   "hidden": true,
+   "pct": 8.9,
+   "api_name": "ACH_END_HELPEZICHOLDFIRE",
+   "internal_key": 521
+  },
+  {
+   "name": "Snowier Pastures",
+   "desc": "Escape to Obristan",
+   "hidden": true,
+   "pct": 7.4,
+   "api_name": "ACH_END_ESCAPE",
+   "internal_key": 522
+  },
+  {
+   "name": "Glory to Arstotzka",
+   "desc": "Ignore all EZIC requests and work dutifully",
+   "hidden": true,
+   "pct": 10.3,
+   "api_name": "ACH_END_IGNOREEZIC",
+   "internal_key": 523
+  },
+  {
+   "name": "Worker's Best",
+   "desc": "Acquire a Class-5 Apartment",
+   "hidden": true,
+   "pct": 8.4,
+   "api_name": "ACH_APT_CLASS5",
+   "internal_key": 524
+  }
+ ]
+}

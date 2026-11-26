@@ -1,0 +1,457 @@
+{
+ "appid": 1868140,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 56,
+ "achievements": [
+  {
+   "name": "Bancho Sushi is Back!",
+   "desc": "Fixed the Sushi Restaurant.",
+   "hidden": false,
+   "pct": 85.7,
+   "api_name": "Achievement_14130001",
+   "internal_key": 4864
+  },
+  {
+   "name": "Undersea Gunslinger",
+   "desc": "Completed the gun tutorial.",
+   "hidden": false,
+   "pct": 87.2,
+   "api_name": "Achievement_14130002",
+   "internal_key": 4865
+  },
+  {
+   "name": "New Undersea Friend",
+   "desc": "Completed the Dolphin's request.",
+   "hidden": false,
+   "pct": 69.0,
+   "api_name": "Achievement_14130003",
+   "internal_key": 4866
+  },
+  {
+   "name": "Better Equipment",
+   "desc": "Made first equipment upgrade.",
+   "hidden": false,
+   "pct": 87.3,
+   "api_name": "Achievement_14130004",
+   "internal_key": 4867
+  },
+  {
+   "name": "Undersea Civilization!",
+   "desc": "Discovered the under-sea village.",
+   "hidden": false,
+   "pct": 55.1,
+   "api_name": "Achievement_14130005",
+   "internal_key": 4868
+  },
+  {
+   "name": "Deep-sea Diver",
+   "desc": "Entered the Deep Sea for the first time.",
+   "hidden": false,
+   "pct": 67.1,
+   "api_name": "Achievement_14130006",
+   "internal_key": 4869
+  },
+  {
+   "name": "Culinary Researcher",
+   "desc": "Researched 5 new dishes at Bancho Sushi.",
+   "hidden": false,
+   "pct": 75.9,
+   "api_name": "Achievement_14130009",
+   "internal_key": 4870
+  },
+  {
+   "name": "Culinary Master",
+   "desc": "Enhanced 5 dishes at Bancho Sushi.",
+   "hidden": false,
+   "pct": 79.4,
+   "api_name": "Achievement_14130010",
+   "internal_key": 4871
+  },
+  {
+   "name": "Shop's Lookin' Good!",
+   "desc": "Bought First Interior Item.",
+   "hidden": false,
+   "pct": 57.6,
+   "api_name": "Achievement_14130011",
+   "internal_key": 4872
+  },
+  {
+   "name": "Influencer",
+   "desc": "Reached Bronze Level in Cooksta.",
+   "hidden": false,
+   "pct": 80.4,
+   "api_name": "Achievement_14130012",
+   "internal_key": 4873
+  },
+  {
+   "name": "Scrap Metal Collector",
+   "desc": "Picked up 100 items at the Blue Hole.",
+   "hidden": false,
+   "pct": 65.4,
+   "api_name": "RootingItems_GTID_1",
+   "internal_key": 4874
+  },
+  {
+   "name": "Angry Shark!",
+   "desc": "Caught first shark.",
+   "hidden": false,
+   "pct": 78.6,
+   "api_name": "KillFishes_GTID_2",
+   "internal_key": 4875
+  },
+  {
+   "name": "Dave the Sniper",
+   "desc": "Caught 10 fish with a Sniper Rifle.",
+   "hidden": false,
+   "pct": 41.0,
+   "api_name": "KillingCount_ByGTIDWeapons_3",
+   "internal_key": 4876
+  },
+  {
+   "name": "Mister Melee",
+   "desc": "Caught 20 fish with melee weapons.",
+   "hidden": false,
+   "pct": 65.0,
+   "api_name": "CloseCombatExpert_0",
+   "internal_key": 4877
+  },
+  {
+   "name": "Saved Dave!",
+   "desc": "First time bringing Dave back from the brink of death.",
+   "hidden": false,
+   "pct": 79.9,
+   "api_name": "PlayerDeadCnt_0",
+   "internal_key": 4878
+  },
+  {
+   "name": "A Dark and Cold Place",
+   "desc": "Discovered the Glacial Passage.",
+   "hidden": false,
+   "pct": 42.1,
+   "api_name": "Achievement_14130018",
+   "internal_key": 4879
+  },
+  {
+   "name": "Momo's Secret",
+   "desc": "Got to know Momo a little better.",
+   "hidden": false,
+   "pct": 26.9,
+   "api_name": "Achievement_14130019",
+   "internal_key": 4880
+  },
+  {
+   "name": "Achoo!",
+   "desc": "Entered the Glacial Area for the first time.",
+   "hidden": false,
+   "pct": 35.2,
+   "api_name": "Achievement_14130020",
+   "internal_key": 4881
+  },
+  {
+   "name": "A Peaceful Blue Hole",
+   "desc": "Watched the ending credits.",
+   "hidden": false,
+   "pct": 25.4,
+   "api_name": "Achievement_14130021",
+   "internal_key": 4882
+  },
+  {
+   "name": "Dumplings in the Water",
+   "desc": "Mima's restaurant opened.",
+   "hidden": false,
+   "pct": 37.4,
+   "api_name": "Achievement_14130022",
+   "internal_key": 4883
+  },
+  {
+   "name": "The Seaweed is Growing!",
+   "desc": "Gumo's seaweed farm opened.",
+   "hidden": false,
+   "pct": 33.2,
+   "api_name": "Achievement_14130023",
+   "internal_key": 4884
+  },
+  {
+   "name": "Feeble Blacksmith",
+   "desc": "Duwa's workshop opened.",
+   "hidden": false,
+   "pct": 33.5,
+   "api_name": "Achievement_14130024",
+   "internal_key": 4885
+  },
+  {
+   "name": "Weapon Collector",
+   "desc": "Collected all the blueprints.",
+   "hidden": false,
+   "pct": 14.4,
+   "api_name": "Achievement_14130025",
+   "internal_key": 4886
+  },
+  {
+   "name": "Arms Craftsman",
+   "desc": "Enhanced gun 3 times.",
+   "hidden": false,
+   "pct": 38.5,
+   "api_name": "Achievement_14130026",
+   "internal_key": 4887
+  },
+  {
+   "name": "Sea People Historian",
+   "desc": "Captured all of the Sea People murals.",
+   "hidden": false,
+   "pct": 9.3,
+   "api_name": "Achievement_14130027",
+   "internal_key": 4888
+  },
+  {
+   "name": "Predator of the Blue Hole",
+   "desc": "Caught 300 fish at the Blue Hole.",
+   "hidden": false,
+   "pct": 59.1,
+   "api_name": "Achievement_14130028",
+   "internal_key": 4889
+  },
+  {
+   "name": "Ration Eater",
+   "desc": "Ate rations.",
+   "hidden": true,
+   "pct": 35.7,
+   "api_name": "Achievement_14130029",
+   "internal_key": 4890
+  },
+  {
+   "name": "Catman",
+   "desc": "Fed cat 20 times.",
+   "hidden": false,
+   "pct": 8.6,
+   "api_name": "Achievement_14130030",
+   "internal_key": 4891
+  },
+  {
+   "name": "Blacksmith Helper",
+   "desc": "Sold 200 items at workshop.",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "Achievement_14130031",
+   "internal_key": 4892
+  },
+  {
+   "name": "Professional Farmer",
+   "desc": "Installed sprinklers in the garden.",
+   "hidden": false,
+   "pct": 17.9,
+   "api_name": "Achievement_14130032",
+   "internal_key": 4893
+  },
+  {
+   "name": "GYAO! Master",
+   "desc": "Raised 5 GYAO!s.",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "Achievement_14130034",
+   "internal_key": 4894
+  },
+  {
+   "name": "Photographer",
+   "desc": "Took 10 photos at Photo Spots in the Blue Hole.",
+   "hidden": false,
+   "pct": 39.2,
+   "api_name": "Achievement_14130035",
+   "internal_key": 4895
+  },
+  {
+   "name": "Strange Fish",
+   "desc": "Captured 5 FishMon.",
+   "hidden": false,
+   "pct": 7.0,
+   "api_name": "Achievement_14130036",
+   "internal_key": 12800
+  },
+  {
+   "name": "Dev Killer",
+   "desc": "Wiped-out all the developers.",
+   "hidden": true,
+   "pct": 4.3,
+   "api_name": "Achievement_14130037",
+   "internal_key": 12801
+  },
+  {
+   "name": "Creature Hunter",
+   "desc": "Defeated all bosses in the Blue Hole.",
+   "hidden": true,
+   "pct": 20.6,
+   "api_name": "Achievement_14130038",
+   "internal_key": 12802
+  },
+  {
+   "name": "My Wonderful Rice Field!",
+   "desc": "Rice field expanded to maximum.",
+   "hidden": false,
+   "pct": 23.3,
+   "api_name": "Achievement_14130039",
+   "internal_key": 12803
+  },
+  {
+   "name": "My Wonderful Field!",
+   "desc": "Vegetable farm expanded to maximum.",
+   "hidden": false,
+   "pct": 19.3,
+   "api_name": "Achievement_14130040",
+   "internal_key": 12804
+  },
+  {
+   "name": "God of Lightning",
+   "desc": "Caught a fish with Mjolnir.",
+   "hidden": true,
+   "pct": 10.3,
+   "api_name": "Achievement_14130041",
+   "internal_key": 12805
+  },
+  {
+   "name": "A Bancho Sushi Regular",
+   "desc": "Achieved Platinum rank in Cooksta.",
+   "hidden": false,
+   "pct": 38.0,
+   "api_name": "Achievement_14130042",
+   "internal_key": 12806
+  },
+  {
+   "name": "Leadership",
+   "desc": "Trained an employee to level 20.",
+   "hidden": false,
+   "pct": 9.8,
+   "api_name": "Achievement_14130043",
+   "internal_key": 12807
+  },
+  {
+   "name": "Cooksta Influencer",
+   "desc": "Achieved Diamond rank in Cooksta.",
+   "hidden": false,
+   "pct": 13.8,
+   "api_name": "Achievement_14130044",
+   "internal_key": 12808
+  },
+  {
+   "name": "Artisan's Flame",
+   "desc": "Researched 30 new dishes at Bancho Sushi.",
+   "hidden": false,
+   "pct": 25.4,
+   "api_name": "Achievement_14130045",
+   "internal_key": 12809
+  },
+  {
+   "name": "Manager",
+   "desc": "Bancho Sushi formed a branch restaurant.",
+   "hidden": false,
+   "pct": 25.0,
+   "api_name": "Achievement_14130046",
+   "internal_key": 12810
+  },
+  {
+   "name": "Welcome to the Jungle",
+   "desc": "Arrived at Utara Village.",
+   "hidden": false,
+   "pct": 57.6,
+   "api_name": "Achievement_14230001",
+   "internal_key": 12811
+  },
+  {
+   "name": "Guardian of the Jungle",
+   "desc": "Watched the In The Jungle DLC ending.",
+   "hidden": false,
+   "pct": 32.5,
+   "api_name": "Achievement_14230003",
+   "internal_key": 12812
+  },
+  {
+   "name": "Beetle Battler",
+   "desc": "Won 3 Beetle Battles.",
+   "hidden": false,
+   "pct": 41.5,
+   "api_name": "Achievement_14230004",
+   "internal_key": 12813
+  },
+  {
+   "name": "King of Beetles",
+   "desc": "Caught two giant insects.",
+   "hidden": false,
+   "pct": 10.6,
+   "api_name": "Achievement_14230005",
+   "internal_key": 12814
+  },
+  {
+   "name": "Sharpshooter",
+   "desc": "Achieved S rank in all shooting range tiers.",
+   "hidden": false,
+   "pct": 22.6,
+   "api_name": "Achievement_14230006",
+   "internal_key": 12815
+  },
+  {
+   "name": "Jungle Hotspot",
+   "desc": "Reached the top rank at Bancho Grill.",
+   "hidden": false,
+   "pct": 33.0,
+   "api_name": "Achievement_14230007",
+   "internal_key": 12816
+  },
+  {
+   "name": "Friend of the Village",
+   "desc": "Became close with 5 Utara villagers.",
+   "hidden": false,
+   "pct": 32.4,
+   "api_name": "Achievement_14230008",
+   "internal_key": 12817
+  },
+  {
+   "name": "Environmental Protection",
+   "desc": "Purified Utara Lake.",
+   "hidden": false,
+   "pct": 44.8,
+   "api_name": "Achievement_14230009",
+   "internal_key": 12818
+  },
+  {
+   "name": "Foraging Master",
+   "desc": "Foraged land ingredients 100 times.",
+   "hidden": false,
+   "pct": 48.7,
+   "api_name": "Achievement_14230010",
+   "internal_key": 12819
+  },
+  {
+   "name": "Dave the Archaeologist",
+   "desc": "Perfectly restored the Unihornus fossil.",
+   "hidden": false,
+   "pct": 28.6,
+   "api_name": "Achievement_14230011",
+   "internal_key": 12820
+  },
+  {
+   "name": "Rafflesia",
+   "desc": "Bloomed a flower at Marinca Bloom.",
+   "hidden": false,
+   "pct": 14.0,
+   "api_name": "Achievement_14230012",
+   "internal_key": 12821
+  },
+  {
+   "name": "Power of the Jungle Gun",
+   "desc": "Fully upgraded one Jungle Gun type.",
+   "hidden": false,
+   "pct": 29.0,
+   "api_name": "Achievement_14230013",
+   "internal_key": 12822
+  },
+  {
+   "name": "Tyrant of the Lake",
+   "desc": "Defeated Sulong, the giant crocodile.",
+   "hidden": false,
+   "pct": 34.6,
+   "api_name": "Achievement_14230014",
+   "internal_key": 12823
+  }
+ ]
+}

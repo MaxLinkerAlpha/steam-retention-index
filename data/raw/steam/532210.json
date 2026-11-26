@@ -1,0 +1,330 @@
+{
+ "appid": 532210,
+ "game": "Life is Strange 2",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 46,
+ "achievements": [
+  {
+   "api": "ACH_TheSketchyWay",
+   "name": "Sketchy",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.5
+  },
+  {
+   "api": "ACH_OnTheRoadAgain",
+   "name": "A Long Road Ahead",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.1
+  },
+  {
+   "api": "ACH_BearGang",
+   "name": "Bear Aware",
+   "desc": "Find optional collectible #2 in Episode 1",
+   "hidden": false,
+   "pct": 43.1
+  },
+  {
+   "api": "ACH_Supporter",
+   "name": "Bonus Miles",
+   "desc": "Find optional collectible #3 in Episode 1",
+   "hidden": false,
+   "pct": 34.7
+  },
+  {
+   "api": "ACH_E2_FinishEp",
+   "name": "Free Spirits",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.8
+  },
+  {
+   "api": "ACH_E2_DrawSequ",
+   "name": "Draw The Line",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.0
+  },
+  {
+   "api": "ACH_E3_FinishEp",
+   "name": "Adrift",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.8
+  },
+  {
+   "api": "ACH_E3_DrawSequ",
+   "name": "American Graffiti",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.3
+  },
+  {
+   "api": "ACH_E3_Coll2",
+   "name": "Train Of Thought",
+   "desc": "Find optional collectible #2 in Episode 3",
+   "hidden": false,
+   "pct": 25.8
+  },
+  {
+   "api": "ACH_E4_FinishEp",
+   "name": "Romans 3:23",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.0
+  },
+  {
+   "api": "ACH_WolfPack",
+   "name": "Wolf Pack",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.2
+  },
+  {
+   "api": "ACH_E4_Coll1",
+   "name": "A New Perspective",
+   "desc": "Find optional collectible #1 in Episode 4",
+   "hidden": false,
+   "pct": 24.2
+  },
+  {
+   "api": "ACH_E4_DrawSequ",
+   "name": "Chiaroscuro",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.1
+  },
+  {
+   "api": "ACH_E5_FinishEp",
+   "name": "Homeward Bound",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.1
+  },
+  {
+   "api": "ACH_Naturalist",
+   "name": "Trail Angel",
+   "desc": "Find optional collectible #5 in Episode 1",
+   "hidden": false,
+   "pct": 21.4
+  },
+  {
+   "api": "ACH_E5_DrawSequ",
+   "name": "Out Of Ink",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.2
+  },
+  {
+   "api": "ACH_WildlifeProtector",
+   "name": "Ranger",
+   "desc": "Find optional collectible #4 in Episode 1",
+   "hidden": false,
+   "pct": 21.1
+  },
+  {
+   "api": "ACH_E5_Coll2",
+   "name": "The Age Of Reason",
+   "desc": "Find optional collectible #2 in Episode 5",
+   "hidden": false,
+   "pct": 21.1
+  },
+  {
+   "api": "ACH_E4_Coll5",
+   "name": "All Sinners",
+   "desc": "Find optional collectible #5 in Episode 4",
+   "hidden": false,
+   "pct": 19.3
+  },
+  {
+   "api": "ACH_LuckyCharm",
+   "name": "Room Service",
+   "desc": "Find optional collectible #6 in Episode 1",
+   "hidden": false,
+   "pct": 17.3
+  },
+  {
+   "api": "ACH_E2_Coll6",
+   "name": "Small Town Blues",
+   "desc": "Find optional collectible #6 in Episode 2",
+   "hidden": false,
+   "pct": 16.3
+  },
+  {
+   "api": "ACH_E4_Coll2",
+   "name": "Lone Wolf",
+   "desc": "Find optional collectible #2 in Episode 4",
+   "hidden": false,
+   "pct": 16.2
+  },
+  {
+   "api": "ACH_E5_Coll3",
+   "name": "She Wolf",
+   "desc": "Find optional collectible #3 in Episode 5",
+   "hidden": false,
+   "pct": 15.4
+  },
+  {
+   "api": "ACH_E4_Coll4",
+   "name": "Promised Land",
+   "desc": "Find optional collectible #4 in Episode 4",
+   "hidden": false,
+   "pct": 12.6
+  },
+  {
+   "api": "ACH_FlyingFish",
+   "name": "Sidetracked",
+   "desc": "Find optional collectible #1 in Episode 1",
+   "hidden": false,
+   "pct": 11.4
+  },
+  {
+   "api": "ACH_E2_Coll3",
+   "name": "Bad Santa",
+   "desc": "Find optional collectible #3 in Episode 2",
+   "hidden": false,
+   "pct": 11.4
+  },
+  {
+   "api": "ACH_E2_Coll4",
+   "name": "Heirloom",
+   "desc": "Find optional collectible #4 in Episode 2",
+   "hidden": false,
+   "pct": 11.4
+  },
+  {
+   "api": "ACH_E3_Coll6",
+   "name": "One Of Us",
+   "desc": "Find optional collectible #6 in Episode 3",
+   "hidden": false,
+   "pct": 10.5
+  },
+  {
+   "api": "ACH_E5_Coll6",
+   "name": "Boundaries",
+   "desc": "Find optional collectible #6 in Episode 5",
+   "hidden": false,
+   "pct": 10.3
+  },
+  {
+   "api": "ACH_E4_Coll6",
+   "name": "Heaven & Hell",
+   "desc": "Find optional collectible #6 in Episode 4",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "ACH_E4_Coll3",
+   "name": "Amazing Grace",
+   "desc": "Find optional collectible #3 in Episode 4",
+   "hidden": false,
+   "pct": 9.5
+  },
+  {
+   "api": "ACH_E2_Coll2",
+   "name": "Family Business",
+   "desc": "Find optional collectible #2 in Episode 2",
+   "hidden": false,
+   "pct": 9.4
+  },
+  {
+   "api": "ACH_E3_Coll1",
+   "name": "The Dharma Bums",
+   "desc": "Find optional collectible #1 in Episode 3",
+   "hidden": false,
+   "pct": 9.4
+  },
+  {
+   "api": "ACH_E2_Coll1",
+   "name": "Back in Time",
+   "desc": "Find optional collectible #1 in Episode 2",
+   "hidden": false,
+   "pct": 9.3
+  },
+  {
+   "api": "ACH_E2_Coll5",
+   "name": "Teenage Angst",
+   "desc": "Find optional collectible #5 in Episode 2",
+   "hidden": false,
+   "pct": 8.9
+  },
+  {
+   "api": "ACH_TheHerbariumAmateur",
+   "name": "Dillydallying",
+   "desc": "Find all optional collectibles in Episode 1",
+   "hidden": false,
+   "pct": 8.6
+  },
+  {
+   "api": "ACH_E3_Coll5",
+   "name": "Dancing Days",
+   "desc": "Find optional collectible #5 in Episode 3",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "ACH_E5_Coll1",
+   "name": "The Magic Place",
+   "desc": "Find optional collectible #1 in Episode 5",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "ACH_E2_AllCollectibles",
+   "name": "A Private Journey",
+   "desc": "Find all optional collectibles in Episode 2",
+   "hidden": false,
+   "pct": 7.5
+  },
+  {
+   "api": "ACH_E3_Coll3",
+   "name": "Zero Hugs Given",
+   "desc": "Find optional collectible #3 in Episode 3",
+   "hidden": false,
+   "pct": 7.3
+  },
+  {
+   "api": "ACH_E3_Coll4",
+   "name": "Green Thumbs",
+   "desc": "Find optional collectible #4 in Episode 3",
+   "hidden": false,
+   "pct": 7.2
+  },
+  {
+   "api": "ACH_E5_Coll5",
+   "name": "Dead Man's Bones",
+   "desc": "Find optional collectible #5 in Episode 5",
+   "hidden": false,
+   "pct": 6.4
+  },
+  {
+   "api": "ACH_E3_AllCollectibles",
+   "name": "Lost Boys Chronicles",
+   "desc": "Find all optional collectibles in Episode 3",
+   "hidden": false,
+   "pct": 6.1
+  },
+  {
+   "api": "ACH_E4_AllCollectibles",
+   "name": "Archivist",
+   "desc": "Find all optional collectibles in Episode 4",
+   "hidden": false,
+   "pct": 5.7
+  },
+  {
+   "api": "ACH_E5_Coll4",
+   "name": "Remorseful",
+   "desc": "Find optional collectible #4 in Episode 5",
+   "hidden": false,
+   "pct": 5.3
+  },
+  {
+   "api": "ACH_E5_AllCollectibles",
+   "name": "Specks Of Dust",
+   "desc": "Find all optional collectibles in Episode 5",
+   "hidden": false,
+   "pct": 4.6
+  }
+ ]
+}

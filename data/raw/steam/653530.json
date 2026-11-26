@@ -1,0 +1,120 @@
+{
+ "appid": 653530,
+ "game": "Return of the Obra Dinn",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 16,
+ "achievements": [
+  {
+   "api": "ACH_ANYSOLVED_06",
+   "name": "Any 6",
+   "desc": "Solve any 6 fates.",
+   "hidden": false,
+   "pct": 61.7
+  },
+  {
+   "api": "ACH_ANYSOLVED_15",
+   "name": "Any 15",
+   "desc": "Solve any 15 fates.",
+   "hidden": false,
+   "pct": 52.8
+  },
+  {
+   "api": "ACH_CHAPTERSOLVED_02",
+   "name": "A Bitter Cold",
+   "desc": "Solve all fates in chapter II.",
+   "hidden": false,
+   "pct": 52.2
+  },
+  {
+   "api": "ACH_CHAPTERSOLVED_01",
+   "name": "Loose Cargo",
+   "desc": "Solve all fates in chapter I.",
+   "hidden": false,
+   "pct": 48.7
+  },
+  {
+   "api": "ACH_ANYSOLVED_30",
+   "name": "Any 30",
+   "desc": "Solve any 30 fates.",
+   "hidden": false,
+   "pct": 47.6
+  },
+  {
+   "api": "ACH_CHAPTERSOLVED_10",
+   "name": "The End",
+   "desc": "Solve all fates in chapter X.",
+   "hidden": false,
+   "pct": 46.4
+  },
+  {
+   "api": "ACH_CHAPTERSOLVED_03",
+   "name": "Murder",
+   "desc": "Solve all fates in chapter III.",
+   "hidden": false,
+   "pct": 46.3
+  },
+  {
+   "api": "ACH_ANYSOLVED_45",
+   "name": "Any 45",
+   "desc": "Solve any 45 fates.",
+   "hidden": false,
+   "pct": 45.6
+  },
+  {
+   "api": "ACH_CHAPTERSOLVED_05",
+   "name": "Unholy Captives",
+   "desc": "Solve all fates in chapter V.",
+   "hidden": false,
+   "pct": 45.4
+  },
+  {
+   "api": "ACH_CHAPTERSOLVED_04",
+   "name": "The Calling",
+   "desc": "Solve all fates in chapter IV.",
+   "hidden": false,
+   "pct": 45.3
+  },
+  {
+   "api": "ACH_CHAPTERSOLVED_06",
+   "name": "Soldiers of the Sea",
+   "desc": "Solve all fates in chapter VI.",
+   "hidden": false,
+   "pct": 45.2
+  },
+  {
+   "api": "ACH_CHAPTERSOLVED_09",
+   "name": "Escape",
+   "desc": "Solve all fates in chapter IX.",
+   "hidden": false,
+   "pct": 45.2
+  },
+  {
+   "api": "ACH_CHAPTERSOLVED_07",
+   "name": "The Doom",
+   "desc": "Solve all fates in chapter VII.",
+   "hidden": false,
+   "pct": 45.1
+  },
+  {
+   "api": "ACH_ENDING_GOOD",
+   "name": "Obra Done",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.6
+  },
+  {
+   "api": "ACH_ENDING_BAD",
+   "name": "Abandon Ship",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.5
+  },
+  {
+   "api": "ACH_KILLERCAPTAIN",
+   "name": "Captain Did It",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.1
+  }
+ ]
+}

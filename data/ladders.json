@@ -1,0 +1,2936 @@
+{
+ "generated": "2026-11-26 18:24 +08",
+ "games": [
+  {
+   "appid": 1222700,
+   "title": "A Way Out",
+   "name": "A Way Out",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1466860,
+   "title": "Age of Empires IV",
+   "name": "Age of Empires IV: Anniversary Edition",
+   "genres": [
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 916440,
+   "title": "Anno 1800",
+   "name": "Anno 1800",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 812140,
+   "title": "Assassin's Creed Odyssey",
+   "name": "Assassin's Creed® Odyssey",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "A",
+   "method": "严格完成型章节（9 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "An Odyssey in the Making",
+     "desc": "Complete Episode 1.",
+     "pct": 70.6
+    },
+    {
+     "n": 2,
+     "name": "Past Mistakes",
+     "desc": "Complete Episode 2.",
+     "pct": 64.6
+    },
+    {
+     "n": 3,
+     "name": "Evil Unearthed",
+     "desc": "Complete Episode 3.",
+     "pct": 59.0
+    },
+    {
+     "n": 4,
+     "name": "The Bright Minds",
+     "desc": "Complete Episode 4.",
+     "pct": 50.0
+    },
+    {
+     "n": 5,
+     "name": "From the Ashes",
+     "desc": "Complete Episode 5.",
+     "pct": 42.3
+    },
+    {
+     "n": 6,
+     "name": "Democracy Falls",
+     "desc": "Complete Episode 6.",
+     "pct": 41.9
+    },
+    {
+     "n": 7,
+     "name": "Legend in the Making",
+     "desc": "Complete Episode 7.",
+     "pct": 33.5
+    },
+    {
+     "n": 8,
+     "name": "Taking Back Athens",
+     "desc": "Complete Episode 8.",
+     "pct": 32.6
+    },
+    {
+     "n": 9,
+     "name": "Odyssey's End",
+     "desc": "Complete Episode 9 + Epilogue.",
+     "pct": 32.4
+    }
+   ]
+  },
+  {
+   "appid": 582160,
+   "title": "Assassin's Creed Origins",
+   "name": "Assassin's Creed® Origins",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "终止点「Complete Main Quest 'Aya'」是主线早期任务，不是通关，相对留存虚高",
+   "nodes": []
+  },
+  {
+   "appid": 2208920,
+   "title": "Assassin's Creed Valhalla",
+   "name": "Assassin's Creed Valhalla",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 244210,
+   "title": "Assetto Corsa",
+   "name": "Assetto Corsa",
+   "genres": [
+    "Indie",
+    "Racing",
+    "Simulation",
+    "Sports"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 2379780,
+   "title": "Balatro",
+   "name": "Balatro",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1086940,
+   "title": "Baldur's Gate 3",
+   "name": "Baldur's Gate 3",
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Descent From Avernus",
+     "desc": "Take control of the nautiloid and escape the Hells.",
+     "pct": 89.0
+    },
+    {
+     "n": 99,
+     "name": "All's Well That Ends Well",
+     "desc": "Finish the game (with a heartfelt 'thank you!' from Larian Studios).",
+     "pct": 23.6
+    }
+   ]
+  },
+  {
+   "appid": 208650,
+   "title": "Batman: Arkham Knight",
+   "name": "Batman™: Arkham Knight",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 346010,
+   "title": "Besiege",
+   "name": "Besiege",
+   "genres": [
+    "Indie",
+    "Simulation"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 8870,
+   "title": "BioShock Infinite",
+   "name": "BioShock Infinite",
+   "genres": [
+    "Action"
+   ],
+   "level": "B",
+   "method": "编号章节（2 个，无通关锚点）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "Down in the Briney",
+     "desc": "Took a Bathysphere ride in Burial at Sea - Episode 1.",
+     "pct": 19.2
+    },
+    {
+     "n": 2,
+     "name": "Up and Running",
+     "desc": "Repaired the machine in Suchong's lab in Burial at Sea - Episode 2. ",
+     "pct": 12.4
+    }
+   ]
+  },
+  {
+   "appid": 2358720,
+   "title": "Black Myth: Wukong",
+   "name": "Black Myth: Wukong",
+   "genres": [],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 397540,
+   "title": "Borderlands 3",
+   "name": "Borderlands 3",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 504230,
+   "title": "Celeste",
+   "name": "Celeste",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "level": "A",
+   "method": "严格完成型章节（6 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "Forsaken",
+     "desc": "Complete Chapter 1",
+     "pct": 70.8
+    },
+    {
+     "n": 2,
+     "name": "Archaeology",
+     "desc": "Complete Chapter 2",
+     "pct": 61.7
+    },
+    {
+     "n": 3,
+     "name": "Checking Out",
+     "desc": "Complete Chapter 3",
+     "pct": 50.5
+    },
+    {
+     "n": 4,
+     "name": "Breathe",
+     "desc": "Complete Chapter 4",
+     "pct": 43.1
+    },
+    {
+     "n": 5,
+     "name": "In the Mirror",
+     "desc": "Complete Chapter 5",
+     "pct": 38.5
+    },
+    {
+     "n": 6,
+     "name": "Reflection",
+     "desc": "Complete Chapter 6",
+     "pct": 36.7
+    }
+   ]
+  },
+  {
+   "appid": 255710,
+   "title": "Cities: Skylines",
+   "name": "Cities: Skylines",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 268910,
+   "title": "Cuphead",
+   "name": "Cuphead",
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Taking Names",
+     "desc": "Defeat a boss",
+     "pct": 76.6
+    },
+    {
+     "n": 99,
+     "name": "Souls Saved",
+     "desc": "Complete the game on Normal",
+     "pct": 17.6
+    }
+   ]
+  },
+  {
+   "appid": 1091500,
+   "title": "Cyberpunk 2077",
+   "name": "Cyberpunk 2077",
+   "genres": [
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 374320,
+   "title": "Dark Souls III",
+   "name": "DARK SOULS™ III",
+   "genres": [
+    "Action"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 570940,
+   "title": "Dark Souls Remastered",
+   "name": "DARK SOULS™: REMASTERED",
+   "genres": [
+    "Action"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 262060,
+   "title": "Darkest Dungeon",
+   "name": "Darkest Dungeon®",
+   "genres": [
+    "Indie",
+    "RPG",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1868140,
+   "title": "Dave the Diver",
+   "name": "DAVE THE DIVER",
+   "genres": [
+    "Adventure",
+    "Casual",
+    "RPG",
+    "Simulation"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 588650,
+   "title": "Dead Cells",
+   "name": "Dead Cells",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "level": "X",
+   "method": "无「任意难度通关」成就，通关项全是 Boss Stem Cell 等挑战条件",
+   "nodes": []
+  },
+  {
+   "appid": 1693980,
+   "title": "Dead Space",
+   "name": "Dead Space",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "A",
+   "method": "严格完成型章节（12 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "Welcome Aboard",
+     "desc": "Complete Chapter 1 on any difficulty setting.",
+     "pct": 65.8
+    },
+    {
+     "n": 2,
+     "name": "Lab Rat",
+     "desc": "Complete Chapter 2 on any difficulty setting.",
+     "pct": 55.1
+    },
+    {
+     "n": 3,
+     "name": "All Systems Go",
+     "desc": "Complete Chapter 3 on any difficulty setting.",
+     "pct": 47.9
+    },
+    {
+     "n": 4,
+     "name": "Cannon Fodder",
+     "desc": "Complete Chapter 4 on any difficulty setting.",
+     "pct": 44.6
+    },
+    {
+     "n": 5,
+     "name": "True Believer",
+     "desc": "Complete Chapter 5 on any difficulty setting.",
+     "pct": 41.9
+    },
+    {
+     "n": 6,
+     "name": "Greenhouse Effect",
+     "desc": "Complete Chapter 6 on any difficulty setting.",
+     "pct": 39.3
+    },
+    {
+     "n": 7,
+     "name": "S.O.S.",
+     "desc": "Complete Chapter 7 on any difficulty setting.",
+     "pct": 36.4
+    },
+    {
+     "n": 8,
+     "name": "Strange Transmissions",
+     "desc": "Complete Chapter 8 on any difficulty setting.",
+     "pct": 35.2
+    },
+    {
+     "n": 9,
+     "name": "Wreckage",
+     "desc": "Complete Chapter 9 on any difficulty setting.",
+     "pct": 34.7
+    },
+    {
+     "n": 10,
+     "name": "Keeper of the Faith",
+     "desc": "Complete Chapter 10 on any difficulty setting.",
+     "pct": 33.6
+    },
+    {
+     "n": 11,
+     "name": "Betrayed",
+     "desc": "Complete Chapter 11 on any difficulty setting.",
+     "pct": 33.0
+    },
+    {
+     "n": 12,
+     "name": "Exodus",
+     "desc": "Complete Chapter 12 on any difficulty setting.",
+     "pct": 32.4
+    }
+   ]
+  },
+  {
+   "appid": 3280350,
+   "title": "Death Stranding 2: On the Beach",
+   "name": "DEATH STRANDING 2: ON THE BEACH",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "A",
+   "method": "严格完成型章节（16 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "\"Lou? Can you hear me? Can you see me?\"",
+     "desc": "Complete Episode 1: Sam.",
+     "pct": 80.2
+    },
+    {
+     "n": 2,
+     "name": "\"Time to Start a New Journey\"",
+     "desc": "Complete Episode 2: Lou.",
+     "pct": 79.8
+    },
+    {
+     "n": 3,
+     "name": "\"Help us Bring Australia into the Network\"",
+     "desc": "Complete Episode 3: Drawbridge.",
+     "pct": 69.1
+    },
+    {
+     "n": 4,
+     "name": "\"We'll Show the World the Hope in Your Rain\"",
+     "desc": "Complete Episode 4: Raindrops.",
+     "pct": 66.2
+    },
+    {
+     "n": 5,
+     "name": "\"Did He Say Nirvana?\"",
+     "desc": "Complete Episode 5: Conflagration.",
+     "pct": 65.5
+    },
+    {
+     "n": 6,
+     "name": "\"To Our Little Family\"",
+     "desc": "Complete Episode 6: Chrysalis.",
+     "pct": 59.7
+    },
+    {
+     "n": 7,
+     "name": "\"Sam the Man—In the Dark About Everything\"",
+     "desc": "Complete Episode 7: Pod.",
+     "pct": 52.9
+    },
+    {
+     "n": 8,
+     "name": "\"His Name is Neil. Neil Vana\"",
+     "desc": "Complete Episode 8: Deluge.",
+     "pct": 47.7
+    },
+    {
+     "n": 9,
+     "name": "\"I Don't Break That Easily\"",
+     "desc": "Complete Episode 9: Puppets.",
+     "pct": 43.8
+    },
+    {
+     "n": 10,
+     "name": "\"You Will Never, Ever Be Alone\"",
+     "desc": "Complete Episode 10: Isolation.",
+     "pct": 42.5
+    },
+    {
+     "n": 11,
+     "name": "\"Keep Lou Safe...\"",
+     "desc": "Complete Episode 11: Quake.",
+     "pct": 42.3
+    },
+    {
+     "n": 12,
+     "name": "\"To Help You Find the Strength to Carry On\"",
+     "desc": "Complete Episode 12: Fragile.",
+     "pct": 41.9
+    },
+    {
+     "n": 13,
+     "name": "\"To Forsake Our Flesh and Our Freedom\"",
+     "desc": "Complete Episode 13: Die Hard.",
+     "pct": 41.8
+    },
+    {
+     "n": 14,
+     "name": "\"We Have to Get Tomorrow Back\"",
+     "desc": "Complete Episode 14: Last Stranding.",
+     "pct": 40.8
+    },
+    {
+     "n": 15,
+     "name": "\"I'll Always Be With You\"",
+     "desc": "Complete Episode 15: On the Beach.",
+     "pct": 40.7
+    },
+    {
+     "n": 16,
+     "name": "\"Death Can't Tear Us Apart\"",
+     "desc": "Complete Episode 16: Tomorrow.",
+     "pct": 40.5
+    }
+   ]
+  },
+  {
+   "appid": 1850570,
+   "title": "Death Stranding Director's Cut",
+   "name": "DEATH STRANDING DIRECTOR'S CUT",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "A",
+   "method": "严格完成型章节（14 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "Rebuilding America",
+     "desc": "Complete Episode 1: Bridget.",
+     "pct": 81.6
+    },
+    {
+     "n": 2,
+     "name": "We Need You",
+     "desc": "Complete Episode 2: Amelie.",
+     "pct": 44.7
+    },
+    {
+     "n": 3,
+     "name": "I Won't Break",
+     "desc": "Complete Episode 3: Fragile.",
+     "pct": 31.1
+    },
+    {
+     "n": 4,
+     "name": "BB...",
+     "desc": "Complete Episode 4: Unger.",
+     "pct": 30.9
+    },
+    {
+     "n": 5,
+     "name": "We're Whole Again",
+     "desc": "Complete Episode 5: Mama.",
+     "pct": 27.1
+    },
+    {
+     "n": 6,
+     "name": "BBs: A Bridge Between This World and the One Beyond",
+     "desc": "Complete Episode 6: Deadman.",
+     "pct": 25.1
+    },
+    {
+     "n": 7,
+     "name": "\"BB\"",
+     "desc": "Complete Episode 7: Clifford.",
+     "pct": 25.0
+    },
+    {
+     "n": 8,
+     "name": "Sixty Deaths and Sixty Births in a Day",
+     "desc": "Complete Episode 8: Heartman.",
+     "pct": 22.3
+    },
+    {
+     "n": 9,
+     "name": "The Particle of God",
+     "desc": "Complete Episode 9: Higgs.",
+     "pct": 21.7
+    },
+    {
+     "n": 10,
+     "name": "I'm Your Die-Hardman",
+     "desc": "Complete Episode 10: Die-Hardman.",
+     "pct": 21.4
+    },
+    {
+     "n": 11,
+     "name": "Bring Back My Baby",
+     "desc": "Complete Episode 11: Clifford Unger.",
+     "pct": 21.2
+    },
+    {
+     "n": 12,
+     "name": "She's waiting for you on the Beach.",
+     "desc": "Complete Episode 12: Bridges.",
+     "pct": 21.0
+    },
+    {
+     "n": 13,
+     "name": "Thank You, Sam",
+     "desc": "Complete Episode 13: Sam Strand.",
+     "pct": 20.6
+    },
+    {
+     "n": 14,
+     "name": "Thanks for Everything",
+     "desc": "Complete Episode 14: Lou.",
+     "pct": 20.1
+    }
+   ]
+  },
+  {
+   "appid": 894020,
+   "title": "Death's Door",
+   "name": "Death's Door",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1222140,
+   "title": "Detroit: Become Human",
+   "name": "Detroit: Become Human",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "THANK YOU",
+     "desc": "Play the first chapter",
+     "pct": 87.9
+    },
+    {
+     "n": 99,
+     "name": "THIS IS MY STORY",
+     "desc": "Finish the game once",
+     "pct": 39.9
+    }
+   ]
+  },
+  {
+   "appid": 632470,
+   "title": "Disco Elysium",
+   "name": "Disco Elysium - The Final Cut",
+   "genres": [
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 435150,
+   "title": "Divinity: Original Sin 2",
+   "name": "Divinity: Original Sin 2 - Definitive Edition",
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 379720,
+   "title": "DOOM",
+   "name": "DOOM",
+   "genres": [
+    "Action"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "E1M1",
+     "desc": "Complete the first mission of the campaign",
+     "pct": 82.4
+    },
+    {
+     "n": 99,
+     "name": "Knee-Deep in the Dead",
+     "desc": "Complete the campaign on 'I'm Too Young to Die', 'Hurt Me Plenty', 'Ultra Violence', or 'Nightmare'.",
+     "pct": 32.2
+    }
+   ]
+  },
+  {
+   "appid": 782330,
+   "title": "DOOM Eternal",
+   "name": "DOOM Eternal",
+   "genres": [
+    "Action"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Darn It, They Keep BREAKING",
+     "desc": "Perform 33 Unique Glory Kills in a single save slot",
+     "pct": 77.3
+    },
+    {
+     "n": 99,
+     "name": "The Once and Future Slayer",
+     "desc": "Complete the Campaign on any difficulty",
+     "pct": 32.0
+    }
+   ]
+  },
+  {
+   "appid": 1222690,
+   "title": "Dragon Age: Inquisition",
+   "name": "Dragon Age™ Inquisition",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 2054970,
+   "title": "Dragon's Dogma 2",
+   "name": "Dragon's Dogma 2",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1245620,
+   "title": "Elden Ring",
+   "name": "ELDEN RING",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 227300,
+   "title": "Euro Truck Simulator 2",
+   "name": "Euro Truck Simulator 2",
+   "genres": [
+    "Indie",
+    "Simulation"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 236850,
+   "title": "Europa Universalis IV",
+   "name": "Europa Universalis IV",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 427520,
+   "title": "Factorio",
+   "name": "Factorio",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 377160,
+   "title": "Fallout 4",
+   "name": "Fallout 4",
+   "genres": [
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 552520,
+   "title": "Far Cry 5",
+   "name": "Far Cry® 5",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1462040,
+   "title": "Final Fantasy VII Remake Intergrade",
+   "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "A",
+   "method": "严格完成型章节（18 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "Onetime Gig",
+     "desc": "Complete Chapter 1.",
+     "pct": 86.2
+    },
+    {
+     "n": 2,
+     "name": "Escape Artist",
+     "desc": "Complete Chapter 2.",
+     "pct": 78.2
+    },
+    {
+     "n": 3,
+     "name": "Mercenary Endeavors",
+     "desc": "Complete Chapter 3.",
+     "pct": 63.4
+    },
+    {
+     "n": 4,
+     "name": "Night on the Town",
+     "desc": "Complete Chapter 4.",
+     "pct": 59.6
+    },
+    {
+     "n": 5,
+     "name": "Plan E",
+     "desc": "Complete Chapter 5.",
+     "pct": 57.7
+    },
+    {
+     "n": 6,
+     "name": "Lights Out",
+     "desc": "Complete Chapter 6.",
+     "pct": 55.5
+    },
+    {
+     "n": 7,
+     "name": "Trapped like Sewer Rats",
+     "desc": "Complete Chapter 7.",
+     "pct": 54.0
+    },
+    {
+     "n": 8,
+     "name": "Reunited",
+     "desc": "Complete Chapter 8.",
+     "pct": 47.8
+    },
+    {
+     "n": 9,
+     "name": "Never the Bride",
+     "desc": "Complete Chapter 9.",
+     "pct": 43.3
+    },
+    {
+     "n": 10,
+     "name": "Sewer Survivor",
+     "desc": "Complete Chapter 10.",
+     "pct": 42.2
+    },
+    {
+     "n": 11,
+     "name": "Paranormal Investigator",
+     "desc": "Complete Chapter 11.",
+     "pct": 41.0
+    },
+    {
+     "n": 12,
+     "name": "The Collapse",
+     "desc": "Complete Chapter 12.",
+     "pct": 40.2
+    },
+    {
+     "n": 13,
+     "name": "Broken Dreams",
+     "desc": "Complete Chapter 13.",
+     "pct": 38.7
+    },
+    {
+     "n": 14,
+     "name": "Picking Up the Pieces",
+     "desc": "Complete Chapter 14.",
+     "pct": 35.3
+    },
+    {
+     "n": 15,
+     "name": "The Pizza in the Sky",
+     "desc": "Complete Chapter 15.",
+     "pct": 34.8
+    },
+    {
+     "n": 16,
+     "name": "No Appointment Needed",
+     "desc": "Complete Chapter 16.",
+     "pct": 33.6
+    },
+    {
+     "n": 17,
+     "name": "Emerging from Chaos",
+     "desc": "Complete Chapter 17.",
+     "pct": 32.7
+    },
+    {
+     "n": 18,
+     "name": "Destiny's Crossroads",
+     "desc": "Complete Chapter 18.",
+     "pct": 31.8
+    }
+   ]
+  },
+  {
+   "appid": 292120,
+   "title": "FINAL FANTASY XIII",
+   "name": "FINAL FANTASY® XIII",
+   "genres": [],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 637650,
+   "title": "Final Fantasy XV Windows Edition",
+   "name": "FINAL FANTASY XV WINDOWS EDITION",
+   "genres": [
+    "RPG"
+   ],
+   "level": "A",
+   "method": "严格完成型章节（14 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "Departure",
+     "desc": "Completed Chapter 1.",
+     "pct": 65.4
+    },
+    {
+     "n": 2,
+     "name": "No Turning Back",
+     "desc": "Completed Chapter 2.",
+     "pct": 58.6
+    },
+    {
+     "n": 3,
+     "name": "The Open World",
+     "desc": "Completed Chapter 3.",
+     "pct": 44.9
+    },
+    {
+     "n": 4,
+     "name": "Living Legend",
+     "desc": "Completed Chapter 4.",
+     "pct": 43.9
+    },
+    {
+     "n": 5,
+     "name": "Dark Clouds",
+     "desc": "Completed Chapter 5.",
+     "pct": 40.1
+    },
+    {
+     "n": 6,
+     "name": "A Way Forward",
+     "desc": "Completed Chapter 6.",
+     "pct": 37.0
+    },
+    {
+     "n": 7,
+     "name": "Party of Three",
+     "desc": "Completed Chapter 7.",
+     "pct": 36.0
+    },
+    {
+     "n": 8,
+     "name": "Seaworthy",
+     "desc": "Completed Chapter 8.",
+     "pct": 33.6
+    },
+    {
+     "n": 9,
+     "name": "Callings",
+     "desc": "Completed Chapter 9.",
+     "pct": 31.8
+    },
+    {
+     "n": 10,
+     "name": "The Heart of a King",
+     "desc": "Completed Chapter 10.",
+     "pct": 30.6
+    },
+    {
+     "n": 11,
+     "name": "In the Dark",
+     "desc": "Completed Chapter 11.",
+     "pct": 30.5
+    },
+    {
+     "n": 12,
+     "name": "End of Days",
+     "desc": "Completed Chapter 12.",
+     "pct": 30.1
+    },
+    {
+     "n": 13,
+     "name": "Redemption",
+     "desc": "Completed Chapter 13.",
+     "pct": 29.1
+    },
+    {
+     "n": 14,
+     "name": "Homecoming",
+     "desc": "Completed Chapter 14.",
+     "pct": 25.8
+    }
+   ]
+  },
+  {
+   "appid": 2515020,
+   "title": "Final Fantasy XVI",
+   "name": "FINAL FANTASY XVI",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 383870,
+   "title": "Firewatch",
+   "name": "Firewatch",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1293830,
+   "title": "Forza Horizon 4",
+   "name": "Forza Horizon 4",
+   "genres": [],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1551360,
+   "title": "Forza Horizon 5",
+   "name": "Forza Horizon 5",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Racing",
+    "Simulation",
+    "Sports"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 323190,
+   "title": "Frostpunk",
+   "name": "Frostpunk",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 212680,
+   "title": "FTL: Faster Than Light",
+   "name": "FTL: Faster Than Light",
+   "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 2215430,
+   "title": "Ghost of Tsushima Director's Cut",
+   "name": "Ghost of Tsushima DIRECTOR'S CUT",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1475810,
+   "title": "Ghostwire: Tokyo",
+   "name": "Ghostwire: Tokyo",
+   "genres": [],
+   "level": "A",
+   "method": "严格完成型章节（6 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "Beginnings",
+     "desc": "Complete Chapter 1.",
+     "pct": 83.5
+    },
+    {
+     "n": 2,
+     "name": "Trouble",
+     "desc": "Complete Chapter 2.",
+     "pct": 45.5
+    },
+    {
+     "n": 3,
+     "name": "Connection",
+     "desc": "Complete Chapter 3.",
+     "pct": 33.6
+    },
+    {
+     "n": 4,
+     "name": "Contortion",
+     "desc": "Complete Chapter 4.",
+     "pct": 25.3
+    },
+    {
+     "n": 5,
+     "name": "Severance",
+     "desc": "Complete Chapter 5.",
+     "pct": 24.8
+    },
+    {
+     "n": 6,
+     "name": "Binding",
+     "desc": "Complete Chapter 6.",
+     "pct": 24.5
+    }
+   ]
+  },
+  {
+   "appid": 1593500,
+   "title": "God of War",
+   "name": "God of War",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 2322010,
+   "title": "God of War Ragnarok",
+   "name": "God of War Ragnarök",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 271590,
+   "title": "Grand Theft Auto V",
+   "name": "Grand Theft Auto V Legacy",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Racing"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1145360,
+   "title": "Hades",
+   "name": "Hades",
+   "genres": [
+    "Action",
+    "Indie",
+    "RPG"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Escaped Tartarus",
+     "desc": "Clear Tartarus",
+     "pct": 81.8
+    },
+    {
+     "n": 99,
+     "name": "The Family Secret",
+     "desc": "Complete the main quest in the story",
+     "pct": 23.3
+    }
+   ]
+  },
+  {
+   "appid": 220,
+   "title": "Half-Life 2",
+   "name": "Half-Life 2",
+   "genres": [
+    "Action"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 394360,
+   "title": "Hearts of Iron IV",
+   "name": "Hearts of Iron IV",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 960910,
+   "title": "Heavy Rain",
+   "name": "Heavy Rain",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "X",
+   "method": "起点为支持类成就，非剧情节点",
+   "nodes": []
+  },
+  {
+   "appid": 1817230,
+   "title": "Hi-Fi RUSH",
+   "name": "Hi-Fi RUSH",
+   "genres": [
+    "Action"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Feeling the beat!",
+     "desc": "Land 20 beat-hit attacks on enemies.",
+     "pct": 77.7
+    },
+    {
+     "n": 99,
+     "name": "Well that was a rush!",
+     "desc": "Finish the game and complete every level on the Normal difficulty.",
+     "pct": 16.9
+    }
+   ]
+  },
+  {
+   "appid": 990080,
+   "title": "Hogwarts Legacy",
+   "name": "Hogwarts Legacy",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 367520,
+   "title": "Hollow Knight",
+   "name": "Hollow Knight",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 2420110,
+   "title": "Horizon Forbidden West Complete Edition",
+   "name": "Horizon Forbidden West™ Complete Edition",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 2561580,
+   "title": "Horizon Zero Dawn Remastered",
+   "name": "Horizon Zero Dawn™ Remastered",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 219150,
+   "title": "Hotline Miami",
+   "name": "Hotline Miami",
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1092790,
+   "title": "Inscryption",
+   "name": "Inscryption",
+   "genres": [
+    "Adventure",
+    "Indie",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 590380,
+   "title": "Into the Breach",
+   "name": "Into the Breach",
+   "genres": [
+    "Indie",
+    "RPG",
+    "Simulation",
+    "Strategy"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Island Secure",
+     "desc": "Complete 1st Corporate Island with the Rift Walkers squad",
+     "pct": 74.2
+    },
+    {
+     "n": 99,
+     "name": "Victory",
+     "desc": "Beat the game (any length)",
+     "pct": 49.1
+    }
+   ]
+  },
+  {
+   "appid": 1426210,
+   "title": "It Takes Two",
+   "name": "It Takes Two",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 460950,
+   "title": "Katana ZERO",
+   "name": "Katana ZERO",
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 379430,
+   "title": "Kingdom Come: Deliverance",
+   "name": "Kingdom Come: Deliverance",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1627720,
+   "title": "Lies of P",
+   "name": "Lies of P",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Fatal Blow",
+     "desc": "Deliver a successful Fatal Attack.",
+     "pct": 96.0
+    },
+    {
+     "n": 99,
+     "name": "Rise of P",
+     "desc": "[Rise of P] Reach the ending.",
+     "pct": 27.4
+    }
+   ]
+  },
+  {
+   "appid": 319630,
+   "title": "Life is Strange",
+   "name": "Life is Strange - Episode 1",
+   "genres": [
+    "Adventure"
+   ],
+   "level": "A",
+   "method": "严格完成型章节（5 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "Chrysalis",
+     "desc": "Finish Episode 1: Chrysalis",
+     "pct": 49.9
+    },
+    {
+     "n": 2,
+     "name": "Out of Time",
+     "desc": "Finish Episode 2: Out of Time",
+     "pct": 30.0
+    },
+    {
+     "n": 3,
+     "name": "Chaos Theory",
+     "desc": "Finish Episode 3: Chaos Theory",
+     "pct": 26.9
+    },
+    {
+     "n": 4,
+     "name": "Dark Room",
+     "desc": "Finish Episode 4: Dark Room",
+     "pct": 24.5
+    },
+    {
+     "n": 5,
+     "name": "Polarized",
+     "desc": "Finish Episode 5: Polarized",
+     "pct": 23.3
+    }
+   ]
+  },
+  {
+   "appid": 48000,
+   "title": "Limbo",
+   "name": "LIMBO",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 234140,
+   "title": "Mad Max",
+   "name": "Mad Max",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "A",
+   "method": "严格完成型章节（5 个）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Everything Lost Again",
+     "desc": "Complete Act 01",
+     "pct": 76.6
+    },
+    {
+     "n": 0,
+     "name": "Wasteland of Opportunities",
+     "desc": "Complete Act 02",
+     "pct": 45.7
+    },
+    {
+     "n": 0,
+     "name": "Digging a Deeper Hole",
+     "desc": "Complete Act 03",
+     "pct": 31.4
+    },
+    {
+     "n": 0,
+     "name": "Power in the Machine",
+     "desc": "Complete Act 04",
+     "pct": 29.1
+    },
+    {
+     "n": 0,
+     "name": "Downward Spiral Reawakening",
+     "desc": "Complete Act 05",
+     "pct": 27.9
+    }
+   ]
+  },
+  {
+   "appid": 1817070,
+   "title": "Marvel's Spider-Man Remastered",
+   "name": "Marvel’s Spider-Man Remastered",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual"
+   ],
+   "level": "B",
+   "method": "编号章节（3 个，无通关锚点）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "Demons Emerge",
+     "desc": "Complete Act 1",
+     "pct": 65.8
+    },
+    {
+     "n": 2,
+     "name": "The Six Assemble",
+     "desc": "Complete Act 2",
+     "pct": 54.6
+    },
+    {
+     "n": 3,
+     "name": "End Game",
+     "desc": "Complete Act 3",
+     "pct": 48.3
+    }
+   ]
+  },
+  {
+   "appid": 1817190,
+   "title": "Marvel's Spider-Man: Miles Morales",
+   "name": "Marvel’s Spider-Man: Miles Morales",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1328670,
+   "title": "Mass Effect Legendary Edition",
+   "name": "Mass Effect™ Legendary Edition",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Distinguished Service Medal",
+     "desc": "ME1: Complete Eden Prime",
+     "pct": 76.1
+    },
+    {
+     "n": 99,
+     "name": "Medal of Honor",
+     "desc": "ME1: Complete the game on any difficulty",
+     "pct": 38.4
+    }
+   ]
+  },
+  {
+   "appid": 412020,
+   "title": "Metro Exodus",
+   "name": "Metro Exodus",
+   "genres": [
+    "Action"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1250410,
+   "title": "Microsoft Flight Simulator",
+   "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+   "genres": [
+    "Simulation"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 524220,
+   "title": "NieR:Automata",
+   "name": "NieR:Automata™",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1325200,
+   "title": "Nioh 2",
+   "name": "Nioh 2 – The Complete Edition",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 387290,
+   "title": "Ori and the Blind Forest: Definitive Edition",
+   "name": "Ori and the Blind Forest: Definitive Edition",
+   "genres": [
+    "Action"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "So Many Secrets",
+     "desc": "Find your first secret",
+     "pct": 87.9
+    },
+    {
+     "n": 99,
+     "name": "The Journey Ends",
+     "desc": "Complete the game",
+     "pct": 34.3
+    }
+   ]
+  },
+  {
+   "appid": 1057090,
+   "title": "Ori and the Will of the Wisps",
+   "name": "Ori and the Will of the Wisps",
+   "genres": [
+    "Action"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Close Call",
+     "desc": "Fend off Howl",
+     "pct": 79.6
+    },
+    {
+     "n": 99,
+     "name": "Destiny",
+     "desc": "Complete the Game",
+     "pct": 35.5
+    }
+   ]
+  },
+  {
+   "appid": 753640,
+   "title": "Outer Wilds",
+   "name": "Outer Wilds",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 238320,
+   "title": "Outlast",
+   "name": "Outlast",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "ILLUMINATED",
+     "desc": "Restore power to the Administrative Block",
+     "pct": 49.5
+    },
+    {
+     "n": 99,
+     "name": "PUNISHED",
+     "desc": "Finish the game",
+     "pct": 25.2
+    }
+   ]
+  },
+  {
+   "appid": 457140,
+   "title": "Oxygen Not Included",
+   "name": "Oxygen Not Included",
+   "genres": [
+    "Indie",
+    "Simulation"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 239030,
+   "title": "Papers, Please",
+   "name": "Papers, Please",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 2161700,
+   "title": "Persona 3 Reload",
+   "name": "Persona 3 Reload",
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1687950,
+   "title": "Persona 5 Royal",
+   "name": "Persona 5 Royal",
+   "genres": [
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 620,
+   "title": "Portal 2",
+   "name": "Portal 2",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1174180,
+   "title": "Red Dead Redemption 2",
+   "name": "Red Dead Redemption 2",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "A",
+   "method": "严格完成型章节（5 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "Back in the Mud",
+     "desc": "Complete Chapter 1.",
+     "pct": 72.8
+    },
+    {
+     "n": 2,
+     "name": "To Greener Pastures",
+     "desc": "Complete Chapter 2.",
+     "pct": 41.5
+    },
+    {
+     "n": 3,
+     "name": "Settling Feuds",
+     "desc": "Complete Chapter 3.",
+     "pct": 32.6
+    },
+    {
+     "n": 4,
+     "name": "Washed Ashore",
+     "desc": "Complete Chapter 4.",
+     "pct": 27.7
+    },
+    {
+     "n": 5,
+     "name": "No Traitors",
+     "desc": "Complete Chapter 5.",
+     "pct": 26.7
+    }
+   ]
+  },
+  {
+   "appid": 339340,
+   "title": "Resident Evil 0 HD REMASTER",
+   "name": "Resident Evil 0",
+   "genres": [],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 883710,
+   "title": "Resident Evil 2",
+   "name": "Resident Evil 2",
+   "genres": [
+    "Action"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 2050650,
+   "title": "Resident Evil 4",
+   "name": "Resident Evil 4",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Knife Basics",
+     "desc": "Parry an enemy with a knife.",
+     "pct": 86.2
+    },
+    {
+     "n": 99,
+     "name": "Promising Agent",
+     "desc": "Complete the main story on Standard mode or higher.",
+     "pct": 51.6
+    }
+   ]
+  },
+  {
+   "appid": 304240,
+   "title": "Resident Evil HD REMASTER",
+   "name": "Resident Evil",
+   "genres": [],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "First Kills Are Special",
+     "desc": "Defeat a zombie.",
+     "pct": 76.0
+    },
+    {
+     "n": 99,
+     "name": "Like Taking Candy from a Baby",
+     "desc": "Finish the game on Very Easy difficulty or higher.",
+     "pct": 27.6
+    }
+   ]
+  },
+  {
+   "appid": 1196590,
+   "title": "Resident Evil Village",
+   "name": "Resident Evil Village",
+   "genres": [
+    "Action"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Crafter",
+     "desc": "Craft an item in the Crafting menu.",
+     "pct": 86.3
+    },
+    {
+     "n": 99,
+     "name": "Great Dad",
+     "desc": "Finish the story on at least Casual difficulty.",
+     "pct": 58.3
+    }
+   ]
+  },
+  {
+   "appid": 653530,
+   "title": "Return of the Obra Dinn",
+   "name": "Return of the Obra Dinn",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1643320,
+   "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+   "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1244090,
+   "title": "Sea of Stars",
+   "name": "Sea of Stars: Sunset Edition",
+   "genres": [
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 814380,
+   "title": "Sekiro: Shadows Die Twice",
+   "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 2535440,
+   "title": "Shadows of the Damned: Hella Remastered",
+   "name": "Shadows of the Damned: Hella Remastered",
+   "genres": [],
+   "level": "A",
+   "method": "严格完成型章节（5 个）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "An Ordinary Life",
+     "desc": "Complete Act 1 - Chapter 1 (any difficulty setting)",
+     "pct": 92.0
+    },
+    {
+     "n": 0,
+     "name": "Take Me To Hell",
+     "desc": "Complete Act 2 - Chapter 1 (any difficulty setting)",
+     "pct": 64.0
+    },
+    {
+     "n": 0,
+     "name": "It's a Bughunt",
+     "desc": "Complete Act 3 - Chapter 1 (any difficulty setting)",
+     "pct": 47.4
+    },
+    {
+     "n": 0,
+     "name": "The Big... You Know",
+     "desc": "Complete Act 4 - Chapter 1 (any difficulty setting)",
+     "pct": 41.0
+    },
+    {
+     "n": 0,
+     "name": "Twelve Feet Under",
+     "desc": "Complete Act 5 - Chapter 1 (any difficulty setting)",
+     "pct": 35.3
+    }
+   ]
+  },
+  {
+   "appid": 289070,
+   "title": "Sid Meier's Civilization VI",
+   "name": "Sid Meier’s Civilization® VI",
+   "genres": [
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 646570,
+   "title": "Slay the Spire",
+   "name": "Slay the Spire",
+   "genres": [],
+   "level": "X",
+   "method": "肉鸽：通关＝角色通关，横轴语义与叙事作品不同",
+   "nodes": []
+  },
+  {
+   "appid": 307690,
+   "title": "Sleeping Dogs Definitive Edition",
+   "name": "Sleeping Dogs: Definitive Edition",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Racing"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 433340,
+   "title": "Slime Rancher",
+   "name": "Slime Rancher",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 413150,
+   "title": "Stardew Valley",
+   "name": "Stardew Valley",
+   "genres": [
+    "Indie",
+    "RPG",
+    "Simulation"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1716740,
+   "title": "Starfield",
+   "name": "Starfield",
+   "genres": [
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 281990,
+   "title": "Stellaris",
+   "name": "Stellaris",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 264710,
+   "title": "Subnautica",
+   "name": "Subnautica",
+   "genres": [],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 105600,
+   "title": "Terraria",
+   "name": "Terraria",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 489830,
+   "title": "The Elder Scrolls V: Skyrim Special Edition",
+   "name": "The Elder Scrolls V: Skyrim Special Edition",
+   "genres": [
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 268050,
+   "title": "The Evil Within",
+   "name": "The Evil Within",
+   "genres": [],
+   "level": "A",
+   "method": "显式章节编号（4 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "A Different Beginning",
+     "desc": "Clear Chapter 1, \"An Oath.\"",
+     "pct": 9.4
+    },
+    {
+     "n": 2,
+     "name": "Not as it Seems",
+     "desc": "Clear Chapter 2, \"Crossing Paths.\"",
+     "pct": 8.4
+    },
+    {
+     "n": 3,
+     "name": "Things Fall Apart",
+     "desc": "Clear Chapter 3, \"Illusions.\"",
+     "pct": 7.8
+    },
+    {
+     "n": 4,
+     "name": "Where Do We Go From Here?",
+     "desc": "Clear Chapter 4, \"A Ghost is Born.\"",
+     "pct": 7.6
+    }
+   ]
+  },
+  {
+   "appid": 601430,
+   "title": "The Evil Within 2",
+   "name": "The Evil Within 2",
+   "genres": [],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 242760,
+   "title": "The Forest",
+   "name": "The Forest",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Simulation"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "First Night",
+     "desc": "Survive 1 night",
+     "pct": 83.7
+    },
+    {
+     "n": 99,
+     "name": "Survive The Forest",
+     "desc": "Finish Game",
+     "pct": 17.7
+    }
+   ]
+  },
+  {
+   "appid": 1888930,
+   "title": "The Last of Us Part I",
+   "name": "The Last of Us™ Part I",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1703340,
+   "title": "The Stanley Parable: Ultra Deluxe",
+   "name": "The Stanley Parable: Ultra Deluxe",
+   "genres": [
+    "Adventure",
+    "Casual",
+    "Indie"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 207610,
+   "title": "The Walking Dead",
+   "name": "The Walking Dead",
+   "genres": [
+    "Adventure"
+   ],
+   "level": "A",
+   "method": "严格完成型章节（37 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "Out of the Frying Pan",
+     "desc": "Complete chapter 1 of episode 1.",
+     "pct": 82.3
+    },
+    {
+     "n": 2,
+     "name": "Adventures in Babysitting",
+     "desc": "Complete chapter 2 of episode 1.",
+     "pct": 78.0
+    },
+    {
+     "n": 3,
+     "name": "In Your Charge",
+     "desc": "Complete chapter 3 of episode 1.",
+     "pct": 76.6
+    },
+    {
+     "n": 4,
+     "name": "Rock and a Hard Place",
+     "desc": "Complete chapter 4 of episode 1.",
+     "pct": 71.6
+    },
+    {
+     "n": 5,
+     "name": "It's Just One Bullet",
+     "desc": "Complete chapter 5 of episode 1.",
+     "pct": 63.5
+    },
+    {
+     "n": 6,
+     "name": "Hey, Bud",
+     "desc": "Complete chapter 6 of episode 1.",
+     "pct": 61.9
+    },
+    {
+     "n": 7,
+     "name": "Two Enter, One Leaves",
+     "desc": "Complete chapter 7 of episode 1.",
+     "pct": 61.5
+    },
+    {
+     "n": 1,
+     "name": "Going Hungry",
+     "desc": "Complete chapter 1 of episode 2.",
+     "pct": 56.4
+    },
+    {
+     "n": 2,
+     "name": "Conversation Killer",
+     "desc": "Complete chapter 2 of episode 2.",
+     "pct": 55.3
+    },
+    {
+     "n": 3,
+     "name": "Thank you for shopping at Save Lots!",
+     "desc": "Complete chapter 3 of episode 2.",
+     "pct": 52.1
+    },
+    {
+     "n": 4,
+     "name": "Guess Who's Coming to Dinner",
+     "desc": "Complete chapter 4 of episode 2.",
+     "pct": 50.7
+    },
+    {
+     "n": 5,
+     "name": "Too Much Salt Will Kill You",
+     "desc": "Complete chapter 5 of episode 2.",
+     "pct": 50.6
+    },
+    {
+     "n": 6,
+     "name": "Taking Charlotte",
+     "desc": "Complete chapter 6 of episode 2.",
+     "pct": 50.4
+    },
+    {
+     "n": 7,
+     "name": "You Fight Like A Dairy Farmer",
+     "desc": "Complete chapter 7 of episode 2.",
+     "pct": 50.1
+    },
+    {
+     "n": 1,
+     "name": "Goodbye, She Quietly Says",
+     "desc": "Completed chapter 1 of episode 3.",
+     "pct": 48.2
+    },
+    {
+     "n": 2,
+     "name": "Bad Blood",
+     "desc": "Completed chapter 2 of episode 3.",
+     "pct": 48.0
+    },
+    {
+     "n": 3,
+     "name": "Hit the Road",
+     "desc": "Completed chapter 3 of episode 3.",
+     "pct": 47.2
+    },
+    {
+     "n": 4,
+     "name": "What now?",
+     "desc": "Completed chapter 4 of episode 3.",
+     "pct": 47.1
+    },
+    {
+     "n": 5,
+     "name": "Handle It",
+     "desc": "Completed chapter 5 of episode 3.",
+     "pct": 46.1
+    },
+    {
+     "n": 6,
+     "name": "Unexpected Delay",
+     "desc": "Completed chapter 6 of episode 3.",
+     "pct": 45.5
+    },
+    {
+     "n": 7,
+     "name": "Look Behind You",
+     "desc": "Completed chapter 7 of episode 3.",
+     "pct": 44.5
+    },
+    {
+     "n": 1,
+     "name": "Georgia's First City",
+     "desc": "Completed chapter 1 of episode 4.",
+     "pct": 43.0
+    },
+    {
+     "n": 2,
+     "name": "Down By The River",
+     "desc": "Completed chapter 2 of episode 4.",
+     "pct": 42.1
+    },
+    {
+     "n": 3,
+     "name": "Support Group",
+     "desc": "Completed chapter 3 of episode 4.",
+     "pct": 41.7
+    },
+    {
+     "n": 4,
+     "name": "Bedside Manor",
+     "desc": "Completed chapter 4 of episode 4.",
+     "pct": 41.6
+    },
+    {
+     "n": 5,
+     "name": "Georgia's Last City",
+     "desc": "Completed chapter 5 of episode 4.",
+     "pct": 41.3
+    },
+    {
+     "n": 6,
+     "name": "For Whom The Bell Tolls",
+     "desc": "Completed chapter 6 of episode 4.",
+     "pct": 40.5
+    },
+    {
+     "n": 7,
+     "name": "The Morning After",
+     "desc": "Completed chapter 7 of episode 4.",
+     "pct": 40.5
+    },
+    {
+     "n": 8,
+     "name": "Penultimate",
+     "desc": "Completed chapter 8 of episode 4.",
+     "pct": 40.4
+    },
+    {
+     "n": 1,
+     "name": "Into The Fire",
+     "desc": "Completed chapter 1 of episode 5.",
+     "pct": 39.7
+    },
+    {
+     "n": 2,
+     "name": "Twice Shy",
+     "desc": "Completed chapter 2 of episode 5.",
+     "pct": 39.5
+    },
+    {
+     "n": 3,
+     "name": "There Ain't No Way",
+     "desc": "Completed chapter 3 of episode 5.",
+     "pct": 39.4
+    },
+    {
+     "n": 4,
+     "name": "Mercy",
+     "desc": "Completed chapter 4 of episode 5.",
+     "pct": 39.3
+    },
+    {
+     "n": 5,
+     "name": "The Marsh House",
+     "desc": "Completed chapter 5 of episode 5.",
+     "pct": 39.2
+    },
+    {
+     "n": 6,
+     "name": "What's in the bag? ",
+     "desc": "Completed chapter 6 of episode 5.",
+     "pct": 39.1
+    },
+    {
+     "n": 7,
+     "name": "Stay Close To Me",
+     "desc": "Completed chapter 7 of episode 5.",
+     "pct": 39.1
+    },
+    {
+     "n": 8,
+     "name": "What Remains",
+     "desc": "Completed chapter 8 of episode 5.",
+     "pct": 38.2
+    }
+   ]
+  },
+  {
+   "appid": 292030,
+   "title": "The Witcher 3: Wild Hunt",
+   "name": "The Witcher 3: Wild Hunt — Remastered",
+   "genres": [
+    "RPG"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Lilac and Gooseberries",
+     "desc": "Find Yennefer of Vengerberg.",
+     "pct": 60.3
+    },
+    {
+     "n": 99,
+     "name": "Passed the Trial",
+     "desc": "Finish the game on any difficulty.",
+     "pct": 22.0
+    }
+   ]
+  },
+  {
+   "appid": 644930,
+   "title": "They Are Billions",
+   "name": "They Are Billions",
+   "genres": [
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 282070,
+   "title": "This War of Mine",
+   "name": "This War of Mine",
+   "genres": [
+    "Adventure",
+    "Indie",
+    "Simulation"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1237970,
+   "title": "Titanfall 2",
+   "name": "Titanfall® 2",
+   "genres": [
+    "Action"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "The Graduate",
+     "desc": "Complete training",
+     "pct": 80.7
+    },
+    {
+     "n": 99,
+     "name": "Certified Pilot",
+     "desc": "Complete the Campaign on Regular",
+     "pct": 42.6
+    }
+   ]
+  },
+  {
+   "appid": 779340,
+   "title": "Total War: Three Kingdoms",
+   "name": "Total War: THREE KINGDOMS",
+   "genres": [
+    "Action",
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 553420,
+   "title": "Tunic",
+   "name": "TUNIC",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1659420,
+   "title": "Uncharted: Legacy of Thieves Collection",
+   "name": "UNCHARTED™: Legacy of Thieves Collection",
+   "genres": [
+    "Adventure"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "First Treasure",
+     "desc": "Find a Treasure",
+     "pct": 80.2
+    },
+    {
+     "n": 99,
+     "name": "Charted! - Explorer",
+     "desc": "Complete the game in explorer mode",
+     "pct": 39.0
+    }
+   ]
+  },
+  {
+   "appid": 892970,
+   "title": "Valheim",
+   "name": "Valheim",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1794680,
+   "title": "Vampire Survivors",
+   "name": "Vampire Survivors",
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie",
+    "RPG"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 460810,
+   "title": "Vanquish",
+   "name": "Vanquish",
+   "genres": [],
+   "level": "A",
+   "method": "严格完成型章节（5 个）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Space Normandy",
+     "desc": "Complete Act 1.",
+     "pct": 47.6
+    },
+    {
+     "n": 0,
+     "name": "Storming Grand Hill",
+     "desc": "Complete Act 2.",
+     "pct": 36.0
+    },
+    {
+     "n": 0,
+     "name": "I Don't Speak Kreon!",
+     "desc": "Complete Act 3.",
+     "pct": 30.0
+    },
+    {
+     "n": 0,
+     "name": "My Way",
+     "desc": "Complete Act 4.",
+     "pct": 27.1
+    },
+    {
+     "n": 0,
+     "name": "End to Major Combat Operations",
+     "desc": "Complete Act 5.",
+     "pct": 26.0
+    }
+   ]
+  },
+  {
+   "appid": 501300,
+   "title": "What Remains of Edith Finch",
+   "name": "What Remains of Edith Finch",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 201810,
+   "title": "Wolfenstein: The New Order",
+   "name": "Wolfenstein: The New Order",
+   "genres": [
+    "Action"
+   ],
+   "level": "C",
+   "method": "仅起点 + 通关（两点）",
+   "nodes": [
+    {
+     "n": 0,
+     "name": "Gunner",
+     "desc": "Save allied planes",
+     "pct": 94.1
+    },
+    {
+     "n": 99,
+     "name": "Liberation",
+     "desc": "Complete game on any difficulty",
+     "pct": 46.9
+    }
+   ]
+  },
+  {
+   "appid": 268500,
+   "title": "XCOM 2",
+   "name": "XCOM® 2",
+   "genres": [
+    "Strategy"
+   ],
+   "level": "X",
+   "method": "",
+   "nodes": []
+  },
+  {
+   "appid": 1235140,
+   "title": "Yakuza: Like a Dragon",
+   "name": "Yakuza: Like a Dragon",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "level": "A",
+   "method": "严格完成型章节（15 个）",
+   "nodes": [
+    {
+     "n": 1,
+     "name": "For the Family",
+     "desc": "Completed Chapter 1.",
+     "pct": 78.1
+    },
+    {
+     "n": 2,
+     "name": "Rock Bottom",
+     "desc": "Completed Chapter 2.",
+     "pct": 73.6
+    },
+    {
+     "n": 3,
+     "name": "Heroes and Villains",
+     "desc": "Completed Chapter 3.",
+     "pct": 69.6
+    },
+    {
+     "n": 4,
+     "name": "Soap on a Rope",
+     "desc": "Completed Chapter 4.",
+     "pct": 61.2
+    },
+    {
+     "n": 5,
+     "name": "Smoked",
+     "desc": "Completed Chapter 5.",
+     "pct": 54.1
+    },
+    {
+     "n": 6,
+     "name": "Ignition",
+     "desc": "Completed Chapter 6.",
+     "pct": 52.5
+    },
+    {
+     "n": 7,
+     "name": "Three Spiders",
+     "desc": "Completed Chapter 7.",
+     "pct": 49.2
+    },
+    {
+     "n": 8,
+     "name": "The Statesman",
+     "desc": "Completed Chapter 8.",
+     "pct": 48.2
+    },
+    {
+     "n": 9,
+     "name": "Time to Talk",
+     "desc": "Completed Chapter 9.",
+     "pct": 45.9
+    },
+    {
+     "n": 10,
+     "name": "Illuminations",
+     "desc": "Completed Chapter 10.",
+     "pct": 43.2
+    },
+    {
+     "n": 11,
+     "name": "The Dragon Stirs",
+     "desc": "Completed Chapter 11.",
+     "pct": 41.8
+    },
+    {
+     "n": 12,
+     "name": "End of an Era",
+     "desc": "Completed Chapter 12.",
+     "pct": 37.9
+    },
+    {
+     "n": 13,
+     "name": "Fate of Our Fathers",
+     "desc": "Completed Chapter 13.",
+     "pct": 36.8
+    },
+    {
+     "n": 14,
+     "name": "The Torch is Passed",
+     "desc": "Completed Chapter 14.",
+     "pct": 35.6
+    },
+    {
+     "n": 999,
+     "name": "Thank You",
+     "desc": "Completed the final chapter.",
+     "pct": 33.5
+    }
+   ]
+  }
+ ]
+}

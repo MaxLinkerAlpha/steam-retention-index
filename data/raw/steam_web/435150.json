@@ -1,0 +1,785 @@
+{
+ "appid": 435150,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 97,
+ "achievements": [
+  {
+   "name": "Thunders of the Upper Deep",
+   "desc": "Escape the kraken's clutches",
+   "hidden": false,
+   "pct": 80.5,
+   "api_name": "DOS2_Quest1",
+   "internal_key": 512
+  },
+  {
+   "name": "Reaper's Eye",
+   "desc": "Arrive at Reaper's Eye",
+   "hidden": false,
+   "pct": 82.0,
+   "api_name": "DOS2_Quest2",
+   "internal_key": 513
+  },
+  {
+   "name": "Gladiator",
+   "desc": "Become champion of the Fort Joy arena",
+   "hidden": false,
+   "pct": 42.1,
+   "api_name": "DOS2_Quest3",
+   "internal_key": 514
+  },
+  {
+   "name": "The Great Escape",
+   "desc": "Flee Fort Joy for good",
+   "hidden": false,
+   "pct": 54.0,
+   "api_name": "DOS2_Quest4",
+   "internal_key": 515
+  },
+  {
+   "name": "Walk at Liberty",
+   "desc": "Remove your Source Collar",
+   "hidden": false,
+   "pct": 50.9,
+   "api_name": "DOS2_Quest5",
+   "internal_key": 516
+  },
+  {
+   "name": "Abound with Blessings",
+   "desc": "Face a higher power",
+   "hidden": false,
+   "pct": 47.0,
+   "api_name": "DOS2_Quest6",
+   "internal_key": 517
+  },
+  {
+   "name": "Spira, Spera",
+   "desc": "Arrive at the Sanctuary of Amadia",
+   "hidden": false,
+   "pct": 49.0,
+   "api_name": "DOS2_Quest7",
+   "internal_key": 518
+  },
+  {
+   "name": "A Good and Faithful Servant",
+   "desc": "Rescue Gareth from Braccus' Armoury",
+   "hidden": false,
+   "pct": 46.4,
+   "api_name": "DOS2_Quest8",
+   "internal_key": 519
+  },
+  {
+   "name": "His Father's Son",
+   "desc": "Defeat Alexandar in Fort Joy",
+   "hidden": false,
+   "pct": 43.7,
+   "api_name": "DOS2_Quest9",
+   "internal_key": 520
+  },
+  {
+   "name": "Cat's Out of the Bag!",
+   "desc": "Escort the Black Cat out of Fort Joy",
+   "hidden": true,
+   "pct": 33.7,
+   "api_name": "DOS2_Quest10",
+   "internal_key": 521
+  },
+  {
+   "name": "Hammered",
+   "desc": "Force Dallis to retreat from combat in Fort Joy",
+   "hidden": true,
+   "pct": 4.1,
+   "api_name": "DOS2_Quest11",
+   "internal_key": 522
+  },
+  {
+   "name": "Dragonslayer",
+   "desc": "Kill Slane",
+   "hidden": true,
+   "pct": 7.3,
+   "api_name": "DOS2_Quest12",
+   "internal_key": 523
+  },
+  {
+   "name": "The Weird Sister",
+   "desc": "Kill Radeka",
+   "hidden": true,
+   "pct": 43.1,
+   "api_name": "DOS2_Quest13",
+   "internal_key": 524
+  },
+  {
+   "name": "Sails That Glance in the Sun",
+   "desc": "Take command of the Lady Vengeance",
+   "hidden": false,
+   "pct": 41.9,
+   "api_name": "DOS2_Quest14",
+   "internal_key": 525
+  },
+  {
+   "name": "Scholar of Secret Arts",
+   "desc": "Welcome Tarquin to the Seekers' service",
+   "hidden": false,
+   "pct": 30.1,
+   "api_name": "DOS2_Quest15",
+   "internal_key": 526
+  },
+  {
+   "name": "Seascape",
+   "desc": "Escape Dallis' siege on the Lady Vengeance without killing every minion",
+   "hidden": false,
+   "pct": 38.3,
+   "api_name": "DOS2_Quest16",
+   "internal_key": 527
+  },
+  {
+   "name": "Heaven's Gate",
+   "desc": "Enter the Hall of Echoes",
+   "hidden": false,
+   "pct": 41.6,
+   "api_name": "DOS2_Quest17",
+   "internal_key": 528
+  },
+  {
+   "name": "Swashbuckler",
+   "desc": "Escape Dallis' siege on the Lady Vengeance after killing every minion",
+   "hidden": true,
+   "pct": 6.5,
+   "api_name": "DOS2_Quest18",
+   "internal_key": 529
+  },
+  {
+   "name": "A Million of Waves",
+   "desc": "Arrive at Reaper's Coast",
+   "hidden": true,
+   "pct": 41.1,
+   "api_name": "DOS2_Quest19",
+   "internal_key": 530
+  },
+  {
+   "name": "The Meistr",
+   "desc": "Meet Meistr Siva",
+   "hidden": false,
+   "pct": 37.9,
+   "api_name": "DOS2_Quest20",
+   "internal_key": 531
+  },
+  {
+   "name": "Andabata",
+   "desc": "Become champion of the Driftwood Arena",
+   "hidden": false,
+   "pct": 22.5,
+   "api_name": "DOS2_Quest21",
+   "internal_key": 532
+  },
+  {
+   "name": "Apprentice",
+   "desc": "Use your first Source Skill",
+   "hidden": false,
+   "pct": 49.5,
+   "api_name": "DOS2_Quest22",
+   "internal_key": 533
+  },
+  {
+   "name": "Expert",
+   "desc": "Unlock your second Source Point slot",
+   "hidden": false,
+   "pct": 31.2,
+   "api_name": "DOS2_Quest23",
+   "internal_key": 534
+  },
+  {
+   "name": "Master",
+   "desc": "Unlock your third Source Point slot",
+   "hidden": false,
+   "pct": 27.5,
+   "api_name": "DOS2_Quest24",
+   "internal_key": 535
+  },
+  {
+   "name": "Furious Rebuke",
+   "desc": "Set Gareth on a path of vengeance",
+   "hidden": true,
+   "pct": 5.6,
+   "api_name": "DOS2_Quest25",
+   "internal_key": 536
+  },
+  {
+   "name": "Iniquity Forgiven",
+   "desc": "Set Gareth on a path of reconciliation",
+   "hidden": true,
+   "pct": 18.2,
+   "api_name": "DOS2_Quest26",
+   "internal_key": 537
+  },
+  {
+   "name": "Isle of the Gods",
+   "desc": "Learn of the Council of Seven's location from a higher power",
+   "hidden": true,
+   "pct": 23.6,
+   "api_name": "DOS2_Quest27",
+   "internal_key": 538
+  },
+  {
+   "name": "The Isle of Last Resort",
+   "desc": "Learn of the Council of Seven's location from Malady",
+   "hidden": true,
+   "pct": 0.9,
+   "api_name": "DOS2_Quest28",
+   "internal_key": 539
+  },
+  {
+   "name": "Lawyer Up",
+   "desc": "Learn of the Council of Seven's location from The Advocate",
+   "hidden": true,
+   "pct": 19.0,
+   "api_name": "DOS2_Quest29",
+   "internal_key": 540
+  },
+  {
+   "name": "What's in a Name?",
+   "desc": "Awaken the corrupted Ancestor Tree on Bloodmoon Island",
+   "hidden": true,
+   "pct": 17.9,
+   "api_name": "DOS2_Quest30",
+   "internal_key": 541
+  },
+  {
+   "name": "Existential Crisis",
+   "desc": "Correctly answer all of Crispin's questions",
+   "hidden": true,
+   "pct": 16.7,
+   "api_name": "DOS2_Quest31",
+   "internal_key": 542
+  },
+  {
+   "name": "Infiltration",
+   "desc": "Lockpick your way into Mordus' hidden lair",
+   "hidden": true,
+   "pct": 8.7,
+   "api_name": "DOS2_Quest32",
+   "internal_key": 543
+  },
+  {
+   "name": "Anathema",
+   "desc": "Obtain Anathema",
+   "hidden": true,
+   "pct": 8.2,
+   "api_name": "DOS2_Quest33",
+   "internal_key": 768
+  },
+  {
+   "name": "A Sheep in Wolf's Clothing",
+   "desc": "Escort Saheila outside without fighting the Lone Wolves",
+   "hidden": false,
+   "pct": 14.8,
+   "api_name": "DOS2_Quest34",
+   "internal_key": 769
+  },
+  {
+   "name": "Over to the Farther Coast",
+   "desc": "Take the ferry to Bloodmoon Island",
+   "hidden": true,
+   "pct": 10.5,
+   "api_name": "DOS2_Quest35",
+   "internal_key": 770
+  },
+  {
+   "name": "A Nest on High",
+   "desc": "Tame Featherfall",
+   "hidden": true,
+   "pct": 9.5,
+   "api_name": "DOS2_Quest36",
+   "internal_key": 771
+  },
+  {
+   "name": "Bridge Over Troubled Waters",
+   "desc": "Help free Mari from the Voidwoken",
+   "hidden": false,
+   "pct": 31.7,
+   "api_name": "DOS2_Quest37",
+   "internal_key": 772
+  },
+  {
+   "name": "Cur of Low Degree",
+   "desc": "Kill Andras, the necromantic dog",
+   "hidden": true,
+   "pct": 29.3,
+   "api_name": "DOS2_Quest38",
+   "internal_key": 773
+  },
+  {
+   "name": "The Good Doctor",
+   "desc": "Perform successful surgery on Natalie",
+   "hidden": true,
+   "pct": 16.5,
+   "api_name": "DOS2_Quest39",
+   "internal_key": 774
+  },
+  {
+   "name": "Technical Eggstacy",
+   "desc": "Destroy every Voidwoken egg in Reaper's Cove",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "DOS2_Quest40",
+   "internal_key": 775
+  },
+  {
+   "name": "Death in the Pot",
+   "desc": "Serve Garvan the tainted stew",
+   "hidden": true,
+   "pct": 10.7,
+   "api_name": "DOS2_Quest41",
+   "internal_key": 776
+  },
+  {
+   "name": "Kiss of the Spider Woman",
+   "desc": "Receive Dorotya's kiss",
+   "hidden": true,
+   "pct": 21.0,
+   "api_name": "DOS2_Quest42",
+   "internal_key": 777
+  },
+  {
+   "name": "Proud Parent",
+   "desc": "Adopt Peeper",
+   "hidden": true,
+   "pct": 25.2,
+   "api_name": "DOS2_Quest43",
+   "internal_key": 778
+  },
+  {
+   "name": "Island Hopper",
+   "desc": "Arrive at the Nameless Isle",
+   "hidden": false,
+   "pct": 23.2,
+   "api_name": "DOS2_Quest44",
+   "internal_key": 779
+  },
+  {
+   "name": "Back to School",
+   "desc": "Enter the Academy",
+   "hidden": false,
+   "pct": 20.7,
+   "api_name": "DOS2_Quest45",
+   "internal_key": 780
+  },
+  {
+   "name": "Get In The Ring",
+   "desc": "Enter The Arena of the One",
+   "hidden": false,
+   "pct": 20.2,
+   "api_name": "DOS2_Quest46",
+   "internal_key": 781
+  },
+  {
+   "name": "The Seven Altars",
+   "desc": "Pray at every altar on the Nameless Isle",
+   "hidden": false,
+   "pct": 5.4,
+   "api_name": "DOS2_Quest48",
+   "internal_key": 783
+  },
+  {
+   "name": "Favoured Son",
+   "desc": "Convince Alexandar to ally with you",
+   "hidden": true,
+   "pct": 6.1,
+   "api_name": "DOS2_Quest49",
+   "internal_key": 784
+  },
+  {
+   "name": "Chosen",
+   "desc": "Convince all party members to let you ascend",
+   "hidden": true,
+   "pct": 13.9,
+   "api_name": "DOS2_Quest50",
+   "internal_key": 785
+  },
+  {
+   "name": "Serious Academic",
+   "desc": "Discover the hidden entrance to the Academy",
+   "hidden": true,
+   "pct": 11.9,
+   "api_name": "DOS2_Quest51",
+   "internal_key": 786
+  },
+  {
+   "name": "The Promise",
+   "desc": "Swear to the Covenant",
+   "hidden": true,
+   "pct": 2.6,
+   "api_name": "DOS2_Quest54",
+   "internal_key": 789
+  },
+  {
+   "name": "The Wreck of the Titan",
+   "desc": "Arrive at Arx",
+   "hidden": false,
+   "pct": 20.0,
+   "api_name": "DOS2_Quest55",
+   "internal_key": 790
+  },
+  {
+   "name": "The Back Door",
+   "desc": "Gain entrance to Lucian's Crypt without following the Path of Blood",
+   "hidden": true,
+   "pct": 14.8,
+   "api_name": "DOS2_Quest56",
+   "internal_key": 791
+  },
+  {
+   "name": "Puritan's Walk",
+   "desc": "Successfully walk the Path of Blood",
+   "hidden": true,
+   "pct": 1.9,
+   "api_name": "DOS2_Quest57",
+   "internal_key": 792
+  },
+  {
+   "name": "The Abysmal Sea",
+   "desc": "Defeated the Kraken",
+   "hidden": false,
+   "pct": 13.1,
+   "api_name": "DOS2_Quest58",
+   "internal_key": 793
+  },
+  {
+   "name": "Risen",
+   "desc": "Ascend to Divinity",
+   "hidden": true,
+   "pct": 10.9,
+   "api_name": "DOS2_Quest59",
+   "internal_key": 794
+  },
+  {
+   "name": "One For All",
+   "desc": "Share Source with all of Rivellon",
+   "hidden": true,
+   "pct": 8.1,
+   "api_name": "DOS2_Quest60",
+   "internal_key": 795
+  },
+  {
+   "name": "Supreme Sacrifice",
+   "desc": "Purge Rivellon of all Source",
+   "hidden": true,
+   "pct": 6.3,
+   "api_name": "DOS2_Quest61",
+   "internal_key": 796
+  },
+  {
+   "name": "Return of the King",
+   "desc": "Submit to the God King",
+   "hidden": true,
+   "pct": 4.5,
+   "api_name": "DOS2_Quest62",
+   "internal_key": 797
+  },
+  {
+   "name": "Angel and Demon",
+   "desc": "Share Divinity with The Doctor",
+   "hidden": true,
+   "pct": 1.3,
+   "api_name": "DOS2_Quest63",
+   "internal_key": 798
+  },
+  {
+   "name": "A Dream Undone",
+   "desc": "The Red Prince: Kill the Red Princess",
+   "hidden": true,
+   "pct": 1.2,
+   "api_name": "DOS2_Quest64",
+   "internal_key": 799
+  },
+  {
+   "name": "All-Father, Life-Shaper",
+   "desc": "The Red Prince: Become the father of dragons",
+   "hidden": true,
+   "pct": 7.3,
+   "api_name": "DOS2_Quest65",
+   "internal_key": 1024
+  },
+  {
+   "name": "Demon's Embrace",
+   "desc": "Lohse: Embrace your demon",
+   "hidden": true,
+   "pct": 1.6,
+   "api_name": "DOS2_Quest66",
+   "internal_key": 1025
+  },
+  {
+   "name": "An Apple a Day",
+   "desc": "Lohse: Banish your demon",
+   "hidden": true,
+   "pct": 7.1,
+   "api_name": "DOS2_Quest67",
+   "internal_key": 1026
+  },
+  {
+   "name": "Stay Grounded",
+   "desc": "Sebille: Serve the Mother Tree",
+   "hidden": true,
+   "pct": 4.1,
+   "api_name": "DOS2_Quest68",
+   "internal_key": 1027
+  },
+  {
+   "name": "Liberator",
+   "desc": "Sebille: Destroy the Mother Tree",
+   "hidden": true,
+   "pct": 6.0,
+   "api_name": "DOS2_Quest69",
+   "internal_key": 1028
+  },
+  {
+   "name": "Eternal Salvation",
+   "desc": "Fane: Return the Eternals to Rivellon",
+   "hidden": true,
+   "pct": 2.0,
+   "api_name": "DOS2_Quest70",
+   "internal_key": 1029
+  },
+  {
+   "name": "The Adventure Begins...",
+   "desc": "Fane: Embrace this strange new world",
+   "hidden": true,
+   "pct": 2.1,
+   "api_name": "DOS2_Quest71",
+   "internal_key": 1030
+  },
+  {
+   "name": "A Wolf Avenged",
+   "desc": "Ifan: Kill Lucian",
+   "hidden": true,
+   "pct": 5.5,
+   "api_name": "DOS2_Quest72",
+   "internal_key": 1031
+  },
+  {
+   "name": "Fool Me Once",
+   "desc": "Ifan: Forgive Lucian",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "DOS2_Quest73",
+   "internal_key": 1032
+  },
+  {
+   "name": "Regicide",
+   "desc": "Beast: Assassinate the Queen",
+   "hidden": true,
+   "pct": 1.9,
+   "api_name": "DOS2_Quest74",
+   "internal_key": 1033
+  },
+  {
+   "name": "Toy Story",
+   "desc": "Persuade Toyseller Sanders to give you his amulet",
+   "hidden": true,
+   "pct": 10.7,
+   "api_name": "DOS2_Quest76",
+   "internal_key": 1035
+  },
+  {
+   "name": "Lair of the White Worm",
+   "desc": "Discover Reimond's Lair",
+   "hidden": true,
+   "pct": 15.9,
+   "api_name": "DOS2_Quest77",
+   "internal_key": 1036
+  },
+  {
+   "name": "Cat Person",
+   "desc": "Rescue Arhu",
+   "hidden": false,
+   "pct": 11.6,
+   "api_name": "DOS2_Quest78",
+   "internal_key": 1037
+  },
+  {
+   "name": "Doctor: Heal Thyself",
+   "desc": "Defeat Adramahlihk",
+   "hidden": true,
+   "pct": 13.9,
+   "api_name": "DOS2_Quest79",
+   "internal_key": 1038
+  },
+  {
+   "name": "Deal with the Devil",
+   "desc": "Make a deal with Adramahlihk",
+   "hidden": true,
+   "pct": 2.9,
+   "api_name": "DOS2_Quest80",
+   "internal_key": 1039
+  },
+  {
+   "name": "Royalty",
+   "desc": "Beast: Ally with the Queen",
+   "hidden": true,
+   "pct": 2.5,
+   "api_name": "DOS2_Quest75",
+   "internal_key": 1040
+  },
+  {
+   "name": "Masquerade",
+   "desc": "Shapeshift into every race",
+   "hidden": true,
+   "pct": 23.5,
+   "api_name": "DOS2_Quest81",
+   "internal_key": 1042
+  },
+  {
+   "name": "Sourcerer",
+   "desc": "Complete the game in Explorer Mode",
+   "hidden": false,
+   "pct": 11.8,
+   "api_name": "DOS2_Quest82",
+   "internal_key": 1043
+  },
+  {
+   "name": "Godwoken",
+   "desc": "Complete the game in Classic Mode",
+   "hidden": false,
+   "pct": 10.2,
+   "api_name": "DOS2_Quest83",
+   "internal_key": 1044
+  },
+  {
+   "name": "Divine",
+   "desc": "Complete the game in Tactician Mode",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "DOS2_Quest84",
+   "internal_key": 1045
+  },
+  {
+   "name": "Arcane Author",
+   "desc": "Craft a scroll",
+   "hidden": false,
+   "pct": 23.9,
+   "api_name": "DOS2_Quest85",
+   "internal_key": 1046
+  },
+  {
+   "name": "Took a Great Fall",
+   "desc": "Kill an enemy using Teleportation",
+   "hidden": true,
+   "pct": 35.2,
+   "api_name": "DOS2_Quest86",
+   "internal_key": 1047
+  },
+  {
+   "name": "Skillcrafter",
+   "desc": "Craft a skill",
+   "hidden": false,
+   "pct": 24.3,
+   "api_name": "DOS2_Quest87",
+   "internal_key": 1048
+  },
+  {
+   "name": "Runemaster",
+   "desc": "Equip runes to all of an item's available slots",
+   "hidden": false,
+   "pct": 36.8,
+   "api_name": "DOS2_Quest88",
+   "internal_key": 1049
+  },
+  {
+   "name": "Spirit Animal",
+   "desc": "Speak to an animal's spirit",
+   "hidden": false,
+   "pct": 30.8,
+   "api_name": "DOS2_Quest89",
+   "internal_key": 1050
+  },
+  {
+   "name": "Curse Thine Enemies",
+   "desc": "Use the Curse skill",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "DOS2_Quest90",
+   "internal_key": 1051
+  },
+  {
+   "name": "Hero",
+   "desc": "Gain the Hero tag",
+   "hidden": true,
+   "pct": 44.1,
+   "api_name": "DOS2_Quest91",
+   "internal_key": 1052
+  },
+  {
+   "name": "Villain",
+   "desc": "Gain the Villain tag",
+   "hidden": true,
+   "pct": 10.5,
+   "api_name": "DOS2_Quest92",
+   "internal_key": 1054
+  },
+  {
+   "name": "Convincing",
+   "desc": "Win a persuasion event",
+   "hidden": false,
+   "pct": 67.3,
+   "api_name": "DOS2_Quest93",
+   "internal_key": 1055
+  },
+  {
+   "name": "Thief",
+   "desc": "Perform a successful theft",
+   "hidden": false,
+   "pct": 72.7,
+   "api_name": "DOS2_Quest94",
+   "internal_key": 1280
+  },
+  {
+   "name": "Grenadier",
+   "desc": "Craft a grenade",
+   "hidden": false,
+   "pct": 13.9,
+   "api_name": "DOS2_Quest95",
+   "internal_key": 1281
+  },
+  {
+   "name": "Criminal Intent",
+   "desc": "Get caught breaking the law",
+   "hidden": false,
+   "pct": 29.9,
+   "api_name": "DOS2_Quest96",
+   "internal_key": 1282
+  },
+  {
+   "name": "Venture Forth",
+   "desc": "Successfully begin a match in Arena Mode",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "DOS2_Quest97",
+   "internal_key": 1283
+  },
+  {
+   "name": "Gather Your Party",
+   "desc": "Successfully begin a Game Master session",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "DOS2_Quest98",
+   "internal_key": 1284
+  },
+  {
+   "name": "For Honour",
+   "desc": "Complete the game in Honour Mode",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "DOS2_Quest99",
+   "internal_key": 1285
+  },
+  {
+   "name": "A Song Unsung",
+   "desc": "Sebille: Kill the Master",
+   "hidden": true,
+   "pct": 9.7,
+   "api_name": "DOS2_Quest100",
+   "internal_key": 1286
+  }
+ ]
+}

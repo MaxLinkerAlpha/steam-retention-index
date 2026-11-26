@@ -1,0 +1,197 @@
+{
+ "appid": 1657630,
+ "game": "Slime Rancher 2",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 27,
+ "achievements": [
+  {
+   "api": "Tinkerer",
+   "name": "Tinkerer",
+   "desc": "Place your first gadget.",
+   "hidden": false,
+   "pct": 38.4
+  },
+  {
+   "api": "RainbowExplorer",
+   "name": "Rainbow Explorer",
+   "desc": "Discover any three areas.",
+   "hidden": false,
+   "pct": 35.6
+  },
+  {
+   "api": "Pop",
+   "name": "Pop!",
+   "desc": "Feed 3 Gordos to bursting.",
+   "hidden": false,
+   "pct": 34.1
+  },
+  {
+   "api": "TinkerTailorSlimes",
+   "name": "Tinker Tailor Science Slime",
+   "desc": "Craft 8 unique player upgrades.",
+   "hidden": false,
+   "pct": 23.0
+  },
+  {
+   "api": "FarRangeFriends",
+   "name": "Far Range Friends",
+   "desc": "Use the Comm Station to receive a gift from Mochi, Viktor, Thora, Ogden, and BOb.",
+   "hidden": false,
+   "pct": 23.0
+  },
+  {
+   "api": "Plortonomics",
+   "name": "Plortonomics",
+   "desc": "Sell 15 different types of plorts.",
+   "hidden": false,
+   "pct": 20.2
+  },
+  {
+   "api": "MakeAnOmelette",
+   "name": "Can't Make an Omelette",
+   "desc": "Break a Yolky Slime egg.",
+   "hidden": false,
+   "pct": 19.8
+  },
+  {
+   "api": "BeamMeUp",
+   "name": "Beam Me Up",
+   "desc": "Craft and use a Return Home Portal.",
+   "hidden": false,
+   "pct": 19.6
+  },
+  {
+   "api": "WatchOutForMinotaurs",
+   "name": "Into the Unknown",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.3
+  },
+  {
+   "api": "DomainExpansion",
+   "name": "Complete Conservatory",
+   "desc": "Purchase 5 Ranch Expansions.",
+   "hidden": false,
+   "pct": 16.3
+  },
+  {
+   "api": "TreasureTrove",
+   "name": "Treasure Hunter",
+   "desc": "Loot 50 treasure pods.",
+   "hidden": false,
+   "pct": 15.0
+  },
+  {
+   "api": "SecretBehindTheWaterfall",
+   "name": "Secret Behind the Waterfall",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.6
+  },
+  {
+   "api": "Recharged",
+   "name": "Charged Up",
+   "desc": "Get hit by a bolt of lightning.",
+   "hidden": false,
+   "pct": 13.4
+  },
+  {
+   "api": "YouCanPetIt",
+   "name": "You Can Pet the Cat",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.3
+  },
+  {
+   "api": "Beallionaire",
+   "name": "Bea-llionaire",
+   "desc": "Earn 100000 newbucks from selling plorts.",
+   "hidden": false,
+   "pct": 11.0
+  },
+  {
+   "api": "FlyLikeABea",
+   "name": "Fly like a Bea",
+   "desc": "Fly for 5 seconds using the jetpack.",
+   "hidden": false,
+   "pct": 10.9
+  },
+  {
+   "api": "CoreBreach",
+   "name": "Core Breach",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.0
+  },
+  {
+   "api": "PolestarPro",
+   "name": "Polestar Pro",
+   "desc": "Purchase 40 items in the Polestar Provisions shop.",
+   "hidden": false,
+   "pct": 6.5
+  },
+  {
+   "api": "TurnTheDial",
+   "name": "Turn the Dial",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.5
+  },
+  {
+   "api": "ARealHero",
+   "name": "A Real Hero",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.5
+  },
+  {
+   "api": "DroneRanger",
+   "name": "Quantum Crafter",
+   "desc": "Craft 5 Quantum Drones.",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "Tarnado",
+   "name": "Tarrnado",
+   "desc": "Shoot a tarr into a tornado.",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "ShadyDeals",
+   "name": "Shady Deals",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  },
+  {
+   "api": "ThinkingWithPortals",
+   "name": "Now You're Thinking With Plortals",
+   "desc": "Fire a plort through a linked cannon, sending it to the plort market.",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "AllThatGlitters",
+   "name": "All That Glitters",
+   "desc": "Have a Strange Diamond, Sun Sap, Royal Jelly, and Lightning Mote in your vac at the same time.",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "RainbowResearcher",
+   "name": "Rainbow Researcher",
+   "desc": "Complete the Slimepedia.",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "RealGoalGetter",
+   "name": "A Real Goal-Getter",
+   "desc": "Get a score of 120 on a Slimeball goal gadget within 1 minute.",
+   "hidden": false,
+   "pct": 1.6
+  }
+ ]
+}

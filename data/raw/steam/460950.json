@@ -1,0 +1,162 @@
+{
+ "appid": 460950,
+ "game": "Katana ZERO",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 22,
+ "achievements": [
+  {
+   "api": "ACH_COFFIN_HEAD",
+   "name": "Coffin Head",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.6
+  },
+  {
+   "api": "ACH_BEAT_DRAGON",
+   "name": "The Dragon's tape",
+   "desc": "",
+   "hidden": true,
+   "pct": 59.4
+  },
+  {
+   "api": "ACH_BEAT_GAME",
+   "name": "To be continued",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.1
+  },
+  {
+   "api": "ACH_THE_END",
+   "name": "The End",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.2
+  },
+  {
+   "api": "ACH_SECRET_5",
+   "name": "Prototype key",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.4
+  },
+  {
+   "api": "ACH_FACTORY_HANGUP",
+   "name": "Don't hang up!",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.7
+  },
+  {
+   "api": "ACH_SECRET_0",
+   "name": "Prism key",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.7
+  },
+  {
+   "api": "ACH_SECRET_1",
+   "name": "Master key",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.9
+  },
+  {
+   "api": "ACH_RECOVER_V_KATANA",
+   "name": "Party Animal",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.5
+  },
+  {
+   "api": "ACH_NO_MEDS",
+   "name": "Refused medication",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.3
+  },
+  {
+   "api": "ACH_JUMP_PENTHOUSE",
+   "name": "What a bad idea",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.1
+  },
+  {
+   "api": "ACH_SECRET_3",
+   "name": "Phoenix key",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.5
+  },
+  {
+   "api": "ACH_NOKILL_ANIMATRONICS",
+   "name": "No love for robots",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.9
+  },
+  {
+   "api": "ACH_CAT",
+   "name": "Feline Persuasion",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.6
+  },
+  {
+   "api": "ACH_SECRET_4",
+   "name": "Savant key",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.0
+  },
+  {
+   "api": "ACH_ALL_SECRETS",
+   "name": "Secret hunter",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.8
+  },
+  {
+   "api": "ACH_BEAT_V",
+   "name": "Beatdown",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.8
+  },
+  {
+   "api": "ACH_BEAT_PSYCH",
+   "name": "Psychotherapy",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.7
+  },
+  {
+   "api": "ACH_CARDGAME",
+   "name": "Forbidden Ultimate Danger Tempest-Eyed MAJORDOMO Imperial Barrage Crab, Evixion",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.4
+  },
+  {
+   "api": "ACH_FUNNY_PRANK",
+   "name": "Funny prank",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.0
+  },
+  {
+   "api": "ACH_HARDMODE",
+   "name": "Hardmode",
+   "desc": "Complete a full run in hard mode.",
+   "hidden": false,
+   "pct": 4.9
+  },
+  {
+   "api": "ACH_GOLD",
+   "name": "Gold Medal",
+   "desc": "Achieve a total rank of gold or higher in a full speedrun.",
+   "hidden": false,
+   "pct": 2.8
+  }
+ ]
+}

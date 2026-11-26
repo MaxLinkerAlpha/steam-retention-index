@@ -1,0 +1,817 @@
+{
+ "appid": 1659420,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 101,
+ "achievements": [
+  {
+   "name": "Charted! - Explorer",
+   "desc": "Complete the game in explorer mode",
+   "hidden": false,
+   "pct": 39.0,
+   "api_name": "TROPHY_NAME_FINISH_EXPLORER",
+   "internal_key": 256
+  },
+  {
+   "name": "Charted! - Light",
+   "desc": "Complete the game in light mode",
+   "hidden": false,
+   "pct": 35.4,
+   "api_name": "TROPHY_NAME_FINISH_EASY",
+   "internal_key": 257
+  },
+  {
+   "name": "Charted! - Moderate",
+   "desc": "Complete the game in moderate mode",
+   "hidden": false,
+   "pct": 29.9,
+   "api_name": "TROPHY_NAME_FINISH_NORMAL",
+   "internal_key": 258
+  },
+  {
+   "name": "Charted! - Hard",
+   "desc": "Complete the game in hard mode",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "TROPHY_NAME_FINISH_HARD",
+   "internal_key": 259
+  },
+  {
+   "name": "Charted! - Crushing",
+   "desc": "Complete the game in crushing mode",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "TROPHY_NAME_FINISH_UHARD",
+   "internal_key": 260
+  },
+  {
+   "name": "Charted! - Speedrun",
+   "desc": "Complete the game in 6 hours or less",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "TROPHY_NAME_FINISH_SPEEDRUN",
+   "internal_key": 261
+  },
+  {
+   "name": "First Treasure",
+   "desc": "Find a Treasure",
+   "hidden": false,
+   "pct": 80.2,
+   "api_name": "TROPHY_NAME_TREASURE_1",
+   "internal_key": 262
+  },
+  {
+   "name": "Treasure Hunter",
+   "desc": "Find 50 treasures",
+   "hidden": false,
+   "pct": 7.2,
+   "api_name": "TROPHY_NAME_TREASURE_50",
+   "internal_key": 263
+  },
+  {
+   "name": "Treasure Master",
+   "desc": "Find all Treasures",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "TROPHY_NAME_TREASURE_ALL",
+   "internal_key": 264
+  },
+  {
+   "name": "Relic Finder",
+   "desc": "Find the Strange Relics",
+   "hidden": true,
+   "pct": 2.4,
+   "api_name": "TROPHY_NAME_TREASURE_RELIC",
+   "internal_key": 265
+  },
+  {
+   "name": "Jot This Down",
+   "desc": "Find a Journal Entry",
+   "hidden": false,
+   "pct": 64.9,
+   "api_name": "TROPHY_NAME_JOURNAL_ENTRY_1",
+   "internal_key": 266
+  },
+  {
+   "name": "Lost Art of Journaling",
+   "desc": "Find all Journal Entries",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "TROPHY_NAME_JOURNAL_ENTRY_ALL",
+   "internal_key": 267
+  },
+  {
+   "name": "Take a Note",
+   "desc": "Find a Journal Note",
+   "hidden": false,
+   "pct": 64.0,
+   "api_name": "TROPHY_NAME_JOURNAL_NOTE_1",
+   "internal_key": 268
+  },
+  {
+   "name": "Lost History",
+   "desc": "Find All Journal Notes",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "TROPHY_NAME_JOURNAL_NOTE_ALL",
+   "internal_key": 269
+  },
+  {
+   "name": "Head of the Class!",
+   "desc": "Defeat 20 enemies with headshots",
+   "hidden": false,
+   "pct": 68.7,
+   "api_name": "TROPHY_NAME_HEADSHOT_LOW",
+   "internal_key": 270
+  },
+  {
+   "name": "You Have a Head for this Business",
+   "desc": "Defeat 50 enemies with headshots",
+   "hidden": false,
+   "pct": 59.6,
+   "api_name": "TROPHY_NAME_HEADSHOT_HIGH",
+   "internal_key": 271
+  },
+  {
+   "name": "Hangman's Bullet",
+   "desc": "Perform 20 headshots from the rope",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "TROPHY_NAME_HEADSHOT_ROPE",
+   "internal_key": 272
+  },
+  {
+   "name": "Stealth First Ask Questions Later",
+   "desc": "Stealth take-down 5 enemies",
+   "hidden": false,
+   "pct": 66.2,
+   "api_name": "TROPHY_NAME_STEALTH_KILL_LOW",
+   "internal_key": 273
+  },
+  {
+   "name": "Shh Sleep Now",
+   "desc": "Stealth take-down 30 enemies",
+   "hidden": false,
+   "pct": 41.2,
+   "api_name": "TROPHY_NAME_STEALTH_KILL_HIGH",
+   "internal_key": 274
+  },
+  {
+   "name": "I Thought I Heard Something",
+   "desc": "Perform 30 vertical stealth takedowns",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "TROPHY_NAME_VERTICAL_TAKEDOWN",
+   "internal_key": 275
+  },
+  {
+   "name": "Run-and-Gunner",
+   "desc": "Defeat 50 enemies from-the-hip or blind-firing",
+   "hidden": false,
+   "pct": 8.3,
+   "api_name": "TROPHY_NAME_BLIND_FIRE",
+   "internal_key": 276
+  },
+  {
+   "name": "Leapfrog",
+   "desc": "Defeat 10 enemies in a row, alternating gunplay and hand-to-hand",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "TROPHY_NAME_LEAPFROG",
+   "internal_key": 277
+  },
+  {
+   "name": "Unstoppable!",
+   "desc": "Defeat 100 enemies in a row without dying in combat",
+   "hidden": false,
+   "pct": 13.5,
+   "api_name": "TROPHY_NAME_NO_DEATH_100_KILLS",
+   "internal_key": 278
+  },
+  {
+   "name": "Sharpshooter",
+   "desc": "Complete game with 70% or higher shot accuracy",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "TROPHY_NAME_SHARPSHOOTER",
+   "internal_key": 279
+  },
+  {
+   "name": "Rushing Roulette",
+   "desc": "Defeat enemies with a pistol, machine gun, and grenade, in that order, in 15 seconds",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "TROPHY_NAME_ROULETTE",
+   "internal_key": 280
+  },
+  {
+   "name": "Ghost in the Cemetery",
+   "desc": "Get through Scotland cemetery combat encounter without killing or being seen",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "TROPHY_NAME_COMBAT_NO_KILL",
+   "internal_key": 281
+  },
+  {
+   "name": "Butterfingers",
+   "desc": "Make 10 enemies drop their grenades",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "TROPHY_NAME_ENEMY_DROP_GRENADE",
+   "internal_key": 282
+  },
+  {
+   "name": "Boom County",
+   "desc": "Defeat 4 enemies with the same explosion (all explosive items and weapons apply)",
+   "hidden": false,
+   "pct": 7.7,
+   "api_name": "TROPHY_NAME_EXPLOSION_MULTI_KILL",
+   "internal_key": 283
+  },
+  {
+   "name": "Defeat 10 in 60 -- China Lake GL",
+   "desc": "Defeat 10 enemies in 60 seconds with the China Lake Grenade Launcher",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "TROPHY_NAME_CL_GRENADE_LAUNCHER",
+   "internal_key": 284
+  },
+  {
+   "name": "Hang Tough!",
+   "desc": "Destroy 10 vehicles while being dragged from the rope",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "TROPHY_NAME_ROPE_VEHICLE_DESTROY",
+   "internal_key": 285
+  },
+  {
+   "name": "Run the Table",
+   "desc": "Defeat enemies with a stealth attack, melee attack, headshot, and explosives, in that order, in 15 seconds",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "TROPHY_NAME_KILL_TYPE_TIMED",
+   "internal_key": 286
+  },
+  {
+   "name": "Hitting a Brick Wall",
+   "desc": "Defeat 5 armored enemies with melee only",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "TROPHY_NAME_ARMORED_MELEE",
+   "internal_key": 287
+  },
+  {
+   "name": "Peaceful Resolution",
+   "desc": "After being marooned, leave everyone alive until the Treasury",
+   "hidden": true,
+   "pct": 1.6,
+   "api_name": "TROPHY_NAME_COMBAT_NO_KILL_HARD",
+   "internal_key": 512
+  },
+  {
+   "name": "Wingman",
+   "desc": "Perform 10 combo buddy takedowns",
+   "hidden": false,
+   "pct": 18.3,
+   "api_name": "TROPHY_NAME_COMBO_BUDDY_TAKEDOWN",
+   "internal_key": 513
+  },
+  {
+   "name": "Cliffhanger",
+   "desc": "Pull 20 enemies over when hanging from a ledge",
+   "hidden": false,
+   "pct": 8.8,
+   "api_name": "TROPHY_NAME_LEDGE_PULLDOWN",
+   "internal_key": 514
+  },
+  {
+   "name": "Ludonarrative Dissonance",
+   "desc": "Defeat 1000 enemies",
+   "hidden": true,
+   "pct": 6.7,
+   "api_name": "TROPHY_NAME_LUDONARRATIVE",
+   "internal_key": 515
+  },
+  {
+   "name": "Don't Feed the Animals",
+   "desc": "Play with the lemur in the market and let it steal your apple",
+   "hidden": true,
+   "pct": 26.5,
+   "api_name": "TROPHY_NAME_LEMUR_CITY",
+   "internal_key": 516
+  },
+  {
+   "name": "I Accidentally All the Guns",
+   "desc": "Use every gun",
+   "hidden": true,
+   "pct": 2.1,
+   "api_name": "TROPHY_NAME_EVERY_WEAPON",
+   "internal_key": 517
+  },
+  {
+   "name": "Not a Cairn in the World",
+   "desc": "Knock over all rock cairns in Madagascar",
+   "hidden": true,
+   "pct": 2.1,
+   "api_name": "TROPHY_NAME_KNOCK_ROCKS_DOWN",
+   "internal_key": 518
+  },
+  {
+   "name": "I Can See My House From Here!",
+   "desc": "Climb to the very top of the Clocktower in the City",
+   "hidden": true,
+   "pct": 6.3,
+   "api_name": "TROPHY_NAME_TOP_CLOCKTOWER_CITY",
+   "internal_key": 519
+  },
+  {
+   "name": "Trials and Tribulations",
+   "desc": "Solve the first Trial in Scotland in 10 moves or less",
+   "hidden": true,
+   "pct": 4.0,
+   "api_name": "TROPHY_NAME_SCO_TRIAL_SOLVE",
+   "internal_key": 520
+  },
+  {
+   "name": "Best Score!",
+   "desc": "Beat the best score in the retro videogame",
+   "hidden": true,
+   "pct": 3.4,
+   "api_name": "TROPHY_NAME_BANDICOOT_HIGH_SCORE",
+   "internal_key": 521
+  },
+  {
+   "name": "Gift of Gab",
+   "desc": "Listen to all optional conversations in game",
+   "hidden": true,
+   "pct": 2.0,
+   "api_name": "TROPHY_NAME_OPTIONAL_DIALOG",
+   "internal_key": 522
+  },
+  {
+   "name": "Marco Polo Returns!",
+   "desc": "Play in the ocean near the sunken ship",
+   "hidden": true,
+   "pct": 21.0,
+   "api_name": "TROPHY_NAME_MARCO_POLO",
+   "internal_key": 523
+  },
+  {
+   "name": "Stage Fright",
+   "desc": "Just prior to City Chase, stand perfectly still for 30 seconds (stage demo fail)",
+   "hidden": true,
+   "pct": 2.9,
+   "api_name": "TROPHY_NAME_E3_DEMO_FAIL",
+   "internal_key": 524
+  },
+  {
+   "name": "Just Floor It!",
+   "desc": "Drive away in the jeep with Elena without killing any enemies",
+   "hidden": true,
+   "pct": 1.9,
+   "api_name": "TROPHY_NAME_ELENA_JEEP",
+   "internal_key": 525
+  },
+  {
+   "name": "On Porpoise",
+   "desc": "Get three dolphins to follow the boat",
+   "hidden": true,
+   "pct": 1.9,
+   "api_name": "TROPHY_NAME_DOLPHINS",
+   "internal_key": 526
+  },
+  {
+   "name": "Still Got It!",
+   "desc": "Hit all targets in the attic with the toy gun",
+   "hidden": true,
+   "pct": 41.1,
+   "api_name": "TROPHY_NAME_TOY_GUN_TARGETS",
+   "internal_key": 527
+  },
+  {
+   "name": "Glamour Shot",
+   "desc": "Take a photo of Sully",
+   "hidden": true,
+   "pct": 6.4,
+   "api_name": "TROPHY_NAME_SULLY_PHOTO",
+   "internal_key": 528
+  },
+  {
+   "name": "Swordmaster",
+   "desc": "Perfectly parry Rafe in the sword fight without getting slashed or stabbed",
+   "hidden": true,
+   "pct": 1.9,
+   "api_name": "TROPHY_NAME_SWORD_FIGHT",
+   "internal_key": 529
+  },
+  {
+   "name": "Legacy Found!",
+   "desc": "Complete the Game",
+   "hidden": false,
+   "pct": 21.7,
+   "api_name": "TROPHY_NAME_BEAT_GAME",
+   "internal_key": 531
+  },
+  {
+   "name": "Progress Demands Sacrifice",
+   "desc": "Complete the Game in Crushing mode",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "TROPHY_NAME_BEAT_CRUSHING",
+   "internal_key": 532
+  },
+  {
+   "name": "Casual Treasure Hunter",
+   "desc": "Find 5 treasures",
+   "hidden": false,
+   "pct": 34.6,
+   "api_name": "TROPHY_NAME_TREASURE_ENTHUSIAST",
+   "internal_key": 533
+  },
+  {
+   "name": "Hardcore Treasure Hunter",
+   "desc": "Find 35 treasures",
+   "hidden": false,
+   "pct": 13.8,
+   "api_name": "TROPHY_NAME_TREASURE_HUNTER",
+   "internal_key": 534
+  },
+  {
+   "name": "Collector of Antiquities",
+   "desc": "Find all the treasures",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "TROPHY_NAME_TREASURE_MASTER",
+   "internal_key": 535
+  },
+  {
+   "name": "Shake For Your Fortune",
+   "desc": "Ask Skeleseer a question",
+   "hidden": true,
+   "pct": 3.1,
+   "api_name": "TROPHY_NAME_RELIC_FINDER",
+   "internal_key": 536
+  },
+  {
+   "name": "Token For Granted",
+   "desc": "Find a Hoysala token",
+   "hidden": true,
+   "pct": 32.7,
+   "api_name": "TROPHY_NAME_HOYSALA_TOKEN",
+   "internal_key": 537
+  },
+  {
+   "name": "Yas Queen",
+   "desc": "Find all the Hoysala tokens and obtain the Queen's Ruby",
+   "hidden": true,
+   "pct": 18.2,
+   "api_name": "TROPHY_NAME_TREASURE_FINDER",
+   "internal_key": 538
+  },
+  {
+   "name": "Five Finger Discount",
+   "desc": "Open 5 lockboxes",
+   "hidden": false,
+   "pct": 29.4,
+   "api_name": "TROPHY_NAME_PICK_LOCKS",
+   "internal_key": 539
+  },
+  {
+   "name": "Picks or It Didn't Happen",
+   "desc": "Open every lockbox",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "TROPHY_NAME_PICK_LOCKS_ALL",
+   "internal_key": 540
+  },
+  {
+   "name": "#nofilter",
+   "desc": "Take a photo at 5 photo opportunities",
+   "hidden": false,
+   "pct": 30.3,
+   "api_name": "TROPHY_NAME_FIRST_PICS",
+   "internal_key": 541
+  },
+  {
+   "name": "Pics or It Didn't Happen",
+   "desc": "Take a photo at all the photo opportunities",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "TROPHY_NAME_ALL_PICS",
+   "internal_key": 542
+  },
+  {
+   "name": "Getting to Know You",
+   "desc": "Listen to all optional conversations",
+   "hidden": true,
+   "pct": 1.7,
+   "api_name": "TROPHY_NAME_OPTIONAL_CONVO",
+   "internal_key": 543
+  },
+  {
+   "name": "Si Vis Pacem Para Bellum",
+   "desc": "Use every gun in the game",
+   "hidden": true,
+   "pct": 2.0,
+   "api_name": "TROPHY_NAME_ALL_WEAPONS",
+   "internal_key": 768
+  },
+  {
+   "name": "Were You Counting?",
+   "desc": "Defeat an enemy with the last bullet in your handgun clip",
+   "hidden": true,
+   "pct": 27.4,
+   "api_name": "TROPHY_NAME_LAST_BULLET",
+   "internal_key": 769
+  },
+  {
+   "name": "10 Up, 10 Down",
+   "desc": "Defeat 10 enemies with headshots in a row",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "TROPHY_NAME_HEAD_CHAIN",
+   "internal_key": 770
+  },
+  {
+   "name": "Frazer. Chloe Frazer.",
+   "desc": "Defeat 5 consecutive enemies with the silenced pistol without being detected",
+   "hidden": false,
+   "pct": 5.4,
+   "api_name": "TROPHY_NAME_SILENCE_PISTOL",
+   "internal_key": 771
+  },
+  {
+   "name": "Itchy Trigger Finger",
+   "desc": "Defeat 20 enemies firing from-the-hip",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "TROPHY_NAME_FROM_THE_HIP",
+   "internal_key": 772
+  },
+  {
+   "name": "Stay and Pray",
+   "desc": "Defeat 20 enemies blind-firing from cover",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "TROPHY_NAME_COVER_FIRE",
+   "internal_key": 773
+  },
+  {
+   "name": "Tip of the Hat",
+   "desc": "Stealth take-down 10 armored enemies with melee by first removing their helmets without being detected",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "TROPHY_NAME_HELMET_STEALTH",
+   "internal_key": 774
+  },
+  {
+   "name": "Royal Demolitionist",
+   "desc": "Defeat 20 enemies with C4",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "TROPHY_NAME_C4_KILLS",
+   "internal_key": 775
+  },
+  {
+   "name": "On the Grid",
+   "desc": "Mark 30 enemies",
+   "hidden": false,
+   "pct": 12.2,
+   "api_name": "TROPHY_NAME_MARK_ENEMIES",
+   "internal_key": 776
+  },
+  {
+   "name": "I Was Never Here",
+   "desc": "Open a lockbox with enemies nearby",
+   "hidden": true,
+   "pct": 31.1,
+   "api_name": "TROPHY_NAME_PICK_LOCK_DANGER",
+   "internal_key": 777
+  },
+  {
+   "name": "C-Phoria",
+   "desc": "Defeat 4 enemies with one C4 detonation",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "TROPHY_NAME_C4_MULTI",
+   "internal_key": 778
+  },
+  {
+   "name": "Just the Wind",
+   "desc": "Stealth take-down 15 enemies in a row",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "TROPHY_NAME_STEALTH_CHAIN",
+   "internal_key": 779
+  },
+  {
+   "name": "Now You See Me...",
+   "desc": "Break stealth and re-enter stealth successfully",
+   "hidden": true,
+   "pct": 34.8,
+   "api_name": "TROPHY_NAME_REENTER_STEALTH",
+   "internal_key": 780
+  },
+  {
+   "name": "Wingwoman",
+   "desc": "Perform 10 combo partner takedowns",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "TROPHY_NAME_BUDDY_MELEE",
+   "internal_key": 781
+  },
+  {
+   "name": "The Way of the Warrior",
+   "desc": "Make it to the outskirts of Halebidu in Chapter 5 without using a firearm or explosive",
+   "hidden": true,
+   "pct": 1.3,
+   "api_name": "TROPHY_NAME_MELEE_ONLY",
+   "internal_key": 782
+  },
+  {
+   "name": "The Sampler",
+   "desc": "Defeat 5 enemies, each one taking damage from a handgun, long-gun, and melee",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "TROPHY_NAME_DAMAGE_VARIETY",
+   "internal_key": 783
+  },
+  {
+   "name": "Make an Entrance",
+   "desc": "Defeat enemies with the vehicle, long-gun, melee, and grenade, in that order, in 20 seconds",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "TROPHY_NAME_JEEP_COMBO",
+   "internal_key": 784
+  },
+  {
+   "name": "Bring in the Big Guns",
+   "desc": "Defeat 30 enemies with gold weapons",
+   "hidden": true,
+   "pct": 23.5,
+   "api_name": "TROPHY_NAME_GOLD_WEAPONS",
+   "internal_key": 785
+  },
+  {
+   "name": "4x4x4",
+   "desc": "Defeat 4 enemies with the vehicle in 20 seconds",
+   "hidden": true,
+   "pct": 1.7,
+   "api_name": "TROPHY_NAME_JEEP_QUICK_KILL",
+   "internal_key": 786
+  },
+  {
+   "name": "Drop Me a Line",
+   "desc": "Use all the zip-lines to traverse the city",
+   "hidden": true,
+   "pct": 18.0,
+   "api_name": "TROPHY_NAME_ZIPLINES",
+   "internal_key": 787
+  },
+  {
+   "name": "Your Prize",
+   "desc": "Appreciate the view at the top of the Hoysala Empire",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "TROPHY_NAME_TOWER_YOGA",
+   "internal_key": 788
+  },
+  {
+   "name": "Best Driver in the Business",
+   "desc": "Drive from the Ganesh mountain carving to the top of the waterfall at the Trident Fort and back in under 3 minutes",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "TROPHY_NAME_HUB_SPEED",
+   "internal_key": 789
+  },
+  {
+   "name": "Flawless Gauntlet",
+   "desc": "Get through all 3 Axe Fort trials without resetting any boards",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "TROPHY_NAME_PUZZLE_NO_DAMAGE",
+   "internal_key": 790
+  },
+  {
+   "name": "Quiet as a Mouse",
+   "desc": "After entering the Trident Fort, reach the door without being seen",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "TROPHY_NAME_STEALTH_COMBAT_SHRINE",
+   "internal_key": 791
+  },
+  {
+   "name": "Jungle Gym",
+   "desc": "Perform 5 grapple swings in a row without touching the ground",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "TROPHY_NAME_ROPE_SWING_CHAIN",
+   "internal_key": 792
+  },
+  {
+   "name": "Stunt It!",
+   "desc": "Get 30 seconds of total airtime with the vehicle",
+   "hidden": true,
+   "pct": 8.2,
+   "api_name": "TROPHY_NAME_JEEP_JUMP_TIME",
+   "internal_key": 793
+  },
+  {
+   "name": "Shadow Theater",
+   "desc": "Complete the shadow puzzle in 10 moves or less",
+   "hidden": true,
+   "pct": 4.7,
+   "api_name": "TROPHY_NAME_SHADOW_PUZZLE_FAST",
+   "internal_key": 794
+  },
+  {
+   "name": "Marco Po-No",
+   "desc": "Play in the water in the dam in Halebidu",
+   "hidden": true,
+   "pct": 17.9,
+   "api_name": "TROPHY_NAME_MARCO_AQUEDUCT",
+   "internal_key": 795
+  },
+  {
+   "name": "Fingersmith",
+   "desc": "Pick a three pin lock in under 15 seconds",
+   "hidden": true,
+   "pct": 20.5,
+   "api_name": "TROPHY_NAME_FAST_LOCKPICK",
+   "internal_key": 796
+  },
+  {
+   "name": "Overkill",
+   "desc": "Plant multiple C4 charges on the APC at the same time and destroy it with one massive detonation",
+   "hidden": true,
+   "pct": 2.2,
+   "api_name": "TROPHY_NAME_C4_APC_EXPLOSIONS",
+   "internal_key": 797
+  },
+  {
+   "name": "Cannonball!",
+   "desc": "Perform an impressive dive from the cliff near the old railroad tracks",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "TROPHY_NAME_CLIFF_DIVE",
+   "internal_key": 798
+  },
+  {
+   "name": "Right Under Your Nose",
+   "desc": "Destroy the helicopter without defeating any other enemies",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "TROPHY_NAME_NO_KILL_CHOPPER",
+   "internal_key": 799
+  },
+  {
+   "name": "Combat Racing",
+   "desc": "Ram 10 motorcycles",
+   "hidden": false,
+   "pct": 24.5,
+   "api_name": "TROPHY_NAME_RAM_MOTORCYCLES",
+   "internal_key": 1024
+  },
+  {
+   "name": "Backseat Driver",
+   "desc": "Commandeer 6 vehicles by jumping on them and kicking out the driver",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "TROPHY_NAME_MELEE_DRIVER",
+   "internal_key": 1025
+  },
+  {
+   "name": "Here, Catch!",
+   "desc": "Destroy a vehicle in Chapter 9 with an explosive",
+   "hidden": true,
+   "pct": 10.8,
+   "api_name": "TROPHY_NAME_GRENADE_VEHICLE",
+   "internal_key": 1026
+  },
+  {
+   "name": "Let's Not Get Caught",
+   "desc": "Drive over the edge in the Western Ghats",
+   "hidden": false,
+   "pct": 9.2,
+   "api_name": "TROPHY_NAME_JEEP_SUICIDE",
+   "internal_key": 1027
+  },
+  {
+   "name": "A Thief's Legacy",
+   "desc": "Collect all the achievements",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "TROPHY_NAME_PLATINUM_SP",
+   "internal_key": 1028
+  },
+  {
+   "name": "Don't Ruin The Moment",
+   "desc": "Collect all the achievements in Uncharted™: The Lost Legacy",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "TROPHY_NAME_TLL_PLATINUM",
+   "internal_key": 1029
+  }
+ ]
+}

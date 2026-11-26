@@ -1,0 +1,477 @@
+{
+ "appid": 582160,
+ "game": "Assassin's Creed® Origins",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 67,
+ "achievements": [
+  {
+   "api": "001",
+   "name": "First Steps",
+   "desc": "",
+   "hidden": true,
+   "pct": 66.2
+  },
+  {
+   "api": "029",
+   "name": "Raider of the Lost Tomb",
+   "desc": "Complete a tomb.",
+   "hidden": false,
+   "pct": 63.7
+  },
+  {
+   "api": "025",
+   "name": "The Festival",
+   "desc": "",
+   "hidden": true,
+   "pct": 57.2
+  },
+  {
+   "api": "002",
+   "name": "I'm Just Getting Started",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.9
+  },
+  {
+   "api": "045",
+   "name": "You still need 8880...",
+   "desc": "Reach level 20.",
+   "hidden": false,
+   "pct": 46.7
+  },
+  {
+   "api": "004",
+   "name": "The Scarab",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.0
+  },
+  {
+   "api": "003",
+   "name": "The Sea",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.9
+  },
+  {
+   "api": "039",
+   "name": "Rider's Licence",
+   "desc": "Use all types of vehicle at least once.",
+   "hidden": false,
+   "pct": 43.4
+  },
+  {
+   "api": "005",
+   "name": "The Hyena",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.3
+  },
+  {
+   "api": "027",
+   "name": "Smash!",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.3
+  },
+  {
+   "api": "049",
+   "name": "Handy Man",
+   "desc": "Craft 20 items.",
+   "hidden": false,
+   "pct": 42.2
+  },
+  {
+   "api": "009",
+   "name": "Wake Up!",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.8
+  },
+  {
+   "api": "041",
+   "name": "Run For Your Life!",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.7
+  },
+  {
+   "api": "036",
+   "name": "Triathlete",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.3
+  },
+  {
+   "api": "007",
+   "name": "The Lizard",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.8
+  },
+  {
+   "api": "035",
+   "name": "Free as a Bird",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.5
+  },
+  {
+   "api": "026",
+   "name": "Shadow of Egypt",
+   "desc": "Kill 10 enemies in a row without being detected.",
+   "hidden": false,
+   "pct": 39.0
+  },
+  {
+   "api": "048",
+   "name": "Defy Authority",
+   "desc": "Defeat a Phylakes.",
+   "hidden": false,
+   "pct": 37.8
+  },
+  {
+   "api": "013",
+   "name": "I'm Done Learning",
+   "desc": "Activate a Master ability.",
+   "hidden": false,
+   "pct": 35.8
+  },
+  {
+   "api": "006",
+   "name": "The Crocodile",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.7
+  },
+  {
+   "api": "020",
+   "name": "Slasher",
+   "desc": "Kill 3 enemies with one hit.",
+   "hidden": false,
+   "pct": 32.8
+  },
+  {
+   "api": "008",
+   "name": "The Siege",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.0
+  },
+  {
+   "api": "012",
+   "name": "I'm a Legend",
+   "desc": "Be equipped with only Legendary equipment.",
+   "hidden": false,
+   "pct": 31.0
+  },
+  {
+   "api": "010",
+   "name": "Almost There",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.0
+  },
+  {
+   "api": "011",
+   "name": "The End",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.2
+  },
+  {
+   "api": "042",
+   "name": "Elementary, My Dear Bayek",
+   "desc": "Solve a papyrus mystery.",
+   "hidden": false,
+   "pct": 25.3
+  },
+  {
+   "api": "021",
+   "name": "The Arrow Whisperer",
+   "desc": "Kill an enemy with the predator bow from more than 60 meters while controlling the arrow.",
+   "hidden": false,
+   "pct": 22.1
+  },
+  {
+   "api": "024",
+   "name": "Seven Farmers",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.5
+  },
+  {
+   "api": "016",
+   "name": "Fatality!",
+   "desc": "Finish an arena boss with an Overpower Attack.",
+   "hidden": false,
+   "pct": 16.2
+  },
+  {
+   "api": "046",
+   "name": "Stargazer",
+   "desc": "Complete all 12 Stone Circles.",
+   "hidden": false,
+   "pct": 15.6
+  },
+  {
+   "api": "053",
+   "name": "Prison Break",
+   "desc": "Free 20 Rebels (The Hidden Ones)",
+   "hidden": false,
+   "pct": 15.2
+  },
+  {
+   "api": "017",
+   "name": "Ben-Hur",
+   "desc": "Win the first Hippodrome tournament.",
+   "hidden": false,
+   "pct": 14.6
+  },
+  {
+   "api": "028",
+   "name": "I Know My Land",
+   "desc": "Defog the whole map.",
+   "hidden": false,
+   "pct": 13.2
+  },
+  {
+   "api": "037",
+   "name": "Archer of the Month",
+   "desc": "Headshot kill an enemy with the bow while in the air.",
+   "hidden": false,
+   "pct": 12.8
+  },
+  {
+   "api": "030",
+   "name": "I Can See My House From Here!",
+   "desc": "Reach the \"Top of the World\" in the Black Desert territory.",
+   "hidden": false,
+   "pct": 12.1
+  },
+  {
+   "api": "050",
+   "name": "Roooaaarrrrr!",
+   "desc": "Tame a lion.",
+   "hidden": false,
+   "pct": 12.0
+  },
+  {
+   "api": "056",
+   "name": "Surgical Strikes",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.0
+  },
+  {
+   "api": "019",
+   "name": "The Harder They Fall",
+   "desc": "Defeat the war elephants Qetesh & Resheph.",
+   "hidden": false,
+   "pct": 11.9
+  },
+  {
+   "api": "058",
+   "name": "The Greater Good",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.9
+  },
+  {
+   "api": "018",
+   "name": "Road Rage",
+   "desc": "Destroy an opponent in a Hippodrome race.",
+   "hidden": false,
+   "pct": 11.8
+  },
+  {
+   "api": "047",
+   "name": "Master Diver",
+   "desc": "Complete 15 underwater locations.",
+   "hidden": false,
+   "pct": 11.7
+  },
+  {
+   "api": "066",
+   "name": "Project Comet",
+   "desc": "Craft an upgrade using Shards of a Star (The Curse of the Pharaohs)",
+   "hidden": false,
+   "pct": 11.2
+  },
+  {
+   "api": "054",
+   "name": "Team Play",
+   "desc": "Kill an enemy with a headshot while they are being harassed by Senu (The Hidden Ones)",
+   "hidden": false,
+   "pct": 10.9
+  },
+  {
+   "api": "063",
+   "name": "Higher Power",
+   "desc": "Reach level 55 (The Curse of the Pharaohs)",
+   "hidden": false,
+   "pct": 10.7
+  },
+  {
+   "api": "057",
+   "name": "New Recruits",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.1
+  },
+  {
+   "api": "055",
+   "name": "Walls of the Ruler",
+   "desc": "Complete the Walls-of-the-Ruler citadel (The Hidden Ones)",
+   "hidden": false,
+   "pct": 9.9
+  },
+  {
+   "api": "014",
+   "name": "Overheating",
+   "desc": "Witness raining bugs in the desert.",
+   "hidden": false,
+   "pct": 9.7
+  },
+  {
+   "api": "032",
+   "name": "Where's My Black Flag?",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.5
+  },
+  {
+   "api": "062",
+   "name": "Lift the Curse",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.3
+  },
+  {
+   "api": "023",
+   "name": "Circle of Life",
+   "desc": "Feed a predator with a corpse.",
+   "hidden": false,
+   "pct": 9.2
+  },
+  {
+   "api": "044",
+   "name": "Namaste",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.6
+  },
+  {
+   "api": "059",
+   "name": "First Visit",
+   "desc": "Complete one tour",
+   "hidden": false,
+   "pct": 8.5
+  },
+  {
+   "api": "022",
+   "name": "Words of Wisdom",
+   "desc": "Complete all hermit locations.",
+   "hidden": false,
+   "pct": 8.3
+  },
+  {
+   "api": "015",
+   "name": "For Those About to Die…",
+   "desc": "Complete all arena events in the Krokodilopolis Arena.",
+   "hidden": false,
+   "pct": 7.8
+  },
+  {
+   "api": "033",
+   "name": "Reporter",
+   "desc": "Take 1 photo in 5 different territories.",
+   "hidden": false,
+   "pct": 7.2
+  },
+  {
+   "api": "043",
+   "name": "Reduce, Reuse, Recycle",
+   "desc": "Sell 100 trinkets at once.",
+   "hidden": false,
+   "pct": 6.9
+  },
+  {
+   "api": "067",
+   "name": "Pyromaniac",
+   "desc": "Kill a Mummy by setting it on fire (The Curse of the Pharaohs)",
+   "hidden": false,
+   "pct": 6.3
+  },
+  {
+   "api": "031",
+   "name": "Set-up Date",
+   "desc": "Bring a tamed lion to a crocodile.",
+   "hidden": false,
+   "pct": 5.4
+  },
+  {
+   "api": "065",
+   "name": "Sting in the Tale",
+   "desc": "Complete the 5 Serqet locations (The Curse of the Pharaohs)",
+   "hidden": false,
+   "pct": 5.2
+  },
+  {
+   "api": "040",
+   "name": "Old Habits",
+   "desc": "Complete all locations.",
+   "hidden": false,
+   "pct": 5.0
+  },
+  {
+   "api": "034",
+   "name": "Overdesign",
+   "desc": "Kill a poisoned level 35+ enemy with the torch in less than 30 seconds.",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "064",
+   "name": "Dark Horse",
+   "desc": "Acquire Eternal Maw for use outside the Afterlifes (The Curse of the Pharaohs)",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "051",
+   "name": "What Time is It?",
+   "desc": "Perform a leap of faith from Arsinoe's sundial obelisk between 10 am and noon (The Hidden Ones)",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "052",
+   "name": "Zip it Off",
+   "desc": "Perform 3 Assassinations from a zipline (The Hidden Ones)",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "061",
+   "name": "Polymorph",
+   "desc": "Complete tours with at least 5 different characters",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "038",
+   "name": "BOOM!",
+   "desc": "Kill 30 enemies by shooting a fire arrow at oil jars.",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "060",
+   "name": "Archeologist",
+   "desc": "Complete all tours in the Daily Life category",
+   "hidden": false,
+   "pct": 3.0
+  }
+ ]
+}

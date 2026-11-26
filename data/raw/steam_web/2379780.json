@@ -1,0 +1,257 @@
+{
+ "appid": 2379780,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 31,
+ "achievements": [
+  {
+   "name": "Ante Up!",
+   "desc": "Reach Ante 4",
+   "hidden": false,
+   "pct": 89.7,
+   "api_name": "BAL_01",
+   "internal_key": 286
+  },
+  {
+   "name": "Ante Upper!",
+   "desc": "Reach Ante 8",
+   "hidden": false,
+   "pct": 74.4,
+   "api_name": "BAL_02",
+   "internal_key": 287
+  },
+  {
+   "name": "Heads Up",
+   "desc": "Win a Run",
+   "hidden": false,
+   "pct": 71.4,
+   "api_name": "BAL_03",
+   "internal_key": 512
+  },
+  {
+   "name": "Low Stakes",
+   "desc": "Win a run on at least Red Stake difficulty",
+   "hidden": false,
+   "pct": 43.6,
+   "api_name": "BAL_04",
+   "internal_key": 513
+  },
+  {
+   "name": "Mid Stakes",
+   "desc": "Win a run on at least Black Stake difficulty",
+   "hidden": false,
+   "pct": 30.2,
+   "api_name": "BAL_05",
+   "internal_key": 514
+  },
+  {
+   "name": "High Stakes",
+   "desc": "Win a run on at least Gold Stake difficulty",
+   "hidden": false,
+   "pct": 12.2,
+   "api_name": "BAL_06",
+   "internal_key": 515
+  },
+  {
+   "name": "Card Player",
+   "desc": "Play at least 2500 Cards",
+   "hidden": false,
+   "pct": 58.1,
+   "api_name": "BAL_07",
+   "internal_key": 516
+  },
+  {
+   "name": "Card Discarder",
+   "desc": "Discard at least 2500 Cards",
+   "hidden": false,
+   "pct": 48.4,
+   "api_name": "BAL_08",
+   "internal_key": 517
+  },
+  {
+   "name": "Nest Egg",
+   "desc": "Have $400 or more during a single run",
+   "hidden": false,
+   "pct": 16.6,
+   "api_name": "BAL_09",
+   "internal_key": 518
+  },
+  {
+   "name": "Flushed",
+   "desc": "Play a Flush with 5 Wild Cards",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "BAL_10",
+   "internal_key": 519
+  },
+  {
+   "name": "Speedrunner",
+   "desc": "Win a run in 12 or fewer rounds",
+   "hidden": false,
+   "pct": 20.1,
+   "api_name": "BAL_11",
+   "internal_key": 520
+  },
+  {
+   "name": "ROI",
+   "desc": "Buy 5 Vouchers by the end of Ante 4",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "BAL_12",
+   "internal_key": 521
+  },
+  {
+   "name": "Shattered",
+   "desc": "Break 2 Glass Cards in a single hand",
+   "hidden": false,
+   "pct": 17.9,
+   "api_name": "BAL_13",
+   "internal_key": 522
+  },
+  {
+   "name": "Royale",
+   "desc": "Play a Royal Flush",
+   "hidden": false,
+   "pct": 62.9,
+   "api_name": "BAL_14",
+   "internal_key": 523
+  },
+  {
+   "name": "Retrograde",
+   "desc": "Get any poker hand to level 10",
+   "hidden": false,
+   "pct": 64.7,
+   "api_name": "BAL_15",
+   "internal_key": 524
+  },
+  {
+   "name": "10K",
+   "desc": "Score 10,000 Chips in a single hand",
+   "hidden": false,
+   "pct": 84.3,
+   "api_name": "BAL_16",
+   "internal_key": 525
+  },
+  {
+   "name": "1,000K",
+   "desc": "Score 1,000,000 Chips in a single hand",
+   "hidden": false,
+   "pct": 47.7,
+   "api_name": "BAL_17",
+   "internal_key": 526
+  },
+  {
+   "name": "100,000K",
+   "desc": "Score 100,000,000 Chips in a single hand",
+   "hidden": false,
+   "pct": 22.4,
+   "api_name": "BAL_18",
+   "internal_key": 527
+  },
+  {
+   "name": "Tiny Hands",
+   "desc": "Thin your deck down to 20 or fewer cards",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "BAL_19",
+   "internal_key": 528
+  },
+  {
+   "name": "Big Hands",
+   "desc": "Have 80 or more cards in your deck",
+   "hidden": false,
+   "pct": 19.7,
+   "api_name": "BAL_20",
+   "internal_key": 529
+  },
+  {
+   "name": "You Get What You Get",
+   "desc": "Win a run without rerolling the shop",
+   "hidden": false,
+   "pct": 33.3,
+   "api_name": "BAL_21",
+   "internal_key": 530
+  },
+  {
+   "name": "Rule Bender",
+   "desc": "Complete any challenge run",
+   "hidden": false,
+   "pct": 14.0,
+   "api_name": "BAL_22",
+   "internal_key": 531
+  },
+  {
+   "name": "Rule Breaker",
+   "desc": "Complete every challenge run",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "BAL_23",
+   "internal_key": 532
+  },
+  {
+   "name": "Legendary",
+   "desc": "Discover a Legendary Joker",
+   "hidden": false,
+   "pct": 57.2,
+   "api_name": "BAL_24",
+   "internal_key": 533
+  },
+  {
+   "name": "Astronomy",
+   "desc": "Discover every Planet card",
+   "hidden": false,
+   "pct": 21.2,
+   "api_name": "BAL_25",
+   "internal_key": 534
+  },
+  {
+   "name": "Cartomancy",
+   "desc": "Discover every Tarot card",
+   "hidden": false,
+   "pct": 60.8,
+   "api_name": "BAL_26",
+   "internal_key": 535
+  },
+  {
+   "name": "Clairvoyance",
+   "desc": "Discover every Spectral card",
+   "hidden": false,
+   "pct": 29.5,
+   "api_name": "BAL_27",
+   "internal_key": 536
+  },
+  {
+   "name": "Extreme Couponer",
+   "desc": "Discover every Voucher",
+   "hidden": false,
+   "pct": 6.1,
+   "api_name": "BAL_28",
+   "internal_key": 537
+  },
+  {
+   "name": "Completionist",
+   "desc": "Discover 100% of your collection",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "BAL_29",
+   "internal_key": 538
+  },
+  {
+   "name": "Completionist+",
+   "desc": "Win with every deck on Gold Stake difficulty",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "BAL_30",
+   "internal_key": 539
+  },
+  {
+   "name": "Completionist++",
+   "desc": "Earn a Gold Sticker on every Joker",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "BAL_31",
+   "internal_key": 540
+  }
+ ]
+}

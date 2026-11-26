@@ -1,0 +1,288 @@
+{
+ "appid": 1092790,
+ "game": "Inscryption",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 40,
+ "achievements": [
+  {
+   "api": "STORY_PROGRESS_1",
+   "name": "Blood Artist",
+   "desc": "",
+   "hidden": true,
+   "pct": 93.4
+  },
+  {
+   "api": "PART1_PROSPECTOR",
+   "name": "Miner's Bane",
+   "desc": "Defeat The Prospector.",
+   "hidden": false,
+   "pct": 90.9
+  },
+  {
+   "api": "STORY_PROGRESS_2",
+   "name": "Innocuous Insect",
+   "desc": "",
+   "hidden": true,
+   "pct": 88.1
+  },
+  {
+   "api": "PART1_ANGLER",
+   "name": "Grizzled Angler",
+   "desc": "Defeat The Angler.",
+   "hidden": false,
+   "pct": 81.5
+  },
+  {
+   "api": "STORY_PROGRESS_3",
+   "name": "Uncage the Menagerie",
+   "desc": "",
+   "hidden": true,
+   "pct": 79.2
+  },
+  {
+   "api": "PART1_TRAPPERTRADER",
+   "name": "Face to Face",
+   "desc": "",
+   "hidden": true,
+   "pct": 72.6
+  },
+  {
+   "api": "STORY_PROGRESS_4",
+   "name": "Ancestral Vision",
+   "desc": "",
+   "hidden": true,
+   "pct": 71.9
+  },
+  {
+   "api": "STORY_PROGRESS_5",
+   "name": "Reborn Hope",
+   "desc": "",
+   "hidden": true,
+   "pct": 70.9
+  },
+  {
+   "api": "PART1_LESHY",
+   "name": "Enduring Victory",
+   "desc": "",
+   "hidden": true,
+   "pct": 70.0
+  },
+  {
+   "api": "STORY_PROGRESS_6",
+   "name": "Renewal",
+   "desc": "",
+   "hidden": true,
+   "pct": 64.9
+  },
+  {
+   "api": "PART1_SPECIAL1",
+   "name": "Squirrel Wrangler",
+   "desc": "Win a battle with damage from Squirrels.",
+   "hidden": false,
+   "pct": 56.3
+  },
+  {
+   "api": "PART2_LESHY",
+   "name": "Avenging Druid",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.1
+  },
+  {
+   "api": "PART2_GRIMORA",
+   "name": "Doomed Necromancer",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.2
+  },
+  {
+   "api": "PART2_P03",
+   "name": "Accomplished Automaton",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.2
+  },
+  {
+   "api": "PART2_MAGNIFICUS",
+   "name": "Wizard Mentor",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.8
+  },
+  {
+   "api": "STORY_PROGRESS_7",
+   "name": "Balance of Power",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.0
+  },
+  {
+   "api": "PART3_ARCHIVIST",
+   "name": "Rank and File",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.0
+  },
+  {
+   "api": "PART3_PHOTOGRAPHER",
+   "name": "Essence Capture",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.8
+  },
+  {
+   "api": "PART3_CANVAS",
+   "name": "Painter's Servant",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.0
+  },
+  {
+   "api": "PART3_TELEGRAPHER",
+   "name": "Natural Connection",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.4
+  },
+  {
+   "api": "STORY_PROGRESS_8",
+   "name": "Murder",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.1
+  },
+  {
+   "api": "STORY_PROGRESS_9",
+   "name": "Dramatic Finale",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.9
+  },
+  {
+   "api": "PART1_SPECIAL2",
+   "name": "Gruesome Encore",
+   "desc": "Allow The Mycologists to experiment on a creature that is already itself an experiment.",
+   "hidden": false,
+   "pct": 25.5
+  },
+  {
+   "api": "KMOD_SPECIAL1",
+   "name": "Rookie Mistake",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.5
+  },
+  {
+   "api": "KMOD_CHALLENGELEVEL1",
+   "name": "Dubious Challenge",
+   "desc": "Clear Challenge Level 1 in Kaycee's Mod.",
+   "hidden": false,
+   "pct": 18.4
+  },
+  {
+   "api": "PART1_SPECIAL3",
+   "name": "Role Reversal",
+   "desc": "Steal back one of your creatures from The Angler.",
+   "hidden": false,
+   "pct": 17.1
+  },
+  {
+   "api": "PART3_SPECIAL1",
+   "name": "Forgotten Lore",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.2
+  },
+  {
+   "api": "PART2_SPECIAL3",
+   "name": "Dark Offering",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.1
+  },
+  {
+   "api": "PART3_SPECIAL2",
+   "name": "Grim Bounty",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.0
+  },
+  {
+   "api": "KMOD_CHALLENGELEVEL2",
+   "name": "Taunting Challenge",
+   "desc": "Clear Challenge Level 4 in Kaycee's Mod.",
+   "hidden": false,
+   "pct": 12.2
+  },
+  {
+   "api": "KMOD_CHALLENGELEVEL3",
+   "name": "Roar of Challenge",
+   "desc": "Clear Challenge Level 8 in Kaycee's Mod.",
+   "hidden": false,
+   "pct": 8.7
+  },
+  {
+   "api": "PART2_SPECIAL1",
+   "name": "Collective Effort",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.0
+  },
+  {
+   "api": "KMOD_SPECIAL2",
+   "name": "Pulling Teeth",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.0
+  },
+  {
+   "api": "KMOD_CHALLENGELEVEL4",
+   "name": "Rise to the Challenge",
+   "desc": "Clear Challenge Level 12 in Kaycee's Mod.",
+   "hidden": false,
+   "pct": 6.3
+  },
+  {
+   "api": "PART2_SPECIAL2",
+   "name": "Devil's Play",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.4
+  },
+  {
+   "api": "KMOD_ALLSTARTERSCONQUERED",
+   "name": "Start // Finish",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.6
+  },
+  {
+   "api": "PART3_SPECIAL3",
+   "name": "Agonizing Remorse",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.5
+  },
+  {
+   "api": "KMOD_SPECIAL3",
+   "name": "Bad Moon",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.4
+  },
+  {
+   "api": "KMOD_ALLITEMSUNLOCKED",
+   "name": "Master Trinketeer",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.1
+  },
+  {
+   "api": "KMOD_ALLCHALLENGES",
+   "name": "Skull Storm",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.7
+  }
+ ]
+}

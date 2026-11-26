@@ -1,0 +1,554 @@
+{
+ "appid": 1817070,
+ "game": "Marvel’s Spider-Man Remastered",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 78,
+ "achievements": [
+  {
+   "api": "knockingdownkingpin",
+   "name": "Knocking Down Kingpin",
+   "desc": "",
+   "hidden": true,
+   "pct": 90.2
+  },
+  {
+   "api": "spidersensible",
+   "name": "Spider-Sensible",
+   "desc": "Perfect Dodge 10 attacks",
+   "hidden": false,
+   "pct": 75.1
+  },
+  {
+   "api": "lostandfound",
+   "name": "Lost and Found",
+   "desc": "Collect 5 Backpacks",
+   "hidden": false,
+   "pct": 75.0
+  },
+  {
+   "api": "wingit",
+   "name": "Wing It",
+   "desc": "",
+   "hidden": true,
+   "pct": 74.2
+  },
+  {
+   "api": "kingofswing",
+   "name": "King of Swing",
+   "desc": "Complete a level 1 Traversal Benchmark",
+   "hidden": false,
+   "pct": 74.0
+  },
+  {
+   "api": "shockandawe",
+   "name": "Shock and Awe",
+   "desc": "",
+   "hidden": true,
+   "pct": 71.3
+  },
+  {
+   "api": "andstaydown!",
+   "name": "And Stay Down!",
+   "desc": "Complete a level 1 Combat Benchmark",
+   "hidden": false,
+   "pct": 69.6
+  },
+  {
+   "api": "cat_soutofthebag",
+   "name": "Cat's Out of the Bag",
+   "desc": "Collect a Black Cat collectible",
+   "hidden": false,
+   "pct": 68.1
+  },
+  {
+   "api": "thescientificmethod",
+   "name": "The Scientific Method",
+   "desc": "Craft your first Upgrade",
+   "hidden": false,
+   "pct": 67.1
+  },
+  {
+   "api": "demonsemerge",
+   "name": "Demons Emerge",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.8
+  },
+  {
+   "api": "snappydresser",
+   "name": "Snappy Dresser",
+   "desc": "",
+   "hidden": true,
+   "pct": 62.4
+  },
+  {
+   "api": "arachnophobia",
+   "name": "Arachnophobia",
+   "desc": "Perform 75 Stealth Takedowns",
+   "hidden": false,
+   "pct": 61.3
+  },
+  {
+   "api": "acethebase",
+   "name": "Ace the Base",
+   "desc": "Complete all objectives in a base",
+   "hidden": false,
+   "pct": 59.4
+  },
+  {
+   "api": "amazingcoverage",
+   "name": "Amazing Coverage",
+   "desc": "All Surveillance Towers activated",
+   "hidden": false,
+   "pct": 55.6
+  },
+  {
+   "api": "thesixassemble",
+   "name": "The Six Assemble",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.6
+  },
+  {
+   "api": "grounded",
+   "name": "Grounded",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.1
+  },
+  {
+   "api": "grindingalltheway",
+   "name": "Grinding All the Way",
+   "desc": "Max out one Benchmark type",
+   "hidden": false,
+   "pct": 51.4
+  },
+  {
+   "api": "stingandsmash",
+   "name": "Sting and Smash",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.3
+  },
+  {
+   "api": "stayingpositive",
+   "name": "Staying Positive",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.2
+  },
+  {
+   "api": "shortfuse",
+   "name": "Short Fuse",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.1
+  },
+  {
+   "api": "endgame",
+   "name": "End Game",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.4
+  },
+  {
+   "api": "borntoride",
+   "name": "Born to Ride",
+   "desc": "Ride the Subway 5 times",
+   "hidden": false,
+   "pct": 43.4
+  },
+  {
+   "api": "spyhunter",
+   "name": "Spy Hunter",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.3
+  },
+  {
+   "api": "overdrive",
+   "name": "Overdrive",
+   "desc": "Complete 10 Vehicle Takedowns",
+   "hidden": false,
+   "pct": 42.7
+  },
+  {
+   "api": "catprints",
+   "name": "Cat Prints",
+   "desc": "Track down Black Cat",
+   "hidden": false,
+   "pct": 42.3
+  },
+  {
+   "api": "fistsoffury",
+   "name": "Fists of Fury",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.1
+  },
+  {
+   "api": "scienceftw!",
+   "name": "Science FTW!",
+   "desc": "Craft 15 Upgrades",
+   "hidden": false,
+   "pct": 41.8
+  },
+  {
+   "api": "spidermanabouttown",
+   "name": "Spider-Man About Town",
+   "desc": "Greet 10 citizens",
+   "hidden": false,
+   "pct": 41.1
+  },
+  {
+   "api": "backpacker",
+   "name": "Backpacker",
+   "desc": "Collect all Backpacks",
+   "hidden": false,
+   "pct": 40.7
+  },
+  {
+   "api": "master_seducation",
+   "name": "Master's Education",
+   "desc": "Achieve Ultimate on a Taskmaster Challenge",
+   "hidden": false,
+   "pct": 39.2
+  },
+  {
+   "api": "stickyandtricky",
+   "name": "Sticky and Tricky",
+   "desc": "Chain 4 unique tricks before landing",
+   "hidden": false,
+   "pct": 38.5
+  },
+  {
+   "api": "heroforhigher",
+   "name": "Hero for Higher",
+   "desc": "Perch atop Avengers Tower",
+   "hidden": false,
+   "pct": 37.4
+  },
+  {
+   "api": "superiorspiderman",
+   "name": "Superior Spider-Man",
+   "desc": "Unlock all Skills",
+   "hidden": false,
+   "pct": 37.2
+  },
+  {
+   "api": "somanyhits",
+   "name": "So Many Hits...",
+   "desc": "Achieve a combo of 100",
+   "hidden": false,
+   "pct": 36.1
+  },
+  {
+   "api": "alltheking_smen",
+   "name": "All the King's Men",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.8
+  },
+  {
+   "api": "sightseeing",
+   "name": "Sightseeing",
+   "desc": "Photograph all Landmarks on the Map",
+   "hidden": false,
+   "pct": 35.2
+  },
+  {
+   "api": "ninja",
+   "name": "Ninja",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.0
+  },
+  {
+   "api": "tombstonetakedown",
+   "name": "Tombstone Takedown",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.1
+  },
+  {
+   "api": "pigeonhunter",
+   "name": "Pigeon Hunter",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.5
+  },
+  {
+   "api": "thecatcameback",
+   "name": "The Cat Came Back",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.9
+  },
+  {
+   "api": "innersanctuary",
+   "name": "Inner Sanctuary",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.6
+  },
+  {
+   "api": "neighbourhoodwatch",
+   "name": "Neighbourhood Watch",
+   "desc": "Complete all Faction Crimes in a district",
+   "hidden": false,
+   "pct": 30.1
+  },
+  {
+   "api": "herekittykitty",
+   "name": "Here Kitty-Kitty",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.4
+  },
+  {
+   "api": "schooled",
+   "name": "Schooled",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.9
+  },
+  {
+   "api": "hugitout",
+   "name": "Hug It Out",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.9
+  },
+  {
+   "api": "byefelicia",
+   "name": "Bye Felicia",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.1
+  },
+  {
+   "api": "friendlyneighbourhoodspiderman",
+   "name": "Friendly Neighbourhood Spider-Man",
+   "desc": "Complete all Side Missions",
+   "hidden": false,
+   "pct": 26.9
+  },
+  {
+   "api": "backintheslammer",
+   "name": "Back in the Slammer",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.0
+  },
+  {
+   "api": "r&d",
+   "name": "R&D",
+   "desc": "Complete all Research Stations",
+   "hidden": false,
+   "pct": 25.8
+  },
+  {
+   "api": "mercenarytactics",
+   "name": "Mercenary Tactics",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.7
+  },
+  {
+   "api": "pullingthetrigger",
+   "name": "Pulling the Trigger",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.7
+  },
+  {
+   "api": "challengefinder",
+   "name": "Challenge Finder",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.0
+  },
+  {
+   "api": "fullarsenal",
+   "name": "Full Arsenal",
+   "desc": "Max out all Gadgets",
+   "hidden": false,
+   "pct": 23.3
+  },
+  {
+   "api": "crossingthethinblueline",
+   "name": "Crossing the Thin Blue Line",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.1
+  },
+  {
+   "api": "masterofmasters",
+   "name": "Master of Masters",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.9
+  },
+  {
+   "api": "steelskull,glassjaw",
+   "name": "Steel Skull, Glass Jaw",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.2
+  },
+  {
+   "api": "frenemies",
+   "name": "Frenemies",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.6
+  },
+  {
+   "api": "thelongcon",
+   "name": "The Long Con",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.7
+  },
+  {
+   "api": "disorganisedcrime",
+   "name": "Disorganised Crime",
+   "desc": "Complete all Crimes in a district",
+   "hidden": false,
+   "pct": 20.2
+  },
+  {
+   "api": "terminated",
+   "name": "Terminated",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.7
+  },
+  {
+   "api": "abitofafixerupper",
+   "name": "A Bit of a Fixer-Upper",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.6
+  },
+  {
+   "api": "asuitforallseasons",
+   "name": "A Suit For All Seasons",
+   "desc": "Purchase all Suits",
+   "hidden": false,
+   "pct": 17.8
+  },
+  {
+   "api": "theuntouchablespiderman",
+   "name": "The Untouchable Spider-Man",
+   "desc": "Complete any Enemy Base without taking damage",
+   "hidden": false,
+   "pct": 17.0
+  },
+  {
+   "api": "iheartmanhattan",
+   "name": "I Heart Manhattan",
+   "desc": "100% complete all districts",
+   "hidden": false,
+   "pct": 16.9
+  },
+  {
+   "api": "seducedbythecity",
+   "name": "Seduced by the City",
+   "desc": "100% Complete CTNS: The Heist",
+   "hidden": false,
+   "pct": 16.8
+  },
+  {
+   "api": "prohibition",
+   "name": "Prohibition",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.2
+  },
+  {
+   "api": "thegangwar",
+   "name": "The Gang War",
+   "desc": "Complete all Crimes in a district",
+   "hidden": false,
+   "pct": 15.0
+  },
+  {
+   "api": "unacceptable",
+   "name": "Unacceptable",
+   "desc": "Complete the \"Scales of Justice\" mission",
+   "hidden": false,
+   "pct": 14.8
+  },
+  {
+   "api": "thecityismyfamily",
+   "name": "The City is My Family",
+   "desc": "100% complete CTNS: Turf Wars",
+   "hidden": false,
+   "pct": 13.6
+  },
+  {
+   "api": "unplugged",
+   "name": "Unplugged",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.2
+  },
+  {
+   "api": "thewagesofwar",
+   "name": "The Wages of War",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.2
+  },
+  {
+   "api": "thecitysleeps",
+   "name": "The City Sleeps",
+   "desc": "100% Complete CTNS: Silver Lining",
+   "hidden": false,
+   "pct": 12.6
+  },
+  {
+   "api": "withgreatpower",
+   "name": "With Great Power...",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.7
+  },
+  {
+   "api": "screwy",
+   "name": "Screwy",
+   "desc": "Get Spectacular or better in all Screwball Challenges",
+   "hidden": false,
+   "pct": 11.7
+  },
+  {
+   "api": "turningthescrew",
+   "name": "Turning the Screw",
+   "desc": "Get Spectacular or better in all Screwball Challenges",
+   "hidden": false,
+   "pct": 10.1
+  },
+  {
+   "api": "screwballed",
+   "name": "Screwballed",
+   "desc": "Get Spectacular or better in all Screwball Challenges",
+   "hidden": false,
+   "pct": 9.4
+  },
+  {
+   "api": "onemoretime",
+   "name": "One More Time",
+   "desc": "Complete a New Game+ playthrough",
+   "hidden": false,
+   "pct": 6.5
+  },
+  {
+   "api": "powerandresponsibility",
+   "name": "Power and Responsibility",
+   "desc": "Complete a playthrough on Ultimate difficulty",
+   "hidden": false,
+   "pct": 6.0
+  }
+ ]
+}

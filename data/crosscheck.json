@@ -1,0 +1,99 @@
+{
+ "psn": [
+  {
+   "name": "最后生还者2",
+   "psn": 56.8,
+   "steam": "—",
+   "note": "Steam 无对应版本（PS 独占）",
+   "src": "Ungeek / PlayStationLifestyle 2025 复核"
+  },
+  {
+   "name": "漫威蜘蛛侠2",
+   "psn": 53.7,
+   "steam": "—",
+   "note": "PC 版未收录",
+   "src": "2025 年 PSN 统计"
+  },
+  {
+   "name": "FF7 重制版",
+   "psn": 53.3,
+   "steam": "—",
+   "note": "Steam 版成就为章节制，未纳入本批",
+   "src": "Ungeek 2020"
+  },
+  {
+   "name": "新战神 2018",
+   "psn": 51.8,
+   "steam": 46.7,
+   "note": "同一作，两个平台",
+   "src": "Ungeek 2020 / 本站 Valve API"
+  },
+  {
+   "name": "漫威蜘蛛侠",
+   "psn": 50.7,
+   "steam": "—",
+   "note": "PC 版未纳入本批",
+   "src": "Ungeek 2020"
+  },
+  {
+   "name": "底特律：变人",
+   "psn": 49.0,
+   "steam": "—",
+   "note": "Steam 版无通关锚点",
+   "src": "Ungeek 2020"
+  },
+  {
+   "name": "FF16",
+   "psn": 48.8,
+   "steam": "—",
+   "note": "Steam 版成就无章节锚点",
+   "src": "2025 年 PSN 统计"
+  },
+  {
+   "name": "死亡搁浅2",
+   "psn": 43.1,
+   "steam": 40.9,
+   "note": "同一作，两个平台",
+   "src": "2025 年 PSN 统计 / 本站 Valte API"
+  },
+  {
+   "name": "战神：诸神黄昏",
+   "psn": 41.3,
+   "steam": "—",
+   "note": "Steam 版无章节锚点",
+   "src": "2025 年 PSN 统计"
+  },
+  {
+   "name": "对马岛之魂",
+   "psn": 40.3,
+   "steam": "—",
+   "note": "PC 版未纳入本批",
+   "src": "Gamepressure"
+  },
+  {
+   "name": "地平线：零之曙光",
+   "psn": 34.5,
+   "steam": "—",
+   "note": "PC 版未纳入本批",
+   "src": "Gamepressure"
+  },
+  {
+   "name": "死亡搁浅（初代）",
+   "psn": 29.3,
+   "steam": 20.1,
+   "note": "PSN 为基础版，Steam 为导演剪辑版",
+   "src": "Ungeek 2020 / 本站 Valve API"
+  },
+  {
+   "name": "荒野大镖客2",
+   "psn": 28.6,
+   "steam": 20.5,
+   "note": "同一作，两个平台",
+   "src": "Ungeek 2020 / 本站 Valve API"
+  }
+ ],
+ "xbox": {
+  "available": false,
+  "reason": "微软未开放全量成就解锁率的公开接口；TrueAchievements 等站需登录授权且分母非全量拥有者。本轮不做引用。"
+ }
+}

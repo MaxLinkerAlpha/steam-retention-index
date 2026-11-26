@@ -1,0 +1,490 @@
+{
+ "games": [
+  {
+   "appid": 1850570,
+   "name": "死亡搁浅 DC",
+   "color": "#4cc2ff",
+   "nodes": [
+    {
+     "label": "Prologue",
+     "ach": "Delivering Is What I Do"
+    },
+    {
+     "label": "Episode 1",
+     "ach": "Rebuilding America"
+    },
+    {
+     "label": "Episode 2",
+     "ach": "We Need You"
+    },
+    {
+     "label": "Episode 3",
+     "ach": "I Won't Break"
+    },
+    {
+     "label": "Episode 4",
+     "ach": "BB..."
+    },
+    {
+     "label": "Episode 5",
+     "ach": "We're Whole Again"
+    },
+    {
+     "label": "Episode 6",
+     "ach": "BBs: A Bridge Between This World and the One Beyond"
+    },
+    {
+     "label": "Episode 7",
+     "ach": "\"BB\""
+    },
+    {
+     "label": "Episode 8",
+     "ach": "Sixty Deaths and Sixty Births in a Day"
+    },
+    {
+     "label": "Episode 9",
+     "ach": "The Particle of God"
+    },
+    {
+     "label": "Episode 10",
+     "ach": "I'm Your Die-Hardman"
+    },
+    {
+     "label": "Episode 11",
+     "ach": "Bring Back My Baby"
+    },
+    {
+     "label": "Episode 12",
+     "ach": "She's waiting for you on the Beach."
+    },
+    {
+     "label": "Episode 13",
+     "ach": "Thank You, Sam"
+    },
+    {
+     "label": "Episode 14",
+     "ach": "Thanks for Everything"
+    }
+   ]
+  },
+  {
+   "appid": 3280350,
+   "name": "死亡搁浅2",
+   "color": "#8b7bff",
+   "nodes": [
+    {
+     "label": "Prologue",
+     "ach": "Starting Point"
+    },
+    {
+     "label": "Sam",
+     "ach": "\"Lou? Can you hear me? Can you see me?\""
+    },
+    {
+     "label": "Lou",
+     "ach": "\"Time to Start a New Journey\""
+    },
+    {
+     "label": "Drawbridge",
+     "ach": "\"Help us Bring Australia into the Network\""
+    },
+    {
+     "label": "Raindrops",
+     "ach": "\"We'll Show the World the Hope in Your Rain\""
+    },
+    {
+     "label": "Conflagration",
+     "ach": "\"Did He Say Nirvana?\""
+    },
+    {
+     "label": "Chrysalis",
+     "ach": "\"To Our Little Family\""
+    },
+    {
+     "label": "Pod",
+     "ach": "\"Sam the Man—In the Dark About Everything\""
+    },
+    {
+     "label": "Deluge",
+     "ach": "\"His Name is Neil. Neil Vana\""
+    },
+    {
+     "label": "Puppets",
+     "ach": "\"I Don't Break That Easily\""
+    },
+    {
+     "label": "Isolation",
+     "ach": "\"You Will Never, Ever Be Alone\""
+    },
+    {
+     "label": "Quake",
+     "ach": "\"Keep Lou Safe...\""
+    },
+    {
+     "label": "Fragile",
+     "ach": "\"To Help You Find the Strength to Carry On\""
+    },
+    {
+     "label": "Die Hard",
+     "ach": "\"To Forsake Our Flesh and Our Freedom\""
+    },
+    {
+     "label": "Last Stranding",
+     "ach": "\"We Have to Get Tomorrow Back\""
+    },
+    {
+     "label": "On the Beach",
+     "ach": "\"I'll Always Be With You\""
+    },
+    {
+     "label": "Tomorrow",
+     "ach": "\"Death Can't Tear Us Apart\""
+    }
+   ]
+  },
+  {
+   "appid": 1593500,
+   "name": "新战神 2018",
+   "color": "#e0a95a",
+   "nodes": [
+    {
+     "label": "The Stranger",
+     "ach": "The Journey Begins"
+    },
+    {
+     "label": "Witch's Woods",
+     "ach": "A New Friend"
+    },
+    {
+     "label": "Alfheim",
+     "ach": "Feels Like Home"
+    },
+    {
+     "label": "The Mountain",
+     "ach": "Dragon Slayer"
+    },
+    {
+     "label": "Magni & Modi",
+     "ach": "Troubling Consequences"
+    },
+    {
+     "label": "Blades of Chaos",
+     "ach": "Hello, Old Friend"
+    },
+    {
+     "label": "Sickness",
+     "ach": "Promise Fulfilled"
+    },
+    {
+     "label": "Helheim",
+     "ach": "Round 2"
+    },
+    {
+     "label": "Helheim",
+     "ach": "Past Haunts"
+    },
+    {
+     "label": "Baldur",
+     "ach": "Twilight Beckons"
+    },
+    {
+     "label": "Jötunheim",
+     "ach": "Last Wish"
+    }
+   ]
+  },
+  {
+   "appid": 292120,
+   "name": "最终幻想13",
+   "color": "#ff7a9c",
+   "nodes": [
+    {
+     "label": "Instrument of Fate",
+     "ach": "Instrument of Fate"
+    },
+    {
+     "label": "Instrument of Dissent",
+     "ach": "Instrument of Dissent"
+    },
+    {
+     "label": "Instrument of Tragedy",
+     "ach": "Instrument of Tragedy"
+    },
+    {
+     "label": "Instrument of Flight",
+     "ach": "Instrument of Flight"
+    },
+    {
+     "label": "Instrument of Vengeance",
+     "ach": "Instrument of Vengeance"
+    },
+    {
+     "label": "Instrument of Survival",
+     "ach": "Instrument of Survival"
+    },
+    {
+     "label": "Instrument of Rebellion",
+     "ach": "Instrument of Rebellion"
+    },
+    {
+     "label": "Instrument of Shame",
+     "ach": "Instrument of Shame"
+    },
+    {
+     "label": "Instrument of Wrath",
+     "ach": "Instrument of Wrath"
+    },
+    {
+     "label": "Instrument of Truth",
+     "ach": "Instrument of Truth"
+    },
+    {
+     "label": "Instrument of Hope",
+     "ach": "Instrument of Hope"
+    },
+    {
+     "label": "Instrument of Faith",
+     "ach": "Instrument of Faith"
+    },
+    {
+     "label": "Instrument of Change",
+     "ach": "Instrument of Change"
+    }
+   ]
+  },
+  {
+   "appid": 1174180,
+   "name": "荒野大镖客2",
+   "color": "#e05c5c",
+   "nodes": [
+    {
+     "label": "Just a Scratch",
+     "ach": "Just a Scratch"
+    },
+    {
+     "label": "Back in the Mud",
+     "ach": "Back in the Mud"
+    },
+    {
+     "label": "To Greener Pastures",
+     "ach": "To Greener Pastures"
+    },
+    {
+     "label": "Settling Feuds",
+     "ach": "Settling Feuds"
+    },
+    {
+     "label": "Washed Ashore",
+     "ach": "Washed Ashore"
+    },
+    {
+     "label": "No Traitors",
+     "ach": "No Traitors"
+    },
+    {
+     "label": "Third Time Lucky",
+     "ach": "Third Time Lucky"
+    },
+    {
+     "label": "Redemption",
+     "ach": "Redemption"
+    },
+    {
+     "label": "Endless Summer",
+     "ach": "Endless Summer"
+    }
+   ]
+  },
+  {
+   "appid": 1245620,
+   "name": "艾尔登法环",
+   "color": "#7fd3a0",
+   "nodes": [
+    {
+     "label": "Roundtable Hold",
+     "ach": "Roundtable Hold"
+    },
+    {
+     "label": "Margit",
+     "ach": "Margit, the Fell Omen"
+    },
+    {
+     "label": "Shardbearer Godrick",
+     "ach": "Shardbearer Godrick"
+    },
+    {
+     "label": "Rennala",
+     "ach": "Rennala, Queen of the Full Moon"
+    },
+    {
+     "label": "Shardbearer Radahn",
+     "ach": "Shardbearer Radahn"
+    },
+    {
+     "label": "Shardbearer Morgott",
+     "ach": "Shardbearer Morgott"
+    },
+    {
+     "label": "Fire Giant",
+     "ach": "Fire Giant"
+    },
+    {
+     "label": "Maliketh",
+     "ach": "Maliketh the Black Blade"
+    },
+    {
+     "label": "Hoarah Loux",
+     "ach": "Hoarah Loux, Warrior"
+    }
+   ]
+  },
+  {
+   "appid": 2358720,
+   "name": "黑神话：悟空",
+   "color": "#f0b429",
+   "nodes": [
+    {
+     "label": "Home is Behind",
+     "ach": "Home is Behind"
+    },
+    {
+     "label": "Blazing Black Wind",
+     "ach": "Blazing Black Wind"
+    },
+    {
+     "label": "A Great Gust",
+     "ach": "A Great Gust"
+    },
+    {
+     "label": "Voice Vanquished",
+     "ach": "Voice Vanquished"
+    },
+    {
+     "label": "Behold the Betrayal",
+     "ach": "Behold the Betrayal"
+    },
+    {
+     "label": "Flaming Fury",
+     "ach": "Flaming Fury"
+    },
+    {
+     "label": "Six Senses Secured",
+     "ach": "Six Senses Secured"
+    }
+   ]
+  },
+  {
+   "appid": 1086940,
+   "name": "博德之门3",
+   "color": "#9be15d",
+   "nodes": [
+    {
+     "label": "Descent From Avernus",
+     "ach": "Descent From Avernus"
+    },
+    {
+     "label": "The Plot Thickens",
+     "ach": "The Plot Thickens"
+    },
+    {
+     "label": "The City Awaits",
+     "ach": "The City Awaits"
+    },
+    {
+     "label": "All's Well That Ends Well",
+     "ach": "All's Well That Ends Well"
+    }
+   ]
+  },
+  {
+   "appid": 1716740,
+   "name": "星空",
+   "color": "#57d3e0",
+   "nodes": [
+    {
+     "label": "For All, Into the Starfield",
+     "ach": "For All, Into the Starfield"
+    },
+    {
+     "label": "One Small Step",
+     "ach": "One Small Step"
+    },
+    {
+     "label": "Into the Unknown",
+     "ach": "Into the Unknown"
+    },
+    {
+     "label": "All That Money Can Buy",
+     "ach": "All That Money Can Buy"
+    },
+    {
+     "label": "Further Into the Unknown",
+     "ach": "Further Into the Unknown"
+    },
+    {
+     "label": "High Price to Pay",
+     "ach": "High Price to Pay"
+    },
+    {
+     "label": "Entangled",
+     "ach": "Entangled"
+    },
+    {
+     "label": "Unearthed",
+     "ach": "Unearthed"
+    },
+    {
+     "label": "One Giant Leap",
+     "ach": "One Giant Leap"
+    }
+   ]
+  },
+  {
+   "appid": 814380,
+   "name": "只狼",
+   "color": "#cfd6e2",
+   "nodes": [
+    {
+     "label": "Revered Blade",
+     "ach": "Revered Blade"
+    },
+    {
+     "label": "Shinobi Prosthetic",
+     "ach": "Shinobi Prosthetic"
+    },
+    {
+     "label": "Gyoubu Masataka Oniwa",
+     "ach": "Gyoubu Masataka Oniwa"
+    },
+    {
+     "label": "Genichiro Ashina",
+     "ach": "Genichiro Ashina"
+    },
+    {
+     "label": "Folding Screen Monkeys",
+     "ach": "Folding Screen Monkeys"
+    },
+    {
+     "label": "Guardian Ape",
+     "ach": "Guardian Ape"
+    },
+    {
+     "label": "Great Shinobi - Owl",
+     "ach": "Great Shinobi - Owl"
+    },
+    {
+     "label": "Corrupted Monk",
+     "ach": "Corrupted Monk"
+    },
+    {
+     "label": "Gracious Gift of Tears",
+     "ach": "Gracious Gift of Tears"
+    },
+    {
+     "label": "Sword Saint, Isshin Ashina",
+     "ach": "Sword Saint, Isshin Ashina"
+    }
+   ]
+  }
+ ]
+}

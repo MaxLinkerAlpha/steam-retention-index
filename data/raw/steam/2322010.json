@@ -1,0 +1,344 @@
+{
+ "appid": 2322010,
+ "game": "God of War Ragnarök",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 48,
+ "achievements": [
+  {
+   "api": "NEW_ACHIEVEMENT_1_9",
+   "name": "A Grizzly Encounter",
+   "desc": "",
+   "hidden": true,
+   "pct": 92.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_10",
+   "name": "Blood Debt",
+   "desc": "",
+   "hidden": true,
+   "pct": 91.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_8",
+   "name": "Knock off the Rust",
+   "desc": "Purchase a Skill",
+   "hidden": false,
+   "pct": 86.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_5",
+   "name": "Spit Shine",
+   "desc": "Upgrade one piece of armor",
+   "hidden": false,
+   "pct": 82.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_13",
+   "name": "The Cauldron",
+   "desc": "",
+   "hidden": true,
+   "pct": 69.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_11",
+   "name": "Backyard Brawl",
+   "desc": "",
+   "hidden": true,
+   "pct": 69.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_4",
+   "name": "How it Started",
+   "desc": "Equip an Enchantment",
+   "hidden": false,
+   "pct": 67.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_12",
+   "name": "Root of the Problem",
+   "desc": "",
+   "hidden": true,
+   "pct": 67.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_6",
+   "name": "Spartan Ways",
+   "desc": "Remember the Spartan teachings",
+   "hidden": false,
+   "pct": 60.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_14",
+   "name": "Off the Leash",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_15",
+   "name": "Comeuppance",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_25",
+   "name": "Making Amends",
+   "desc": "",
+   "hidden": true,
+   "pct": 57.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_16",
+   "name": "Better Together",
+   "desc": "",
+   "hidden": true,
+   "pct": 56.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_1",
+   "name": "Ragnarök",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_23",
+   "name": "New Friends",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_26",
+   "name": "It Was a Good Day",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_24",
+   "name": "Full Gufa",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_28",
+   "name": "Besties",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_22",
+   "name": "Rebel Leader",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_21",
+   "name": "Funeral for a Friend",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_5",
+   "name": "Invitation Accepted",
+   "desc": "Discover the secret of Valhalla",
+   "hidden": false,
+   "pct": 34.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_20",
+   "name": "How it's Going",
+   "desc": "Fully repair the Amulet of Yggdrasil",
+   "hidden": false,
+   "pct": 33.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_30",
+   "name": "Pure of Hart",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_27",
+   "name": "Invasive Species ",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_29",
+   "name": "Rightful Place",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_14",
+   "name": "Style Points",
+   "desc": "Equip a Cosmetic Armor",
+   "hidden": false,
+   "pct": 28.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_7",
+   "name": "Full Belly",
+   "desc": "Obtain all of the Apples of Iðunn and Horns of Blood Mead",
+   "hidden": false,
+   "pct": 26.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_17",
+   "name": "Phalanx",
+   "desc": "Obtain all Shields",
+   "hidden": false,
+   "pct": 26.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_0",
+   "name": "Ready for Commitment",
+   "desc": "Fully upgrade one armor set",
+   "hidden": false,
+   "pct": 26.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_6",
+   "name": "Dark Odyssey",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_19",
+   "name": "Dragon Slayer",
+   "desc": "Craft the Dragon Scaled Armor Set",
+   "hidden": false,
+   "pct": 25.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_7",
+   "name": "Blood, Sweat, and Týr",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_2",
+   "name": "Grave Mistake",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_31",
+   "name": "Trials by Fire",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_8",
+   "name": "Scry Me a River",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_3",
+   "name": "The True Queen",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_10",
+   "name": "No Kratos, No Scry",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_1",
+   "name": "The Florist",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_4",
+   "name": "God of Hope",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_2",
+   "name": "The Librarian",
+   "desc": "Collect all of the Books",
+   "hidden": false,
+   "pct": 17.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_9",
+   "name": "Wayfarer",
+   "desc": "Visit all 9 Realms in Valhalla",
+   "hidden": false,
+   "pct": 16.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_3",
+   "name": "The Curator",
+   "desc": "Collect all of the Artifacts",
+   "hidden": false,
+   "pct": 15.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_12",
+   "name": "Easy Come, Easy Go",
+   "desc": "Acquire more than 15,000 Fleeting Echoes on a single attempt",
+   "hidden": false,
+   "pct": 14.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_15",
+   "name": "You Again?",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_18",
+   "name": "Collector",
+   "desc": "Obtain all Relics and Sword Hilts",
+   "hidden": false,
+   "pct": 13.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_13",
+   "name": "Understood the Assignment",
+   "desc": "Complete 9 Mastery Quests",
+   "hidden": false,
+   "pct": 12.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_0",
+   "name": "The Bear and the Wolf",
+   "desc": "Collect all Trophies",
+   "hidden": false,
+   "pct": 10.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_11",
+   "name": "Fight at the Forum",
+   "desc": "Participate in a fight at The Forum arena",
+   "hidden": false,
+   "pct": 10.7
+  }
+ ]
+}

@@ -1,0 +1,505 @@
+{
+ "appid": 1817230,
+ "game": "Hi-Fi RUSH",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 71,
+ "achievements": [
+  {
+   "api": "ACH_023",
+   "name": "Feeling the beat!",
+   "desc": "Land 20 beat-hit attacks on enemies.",
+   "hidden": false,
+   "pct": 77.7
+  },
+  {
+   "api": "ACH_001",
+   "name": "Start with a bang!",
+   "desc": "",
+   "hidden": true,
+   "pct": 77.3
+  },
+  {
+   "api": "ACH_051",
+   "name": "You can pet the cat!",
+   "desc": "Play with 808 in the hideout.",
+   "hidden": false,
+   "pct": 70.7
+  },
+  {
+   "api": "ACH_047",
+   "name": "Who put gears in there?",
+   "desc": "Destroyed your first golden statue of Kale.",
+   "hidden": false,
+   "pct": 63.5
+  },
+  {
+   "api": "ACH_002",
+   "name": "Cream of the Crop",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.8
+  },
+  {
+   "api": "ACH_015",
+   "name": "Thanks for the free chip, Peppermint!",
+   "desc": "Purchase and equip your first upgrade chip.",
+   "hidden": false,
+   "pct": 57.6
+  },
+  {
+   "api": "ACH_025",
+   "name": "You got this, Peppermint?",
+   "desc": "Destroy 10 barriers by calling in Peppermint.",
+   "hidden": false,
+   "pct": 52.5
+  },
+  {
+   "api": "ACH_031",
+   "name": "Perfect Parry",
+   "desc": "Sucessfully parry with perfect timing 15 times.",
+   "hidden": false,
+   "pct": 50.2
+  },
+  {
+   "api": "ACH_048",
+   "name": "Alright, that felt AWESOME!",
+   "desc": "Defeated your first enemy with a Rhythm Parry Attack.",
+   "hidden": false,
+   "pct": 49.7
+  },
+  {
+   "api": "ACH_017",
+   "name": "I play my own way!",
+   "desc": "Purchase and equip your first Special Attack.",
+   "hidden": false,
+   "pct": 46.7
+  },
+  {
+   "api": "ACH_042",
+   "name": "I look cool. But I can look COOLER.",
+   "desc": "Equip any costume.",
+   "hidden": false,
+   "pct": 46.3
+  },
+  {
+   "api": "ACH_003",
+   "name": "This will cost you big time",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.7
+  },
+  {
+   "api": "ACH_033",
+   "name": "Uh, they were broken when I got here",
+   "desc": "Destroy 200 Vandelay security robots.",
+   "hidden": false,
+   "pct": 43.1
+  },
+  {
+   "api": "ACH_053",
+   "name": "Does that say weakpoint?",
+   "desc": "Destroy QA-1MIL's face, revealing its shame.",
+   "hidden": false,
+   "pct": 43.1
+  },
+  {
+   "api": "ACH_027",
+   "name": "Z-shielding's got nothing on us!",
+   "desc": "Shatter 10 enemy shields by calling in Macaron.",
+   "hidden": false,
+   "pct": 41.5
+  },
+  {
+   "api": "ACH_036",
+   "name": "Kissing the sky!",
+   "desc": "Perform 50 Aerial Raves.",
+   "hidden": false,
+   "pct": 40.8
+  },
+  {
+   "api": "ACH_018",
+   "name": "Whoa! There's ANOTHER health bar!?",
+   "desc": "Increase your health to where you unlock a second tier.",
+   "hidden": false,
+   "pct": 39.7
+  },
+  {
+   "api": "ACH_004",
+   "name": "The Negotiator",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.4
+  },
+  {
+   "api": "ACH_005",
+   "name": "Headliner",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.5
+  },
+  {
+   "api": "ACH_029",
+   "name": "Out in a puff of smoke",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.4
+  },
+  {
+   "api": "ACH_026",
+   "name": "You must like calling me in, Chai",
+   "desc": "Destroy 50 barriers by calling in Peppermint.",
+   "hidden": false,
+   "pct": 31.4
+  },
+  {
+   "api": "ACH_006",
+   "name": "Time to pay up!",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.0
+  },
+  {
+   "api": "ACH_007",
+   "name": "Who's the boss now?",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.1
+  },
+  {
+   "api": "ACH_032",
+   "name": "Perfecter Parry-er!",
+   "desc": "Sucessfully parry with perfect timing 200 times.",
+   "hidden": false,
+   "pct": 30.1
+  },
+  {
+   "api": "ACH_021",
+   "name": "I have to read these things?",
+   "desc": "Find and read half of the Vandelay Vlogs on the campus.",
+   "hidden": false,
+   "pct": 28.5
+  },
+  {
+   "api": "ACH_045",
+   "name": "There's such a thing as TOO helpful",
+   "desc": "Find and engage with every Smidge, while completing all of his practice tips.",
+   "hidden": false,
+   "pct": 21.9
+  },
+  {
+   "api": "ACH_034",
+   "name": "That's a lot of junk metal…",
+   "desc": "Destroy 500 Vandelay security robots.",
+   "hidden": false,
+   "pct": 19.9
+  },
+  {
+   "api": "ACH_024",
+   "name": "Beat-hit mania",
+   "desc": "Land 500 beat-hit attacks on enemies.",
+   "hidden": false,
+   "pct": 19.7
+  },
+  {
+   "api": "ACH_009",
+   "name": "Well that was a rush!",
+   "desc": "Finish the game and complete every level on the Normal difficulty.",
+   "hidden": false,
+   "pct": 16.9
+  },
+  {
+   "api": "ACH_054",
+   "name": "I told you I'd be fine, Peppermint!",
+   "desc": "Complete the ride through production on the transit rail without taking damage.",
+   "hidden": false,
+   "pct": 16.8
+  },
+  {
+   "api": "ACH_060",
+   "name": "Check out my moves!",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.0
+  },
+  {
+   "api": "ACH_016",
+   "name": "Chip-tuned",
+   "desc": "Increase your chip slots to the maximum capacity.",
+   "hidden": false,
+   "pct": 13.8
+  },
+  {
+   "api": "ACH_062",
+   "name": "NOW we got a kickass hideout!",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.2
+  },
+  {
+   "api": "ACH_052",
+   "name": "Wanna hear my playlist?",
+   "desc": "Change the background music in the hideout.",
+   "hidden": false,
+   "pct": 11.6
+  },
+  {
+   "api": "ACH_049",
+   "name": "I hit things with a guitar really well.",
+   "desc": "Finish a stage with a S rank for every Chorus. (Any difficulty.)",
+   "hidden": false,
+   "pct": 10.5
+  },
+  {
+   "api": "ACH_037",
+   "name": "We're Jammin'",
+   "desc": "Successfully pull off 20 Jam Combos",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "ACH_055",
+   "name": "You ever parry a volcano?",
+   "desc": "Successfully parry a volcanic rock outside of research and development.",
+   "hidden": false,
+   "pct": 9.1
+  },
+  {
+   "api": "ACH_010",
+   "name": "I think I deserve some praise, here!",
+   "desc": "Finish the game and complete every level on the Hard difficulty.",
+   "hidden": false,
+   "pct": 9.0
+  },
+  {
+   "api": "ACH_039",
+   "name": "First we parry, then we counter",
+   "desc": "Perform 20 parry counters using any partner.",
+   "hidden": false,
+   "pct": 8.3
+  },
+  {
+   "api": "ACH_028",
+   "name": "I think I found your calling, Macaron",
+   "desc": "Shatter 50 enemy shields by calling in Macaron.",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "ACH_038",
+   "name": "I'm not done with you yet",
+   "desc": "Overkill 20 enemies.",
+   "hidden": false,
+   "pct": 7.6
+  },
+  {
+   "api": "ACH_030",
+   "name": "This is a breeze!",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.7
+  },
+  {
+   "api": "ACH_035",
+   "name": "OK, well THEY came after ME!",
+   "desc": "Destroy 1000 Vandelay security robots.",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "ACH_063",
+   "name": "Call me Turbo Chai",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.8
+  },
+  {
+   "api": "ACH_058",
+   "name": "With our powers combined…and to the rhythm…",
+   "desc": "Perfectly time your take down of your largest foe yet in a musical finale.",
+   "hidden": false,
+   "pct": 3.5
+  },
+  {
+   "api": "ACH_013",
+   "name": "Problem solved... wait, what?",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.3
+  },
+  {
+   "api": "ACH_040",
+   "name": "Now this is how you fight like a team!",
+   "desc": "Perform 100 parry counters using any partner.",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "ACH_056",
+   "name": "I am a good person who likes to help",
+   "desc": "Help out 3 Vandelay robots with their pressing issues.",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "ACH_020",
+   "name": "Fully Powered Up!",
+   "desc": "Fully upgrade your Reverb Gauge to the maximum.",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "ACH_008",
+   "name": "Easy Listening",
+   "desc": "Finish the game completing every level on the Easy difficulty.",
+   "hidden": false,
+   "pct": 2.6
+  },
+  {
+   "api": "ACH_011",
+   "name": "And the crowd goes wild!",
+   "desc": "Finish the game and complete every level on the Very Hard difficulty.",
+   "hidden": false,
+   "pct": 2.6
+  },
+  {
+   "api": "ACH_014",
+   "name": "I can't see this ever being a problem again",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  },
+  {
+   "api": "ACH_059",
+   "name": "I saw all those hits coming a measure away!",
+   "desc": "Perfectly parry every non-boss enemy's Rhythm Parry attack. (Only for enemies in the main game.)",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "ACH_068",
+   "name": "New bad guys? No problem!",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.3
+  },
+  {
+   "api": "ACH_061",
+   "name": "OK, I THINK I know what I'm doing now",
+   "desc": "Successfully pull off every combo and attack in the Training Room.",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "ACH_044",
+   "name": "This was... not what I expected.",
+   "desc": "Have \"The Artist\" decorate your hideout.",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "ACH_019",
+   "name": "I think that's enough health for now",
+   "desc": "Fully upgrade your health bar by collecting all Life Gauges.",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "ACH_041",
+   "name": "My Ultimate Setlist",
+   "desc": "Complete all the floors in the Rhythm Tower.",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "ACH_046",
+   "name": "Have we met before?",
+   "desc": "Find Vandelay HR's investigator and hear all of its monologues.",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "ACH_050",
+   "name": "I'm untouchable!",
+   "desc": "Finish a stage without taking any damage. (Any difficulty.)",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "ACH_064",
+   "name": "Choose your own adventure",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.4
+  },
+  {
+   "api": "ACH_022",
+   "name": "I have to read ALL of these things?",
+   "desc": "Find and read every Vandelay Vlog on the campus.",
+   "hidden": false,
+   "pct": 1.3
+  },
+  {
+   "api": "ACH_057",
+   "name": "I'm trying to FOCUS HERE!",
+   "desc": "Find and shoot down every hovering announcement drone.",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "ACH_065",
+   "name": "It'll do, CNMN",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.2
+  },
+  {
+   "api": "ACH_012",
+   "name": "Didn't skip a beat!",
+   "desc": "Finish the game and complete every level on the Rhythm Master difficulty.",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "ACH_043",
+   "name": "What a journey it was...",
+   "desc": "Complete the Wall of Fame in the hideout.",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "ACH_066",
+   "name": "Please don't make this awkward",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.7
+  },
+  {
+   "api": "ACH_067",
+   "name": "That was just EVIL",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.7
+  },
+  {
+   "api": "ACH_069",
+   "name": "It was all for this",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.6
+  },
+  {
+   "api": "ACH_070",
+   "name": "Voices from within",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.6
+  },
+  {
+   "api": "ACH_071",
+   "name": "Low budget finish",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.6
+  }
+ ]
+}

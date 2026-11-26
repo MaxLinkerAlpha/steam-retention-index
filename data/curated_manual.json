@@ -1,0 +1,624 @@
+{
+ "games": [
+  {
+   "appid": 1850570,
+   "name": "死亡搁浅 DC",
+   "key": "ds1",
+   "color": "#4cc2ff",
+   "href": "死亡搁浅-章节留存率-2026-11-24.html",
+   "note": "15 段（序章 + 14 章）",
+   "nodes": [
+    {
+     "code": "序",
+     "stage": "Prologue",
+     "pct": 93.0
+    },
+    {
+     "code": "1",
+     "stage": "Episode 1",
+     "pct": 81.6
+    },
+    {
+     "code": "2",
+     "stage": "Episode 2",
+     "pct": 44.7
+    },
+    {
+     "code": "3",
+     "stage": "Episode 3",
+     "pct": 31.1
+    },
+    {
+     "code": "4",
+     "stage": "Episode 4",
+     "pct": 30.9
+    },
+    {
+     "code": "5",
+     "stage": "Episode 5",
+     "pct": 27.1
+    },
+    {
+     "code": "6",
+     "stage": "Episode 6",
+     "pct": 25.1
+    },
+    {
+     "code": "7",
+     "stage": "Episode 7",
+     "pct": 25.0
+    },
+    {
+     "code": "8",
+     "stage": "Episode 8",
+     "pct": 22.3
+    },
+    {
+     "code": "9",
+     "stage": "Episode 9",
+     "pct": 21.7
+    },
+    {
+     "code": "10",
+     "stage": "Episode 10",
+     "pct": 21.4
+    },
+    {
+     "code": "11",
+     "stage": "Episode 11",
+     "pct": 21.2
+    },
+    {
+     "code": "12",
+     "stage": "Episode 12",
+     "pct": 21.0
+    },
+    {
+     "code": "13",
+     "stage": "Episode 13",
+     "pct": 20.6
+    },
+    {
+     "code": "14",
+     "stage": "Episode 14",
+     "pct": 20.1
+    }
+   ]
+  },
+  {
+   "appid": 3280350,
+   "name": "死亡搁浅2",
+   "key": "ds2",
+   "color": "#8b7bff",
+   "href": "../死亡搁浅2-章节留存/死亡搁浅2-章节留存率-2026-11-24.html",
+   "note": "序章 + 15 章",
+   "nodes": [
+    {
+     "code": "序",
+     "stage": "Prologue",
+     "pct": 92.4
+    },
+    {
+     "code": "1",
+     "stage": "Sam",
+     "pct": 80.2
+    },
+    {
+     "code": "2",
+     "stage": "Lou",
+     "pct": 79.8
+    },
+    {
+     "code": "3",
+     "stage": "Drawbridge",
+     "pct": 69.1
+    },
+    {
+     "code": "4",
+     "stage": "Raindrops",
+     "pct": 66.2
+    },
+    {
+     "code": "5",
+     "stage": "Conflagration",
+     "pct": 65.5
+    },
+    {
+     "code": "6",
+     "stage": "Chrysalis",
+     "pct": 59.7
+    },
+    {
+     "code": "7",
+     "stage": "Pod",
+     "pct": 52.9
+    },
+    {
+     "code": "8",
+     "stage": "Deluge",
+     "pct": 47.7
+    },
+    {
+     "code": "9",
+     "stage": "Puppets",
+     "pct": 43.8
+    },
+    {
+     "code": "10",
+     "stage": "Isolation",
+     "pct": 42.5
+    },
+    {
+     "code": "11",
+     "stage": "Quake",
+     "pct": 42.3
+    },
+    {
+     "code": "12",
+     "stage": "Fragile",
+     "pct": 41.9
+    },
+    {
+     "code": "13",
+     "stage": "Die Hard",
+     "pct": 41.8
+    },
+    {
+     "code": "14",
+     "stage": "Last Stranding",
+     "pct": 40.8
+    },
+    {
+     "code": "15",
+     "stage": "On the Beach",
+     "pct": 40.7
+    },
+    {
+     "code": "16",
+     "stage": "Tomorrow",
+     "pct": 40.5
+    }
+   ]
+  },
+  {
+   "appid": 1593500,
+   "name": "新战神 2018",
+   "key": "gow",
+   "color": "#e0a95a",
+   "href": "新战神2018-剧情节点留存-2026-11-24.html",
+   "note": "11 个剧情节点（无章节制）",
+   "nodes": [
+    {
+     "code": "序",
+     "stage": "The Stranger",
+     "pct": 86.9
+    },
+    {
+     "code": "1",
+     "stage": "Witch's Woods",
+     "pct": 75.2
+    },
+    {
+     "code": "2",
+     "stage": "Alfheim",
+     "pct": 62.9
+    },
+    {
+     "code": "3",
+     "stage": "The Mountain",
+     "pct": 57.4
+    },
+    {
+     "code": "4",
+     "stage": "Magni & Modi",
+     "pct": 53.7
+    },
+    {
+     "code": "5",
+     "stage": "Blades of Chaos",
+     "pct": 52.9
+    },
+    {
+     "code": "6",
+     "stage": "Sickness",
+     "pct": 52.6
+    },
+    {
+     "code": "8",
+     "stage": "Helheim",
+     "pct": 50.3
+    },
+    {
+     "code": "8",
+     "stage": "Helheim",
+     "pct": 49.9
+    },
+    {
+     "code": "9",
+     "stage": "Baldur",
+     "pct": 47.3
+    },
+    {
+     "code": "终",
+     "stage": "Jötunheim",
+     "pct": 46.7
+    }
+   ]
+  },
+  {
+   "appid": 292120,
+   "name": "最终幻想13",
+   "key": "ff13",
+   "color": "#ff7a9c",
+   "href": null,
+   "note": "13 章，一章一个成就",
+   "nodes": [
+    {
+     "code": "1",
+     "stage": "Instrument of Fate",
+     "pct": 90.0
+    },
+    {
+     "code": "2",
+     "stage": "Instrument of Dissent",
+     "pct": 68.8
+    },
+    {
+     "code": "3",
+     "stage": "Instrument of Tragedy",
+     "pct": 62.3
+    },
+    {
+     "code": "4",
+     "stage": "Instrument of Flight",
+     "pct": 53.6
+    },
+    {
+     "code": "5",
+     "stage": "Instrument of Vengeance",
+     "pct": 44.5
+    },
+    {
+     "code": "6",
+     "stage": "Instrument of Survival",
+     "pct": 41.1
+    },
+    {
+     "code": "7",
+     "stage": "Instrument of Rebellion",
+     "pct": 38.9
+    },
+    {
+     "code": "8",
+     "stage": "Instrument of Shame",
+     "pct": 34.9
+    },
+    {
+     "code": "9",
+     "stage": "Instrument of Wrath",
+     "pct": 33.7
+    },
+    {
+     "code": "10",
+     "stage": "Instrument of Truth",
+     "pct": 30.4
+    },
+    {
+     "code": "11",
+     "stage": "Instrument of Hope",
+     "pct": 27.9
+    },
+    {
+     "code": "12",
+     "stage": "Instrument of Faith",
+     "pct": 20.7
+    },
+    {
+     "code": "13",
+     "stage": "Instrument of Change",
+     "pct": 17.1
+    }
+   ]
+  },
+  {
+   "appid": 1174180,
+   "name": "荒野大镖客2",
+   "key": "rdr2",
+   "color": "#e05c5c",
+   "href": null,
+   "note": "6 章 + 尾声",
+   "nodes": [
+    {
+     "code": "首个任务",
+     "stage": "Just a Scratch",
+     "pct": 85.5
+    },
+    {
+     "code": "第1章",
+     "stage": "Back in the Mud",
+     "pct": 72.8
+    },
+    {
+     "code": "第2章",
+     "stage": "To Greener Pastures",
+     "pct": 41.5
+    },
+    {
+     "code": "第3章",
+     "stage": "Settling Feuds",
+     "pct": 32.6
+    },
+    {
+     "code": "第4章",
+     "stage": "Washed Ashore",
+     "pct": 27.7
+    },
+    {
+     "code": "第5章",
+     "stage": "No Traitors",
+     "pct": 26.7
+    },
+    {
+     "code": "尾声前",
+     "stage": "Third Time Lucky",
+     "pct": 25.1
+    },
+    {
+     "code": "终章",
+     "stage": "Redemption",
+     "pct": 23.7
+    },
+    {
+     "code": "尾声",
+     "stage": "Endless Summer",
+     "pct": 20.5
+    }
+   ]
+  },
+  {
+   "appid": 1245620,
+   "name": "艾尔登法环",
+   "key": "er",
+   "color": "#7fd3a0",
+   "href": null,
+   "note": "9 个主线 Boss（非线性）",
+   "nodes": [
+    {
+     "code": "圆桌",
+     "stage": "Roundtable Hold",
+     "pct": 74.9
+    },
+    {
+     "code": "恶兆",
+     "stage": "Margit",
+     "pct": 70.9
+    },
+    {
+     "code": "葛瑞克",
+     "stage": "Shardbearer Godrick",
+     "pct": 65.0
+    },
+    {
+     "code": "满月女王",
+     "stage": "Rennala",
+     "pct": 57.9
+    },
+    {
+     "code": "碎星",
+     "stage": "Shardbearer Radahn",
+     "pct": 53.2
+    },
+    {
+     "code": "恶兆王",
+     "stage": "Shardbearer Morgott",
+     "pct": 49.6
+    },
+    {
+     "code": "火焰巨人",
+     "stage": "Fire Giant",
+     "pct": 45.0
+    },
+    {
+     "code": "黑剑",
+     "stage": "Maliketh",
+     "pct": 41.6
+    },
+    {
+     "code": "葛孚雷",
+     "stage": "Hoarah Loux",
+     "pct": 40.5
+    }
+   ]
+  },
+  {
+   "appid": 2358720,
+   "name": "黑神话：悟空",
+   "key": "bmw",
+   "color": "#f0b429",
+   "href": null,
+   "note": "6 章（起点为开场即得）",
+   "nodes": [
+    {
+     "code": "序章",
+     "stage": "Home is Behind",
+     "pct": 97.7
+    },
+    {
+     "code": "第一回",
+     "stage": "Blazing Black Wind",
+     "pct": 78.1
+    },
+    {
+     "code": "第二回",
+     "stage": "A Great Gust",
+     "pct": 67.8
+    },
+    {
+     "code": "第三回",
+     "stage": "Voice Vanquished",
+     "pct": 63.8
+    },
+    {
+     "code": "第四回",
+     "stage": "Behold the Betrayal",
+     "pct": 52.9
+    },
+    {
+     "code": "第五回",
+     "stage": "Flaming Fury",
+     "pct": 50.6
+    },
+    {
+     "code": "第六回",
+     "stage": "Six Senses Secured",
+     "pct": 40.9
+    }
+   ]
+  },
+  {
+   "appid": 1086940,
+   "name": "博德之门3",
+   "key": "bg3",
+   "color": "#9be15d",
+   "href": null,
+   "note": "序幕 + 三幕（4 个节点）",
+   "nodes": [
+    {
+     "code": "序幕",
+     "stage": "Descent From Avernus",
+     "pct": 89.0
+    },
+    {
+     "code": "一幕毕",
+     "stage": "The Plot Thickens",
+     "pct": 50.1
+    },
+    {
+     "code": "二幕毕",
+     "stage": "The City Awaits",
+     "pct": 39.5
+    },
+    {
+     "code": "通关",
+     "stage": "All's Well That Ends Well",
+     "pct": 23.6
+    }
+   ]
+  },
+  {
+   "appid": 1716740,
+   "name": "星空",
+   "key": "starfield",
+   "color": "#57d3e0",
+   "href": null,
+   "note": "主线任务链（9 个节点）",
+   "nodes": [
+    {
+     "code": "进太空",
+     "stage": "For All, Into the Starfield",
+     "pct": 88.6
+    },
+    {
+     "code": "入星座",
+     "stage": "One Small Step",
+     "pct": 78.8
+    },
+    {
+     "code": "未知",
+     "stage": "Into the Unknown",
+     "pct": 42.7
+    },
+    {
+     "code": "买所值",
+     "stage": "All That Money Can Buy",
+     "pct": 36.1
+    },
+    {
+     "code": "更深入",
+     "stage": "Further Into the Unknown",
+     "pct": 31.8
+    },
+    {
+     "code": "代价",
+     "stage": "High Price to Pay",
+     "pct": 29.4
+    },
+    {
+     "code": "纠缠",
+     "stage": "Entangled",
+     "pct": 23.3
+    },
+    {
+     "code": "出土",
+     "stage": "Unearthed",
+     "pct": 22.7
+    },
+    {
+     "code": "最后一跃",
+     "stage": "One Giant Leap",
+     "pct": 19.7
+    }
+   ]
+  },
+  {
+   "appid": 814380,
+   "name": "只狼",
+   "key": "sekiro",
+   "color": "#cfd6e2",
+   "href": null,
+   "note": "10 个主线 Boss",
+   "nodes": [
+    {
+     "code": "楔丸",
+     "stage": "Revered Blade",
+     "pct": 93.9
+    },
+    {
+     "code": "义手",
+     "stage": "Shinobi Prosthetic",
+     "pct": 89.6
+    },
+    {
+     "code": "鬼形部",
+     "stage": "Gyoubu Masataka Oniwa",
+     "pct": 57.1
+    },
+    {
+     "code": "弦一郎",
+     "stage": "Genichiro Ashina",
+     "pct": 45.2
+    },
+    {
+     "code": "屏风猿",
+     "stage": "Folding Screen Monkeys",
+     "pct": 41.6
+    },
+    {
+     "code": "狮子猿",
+     "stage": "Guardian Ape",
+     "pct": 39.8
+    },
+    {
+     "code": "义父",
+     "stage": "Great Shinobi - Owl",
+     "pct": 36.4
+    },
+    {
+     "code": "破戒僧",
+     "stage": "Corrupted Monk",
+     "pct": 35.7
+    },
+    {
+     "code": "龙泪",
+     "stage": "Gracious Gift of Tears",
+     "pct": 34.7
+    },
+    {
+     "code": "苇名一心",
+     "stage": "Sword Saint, Isshin Ashina",
+     "pct": 31.4
+    }
+   ]
+  }
+ ]
+}

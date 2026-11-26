@@ -1,0 +1,953 @@
+{
+ "appid": 255710,
+ "game": "Cities: Skylines",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 135,
+ "achievements": [
+  {
+   "api": "Pioneer",
+   "name": "Pioneer",
+   "desc": "Create your very first city",
+   "hidden": false,
+   "pct": 74.2
+  },
+  {
+   "api": "SingingInThe",
+   "name": "Singing In The-",
+   "desc": "Experience rain",
+   "hidden": false,
+   "pct": 60.8
+  },
+  {
+   "api": "FoggyWeather",
+   "name": "Foggy Weather",
+   "desc": "Experience fog",
+   "hidden": false,
+   "pct": 60.6
+  },
+  {
+   "api": "GreenEnergy",
+   "name": "Green Energy",
+   "desc": "Produce all electricity without using raw materials",
+   "hidden": false,
+   "pct": 57.8
+  },
+  {
+   "api": "PowerAtYourFingertips",
+   "name": "Power at Your Fingertips",
+   "desc": "Unlock all city services",
+   "hidden": false,
+   "pct": 50.5
+  },
+  {
+   "api": "UnpopularMayor",
+   "name": "Unpopular Mayor",
+   "desc": "Have 15% happiness",
+   "hidden": false,
+   "pct": 46.8
+  },
+  {
+   "api": "RollingInDough",
+   "name": "Rolling in Dough",
+   "desc": "Earn 15,000 per week",
+   "hidden": false,
+   "pct": 42.0
+  },
+  {
+   "api": "ClimbingTheSocialLadder",
+   "name": "Climbing the Social Ladder",
+   "desc": "Have a Citizen educated to level 3 from 0",
+   "hidden": false,
+   "pct": 38.4
+  },
+  {
+   "api": "CityPlanner",
+   "name": "City Planner",
+   "desc": "Use the district tool to draw 3 districts",
+   "hidden": false,
+   "pct": 36.7
+  },
+  {
+   "api": "SafeCity",
+   "name": "Safe City",
+   "desc": "Keep the crime rate under 10% for 4 years straight",
+   "hidden": false,
+   "pct": 33.5
+  },
+  {
+   "api": "DoesMyBumLookBigInThis",
+   "name": "Does My Bum Look Big In This?",
+   "desc": "Change Chirper look",
+   "hidden": false,
+   "pct": 32.4
+  },
+  {
+   "api": "Lawmaker",
+   "name": "Lawmaker",
+   "desc": "Apply a policy to a district you created",
+   "hidden": false,
+   "pct": 22.2
+  },
+  {
+   "api": "QuayKing",
+   "name": "Quay-King",
+   "desc": "Build one quay",
+   "hidden": false,
+   "pct": 20.4
+  },
+  {
+   "api": "WithCanalsYouCan",
+   "name": "With Canals You Can!",
+   "desc": "Build one canal",
+   "hidden": false,
+   "pct": 16.1
+  },
+  {
+   "api": "WellInformed",
+   "name": "Well Informed",
+   "desc": "Have a look at all the different info-view panels",
+   "hidden": false,
+   "pct": 14.4
+  },
+  {
+   "api": "SIMulatedCity",
+   "name": "SIMulated City",
+   "desc": "Have an area the size of nine map tiles",
+   "hidden": false,
+   "pct": 14.3
+  },
+  {
+   "api": "FireWatch",
+   "name": "Fire Watch",
+   "desc": "Have 5 Fire Stations",
+   "hidden": false,
+   "pct": 14.1
+  },
+  {
+   "api": "NomenEstOmen",
+   "name": "Nomen Est Omen",
+   "desc": "Name a road",
+   "hidden": false,
+   "pct": 10.5
+  },
+  {
+   "api": "GreenestCity",
+   "name": "Greenest City",
+   "desc": "Have no polluting industry in your city, only Office Zone and specialized zones",
+   "hidden": false,
+   "pct": 10.5
+  },
+  {
+   "api": "TheSafestTown",
+   "name": "The Safest Town",
+   "desc": "Have 5 Police Headquarters",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "HeavenlyCity",
+   "name": "Heavenly City",
+   "desc": "Unlock Monuments",
+   "hidden": false,
+   "pct": 9.3
+  },
+  {
+   "api": "Reporting",
+   "name": "Reporting!",
+   "desc": "Check a route of a citizen",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "CityInMotion",
+   "name": "City in Motion",
+   "desc": "Have 20 transport lines",
+   "hidden": false,
+   "pct": 7.5
+  },
+  {
+   "api": "EarthlovingCity",
+   "name": "Earthloving City",
+   "desc": "No water or ground pollution in a city of over 10,000 residents",
+   "hidden": false,
+   "pct": 7.0
+  },
+  {
+   "api": "ProfessionalDumper",
+   "name": "Professional Dumper",
+   "desc": "Fill five landfill sites",
+   "hidden": false,
+   "pct": 6.3
+  },
+  {
+   "api": "Metropolis",
+   "name": "Metropolis",
+   "desc": "Have a population of 100,000 in your city",
+   "hidden": false,
+   "pct": 5.8
+  },
+  {
+   "api": "AreTheyNakedInThere",
+   "name": "Are They Naked In There?",
+   "desc": "Have a Sauna in the city",
+   "hidden": false,
+   "pct": 5.3
+  },
+  {
+   "api": "Speedup",
+   "name": "Speed up!",
+   "desc": "Boost 100 km of streets with Road maintenance service",
+   "hidden": false,
+   "pct": 5.3
+  },
+  {
+   "api": "FullCapacity",
+   "name": "Full Capacity",
+   "desc": "Level up an Industry Area up to Level 5",
+   "hidden": false,
+   "pct": 5.3
+  },
+  {
+   "api": "HigherEducation",
+   "name": "Higher Education",
+   "desc": "Have over 70% of citizens highly educated in a city of over 10,000 people",
+   "hidden": false,
+   "pct": 5.1
+  },
+  {
+   "api": "Postman",
+   "name": "Postman",
+   "desc": "Deliver 1 000 000 units of Mail",
+   "hidden": false,
+   "pct": 4.9
+  },
+  {
+   "api": "Terraformer",
+   "name": "Terraformer",
+   "desc": "Create a map",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "BeamMeUp",
+   "name": "Beam Me Up",
+   "desc": "Build the Space Elevator Monument",
+   "hidden": false,
+   "pct": 4.6
+  },
+  {
+   "api": "TheWatersOfOurLives",
+   "name": "The Waters of Our Lives",
+   "desc": "Treat 20 000 000 m3 of waste water using the Inland Water Treatment Plants.",
+   "hidden": false,
+   "pct": 4.6
+  },
+  {
+   "api": "Decorator",
+   "name": "Decorator",
+   "desc": "Use the Asset Editor to make your very own asset",
+   "hidden": false,
+   "pct": 4.4
+  },
+  {
+   "api": "HeresATram",
+   "name": "Here's A Tram",
+   "desc": "Have one tram line active",
+   "hidden": false,
+   "pct": 4.1
+  },
+  {
+   "api": "ShakeItUp",
+   "name": "Shake It Up!",
+   "desc": "Experience an earthquake",
+   "hidden": false,
+   "pct": 4.1
+  },
+  {
+   "api": "TwistAndShout",
+   "name": "Twist and shout",
+   "desc": "Experience a tornado",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "ItsHeadingRightForUs",
+   "name": "It's heading right for us!",
+   "desc": "Experience a meteor strike",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "DropTheBase",
+   "name": "Drop the Base",
+   "desc": "Experience a sinkhole",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "ThunderAndLightning",
+   "name": "Thunder and Lightning",
+   "desc": "Experience a thunderstorm",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "GetYourSnowshoesReady",
+   "name": "Get Your Snowshoes Ready!",
+   "desc": "Experience snowfall",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "ItsWintertime",
+   "name": "It's Wintertime!",
+   "desc": "Change Chirper to a winter look",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "FriendlyTeaching",
+   "name": "Friendly Teaching",
+   "desc": "Build one of each eco-friendly schools: Community School, Institute of Creative Arts and Modern Technology Institute",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "IWantItAll",
+   "name": "I Want It All",
+   "desc": "Unlock every single building in the game",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "WeNeedSnorkels",
+   "name": "We need snorkels!",
+   "desc": "Experience a tsunami",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "TheParkToRuleAllParks",
+   "name": "The Park To Rule All Parks",
+   "desc": "Have a maximum level park made with Park Tool",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "AHugeHadron",
+   "name": "A Huge Hadron",
+   "desc": "Build the Hadron Collider Monument",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "ShortFuse",
+   "name": "Short Fuse",
+   "desc": "Build the Fusion Power Plant Monument",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "NewEden",
+   "name": "New Eden",
+   "desc": "Build the Eden Project Monument",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "HappyTown",
+   "name": "Happy Town",
+   "desc": "Have more than 95% city happiness for 5 years",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "LeisureSuites",
+   "name": "Leisure Suites",
+   "desc": "Have 1000 squares of leisure specialized commercial zone",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "PlayingWithTheBoys",
+   "name": "Playing With The Boys",
+   "desc": "Have 1000 squares of beach specialized commercial zone",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "Medic",
+   "name": "Medic!",
+   "desc": "Build the Medical Center Monument",
+   "hidden": false,
+   "pct": 2.6
+  },
+  {
+   "api": "RunBambi",
+   "name": "Run, Bambi!",
+   "desc": "Experience a forest fire",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "FreneticPlayer",
+   "name": "Frenetic Player",
+   "desc": "Click on a police building 100 times in a row",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "EternalCity",
+   "name": "Eternal City",
+   "desc": "Have ten disasters hit the same city",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "Triorail",
+   "name": "Triorail",
+   "desc": "Have 3 monorail lines",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "ScalingUp",
+   "name": "Scaling Up",
+   "desc": "Build 10 Warehouse buildings",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "AirportArchitect",
+   "name": "Airport Architect",
+   "desc": "Build an airport area with a terminal, a runway and an aircraft stand.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "IToTheT",
+   "name": "I to the T",
+   "desc": "Have all office zone in your city be specialized IT-Cluster",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "ClarkCable",
+   "name": "Clark Cable",
+   "desc": "Transport 5 000 passengers with Cable Cars",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "CityInMotion2",
+   "name": "City in Motion 2",
+   "desc": "Have 50 transport lines",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "Airlifter",
+   "name": "Airlifter",
+   "desc": "Have 10 000 total passengers travel through an airport area. ",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "AirfieldExpertise",
+   "name": "Airfield Expertise",
+   "desc": "Build an airport area with an area of 25000 cells.",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "PowerToThePeople",
+   "name": "Power to the People",
+   "desc": "Have the industry tax rate over 5% higher than either residential tax rate for one year",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "CablesGalore",
+   "name": "Cables Galore",
+   "desc": "Transport 20 000 passengers with Cable Cars",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "ItsCalledSteve",
+   "name": "It's Called Steve",
+   "desc": "Name a road \"Steve\"",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "FisherKing",
+   "name": "Fisher King",
+   "desc": "Catch 10 000 000 units of fish.",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "MakeThemPay",
+   "name": "Make Them Pay",
+   "desc": "Have both residential tax rates over 5% higher than industry for one year",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "SuperSelfSufficient",
+   "name": "Super Self-Sufficient",
+   "desc": "Have all residential zone in your city be specialized Self-Sufficient Housing",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "AirlineTycoon",
+   "name": "Airline Tycoon ",
+   "desc": "Have an airport area reach level 3.",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "RejoiceAndBeFerry",
+   "name": "Rejoice And Be Ferry",
+   "desc": "Have 3 ferry lines",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "Organistic",
+   "name": "Organistic",
+   "desc": "Have all commercial zone in your city be specialized Organic and Local Produce",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "CoasterTycoon",
+   "name": "Coaster Tycoon",
+   "desc": "Have a park with all Amusement Park buildings built in it",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "JustTolling",
+   "name": "Just Tolling",
+   "desc": "Build one of each road Toll Booth buildings",
+   "hidden": false,
+   "pct": 1.3
+  },
+  {
+   "api": "StudentHousingProject",
+   "name": "Student Housing Project",
+   "desc": "Have total number of 10 Dormitories",
+   "hidden": false,
+   "pct": 1.3
+  },
+  {
+   "api": "DistinguishedAcademics",
+   "name": "Distinguished Academics",
+   "desc": "Have one campus reach \"Prestigious\" in reputation",
+   "hidden": false,
+   "pct": 1.3
+  },
+  {
+   "api": "1001Nights",
+   "name": "1001 Nights",
+   "desc": "Experience 1001 nights in the game",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "ThePlowmaster",
+   "name": "The Plowmaster",
+   "desc": "Have snowplows collect 2000000 units of snow",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "Aquaculture",
+   "name": "Aquaculture",
+   "desc": "Farm 7 500 000 units of fish and sea plants.",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "Distroy",
+   "name": "Distroy",
+   "desc": "Have more than 10 districts with unique policies",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "MaintainThatPark",
+   "name": "Maintain That Park",
+   "desc": "Have a Park Maintenance Service and a Zoo, Nature Reserve and Amusement Park in your city",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "IndustryTycoon",
+   "name": "Industry Tycoon",
+   "desc": "Build all Unique Factories",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "ILoveTrams",
+   "name": "I Love Trams!",
+   "desc": "Have 10 tram lines active",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "BlimpBlimp",
+   "name": "Blimp? Blimp.",
+   "desc": "Have 3 blimp lines",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "SoMuchCash",
+   "name": "So Much Cash!",
+   "desc": "Transport ₡2,000,000 using cash transport vans in one week.",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "VarsitySportsPatron",
+   "name": "Varsity Sports Patron",
+   "desc": "Build all five varsity sports arenas on one campus in one city",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "Trolleyface",
+   "name": "Trolleyface",
+   "desc": "Transport 35 000 amount of citizens in trolleybuses.",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "ToughCity",
+   "name": "Tough City",
+   "desc": "Have the city survive a crime rate of over 40% for 2 years",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "Brrr",
+   "name": "Brrr!",
+   "desc": "Create a winter map in map editor",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "Z00",
+   "name": "Z00",
+   "desc": "Have a park with all zoo buildings built in it",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "WorldOfRotorcraft",
+   "name": "World of Rotorcraft",
+   "desc": "Transport 15 000 amount of citizens in passenger helicopters.",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "ComeFlyWithMe",
+   "name": "Come Fly With Me!",
+   "desc": "Have 60 tourists visit the Aviation Club during one week.",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "HighCostCarrier",
+   "name": "High-cost-carrier ",
+   "desc": "Set the airline ticket price slider to the maximum price. ",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "VeryAccommodating",
+   "name": "Very Accommodating",
+   "desc": "Have total of 500 weekly guests to stay at hotels.",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "PrisonBreak",
+   "name": "Prison Break",
+   "desc": "Have 15 Prisons in the city",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "NotSoMono",
+   "name": "Not So Mono",
+   "desc": "Have 10 monorail lines",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "ParkingNotForbidden",
+   "name": "Parking Not Forbidden",
+   "desc": "Have 10 parks made with Park Tool",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "Ambulare",
+   "name": "Ambulare",
+   "desc": "Have 5 pedestrian Walking Tour lines",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "OffshoreAssets",
+   "name": "Offshore Assets",
+   "desc": "Build five Oil Rigs",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "ComboBreaker",
+   "name": "Combo Breaker!",
+   "desc": "Have one Ferry and Bus Exchange Stop, Metro-Monorail-Train Hub, Monorail-Bus Hub and Multiplatform Train Station",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "Centurion",
+   "name": "Centurion",
+   "desc": "Name 100 roads",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "Naturally",
+   "name": "Naturally",
+   "desc": "Have a park with all Nature Reserve buildings built in it",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "WhatThe",
+   "name": "What the...?",
+   "desc": "Experience a special disaster",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "FerryFaerie",
+   "name": "Ferry Faerie",
+   "desc": "Have 15 ferry lines",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "PutSomeBlimpInYourBlimp",
+   "name": "Put Some Blimp In Your Blimp",
+   "desc": "Have 10 blimp lines",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "TotallyInMotion",
+   "name": "Totally In Motion",
+   "desc": "Win all three Mass Transit scenarios",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "SightsToBeSeen",
+   "name": "Sights To Be Seen",
+   "desc": "Have 15 Sightseeing Bus lines",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "SerialInvestor",
+   "name": "Serial Investor",
+   "desc": "Build 10 Industry Areas",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "AcademicScholar",
+   "name": "Academic Scholar",
+   "desc": "Create 100 academic works",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "ForForProfitEducation",
+   "name": "For For-Profit Education!",
+   "desc": "Cover one campus area upkeep cost entirely with tuition fees paid by students in a campus area with more than 5000 students",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "CantBuyMeLove",
+   "name": "Can't Buy Me Love ",
+   "desc": "Earn ₡5,000,000 through investments.",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "Creator",
+   "name": "Creator",
+   "desc": "Create 10 scenarios",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "WeHaveAWinner",
+   "name": "We Have A Winner!",
+   "desc": "Win 10 scenarios",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "TheUnderdog",
+   "name": "The Underdog",
+   "desc": "Lose 10 scenarios",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "GraduationNation",
+   "name": "Education Nation",
+   "desc": "Have 15 000 students studying on campuses at the same time",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "HigherLearning",
+   "name": "Higher Learning",
+   "desc": "Build all Campus Area types with all of their respective campus buildings and faculties",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "MultidisciplinaryTransportTycoon",
+   "name": "Multidisciplinary Transport Tycoon",
+   "desc": "Build one of each of the following transport hubs: Underground Metro-Intercity Bus Hub, Bus-Intercity Bus Hub, Train-Metro Hub, Metropolitan Airport, Bus-Metro Hub",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "AllIn",
+   "name": "All In",
+   "desc": "Have at least ₡1 000 000 in cash. Put all of your available cash into investments, then don't sell any investments for one month.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "CashFlow",
+   "name": "Cash Flow",
+   "desc": "Have a bank building get flooded.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "NoRiskNoFun",
+   "name": "No risk, no fun!",
+   "desc": "Take a loan in order to make an investment.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "PeakSeason",
+   "name": "Peak Season",
+   "desc": "Organize three hotel events.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "FullyBooked",
+   "name": "Fully Booked!",
+   "desc": "Have the maximum possible number of guests stay at any 5 star hotel with at least 100 rooms.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VeryFocused",
+   "name": "Very Focused",
+   "desc": "Have one pedestrian area focused on residential, one in commercial, and one in workplace zones.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "GarbageCollection",
+   "name": "Garbage Collection Issues",
+   "desc": "Have 5 garbage service points reach their capacity limit.",
+   "hidden": false,
+   "pct": 0.2
+  },
+  {
+   "api": "TheSweetestCity",
+   "name": "The Sweetest City",
+   "desc": "Build 10 ice cream stand plazas in one pedestrian area.",
+   "hidden": false,
+   "pct": 0.2
+  },
+  {
+   "api": "StartYourEngines",
+   "name": "Start your engines!",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.1
+  },
+  {
+   "api": "GrandCircuitPro",
+   "name": "Grand Circuit Pro",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.0
+  },
+  {
+   "api": "IRunThisCity",
+   "name": "I Run This City",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.0
+  },
+  {
+   "api": "TourDeMetro",
+   "name": "Tour de Metro",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.0
+  },
+  {
+   "api": "FootTraffic",
+   "name": "Foot Traffic",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.0
+  },
+  {
+   "api": "WhiteNight",
+   "name": "White Night",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.0
+  },
+  {
+   "api": "HeDidWhatInThisCup",
+   "name": "He Did What in This Cup?",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.0
+  },
+  {
+   "api": "GrandeParade",
+   "name": "Grande Parade",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.0
+  }
+ ]
+}

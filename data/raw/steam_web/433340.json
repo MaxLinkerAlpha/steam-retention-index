@@ -1,0 +1,465 @@
+{
+ "appid": 433340,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 57,
+ "achievements": [
+  {
+   "name": "Plort Peddler",
+   "desc": "Sell 100 plorts at the Plort Market",
+   "hidden": false,
+   "pct": 78.3,
+   "api_name": "SELL_PLORTS_A",
+   "internal_key": 256
+  },
+  {
+   "name": "Transplorter",
+   "desc": "Sell 500 plorts at the Plort Market",
+   "hidden": false,
+   "pct": 63.5,
+   "api_name": "SELL_PLORTS_B",
+   "internal_key": 257
+  },
+  {
+   "name": "Plort Authority",
+   "desc": "Sell 1,000 plorts at the Plort Market",
+   "hidden": false,
+   "pct": 57.0,
+   "api_name": "SELL_PLORTS_C",
+   "internal_key": 258
+  },
+  {
+   "name": "Plort Powerhouse",
+   "desc": "Sell 2,500 plorts at the Plort Market",
+   "hidden": false,
+   "pct": 44.0,
+   "api_name": "SELL_PLORTS_D",
+   "internal_key": 259
+  },
+  {
+   "name": "Plort Tycoon",
+   "desc": "Sell 5,000 plorts at the Plort Market",
+   "hidden": false,
+   "pct": 29.2,
+   "api_name": "SELL_PLORTS_E",
+   "internal_key": 260
+  },
+  {
+   "name": "Buck Buck Bagu-",
+   "desc": "Feed 100 chickens to slimes on the Ranch",
+   "hidden": false,
+   "pct": 47.3,
+   "api_name": "FEED_SLIMES_CHICKENS",
+   "internal_key": 261
+  },
+  {
+   "name": "Fruit Cocktail",
+   "desc": "Have 3 different fruit trees on the Ranch at the same time",
+   "hidden": false,
+   "pct": 33.1,
+   "api_name": "FRUIT_TREE_TYPES",
+   "internal_key": 262
+  },
+  {
+   "name": "Salad Bar",
+   "desc": "Have 3 different veggie gardens on the Ranch at the same time",
+   "hidden": false,
+   "pct": 38.7,
+   "api_name": "VEGGIE_PATCH_TYPES",
+   "internal_key": 263
+  },
+  {
+   "name": "Fortunate",
+   "desc": "Earn over 5,000 newbucks",
+   "hidden": false,
+   "pct": 66.5,
+   "api_name": "EARN_CURRENCY_A",
+   "internal_key": 264
+  },
+  {
+   "name": "Well-Off Rancher",
+   "desc": "Earn over 25,000 newbucks",
+   "hidden": false,
+   "pct": 54.7,
+   "api_name": "EARN_CURRENCY_B",
+   "internal_key": 265
+  },
+  {
+   "name": "Upper Crust",
+   "desc": "Earn over 100,000 newbucks",
+   "hidden": false,
+   "pct": 35.2,
+   "api_name": "EARN_CURRENCY_C",
+   "internal_key": 266
+  },
+  {
+   "name": "A Quick Newbuck",
+   "desc": "Earn 5,000 newbucks in a single day",
+   "hidden": false,
+   "pct": 52.7,
+   "api_name": "DAY_CURRENCY",
+   "internal_key": 267
+  },
+  {
+   "name": "Up All Night",
+   "desc": "Stay awake from 6 AM to 6 AM the next day",
+   "hidden": false,
+   "pct": 66.0,
+   "api_name": "AWAKE_UNTIL_MORNING",
+   "internal_key": 268
+  },
+  {
+   "name": "Not My Morning",
+   "desc": "Be knocked out before 10 AM",
+   "hidden": false,
+   "pct": 40.6,
+   "api_name": "KNOCKOUT_MORNING",
+   "internal_key": 269
+  },
+  {
+   "name": "While You Were Away",
+   "desc": "Return to the Ranch after more than 24 hours",
+   "hidden": false,
+   "pct": 29.1,
+   "api_name": "AWAY_FROM_RANCH",
+   "internal_key": 270
+  },
+  {
+   "name": "Catch!",
+   "desc": "Shoot food into an airborne slime's mouth",
+   "hidden": false,
+   "pct": 76.3,
+   "api_name": "FEED_AIRBORNE",
+   "internal_key": 271
+  },
+  {
+   "name": "Omnivorous",
+   "desc": "Feed pink slimes on the Ranch 10 different types of food",
+   "hidden": false,
+   "pct": 40.8,
+   "api_name": "PINK_SLIMES_FOOD_TYPES",
+   "internal_key": 272
+  },
+  {
+   "name": "Tasty!",
+   "desc": "Feed 50 slimes on the Ranch their favorite food",
+   "hidden": false,
+   "pct": 57.4,
+   "api_name": "FEED_FAVORITES",
+   "internal_key": 273
+  },
+  {
+   "name": "Mine, All Mine",
+   "desc": "Discovered the Quarry",
+   "hidden": false,
+   "pct": 57.7,
+   "api_name": "DISCOVERED_QUARRY",
+   "internal_key": 274
+  },
+  {
+   "name": "On the Other Side",
+   "desc": "Discovered the Moss Blanket",
+   "hidden": false,
+   "pct": 54.1,
+   "api_name": "DISCOVERED_MOSS",
+   "internal_key": 275
+  },
+  {
+   "name": "Smoke, Fire, and Mirrors",
+   "desc": "Discovered the Glass Desert",
+   "hidden": false,
+   "pct": 28.6,
+   "api_name": "DISCOVERED_DESERT",
+   "internal_key": 276
+  },
+  {
+   "name": "Jelly Belly Burst",
+   "desc": "Burst a gordo slime",
+   "hidden": false,
+   "pct": 66.4,
+   "api_name": "BURST_GORDO",
+   "internal_key": 277
+  },
+  {
+   "name": "Open Says Me",
+   "desc": "Open a slime gate",
+   "hidden": false,
+   "pct": 64.1,
+   "api_name": "OPEN_SLIME_GATE",
+   "internal_key": 278
+  },
+  {
+   "name": "Carousel",
+   "desc": "Incinerate an elder chicken",
+   "hidden": false,
+   "pct": 11.6,
+   "api_name": "INCINERATE_ELDER_CHICKEN",
+   "internal_key": 279
+  },
+  {
+   "name": "You... Monster!",
+   "desc": "Send an adorable chick to a fiery end, the same place you're now destined to go",
+   "hidden": false,
+   "pct": 9.6,
+   "api_name": "INCINERATE_CHICK",
+   "internal_key": 280
+  },
+  {
+   "name": "Burstin' at the Seams",
+   "desc": "Put at least 50 units into each slot of a fully upgraded silo",
+   "hidden": false,
+   "pct": 8.2,
+   "api_name": "FILLED_SILO",
+   "internal_key": 281
+  },
+  {
+   "name": "Fully Loaded",
+   "desc": "Have a maximally upgraded corral, coop, and silo on the Ranch",
+   "hidden": false,
+   "pct": 25.3,
+   "api_name": "RANCH_UPGRADED_STORAGE",
+   "internal_key": 282
+  },
+  {
+   "name": "Hasty Exchange",
+   "desc": "Fulfill a Range Exchange request between Noon and 2 PM",
+   "hidden": false,
+   "pct": 46.7,
+   "api_name": "FULFILL_EXCHANGE_EARLY",
+   "internal_key": 283
+  },
+  {
+   "name": "Free Rangin'",
+   "desc": "Collect 50 plorts on the Range in a single day",
+   "hidden": false,
+   "pct": 45.0,
+   "api_name": "DAY_COLLECT_PLORTS",
+   "internal_key": 284
+  },
+  {
+   "name": "Hat Trick",
+   "desc": "Obtain at least 3 gold plorts from a single gold slime",
+   "hidden": false,
+   "pct": 7.8,
+   "api_name": "GOLD_SLIME_TRIPLE_PLORT",
+   "internal_key": 285
+  },
+  {
+   "name": "That Only Works in Comic Books",
+   "desc": "Stand inside a rad aura for at least 15 seconds",
+   "hidden": false,
+   "pct": 14.6,
+   "api_name": "EXTENDED_RAD_EXPOSURE",
+   "internal_key": 286
+  },
+  {
+   "name": "Once Bitten, Twice... Bitten",
+   "desc": "Hold onto a tarr for 15 seconds",
+   "hidden": false,
+   "pct": 12.1,
+   "api_name": "EXTENDED_TARR_HOLD",
+   "internal_key": 287
+  },
+  {
+   "name": "Boop!",
+   "desc": "Let a tabby slime headbutt you right on the nose",
+   "hidden": false,
+   "pct": 78.0,
+   "api_name": "TABBY_HEADBUTT",
+   "internal_key": 512
+  },
+  {
+   "name": "Fireworks",
+   "desc": "Shoot a boom slime largo into the air that explodes before landing",
+   "hidden": false,
+   "pct": 26.0,
+   "api_name": "LAUNCHED_BOOM_EXPLODE",
+   "internal_key": 513
+  },
+  {
+   "name": "Controlling the Chaos",
+   "desc": "Constrain more than 15 slimes in your vac stream at once while on the range",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "MANY_SLIMES_IN_VAC",
+   "internal_key": 514
+  },
+  {
+   "name": "Six Pack",
+   "desc": "Have at least 6 different types of slimes in the same corral",
+   "hidden": false,
+   "pct": 10.4,
+   "api_name": "CORRAL_SLIME_TYPES",
+   "internal_key": 515
+  },
+  {
+   "name": "Risky Business",
+   "desc": "Have at least 3 different types of largos in the same corral",
+   "hidden": false,
+   "pct": 19.1,
+   "api_name": "CORRAL_LARGO_TYPES",
+   "internal_key": 516
+  },
+  {
+   "name": "Pool Party",
+   "desc": "Fill a pond on the Ranch with at least 5 different types of slimes",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "POND_SLIME_TYPES",
+   "internal_key": 517
+  },
+  {
+   "name": "Diversification",
+   "desc": "Have at least 10 types of largos on the Ranch",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "RANCH_LARGO_TYPES",
+   "internal_key": 518
+  },
+  {
+   "name": "Ball Pit",
+   "desc": "Jump into a corral containing at least 40 slimes",
+   "hidden": false,
+   "pct": 35.8,
+   "api_name": "ENTERED_CORRAL_SLIMES",
+   "internal_key": 519
+  },
+  {
+   "name": "Rush Challenger",
+   "desc": "Reach at least 10,000 newbucks in Rush Mode",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "TIME_LIMIT_CURRENCY_A",
+   "internal_key": 520
+  },
+  {
+   "name": "Rush Champion",
+   "desc": "Reach at least 35,000 newbucks in Rush Mode",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "TIME_LIMIT_CURRENCY_B",
+   "internal_key": 521
+  },
+  {
+   "name": "Rush Plortmaster",
+   "desc": "Reach at least 75,000 newbucks in Rush Mode",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "TIME_LIMIT_CURRENCY_C",
+   "internal_key": 522
+  },
+  {
+   "name": "Into the Past",
+   "desc": "Discover the Ancient Ruins",
+   "hidden": false,
+   "pct": 36.1,
+   "api_name": "DISCOVERED_RUINS",
+   "internal_key": 523
+  },
+  {
+   "name": "Onward... to SCIENCE!",
+   "desc": "Fabricate your first Slime Science gadget",
+   "hidden": false,
+   "pct": 40.1,
+   "api_name": "FABRICATE_GADGETS_A",
+   "internal_key": 524
+  },
+  {
+   "name": "Bea the Builder",
+   "desc": "Fabricate 35 Slime Science gadgets",
+   "hidden": false,
+   "pct": 17.8,
+   "api_name": "FABRICATE_GADGETS_B",
+   "internal_key": 525
+  },
+  {
+   "name": "Never Stop Creating",
+   "desc": "Fabricate 100 Slime Science gadgets",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "FABRICATE_GADGETS_C",
+   "internal_key": 526
+  },
+  {
+   "name": "Best of the Worst",
+   "desc": "Place a tarr on the #1 Slime Stage",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "SLIME_STAGE_TARR",
+   "internal_key": 527
+  },
+  {
+   "name": "She's on Fire!",
+   "desc": "Score 50 points in a single game of slimeball",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "SLIMEBALL_SCORE",
+   "internal_key": 528
+  },
+  {
+   "name": "One Person at a Time",
+   "desc": "Join the 7Zee Rewards Club",
+   "hidden": false,
+   "pct": 42.6,
+   "api_name": "JOIN_REWARDS_CLUB",
+   "internal_key": 529
+  },
+  {
+   "name": "Color Me Impressed",
+   "desc": "Use chroma packs to change the color of the ranch house, tech, and vacpack",
+   "hidden": false,
+   "pct": 25.4,
+   "api_name": "USE_CHROMAS",
+   "internal_key": 530
+  },
+  {
+   "name": "Mint in Box",
+   "desc": "Purchase at least 10 different types of slime toys",
+   "hidden": false,
+   "pct": 11.3,
+   "api_name": "COLLECT_SLIME_TOYS",
+   "internal_key": 531
+  },
+  {
+   "name": "The Hunter Has Become... The Other Thing",
+   "desc": "Snare a Hunter Gordo",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "SNARE_HUNTER_GORDO",
+   "internal_key": 532
+  },
+  {
+   "name": "Renewal",
+   "desc": "Start bringing life back to the Glass Desert",
+   "hidden": false,
+   "pct": 22.1,
+   "api_name": "ACTIVATE_OASIS",
+   "internal_key": 533
+  },
+  {
+   "name": "Pro Style",
+   "desc": "Complete the Slimepedia",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "COMPLETE_SLIMEPEDIA",
+   "internal_key": 534
+  },
+  {
+   "name": "Doors Like These",
+   "desc": "Discover where Hobson's journey ended, and started once again.",
+   "hidden": false,
+   "pct": 20.6,
+   "api_name": "FIND_HOBSONS_END",
+   "internal_key": 535
+  },
+  {
+   "name": "The Adventure Continues!",
+   "desc": "Complete Adventure Mode and set out for what's next.",
+   "hidden": false,
+   "pct": 14.4,
+   "api_name": "FINISH_ADVENTURE",
+   "internal_key": 536
+  }
+ ]
+}

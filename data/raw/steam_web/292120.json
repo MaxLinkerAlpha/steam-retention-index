@@ -1,0 +1,289 @@
+{
+ "appid": 292120,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 35,
+ "achievements": [
+  {
+   "name": "Instrument of Fate",
+   "desc": "Took the first steps toward challenging an unjust fate.",
+   "hidden": false,
+   "pct": 90.0,
+   "api_name": "ACV_EVENT_00",
+   "internal_key": 256
+  },
+  {
+   "name": "Instrument of Dissent",
+   "desc": "Survived the Purge to confront a greater peril.",
+   "hidden": false,
+   "pct": 68.8,
+   "api_name": "ACV_EVENT_01",
+   "internal_key": 257
+  },
+  {
+   "name": "Instrument of Tragedy",
+   "desc": "Strode into danger's den and paid the consequences.",
+   "hidden": false,
+   "pct": 62.3,
+   "api_name": "ACV_EVENT_02",
+   "internal_key": 258
+  },
+  {
+   "name": "Instrument of Flight",
+   "desc": "Slipped through the net and lived to fight another day.",
+   "hidden": false,
+   "pct": 53.6,
+   "api_name": "ACV_EVENT_03",
+   "internal_key": 259
+  },
+  {
+   "name": "Instrument of Vengeance",
+   "desc": "Resolved to be more than a victim of circumstance.",
+   "hidden": false,
+   "pct": 44.5,
+   "api_name": "ACV_EVENT_04",
+   "internal_key": 260
+  },
+  {
+   "name": "Instrument of Survival",
+   "desc": "Evaded pursuers, though memories of the past still gave chase.",
+   "hidden": false,
+   "pct": 41.1,
+   "api_name": "ACV_EVENT_05",
+   "internal_key": 261
+  },
+  {
+   "name": "Instrument of Rebellion",
+   "desc": "Made plans to infiltrate enemy-occupied territory.",
+   "hidden": false,
+   "pct": 38.9,
+   "api_name": "ACV_EVENT_06",
+   "internal_key": 262
+  },
+  {
+   "name": "Instrument of Shame",
+   "desc": "Carried the burden of guilt to the end of the line.",
+   "hidden": false,
+   "pct": 34.9,
+   "api_name": "ACV_EVENT_07",
+   "internal_key": 263
+  },
+  {
+   "name": "Instrument of Wrath",
+   "desc": "Took the fight to the enemy's door.",
+   "hidden": false,
+   "pct": 33.7,
+   "api_name": "ACV_EVENT_08",
+   "internal_key": 264
+  },
+  {
+   "name": "Instrument of Truth",
+   "desc": "Recognized the true threat to the world's future.",
+   "hidden": false,
+   "pct": 30.4,
+   "api_name": "ACV_EVENT_09",
+   "internal_key": 265
+  },
+  {
+   "name": "Instrument of Hope",
+   "desc": "Traveled to the world below, seeking a way to alter fate.",
+   "hidden": false,
+   "pct": 27.9,
+   "api_name": "ACV_EVENT_10",
+   "internal_key": 266
+  },
+  {
+   "name": "Instrument of Faith",
+   "desc": "Defied destiny's charge and embarked on a different path.",
+   "hidden": false,
+   "pct": 20.7,
+   "api_name": "ACV_EVENT_11",
+   "internal_key": 267
+  },
+  {
+   "name": "Instrument of Change",
+   "desc": "Witnessed the dawn of a new crystal legend.",
+   "hidden": false,
+   "pct": 17.1,
+   "api_name": "ACV_EVENT_12",
+   "internal_key": 268
+  },
+  {
+   "name": "Pulsian Pioneer",
+   "desc": "Took over 10,000 steps on the lowerworld surface.",
+   "hidden": false,
+   "pct": 14.2,
+   "api_name": "ACV_FIELD_00",
+   "internal_key": 269
+  },
+  {
+   "name": "Gysahl Wreath",
+   "desc": "Discovered buried treasure with a little help from a chocobo.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "ACV_FIELD_02",
+   "internal_key": 270
+  },
+  {
+   "name": "Kelger's Cup",
+   "desc": "Completed all low-level Cie'th Stone missions.",
+   "hidden": false,
+   "pct": 19.5,
+   "api_name": "ACV_FIELD_03",
+   "internal_key": 271
+  },
+  {
+   "name": "Xezat's Chalice",
+   "desc": "Completed all mid-level Cie'th Stone missions.",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "ACV_FIELD_04",
+   "internal_key": 272
+  },
+  {
+   "name": "Exorcist",
+   "desc": "Triumphed over undying lowerworld souls in seven fierce battles.",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "ACV_FIELD_05",
+   "internal_key": 273
+  },
+  {
+   "name": "Floraphobe",
+   "desc": "Toppled a green terror and cut an oversized succulent down to size.",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "ACV_FIELD_06",
+   "internal_key": 274
+  },
+  {
+   "name": "Natural Selector",
+   "desc": "Passed Titan's trials.",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "ACV_FIELD_07",
+   "internal_key": 275
+  },
+  {
+   "name": "Dorgann's Trophy",
+   "desc": "Completed all high-level Cie'th Stone missions.",
+   "hidden": false,
+   "pct": 4.1,
+   "api_name": "ACV_FIELD_08",
+   "internal_key": 276
+  },
+  {
+   "name": "Galuf's Grail",
+   "desc": "Completed all Cie'th Stone missions.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "ACV_FIELD_09",
+   "internal_key": 277
+  },
+  {
+   "name": "L'Cie Paragon",
+   "desc": "Earned a 5-star rating for all Cie'th Stone missions.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "ACV_FIELD_10",
+   "internal_key": 278
+  },
+  {
+   "name": "Commando's Seal",
+   "desc": "Mastered the Commando role.",
+   "hidden": false,
+   "pct": 8.1,
+   "api_name": "ACV_BATTLE_00",
+   "internal_key": 279
+  },
+  {
+   "name": "Ravager's Seal",
+   "desc": "Mastered the Ravager role.",
+   "hidden": false,
+   "pct": 7.9,
+   "api_name": "ACV_BATTLE_01",
+   "internal_key": 280
+  },
+  {
+   "name": "Sentinel's Seal",
+   "desc": "Mastered the Sentinel role.",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "ACV_BATTLE_02",
+   "internal_key": 281
+  },
+  {
+   "name": "Saboteur's Seal",
+   "desc": "Mastered the Saboteur role.",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "ACV_BATTLE_03",
+   "internal_key": 282
+  },
+  {
+   "name": "Synergist's Seal",
+   "desc": "Mastered the Synergist role.",
+   "hidden": false,
+   "pct": 7.4,
+   "api_name": "ACV_BATTLE_04",
+   "internal_key": 283
+  },
+  {
+   "name": "Medic's Seal",
+   "desc": "Mastered the Medic role.",
+   "hidden": false,
+   "pct": 7.2,
+   "api_name": "ACV_BATTLE_05",
+   "internal_key": 284
+  },
+  {
+   "name": "Limit Breaker",
+   "desc": "Dealt 100,000+ damage with a single attack.",
+   "hidden": false,
+   "pct": 10.2,
+   "api_name": "ACV_BATTLE_06",
+   "internal_key": 285
+  },
+  {
+   "name": "Adamant Will",
+   "desc": "Felled a heavyweight of the lowerworld wilds.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "ACV_BATTLE_07",
+   "internal_key": 286
+  },
+  {
+   "name": "Master's Seal",
+   "desc": "Fully developed all characters.",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "ACV_BATTLE_08",
+   "internal_key": 287
+  },
+  {
+   "name": "Treasure Hunter",
+   "desc": "Held every weapon and accessory.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "ACV_BATTLE_09",
+   "internal_key": 512
+  },
+  {
+   "name": "Loremaster",
+   "desc": "Discerned the full attributes of 100 enemies.",
+   "hidden": false,
+   "pct": 28.4,
+   "api_name": "ACV_BATTLE_10",
+   "internal_key": 513
+  },
+  {
+   "name": "Superstar",
+   "desc": "Earned a 5-star rating in the battle to determine the world's fate.",
+   "hidden": false,
+   "pct": 8.1,
+   "api_name": "ACV_BATTLE_11",
+   "internal_key": 514
+  }
+ ]
+}

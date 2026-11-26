@@ -1,0 +1,792 @@
+{
+ "appid": 916440,
+ "game": "Anno 1800",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 112,
+ "achievements": [
+  {
+   "api": "1",
+   "name": "A Ticket Home",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.9
+  },
+  {
+   "api": "14",
+   "name": "City Planner",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.1
+  },
+  {
+   "api": "33",
+   "name": "Gold Digger",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.1
+  },
+  {
+   "api": "2",
+   "name": "Nosey Parker",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.2
+  },
+  {
+   "api": "202",
+   "name": "DLC: Living it Large",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.2
+  },
+  {
+   "api": "39",
+   "name": "Winter Is Coming",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.9
+  },
+  {
+   "api": "4",
+   "name": "Back in Business",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.0
+  },
+  {
+   "api": "48",
+   "name": "Fake News",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.7
+  },
+  {
+   "api": "6",
+   "name": "Isabel Found",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.4
+  },
+  {
+   "api": "51",
+   "name": "Choo Choo!",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.4
+  },
+  {
+   "api": "17",
+   "name": "Climate Change Denier",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.0
+  },
+  {
+   "api": "140",
+   "name": "DLC: Long Term Grains",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.6
+  },
+  {
+   "api": "5",
+   "name": "Dutiful Child",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.9
+  },
+  {
+   "api": "16",
+   "name": "Full Steam Ahead!",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.2
+  },
+  {
+   "api": "63",
+   "name": "What's That Smell?",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.5
+  },
+  {
+   "api": "7",
+   "name": "Special Operations",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.2
+  },
+  {
+   "api": "86",
+   "name": "Leviathan",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.9
+  },
+  {
+   "api": "8",
+   "name": "The Truth Uncovered",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.4
+  },
+  {
+   "api": "18",
+   "name": "Isambard's Kingdom",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.4
+  },
+  {
+   "api": "41",
+   "name": "On a Knife Edge",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.9
+  },
+  {
+   "api": "3",
+   "name": "Discreet",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.7
+  },
+  {
+   "api": "111",
+   "name": "DLC: Sounds Familiar",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.4
+  },
+  {
+   "api": "11",
+   "name": "For Company,...",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.2
+  },
+  {
+   "api": "211",
+   "name": "An Outpost in Paradise",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.4
+  },
+  {
+   "api": "100",
+   "name": "DLC: Into the Depths",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.0
+  },
+  {
+   "api": "171",
+   "name": "DLC: Devil of a Deal",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.0
+  },
+  {
+   "api": "76",
+   "name": "Besties",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.4
+  },
+  {
+   "api": "20",
+   "name": "The Great Eastern",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.6
+  },
+  {
+   "api": "35",
+   "name": "No Business like Ship Business",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.2
+  },
+  {
+   "api": "28",
+   "name": "Great Exhibitionist",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.9
+  },
+  {
+   "api": "77",
+   "name": "Bankster",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.9
+  },
+  {
+   "api": "210",
+   "name": "Brain Gain",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.5
+  },
+  {
+   "api": "204",
+   "name": "DLC: Touch the Sky",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.2
+  },
+  {
+   "api": "182",
+   "name": "DLC: Experimental Chef",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.5
+  },
+  {
+   "api": "130",
+   "name": "DLC: All Under Control",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.4
+  },
+  {
+   "api": "172",
+   "name": "DLC: For the Long Haul",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.2
+  },
+  {
+   "api": "203",
+   "name": "DLC: Fully Operational",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.1
+  },
+  {
+   "api": "22",
+   "name": "Party Like It's 1851",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.5
+  },
+  {
+   "api": "181",
+   "name": "DLC: By the Busload",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.3
+  },
+  {
+   "api": "183",
+   "name": "DLC: Busman's Holiday",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.2
+  },
+  {
+   "api": "201",
+   "name": "DLC: Great Estate",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.2
+  },
+  {
+   "api": "212",
+   "name": "Powered Up",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.9
+  },
+  {
+   "api": "161",
+   "name": "DLC: Monumental Knowledge",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.8
+  },
+  {
+   "api": "191",
+   "name": "DLC: Going Up!",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.8
+  },
+  {
+   "api": "110",
+   "name": "DLC: Coming Up Roses",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.7
+  },
+  {
+   "api": "112",
+   "name": "DLC: City in Bloom",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.5
+  },
+  {
+   "api": "120",
+   "name": "DLC: The Lost Expedition",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.0
+  },
+  {
+   "api": "214",
+   "name": "Busy As A Beaver",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.8
+  },
+  {
+   "api": "134",
+   "name": "DLC: Megopalace",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.7
+  },
+  {
+   "api": "101",
+   "name": "DLC: The Queen's Favour",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.4
+  },
+  {
+   "api": "186",
+   "name": "DLC: La Dame De Fer",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.4
+  },
+  {
+   "api": "174",
+   "name": "DLC: The Voiceless City",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.2
+  },
+  {
+   "api": "195",
+   "name": "DLC: 360° Panorama!",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.2
+  },
+  {
+   "api": "173",
+   "name": "DLC: The Actual Art of the Deal",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.1
+  },
+  {
+   "api": "103",
+   "name": "DLC: The Glamorous Life",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.0
+  },
+  {
+   "api": "141",
+   "name": "DLC: Traction Control",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.0
+  },
+  {
+   "api": "198",
+   "name": "DLC: Muck Spreader",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.0
+  },
+  {
+   "api": "78",
+   "name": "Thank you, Mr. Scrooge.",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "87",
+   "name": "DLC: Spread Anarchy",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "133",
+   "name": "DLC: Prime Minister",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "176",
+   "name": "DLC: Flooding the Market",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "197",
+   "name": "DLC: El Gran Hacendado",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "10",
+   "name": "Supply Chain Management",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.7
+  },
+  {
+   "api": "72",
+   "name": "One for all, all for one.",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  },
+  {
+   "api": "213",
+   "name": "Committed To Your Goals",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  },
+  {
+   "api": "205",
+   "name": "DLC: Profits Rising",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.3
+  },
+  {
+   "api": "12",
+   "name": "...Queen,...",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.2
+  },
+  {
+   "api": "83",
+   "name": "Chartered Company",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.1
+  },
+  {
+   "api": "193",
+   "name": "DLC: Reach for the Stars – Almost!",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.0
+  },
+  {
+   "api": "184",
+   "name": "DLC: All Inclusive",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.9
+  },
+  {
+   "api": "104",
+   "name": "DLC: Seriously Invested",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.7
+  },
+  {
+   "api": "165",
+   "name": "DLC: Conciliator",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.6
+  },
+  {
+   "api": "194",
+   "name": "DLC: Better Safe Than Sorry",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.5
+  },
+  {
+   "api": "9",
+   "name": "Fire and Rescue",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.4
+  },
+  {
+   "api": "121",
+   "name": "DLC: Stick Together",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.4
+  },
+  {
+   "api": "122",
+   "name": "DLC: Arcticologist",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.4
+  },
+  {
+   "api": "166",
+   "name": "DLC: The Wilde Ones",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.4
+  },
+  {
+   "api": "105",
+   "name": "DLC: Importer",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.3
+  },
+  {
+   "api": "113",
+   "name": "DLC: Encyclopaedia Botanica",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.2
+  },
+  {
+   "api": "90",
+   "name": "DLC: No God, No Master",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.1
+  },
+  {
+   "api": "131",
+   "name": "DLC: Cultural Capitol",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.1
+  },
+  {
+   "api": "13",
+   "name": "...and Empire.",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.0
+  },
+  {
+   "api": "115",
+   "name": "DLC: Gardens of Babylon",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.0
+  },
+  {
+   "api": "123",
+   "name": "DLC: Fuel Imports",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.0
+  },
+  {
+   "api": "143",
+   "name": "DLC: Crop Rotator",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.0
+  },
+  {
+   "api": "163",
+   "name": "DLC: Major Discoverer",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.0
+  },
+  {
+   "api": "79",
+   "name": "World Peace",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.9
+  },
+  {
+   "api": "102",
+   "name": "DLC: An Ocean of Knowledge",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.9
+  },
+  {
+   "api": "164",
+   "name": "DLC: Stir Crazy",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.9
+  },
+  {
+   "api": "196",
+   "name": "DLC: Tower Of Power",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.9
+  },
+  {
+   "api": "144",
+   "name": "DLC: As Far as the Eye Can See",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.8
+  },
+  {
+   "api": "185",
+   "name": "DLC: Memento Mori",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.8
+  },
+  {
+   "api": "192",
+   "name": "DLC: It's Black Friday!",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.8
+  },
+  {
+   "api": "199",
+   "name": "DLC: Earthly Delights",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.8
+  },
+  {
+   "api": "91",
+   "name": "DLC: Anarchy is Dead",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.7
+  },
+  {
+   "api": "124",
+   "name": "DLC: Environmental Campaigner",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.7
+  },
+  {
+   "api": "162",
+   "name": "DLC: Goatberg Variations",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.7
+  },
+  {
+   "api": "207",
+   "name": "DLC: Make it Rain",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.7
+  },
+  {
+   "api": "89",
+   "name": "DLC: Syndicalism",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.6
+  },
+  {
+   "api": "175",
+   "name": "DLC: Snagging the Market",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.6
+  },
+  {
+   "api": "50",
+   "name": "Annoholic",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.5
+  },
+  {
+   "api": "88",
+   "name": "DLC: Propaganda of the Deed",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.5
+  },
+  {
+   "api": "132",
+   "name": "DLC: Apparatus of State",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.5
+  },
+  {
+   "api": "142",
+   "name": "DLC: Flawless Defence",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.5
+  },
+  {
+   "api": "145",
+   "name": "DLC: Fuel Efficient",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.5
+  },
+  {
+   "api": "215",
+   "name": "State of the Art",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.5
+  },
+  {
+   "api": "92",
+   "name": "DLC: The Better Anarchist",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.4
+  },
+  {
+   "api": "114",
+   "name": "DLC: Perambulator",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.4
+  },
+  {
+   "api": "125",
+   "name": "DLC: Aero Tycoon",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.4
+  },
+  {
+   "api": "206",
+   "name": "DLC: Si Vis Pacem, Para Bellum",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.4
+  },
+  {
+   "api": "200",
+   "name": "DLC: Lawgiver",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.3
+  },
+  {
+   "api": "209",
+   "name": "DLC: Aerial Armada",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.3
+  }
+ ]
+}

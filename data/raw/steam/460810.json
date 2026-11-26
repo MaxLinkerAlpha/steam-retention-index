@@ -1,0 +1,358 @@
+{
+ "appid": 460810,
+ "game": "Vanquish",
+ "snapshot": "2026-11-24 17:47 +08",
+ "count": 50,
+ "achievements": [
+  {
+   "api": "ACHIEVEMENT_20",
+   "name": "Helloooo, Nurse",
+   "desc": "Revive a friendly troop.",
+   "hidden": false,
+   "pct": 77.9
+  },
+  {
+   "api": "ACHIEVEMENT_16",
+   "name": "Fight or Flight",
+   "desc": "Manually trigger AR Mode and destroy an enemy robot.",
+   "hidden": false,
+   "pct": 70.4
+  },
+  {
+   "api": "ACHIEVEMENT_24",
+   "name": "Home Run",
+   "desc": "Destroy an incoming missile or grenade.",
+   "hidden": false,
+   "pct": 70.0
+  },
+  {
+   "api": "ACHIEVEMENT_01",
+   "name": "One Day at DARPA",
+   "desc": "Complete all DARPA training exercises.",
+   "hidden": false,
+   "pct": 67.6
+  },
+  {
+   "api": "ACHIEVEMENT_25",
+   "name": "Home Run God",
+   "desc": "Destroy ten incoming missiles or grenades.",
+   "hidden": false,
+   "pct": 58.0
+  },
+  {
+   "api": "ACHIEVEMENT_29",
+   "name": "Robots Tend to Blow Up",
+   "desc": "Destroy three enemy robots at once with one hand grenade.",
+   "hidden": false,
+   "pct": 53.9
+  },
+  {
+   "api": "ACHIEVEMENT_02",
+   "name": "Space Normandy",
+   "desc": "Complete Act 1.",
+   "hidden": false,
+   "pct": 47.6
+  },
+  {
+   "api": "ACHIEVEMENT_14",
+   "name": "Gun Runner",
+   "desc": "Scan and acquire all weapons.",
+   "hidden": false,
+   "pct": 45.6
+  },
+  {
+   "api": "ACHIEVEMENT_22",
+   "name": "Death Wish",
+   "desc": "Destroy three enemy robots while in damage-triggered AR Mode.",
+   "hidden": false,
+   "pct": 44.8
+  },
+  {
+   "api": "ACHIEVEMENT_36",
+   "name": "That Ended Up Working Out Nicely",
+   "desc": "After taking control of the enemy transport in Act 2-2, do not let a single enemy escape.",
+   "hidden": false,
+   "pct": 41.4
+  },
+  {
+   "api": "ACHIEVEMENT_03",
+   "name": "Storming Grand Hill",
+   "desc": "Complete Act 2.",
+   "hidden": false,
+   "pct": 36.0
+  },
+  {
+   "api": "ACHIEVEMENT_17",
+   "name": "Adrenaline Rush",
+   "desc": "Manually trigger AR Mode and destroy three enemy robots in a row.",
+   "hidden": false,
+   "pct": 32.7
+  },
+  {
+   "api": "ACHIEVEMENT_21",
+   "name": "Knight in Shining White Armor",
+   "desc": "Revive 20 friendly troops.",
+   "hidden": false,
+   "pct": 32.2
+  },
+  {
+   "api": "ACHIEVEMENT_31",
+   "name": "Short Circuit",
+   "desc": "Destroy ten enemy robots that have been disabled with an EMP emitter.",
+   "hidden": false,
+   "pct": 30.1
+  },
+  {
+   "api": "ACHIEVEMENT_04",
+   "name": "I Don't Speak Kreon!",
+   "desc": "Complete Act 3.",
+   "hidden": false,
+   "pct": 30.0
+  },
+  {
+   "api": "ACHIEVEMENT_18",
+   "name": "Going in for the Kill",
+   "desc": "Destroy ten enemy robots with melee attacks.",
+   "hidden": false,
+   "pct": 30.0
+  },
+  {
+   "api": "ACHIEVEMENT_33",
+   "name": "Trick Shot",
+   "desc": "Destroy three enemy robots at once with rocket launcher splash damage.",
+   "hidden": false,
+   "pct": 29.5
+  },
+  {
+   "api": "ACHIEVEMENT_15",
+   "name": "King of the Hill",
+   "desc": "Level a weapon up to maximum operational capability.",
+   "hidden": false,
+   "pct": 28.1
+  },
+  {
+   "api": "ACHIEVEMENT_05",
+   "name": "My Way",
+   "desc": "Complete Act 4.",
+   "hidden": false,
+   "pct": 27.1
+  },
+  {
+   "api": "ACHIEVEMENT_06",
+   "name": "End to Major Combat Operations",
+   "desc": "Complete Act 5.",
+   "hidden": false,
+   "pct": 26.0
+  },
+  {
+   "api": "ACHIEVEMENT_32",
+   "name": "Two Birds with One Stone",
+   "desc": "Destroy two or more enemy robots at once with the LFE gun.",
+   "hidden": false,
+   "pct": 24.8
+  },
+  {
+   "api": "ACHIEVEMENT_07",
+   "name": "Survivor",
+   "desc": "Complete all Acts.",
+   "hidden": false,
+   "pct": 23.3
+  },
+  {
+   "api": "ACHIEVEMENT_27",
+   "name": "Romanov This!",
+   "desc": "Destroy a Romanov with a melee attack.",
+   "hidden": false,
+   "pct": 23.3
+  },
+  {
+   "api": "ACHIEVEMENT_23",
+   "name": "40 Yard Dash",
+   "desc": "Maintain a Boost dash to the limit of the ARS reactor without overheating.",
+   "hidden": false,
+   "pct": 19.6
+  },
+  {
+   "api": "ACHIEVEMENT_35",
+   "name": "Piece by Piece",
+   "desc": "Destroy the arms, head, and back of an KNRB-0 Argus robot.",
+   "hidden": false,
+   "pct": 16.3
+  },
+  {
+   "api": "ACHIEVEMENT_40",
+   "name": "Fisher is the Other Sam",
+   "desc": "Proceed on the monorail in Act 3-4 without being spotted by the enemy troops or searchlights.",
+   "hidden": false,
+   "pct": 11.8
+  },
+  {
+   "api": "ACHIEVEMENT_30",
+   "name": "Hole-in-One",
+   "desc": "Destroy a Chicane with a hand grenade.",
+   "hidden": false,
+   "pct": 10.9
+  },
+  {
+   "api": "ACHIEVEMENT_43",
+   "name": "Hurry the #@$% Up!",
+   "desc": "Destroy five or more enemy transports from atop the Kreon in Act 3-7.",
+   "hidden": false,
+   "pct": 10.1
+  },
+  {
+   "api": "ACHIEVEMENT_42",
+   "name": "Guardian",
+   "desc": "Do not allow any friendly armor to be destroyed during Act 3-5.",
+   "hidden": false,
+   "pct": 9.2
+  },
+  {
+   "api": "ACHIEVEMENT_08",
+   "name": "Operation Overlord II",
+   "desc": "Complete Act 1 on Hard difficulty or above.",
+   "hidden": false,
+   "pct": 8.6
+  },
+  {
+   "api": "ACHIEVEMENT_26",
+   "name": "Brutality Bonus",
+   "desc": "Destroy a Romanov's arms and legs, then finish it with a melee attack.",
+   "hidden": false,
+   "pct": 8.4
+  },
+  {
+   "api": "ACHIEVEMENT_09",
+   "name": "Ain't Life Grand?",
+   "desc": "Complete Act 2 on Hard difficulty or above.",
+   "hidden": false,
+   "pct": 6.8
+  },
+  {
+   "api": "ACHIEVEMENT_47",
+   "name": "Auld Lang Syne",
+   "desc": "Destroy two enemy robots who have been distracted by a cigarette.",
+   "hidden": false,
+   "pct": 6.5
+  },
+  {
+   "api": "ACHIEVEMENT_10",
+   "name": "Cry on, Kreon!",
+   "desc": "Complete Act 3 on Hard difficulty or above.",
+   "hidden": false,
+   "pct": 5.8
+  },
+  {
+   "api": "ACHIEVEMENT_11",
+   "name": "The High Way",
+   "desc": "Complete Act 4 on Hard difficulty or above.",
+   "hidden": false,
+   "pct": 5.3
+  },
+  {
+   "api": "ACHIEVEMENT_12",
+   "name": "Mission Accomplished",
+   "desc": "Complete Act 5 on Hard difficulty or above.",
+   "hidden": false,
+   "pct": 5.0
+  },
+  {
+   "api": "ACHIEVEMENT_13",
+   "name": "ARS Operator",
+   "desc": "Complete all Acts on Hard difficulty or above.",
+   "hidden": false,
+   "pct": 4.6
+  },
+  {
+   "api": "ACHIEVEMENT_34",
+   "name": "Flash! King of the Impossible",
+   "desc": "Destroy four enemies simultaneously with the Lock-on Laser.",
+   "hidden": false,
+   "pct": 4.6
+  },
+  {
+   "api": "ACHIEVEMENT_37",
+   "name": "Failure Breeds Success",
+   "desc": "Destroy two Argus robots in Act 2-3 while they are in bipedal mode.",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "ACHIEVEMENT_45",
+   "name": "Buzzard Beater",
+   "desc": "Destroy the Buzzard without allowing it to reach ground level in Act 5-1.",
+   "hidden": false,
+   "pct": 3.0
+  },
+  {
+   "api": "ACHIEVEMENT_38",
+   "name": "Leibniz Defense Agency",
+   "desc": "Defend the Pangloss statue in Act 3-2.",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "ACHIEVEMENT_44",
+   "name": "Civil Disobedience",
+   "desc": "Ignore the elevator start order in Act 4-1. Instead, hold position and destroy all reinforcements.",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "ACHIEVEMENT_41",
+   "name": "Flyswatter",
+   "desc": "Destroy all the floating turrets in Act 3-4.",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "ACHIEVEMENT_39",
+   "name": "Tightrope Walker",
+   "desc": "Destroy two cannons in Act 3-3 and complete the mission.",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "ACHIEVEMENT_19",
+   "name": "A Heartbreaker and Lifetaker",
+   "desc": "Destroy 100 enemy robots with melee attacks.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "ACHIEVEMENT_50",
+   "name": "Living Legend",
+   "desc": "Complete the game without dying, regardless of difficulty level.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "ACHIEVEMENT_28",
+   "name": "The Hand of God",
+   "desc": "Destroy two Romanovs in a row using only melee attacks.",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "ACHIEVEMENT_46",
+   "name": "Smoke 'em if ya got 'em!",
+   "desc": "Destroy 10 enemies distracted by cigarettes during one mission.",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "ACHIEVEMENT_48",
+   "name": "The Best of All Possible Worlds",
+   "desc": "Find and fire upon all of the Pangloss statues hidden on the colony.",
+   "hidden": false,
+   "pct": 1.3
+  },
+  {
+   "api": "ACHIEVEMENT_49",
+   "name": "Tactical Challenger",
+   "desc": "Complete all of the Tactical Challenges in VANQUISH.",
+   "hidden": false,
+   "pct": 1.2
+  }
+ ]
+}

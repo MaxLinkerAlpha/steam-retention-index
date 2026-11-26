@@ -1,0 +1,257 @@
+{
+ "appid": 753640,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 31,
+ "achievements": [
+  {
+   "name": "You've met a terrible fate.",
+   "desc": "No going back.",
+   "hidden": true,
+   "pct": 11.3,
+   "api_name": "TERRIBLE_FATE",
+   "internal_key": 257
+  },
+  {
+   "name": "Hey, what's this button do?",
+   "desc": "Press the ejection button in the ship.",
+   "hidden": true,
+   "pct": 13.6,
+   "api_name": "WHATS_THIS_BUTTON",
+   "internal_key": 258
+  },
+  {
+   "name": "Hotshot",
+   "desc": "Manually fly to the Sun Station.",
+   "hidden": true,
+   "pct": 5.0,
+   "api_name": "ALPHA_PILOT",
+   "internal_key": 259
+  },
+  {
+   "name": "It was worth a shot.",
+   "desc": "You tried to escape the solar system.",
+   "hidden": true,
+   "pct": 5.7,
+   "api_name": "YOU_TRIED",
+   "internal_key": 260
+  },
+  {
+   "name": "Beginner's Luck",
+   "desc": "Reach the Eye of the Universe in one loop.",
+   "hidden": true,
+   "pct": 2.8,
+   "api_name": "BEGINNERS_LUCK",
+   "internal_key": 261
+  },
+  {
+   "name": "Rigidbody",
+   "desc": "De-orbit the Hearthian satellite.",
+   "hidden": true,
+   "pct": 10.4,
+   "api_name": "RIGIDBODY",
+   "internal_key": 262
+  },
+  {
+   "name": "From the Hearth to the Moon",
+   "desc": "Land the model rocket on Attlerock.",
+   "hidden": false,
+   "pct": 8.2,
+   "api_name": "HEARTH_TO_MOON",
+   "internal_key": 263
+  },
+  {
+   "name": "Deep Impact",
+   "desc": "Enter Giant's Deep ocean fast enough to break through the current.",
+   "hidden": true,
+   "pct": 4.7,
+   "api_name": "DEEP_IMPACT",
+   "internal_key": 264
+  },
+  {
+   "name": "Harmonic Convergence",
+   "desc": "Pick up all traveler instruments simultaneously with your signalscope.",
+   "hidden": false,
+   "pct": 30.1,
+   "api_name": "HARMONIC_CONVERGENCE",
+   "internal_key": 266
+  },
+  {
+   "name": "It belongs in a museum!",
+   "desc": "Bring an artifact back to the museum.",
+   "hidden": true,
+   "pct": 4.8,
+   "api_name": "MUSEUM",
+   "internal_key": 267
+  },
+  {
+   "name": "Die Hard",
+   "desc": "End a time loop (Alive) after having taken (and healed) over 1000 damage.",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "DIEHARD",
+   "internal_key": 268
+  },
+  {
+   "name": "Pchooooooo!",
+   "desc": "Launch your ship with a gravity cannon.",
+   "hidden": false,
+   "pct": 17.2,
+   "api_name": "PCHOOOOOOO",
+   "internal_key": 271
+  },
+  {
+   "name": "Gone In 60 Seconds",
+   "desc": "Die within 60 seconds of waking up.",
+   "hidden": false,
+   "pct": 34.7,
+   "api_name": "GONE_IN_60_SECONDS",
+   "internal_key": 272
+  },
+  {
+   "name": "Mmmm, Carcinogens...",
+   "desc": "Eat 10 burnt marshmallows.",
+   "hidden": true,
+   "pct": 15.8,
+   "api_name": "CARCINOGENS",
+   "internal_key": 273
+  },
+  {
+   "name": "Cutting it Close",
+   "desc": "Use your suit's oxygen in an ill-advised manner.",
+   "hidden": false,
+   "pct": 33.3,
+   "api_name": "CUTTING_IT_CLOSE",
+   "internal_key": 274
+  },
+  {
+   "name": "Mica's Wrath",
+   "desc": "Destroy the Model Rocket by flying into the sun or Hollow's Lantern.",
+   "hidden": true,
+   "pct": 5.6,
+   "api_name": "MICAS_WRATH",
+   "internal_key": 275
+  },
+  {
+   "name": "Archaeologist",
+   "desc": "Complete the ship log.",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "STUDIOUS",
+   "internal_key": 277
+  },
+  {
+   "name": "Around the world in 90 seconds",
+   "desc": "Raft around the Stranger in under 90 seconds.",
+   "hidden": true,
+   "pct": 10.0,
+   "api_name": "ACHIEVEMENT_1",
+   "internal_key": 278
+  },
+  {
+   "name": "The Silenced Cartographer",
+   "desc": "Render the Deep Space Satellite inoperable.",
+   "hidden": true,
+   "pct": 86.1,
+   "api_name": "ACHIEVEMENT_2",
+   "internal_key": 279
+  },
+  {
+   "name": "Tubular!",
+   "desc": "Ride the face of the wave for at least 15 seconds on a raft.",
+   "hidden": true,
+   "pct": 7.9,
+   "api_name": "ACHIEVEMENT_3",
+   "internal_key": 280
+  },
+  {
+   "name": "Early Adopter",
+   "desc": "Attempt to use the second artifact prototype. Curiosity killed the cat, but a time loop brought it back.",
+   "hidden": true,
+   "pct": 24.4,
+   "api_name": "ACHIEVEMENT_4",
+   "internal_key": 281
+  },
+  {
+   "name": "The Grate Filter",
+   "desc": "Swim through the dam grate. Not everyone makes it!",
+   "hidden": true,
+   "pct": 17.9,
+   "api_name": "ACHIEVEMENT_5",
+   "internal_key": 282
+  },
+  {
+   "name": "Flat Hearther",
+   "desc": "Stand your ground beneath a moving chain elevator. ",
+   "hidden": true,
+   "pct": 19.1,
+   "api_name": "ACHIEVEMENT_6",
+   "internal_key": 283
+  },
+  {
+   "name": "Celsius 232.78",
+   "desc": "This knowledge isn't going to forbid itself!",
+   "hidden": true,
+   "pct": 15.1,
+   "api_name": "ACHIEVEMENT_7",
+   "internal_key": 284
+  },
+  {
+   "name": "Ghosts in the Machine",
+   "desc": "Reach all 3 Forbidden Archives in a single loop without getting caught.",
+   "hidden": true,
+   "pct": 9.4,
+   "api_name": "ACHIEVEMENT_8",
+   "internal_key": 285
+  },
+  {
+   "name": "Sleep. Wake. Repeat.",
+   "desc": "Be woken up from a dream 5 different ways in a single loop.",
+   "hidden": true,
+   "pct": 10.9,
+   "api_name": "ACHIEVEMENT_9",
+   "internal_key": 286
+  },
+  {
+   "name": "Simulation Hypothesis",
+   "desc": "Attempt to use the artifact at a normal campfire. Well, that settles that!",
+   "hidden": true,
+   "pct": 16.6,
+   "api_name": "ACHIEVEMENT_10",
+   "internal_key": 287
+  },
+  {
+   "name": "Fire Arrows",
+   "desc": "Shoot the Little Scout at the artificial sun in the Stranger.",
+   "hidden": true,
+   "pct": 17.0,
+   "api_name": "ACHIEVEMENT_11",
+   "internal_key": 512
+  },
+  {
+   "name": "1 / 900",
+   "desc": "Yahaha! You found me!",
+   "hidden": true,
+   "pct": 11.3,
+   "api_name": "ACHIEVEMENT_12",
+   "internal_key": 513
+  },
+  {
+   "name": "You'll Never Take Me Alive!",
+   "desc": "Escape your pursuers by jumping to your \"death\" instead of dodging past them.",
+   "hidden": true,
+   "pct": 12.1,
+   "api_name": "ACHIEVEMENT_13",
+   "internal_key": 514
+  },
+  {
+   "name": "Oof Ouch, My Bones",
+   "desc": "Have your spine adjusted by a pursuer.",
+   "hidden": true,
+   "pct": 38.6,
+   "api_name": "ACHIEVEMENT_14",
+   "internal_key": 515
+  }
+ ]
+}

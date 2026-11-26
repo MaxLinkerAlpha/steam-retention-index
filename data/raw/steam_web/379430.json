@@ -1,0 +1,665 @@
+{
+ "appid": 379430,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 82,
+ "achievements": [
+  {
+   "name": "Alcoholic",
+   "desc": "Become addicted to alcohol.",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "Alcoholic",
+   "internal_key": 257
+  },
+  {
+   "name": "Insomniac",
+   "desc": "Don't sleep for two days and nights.",
+   "hidden": false,
+   "pct": 28.5,
+   "api_name": "Insomniac",
+   "internal_key": 258
+  },
+  {
+   "name": "Fatso",
+   "desc": "Be stuffed to bursting for two days.",
+   "hidden": false,
+   "pct": 44.2,
+   "api_name": "Fatso",
+   "internal_key": 259
+  },
+  {
+   "name": "Anorectic",
+   "desc": "Starve for three days.",
+   "hidden": false,
+   "pct": 30.4,
+   "api_name": "Anorectic",
+   "internal_key": 260
+  },
+  {
+   "name": "Bookworm",
+   "desc": "Read twenty books.",
+   "hidden": false,
+   "pct": 29.7,
+   "api_name": "Bookworm",
+   "internal_key": 261
+  },
+  {
+   "name": "Edward Kelly",
+   "desc": "Brew fifteen types of potion",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "EdwardKelly",
+   "internal_key": 262
+  },
+  {
+   "name": "Stealth Killer",
+   "desc": "Kill twenty enemies by stealth",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "StealthKiller",
+   "internal_key": 263
+  },
+  {
+   "name": "Hunter",
+   "desc": "Bag fifty game animals.",
+   "hidden": false,
+   "pct": 9.6,
+   "api_name": "Hunter",
+   "internal_key": 264
+  },
+  {
+   "name": "Bard",
+   "desc": "Level up Speech to maximum.",
+   "hidden": false,
+   "pct": 13.8,
+   "api_name": "Bard",
+   "internal_key": 265
+  },
+  {
+   "name": "King Charming",
+   "desc": "Be popular in every town and village.",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "KarelGott",
+   "internal_key": 266
+  },
+  {
+   "name": "Completionist",
+   "desc": "Complete all quests.",
+   "hidden": false,
+   "pct": 7.2,
+   "api_name": "Completionist",
+   "internal_key": 267
+  },
+  {
+   "name": "Merciful",
+   "desc": "Don't kill anyone during main quest line (except Runt).",
+   "hidden": true,
+   "pct": 0.9,
+   "api_name": "Merciful",
+   "internal_key": 268
+  },
+  {
+   "name": "Serial Killer",
+   "desc": "Kill 200 people.",
+   "hidden": false,
+   "pct": 14.0,
+   "api_name": "SerialKiller",
+   "internal_key": 269
+  },
+  {
+   "name": "Traveller",
+   "desc": "Discover all locations on the map.",
+   "hidden": false,
+   "pct": 23.5,
+   "api_name": "Traveller",
+   "internal_key": 270
+  },
+  {
+   "name": "Knightrider",
+   "desc": "Win the Talmberg horse race.",
+   "hidden": false,
+   "pct": 10.8,
+   "api_name": "Knightrider",
+   "internal_key": 271
+  },
+  {
+   "name": "Ranger",
+   "desc": "Walk more than 50 Km.",
+   "hidden": false,
+   "pct": 37.2,
+   "api_name": "Ranger",
+   "internal_key": 272
+  },
+  {
+   "name": "Pilgrim",
+   "desc": "Find all wayside shrines and conciliatory crosses.",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "Pilgrim",
+   "internal_key": 273
+  },
+  {
+   "name": "Thief",
+   "desc": "Steal things with a total value of 30,000 Groschen.",
+   "hidden": false,
+   "pct": 24.4,
+   "api_name": "Thief",
+   "internal_key": 274
+  },
+  {
+   "name": "Level Cap",
+   "desc": "Reach maximum level.",
+   "hidden": false,
+   "pct": 8.9,
+   "api_name": "LevelCap",
+   "internal_key": 275
+  },
+  {
+   "name": "Fighter",
+   "desc": "Carry out 100 combos in combat.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "Fighter",
+   "internal_key": 276
+  },
+  {
+   "name": "Sniper",
+   "desc": "Kill 50 enemies with headshots. ",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "Sniper",
+   "internal_key": 277
+  },
+  {
+   "name": "Haggler",
+   "desc": "Save 2000 Groschen by haggling.",
+   "hidden": false,
+   "pct": 20.8,
+   "api_name": "Haggler",
+   "internal_key": 278
+  },
+  {
+   "name": "Scrooge",
+   "desc": "Hoard 5,000 Groschen.",
+   "hidden": false,
+   "pct": 40.2,
+   "api_name": "Scrooge",
+   "internal_key": 279
+  },
+  {
+   "name": "Convict",
+   "desc": "Spend three days in prison.",
+   "hidden": false,
+   "pct": 28.2,
+   "api_name": "Convict",
+   "internal_key": 280
+  },
+  {
+   "name": "David Horak",
+   "desc": "Collect 10,000 herbs.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "DavidHorak",
+   "internal_key": 281
+  },
+  {
+   "name": "Gambler",
+   "desc": "Win 1,000 Groschen in the dice minigame.",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "Gambler",
+   "internal_key": 282
+  },
+  {
+   "name": "Blacksmith's Son",
+   "desc": "Complete the first quest.",
+   "hidden": true,
+   "pct": 79.2,
+   "api_name": "BlacksmithsSon",
+   "internal_key": 283
+  },
+  {
+   "name": "Cavalier",
+   "desc": "Save Theresa from the Cumans.",
+   "hidden": true,
+   "pct": 62.5,
+   "api_name": "Cavalier",
+   "internal_key": 284
+  },
+  {
+   "name": "Awakening",
+   "desc": "Join Sir Radzig's garrison.",
+   "hidden": true,
+   "pct": 61.4,
+   "api_name": "Awakening",
+   "internal_key": 285
+  },
+  {
+   "name": "Buddy",
+   "desc": "Save Lord Capon from the Cumans.",
+   "hidden": true,
+   "pct": 51.5,
+   "api_name": "Buddy",
+   "internal_key": 286
+  },
+  {
+   "name": "Ginger",
+   "desc": "Save Ginger from the bandits.",
+   "hidden": true,
+   "pct": 14.3,
+   "api_name": "Ginger",
+   "internal_key": 287
+  },
+  {
+   "name": "Runt",
+   "desc": "Kill Runt.",
+   "hidden": true,
+   "pct": 36.8,
+   "api_name": "Runt",
+   "internal_key": 768
+  },
+  {
+   "name": "Monk",
+   "desc": "Become a monk.",
+   "hidden": true,
+   "pct": 24.1,
+   "api_name": "Monk",
+   "internal_key": 769
+  },
+  {
+   "name": "Bastard",
+   "desc": "Find out who your real father is.",
+   "hidden": true,
+   "pct": 21.9,
+   "api_name": "Bastard",
+   "internal_key": 770
+  },
+  {
+   "name": "Conqueror",
+   "desc": "Conquer the enemy camp in Vranik.",
+   "hidden": true,
+   "pct": 22.2,
+   "api_name": "Conqueror",
+   "internal_key": 771
+  },
+  {
+   "name": "Talmberger",
+   "desc": "Complete all Optional Objectives in Siege quest",
+   "hidden": true,
+   "pct": 11.7,
+   "api_name": "TalmbergPreparation",
+   "internal_key": 772
+  },
+  {
+   "name": "The End",
+   "desc": "Complete the main story line.",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "TheEnd",
+   "internal_key": 773
+  },
+  {
+   "name": "Firestarter",
+   "desc": "Get jailed in Skalitz.",
+   "hidden": true,
+   "pct": 19.9,
+   "api_name": "Firestarter",
+   "internal_key": 774
+  },
+  {
+   "name": "Sinner",
+   "desc": "Get drunk with Father Godwin.",
+   "hidden": true,
+   "pct": 38.8,
+   "api_name": "Sinner",
+   "internal_key": 775
+  },
+  {
+   "name": "Plague Doctor",
+   "desc": "Heal all the sick in Merhojed.",
+   "hidden": true,
+   "pct": 19.9,
+   "api_name": "PlagueDoctor",
+   "internal_key": 776
+  },
+  {
+   "name": "McLovin",
+   "desc": "Court Theresa.",
+   "hidden": true,
+   "pct": 29.4,
+   "api_name": "McLovin",
+   "internal_key": 777
+  },
+  {
+   "name": "Casanova",
+   "desc": "Court Lady Stephanie.",
+   "hidden": true,
+   "pct": 30.6,
+   "api_name": "Casanova",
+   "internal_key": 778
+  },
+  {
+   "name": "Judas",
+   "desc": "Betray your friends in the Gallows Brothers quest.",
+   "hidden": true,
+   "pct": 1.9,
+   "api_name": "Judas",
+   "internal_key": 779
+  },
+  {
+   "name": "Freud",
+   "desc": "Find out about Erik's past.",
+   "hidden": true,
+   "pct": 8.4,
+   "api_name": "Freud",
+   "internal_key": 780
+  },
+  {
+   "name": "Master Huntsman",
+   "desc": "Become the Talmberg Huntsman.",
+   "hidden": true,
+   "pct": 7.0,
+   "api_name": "MasterHuntsman",
+   "internal_key": 781
+  },
+  {
+   "name": "Robber Baron",
+   "desc": "Complete Robber Baron quest.",
+   "hidden": true,
+   "pct": 12.8,
+   "api_name": "RobberBaron",
+   "internal_key": 782
+  },
+  {
+   "name": "Spoilsport",
+   "desc": "Sabotage all three executions.",
+   "hidden": true,
+   "pct": 7.8,
+   "api_name": "EnoughRope",
+   "internal_key": 783
+  },
+  {
+   "name": "Bad Trip ",
+   "desc": "Dance with the Devil.",
+   "hidden": true,
+   "pct": 21.6,
+   "api_name": "BadTrip",
+   "internal_key": 784
+  },
+  {
+   "name": "Virgin",
+   "desc": "Stay celibate and complete the entire game as a virgin.",
+   "hidden": true,
+   "pct": 1.2,
+   "api_name": "Virgin",
+   "internal_key": 785
+  },
+  {
+   "name": "Hardcore Henry",
+   "desc": "Finish the game in Hardcore Mode.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "HardcoreHenry",
+   "internal_key": 786
+  },
+  {
+   "name": "'Tis but a scratch",
+   "desc": "Finish the game in Hardcore Mode with all negative perks.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "TisButAScratch",
+   "internal_key": 787
+  },
+  {
+   "name": "Kingdom Did Not Come",
+   "desc": "Die for the first time in Hardcore Mode.",
+   "hidden": true,
+   "pct": 6.9,
+   "api_name": "KingdomDidNotCome",
+   "internal_key": 788
+  },
+  {
+   "name": "Bailiff",
+   "desc": "Ensure the renewal of Pribyslavitz.",
+   "hidden": false,
+   "pct": 12.0,
+   "api_name": "Bailiff",
+   "internal_key": 789
+  },
+  {
+   "name": "Trial-and-Error",
+   "desc": "Renew the whole of Pribyslavitz without being able to read.",
+   "hidden": true,
+   "pct": 1.1,
+   "api_name": "TrialAndError",
+   "internal_key": 790
+  },
+  {
+   "name": "Perfectionist",
+   "desc": "Make 2,000 Groschen a day from Pribyslavitz.",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "Perfectionist",
+   "internal_key": 791
+  },
+  {
+   "name": "Friends without Benefits",
+   "desc": "Invite Fritz and Matthew to Pribyslavitz.",
+   "hidden": true,
+   "pct": 3.6,
+   "api_name": "FriendsWithoutBenefits",
+   "internal_key": 792
+  },
+  {
+   "name": "Arena Master",
+   "desc": "Get a complete set of armour from the Rattay tourney.",
+   "hidden": false,
+   "pct": 11.2,
+   "api_name": "MasterOfArena",
+   "internal_key": 793
+  },
+  {
+   "name": "True Friend",
+   "desc": "Capon will succeed, even though you sent him off with a nasty rash.",
+   "hidden": true,
+   "pct": 3.7,
+   "api_name": "TrueFriend",
+   "internal_key": 794
+  },
+  {
+   "name": "Wingman",
+   "desc": "Everything has to go according to Sir Hans' plan.",
+   "hidden": true,
+   "pct": 3.3,
+   "api_name": "Wingman",
+   "internal_key": 795
+  },
+  {
+   "name": "I Can Quit Anytime",
+   "desc": "Dice are most important, the rest will work itself out somehow.",
+   "hidden": true,
+   "pct": 7.8,
+   "api_name": "ICanStop",
+   "internal_key": 796
+  },
+  {
+   "name": "Lord Capon's Ghost",
+   "desc": "Get back Capon's necklace without permission from anyone.",
+   "hidden": true,
+   "pct": 3.4,
+   "api_name": "GhostOfCapon",
+   "internal_key": 797
+  },
+  {
+   "name": "Ledetchko Revenant",
+   "desc": "Think up even more ways to haunt the Ledetchko villagers than the charlatan told you.",
+   "hidden": true,
+   "pct": 2.1,
+   "api_name": "RevenantOfLedechko",
+   "internal_key": 798
+  },
+  {
+   "name": "Christian Burial",
+   "desc": "Ensure eternal salvation for the wretched charcoal-burner, Lev.",
+   "hidden": true,
+   "pct": 2.8,
+   "api_name": "ChristianBurial",
+   "internal_key": 799
+  },
+  {
+   "name": "Not-so-Christian Burial",
+   "desc": "Grant peaceful rest to the soul of the wretched charcoal-burner, Lev.",
+   "hidden": true,
+   "pct": 3.0,
+   "api_name": "NotSoChristianBurial",
+   "internal_key": 1024
+  },
+  {
+   "name": "Tracker",
+   "desc": "Track down the raiders who attacked the farm.",
+   "hidden": true,
+   "pct": 9.4,
+   "api_name": "Tracker",
+   "internal_key": 1025
+  },
+  {
+   "name": "Chivalrous Soul",
+   "desc": "Persuade Kuno to attack the mill right away.",
+   "hidden": true,
+   "pct": 11.6,
+   "api_name": "Chivalrous",
+   "internal_key": 1026
+  },
+  {
+   "name": "Pinky Promise",
+   "desc": "Keep your word at any cost.",
+   "hidden": true,
+   "pct": 2.6,
+   "api_name": "PinkyPromis",
+   "internal_key": 1027
+  },
+  {
+   "name": "Torturer",
+   "desc": "Leave Jakey to consider the error of his ways.",
+   "hidden": true,
+   "pct": 2.0,
+   "api_name": "Torture",
+   "internal_key": 1028
+  },
+  {
+   "name": "Mercenary's Honour",
+   "desc": "Arouse the mercenary's sense of honour.",
+   "hidden": true,
+   "pct": 9.6,
+   "api_name": "MercenarysHonor",
+   "internal_key": 1029
+  },
+  {
+   "name": "Game Over",
+   "desc": "The Ring of Bacchus made its way back to its original owner.",
+   "hidden": true,
+   "pct": 3.2,
+   "api_name": "GameIsOver",
+   "internal_key": 1030
+  },
+  {
+   "name": "Lost Trinket",
+   "desc": "You're not the only one playing the Ring of Bacchus game, so watch out for the others!",
+   "hidden": true,
+   "pct": 2.1,
+   "api_name": "LostTrinket",
+   "internal_key": 1031
+  },
+  {
+   "name": "Saviour",
+   "desc": "Rescue all the survivors.",
+   "hidden": true,
+   "pct": 11.3,
+   "api_name": "Saviour",
+   "internal_key": 1032
+  },
+  {
+   "name": "Death by Splinter",
+   "desc": "Cause Henry a mortal wound!",
+   "hidden": true,
+   "pct": 21.7,
+   "api_name": "DieByTheSplinter",
+   "internal_key": 1033
+  },
+  {
+   "name": "Woman's Lot",
+   "desc": "Complete Theresa's story.",
+   "hidden": false,
+   "pct": 18.1,
+   "api_name": "AWomansLot",
+   "internal_key": 1034
+  },
+  {
+   "name": "Bad Girl",
+   "desc": "Shirk your morning chores!",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "BadGirl",
+   "internal_key": 1035
+  },
+  {
+   "name": "Like a Ghost",
+   "desc": "Recover Pavel's treasure without being discovered.",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "LikeGhost",
+   "internal_key": 1036
+  },
+  {
+   "name": "You had one job!",
+   "desc": "Drink yourself into oblivion with Ambrose!",
+   "hidden": true,
+   "pct": 2.3,
+   "api_name": "OneJob",
+   "internal_key": 1037
+  },
+  {
+   "name": "Voyeur",
+   "desc": "See what Henslin has in his braies without being observed.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "Voyeur",
+   "internal_key": 1038
+  },
+  {
+   "name": "Full House Sinner",
+   "desc": "Have on your conscience every sin Johanka can think of.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "FullhouseSinner",
+   "internal_key": 1039
+  },
+  {
+   "name": "Infernal Justice",
+   "desc": "The punishment fits the crime.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "InfernalJustice",
+   "internal_key": 1040
+  },
+  {
+   "name": "Angel of Mercy",
+   "desc": "Help save Johanka from the most grievous charge of heresy!",
+   "hidden": true,
+   "pct": 4.1,
+   "api_name": "ASoulSaved",
+   "internal_key": 1041
+  },
+  {
+   "name": "Cleric's Pet",
+   "desc": "Report to the Inquisitor all the wrongdoing going on in the province.",
+   "hidden": true,
+   "pct": 1.5,
+   "api_name": "ClergyBoy",
+   "internal_key": 1042
+  }
+ ]
+}

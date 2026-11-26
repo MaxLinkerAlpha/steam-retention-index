@@ -1,0 +1,377 @@
+{
+ "appid": 646570,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 46,
+ "achievements": [
+  {
+   "name": "Shrug It Off",
+   "desc": "Win a battle with 1 HP remaining.",
+   "hidden": false,
+   "pct": 58.9,
+   "api_name": "SHRUG_IT_OFF",
+   "internal_key": 257
+  },
+  {
+   "name": "Purity",
+   "desc": "Have 3 or fewer cards in hand, draw, and discard pile combined.",
+   "hidden": false,
+   "pct": 18.8,
+   "api_name": "PURITY",
+   "internal_key": 258
+  },
+  {
+   "name": "Come At Me",
+   "desc": "Win a combat without playing an Attack.",
+   "hidden": false,
+   "pct": 54.0,
+   "api_name": "COME_AT_ME",
+   "internal_key": 259
+  },
+  {
+   "name": "The Pact",
+   "desc": "Exhaust 20 cards in a single combat.",
+   "hidden": false,
+   "pct": 61.8,
+   "api_name": "THE_PACT",
+   "internal_key": 260
+  },
+  {
+   "name": "Adrenaline",
+   "desc": "Have 9 Energy during a single turn of combat.",
+   "hidden": false,
+   "pct": 60.6,
+   "api_name": "ADRENALINE",
+   "internal_key": 261
+  },
+  {
+   "name": "Powerful",
+   "desc": "Have 10 or more buffs during combat.",
+   "hidden": false,
+   "pct": 32.8,
+   "api_name": "POWERFUL",
+   "internal_key": 262
+  },
+  {
+   "name": "Jaxxed",
+   "desc": "Have 50 or more Strength during combat.",
+   "hidden": false,
+   "pct": 23.2,
+   "api_name": "JAXXED",
+   "internal_key": 263
+  },
+  {
+   "name": "Impervious",
+   "desc": "Have 99 or more Block during combat.",
+   "hidden": false,
+   "pct": 38.3,
+   "api_name": "IMPERVIOUS",
+   "internal_key": 264
+  },
+  {
+   "name": "Barricaded",
+   "desc": "Have 999 Block during combat.",
+   "hidden": false,
+   "pct": 12.7,
+   "api_name": "BARRICADED",
+   "internal_key": 265
+  },
+  {
+   "name": "Catalyst",
+   "desc": "Apply 99 or more Poison on a single enemy.",
+   "hidden": false,
+   "pct": 32.9,
+   "api_name": "CATALYST",
+   "internal_key": 266
+  },
+  {
+   "name": "Plague",
+   "desc": "Defeat 3 enemies with Poison in a single combat.",
+   "hidden": false,
+   "pct": 52.7,
+   "api_name": "PLAGUE",
+   "internal_key": 267
+  },
+  {
+   "name": "Ninja",
+   "desc": "Play 10 Shivs in a single turn.",
+   "hidden": false,
+   "pct": 27.8,
+   "api_name": "NINJA",
+   "internal_key": 268
+  },
+  {
+   "name": "Infinity",
+   "desc": "Play 25 cards in a single turn.",
+   "hidden": false,
+   "pct": 23.4,
+   "api_name": "INFINITY",
+   "internal_key": 269
+  },
+  {
+   "name": "You Are Nothing",
+   "desc": "Defeat a boss on turn 1.",
+   "hidden": false,
+   "pct": 13.0,
+   "api_name": "YOU_ARE_NOTHING",
+   "internal_key": 270
+  },
+  {
+   "name": "Perfect",
+   "desc": "Defeat a boss without taking any damage.",
+   "hidden": false,
+   "pct": 56.5,
+   "api_name": "PERFECT",
+   "internal_key": 271
+  },
+  {
+   "name": "The Guardian",
+   "desc": "Defeated the Guardian.",
+   "hidden": true,
+   "pct": 84.9,
+   "api_name": "GUARDIAN",
+   "internal_key": 272
+  },
+  {
+   "name": "The Ghost",
+   "desc": "Defeated Hexaghost.",
+   "hidden": true,
+   "pct": 81.5,
+   "api_name": "GHOST_GUARDIAN",
+   "internal_key": 273
+  },
+  {
+   "name": "The Boss",
+   "desc": "Defeated the Slime Boss.",
+   "hidden": true,
+   "pct": 78.1,
+   "api_name": "SLIME_BOSS",
+   "internal_key": 274
+  },
+  {
+   "name": "The Automaton",
+   "desc": "Defeated the Bronze Automaton.",
+   "hidden": true,
+   "pct": 65.8,
+   "api_name": "AUTOMATON",
+   "internal_key": 275
+  },
+  {
+   "name": "The Collector",
+   "desc": "Defeated the Collector.",
+   "hidden": true,
+   "pct": 64.0,
+   "api_name": "COLLECTOR",
+   "internal_key": 276
+  },
+  {
+   "name": "The Champion",
+   "desc": "Defeated the Champ.",
+   "hidden": true,
+   "pct": 70.7,
+   "api_name": "CHAMP",
+   "internal_key": 277
+  },
+  {
+   "name": "The Crow",
+   "desc": "Defeated the Awakened One.",
+   "hidden": true,
+   "pct": 54.8,
+   "api_name": "CROW",
+   "internal_key": 278
+  },
+  {
+   "name": "The Shapes",
+   "desc": "Defeated Donu & Deca.",
+   "hidden": true,
+   "pct": 55.4,
+   "api_name": "SHAPES",
+   "internal_key": 279
+  },
+  {
+   "name": "The Time Eater",
+   "desc": "Defeated the Time Eater.",
+   "hidden": true,
+   "pct": 49.3,
+   "api_name": "TIME_EATER",
+   "internal_key": 280
+  },
+  {
+   "name": "Ruby",
+   "desc": "Beat the game with the Ironclad.",
+   "hidden": false,
+   "pct": 56.0,
+   "api_name": "RUBY",
+   "internal_key": 281
+  },
+  {
+   "name": "Emerald",
+   "desc": "Beat the game with the Silent.",
+   "hidden": false,
+   "pct": 50.4,
+   "api_name": "EMERALD",
+   "internal_key": 283
+  },
+  {
+   "name": "Who Needs Relics?",
+   "desc": "Beat the game with a single relic.",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "ONE_RELIC",
+   "internal_key": 285
+  },
+  {
+   "name": "Speed Climber",
+   "desc": "Beat the game in under 20 minutes.",
+   "hidden": false,
+   "pct": 6.7,
+   "api_name": "SPEED_CLIMBER",
+   "internal_key": 286
+  },
+  {
+   "name": "Minimalist",
+   "desc": "Beat the game with a 5 card deck or smaller.",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "MINIMALIST",
+   "internal_key": 287
+  },
+  {
+   "name": "Ooh Donut!",
+   "desc": "Finish Donu with a Feed.",
+   "hidden": false,
+   "pct": 8.0,
+   "api_name": "DONUT",
+   "internal_key": 1792
+  },
+  {
+   "name": "Ascend 0",
+   "desc": "Unlock Ascension mode.",
+   "hidden": false,
+   "pct": 66.4,
+   "api_name": "ASCEND_0",
+   "internal_key": 1793
+  },
+  {
+   "name": "Ascend 10",
+   "desc": "Complete Ascension Level 10.",
+   "hidden": false,
+   "pct": 14.9,
+   "api_name": "ASCEND_10",
+   "internal_key": 1794
+  },
+  {
+   "name": "Sapphire",
+   "desc": "Beat the game with the Defect.",
+   "hidden": false,
+   "pct": 44.0,
+   "api_name": "SAPPHIRE",
+   "internal_key": 1795
+  },
+  {
+   "name": "Common Sense",
+   "desc": "Beat the game with a deck containing no uncommons or rares.",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "COMMON_SENSE",
+   "internal_key": 1796
+  },
+  {
+   "name": "Focused",
+   "desc": "Have 25 or more Focus during combat.",
+   "hidden": false,
+   "pct": 5.4,
+   "api_name": "FOCUSED",
+   "internal_key": 1797
+  },
+  {
+   "name": "Neon",
+   "desc": "Channel 9 Plasma in a single turn.",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "NEON",
+   "internal_key": 1798
+  },
+  {
+   "name": "My Lucky Day",
+   "desc": "Win a Daily Climb.",
+   "hidden": false,
+   "pct": 23.9,
+   "api_name": "LUCKY_DAY",
+   "internal_key": 1799
+  },
+  {
+   "name": "The Transient",
+   "desc": "Defeat the Transient before it fades away.",
+   "hidden": false,
+   "pct": 14.7,
+   "api_name": "TRANSIENT",
+   "internal_key": 1800
+  },
+  {
+   "name": "Ascend 20",
+   "desc": "Complete Ascension Level 20.",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "ASCEND_20",
+   "internal_key": 1801
+  },
+  {
+   "name": "Ruby+",
+   "desc": "Complete the Ending with the Ironclad.",
+   "hidden": true,
+   "pct": 17.2,
+   "api_name": "RUBY_PLUS",
+   "internal_key": 1802
+  },
+  {
+   "name": "Emerald+",
+   "desc": "Complete the Ending with the Silent.",
+   "hidden": true,
+   "pct": 16.9,
+   "api_name": "EMERALD_PLUS",
+   "internal_key": 1803
+  },
+  {
+   "name": "Sapphire+",
+   "desc": "Complete the Ending with the Defect.",
+   "hidden": true,
+   "pct": 14.5,
+   "api_name": "SAPPHIRE_PLUS",
+   "internal_key": 1804
+  },
+  {
+   "name": "The End?",
+   "desc": "Complete the Ending with the Ironclad, Silent, and Defect.",
+   "hidden": true,
+   "pct": 13.2,
+   "api_name": "THE_ENDING",
+   "internal_key": 1805
+  },
+  {
+   "name": "Eternal One",
+   "desc": "Obtain all other Achievements.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "ETERNAL_ONE",
+   "internal_key": 1806
+  },
+  {
+   "name": "Amethyst",
+   "desc": "Beat the game with the Watcher.",
+   "hidden": false,
+   "pct": 26.0,
+   "api_name": "AMETHYST",
+   "internal_key": 1807
+  },
+  {
+   "name": "Amethyst+",
+   "desc": "Complete the Ending with the Watcher.",
+   "hidden": false,
+   "pct": 13.2,
+   "api_name": "AMETHYST_PLUS",
+   "internal_key": 1808
+  }
+ ]
+}

@@ -1,0 +1,577 @@
+{
+ "appid": 1817230,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 71,
+ "achievements": [
+  {
+   "name": "Start with a bang!",
+   "desc": "Take out the last line of defense at Quality Assurance.",
+   "hidden": true,
+   "pct": 77.3,
+   "api_name": "ACH_001",
+   "internal_key": 256
+  },
+  {
+   "name": "Cream of the Crop",
+   "desc": "Come out on top with a battle against the head of Production.",
+   "hidden": true,
+   "pct": 58.8,
+   "api_name": "ACH_002",
+   "internal_key": 257
+  },
+  {
+   "name": "This will cost you big time",
+   "desc": "Drain development's budget, removing creative control.",
+   "hidden": true,
+   "pct": 43.7,
+   "api_name": "ACH_003",
+   "internal_key": 258
+  },
+  {
+   "name": "The Negotiator",
+   "desc": "Remove the head of Security from the equation.",
+   "hidden": true,
+   "pct": 36.4,
+   "api_name": "ACH_004",
+   "internal_key": 259
+  },
+  {
+   "name": "Headliner",
+   "desc": "Be the showstopper for the head of Marketing.",
+   "hidden": true,
+   "pct": 32.5,
+   "api_name": "ACH_005",
+   "internal_key": 260
+  },
+  {
+   "name": "Time to pay up!",
+   "desc": "Settle the bill with the head of Finance.",
+   "hidden": true,
+   "pct": 31.0,
+   "api_name": "ACH_006",
+   "internal_key": 261
+  },
+  {
+   "name": "Who's the boss now?",
+   "desc": "Take it up with the CEO, and come out on top.",
+   "hidden": true,
+   "pct": 30.1,
+   "api_name": "ACH_007",
+   "internal_key": 262
+  },
+  {
+   "name": "Easy Listening",
+   "desc": "Finish the game completing every level on the Easy difficulty.",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "ACH_008",
+   "internal_key": 263
+  },
+  {
+   "name": "Well that was a rush!",
+   "desc": "Finish the game and complete every level on the Normal difficulty.",
+   "hidden": false,
+   "pct": 16.9,
+   "api_name": "ACH_009",
+   "internal_key": 264
+  },
+  {
+   "name": "I think I deserve some praise, here!",
+   "desc": "Finish the game and complete every level on the Hard difficulty.",
+   "hidden": false,
+   "pct": 9.0,
+   "api_name": "ACH_010",
+   "internal_key": 265
+  },
+  {
+   "name": "And the crowd goes wild!",
+   "desc": "Finish the game and complete every level on the Very Hard difficulty.",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "ACH_011",
+   "internal_key": 266
+  },
+  {
+   "name": "Didn't skip a beat!",
+   "desc": "Finish the game and complete every level on the Rhythm Master difficulty.",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "ACH_012",
+   "internal_key": 267
+  },
+  {
+   "name": "Problem solved... wait, what?",
+   "desc": "Discover the deeper mystery behind the SPECTRA doors on campus.",
+   "hidden": true,
+   "pct": 3.3,
+   "api_name": "ACH_013",
+   "internal_key": 268
+  },
+  {
+   "name": "I can't see this ever being a problem again",
+   "desc": "Solve the problem once and for all in an epic battle.",
+   "hidden": true,
+   "pct": 2.6,
+   "api_name": "ACH_014",
+   "internal_key": 269
+  },
+  {
+   "name": "Thanks for the free chip, Peppermint!",
+   "desc": "Purchase and equip your first upgrade chip.",
+   "hidden": false,
+   "pct": 57.6,
+   "api_name": "ACH_015",
+   "internal_key": 270
+  },
+  {
+   "name": "Chip-tuned",
+   "desc": "Increase your chip slots to the maximum capacity.",
+   "hidden": false,
+   "pct": 13.8,
+   "api_name": "ACH_016",
+   "internal_key": 271
+  },
+  {
+   "name": "I play my own way!",
+   "desc": "Purchase and equip your first Special Attack.",
+   "hidden": false,
+   "pct": 46.7,
+   "api_name": "ACH_017",
+   "internal_key": 272
+  },
+  {
+   "name": "Whoa! There's ANOTHER health bar!?",
+   "desc": "Increase your health to where you unlock a second tier.",
+   "hidden": false,
+   "pct": 39.7,
+   "api_name": "ACH_018",
+   "internal_key": 273
+  },
+  {
+   "name": "I think that's enough health for now",
+   "desc": "Fully upgrade your health bar by collecting all Life Gauges.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ACH_019",
+   "internal_key": 274
+  },
+  {
+   "name": "Fully Powered Up!",
+   "desc": "Fully upgrade your Reverb Gauge to the maximum.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "ACH_020",
+   "internal_key": 275
+  },
+  {
+   "name": "I have to read these things?",
+   "desc": "Find and read half of the Vandelay Vlogs on the campus.",
+   "hidden": false,
+   "pct": 28.5,
+   "api_name": "ACH_021",
+   "internal_key": 276
+  },
+  {
+   "name": "I have to read ALL of these things?",
+   "desc": "Find and read every Vandelay Vlog on the campus.",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "ACH_022",
+   "internal_key": 277
+  },
+  {
+   "name": "Feeling the beat!",
+   "desc": "Land 20 beat-hit attacks on enemies.",
+   "hidden": false,
+   "pct": 77.7,
+   "api_name": "ACH_023",
+   "internal_key": 278
+  },
+  {
+   "name": "Beat-hit mania",
+   "desc": "Land 500 beat-hit attacks on enemies.",
+   "hidden": false,
+   "pct": 19.7,
+   "api_name": "ACH_024",
+   "internal_key": 279
+  },
+  {
+   "name": "You got this, Peppermint?",
+   "desc": "Destroy 10 barriers by calling in Peppermint.",
+   "hidden": false,
+   "pct": 52.5,
+   "api_name": "ACH_025",
+   "internal_key": 280
+  },
+  {
+   "name": "You must like calling me in, Chai",
+   "desc": "Destroy 50 barriers by calling in Peppermint.",
+   "hidden": false,
+   "pct": 31.4,
+   "api_name": "ACH_026",
+   "internal_key": 281
+  },
+  {
+   "name": "Z-shielding's got nothing on us!",
+   "desc": "Shatter 10 enemy shields by calling in Macaron.",
+   "hidden": false,
+   "pct": 41.5,
+   "api_name": "ACH_027",
+   "internal_key": 282
+  },
+  {
+   "name": "I think I found your calling, Macaron",
+   "desc": "Shatter 50 enemy shields by calling in Macaron.",
+   "hidden": false,
+   "pct": 8.1,
+   "api_name": "ACH_028",
+   "internal_key": 283
+  },
+  {
+   "name": "Out in a puff of smoke",
+   "desc": "Put out 10 fires in battle with Korsica. (Enemies included.)",
+   "hidden": true,
+   "pct": 32.4,
+   "api_name": "ACH_029",
+   "internal_key": 284
+  },
+  {
+   "name": "This is a breeze!",
+   "desc": "Put out 50 fires in battle with Korsica. (Enemies included.)",
+   "hidden": true,
+   "pct": 5.7,
+   "api_name": "ACH_030",
+   "internal_key": 285
+  },
+  {
+   "name": "Perfect Parry",
+   "desc": "Sucessfully parry with perfect timing 15 times.",
+   "hidden": false,
+   "pct": 50.2,
+   "api_name": "ACH_031",
+   "internal_key": 286
+  },
+  {
+   "name": "Perfecter Parry-er!",
+   "desc": "Sucessfully parry with perfect timing 200 times.",
+   "hidden": false,
+   "pct": 30.1,
+   "api_name": "ACH_032",
+   "internal_key": 287
+  },
+  {
+   "name": "Uh, they were broken when I got here",
+   "desc": "Destroy 200 Vandelay security robots.",
+   "hidden": false,
+   "pct": 43.1,
+   "api_name": "ACH_033",
+   "internal_key": 512
+  },
+  {
+   "name": "That's a lot of junk metal…",
+   "desc": "Destroy 500 Vandelay security robots.",
+   "hidden": false,
+   "pct": 19.9,
+   "api_name": "ACH_034",
+   "internal_key": 513
+  },
+  {
+   "name": "OK, well THEY came after ME!",
+   "desc": "Destroy 1000 Vandelay security robots.",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "ACH_035",
+   "internal_key": 514
+  },
+  {
+   "name": "Kissing the sky!",
+   "desc": "Perform 50 Aerial Raves.",
+   "hidden": false,
+   "pct": 40.8,
+   "api_name": "ACH_036",
+   "internal_key": 515
+  },
+  {
+   "name": "We're Jammin'",
+   "desc": "Successfully pull off 20 Jam Combos",
+   "hidden": false,
+   "pct": 9.6,
+   "api_name": "ACH_037",
+   "internal_key": 516
+  },
+  {
+   "name": "I'm not done with you yet",
+   "desc": "Overkill 20 enemies.",
+   "hidden": false,
+   "pct": 7.6,
+   "api_name": "ACH_038",
+   "internal_key": 517
+  },
+  {
+   "name": "First we parry, then we counter",
+   "desc": "Perform 20 parry counters using any partner.",
+   "hidden": false,
+   "pct": 8.3,
+   "api_name": "ACH_039",
+   "internal_key": 518
+  },
+  {
+   "name": "Now this is how you fight like a team!",
+   "desc": "Perform 100 parry counters using any partner.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "ACH_040",
+   "internal_key": 519
+  },
+  {
+   "name": "My Ultimate Setlist",
+   "desc": "Complete all the floors in the Rhythm Tower.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ACH_041",
+   "internal_key": 520
+  },
+  {
+   "name": "I look cool. But I can look COOLER.",
+   "desc": "Equip any costume.",
+   "hidden": false,
+   "pct": 46.3,
+   "api_name": "ACH_042",
+   "internal_key": 521
+  },
+  {
+   "name": "What a journey it was...",
+   "desc": "Complete the Wall of Fame in the hideout.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "ACH_043",
+   "internal_key": 522
+  },
+  {
+   "name": "This was... not what I expected.",
+   "desc": "Have \"The Artist\" decorate your hideout.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ACH_044",
+   "internal_key": 523
+  },
+  {
+   "name": "There's such a thing as TOO helpful",
+   "desc": "Find and engage with every Smidge, while completing all of his practice tips.",
+   "hidden": false,
+   "pct": 21.9,
+   "api_name": "ACH_045",
+   "internal_key": 524
+  },
+  {
+   "name": "Have we met before?",
+   "desc": "Find Vandelay HR's investigator and hear all of its monologues.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "ACH_046",
+   "internal_key": 525
+  },
+  {
+   "name": "Who put gears in there?",
+   "desc": "Destroyed your first golden statue of Kale.",
+   "hidden": false,
+   "pct": 63.5,
+   "api_name": "ACH_047",
+   "internal_key": 526
+  },
+  {
+   "name": "Alright, that felt AWESOME!",
+   "desc": "Defeated your first enemy with a Rhythm Parry Attack.",
+   "hidden": false,
+   "pct": 49.7,
+   "api_name": "ACH_048",
+   "internal_key": 527
+  },
+  {
+   "name": "I hit things with a guitar really well.",
+   "desc": "Finish a stage with a S rank for every Chorus. (Any difficulty.)",
+   "hidden": false,
+   "pct": 10.5,
+   "api_name": "ACH_049",
+   "internal_key": 528
+  },
+  {
+   "name": "I'm untouchable!",
+   "desc": "Finish a stage without taking any damage. (Any difficulty.)",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "ACH_050",
+   "internal_key": 529
+  },
+  {
+   "name": "You can pet the cat!",
+   "desc": "Play with 808 in the hideout.",
+   "hidden": false,
+   "pct": 70.7,
+   "api_name": "ACH_051",
+   "internal_key": 530
+  },
+  {
+   "name": "Wanna hear my playlist?",
+   "desc": "Change the background music in the hideout.",
+   "hidden": false,
+   "pct": 11.6,
+   "api_name": "ACH_052",
+   "internal_key": 531
+  },
+  {
+   "name": "Does that say weakpoint?",
+   "desc": "Destroy QA-1MIL's face, revealing its shame.",
+   "hidden": false,
+   "pct": 43.1,
+   "api_name": "ACH_053",
+   "internal_key": 532
+  },
+  {
+   "name": "I told you I'd be fine, Peppermint!",
+   "desc": "Complete the ride through production on the transit rail without taking damage.",
+   "hidden": false,
+   "pct": 16.8,
+   "api_name": "ACH_054",
+   "internal_key": 533
+  },
+  {
+   "name": "You ever parry a volcano?",
+   "desc": "Successfully parry a volcanic rock outside of research and development.",
+   "hidden": false,
+   "pct": 9.1,
+   "api_name": "ACH_055",
+   "internal_key": 534
+  },
+  {
+   "name": "I am a good person who likes to help",
+   "desc": "Help out 3 Vandelay robots with their pressing issues.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "ACH_056",
+   "internal_key": 535
+  },
+  {
+   "name": "I'm trying to FOCUS HERE!",
+   "desc": "Find and shoot down every hovering announcement drone.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "ACH_057",
+   "internal_key": 536
+  },
+  {
+   "name": "With our powers combined…and to the rhythm…",
+   "desc": "Perfectly time your take down of your largest foe yet in a musical finale.",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "ACH_058",
+   "internal_key": 537
+  },
+  {
+   "name": "I saw all those hits coming a measure away!",
+   "desc": "Perfectly parry every non-boss enemy's Rhythm Parry attack. (Only for enemies in the main game.)",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "ACH_059",
+   "internal_key": 538
+  },
+  {
+   "name": "Check out my moves!",
+   "desc": "Purchase every combo and partner attack.",
+   "hidden": true,
+   "pct": 14.0,
+   "api_name": "ACH_060",
+   "internal_key": 539
+  },
+  {
+   "name": "OK, I THINK I know what I'm doing now",
+   "desc": "Successfully pull off every combo and attack in the Training Room.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "ACH_061",
+   "internal_key": 540
+  },
+  {
+   "name": "NOW we got a kickass hideout!",
+   "desc": "Try out the arcade cabinet in the hideout.",
+   "hidden": true,
+   "pct": 13.2,
+   "api_name": "ACH_062",
+   "internal_key": 541
+  },
+  {
+   "name": "Call me Turbo Chai",
+   "desc": "Clear a run of BPM RUSH! (Easy or Normal difficulty.)",
+   "hidden": true,
+   "pct": 3.8,
+   "api_name": "ACH_063",
+   "internal_key": 542
+  },
+  {
+   "name": "Choose your own adventure",
+   "desc": "Clear a run of Power Up! Tower Up!",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "ACH_064",
+   "internal_key": 543
+  },
+  {
+   "name": "It'll do, CNMN",
+   "desc": "Unlock the Special Attack \"CNMANIAC\" and use it in battle.",
+   "hidden": true,
+   "pct": 1.2,
+   "api_name": "ACH_065",
+   "internal_key": 768
+  },
+  {
+   "name": "Please don't make this awkward",
+   "desc": "Unlock the Special Attack \"My Hero!\" and use it in battle.",
+   "hidden": true,
+   "pct": 0.7,
+   "api_name": "ACH_066",
+   "internal_key": 769
+  },
+  {
+   "name": "That was just EVIL",
+   "desc": "Clear BPM RUSH! on EX Mode.",
+   "hidden": true,
+   "pct": 0.7,
+   "api_name": "ACH_067",
+   "internal_key": 770
+  },
+  {
+   "name": "New bad guys? No problem!",
+   "desc": "Perfectly parry both KEM-N0 and DM-ET1L's rhythm parry attack.",
+   "hidden": true,
+   "pct": 2.3,
+   "api_name": "ACH_068",
+   "internal_key": 771
+  },
+  {
+   "name": "It was all for this",
+   "desc": "Finally get your hands on that gift basket.",
+   "hidden": true,
+   "pct": 0.6,
+   "api_name": "ACH_069",
+   "internal_key": 772
+  },
+  {
+   "name": "Voices from within",
+   "desc": "Read all messages from the developers.",
+   "hidden": true,
+   "pct": 0.6,
+   "api_name": "ACH_070",
+   "internal_key": 773
+  },
+  {
+   "name": "Low budget finish",
+   "desc": "Defeat the main game final boss wearing the \"Low Budget\" Costume for Chai (with guitar) and 808.",
+   "hidden": true,
+   "pct": 0.6,
+   "api_name": "ACH_071",
+   "internal_key": 774
+  }
+ ]
+}

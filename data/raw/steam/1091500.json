@@ -1,0 +1,407 @@
+{
+ "appid": 1091500,
+ "game": "Cyberpunk 2077",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 57,
+ "achievements": [
+  {
+   "api": "TheFool",
+   "name": "The Fool",
+   "desc": "",
+   "hidden": true,
+   "pct": 88.5
+  },
+  {
+   "api": "TheLovers",
+   "name": "The Lovers",
+   "desc": "",
+   "hidden": true,
+   "pct": 67.3
+  },
+  {
+   "api": "Denied",
+   "name": "Right Back At Ya",
+   "desc": "Kill or incapacitate an enemy who threw a grenade at you.",
+   "hidden": false,
+   "pct": 66.1
+  },
+  {
+   "api": "TheWheelOfFortune",
+   "name": "The Wheel of Fortune",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.9
+  },
+  {
+   "api": "Roleplayer",
+   "name": "Stanislavski's Method",
+   "desc": "Use a dialogue option related to V's life path 10 times.",
+   "hidden": false,
+   "pct": 51.0
+  },
+  {
+   "api": "TheHermit",
+   "name": "The Hermit",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.5
+  },
+  {
+   "api": "TrueSoldier",
+   "name": "True Soldier",
+   "desc": "Kill or incapacitate 300 enemies using ranged weapons.",
+   "hidden": false,
+   "pct": 47.0
+  },
+  {
+   "api": "TheHightPriestess",
+   "name": "The High Priestess",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.3
+  },
+  {
+   "api": "Cyberjunkie",
+   "name": "Full Body Conversion",
+   "desc": "Install at least one implant in each system and body part.",
+   "hidden": false,
+   "pct": 43.3
+  },
+  {
+   "api": "MasterRunner",
+   "name": "Christmas Tree Attack",
+   "desc": "Complete a Breach Protocol with a minimum of 3 daemons uploaded.",
+   "hidden": false,
+   "pct": 43.0
+  },
+  {
+   "api": "YouKnowWhoIAm",
+   "name": "Legend of The Afterlife",
+   "desc": "Reach max Street Cred.",
+   "hidden": false,
+   "pct": 41.9
+  },
+  {
+   "api": "QueenOfTheHighway",
+   "name": "Life of the Road",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.0
+  },
+  {
+   "api": "GunKata",
+   "name": "Gun Fu",
+   "desc": "Kill or incapacitate 3 enemies in quick succession with a revolver or pistol in close combat.",
+   "hidden": false,
+   "pct": 38.1
+  },
+  {
+   "api": "TheWorld",
+   "name": "The World",
+   "desc": "Complete the main storyline.",
+   "hidden": false,
+   "pct": 34.9
+  },
+  {
+   "api": "BushidoAndChill",
+   "name": "Bushido and Chill",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.6
+  },
+  {
+   "api": "TrueWarrior",
+   "name": "True Warrior",
+   "desc": "Kill or incapacitate 100 enemies using melee weapons.",
+   "hidden": false,
+   "pct": 31.8
+  },
+  {
+   "api": "HandyMan",
+   "name": "Master Crafter",
+   "desc": "Craft 3 Legendary items.",
+   "hidden": false,
+   "pct": 31.5
+  },
+  {
+   "api": "UnderPressure",
+   "name": "Judy vs Night City",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.5
+  },
+  {
+   "api": "TwoHeadsOneBullet",
+   "name": "Two Heads, One Bullet",
+   "desc": "Kill or incapacitate 2 enemies with the same sniper rifle shot.",
+   "hidden": false,
+   "pct": 27.1
+  },
+  {
+   "api": "MaxPain",
+   "name": "The Quick and the Dead",
+   "desc": "Kill or incapacitate 50 enemies while time is slowed.",
+   "hidden": false,
+   "pct": 26.9
+  },
+  {
+   "api": "FollowingTheRiver",
+   "name": "To Protect and Serve",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.4
+  },
+  {
+   "api": "AllThePresidentsMen",
+   "name": "All the President's Men",
+   "desc": "Save President Myers.",
+   "hidden": false,
+   "pct": 25.7
+  },
+  {
+   "api": "IHateSpider",
+   "name": "Arachnophobia",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.3
+  },
+  {
+   "api": "IAmMaxTac",
+   "name": "I Am The Law",
+   "desc": "Complete all Cyberpsycho Sightings.",
+   "hidden": false,
+   "pct": 24.4
+  },
+  {
+   "api": "Fortuneteller",
+   "name": "The Wandering Fool",
+   "desc": "Find all the tarot graffiti for the job Fool on the Hill.",
+   "hidden": false,
+   "pct": 20.9
+  },
+  {
+   "api": "Specialist",
+   "name": "Ten out of Ten",
+   "desc": "Reach the max level in any skill.",
+   "hidden": false,
+   "pct": 19.8
+  },
+  {
+   "api": "NeverFadeAway",
+   "name": "Breathtaking",
+   "desc": "Collect all items that once belonged to Johnny Silverhand.",
+   "hidden": false,
+   "pct": 16.8
+  },
+  {
+   "api": "TheSun",
+   "name": "The Sun",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.7
+  },
+  {
+   "api": "VForVendetta",
+   "name": "V for Vendetta",
+   "desc": "After reviving with Second Heart, kill or incapacitate the enemy who killed you within 5 seconds.",
+   "hidden": false,
+   "pct": 16.5
+  },
+  {
+   "api": "TheStar",
+   "name": "The Star",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.3
+  },
+  {
+   "api": "BornToBeWild",
+   "name": "To Bad Decisions!",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.7
+  },
+  {
+   "api": "Kingmaker",
+   "name": "Spin Doctor",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.2
+  },
+  {
+   "api": "Temperance",
+   "name": "Temperance",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.5
+  },
+  {
+   "api": "MustBeTheRats",
+   "name": "Must Be Rats",
+   "desc": "Perform the Distract Enemies quickhack 30 times without drawing attention to yourself.",
+   "hidden": false,
+   "pct": 11.7
+  },
+  {
+   "api": "EasyComeEasyGo",
+   "name": "Easy Come, Easy Go",
+   "desc": "Steal the Arasaka medical truck or deliver 10 vehicles to El Capitan.",
+   "hidden": false,
+   "pct": 11.5
+  },
+  {
+   "api": "KingOfTheWands",
+   "name": "King of Wands",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.1
+  },
+  {
+   "api": "TradeUnion",
+   "name": "The Jungle",
+   "desc": "Complete all gigs and NCPD Scanner Hustles in Santo Domingo.",
+   "hidden": false,
+   "pct": 9.7
+  },
+  {
+   "api": "DirtyWork",
+   "name": "Dirty Deeds",
+   "desc": "Complete every Gig in Dogtown.",
+   "hidden": false,
+   "pct": 9.7
+  },
+  {
+   "api": "LikeFatherLikeSon",
+   "name": "Mean Streets",
+   "desc": "Complete all gigs and NCPD Scanner Hustles in Heywood.",
+   "hidden": false,
+   "pct": 9.2
+  },
+  {
+   "api": "Gunslinger",
+   "name": "Gunslinger",
+   "desc": "Shoot an enemy grenade in midair with a revolver.",
+   "hidden": false,
+   "pct": 9.1
+  },
+  {
+   "api": "Bladerunner",
+   "name": "City Lights",
+   "desc": "Complete all gigs and NCPD Scanner Hustles in City Center.",
+   "hidden": false,
+   "pct": 8.8
+  },
+  {
+   "api": "GetMeThereScottie",
+   "name": "Frequent Flyer",
+   "desc": "Find all fast travel dataterms.",
+   "hidden": false,
+   "pct": 8.8
+  },
+  {
+   "api": "YipMan",
+   "name": "It's Elementary",
+   "desc": "Complete all gigs and NCPD Scanner Hustles in Watson.",
+   "hidden": false,
+   "pct": 8.6
+  },
+  {
+   "api": "ThisIsPacifica",
+   "name": "Greetings from Pacifica!",
+   "desc": "Complete all gigs and NCPD Scanner Hustles in Pacifica.",
+   "hidden": false,
+   "pct": 7.9
+  },
+  {
+   "api": "LittleTokyo",
+   "name": "Little Tokyo",
+   "desc": "Complete all gigs and NCPD Scanner Hustles in Westbrook.",
+   "hidden": false,
+   "pct": 7.8
+  },
+  {
+   "api": "Gearhead",
+   "name": "Autojock",
+   "desc": "Buy all vehicles available for purchase.",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "DogtownLaw",
+   "name": "The APB is Not Enough",
+   "desc": "Become Dogtown's most wanted criminal.",
+   "hidden": false,
+   "pct": 7.5
+  },
+  {
+   "api": "TheDevil",
+   "name": "The Devil",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.3
+  },
+  {
+   "api": "RelicMaster",
+   "name": "Relic Ruler",
+   "desc": "Unlock all Perks in the Relic Perk tree.",
+   "hidden": false,
+   "pct": 7.3
+  },
+  {
+   "api": "NoMansLand",
+   "name": "The Wasteland",
+   "desc": "Complete all gigs and NCPD Scanner Hustles in the Badlands.",
+   "hidden": false,
+   "pct": 7.2
+  },
+  {
+   "api": "ThatIsSoHardForTheKnees",
+   "name": "Rough Landing",
+   "desc": "While Berserk cyberware is active, perform a Superhero Landing to kill or incapacitate 2 enemies.",
+   "hidden": false,
+   "pct": 6.7
+  },
+  {
+   "api": "TheTower",
+   "name": "The Tower",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.5
+  },
+  {
+   "api": "HydraIsDead",
+   "name": "Judgement Day",
+   "desc": "Eliminate three bosses from the \"Increased criminal activity\" category.",
+   "hidden": false,
+   "pct": 6.5
+  },
+  {
+   "api": "KingOfTheSwords",
+   "name": "King of Swords",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.3
+  },
+  {
+   "api": "NotTheMobile",
+   "name": "Daemon In The Shell",
+   "desc": "Kill or incapacitate 3 enemies with one \"Detonate Grenade\" quickhack.",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "KingOfThePentacles",
+   "name": "King of Pentacles",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.9
+  },
+  {
+   "api": "KingOfTheCups",
+   "name": "King of Cups",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.9
+  }
+ ]
+}

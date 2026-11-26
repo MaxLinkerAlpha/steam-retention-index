@@ -1,0 +1,121 @@
+{
+ "appid": 238320,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 14,
+ "achievements": [
+  {
+   "name": "ILLUMINATED",
+   "desc": "Restore power to the Administrative Block",
+   "hidden": true,
+   "pct": 49.5,
+   "api_name": "Achievement_0",
+   "internal_key": 256
+  },
+  {
+   "name": "FLUSHED",
+   "desc": "Drain the Sewers",
+   "hidden": true,
+   "pct": 38.4,
+   "api_name": "Achievement_1",
+   "internal_key": 257
+  },
+  {
+   "name": "SOAKED",
+   "desc": "Activate the sprinklers in the Male Ward",
+   "hidden": true,
+   "pct": 30.6,
+   "api_name": "Achievement_2",
+   "internal_key": 258
+  },
+  {
+   "name": "EMANCIPATED",
+   "desc": "Collect the key in the Female Ward",
+   "hidden": true,
+   "pct": 27.0,
+   "api_name": "Achievement_3",
+   "internal_key": 259
+  },
+  {
+   "name": "EDUCATED",
+   "desc": "Collect 15 documents and complete 15 recordings",
+   "hidden": false,
+   "pct": 11.8,
+   "api_name": "Achievement_4",
+   "internal_key": 260
+  },
+  {
+   "name": "PUNISHED",
+   "desc": "Finish the game",
+   "hidden": false,
+   "pct": 25.2,
+   "api_name": "Achievement_5",
+   "internal_key": 261
+  },
+  {
+   "name": "PULITZER",
+   "desc": "Collect all documents and complete all recordings",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "Achievement_6",
+   "internal_key": 262
+  },
+  {
+   "name": "LUNATIC",
+   "desc": "Finish the game in Insane mode",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "Achievement_7",
+   "internal_key": 263
+  },
+  {
+   "name": "GAS LEAKER",
+   "desc": "Turn off the gas",
+   "hidden": true,
+   "pct": 13.5,
+   "api_name": "Achievement_8",
+   "internal_key": 264
+  },
+  {
+   "name": "SHOCKER",
+   "desc": "Turn off the electricity",
+   "hidden": true,
+   "pct": 12.9,
+   "api_name": "Achievement_9",
+   "internal_key": 265
+  },
+  {
+   "name": "WHISTLEBLOWER",
+   "desc": "Finish the Whistleblower DLC",
+   "hidden": false,
+   "pct": 12.1,
+   "api_name": "Achievement_10",
+   "internal_key": 266
+  },
+  {
+   "name": "BOWELWHISTLER",
+   "desc": "Finish the DLC in Insane mode",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "Achievement_11",
+   "internal_key": 267
+  },
+  {
+   "name": "ARCHIVIST",
+   "desc": "Collect all documents",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "Achievement_12",
+   "internal_key": 268
+  },
+  {
+   "name": "LEGACY",
+   "desc": "Complete all recordings",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "Achievement_13",
+   "internal_key": 269
+  }
+ ]
+}

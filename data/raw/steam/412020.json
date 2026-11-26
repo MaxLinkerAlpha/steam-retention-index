@@ -1,0 +1,484 @@
+{
+ "appid": 412020,
+ "game": "Metro Exodus",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 68,
+ "achievements": [
+  {
+   "api": "exodus",
+   "name": "Exodus",
+   "desc": "Complete the MOSCOW level.",
+   "hidden": false,
+   "pct": 70.2
+  },
+  {
+   "api": "aurora",
+   "name": "Aurora",
+   "desc": "Name the locomotive.",
+   "hidden": false,
+   "pct": 69.0
+  },
+  {
+   "api": "martian",
+   "name": "Martian",
+   "desc": "Patch the Gasmask.",
+   "hidden": false,
+   "pct": 68.3
+  },
+  {
+   "api": "regatta",
+   "name": "Regatta",
+   "desc": "Get into a boat.",
+   "hidden": false,
+   "pct": 67.0
+  },
+  {
+   "api": "gunsmith",
+   "name": "Gunsmith",
+   "desc": "Install a modification of each category on a single weapon.",
+   "hidden": false,
+   "pct": 50.9
+  },
+  {
+   "api": "railwayman",
+   "name": "Railwayman",
+   "desc": "Get into the Trolley.",
+   "hidden": false,
+   "pct": 50.0
+  },
+  {
+   "api": "constructor",
+   "name": "Handyman",
+   "desc": "Spend 500 consumable resources on crafting.",
+   "hidden": false,
+   "pct": 49.2
+  },
+  {
+   "api": "long_distance_passenger",
+   "name": "Long distance passenger",
+   "desc": "Find the passenger train car.",
+   "hidden": false,
+   "pct": 49.1
+  },
+  {
+   "api": "lower_the_b",
+   "name": "Lower the Bridge",
+   "desc": "Complete the VOLGA level.",
+   "hidden": false,
+   "pct": 47.7
+  },
+  {
+   "api": "spoiled_dinner",
+   "name": "Spoiled dinner",
+   "desc": "Complete the YAMANTAU level.",
+   "hidden": false,
+   "pct": 46.5
+  },
+  {
+   "api": "driver",
+   "name": "Driver",
+   "desc": "Drive the Bukhanka.",
+   "hidden": false,
+   "pct": 45.3
+  },
+  {
+   "api": "all_road_map",
+   "name": "Complete road map",
+   "desc": "Find maps in the laboratory.",
+   "hidden": false,
+   "pct": 43.3
+  },
+  {
+   "api": "righteous_vengeance",
+   "name": "Righteous vengeance",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.3
+  },
+  {
+   "api": "silent_marksman",
+   "name": "Silent marksman",
+   "desc": "Kill 30 enemies with Tikhar.",
+   "hidden": false,
+   "pct": 39.9
+  },
+  {
+   "api": "crew_friend",
+   "name": "Friend of the Crew",
+   "desc": "Find the guitar and teddy bear on the VOLGA level.",
+   "hidden": false,
+   "pct": 39.3
+  },
+  {
+   "api": "new_order",
+   "name": "New order",
+   "desc": "Complete the CASPIAN level.",
+   "hidden": false,
+   "pct": 38.8
+  },
+  {
+   "api": "gorko",
+   "name": "Gor'ko!",
+   "desc": "Attend the wedding on the SUMMER level.",
+   "hidden": false,
+   "pct": 38.5
+  },
+  {
+   "api": "sword_of_damocles",
+   "name": "Sword of Damocles",
+   "desc": "Complete the TAIGA level.",
+   "hidden": false,
+   "pct": 35.0
+  },
+  {
+   "api": "putrification",
+   "name": "Putrification",
+   "desc": "Pass the putrid tunnel.",
+   "hidden": false,
+   "pct": 33.9
+  },
+  {
+   "api": "polite_saboteur",
+   "name": "Saboteur",
+   "desc": "Melee-kill or stun 50 enemies.",
+   "hidden": false,
+   "pct": 33.4
+  },
+  {
+   "api": "mutant_killer",
+   "name": "Antibiotic",
+   "desc": "Kill 300 mutants.",
+   "hidden": false,
+   "pct": 32.3
+  },
+  {
+   "api": "a3",
+   "name": "Alyosha",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.4
+  },
+  {
+   "api": "d1",
+   "name": "Duke",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.3
+  },
+  {
+   "api": "fisherman",
+   "name": "Fisherman",
+   "desc": "Kill the Catfish.",
+   "hidden": false,
+   "pct": 27.6
+  },
+  {
+   "api": "master_of_the_forest",
+   "name": "Master of the Forest",
+   "desc": "Stand your ground against the Bear at the first encounter.",
+   "hidden": false,
+   "pct": 27.5
+  },
+  {
+   "api": "on_the_air",
+   "name": "Join us on air",
+   "desc": "Find a tune on the radio.",
+   "hidden": false,
+   "pct": 26.5
+  },
+  {
+   "api": "robin_hood",
+   "name": "Robin Hood",
+   "desc": "Kill 30 enemies with Crossbow.",
+   "hidden": false,
+   "pct": 24.5
+  },
+  {
+   "api": "all_good",
+   "name": "Your Destination",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.4
+  },
+  {
+   "api": "headhunter",
+   "name": "Headhunter",
+   "desc": "Kill 300 human enemies.",
+   "hidden": false,
+   "pct": 22.3
+  },
+  {
+   "api": "5oclock",
+   "name": "5 o'clock",
+   "desc": "Take part in the Admiral's tea party on the TAIGA level.",
+   "hidden": false,
+   "pct": 18.2
+  },
+  {
+   "api": "d2",
+   "name": "Damir",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.0
+  },
+  {
+   "api": "dlc_01_new_year",
+   "name": "New Year",
+   "desc": "Celebrated the New Year in THE TWO COLONELS Chapter.",
+   "hidden": false,
+   "pct": 16.2
+  },
+  {
+   "api": "dlc_01_duty_and_conscience",
+   "name": "Duty and conscience",
+   "desc": "Make a moral choice in THE TWO COLONELS Chapter.",
+   "hidden": false,
+   "pct": 15.8
+  },
+  {
+   "api": "dlc_01_father_and_son",
+   "name": "Father and son",
+   "desc": "Provide guidance for Kirill in THE TWO COLONELS Chapter.",
+   "hidden": false,
+   "pct": 15.4
+  },
+  {
+   "api": "dlc_01_real_colonel",
+   "name": "Real Colonel",
+   "desc": "Complete THE TWO COLONELS Chapter.",
+   "hidden": false,
+   "pct": 14.9
+  },
+  {
+   "api": "all_bad",
+   "name": "Eternal Voyage",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.8
+  },
+  {
+   "api": "guide",
+   "name": "Guide",
+   "desc": "Pass the Research Facility without killing a Blind One on the DEAD CITY level.",
+   "hidden": false,
+   "pct": 14.7
+  },
+  {
+   "api": "full_band",
+   "name": "Full Strength",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.0
+  },
+  {
+   "api": "firebird",
+   "name": "Firebird",
+   "desc": "Kill a demon with fire.",
+   "hidden": false,
+   "pct": 12.5
+  },
+  {
+   "api": "dlc_02_the_last_hero",
+   "name": "The Last Hero",
+   "desc": "Complete the SAM'S STORY chapter.",
+   "hidden": false,
+   "pct": 12.3
+  },
+  {
+   "api": "professional",
+   "name": "Professional",
+   "desc": "Make at least one kill with every ranged weapon.",
+   "hidden": false,
+   "pct": 12.1
+  },
+  {
+   "api": "last_minute_man",
+   "name": "Last Breath",
+   "desc": "After running out of filters in a hazard zone, craft a new one while suffocating.",
+   "hidden": false,
+   "pct": 11.2
+  },
+  {
+   "api": "kaleidoscope",
+   "name": "Kaleidoscope",
+   "desc": "Kill 3 enemies using sniper scope while wearing the Gas mask and using the Night Vision goggles.",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "tidyman",
+   "name": "Tidyman",
+   "desc": "Spend 500 chemical resources on cleaning weapons.",
+   "hidden": false,
+   "pct": 9.4
+  },
+  {
+   "api": "dlc_02_trapper",
+   "name": "Trapper",
+   "desc": "Set all 5 traps in the SAM'S STORY chapter as the Captain requests.",
+   "hidden": false,
+   "pct": 8.9
+  },
+  {
+   "api": "decommunization",
+   "name": "Decommunization",
+   "desc": "Destroy the biggest statue in front of the children's camp on the TAIGA level.",
+   "hidden": false,
+   "pct": 8.6
+  },
+  {
+   "api": "dlc_02_lord_of_war",
+   "name": "Lord of War",
+   "desc": "Collect all the upgrades for Sammy rifle and Stallion pistol in the SAM'S STORY chapter.",
+   "hidden": false,
+   "pct": 8.0
+  },
+  {
+   "api": "roller_coaster",
+   "name": "Roller coaster",
+   "desc": "Use the bucket lift on the CASPIAN level to reach the Oasis.",
+   "hidden": false,
+   "pct": 7.3
+  },
+  {
+   "api": "dlc_02_cinephile",
+   "name": "Cinephile",
+   "desc": "Organize a documentary screening in the SAM'S STORY chapter.",
+   "hidden": false,
+   "pct": 7.1
+  },
+  {
+   "api": "full_armor_set",
+   "name": "Dressed for Success",
+   "desc": "Find all upgrades for Artyom's suit.",
+   "hidden": false,
+   "pct": 6.1
+  },
+  {
+   "api": "coachman",
+   "name": "Brakeman",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.0
+  },
+  {
+   "api": "sniper",
+   "name": "Stand back",
+   "desc": "Kill 50 enemies at long distance.",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "dlc_01_dodge_master",
+   "name": "Dodge master",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.3
+  },
+  {
+   "api": "dlc_02_untouchable",
+   "name": "Untouchable",
+   "desc": "Complete SAM'S STORY on Normal or higher difficulty without dying in Batwing encounters.",
+   "hidden": false,
+   "pct": 4.2
+  },
+  {
+   "api": "dlc_02_a_man_of_principle",
+   "name": "A Man of Principle",
+   "desc": "Complete the SAM'S STORY chapter earning the Captain's full trust.",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "carmaheddon",
+   "name": "Carmaheddon",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.7
+  },
+  {
+   "api": "hardcore",
+   "name": "Hardcore",
+   "desc": "Complete the game in Ranger Hardcore mode.",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "dlc_01_the_whole_picture",
+   "name": "The whole picture",
+   "desc": "Find all 9 hidden Diary pages in THE TWO COLONELS Chapter.",
+   "hidden": false,
+   "pct": 3.0
+  },
+  {
+   "api": "dlc_01_quite_heavy",
+   "name": "Mind you, it's quite heavy!",
+   "desc": "Kill 3 Nosalises with flamethrower's melee attack in THE TWO COLONELS Chapter.",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "old_world_pictures",
+   "name": "Old world pictures",
+   "desc": "Find all 21 post cards.",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "mutation_1",
+   "name": "Mutation",
+   "desc": "Complete the game in New Game+ mode using any modification.",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "forest_child",
+   "name": "Forest child",
+   "desc": "Complete the TAIGA level without attacking anyone or getting noticed.",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "librarian",
+   "name": "Librarian",
+   "desc": "Find all 70 hidden Diary pages.",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "dlc_02_great_owl",
+   "name": "Great Owl",
+   "desc": "Find all the Night Hunters' secret stashes in the SAM'S STORY chapter.",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "dlc_01_just_scratch",
+   "name": "It's just a scratch",
+   "desc": "Complete THE TWO COLONELS Chapter without using any Medkits on Normal or higher difficulty.",
+   "hidden": false,
+   "pct": 2.6
+  },
+  {
+   "api": "dlc_02_music_lover",
+   "name": "Music Lover",
+   "desc": "Collect all harmonica melodies in the SAM'S STORY chapter.",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "toy_seller",
+   "name": "Toy seller",
+   "desc": "Find 3 toys in New Game+ mode: teddy bear, sun and fish.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "iron_man_1",
+   "name": "Iron Mode",
+   "desc": "Complete the game in Iron Mode.",
+   "hidden": false,
+   "pct": 1.9
+  }
+ ]
+}

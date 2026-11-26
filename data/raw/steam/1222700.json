@@ -1,0 +1,106 @@
+{
+ "appid": 1222700,
+ "game": "A Way Out",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 14,
+ "achievements": [
+  {
+   "api": "Achievement_GOSCC_10",
+   "name": "Backseat Mechanic",
+   "desc": "You helped fix the bike.",
+   "hidden": false,
+   "pct": 53.2
+  },
+  {
+   "api": "Achievement_GOSCC_1",
+   "name": "Freedom",
+   "desc": "You freed someone from captivity.",
+   "hidden": false,
+   "pct": 44.1
+  },
+  {
+   "api": "Achievement_GOSCC_6",
+   "name": "Break From Reality",
+   "desc": "You played a videogame with a friend.",
+   "hidden": false,
+   "pct": 33.8
+  },
+  {
+   "api": "Achievement_GOSCC_14",
+   "name": "Home Run",
+   "desc": "You are clearly good with a bat.",
+   "hidden": false,
+   "pct": 23.6
+  },
+  {
+   "api": "Achievement_GOSCC_5",
+   "name": "No Cheating",
+   "desc": "You exposed some infidelity.",
+   "hidden": false,
+   "pct": 12.8
+  },
+  {
+   "api": "Achievement_GOSCC_12",
+   "name": "You Started It",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.7
+  },
+  {
+   "api": "Achievement_GOSCC_7",
+   "name": "Mayday!",
+   "desc": "You almost took to the skies.",
+   "hidden": false,
+   "pct": 9.1
+  },
+  {
+   "api": "Achievement_GOSCC_13",
+   "name": "The Dip",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.8
+  },
+  {
+   "api": "Achievement_GOSCC_11",
+   "name": "Take It For A Spin",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.6
+  },
+  {
+   "api": "Achievement_GOSCC_3",
+   "name": "In Sync",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.4
+  },
+  {
+   "api": "Achievement_GOSCC_2",
+   "name": "Take A Breather",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.7
+  },
+  {
+   "api": "Achievement_GOSCC_4",
+   "name": "Timeless Treasure",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.6
+  },
+  {
+   "api": "Achievement_GOSCC_9",
+   "name": "Live the Dream",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.6
+  },
+  {
+   "api": "Achievement_GOSCC_8",
+   "name": "Managed Anger",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.1
+  }
+ ]
+}

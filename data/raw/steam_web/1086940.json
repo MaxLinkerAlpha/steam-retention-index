@@ -1,0 +1,441 @@
+{
+ "appid": 1086940,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 54,
+ "achievements": [
+  {
+   "name": "Descent From Avernus",
+   "desc": "Take control of the nautiloid and escape the Hells.",
+   "hidden": false,
+   "pct": 89.0,
+   "api_name": "BG3_Quest01",
+   "internal_key": 256
+  },
+  {
+   "name": "The Plot Thickens",
+   "desc": "Leave Act I - for somewhere altogether darker.",
+   "hidden": true,
+   "pct": 50.1,
+   "api_name": "BG3_Quest02",
+   "internal_key": 257
+  },
+  {
+   "name": "The City Awaits",
+   "desc": "Leave Act II - Baldur's Gate is just over the horizon.",
+   "hidden": true,
+   "pct": 39.5,
+   "api_name": "BG3_Quest03",
+   "internal_key": 258
+  },
+  {
+   "name": "All's Well That Ends Well",
+   "desc": "Finish the game (with a heartfelt 'thank you!' from Larian Studios).",
+   "hidden": true,
+   "pct": 23.6,
+   "api_name": "BG3_Quest04",
+   "internal_key": 259
+  },
+  {
+   "name": "Absolute Power Corrupts",
+   "desc": "Reign with terror: take control of the Netherbrain and bend the world to your will.",
+   "hidden": true,
+   "pct": 6.6,
+   "api_name": "BG3_Quest05",
+   "internal_key": 260
+  },
+  {
+   "name": "Hero of the Forgotten Realms",
+   "desc": "Save the realms: destroy the Absolute once and for all.",
+   "hidden": true,
+   "pct": 24.7,
+   "api_name": "BG3_Quest06",
+   "internal_key": 261
+  },
+  {
+   "name": "Sins of the Father",
+   "desc": "Claim your Throne of Blood: take control of the Netherbrain for Bhaal and break the world.",
+   "hidden": true,
+   "pct": 3.4,
+   "api_name": "BG3_Quest07",
+   "internal_key": 262
+  },
+  {
+   "name": "Ceremorphosis",
+   "desc": "Make the ultimate sacrifice: become a mind flayer to defeat the Netherbrain.",
+   "hidden": true,
+   "pct": 9.7,
+   "api_name": "BG3_Quest08",
+   "internal_key": 263
+  },
+  {
+   "name": "Roleplayer",
+   "desc": "Complete ten background goals in a single playthrough - you are one with your character.",
+   "hidden": false,
+   "pct": 56.9,
+   "api_name": "BG3_Quest09",
+   "internal_key": 264
+  },
+  {
+   "name": "Bedrolls and Breakfast",
+   "desc": "Take four full Long Rests in a single playthrough - adventuring's tiring work.",
+   "hidden": false,
+   "pct": 65.2,
+   "api_name": "BG3_Quest10",
+   "internal_key": 265
+  },
+  {
+   "name": "Expand Your Mind",
+   "desc": "Consume a parasite and unlock a new power - is it meant to wriggle the whole way down?",
+   "hidden": true,
+   "pct": 54.3,
+   "api_name": "BG3_Quest11",
+   "internal_key": 266
+  },
+  {
+   "name": "Dig for Victory",
+   "desc": "Dig up five buried chests in a single playthrough - treasure! ",
+   "hidden": false,
+   "pct": 57.9,
+   "api_name": "BG3_Quest12",
+   "internal_key": 267
+  },
+  {
+   "name": "No Penny Required",
+   "desc": "Successfully use Detect Thoughts to pry into someone's thoughts. ",
+   "hidden": false,
+   "pct": 62.2,
+   "api_name": "BG3_Quest13",
+   "internal_key": 268
+  },
+  {
+   "name": "Escapologist",
+   "desc": "Break out of prison after being arrested - aren't you daring?",
+   "hidden": false,
+   "pct": 29.6,
+   "api_name": "BG3_Quest14",
+   "internal_key": 269
+  },
+  {
+   "name": "Outsourcing",
+   "desc": "Recruit a hireling. You can befriend them or use them as cannon-fodder - we won't judge.",
+   "hidden": false,
+   "pct": 18.3,
+   "api_name": "BG3_Quest15",
+   "internal_key": 270
+  },
+  {
+   "name": "Jack-of-all-Trades",
+   "desc": "Multiclass into every class in one playthrough without asking Withers to change your character.",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "BG3_Quest16",
+   "internal_key": 271
+  },
+  {
+   "name": "Homebrewer",
+   "desc": "Create three unique alchemical solutions in a single playthrough - bottoms up! ",
+   "hidden": false,
+   "pct": 29.1,
+   "api_name": "BG3_Quest17",
+   "internal_key": 272
+  },
+  {
+   "name": "You Have Two Hands for a Reason",
+   "desc": "Pet Scratch and the owlbear cub at the same time - the greatest joy an adventurer could ask for.",
+   "hidden": true,
+   "pct": 24.9,
+   "api_name": "BG3_Quest18",
+   "internal_key": 273
+  },
+  {
+   "name": "Rude, Crude, and Full of Attitude",
+   "desc": "Find and summon the quasit Shovel. Or is her name... Fork? Maybe Basket?",
+   "hidden": true,
+   "pct": 17.1,
+   "api_name": "BG3_Quest19",
+   "internal_key": 274
+  },
+  {
+   "name": "Forged in Blood and Fire",
+   "desc": "Craft an item in the Adamantine Forge.",
+   "hidden": true,
+   "pct": 39.1,
+   "api_name": "BG3_Quest20",
+   "internal_key": 275
+  },
+  {
+   "name": "Under Lock and Key",
+   "desc": "Rescue all the prisoners from the depths of Moonrise Towers in one playthrough.",
+   "hidden": true,
+   "pct": 26.1,
+   "api_name": "BG3_Quest21",
+   "internal_key": 276
+  },
+  {
+   "name": "She Cannot Be Caged!",
+   "desc": "Rescue Sazza from the Emerald Grove, Goblin Camp, and Moonrise Towers in one playthrough. ",
+   "hidden": true,
+   "pct": 3.8,
+   "api_name": "BG3_Quest22",
+   "internal_key": 277
+  },
+  {
+   "name": "Taking Blood",
+   "desc": "Steal the Blood of Lathander from underneath Rosymorn Monastery.",
+   "hidden": true,
+   "pct": 36.6,
+   "api_name": "BG3_Quest23",
+   "internal_key": 278
+  },
+  {
+   "name": "Leave No One Behind",
+   "desc": "Save every tiefling refugee you can throughout the game in a single playthrough.",
+   "hidden": true,
+   "pct": 6.2,
+   "api_name": "BG3_Quest24",
+   "internal_key": 279
+  },
+  {
+   "name": "Murder in Baldur's Gate",
+   "desc": "Coat the streets of Baldur's Gate in blood - become an Unholy Assassin of Bhaal.",
+   "hidden": true,
+   "pct": 9.4,
+   "api_name": "BG3_Quest25",
+   "internal_key": 280
+  },
+  {
+   "name": "Mind Blown",
+   "desc": "Romance the Emperor.",
+   "hidden": true,
+   "pct": 13.1,
+   "api_name": "BG3_Quest26",
+   "internal_key": 281
+  },
+  {
+   "name": "Kill Two Birds With One Gnome",
+   "desc": "Use one enemy as an improvised weapon against another. ",
+   "hidden": false,
+   "pct": 11.2,
+   "api_name": "BG3_Quest27",
+   "internal_key": 282
+  },
+  {
+   "name": "Busker",
+   "desc": "Earn a hundred gold from playing sweet, sweet music in a single playthrough. ",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "BG3_Quest28",
+   "internal_key": 283
+  },
+  {
+   "name": "Action Surge",
+   "desc": "Perform five attacks in one turn. Your enemies won't know what hit them (literally).",
+   "hidden": false,
+   "pct": 55.7,
+   "api_name": "BG3_Quest29",
+   "internal_key": 284
+  },
+  {
+   "name": "Fists of Fury",
+   "desc": "Kill a character with an Unarmed Strike.",
+   "hidden": false,
+   "pct": 43.1,
+   "api_name": "BG3_Quest30",
+   "internal_key": 285
+  },
+  {
+   "name": "Devil's in the Details ",
+   "desc": "Defeat Commander Zhalk on the nautiloid.",
+   "hidden": false,
+   "pct": 39.9,
+   "api_name": "BG3_Quest31",
+   "internal_key": 286
+  },
+  {
+   "name": "Pest Control",
+   "desc": "Kill the Spider Matriarch before her eggs hatch - why do they have so many legs?",
+   "hidden": true,
+   "pct": 15.6,
+   "api_name": "BG3_Quest32",
+   "internal_key": 287
+  },
+  {
+   "name": "A Grym Fate",
+   "desc": "Kill the Adamantine Golem without using the Forge Hammer.",
+   "hidden": true,
+   "pct": 21.2,
+   "api_name": "BG3_Quest33",
+   "internal_key": 512
+  },
+  {
+   "name": "Non-Invasive Procedure",
+   "desc": "Kill the Surgeon before he performs surgery on you in combat.",
+   "hidden": false,
+   "pct": 23.3,
+   "api_name": "BG3_Quest34",
+   "internal_key": 513
+  },
+  {
+   "name": "Penny Pincher",
+   "desc": "Defeat the Toll Collector without her using gold against you - excellent budgeting. ",
+   "hidden": false,
+   "pct": 27.7,
+   "api_name": "BG3_Quest35",
+   "internal_key": 514
+  },
+  {
+   "name": "No Free Lunches",
+   "desc": "Defeat the Apostle of Myrkul before it consumes any necromites.",
+   "hidden": true,
+   "pct": 31.9,
+   "api_name": "BG3_Quest36",
+   "internal_key": 515
+  },
+  {
+   "name": "Fancy Footwork",
+   "desc": "Defeat Gortash in Wyrm's Rock without activating any traps.",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "BG3_Quest37",
+   "internal_key": 516
+  },
+  {
+   "name": "First Blood",
+   "desc": "Kill Orin while her cultists are performing their ritual chant.",
+   "hidden": true,
+   "pct": 19.6,
+   "api_name": "BG3_Quest38",
+   "internal_key": 517
+  },
+  {
+   "name": "Interfectorem Draconis",
+   "desc": "Kill the red dragon in the Upper City.",
+   "hidden": true,
+   "pct": 17.5,
+   "api_name": "BG3_Quest39",
+   "internal_key": 518
+  },
+  {
+   "name": "Crash Landing",
+   "desc": "In the Wyrmway, wait until the dragon is mid-flight, then knock it out of the sky - KAPOW.",
+   "hidden": false,
+   "pct": 7.6,
+   "api_name": "BG3_Quest40",
+   "internal_key": 519
+  },
+  {
+   "name": "Bottoms Up",
+   "desc": "Long Rest using only alcohol - a time-honoured dwarven tradition. ",
+   "hidden": false,
+   "pct": 30.2,
+   "api_name": "BG3_Quest41",
+   "internal_key": 520
+  },
+  {
+   "name": "Shove Off",
+   "desc": "Kill a creature with falling damage.",
+   "hidden": false,
+   "pct": 47.4,
+   "api_name": "BG3_Quest42",
+   "internal_key": 521
+  },
+  {
+   "name": "Bookworm",
+   "desc": "Read 100 different books in a single playthrough. Adventuring isn't just daring quests, you know.",
+   "hidden": false,
+   "pct": 38.9,
+   "api_name": "BG3_Quest43",
+   "internal_key": 522
+  },
+  {
+   "name": "Punch Drunk",
+   "desc": "Defeat twenty opponents while drunk - down them.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "BG3_Quest44",
+   "internal_key": 523
+  },
+  {
+   "name": "Fetch Quest",
+   "desc": "Play fetch with Scratch - the best boy in the Realms.",
+   "hidden": false,
+   "pct": 38.2,
+   "api_name": "BG3_Quest45",
+   "internal_key": 524
+  },
+  {
+   "name": "Repairing the Weave",
+   "desc": "Stabilise Gale's Netherese orb.",
+   "hidden": true,
+   "pct": 44.6,
+   "api_name": "BG3_Quest46",
+   "internal_key": 525
+  },
+  {
+   "name": "The Lich-Queen's Wrath",
+   "desc": "Ally with Voss against the githyanki God-Queen. Good luck.",
+   "hidden": true,
+   "pct": 37.1,
+   "api_name": "BG3_Quest47",
+   "internal_key": 526
+  },
+  {
+   "name": "To Bloom in Darkest Night",
+   "desc": "Gift Shadowheart a night orchid - her favourite flower. Always knew she was a softie.",
+   "hidden": true,
+   "pct": 27.0,
+   "api_name": "BG3_Quest48",
+   "internal_key": 527
+  },
+  {
+   "name": "Hot Date",
+   "desc": "Go on a date with Karlach - now that's playing with fire.",
+   "hidden": true,
+   "pct": 6.0,
+   "api_name": "BG3_Quest49",
+   "internal_key": 528
+  },
+  {
+   "name": "Just a Nibble",
+   "desc": "Let Astarion bite you at night - ouch.",
+   "hidden": true,
+   "pct": 50.1,
+   "api_name": "BG3_Quest50",
+   "internal_key": 529
+  },
+  {
+   "name": "Loophole",
+   "desc": "Break Wyll's pact with Mizora.",
+   "hidden": true,
+   "pct": 24.5,
+   "api_name": "BG3_Quest51",
+   "internal_key": 530
+  },
+  {
+   "name": "Embrace Your Urge",
+   "desc": "Become Bhaal's ultimate weapon - become his Slayer.",
+   "hidden": true,
+   "pct": 7.7,
+   "api_name": "BG3_Quest52",
+   "internal_key": 531
+  },
+  {
+   "name": "Critical Hit",
+   "desc": "Complete the game in Tactician mode.",
+   "hidden": false,
+   "pct": 6.4,
+   "api_name": "BG3_Quest53",
+   "internal_key": 532
+  },
+  {
+   "name": "Foehammer",
+   "desc": "Complete the game in Honour mode.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "BG3_Quest54",
+   "internal_key": 533
+  }
+ ]
+}

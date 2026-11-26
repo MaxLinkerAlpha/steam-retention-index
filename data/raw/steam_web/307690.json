@@ -1,0 +1,481 @@
+{
+ "appid": 307690,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 59,
+ "achievements": [
+  {
+   "name": "In With the Gang",
+   "desc": "Complete Night Market Chase.",
+   "hidden": false,
+   "pct": 76.6,
+   "api_name": "ACHIEVEMENT_01",
+   "internal_key": 256
+  },
+  {
+   "name": "That'll Show 'em",
+   "desc": "Complete Payback.",
+   "hidden": false,
+   "pct": 43.9,
+   "api_name": "ACHIEVEMENT_02",
+   "internal_key": 257
+  },
+  {
+   "name": "A Big Betrayal",
+   "desc": "Complete Dockyard Heist.",
+   "hidden": false,
+   "pct": 32.8,
+   "api_name": "ACHIEVEMENT_03",
+   "internal_key": 258
+  },
+  {
+   "name": "Big Smiles All Around",
+   "desc": "Complete Big Smile Lee.",
+   "hidden": false,
+   "pct": 26.7,
+   "api_name": "ACHIEVEMENT_04",
+   "internal_key": 259
+  },
+  {
+   "name": "Minor Face",
+   "desc": "Achieve Face Level 2.",
+   "hidden": false,
+   "pct": 49.6,
+   "api_name": "ACHIEVEMENT_05",
+   "internal_key": 260
+  },
+  {
+   "name": "Gaining Face",
+   "desc": "Achieve Face Level 5.",
+   "hidden": false,
+   "pct": 29.5,
+   "api_name": "ACHIEVEMENT_06",
+   "internal_key": 261
+  },
+  {
+   "name": "Great Face",
+   "desc": "Achieve Face Level 10.",
+   "hidden": false,
+   "pct": 16.2,
+   "api_name": "ACHIEVEMENT_07",
+   "internal_key": 262
+  },
+  {
+   "name": "Fashion Statement",
+   "desc": "Change all your clothes in your wardrobe or a clothing store.",
+   "hidden": false,
+   "pct": 42.8,
+   "api_name": "ACHIEVEMENT_08",
+   "internal_key": 263
+  },
+  {
+   "name": "Stuntman",
+   "desc": "Successfully perform an action hijack.",
+   "hidden": false,
+   "pct": 48.2,
+   "api_name": "ACHIEVEMENT_09",
+   "internal_key": 264
+  },
+  {
+   "name": "A Slap in the Face",
+   "desc": "Kill someone with a fish.",
+   "hidden": false,
+   "pct": 20.0,
+   "api_name": "ACHIEVEMENT_10",
+   "internal_key": 265
+  },
+  {
+   "name": "Take A Bite Out Of Crime",
+   "desc": "Complete a Case.",
+   "hidden": false,
+   "pct": 50.0,
+   "api_name": "ACHIEVEMENT_11",
+   "internal_key": 266
+  },
+  {
+   "name": "Man Around Town",
+   "desc": "Visit Aberdeen, Central, Kennedy Town and North Point.",
+   "hidden": false,
+   "pct": 47.3,
+   "api_name": "ACHIEVEMENT_12",
+   "internal_key": 267
+  },
+  {
+   "name": "Foodie",
+   "desc": "Try 10 different foods or drinks.",
+   "hidden": false,
+   "pct": 6.5,
+   "api_name": "ACHIEVEMENT_13",
+   "internal_key": 268
+  },
+  {
+   "name": "Environmentalist",
+   "desc": "Perform 5 unique environmental kills.",
+   "hidden": false,
+   "pct": 73.5,
+   "api_name": "ACHIEVEMENT_14",
+   "internal_key": 269
+  },
+  {
+   "name": "Gadgetman",
+   "desc": "Pick a lock, plant a bug, trace a phone, crack a safe, and take over a spy camera.",
+   "hidden": false,
+   "pct": 36.9,
+   "api_name": "ACHIEVEMENT_15",
+   "internal_key": 270
+  },
+  {
+   "name": "Safe Driver",
+   "desc": "Cruise for 2 minutes over 60 Km/h without damaging your car.",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "ACHIEVEMENT_16",
+   "internal_key": 271
+  },
+  {
+   "name": "Gun Nut",
+   "desc": "Use 10 different firearms to defeat enemies.",
+   "hidden": false,
+   "pct": 24.0,
+   "api_name": "ACHIEVEMENT_17",
+   "internal_key": 272
+  },
+  {
+   "name": "Whatever's Handy",
+   "desc": "Use 10 different melee weapons to defeat enemies.",
+   "hidden": false,
+   "pct": 12.0,
+   "api_name": "ACHIEVEMENT_18",
+   "internal_key": 273
+  },
+  {
+   "name": "Tourist",
+   "desc": "Win a bet on a cockfight.",
+   "hidden": false,
+   "pct": 17.7,
+   "api_name": "ACHIEVEMENT_19",
+   "internal_key": 274
+  },
+  {
+   "name": "Infowlable",
+   "desc": "Win 50,000 on a single cockfight.",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "ACHIEVEMENT_20",
+   "internal_key": 275
+  },
+  {
+   "name": "Kleptomaniac",
+   "desc": "Hijack 5 trucks and collect their cargo.",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "ACHIEVEMENT_21",
+   "internal_key": 276
+  },
+  {
+   "name": "Sharpshooter",
+   "desc": "Shoot out a cop's tires while fleeing in a police chase.",
+   "hidden": false,
+   "pct": 19.9,
+   "api_name": "ACHIEVEMENT_22",
+   "internal_key": 277
+  },
+  {
+   "name": "Case Closed",
+   "desc": "Complete all cases.",
+   "hidden": false,
+   "pct": 21.1,
+   "api_name": "ACHIEVEMENT_23",
+   "internal_key": 278
+  },
+  {
+   "name": "Mr. Nice Guy",
+   "desc": "Complete all Favors.",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "ACHIEVEMENT_24",
+   "internal_key": 279
+  },
+  {
+   "name": "Event Driven",
+   "desc": "Complete half of the open world events.",
+   "hidden": false,
+   "pct": 15.5,
+   "api_name": "ACHIEVEMENT_25",
+   "internal_key": 280
+  },
+  {
+   "name": "Event Planner",
+   "desc": "Complete all of the open world Events.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "ACHIEVEMENT_26",
+   "internal_key": 281
+  },
+  {
+   "name": "Martial Law",
+   "desc": "Defeat all 4 Martial Arts Clubs",
+   "hidden": false,
+   "pct": 11.2,
+   "api_name": "ACHIEVEMENT_27",
+   "internal_key": 282
+  },
+  {
+   "name": "Wei of the Road",
+   "desc": "Complete all Street Races.",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "ACHIEVEMENT_28",
+   "internal_key": 283
+  },
+  {
+   "name": "Ultimate Fighter",
+   "desc": "Unlock ten Triad Upgrades.",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "ACHIEVEMENT_29",
+   "internal_key": 284
+  },
+  {
+   "name": "Super Cop",
+   "desc": "Unlock ten Cop Upgrades.",
+   "hidden": false,
+   "pct": 14.3,
+   "api_name": "ACHIEVEMENT_30",
+   "internal_key": 285
+  },
+  {
+   "name": "North Point Scavenger",
+   "desc": "Unlock every lockbox in North Point.",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "ACHIEVEMENT_31",
+   "internal_key": 286
+  },
+  {
+   "name": "Central Scavenger",
+   "desc": "Unlock every lockbox in Central.",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "ACHIEVEMENT_32",
+   "internal_key": 287
+  },
+  {
+   "name": "West End Scavenger",
+   "desc": "Unlock every lockbox in Kennedy Town and Aberdeen.",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "ACHIEVEMENT_33",
+   "internal_key": 768
+  },
+  {
+   "name": "Bounty Hunter",
+   "desc": "Complete all of Roland's Jobs.",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "ACHIEVEMENT_34",
+   "internal_key": 769
+  },
+  {
+   "name": "Karaoke Superstar",
+   "desc": "Achieving 90% and above for all songs at the Karaoke Bars in HK.",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "ACHIEVEMENT_35",
+   "internal_key": 770
+  },
+  {
+   "name": "Hong Kong Super Hacker",
+   "desc": "Hack every Security Camera in the game.",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "ACHIEVEMENT_36",
+   "internal_key": 771
+  },
+  {
+   "name": "Fashion Victim",
+   "desc": "Purchase all clothing.",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "ACHIEVEMENT_37",
+   "internal_key": 772
+  },
+  {
+   "name": "Spiritual Healing",
+   "desc": "Pray at all of the Health Shrines.",
+   "hidden": false,
+   "pct": 7.1,
+   "api_name": "ACHIEVEMENT_38",
+   "internal_key": 773
+  },
+  {
+   "name": "Auto Enthusiast",
+   "desc": "Purchase all vehicles.",
+   "hidden": false,
+   "pct": 4.1,
+   "api_name": "ACHIEVEMENT_39",
+   "internal_key": 774
+  },
+  {
+   "name": "Slight Silver",
+   "desc": "Achieve 5 Silver Stat Awards.",
+   "hidden": false,
+   "pct": 49.1,
+   "api_name": "ACHIEVEMENT_40",
+   "internal_key": 775
+  },
+  {
+   "name": "Substantial Silver",
+   "desc": "Achieve 15 Silver Stat Awards.",
+   "hidden": false,
+   "pct": 31.1,
+   "api_name": "ACHIEVEMENT_41",
+   "internal_key": 776
+  },
+  {
+   "name": "Solid Silver",
+   "desc": "Achieve 30 Silver Stat Awards.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "ACHIEVEMENT_42",
+   "internal_key": 777
+  },
+  {
+   "name": "Strike Gold",
+   "desc": "Achieve 1 Gold Stat Award.",
+   "hidden": false,
+   "pct": 59.0,
+   "api_name": "ACHIEVEMENT_43",
+   "internal_key": 778
+  },
+  {
+   "name": "Gold Rush",
+   "desc": "Achieve 5 Gold Stat Awards.",
+   "hidden": false,
+   "pct": 42.4,
+   "api_name": "ACHIEVEMENT_44",
+   "internal_key": 779
+  },
+  {
+   "name": "Golden Touch",
+   "desc": "Achieve 15 Gold Stat Awards.",
+   "hidden": false,
+   "pct": 14.2,
+   "api_name": "ACHIEVEMENT_45",
+   "internal_key": 780
+  },
+  {
+   "name": "Pure Gold",
+   "desc": "Achieve 30 Gold Stat Awards.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "ACHIEVEMENT_46",
+   "internal_key": 781
+  },
+  {
+   "name": "Rookie",
+   "desc": "Complete 10% of all missions, cases, favors, events, jobs and races.",
+   "hidden": false,
+   "pct": 48.1,
+   "api_name": "ACHIEVEMENT_47",
+   "internal_key": 782
+  },
+  {
+   "name": "Officer",
+   "desc": "Complete 25% of all missions, cases, favors, events, jobs and races.",
+   "hidden": false,
+   "pct": 34.2,
+   "api_name": "ACHIEVEMENT_48",
+   "internal_key": 783
+  },
+  {
+   "name": "Detective",
+   "desc": "Complete 50% of all missions, cases, favors, events, jobs and races.",
+   "hidden": false,
+   "pct": 18.3,
+   "api_name": "ACHIEVEMENT_49",
+   "internal_key": 784
+  },
+  {
+   "name": "Chief Inspector",
+   "desc": "Complete 100% of all missions, cases, favors, events, jobs and races.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "ACHIEVEMENT_50",
+   "internal_key": 785
+  },
+  {
+   "name": "Pet Cemetery",
+   "desc": "Send Dogeyes, Ratface and Ponytail back to Hell.",
+   "hidden": false,
+   "pct": 10.3,
+   "api_name": "ACHIEVEMENT_51",
+   "internal_key": 786
+  },
+  {
+   "name": "I Can Haz Banishment",
+   "desc": "Banish Smiley Cat.",
+   "hidden": false,
+   "pct": 10.1,
+   "api_name": "ACHIEVEMENT_52",
+   "internal_key": 787
+  },
+  {
+   "name": "Ghosts and Stuff",
+   "desc": "Complete all secondary content of Nightmare in North Point.",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "ACHIEVEMENT_53",
+   "internal_key": 788
+  },
+  {
+   "name": "Cursed Gold",
+   "desc": "Achieve 5 Gold Awards.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "ACHIEVEMENT_54",
+   "internal_key": 789
+  },
+  {
+   "name": "Hell Money",
+   "desc": "Find all the money shrines.",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "ACHIEVEMENT_55",
+   "internal_key": 790
+  },
+  {
+   "name": "Bomb Squad",
+   "desc": "Complete End of the World.",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "ACHIEVEMENT_56",
+   "internal_key": 791
+  },
+  {
+   "name": "Cult Master",
+   "desc": "Defeat the cultists.",
+   "hidden": false,
+   "pct": 8.9,
+   "api_name": "ACHIEVEMENT_57",
+   "internal_key": 792
+  },
+  {
+   "name": "Hong Kong’s Finest",
+   "desc": "Complete all secondary content of Year of the Snake.",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "ACHIEVEMENT_58",
+   "internal_key": 793
+  },
+  {
+   "name": "Goodie Monster",
+   "desc": "Find all the Evidence Collectibles.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "ACHIEVEMENT_59",
+   "internal_key": 794
+  }
+ ]
+}

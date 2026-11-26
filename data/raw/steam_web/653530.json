@@ -1,0 +1,137 @@
+{
+ "appid": 653530,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 16,
+ "achievements": [
+  {
+   "name": "Loose Cargo",
+   "desc": "Solve all fates in chapter I.",
+   "hidden": false,
+   "pct": 48.7,
+   "api_name": "ACH_CHAPTERSOLVED_01",
+   "internal_key": 256
+  },
+  {
+   "name": "A Bitter Cold",
+   "desc": "Solve all fates in chapter II.",
+   "hidden": false,
+   "pct": 52.2,
+   "api_name": "ACH_CHAPTERSOLVED_02",
+   "internal_key": 257
+  },
+  {
+   "name": "Murder",
+   "desc": "Solve all fates in chapter III.",
+   "hidden": false,
+   "pct": 46.3,
+   "api_name": "ACH_CHAPTERSOLVED_03",
+   "internal_key": 258
+  },
+  {
+   "name": "The Calling",
+   "desc": "Solve all fates in chapter IV.",
+   "hidden": false,
+   "pct": 45.3,
+   "api_name": "ACH_CHAPTERSOLVED_04",
+   "internal_key": 259
+  },
+  {
+   "name": "Unholy Captives",
+   "desc": "Solve all fates in chapter V.",
+   "hidden": false,
+   "pct": 45.4,
+   "api_name": "ACH_CHAPTERSOLVED_05",
+   "internal_key": 260
+  },
+  {
+   "name": "Soldiers of the Sea",
+   "desc": "Solve all fates in chapter VI.",
+   "hidden": false,
+   "pct": 45.2,
+   "api_name": "ACH_CHAPTERSOLVED_06",
+   "internal_key": 261
+  },
+  {
+   "name": "The Doom",
+   "desc": "Solve all fates in chapter VII.",
+   "hidden": false,
+   "pct": 45.1,
+   "api_name": "ACH_CHAPTERSOLVED_07",
+   "internal_key": 262
+  },
+  {
+   "name": "Escape",
+   "desc": "Solve all fates in chapter IX.",
+   "hidden": false,
+   "pct": 45.2,
+   "api_name": "ACH_CHAPTERSOLVED_09",
+   "internal_key": 263
+  },
+  {
+   "name": "The End",
+   "desc": "Solve all fates in chapter X.",
+   "hidden": false,
+   "pct": 46.4,
+   "api_name": "ACH_CHAPTERSOLVED_10",
+   "internal_key": 264
+  },
+  {
+   "name": "Captain Did It",
+   "desc": "Loosely true, in the eyes of Company and Crown.",
+   "hidden": true,
+   "pct": 7.1,
+   "api_name": "ACH_KILLERCAPTAIN",
+   "internal_key": 265
+  },
+  {
+   "name": "Abandon Ship",
+   "desc": "Leave the ship without solving all available chapters.",
+   "hidden": true,
+   "pct": 23.5,
+   "api_name": "ACH_ENDING_BAD",
+   "internal_key": 266
+  },
+  {
+   "name": "Obra Done",
+   "desc": "Solve the entire book.",
+   "hidden": true,
+   "pct": 44.6,
+   "api_name": "ACH_ENDING_GOOD",
+   "internal_key": 267
+  },
+  {
+   "name": "Any 6",
+   "desc": "Solve any 6 fates.",
+   "hidden": false,
+   "pct": 61.7,
+   "api_name": "ACH_ANYSOLVED_06",
+   "internal_key": 268
+  },
+  {
+   "name": "Any 15",
+   "desc": "Solve any 15 fates.",
+   "hidden": false,
+   "pct": 52.8,
+   "api_name": "ACH_ANYSOLVED_15",
+   "internal_key": 269
+  },
+  {
+   "name": "Any 30",
+   "desc": "Solve any 30 fates.",
+   "hidden": false,
+   "pct": 47.6,
+   "api_name": "ACH_ANYSOLVED_30",
+   "internal_key": 270
+  },
+  {
+   "name": "Any 45",
+   "desc": "Solve any 45 fates.",
+   "hidden": false,
+   "pct": 45.6,
+   "api_name": "ACH_ANYSOLVED_45",
+   "internal_key": 271
+  }
+ ]
+}

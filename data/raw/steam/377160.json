@@ -1,0 +1,596 @@
+{
+ "appid": 377160,
+ "game": "Fallout 4",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 84,
+ "achievements": [
+  {
+   "api": "NEW_ACHIEVEMENT_1_0",
+   "name": "War Never Changes",
+   "desc": "",
+   "hidden": true,
+   "pct": 83.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_46_0",
+   "name": "Born Survivor",
+   "desc": "",
+   "hidden": true,
+   "pct": 66.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_0",
+   "name": "When Freedom Calls",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_47_0",
+   "name": "Commonwealth Citizen",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_35_0",
+   "name": "Future Retro",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_13_0",
+   "name": "The First Step",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_22_0",
+   "name": "Sanctuary",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_43_0",
+   "name": "Touchdown!",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_27_0",
+   "name": "Scavver",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_0",
+   "name": "Unlikely Valentine",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_34_0",
+   "name": "Fix-Er-Upper",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_48_0",
+   "name": "Unstoppable Wanderer",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_16_0",
+   "name": "Semper Invicta",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_23_0",
+   "name": "Community Organizer",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_0",
+   "name": "Reunions",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_37_0",
+   "name": "Ranger Corps",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_41_0",
+   "name": "Animal Control",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_5_0",
+   "name": "Dangerous Minds",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_28_0",
+   "name": "What's Yours Is Mine",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_14_0",
+   "name": "Taking Independence",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_40_0",
+   "name": "Masshole",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_25_0",
+   "name": "Gun-For-Hire",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_6_0",
+   "name": "Hunter/Hunted",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_32_0",
+   "name": "Never Go It Alone",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_15_0",
+   "name": "Old Guns",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_38_0",
+   "name": "Print's Not Dead",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_7_0",
+   "name": "The Molecular Level",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_9_0",
+   "name": "Institutionalized",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_19_0",
+   "name": "Tradecraft",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_33_0",
+   "name": "Lovable",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_49_0",
+   "name": "Legend Of The Wastes",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_30_0",
+   "name": "Armed and Dangerous",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_51_0",
+   "name": "Mechanical Menace",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_31_0",
+   "name": "Wasteland D.I.Y.",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_50_0",
+   "name": "Prepared for the Future",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_10_0",
+   "name": "Mankind-Redefined",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_54_0",
+   "name": "Robot Hunter",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_59_0",
+   "name": "Far From Home",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_36_0",
+   "name": "…The Harder They Fall",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_29_0",
+   "name": "RobCo's Worst Nightmare",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_52_0",
+   "name": "Headhunting",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_8_0",
+   "name": "The Nuclear Option",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_53_0",
+   "name": "Restoring Order",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_55_0",
+   "name": "The Most Toys",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_11_0",
+   "name": "Powering Up",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_60_0",
+   "name": "Where You Belong",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_44_0",
+   "name": "They're Not Dolls…",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_81_0",
+   "name": "Taken for a Ride",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_17_0",
+   "name": "Blind Betrayal",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_73_0",
+   "name": "Better Living Underground",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_26_0",
+   "name": "Mercenary",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_12_0",
+   "name": "Nuclear Family",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_61_0",
+   "name": "The Way Life Should Be",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_66_0",
+   "name": "New England Vacationer",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_67_0",
+   "name": "Push Back The Fog",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_68_0",
+   "name": "Just Add Saltwater",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_63_0",
+   "name": "Close To Home",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_18_0",
+   "name": "Ad Victoriam",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_62_0",
+   "name": "Cleansing The Land",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_74_0",
+   "name": "Vault Dweller",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_72_0",
+   "name": "Oversight",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_82_0",
+   "name": "The Grand Tour",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_20_0",
+   "name": "Underground Undercover",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_21_0",
+   "name": "Rockets' Red Glare",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_42_0",
+   "name": "Homerun!",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_45_0",
+   "name": "…They're Action Figures",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_65_0",
+   "name": "Hooked",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_84_0",
+   "name": "Power Play",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_39_0",
+   "name": "Prankster's Return",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_69_0",
+   "name": "Show Off",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_83_0",
+   "name": "Home Sweet Home",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_70_0",
+   "name": "Time Out",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_24_0",
+   "name": "Benevolent Leader",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_71_0",
+   "name": "Mass Production",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_64_0",
+   "name": "The Islander's Almanac",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_76_0",
+   "name": "Diebrarian",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_78_0",
+   "name": "Hostile Takeover",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_58_0",
+   "name": "Trapper",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_80_0",
+   "name": "Eyes on the Prize",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_75_0",
+   "name": "Raiding for a Living",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_56_0",
+   "name": "Docile",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_57_0",
+   "name": "Instigator",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_77_0",
+   "name": "Beverageer",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_79_0",
+   "name": "All Sugared Up",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.5
+  }
+ ]
+}

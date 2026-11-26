@@ -1,0 +1,99 @@
+{
+ "appid": 239030,
+ "game": "Papers, Please",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 13,
+ "achievements": [
+  {
+   "api": "ACH_TOKEN_OBRISTAN",
+   "name": "Obristan Token",
+   "desc": "Collect the hidden Obristan Token",
+   "hidden": false,
+   "pct": 57.4
+  },
+  {
+   "api": "ACH_TOKEN_ANTEGRIA",
+   "name": "Antegria Token",
+   "desc": "Collect the hidden Antegria Token",
+   "hidden": false,
+   "pct": 39.6
+  },
+  {
+   "api": "ACH_TOKEN_ARSTOTZKA",
+   "name": "Arstotzka Token",
+   "desc": "Collect the hidden Arstotzka Token",
+   "hidden": false,
+   "pct": 36.6
+  },
+  {
+   "api": "ACH_END_TURNEDOVEREZICDOCS",
+   "name": "Too Honest",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.0
+  },
+  {
+   "api": "ACH_TOKEN_KOLECHIA",
+   "name": "Kolechia Token",
+   "desc": "Collect the hidden Kolechia Token",
+   "hidden": false,
+   "pct": 17.2
+  },
+  {
+   "api": "ACH_TOKEN_IMPOR",
+   "name": "Impor Token",
+   "desc": "Collect the hidden Impor Token",
+   "hidden": false,
+   "pct": 16.9
+  },
+  {
+   "api": "ACH_END_KILLEDTARGET",
+   "name": "Hired Rifle",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.0
+  },
+  {
+   "api": "ACH_TOKEN_UNITEDFED",
+   "name": "United Federation Token",
+   "desc": "Collect the hidden United Federation Token",
+   "hidden": false,
+   "pct": 14.7
+  },
+  {
+   "api": "ACH_END_IGNOREEZIC",
+   "name": "Glory to Arstotzka",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.3
+  },
+  {
+   "api": "ACH_END_HELPEZICHOLDFIRE",
+   "name": "Member of the Order",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.9
+  },
+  {
+   "api": "ACH_APT_CLASS5",
+   "name": "Worker's Best",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.4
+  },
+  {
+   "api": "ACH_TOKEN_REPUBLIA",
+   "name": "Republia Token",
+   "desc": "Collect the hidden Republia Token",
+   "hidden": false,
+   "pct": 8.2
+  },
+  {
+   "api": "ACH_END_ESCAPE",
+   "name": "Snowier Pastures",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.4
+  }
+ ]
+}

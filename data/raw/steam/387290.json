@@ -1,0 +1,407 @@
+{
+ "appid": 387290,
+ "game": "Ori and the Blind Forest: Definitive Edition",
+ "snapshot": "2026-11-24 18:06 +08",
+ "count": 57,
+ "achievements": [
+  {
+   "api": "findSecret",
+   "name": "So Many Secrets",
+   "desc": "Find your first secret",
+   "hidden": false,
+   "pct": 87.9
+  },
+  {
+   "api": "activateFirstSkill",
+   "name": "Choices Choices",
+   "desc": "Use your first ability point",
+   "hidden": false,
+   "pct": 85.9
+  },
+  {
+   "api": "completePrologue",
+   "name": "The Journey Begins",
+   "desc": "Complete the Prologue",
+   "hidden": false,
+   "pct": 79.5
+  },
+  {
+   "api": "findMapStone",
+   "name": "Marking the way",
+   "desc": "Restore your first Map Stone",
+   "hidden": false,
+   "pct": 75.8
+  },
+  {
+   "api": "reachSpiritTree",
+   "name": "The Ancient Being ",
+   "desc": "Meet the Ancient Being",
+   "hidden": false,
+   "pct": 72.4
+  },
+  {
+   "api": "openShortcutsWithChargeFlame",
+   "name": "A New Path",
+   "desc": "Break open 5 shortcuts using the Charge Flame",
+   "hidden": false,
+   "pct": 59.0
+  },
+  {
+   "api": "meetGumo",
+   "name": "Get Back Here!",
+   "desc": "Discover the character in the shadows",
+   "hidden": false,
+   "pct": 58.2
+  },
+  {
+   "api": "trickEnemyIntoKillingItself",
+   "name": "Self Destruction",
+   "desc": "Cause an enemy to destroy itself",
+   "hidden": false,
+   "pct": 55.7
+  },
+  {
+   "api": "retrieveWaterVein",
+   "name": "Let's be Friends",
+   "desc": "Make an unexpected friend",
+   "hidden": false,
+   "pct": 53.2
+  },
+  {
+   "api": "enterGinsoTree",
+   "name": "Rotten Inside",
+   "desc": "Enter the Ginso Tree",
+   "hidden": false,
+   "pct": 52.3
+  },
+  {
+   "api": "ressurectedGinsoHeart",
+   "name": "Run for Your Life",
+   "desc": "Cleanse the Ginso Tree's Heart",
+   "hidden": false,
+   "pct": 49.3
+  },
+  {
+   "api": "escapeGinsoTree",
+   "name": "Close Call",
+   "desc": "Escape a dangerous situation  ",
+   "hidden": false,
+   "pct": 48.7
+  },
+  {
+   "api": "findHalfOfMapStones",
+   "name": "Halfway There",
+   "desc": "Restore 50% of all Map Stones",
+   "hidden": false,
+   "pct": 46.8
+  },
+  {
+   "api": "createLotsOfSoulLinks",
+   "name": "Life Saver",
+   "desc": "Create 50 Soul Links",
+   "hidden": false,
+   "pct": 42.2
+  },
+  {
+   "api": "killManyWithChargeFlame",
+   "name": "Deadly Detonation",
+   "desc": "Kill 4 enemies simultaneously using Charge Flame.",
+   "hidden": false,
+   "pct": 42.1
+  },
+  {
+   "api": "clearMistyWoods",
+   "name": "Obtaining Clarity",
+   "desc": "Clear the haze from the Misty Woods",
+   "hidden": false,
+   "pct": 41.9
+  },
+  {
+   "api": "trickEnemiesToKillEachOther",
+   "name": "Deadly Dodge",
+   "desc": "Trick 5 enemies into killing another enemy",
+   "hidden": false,
+   "pct": 41.3
+  },
+  {
+   "api": "crushRamWithStomper",
+   "name": "Crushing Blow",
+   "desc": "Crush a Ram with a Stomper",
+   "hidden": false,
+   "pct": 39.4
+  },
+  {
+   "api": "restoreWind",
+   "name": "Solid Ground",
+   "desc": "Restore the winds of Nibel",
+   "hidden": false,
+   "pct": 38.9
+  },
+  {
+   "api": "escapedKuro",
+   "name": "Fight to Live Another Day",
+   "desc": "Have a close encounter",
+   "hidden": false,
+   "pct": 38.2
+  },
+  {
+   "api": "recoverSunstone",
+   "name": "Top of the world",
+   "desc": "Climb to the top of Nibel",
+   "hidden": false,
+   "pct": 36.6
+  },
+  {
+   "api": "enterMountHoru",
+   "name": "Into the Fire",
+   "desc": "Enter Mt. Horu",
+   "hidden": false,
+   "pct": 36.1
+  },
+  {
+   "api": "restoreFire",
+   "name": "Rekindle",
+   "desc": "Fan the flames",
+   "hidden": false,
+   "pct": 35.0
+  },
+  {
+   "api": "naruReunion",
+   "name": "Love",
+   "desc": "A beloved bond",
+   "hidden": false,
+   "pct": 34.4
+  },
+  {
+   "api": "completeGame",
+   "name": "The Journey Ends",
+   "desc": "Complete the game",
+   "hidden": false,
+   "pct": 34.4
+  },
+  {
+   "api": "escapeTheBoulder",
+   "name": "Raider Run",
+   "desc": "Escape the Boulder in Black Root Burrows",
+   "hidden": false,
+   "pct": 33.8
+  },
+  {
+   "api": "collectLotsOfEnergy",
+   "name": "Power Player",
+   "desc": "Collect 200 Energy Shards",
+   "hidden": false,
+   "pct": 33.1
+  },
+  {
+   "api": "killEnemiesWithoutTouchingGround",
+   "name": "Flying Fury",
+   "desc": "Kill 3 enemies without touching the ground",
+   "hidden": false,
+   "pct": 32.1
+  },
+  {
+   "api": "killFiveHundredEnemiesWithSpiritFlame",
+   "name": "Flame Master",
+   "desc": "Kill 500 enemies with Spirit Flame",
+   "hidden": false,
+   "pct": 30.5
+  },
+  {
+   "api": "doubleJumpConsecutively",
+   "name": "Airborne",
+   "desc": "Double Jump 5 times consecutively without touching the ground",
+   "hidden": false,
+   "pct": 30.1
+  },
+  {
+   "api": "findHalfOfSecrets",
+   "name": "Seasoned Explorer",
+   "desc": "Find 50% of all secrets",
+   "hidden": false,
+   "pct": 29.2
+  },
+  {
+   "api": "activateGrenadeSwitches",
+   "name": "Explosive Lobb",
+   "desc": "Activate 3 torches using Light Burst",
+   "hidden": false,
+   "pct": 28.1
+  },
+  {
+   "api": "killManyWithBashRedirect",
+   "name": "Deadly Deflection",
+   "desc": "Kill 25 enemies using Bash to reflect projectiles",
+   "hidden": false,
+   "pct": 27.7
+  },
+  {
+   "api": "completeLostGrove",
+   "name": "The Cycle",
+   "desc": "Uncover the mysteries of Naru",
+   "hidden": false,
+   "pct": 25.9
+  },
+  {
+   "api": "collectBranchOneSkills",
+   "name": "Soul Master",
+   "desc": "Earn all Efficiency Skills in the Ability Tree",
+   "hidden": false,
+   "pct": 24.3
+  },
+  {
+   "api": "findLostCorridor",
+   "name": "Good Eye",
+   "desc": "Find the lost corridor in the Misty Woods",
+   "hidden": false,
+   "pct": 23.5
+  },
+  {
+   "api": "collectBranchTwoSkills",
+   "name": "Utility Master",
+   "desc": "Earn all Utility Skills in the Ability Tree",
+   "hidden": false,
+   "pct": 22.5
+  },
+  {
+   "api": "useEverySavePedestal",
+   "name": "Safe and Sound",
+   "desc": "Save at every Spirit Portal ",
+   "hidden": false,
+   "pct": 21.2
+  },
+  {
+   "api": "collectBranchThreeSkills",
+   "name": "Combat Master",
+   "desc": "Earn all Combat Skills in the Ability Tree",
+   "hidden": false,
+   "pct": 21.2
+  },
+  {
+   "api": "collectAllHealthCells",
+   "name": "Master Guardian",
+   "desc": "Collect all Health Cells",
+   "hidden": false,
+   "pct": 18.0
+  },
+  {
+   "api": "collectAllSkills",
+   "name": "Phenom",
+   "desc": "Earn all skills in the Ability Tree",
+   "hidden": false,
+   "pct": 17.5
+  },
+  {
+   "api": "collectAllEnergyCells",
+   "name": "Powerhouse ",
+   "desc": "Collect all Energy Cells",
+   "hidden": false,
+   "pct": 16.7
+  },
+  {
+   "api": "findAllMapStones",
+   "name": "World at Your Feet",
+   "desc": "Restore all Map Stones",
+   "hidden": false,
+   "pct": 15.7
+  },
+  {
+   "api": "juggleRock",
+   "name": "Juggle Master",
+   "desc": "Juggle a rock 5 times without it hitting the ground",
+   "hidden": false,
+   "pct": 14.2
+  },
+  {
+   "api": "killFiftyEnemiesWithStomp",
+   "name": "Stomp Master",
+   "desc": "Kill 50 enemies with Stomp",
+   "hidden": false,
+   "pct": 13.7
+  },
+  {
+   "api": "discoverAllMap",
+   "name": "Master of the Forest ",
+   "desc": "Visit 100% of the map",
+   "hidden": false,
+   "pct": 11.8
+  },
+  {
+   "api": "chargeDashFiveTimes",
+   "name": "Lightning Fast",
+   "desc": "Kill 5 enemies using Charge Dash",
+   "hidden": false,
+   "pct": 10.3
+  },
+  {
+   "api": "killAHundredEnemiesWithChargeFlame",
+   "name": "Blast Master",
+   "desc": "Kill 100 enemies with Charge Flame",
+   "hidden": false,
+   "pct": 9.4
+  },
+  {
+   "api": "findAllSecrets",
+   "name": "No Stone Unturned",
+   "desc": "Find all secrets",
+   "hidden": false,
+   "pct": 8.6
+  },
+  {
+   "api": "chargeJumpIntoManyEnemies",
+   "name": "Deadly Dash",
+   "desc": "Kill 5 enemies with Charge Jump",
+   "hidden": false,
+   "pct": 8.2
+  },
+  {
+   "api": "beatHardMode",
+   "name": "Formidable",
+   "desc": " Complete the game on Hard Difficulty",
+   "hidden": false,
+   "pct": 6.5
+  },
+  {
+   "api": "bashEnemyALotInARow",
+   "name": "Bash Master",
+   "desc": "Bash off enemies 10 times in a row without touching the ground",
+   "hidden": false,
+   "pct": 6.3
+  },
+  {
+   "api": "kill50EnemiesWithGrenade",
+   "name": "Light Burst Master",
+   "desc": "Kill 50 enemies with Light Burst",
+   "hidden": false,
+   "pct": 3.7
+  },
+  {
+   "api": "finishWholeGameFast",
+   "name": "Supersonic ",
+   "desc": "Finish the game in under 3 hours",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "completeGameWithoutUsingAbilityPoint",
+   "name": "Elite",
+   "desc": "Complete the whole game without using an Ability Point",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "completeGameWithoutDying",
+   "name": "Immortal",
+   "desc": "Complete whole game without dying",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "beatOneLifeMode",
+   "name": "Unhinged",
+   "desc": "Complete the game on One Life Difficulty",
+   "hidden": false,
+   "pct": 1.3
+  }
+ ]
+}

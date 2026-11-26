@@ -1,0 +1,281 @@
+{
+ "appid": 814380,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 34,
+ "achievements": [
+  {
+   "name": "Sekiro",
+   "desc": "All achievements have been unlocked.",
+   "hidden": false,
+   "pct": 10.0,
+   "api_name": "ACH00",
+   "internal_key": 256
+  },
+  {
+   "name": "Man Without Equal",
+   "desc": "Defeated all bosses",
+   "hidden": true,
+   "pct": 14.7,
+   "api_name": "ACH01",
+   "internal_key": 257
+  },
+  {
+   "name": "Ashina Traveler",
+   "desc": "Traveled to all areas of the game",
+   "hidden": false,
+   "pct": 35.7,
+   "api_name": "ACH02",
+   "internal_key": 258
+  },
+  {
+   "name": "Master of the Prosthetic",
+   "desc": "Upgraded all Prosthetic Tools to their limit",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "ACH03",
+   "internal_key": 259
+  },
+  {
+   "name": "Height of Technique",
+   "desc": "Acquired all skills",
+   "hidden": true,
+   "pct": 13.8,
+   "api_name": "ACH04",
+   "internal_key": 260
+  },
+  {
+   "name": "All Prosthetic Tools",
+   "desc": "Acquired all Prosthetic Tools",
+   "hidden": false,
+   "pct": 31.1,
+   "api_name": "ACH05",
+   "internal_key": 261
+  },
+  {
+   "name": "All Ninjutsu Techniques",
+   "desc": "Acquired all Ninjutsu Techniques",
+   "hidden": false,
+   "pct": 33.5,
+   "api_name": "ACH06",
+   "internal_key": 262
+  },
+  {
+   "name": "Peak Physical Strength",
+   "desc": "Upgraded Vitality and Posture to their limit",
+   "hidden": false,
+   "pct": 21.4,
+   "api_name": "ACH07",
+   "internal_key": 263
+  },
+  {
+   "name": "Ultimate Healing Gourd",
+   "desc": "Fully upgraded the \"Healing Gourd\"",
+   "hidden": false,
+   "pct": 27.1,
+   "api_name": "ACH08",
+   "internal_key": 264
+  },
+  {
+   "name": "Immortal Severance",
+   "desc": "Attained the \"Immortal Severance\" ending",
+   "hidden": true,
+   "pct": 23.9,
+   "api_name": "ACH09",
+   "internal_key": 265
+  },
+  {
+   "name": "Purification",
+   "desc": "Attained the \"Purification\" ending",
+   "hidden": true,
+   "pct": 16.9,
+   "api_name": "ACH10",
+   "internal_key": 266
+  },
+  {
+   "name": "Dragon's Homecoming",
+   "desc": "Attained the \"Return\" ending",
+   "hidden": true,
+   "pct": 19.0,
+   "api_name": "ACH11",
+   "internal_key": 267
+  },
+  {
+   "name": "Shura",
+   "desc": "Attained the \"Shura\" ending",
+   "hidden": true,
+   "pct": 19.2,
+   "api_name": "ACH12",
+   "internal_key": 268
+  },
+  {
+   "name": "Sword Saint, Isshin Ashina",
+   "desc": "Defeated \"Sword Saint Isshin Ashina\"",
+   "hidden": true,
+   "pct": 31.4,
+   "api_name": "ACH13",
+   "internal_key": 269
+  },
+  {
+   "name": "Master of the Arts",
+   "desc": "Grasped the inner mysteries of any combat style",
+   "hidden": true,
+   "pct": 38.8,
+   "api_name": "ACH14",
+   "internal_key": 270
+  },
+  {
+   "name": "Lazuline Upgrade",
+   "desc": "Used Lapis Lazuli to upgrade any tool to its limit",
+   "hidden": true,
+   "pct": 21.2,
+   "api_name": "ACH15",
+   "internal_key": 271
+  },
+  {
+   "name": "Revered Blade",
+   "desc": "Received the \"Kusabimaru\" from Kuro",
+   "hidden": false,
+   "pct": 93.9,
+   "api_name": "ACH16",
+   "internal_key": 272
+  },
+  {
+   "name": "Shinobi Prosthetic",
+   "desc": "Acquired the Shinobi Prosthetic",
+   "hidden": false,
+   "pct": 89.6,
+   "api_name": "ACH17",
+   "internal_key": 273
+  },
+  {
+   "name": "Memorial Mob",
+   "desc": "Encountered the Memorial Mob",
+   "hidden": false,
+   "pct": 59.1,
+   "api_name": "ACH18",
+   "internal_key": 274
+  },
+  {
+   "name": "Resurrection",
+   "desc": "Returned from the dead using \"Resurrection\" for the first time",
+   "hidden": false,
+   "pct": 85.4,
+   "api_name": "ACH19",
+   "internal_key": 275
+  },
+  {
+   "name": "Gyoubu Masataka Oniwa",
+   "desc": "Defeated \"Gyoubu Masataka Oniwa\"",
+   "hidden": true,
+   "pct": 57.1,
+   "api_name": "ACH20",
+   "internal_key": 276
+  },
+  {
+   "name": "The Phantom Lady Butterfly",
+   "desc": "Defeated \"Lady Butterfly\"",
+   "hidden": true,
+   "pct": 46.5,
+   "api_name": "ACH21",
+   "internal_key": 277
+  },
+  {
+   "name": "Genichiro Ashina",
+   "desc": "Defeated \"Genichiro Ashina\"",
+   "hidden": true,
+   "pct": 45.2,
+   "api_name": "ACH22",
+   "internal_key": 278
+  },
+  {
+   "name": "Guardian Ape",
+   "desc": "Defeated the \"Guardian Ape\"",
+   "hidden": true,
+   "pct": 39.8,
+   "api_name": "ACH23",
+   "internal_key": 279
+  },
+  {
+   "name": "Guardian Ape Immortality Severed",
+   "desc": "Used the Mortal Blade to sever the Guardian Ape's undying",
+   "hidden": true,
+   "pct": 33.7,
+   "api_name": "ACH24",
+   "internal_key": 280
+  },
+  {
+   "name": "Folding Screen Monkeys",
+   "desc": "Caught the Folding Screen Monkeys",
+   "hidden": true,
+   "pct": 41.6,
+   "api_name": "ACH25",
+   "internal_key": 281
+  },
+  {
+   "name": "Great Shinobi - Owl",
+   "desc": "Defeated \"Great Shinobi - Owl\"",
+   "hidden": true,
+   "pct": 36.4,
+   "api_name": "ACH26",
+   "internal_key": 282
+  },
+  {
+   "name": "Father Surpassed",
+   "desc": "Defeated \"Great Shinobi - Owl\" at the Hirata Estate",
+   "hidden": true,
+   "pct": 22.1,
+   "api_name": "ACH27",
+   "internal_key": 283
+  },
+  {
+   "name": "Corrupted Monk",
+   "desc": "Defeated the \"Corrupted Monk\"",
+   "hidden": true,
+   "pct": 35.7,
+   "api_name": "ACH28",
+   "internal_key": 284
+  },
+  {
+   "name": "Gracious Gift of Tears",
+   "desc": "Defeated the \"Divine Dragon\" and obtained the \"Divine Dragon's Tears\"",
+   "hidden": true,
+   "pct": 34.7,
+   "api_name": "ACH29",
+   "internal_key": 285
+  },
+  {
+   "name": "Isshin Ashina",
+   "desc": "Defeated \"Isshin Ashina\"",
+   "hidden": true,
+   "pct": 19.2,
+   "api_name": "ACH30",
+   "internal_key": 286
+  },
+  {
+   "name": "Demon of Hatred",
+   "desc": "Defeated the \"Demon of Hatred\"",
+   "hidden": true,
+   "pct": 26.5,
+   "api_name": "ACH31",
+   "internal_key": 287
+  },
+  {
+   "name": "Great Serpent",
+   "desc": "Defeated the \"Great Serpent\".",
+   "hidden": true,
+   "pct": 32.4,
+   "api_name": "ACH32",
+   "internal_key": 512
+  },
+  {
+   "name": "Great Colored Carp",
+   "desc": "Defeated the \"Great Colored Carp\".",
+   "hidden": true,
+   "pct": 22.8,
+   "api_name": "ACH33",
+   "internal_key": 513
+  }
+ ]
+}

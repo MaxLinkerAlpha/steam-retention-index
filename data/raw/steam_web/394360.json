@@ -1,0 +1,2393 @@
+{
+ "appid": 394360,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 298,
+ "achievements": [
+  {
+   "name": "Friend in Need",
+   "desc": "Join a faction.",
+   "hidden": false,
+   "pct": 19.8,
+   "api_name": "friend_in_need",
+   "internal_key": 257
+  },
+  {
+   "name": "Time is on our side",
+   "desc": "Reach 1948.",
+   "hidden": false,
+   "pct": 11.1,
+   "api_name": "time_is_on_our_side",
+   "internal_key": 258
+  },
+  {
+   "name": "Canada First",
+   "desc": "Join Axis as Canada .",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "canada_first",
+   "internal_key": 259
+  },
+  {
+   "name": "We'll build it in a day",
+   "desc": "Research Construction V.",
+   "hidden": false,
+   "pct": 17.1,
+   "api_name": "we_will_build_it_in_a_day",
+   "internal_key": 260
+  },
+  {
+   "name": "Transport Tycoon",
+   "desc": "Have at least 1000 convoys.",
+   "hidden": false,
+   "pct": 17.0,
+   "api_name": "transport_tycoon",
+   "internal_key": 261
+  },
+  {
+   "name": "Destroyer of Worlds",
+   "desc": "Deploy a nuke.",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "destroyer_of_worlds",
+   "internal_key": 262
+  },
+  {
+   "name": "Wunderwaffen",
+   "desc": "Has completed the Special Projects Nuclear Fission Bomb, Rocket Interceptor and Jet Engines.",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "wunderwaffen",
+   "internal_key": 263
+  },
+  {
+   "name": "United Netherlands",
+   "desc": "Conquer Belgium and Luxembourg as Netherlands .",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "united_netherlands",
+   "internal_key": 264
+  },
+  {
+   "name": "Vive la France",
+   "desc": "Reach 1948 as France without capitulating or surrendering.",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "vive_la_france",
+   "internal_key": 265
+  },
+  {
+   "name": "Master of War",
+   "desc": "Fully research a land, air and naval doctrine tree.",
+   "hidden": false,
+   "pct": 7.9,
+   "api_name": "master_of_war",
+   "internal_key": 266
+  },
+  {
+   "name": "Mine is bigger than yours",
+   "desc": "Lead a faction with at least 20 members.",
+   "hidden": false,
+   "pct": 10.5,
+   "api_name": "mine_is_bigger_than_yours",
+   "internal_key": 267
+  },
+  {
+   "name": "No country for old men",
+   "desc": "Reach 0 manpower with Scraping the Barrel as Conscription Law.",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "no_country_for_old_men",
+   "internal_key": 268
+  },
+  {
+   "name": "Poland can into space",
+   "desc": "Has completed the Special Project Rocket Interceptor.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "poland_can_into_space",
+   "internal_key": 269
+  },
+  {
+   "name": "True Blitzkrieg",
+   "desc": "As Germany have both Poland and France surrender before January 1st 1940.",
+   "hidden": false,
+   "pct": 9.1,
+   "api_name": "true_blitzkrieg",
+   "internal_key": 270
+  },
+  {
+   "name": "Northern Light",
+   "desc": "As a Scandinavian country form your own faction, and have Denmark, Sweden, Norway and Finland in it.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "northern_light",
+   "internal_key": 271
+  },
+  {
+   "name": "Nobody expects...",
+   "desc": "As Nationalist Spain in Axis manage to take Paris before the Germans.",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "nobody_expects",
+   "internal_key": 272
+  },
+  {
+   "name": "The bell tolls for us",
+   "desc": "Win Spanish Civil War as Republican Spain.",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "the_bell_tolls_for_us",
+   "internal_key": 273
+  },
+  {
+   "name": "The Revolution Triumphant",
+   "desc": "Have Germany as a puppet of Soviet.",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "the_revolution_triumphant",
+   "internal_key": 274
+  },
+  {
+   "name": "Once More Mate",
+   "desc": "Occupy Gallipoli as Australia.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "once_more_mate",
+   "internal_key": 275
+  },
+  {
+   "name": "Forge of Victory",
+   "desc": "Have 50 factories as Belgium.",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "forge_of_victory",
+   "internal_key": 276
+  },
+  {
+   "name": "Sunset Invasion",
+   "desc": "Occupy a coastal province in Europe as Mexico, and if in a faction have it contain only South American members or puppets.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "sunset_invasion",
+   "internal_key": 277
+  },
+  {
+   "name": "Duce Nuked'em",
+   "desc": "Nuke Los Angeles as fascist Italy.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "duce_nukedem",
+   "internal_key": 278
+  },
+  {
+   "name": "Operation Sea Lion",
+   "desc": "Control British mainland as Germany.",
+   "hidden": false,
+   "pct": 9.0,
+   "api_name": "operation_sealion",
+   "internal_key": 279
+  },
+  {
+   "name": "One Empire",
+   "desc": "Unite the entire world under the British Empire.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "one_empire",
+   "internal_key": 280
+  },
+  {
+   "name": "Party like it's 1520",
+   "desc": "Occupy Stockholm as communist Denmark.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "party_like_its_1520",
+   "internal_key": 281
+  },
+  {
+   "name": "Med plutonium...",
+   "desc": "Nuke Denmark as Sweden.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "med_plutonium",
+   "internal_key": 282
+  },
+  {
+   "name": "The Revenge of Montezuma",
+   "desc": "Restore the old borders with USA as Mexico.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "montezumas_revenge",
+   "internal_key": 283
+  },
+  {
+   "name": "Big Entente",
+   "desc": "As France, complete the “Little Entente” National Focus, and have all German cores owned by you or someone in your faction.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "big_entente",
+   "internal_key": 284
+  },
+  {
+   "name": "New World Order",
+   "desc": "Make all nations fascist.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "new_world_order",
+   "internal_key": 285
+  },
+  {
+   "name": "Bearer of Artillery",
+   "desc": "Gain Vojtek as commander",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "vojtek_commander",
+   "internal_key": 286
+  },
+  {
+   "name": "Braaaaains!",
+   "desc": "As Canada, complete the Send in the Zombies focus.",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "brains",
+   "internal_key": 287
+  },
+  {
+   "name": "District 9",
+   "desc": "As South Africa, have 9 civilian factories in Transvaal.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "district_9",
+   "internal_key": 514
+  },
+  {
+   "name": "Our Words Are Backed With Nuclear Weapons",
+   "desc": "As India, develop and deploy a nuke. You must have the Quit India Movement national spirit.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "our_words_are_backed",
+   "internal_key": 515
+  },
+  {
+   "name": "Crusader Kings",
+   "desc": "As South Africa, finish the A King for our People focus and take Jerusalem.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "crusader_kings",
+   "internal_key": 516
+  },
+  {
+   "name": "Crusader Kings 2",
+   "desc": "As South Africa, finish the Anti-Colonialist Crusade focus, release all European colonies via the focus, and take London.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "crusader_kings_2",
+   "internal_key": 517
+  },
+  {
+   "name": "Rule Britannia",
+   "desc": "As any British Subject state, conquer all of Britain.",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "rule_britannia",
+   "internal_key": 518
+  },
+  {
+   "name": "Cut The Strings",
+   "desc": "Break free from your overlord as a puppet.",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "cut_the_strings",
+   "internal_key": 519
+  },
+  {
+   "name": "It's 1812 All Over Again",
+   "desc": "As Canada, take and hold Washington D.C.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "its_1812_all_over_again",
+   "internal_key": 520
+  },
+  {
+   "name": "The weapons of the Third Emu War",
+   "desc": "As Australia, use a nuclear bomb on core Australian territory.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "the_weapons_of_the_third_emu_war",
+   "internal_key": 521
+  },
+  {
+   "name": "I Am the Tong Master",
+   "desc": "As South Africa, break free from the UK and puppet another nation.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "i_am_the_tong_master",
+   "internal_key": 522
+  },
+  {
+   "name": "The Empire Strikes Back",
+   "desc": "As Britain, declare war on one of your former subjects.",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "the_empire_strikes_back",
+   "internal_key": 523
+  },
+  {
+   "name": "The Puppetmaster",
+   "desc": "Have at least 51 subjects.",
+   "hidden": false,
+   "pct": 4.1,
+   "api_name": "the_puppetmaster",
+   "internal_key": 524
+  },
+  {
+   "name": "Freegypt",
+   "desc": "As Egypt, go from puppet to a free nation using the autonomy system.",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "freegypt",
+   "internal_key": 525
+  },
+  {
+   "name": "Miklos Horthy and the Habsburg Prince",
+   "desc": "As Hungary, restore Austria-Hungary.",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "miklos_horthy_and_the_habsburg_prince",
+   "internal_key": 526
+  },
+  {
+   "name": "Better than the Szent István",
+   "desc": "As Hungary, have Miklos Horthy as a Naval commander and build a battleship.",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "better_than_the_szent_istvan",
+   "internal_key": 527
+  },
+  {
+   "name": "Death or Dishonor or Cake",
+   "desc": "As Romania, own a slice of all your starting neighbors.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "death_or_dishonor_or_cake",
+   "internal_key": 528
+  },
+  {
+   "name": "Neither Death nor Dishonor",
+   "desc": "As Romania, make it to 1942 with all the states you started it with and control either Moscow or Berlin.",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "neither_death_nor_dishonor",
+   "internal_key": 529
+  },
+  {
+   "name": "The Munich Disagreement",
+   "desc": "As Czechoslovakia, occupy Munich while at war with Germany.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "the_munich_disagreement",
+   "internal_key": 530
+  },
+  {
+   "name": "Czechmate",
+   "desc": "As Czechoslovakia, occupy Canberra while at war with the Allies.",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "czechmate",
+   "internal_key": 531
+  },
+  {
+   "name": "Huge-oslavia",
+   "desc": "As Yugoslavia, occupy all your neighbouring countries (Austria, Hungary, Romania, Bulgaria, Albania, Italy and Greece).",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "huge_oslavia",
+   "internal_key": 532
+  },
+  {
+   "name": "The Balkan Powder Keg",
+   "desc": "As Yugoslavia, start the Second World War (i.e. be part of either the Axis or the Allies and at war with the other faction in a war you started).",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "the_balkan_powder_keg",
+   "internal_key": 533
+  },
+  {
+   "name": "En Svensk Tiger",
+   "desc": "As Sweden, acquire a production license for a Tiger or Tiger II tank from Germany.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "en_svensk_tiger",
+   "internal_key": 534
+  },
+  {
+   "name": "Lethal Straight",
+   "desc": "Have a production license from at least 5 of the 7 major powers.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "lethal_straight",
+   "internal_key": 535
+  },
+  {
+   "name": "Awake and Angry",
+   "desc": "As China, reconquer all of China and Manchuria and force a Japanese surrender.",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "awake_and_angry",
+   "internal_key": 536
+  },
+  {
+   "name": "Romance of the Three Kingdoms",
+   "desc": "As China, puppet and then annex Yunnan and Guangxi Clique.",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "romance_of_the_three_kingdoms",
+   "internal_key": 537
+  },
+  {
+   "name": "Sun Tzu Reborn",
+   "desc": "As Any Chinese Nation, have a level 9 field marshal.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "sun_tzu_reborn",
+   "internal_key": 538
+  },
+  {
+   "name": "The People Have Stood Up!",
+   "desc": "With Mao as your leader, win the Chinese Civil War.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "the_people_have_stood_up",
+   "internal_key": 539
+  },
+  {
+   "name": "Made in China",
+   "desc": "As Communist China, have over 100 military factories.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "made_in_china",
+   "internal_key": 540
+  },
+  {
+   "name": "Tojo Shot First",
+   "desc": "As Japan, nuke a core territory of the US before the US develops nuclear weapons.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "tojo_shot_first",
+   "internal_key": 541
+  },
+  {
+   "name": "Sunrise Invasion",
+   "desc": "As Japan, conquer Mexico then Europe before 1945.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "sunrise_invasion",
+   "internal_key": 542
+  },
+  {
+   "name": "The Dragon Swallowed the Sun",
+   "desc": "As Manchukuo, break free from Japan and annex your former Overlord without being in a faction.",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "the_dragon_swallowed_the_sun",
+   "internal_key": 543
+  },
+  {
+   "name": "Hail to the Qing",
+   "desc": "As Manchukuo, restore the Qing dynasty.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "hail_to_the_qing",
+   "internal_key": 768
+  },
+  {
+   "name": "The Good, the Bad and the Weird",
+   "desc": "As Manchukuo, have max level infrastructure in every owned state and generate at least 15 units of oil.",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "the_good_the_bad_and_the_weird",
+   "internal_key": 769
+  },
+  {
+   "name": "Battlecry",
+   "desc": "As a warlord, conquer all of China and Japan.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "battlecry",
+   "internal_key": 770
+  },
+  {
+   "name": "Panda-monium",
+   "desc": "As a warlord, be at war with all chinese nations simultaneously.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "panda_monium",
+   "internal_key": 772
+  },
+  {
+   "name": "Make a Man Out Of You",
+   "desc": "As a warlord, have at least 1.000.000 manpower queued up for deployment.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "make_a_man_out_of_you",
+   "internal_key": 773
+  },
+  {
+   "name": "Our Other Place in the Sun",
+   "desc": "As Imperial Germany, conquer a Caribbean island.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "our_other_place_in_the_sun",
+   "internal_key": 774
+  },
+  {
+   "name": "Australia-Hungary",
+   "desc": "As Australia, own all core territory of Hungary.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "australia_hungary",
+   "internal_key": 775
+  },
+  {
+   "name": "My Ships Don't Lie",
+   "desc": "As Colombia, form Gran Colombia and have 10 Carriers and 10 Battleships.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "my_ships_dont_lie",
+   "internal_key": 776
+  },
+  {
+   "name": "I Swear I’m Not a Byzantophile",
+   "desc": "As Greece, Form Byzantine Empire.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "i_swear_im_not_a_byzantophile",
+   "internal_key": 777
+  },
+  {
+   "name": "Monarchy is Back In Fashion",
+   "desc": "As Germany, bring back the Kaiser and ensure that Italy is controlled by Victor Emmanuel by killing Mussolini.",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "monarchy_is_back_in_fashion",
+   "internal_key": 778
+  },
+  {
+   "name": "Team America",
+   "desc": "As the U.S.A., drop a nuclear bomb on Paris.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "team_america",
+   "internal_key": 779
+  },
+  {
+   "name": "History Repeated Itself",
+   "desc": "As the U.S.A., win against the Confederate States. Again.",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "history_repeated_itself",
+   "internal_key": 780
+  },
+  {
+   "name": "Georgia On My Mind",
+   "desc": "As the U.S.A., own and fully control all three Georgias.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "georgia_on_my_mind",
+   "internal_key": 781
+  },
+  {
+   "name": "To Arms in Dixie!",
+   "desc": "As the U.S.A., start a new civil war as the South.",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "to_arms_in_dixie",
+   "internal_key": 782
+  },
+  {
+   "name": "Arsenal of Democracy",
+   "desc": "As the U.S.A., have more than 300 military factories.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "arsenal_of_democracy",
+   "internal_key": 783
+  },
+  {
+   "name": "Underpaid, Undersexed, and Under Eisenhower",
+   "desc": "As the U.S.A., assume faction leadership of the Allies, and have over 50 expeditionary divisions from the United Kingdom.",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "underpaid_undersexed_and_under_eisenhower",
+   "internal_key": 784
+  },
+  {
+   "name": "Last for a Thousand Years",
+   "desc": "As the United Kingdom, accomplish the federation of the entire British Empire.",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "last_for_a_thousand_years",
+   "internal_key": 785
+  },
+  {
+   "name": "Britzkrieg",
+   "desc": "As the United Kingdom, put Edward VIII in power, ally Germany, and fully control Paris.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "britzkrieg",
+   "internal_key": 786
+  },
+  {
+   "name": "Nothing Wrong with our Bloody Ships",
+   "desc": "As the United Kingdom, have at least 9 battlecruisers.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "nothing_wrong_with_our_bloody_ships",
+   "internal_key": 787
+  },
+  {
+   "name": "William Wallis",
+   "desc": "As the United Kingdom, put Edward VIII in power, enforce an American monarchy, and have both it and Scotland as subjects.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "william_wallis",
+   "internal_key": 788
+  },
+  {
+   "name": "Crush the Dream",
+   "desc": "As a Communist United Kingdom, crush the American Dream by puppeting the U.S.A.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "crush_the_dream",
+   "internal_key": 789
+  },
+  {
+   "name": "Treading the Narrow Path",
+   "desc": "As the Netherlands, do not cave to the Germans, continue the Zuiderzee works, and do not lose control of any of your continental European states until 1945.",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "treading_the_narrow_path",
+   "internal_key": 790
+  },
+  {
+   "name": "Putting the Raid on the Medway to Shame",
+   "desc": "As the Netherlands, ensure the United Kingdom has no capital ships (carriers, battleships, battlecruisers, or heavy cruisers).",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "putting_the_raid_on_the_medway_to_shame",
+   "internal_key": 791
+  },
+  {
+   "name": "Bevrijding",
+   "desc": "As the Netherlands, liberate the continental Netherlands after relocating the government to the East Indies.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "bevrijding",
+   "internal_key": 792
+  },
+  {
+   "name": "Mi Casa es tu Casa",
+   "desc": "As Mexico, host a government-in-exile.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "mi_casa_es_tu_casa",
+   "internal_key": 793
+  },
+  {
+   "name": "The New Home of the Revolution",
+   "desc": "As Mexico, put Trotsky in power and puppet the Soviet Union.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "the_new_home_of_the_revolution",
+   "internal_key": 794
+  },
+  {
+   "name": "Assuming Direct Control",
+   "desc": "Starting as a minor power, assume faction leadership of the Allies, the Axis, or the Comintern.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "assuming_direct_control",
+   "internal_key": 795
+  },
+  {
+   "name": "Vive la Jeune Ecole",
+   "desc": "As France, have at least 150 Destroyers and research the maximum torpedo launcher technology, before 1945.",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "vive_la_jeune_ecole",
+   "internal_key": 796
+  },
+  {
+   "name": "30 Minutes of Hel",
+   "desc": "As Poland in the 1939 “Blitzkrieg” scenario start, inflict over 1,800,000 casualties to Germany to beat the 2018 PDXCON HOI4 challenge. Extra bragging rights if you do it in 30 minutes or less!",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "30_minutes_of_hel",
+   "internal_key": 797
+  },
+  {
+   "name": "Pride and Extreme Prejudice",
+   "desc": "Sink the British Pride of the Fleet.",
+   "hidden": false,
+   "pct": 4.1,
+   "api_name": "pride_and_extreme_prejudice",
+   "internal_key": 798
+  },
+  {
+   "name": "Do You Mined?",
+   "desc": "Lay at least 1,000 mines on the coastline of an enemy nation.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "do_you_mined",
+   "internal_key": 799
+  },
+  {
+   "name": "BFFs",
+   "desc": "As Portugal, join the same faction as Great Britain.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "portugal_bffs",
+   "internal_key": 1024
+  },
+  {
+   "name": "Man of a Thousand Faces, Every One the Same",
+   "desc": "Have the same spy get captured twice.",
+   "hidden": false,
+   "pct": 7.9,
+   "api_name": "man_of_a_thousand_faces",
+   "internal_key": 1025
+  },
+  {
+   "name": "We Will Rock You",
+   "desc": "As Spain, own Gibraltar.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "we_will_rock_you",
+   "internal_key": 1026
+  },
+  {
+   "name": "Warszawo, Walcz!",
+   "desc": "Stage the Warsaw uprising and succeed.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "warsaw_liberates_self",
+   "internal_key": 1027
+  },
+  {
+   "name": "Play It, Sam",
+   "desc": "Have a spy network of at least 50% strength in Casablanca.",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "play_it_again",
+   "internal_key": 1028
+  },
+  {
+   "name": "Shaken, Not Stirred",
+   "desc": "Successfully stage a coup in any nation using a spy with the Seducer trait.",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "shaken_not_stirred",
+   "internal_key": 1029
+  },
+  {
+   "name": "Listen Very Carefully, I Shall Say This...",
+   "desc": "Have a French and British spy work together on the same Operation.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "listen_carefully",
+   "internal_key": 1030
+  },
+  {
+   "name": "One King, Two Crowns",
+   "desc": "As Bourbon Spain, hold all Spanish and French core states.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "one_king_two_crowns",
+   "internal_key": 1031
+  },
+  {
+   "name": "Well, I Didn’t Vote for You",
+   "desc": "Win the Spanish Civil War as the Anarchists.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "i_didnt_vote_for_you",
+   "internal_key": 1032
+  },
+  {
+   "name": "Die, Perfidious Albion!",
+   "desc": "As Fascist France or Vichy France, occupy all of Great Britain.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "die_albion",
+   "internal_key": 1033
+  },
+  {
+   "name": "Spies Trade",
+   "desc": "As India, become the spymaster for the Allies.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "spies_trade",
+   "internal_key": 1034
+  },
+  {
+   "name": "You Will Never Kill Me Alive",
+   "desc": "Have one of your spies take a Suicide Pill.",
+   "hidden": false,
+   "pct": 8.0,
+   "api_name": "you_will_never_kill_me_alive",
+   "internal_key": 1035
+  },
+  {
+   "name": "I SEE EVERYTHING",
+   "desc": "Get over 90% intel in each category on a major without using code cracking.",
+   "hidden": false,
+   "pct": 8.4,
+   "api_name": "i_see_everything",
+   "internal_key": 1036
+  },
+  {
+   "name": "Turing Complete!",
+   "desc": "Fully decrypt all nations in the Axis. ",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "turing_complete",
+   "internal_key": 1037
+  },
+  {
+   "name": "Our Chief Weapon is Surprise...",
+   "desc": "As Spain, have at least 5 spies and stage 5 coups against other nations.",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "our_chief_weapon_is_surprise",
+   "internal_key": 1038
+  },
+  {
+   "name": "Second Time’s the Charm",
+   "desc": "As France, occupy Moscow while Napoleon VI is your country leader.",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "second_times_charm",
+   "internal_key": 1039
+  },
+  {
+   "name": "Why Die For Danzig?",
+   "desc": "As Germany, turn France fascist and occupy Danzig without going to war with France.",
+   "hidden": false,
+   "pct": 7.0,
+   "api_name": "why_die_for_danzig",
+   "internal_key": 1040
+  },
+  {
+   "name": "Tour de France",
+   "desc": "Occupy all of mainland France while having at least 20 fully equipped Bicycle regiments.",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "tour_de_france",
+   "internal_key": 1041
+  },
+  {
+   "name": "Go Ahead, Macau My Day",
+   "desc": "As Portugal, create a collaboration government in Macau and have it own all Chinese states.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "portugal_macau_my_day",
+   "internal_key": 1042
+  },
+  {
+   "name": "Don’t Die for Your Country",
+   "desc": "As Germany in a 1939 start, occupy all of Poland and France without taking more than 475 casualties.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "dont_die_for_your_country",
+   "internal_key": 1043
+  },
+  {
+   "name": "Finnish Him!",
+   "desc": "As Finland, defeat the Soviet Union without joining a faction.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "finnish_him",
+   "internal_key": 1044
+  },
+  {
+   "name": "I Captured the Bosporus and All I Got Was This Lousy Achievement",
+   "desc": "As Greece or Bulgaria, own both sides of the Bosporus. As Turkey, subjugate both Greece & Bulgaria.",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "lousy_achievement",
+   "internal_key": 1045
+  },
+  {
+   "name": "Istanbul is Constantinople. Again.",
+   "desc": "As Greece, capture Istanbul and rename it to Constantinople.",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "istanbul_is_constantinople_again",
+   "internal_key": 1046
+  },
+  {
+   "name": "Peter’s Pride",
+   "desc": "As Peter II of Yugoslavia, overthrow your uncle and become King.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "peters_pride",
+   "internal_key": 1047
+  },
+  {
+   "name": "This is Madness!",
+   "desc": "As Greece, fulfill the Megali Idea and then form Greater Greece. ",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "this_is_madness",
+   "internal_key": 1048
+  },
+  {
+   "name": "Nobody’s Business but the Turks",
+   "desc": "Restore the Ottoman Sultanate.",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "nobodys_business_but_the_turks",
+   "internal_key": 1049
+  },
+  {
+   "name": "House of Kurds",
+   "desc": "As Kurdistan, hold all of your cores.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "kurdish_achievement",
+   "internal_key": 1050
+  },
+  {
+   "name": "Hellenic Civility",
+   "desc": "Win the Greek Civil War before 1937.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "greek_civility",
+   "internal_key": 1051
+  },
+  {
+   "name": "Hoofin’ It",
+   "desc": "Unite Arabia with thirty camelry divisions.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "hoofin_it",
+   "internal_key": 1052
+  },
+  {
+   "name": "We’re Putting the Band Back Together",
+   "desc": "As Turkey, be in a faction with Germany and Austria-Hungary.",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "were_putting_the_band_back_together",
+   "internal_key": 1053
+  },
+  {
+   "name": "Dracula’s Revenge",
+   "desc": "As Yugoslavia, establish the autonomous region of Transylvania and have it own all Romanian cores.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "draculas_revenge",
+   "internal_key": 1054
+  },
+  {
+   "name": "Prussia of the Balkans",
+   "desc": "As Bulgaria capitulate Turkey while also controlling the rest of the Balkans, including Greece.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "prussia_of_the_balkans",
+   "internal_key": 1055
+  },
+  {
+   "name": "Balkan Problem Solved",
+   "desc": "As Communist Bulgaria, form the United Balkan Federation and own all Balkan states as cores.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "balkan_problem_solved",
+   "internal_key": 1280
+  },
+  {
+   "name": "Bad Romeance",
+   "desc": "Restore Byzantium and have Italy, Romania, and Russia as subjects.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "bad_romeance",
+   "internal_key": 1281
+  },
+  {
+   "name": "Totally Not Cool, Bromania",
+   "desc": "As Romania, change sides in the war and capitulate a former ally.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "totally_not_cool_bromania",
+   "internal_key": 1282
+  },
+  {
+   "name": "Freedom or Death",
+   "desc": "As Greece, liberate Albania while being at war with Italy.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "freedom_or_death",
+   "internal_key": 1283
+  },
+  {
+   "name": "Now This is Getting Childish",
+   "desc": "As Yugoslavia or Bulgaria, be at war while both countries are ruled by a child.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "now_this_is_getting_childish",
+   "internal_key": 1284
+  },
+  {
+   "name": "Hardly Anything Sèvres",
+   "desc": "As the Ottoman Empire, hold the capitals of France, the United Kingdom, Italy, and Japan.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "hardly_anything_sevres",
+   "internal_key": 1285
+  },
+  {
+   "name": "One Nation Under Atatürk, Indivisible",
+   "desc": "As non-aligned Turkey, have zero negative state modifiers.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "one_nation_under_ataturk_indivisible",
+   "internal_key": 1286
+  },
+  {
+   "name": "Master Puppeteer",
+   "desc": "As Bulgaria, complete the focus The Fate of the Balkans while having 5 or more Balkan puppets.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "master_puppeteer",
+   "internal_key": 1287
+  },
+  {
+   "name": "At least they run on time!",
+   "desc": "As fascist Italy, have max level railways in all your core states",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "at_least_they_run_on_time",
+   "internal_key": 1288
+  },
+  {
+   "name": "Not much fun in Stalingrad",
+   "desc": "As Germany, capitulate the Soviet Union without taking Stalingrad.",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "not_much_fun_in_stalingrad",
+   "internal_key": 1289
+  },
+  {
+   "name": "No more Partitions",
+   "desc": "As Poland, be independent and ensure that both Germany and the USSR are either in your faction or don’t exist.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "no_more_partitions",
+   "internal_key": 1290
+  },
+  {
+   "name": "Habsburgs. Habsburgs everywhere",
+   "desc": "As Poland, install a Habsburg monarch and be in a faction with another Habsburg monarch.",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "habsburgs_habsburgs_everywhere",
+   "internal_key": 1291
+  },
+  {
+   "name": "The Pope? How many Divisions does he have?",
+   "desc": "As the USSR take Rome.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "the_pope_how_many_divisions_does_he_have",
+   "internal_key": 1292
+  },
+  {
+   "name": "This is going to be LIT",
+   "desc": "As Lithuania, hold the capitals of all of your neighbours.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "this_is_going_to_be_lit",
+   "internal_key": 1293
+  },
+  {
+   "name": "It has my name on it",
+   "desc": "As any Baltic State, conquer the entire shoreline of the Baltic Sea.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "it_has_my_name_on_it",
+   "internal_key": 1294
+  },
+  {
+   "name": "This Achievement is Cheesy",
+   "desc": "As Latvia, form Ostland and occupy Vasterbotten.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "this_achievement_is_cheesy",
+   "internal_key": 1295
+  },
+  {
+   "name": "Esti is Scandi",
+   "desc": "As Estonia Secure Scandinavia.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "esti_is_scandi",
+   "internal_key": 1296
+  },
+  {
+   "name": "Not a step back!",
+   "desc": "As the Soviet Union never lose 1 core territory to anyone before 1945.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "not_a_step_back",
+   "internal_key": 1297
+  },
+  {
+   "name": "One Step Forward",
+   "desc": "As Soviet Union declare a war on Poland and Germany before Germany attacks Poland.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "one_step_forward",
+   "internal_key": 1298
+  },
+  {
+   "name": "The Soviet Onion",
+   "desc": "As the Soviet Union, have only puppets as neighbors.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "the_soviet_onion",
+   "internal_key": 1299
+  },
+  {
+   "name": "Crusader Kings III",
+   "desc": "As Poland, crown a King (or Queen) and capture Jerusalem.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "crusader_kings_3",
+   "internal_key": 1300
+  },
+  {
+   "name": "The Romanovs laugh last",
+   "desc": "Restore the Romanovs to the throne and conquer Germany, Hungary, Austria, Czechoslovakia,Turkey, and Bulgaria.",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "the_romanovs_laugh_last",
+   "internal_key": 1301
+  },
+  {
+   "name": "We don’t really like statistics",
+   "desc": "As the Soviet Union under Stalin, conquer Germany while suffering less than 1 million casualties total.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "we_dont_really_like_statistics",
+   "internal_key": 1302
+  },
+  {
+   "name": "Race for Germany",
+   "desc": "As the Soviet union, capitulate Germany after the fall of France before the allies control one German core state.",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "race_for_germany",
+   "internal_key": 1303
+  },
+  {
+   "name": "Siberian Tiger",
+   "desc": "As Tannu Tuva, form Siberia.",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "siberian_tiger",
+   "internal_key": 1304
+  },
+  {
+   "name": "Just proper gander",
+   "desc": "As the Soviet Union, activate 30 propaganda campaigns before 1945.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "just_proper_gander",
+   "internal_key": 1305
+  },
+  {
+   "name": "Around Eurasia in 80 days",
+   "desc": "Make a railroad from Gibraltar to Singapore.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "around_eurasia_in_80_days",
+   "internal_key": 1306
+  },
+  {
+   "name": "Poland Peasant Revolution",
+   "desc": "As Poland, have the Peasant’s Strike overthrow the government.",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "poland_peasant_revolution",
+   "internal_key": 1307
+  },
+  {
+   "name": "...and you get a canton, everybody gets a canton!",
+   "desc": "As Switzerland, have 24 states",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "and_you_get_a_canton",
+   "internal_key": 1308
+  },
+  {
+   "name": "I’m not locked in here with you…",
+   "desc": "As Switzerland, declare war on Germany and win.",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "im_not_locked_in_here_with_you",
+   "internal_key": 1309
+  },
+  {
+   "name": "Swiss Cheese",
+   "desc": "As Switzerland annex 5 states that are not contiguous with each other or Switzerland.",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "swiss_cheese",
+   "internal_key": 1310
+  },
+  {
+   "name": "You Shall Not Pass",
+   "desc": "As Switzerland win a defensive war without ever losing Western Swiss Alps, Eastern Swiss Alps or Ticino",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "you_shall_not_pass",
+   "internal_key": 1536
+  },
+  {
+   "name": "The Lion that Roared",
+   "desc": "As Ethiopia, without being in a faction, force the Italians to make peace. Again.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "the_lion_that_roared",
+   "internal_key": 1537
+  },
+  {
+   "name": "The Lion King",
+   "desc": "As Haile Selassie, declare yourself “King of Kings” and control Kenya and Tanzania.",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "the_lion_king",
+   "internal_key": 1538
+  },
+  {
+   "name": "This time for Africa",
+   "desc": "As Ethiopia, found the African Union and have it encompass at least 13 different countries with capitals in Africa.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "this_time_for_africa",
+   "internal_key": 1539
+  },
+  {
+   "name": "Crusader Kings IV",
+   "desc": "Take Jerusalem as Ethiopia and move the capital there",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "crusader_kings_4",
+   "internal_key": 1540
+  },
+  {
+   "name": "The Red Sea",
+   "desc": "As Ethiopia, go communist and take all the states that border the Red Sea",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "the_red_sea",
+   "internal_key": 1541
+  },
+  {
+   "name": "Holy, Roman, and an Empire",
+   "desc": "As the Pope, restore Rome.",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "holy_roman_and_an_empire",
+   "internal_key": 1543
+  },
+  {
+   "name": "Pizza Time!",
+   "desc": "As Italy, occupy New York, Chicago and Hawaii",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "pizza_time",
+   "internal_key": 1544
+  },
+  {
+   "name": "Collect all the Romes",
+   "desc": "As Italy, continue holding onto the First Rome, and gain the second and third Rome",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "collect_all_the_romes",
+   "internal_key": 1545
+  },
+  {
+   "name": "Nothing personal, Adolf",
+   "desc": "As Italy, take Austria before the Anschluss and never enter a faction with a fascist Germany",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "nothing_personal_adolf",
+   "internal_key": 1546
+  },
+  {
+   "name": "Not today",
+   "desc": "As communist Italy, save Gramsci from the brink of death, make him the leader of Italy and form the Italian National Union.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "not_today",
+   "internal_key": 1547
+  },
+  {
+   "name": "This time it will stick",
+   "desc": "As any Allied Nation (in faction with a democratic Britain), enforce a peace deal on Germany that disarms the Rhineland and Moselland and makes them a demilitarized zone.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "this_time_it_will_stick",
+   "internal_key": 1548
+  },
+  {
+   "name": "By Beer Alone",
+   "desc": "As Germany, control Budweis, Tsingtao, and Guinness directly or through a faction member",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "by_beer_alone",
+   "internal_key": 1549
+  },
+  {
+   "name": "By merit alone",
+   "desc": "Promote a Unit Commander to a general, and reach max level",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "by_merit_alone",
+   "internal_key": 1550
+  },
+  {
+   "name": "Snakes on a plane",
+   "desc": "As Brazil, capture Rome with paratroopers.",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "snakes_on_a_plane",
+   "internal_key": 1551
+  },
+  {
+   "name": "Stalin, how many guns does he have? ",
+   "desc": "As the pope, capitulate the USSR",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "stalin_how_many_guns_does_he_have",
+   "internal_key": 1552
+  },
+  {
+   "name": "Sapmi united by the fire",
+   "desc": "As Sami, own and control every Sami core.",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "sapmi_united_by_the_fire",
+   "internal_key": 1553
+  },
+  {
+   "name": "Norway Jose",
+   "desc": "As Norway, own and control every Mexican core.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "norway_jose",
+   "internal_key": 1554
+  },
+  {
+   "name": "Pinot Noirway",
+   "desc": "As Norway, own and control the state of Bourgogne.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "pinot_noirway",
+   "internal_key": 1555
+  },
+  {
+   "name": "Cheese your fighter.",
+   "desc": "As Norway, with Peder Jarlsberg as country leader, own Telemark, Glouchestershire, Normandy, Lombardia and Holland.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "cheese_your_fighter",
+   "internal_key": 1556
+  },
+  {
+   "name": "Med plutonium 2.",
+   "desc": "As Denmark nuke Sweden.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "med_plutonium_2",
+   "internal_key": 1557
+  },
+  {
+   "name": "Everything is awesome.",
+   "desc": "As Denmark, get Maximum Welfare Spending after January 1st 1941 without being puppeted or capitulating.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "everything_is_awesome",
+   "internal_key": 1558
+  },
+  {
+   "name": "The Danelaw",
+   "desc": "As Denmark, conquer England.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "the_danelaw",
+   "internal_key": 1559
+  },
+  {
+   "name": "Vinland",
+   "desc": "As Iceland, conquer Newfoundland",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "vinland",
+   "internal_key": 1560
+  },
+  {
+   "name": "Brexit",
+   "desc": "As communist Iceland, make Wales, Scotland and Northern Ireland rise up against the United Kingdom",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "brexit",
+   "internal_key": 1561
+  },
+  {
+   "name": "Two Arms Against Tyranny.",
+   "desc": "As Finland, capitulate the Soviet Union while having a 2 country faction with another Nordic",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "two_arms_against_tyranny",
+   "internal_key": 1562
+  },
+  {
+   "name": "Uralic brothers united",
+   "desc": "As Finland, have Hungary, Estonia, Sapmi, Karelia, Mari El, Udmurtia, Komi, Ostyak-Vogulia, Yamalia and Nenetsia as subjects",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "uralic_brothers_united",
+   "internal_key": 1563
+  },
+  {
+   "name": "Lone Wolf",
+   "desc": "As Finland, form Greater Finland and own every core and claim without having ever joined a faction",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "lone_wolf",
+   "internal_key": 1564
+  },
+  {
+   "name": "No one crosses the finnish line",
+   "desc": "As non-aligned Finland, survive the Soviet Union until September 19th 1944 without losing control of a single core ever.",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "no_one_crosses_the_finnish_line",
+   "internal_key": 1565
+  },
+  {
+   "name": "Danzig queen",
+   "desc": "As Sweden, own and control Danzig",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "danzig_queen",
+   "internal_key": 1566
+  },
+  {
+   "name": "Caramelldansen",
+   "desc": "As Sweden puppet Japan",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "caramelldansen",
+   "internal_key": 1567
+  },
+  {
+   "name": "The return of the king",
+   "desc": "As the exiled King of Gotland, retake mainland Sweden",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "the_return_of_the_king",
+   "internal_key": 1792
+  },
+  {
+   "name": "Satisfactory",
+   "desc": "Have at least one MIO per category at level 10+",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "satisfactory",
+   "internal_key": 1793
+  },
+  {
+   "name": "Cod wars",
+   "desc": "As Iceland capitulate the UK",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "cod_wars",
+   "internal_key": 1794
+  },
+  {
+   "name": "The Magic School Bus",
+   "desc": "With the Per Albin Bus, drive to Cape Town.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "the_magic_school_bus",
+   "internal_key": 1795
+  },
+  {
+   "name": "Rumble in the Jungle",
+   "desc": "Own all amazon states as any South American nation.",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "rumble_in_the_jungle",
+   "internal_key": 1796
+  },
+  {
+   "name": "And the snake smoked",
+   "desc": "As Brazil, in the allies, capitulate Germany while controlling Berlin.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "and_the_snake_smoked",
+   "internal_key": 1797
+  },
+  {
+   "name": "Red Hot Chile Peppers",
+   "desc": "As Communist Chile, control California",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "red_hot_chile_peppers",
+   "internal_key": 1798
+  },
+  {
+   "name": "Bad Ending - The whole world is now Brazil",
+   "desc": "Control every state in the world",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "bad_ending_the_whole_world_is_now_brazil",
+   "internal_key": 1799
+  },
+  {
+   "name": "A Land of Fire",
+   "desc": "Tierra del Fuego means \"The Land of Fire\"",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "land_of_fire",
+   "internal_key": 1800
+  },
+  {
+   "name": "I'm Home!",
+   "desc": "As Brazil occupy every core of Portugal",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "im_home",
+   "internal_key": 1801
+  },
+  {
+   "name": "Proactive Defense",
+   "desc": "As any communist South or Central American country, occupy Washington D.C",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "proactive_defense",
+   "internal_key": 1802
+  },
+  {
+   "name": "The Merry Band",
+   "desc": "As communist brazil ruled by Lampião, occupy Nottingham",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "the_merry_band",
+   "internal_key": 1803
+  },
+  {
+   "name": "Somehow He Has Returned",
+   "desc": "As Argentina, have Senor Hitler become country leader",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "somehow_he_has_returned",
+   "internal_key": 1804
+  },
+  {
+   "name": "URSAL",
+   "desc": "Be communist and own all of South America",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "ursal",
+   "internal_key": 1805
+  },
+  {
+   "name": "Islas Malvinas",
+   "desc": "As Argentina, hold the Falkland islands and South Georgia for 73 days consecutively",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "islas_malvinas",
+   "internal_key": 1806
+  },
+  {
+   "name": "Lamento Boliviano",
+   "desc": "As Argentina, own all of Latin America except Bolivia",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "lamento_boliviano",
+   "internal_key": 1807
+  },
+  {
+   "name": "Revenge for the triple alliance",
+   "desc": "As Paraguay, declare war on Argentina, Brazil and Uruguay within the same month",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "revenge_for_the_triple_alliance",
+   "internal_key": 1808
+  },
+  {
+   "name": "The Dragon Rises",
+   "desc": "As \"Welsh Argentina\", control Wales",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "the_dragon_rises",
+   "internal_key": 1809
+  },
+  {
+   "name": "King of What?",
+   "desc": "Have Jaque Antoine Bernard as King of Chile and control Paris",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "king_of_what",
+   "internal_key": 1810
+  },
+  {
+   "name": "True Condor Legion",
+   "desc": "As CHL, BOL, PRU, ECU, VEN, COL - sent volunteers to Germany",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "true_condor_legion",
+   "internal_key": 1811
+  },
+  {
+   "name": "Chilean Empire",
+   "desc": "Control all mainland states that border the pacific in South America, North America and Asia",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "chilean_empire",
+   "internal_key": 1812
+  },
+  {
+   "name": "Reconquistadors",
+   "desc": "As Argentina or Chile, have a Conquistadors national spirit active while holding all Spanish cores",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "reconquistadors",
+   "internal_key": 1813
+  },
+  {
+   "name": "Hispanics of the world unite!",
+   "desc": "As Chile, form the Hispanic Alliance and have at least 8 \"Hispanic\" nations in your faction",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "hispanics_of_the_world_unite",
+   "internal_key": 1814
+  },
+  {
+   "name": "Cisplatine War 2, Electric Boogaloo",
+   "desc": "As either Brazil or Argentina, be in a faction with Uruguay while at war with Brazil/Argentina",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "cisplatine_war_2",
+   "internal_key": 1815
+  },
+  {
+   "name": "America Decolonized!",
+   "desc": "As Mapuche Chile liberate all native people in North and South America",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "america_decolonized",
+   "internal_key": 1816
+  },
+  {
+   "name": "Antischluss",
+   "desc": "As Austria, control all German starting states.",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "antischluss",
+   "internal_key": 1817
+  },
+  {
+   "name": "No Friends, Only Family",
+   "desc": "As Austria or Hungary led by a Habsburg Monarch, Control the Swiss Plateau and have at least three other countries be led by a member of the Habsburg family.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "no_friends_only_family",
+   "internal_key": 1818
+  },
+  {
+   "name": "Edelweiss Seedelweiss",
+   "desc": "As Austria have a coastline, at least 10 Battleships and have Georg von Trapp as an Admiral",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "edelweiss_seedelweiss",
+   "internal_key": 1819
+  },
+  {
+   "name": "Otto-man",
+   "desc": "As Austria or Hungary, led by Otto von Habsburg, control the starting states of Austria, Hungary, Czechoslovakia, Romania, Bulgaria, Greece and Turkey as well as the states in Polish Galicia, Slovenia and Croatia.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "otto-man",
+   "internal_key": 1820
+  },
+  {
+   "name": "Spaak of Genius",
+   "desc": "As Belgium, with Paul-Henri Spaak as country leader, research at least 10 different Special Projects.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "spaak_of_genius",
+   "internal_key": 1821
+  },
+  {
+   "name": "Brentry",
+   "desc": "As Austria, Belgium or the Netherlands be the leader of the EU and have the United Kingdom join your faction.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "brentry",
+   "internal_key": 1822
+  },
+  {
+   "name": "The 501st Legion",
+   "desc": "As Belgium, have the National Spirit “Rexist Legion” and be in control of all of your starting neighbors’ Capitals ",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "the_501st_legion",
+   "internal_key": 1823
+  },
+  {
+   "name": "Congolese Belgium",
+   "desc": "As Congo break free from the shackles of your old overlord and take control of all of their starting states.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "congolese_belgium",
+   "internal_key": 2048
+  },
+  {
+   "name": "The Lenin Boys are Back in Town",
+   "desc": "As Communist Hungary bring back the Lenin-fiúk and take control over Leningrad",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "the_lenin_boys_are_back_in_town",
+   "internal_key": 2049
+  },
+  {
+   "name": "A Great Hunger",
+   "desc": "As Hungary proclaim Greater Hungary and control all of your historical state",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "a_great_hunger",
+   "internal_key": 2050
+  },
+  {
+   "name": "Weltpolitik",
+   "desc": "As Germany take control of all of your former colonies",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "weltpolitik",
+   "internal_key": 2051
+  },
+  {
+   "name": "Naval Arms Race",
+   "desc": "As Germany led by an Admiral capitulate the United Kingdom.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "naval_arms_race",
+   "internal_key": 2052
+  },
+  {
+   "name": "Woman in a High Castle",
+   "desc": "As Germany with a female leader either annex the USA, including Alaska and Hawaii or have an American puppet that owns all the American starting states, including Alaska and Hawaii.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "woman_in_a_high_castle",
+   "internal_key": 2053
+  },
+  {
+   "name": "American Prometheus",
+   "desc": "As the USA have Robert Oppenheimer complete the Manhattan Project.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "american_prometheus",
+   "internal_key": 2054
+  },
+  {
+   "name": "Tsar Bomba",
+   "desc": "As Tsarist Russia complete the Special Project for thermonuclear bombs.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "tsar_bomba",
+   "internal_key": 2055
+  },
+  {
+   "name": "Super Heavy Metal",
+   "desc": "Complete the Special Projects for Intercontinental Bombers, Land Cruisers, and Super Heavy Battleships.",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "super_heavy_metal",
+   "internal_key": 2056
+  },
+  {
+   "name": "Backfire",
+   "desc": "As the United Kingdom complete the Special Project for Medium Range Ballistic Missiles, have a rocket site, and be at war with Germany",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "backfire",
+   "internal_key": 2057
+  },
+  {
+   "name": "Dam It!",
+   "desc": "Successfully execute a Dam Busting Raid",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "dam_it",
+   "internal_key": 2058
+  },
+  {
+   "name": "Bullseye",
+   "desc": "Successfully launch a raid on a Landmark",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "bullseye",
+   "internal_key": 2059
+  },
+  {
+   "name": "The True Successor",
+   "desc": "As Luxembourg led by Charles Marx control both Brussels and Trier.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "the_true_successor",
+   "internal_key": 2060
+  },
+  {
+   "name": "Graveyard of Empires",
+   "desc": "As Afghanistan, Iran, Iraq or the Raj, control all of the other three nations' cores",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "graveyard_of_empires",
+   "internal_key": 2061
+  },
+  {
+   "name": "This achievement is dedicated to the brave soldiers of... ",
+   "desc": "As Afghanistan, capitulate the Soviet Union",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "this_achievement_is_dedicated_to_the_brave_soldiers_of",
+   "internal_key": 2062
+  },
+  {
+   "name": "I have the high ground",
+   "desc": "As Afghanistan, control all Himalyan states",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "i_have_the_high_ground",
+   "internal_key": 2063
+  },
+  {
+   "name": "Pesky Greeks",
+   "desc": "As Iran, become the owner of all Greek core states ",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "pesky_greeks",
+   "internal_key": 2064
+  },
+  {
+   "name": "The Sands of Time",
+   "desc": "As Iran, own the entire Middle East",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "the_sands_of_time",
+   "internal_key": 2065
+  },
+  {
+   "name": "The Legacy of Cyrus the Great",
+   "desc": "As Iran, become the owner of former Achaemenid Empire's states",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "the_legacy_of_cyrus_the_great",
+   "internal_key": 2066
+  },
+  {
+   "name": "From Tehran with Love",
+   "desc": "As Iran, guarantee Poland's independence and ensure it does not capitulate by 1945.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "from_tehran_with_love",
+   "internal_key": 2067
+  },
+  {
+   "name": "Cradle of Civilization",
+   "desc": "As Iraq, build the maximum infrastructure level in all core states and achieve 100% stability",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "cradle_of_civilization",
+   "internal_key": 2068
+  },
+  {
+   "name": "It's Just Good Business",
+   "desc": "As the East India Company, own Suez and Panama",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "its_just_good_business",
+   "internal_key": 2069
+  },
+  {
+   "name": "Media Mughal",
+   "desc": "As the Mughal Empire, complete Agency Upgrade Psychological Warfare, become Spy Master and have at least 8 operatives",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "media_mughal",
+   "internal_key": 2070
+  },
+  {
+   "name": "Oh, how the turntables",
+   "desc": "As India puppet the UK with Churchill as it's leader",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "oh_how_the_turntables",
+   "internal_key": 2071
+  },
+  {
+   "name": "I'm just passing by",
+   "desc": "Own a state on each continent while being at peace",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "im_just_passing_by",
+   "internal_key": 2072
+  },
+  {
+   "name": "That's SIkh!",
+   "desc": "As Khalistan, control all of the starting Raj states",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "thats_sikh",
+   "internal_key": 2073
+  },
+  {
+   "name": "Oil Sheiks",
+   "desc": "As Iraq, have 500 oil production",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "oil_sheiks",
+   "internal_key": 2074
+  },
+  {
+   "name": "Revenge for 1925",
+   "desc": "As Iraq, form the Hashemite Arab Federation and defeat Saudi Arabia",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "revenge_for_1925",
+   "internal_key": 2075
+  },
+  {
+   "name": "Avenging the Sack of Baghdad",
+   "desc": "As Iraq, control the capital of Mongolia",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "avenging_the_sack_of_baghdad",
+   "internal_key": 2076
+  },
+  {
+   "name": "I shall either find a way or make one",
+   "desc": "Control Rome and have an elephant unit in the state.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "i_shall_either_find_a_way_or_make_one",
+   "internal_key": 2077
+  },
+  {
+   "name": "Savior of the holy lands",
+   "desc": "As Afghanistan, become the owner of Palestine and Mecca",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "savior_of_the_holy_lands",
+   "internal_key": 2078
+  },
+  {
+   "name": "Doctrine of Choice",
+   "desc": "Complete three subdoctrines in the same track.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "doctrine_of_choice",
+   "internal_key": 2079
+  },
+  {
+   "name": "Manifesting a Better Tomorrow",
+   "desc": "Reach 100% faction manifest fulfilment.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "manifesting_a_better_tomorrow",
+   "internal_key": 2304
+  },
+  {
+   "name": "Genghis Khan't",
+   "desc": "As any Chinese country or Manchukuo, own and control all Mongolian core states.",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "genghis_khant",
+   "internal_key": 2305
+  },
+  {
+   "name": "The Neverending Story",
+   "desc": "As a Warlord, proclaim a new Chinese Empire.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "the_neverending_story",
+   "internal_key": 2306
+  },
+  {
+   "name": "Its all coming together",
+   "desc": "As China, fully control all core states alone or with subjects.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "its_all_coming_together",
+   "internal_key": 2307
+  },
+  {
+   "name": "The Coast is Clear",
+   "desc": "As China, never lose a starting coastal state before 1945.9.2.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "the_coast_is_clear",
+   "internal_key": 2308
+  },
+  {
+   "name": "A Fullmetal Brotherhood",
+   "desc": "As Fascist China, control 300 Steel, Tungsten and Chromium.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "a_fullmetal_brotherhood",
+   "internal_key": 2309
+  },
+  {
+   "name": "Battle Royale",
+   "desc": "As Communist China, fight both China and Japan before 1940 within 90 days of being at war with the other, and capitulate them both.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "battle_royale",
+   "internal_key": 2310
+  },
+  {
+   "name": "The Winner takes it all",
+   "desc": "As PRC owns and controls all starting Chinese core states.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "the_winner_takes_it_all",
+   "internal_key": 2311
+  },
+  {
+   "name": "Master Infiltrator",
+   "desc": "As PRC, don't expand beyond Yan'an, and infiltrate at least 5 Chinese states and flip them to your control when attacking the rest of China.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "master_infiltrator",
+   "internal_key": 2312
+  },
+  {
+   "name": "Paradisus Paradoxum",
+   "desc": "As Japan, proclaim the creation of a Pure Buddhist Land.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "paradisus_paradoxum",
+   "internal_key": 2313
+  },
+  {
+   "name": "An Equivalent Exchange",
+   "desc": "As Democratic Japan, complete the focus Foreign Exchange Allocation Policy and capitulate Fascist Germany.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "an_equivalent_exchange",
+   "internal_key": 2314
+  },
+  {
+   "name": "The Sun Will Never Set",
+   "desc": "As Japan, proclaim the Eternal Empire and control all of your core states.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "the_sun_will_never_set",
+   "internal_key": 2315
+  },
+  {
+   "name": "The Juannines",
+   "desc": "As the Philippines, have cores and control all of Spain.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "the_juannines",
+   "internal_key": 2316
+  },
+  {
+   "name": "Declare Military Emergency",
+   "desc": "Have a Military Emergency declared in the Philippines.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "declare_military_emergency",
+   "internal_key": 2317
+  },
+  {
+   "name": "Cobalt Sea",
+   "desc": "As the Philippines, launch nuclear missiles from a nuclear submarine.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "cobalt_sea",
+   "internal_key": 2318
+  },
+  {
+   "name": "I Have Avenged You, Father!",
+   "desc": "As Zhang Xueliang, reclaim Mukden and revive the Beiyang government.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "i_have_avenged_you_father",
+   "internal_key": 2319
+  },
+  {
+   "name": "I'm playing both sides, so I always come out on top",
+   "desc": "Sell weapons to both sides of a civil war.",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "im_playing_both_sides_so_i_always_come_out_on_top",
+   "internal_key": 2320
+  },
+  {
+   "name": "I didn't hear no bell",
+   "desc": "As democratic Czechoslovakia, become the 2nd republic by losing the Sudetenland and then granting autonomy to Slovakia, before capitulating Germany.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "i_didnt_hear_no_bell",
+   "internal_key": 2321
+  },
+  {
+   "name": "Premyslid's Dream",
+   "desc": "As monarchist Czechoslovakia, integrate both Austria and former Bohemian lands.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "premyslids_dream",
+   "internal_key": 2322
+  },
+  {
+   "name": "Kuťáci",
+   "desc": "As Czechoslovakia, build every facility type.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "kutaci",
+   "internal_key": 2323
+  },
+  {
+   "name": "First train home",
+   "desc": "As Czechoslovakia, own any state of the Trans-Siberian Railway.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "first_train_home",
+   "internal_key": 2324
+  },
+  {
+   "name": "Ain't like that now",
+   "desc": "As fascist Czechoslovakia, complete \"Return to Democracy\".",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "aint_like_that_now",
+   "internal_key": 2325
+  },
+  {
+   "name": "Czechoslovaustrohungarian Union",
+   "desc": "As communist Czechoslovakia, complete \"Expand the Union\" and have Austria and Hungary in that union.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "czechoslovaustrohungarian_union",
+   "internal_key": 2326
+  },
+  {
+   "name": "Steiner",
+   "desc": "As Germany, get over 30% surrender progress after 1941.6.22 while being at war with Soviet Union, France and England and controlling Moscow, Paris and London.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "steiner",
+   "internal_key": 2327
+  },
+  {
+   "name": "Saving Private Bryansk",
+   "desc": "Capture a General in the state of Bryansk.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "saving_private_bryansk",
+   "internal_key": 2328
+  },
+  {
+   "name": "Et tu, Paulus?",
+   "desc": "Capture a field Marshal.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "et_tu_paulus",
+   "internal_key": 2329
+  },
+  {
+   "name": "Hunt for the Desert Fox",
+   "desc": "Capture Erwin Rommel.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "hunt_for_the_desert_fox",
+   "internal_key": 2330
+  },
+  {
+   "name": "A Bridge too Far",
+   "desc": "As the UK, liberate Brabant, and have Bernard Montgomery liberate Friesland while maintaining a force in Arnhem.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "a_bridge_too_far",
+   "internal_key": 2331
+  },
+  {
+   "name": "Waltzing Matilda",
+   "desc": "Deploy 25 Heavy Tank Battalions as Australia.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "walzing_matilda",
+   "internal_key": 2332
+  },
+  {
+   "name": "The 7th State",
+   "desc": "As Australia, own and fully control New Zealand.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "the_7th_state",
+   "internal_key": 2333
+  },
+  {
+   "name": "The rightside up",
+   "desc": "As Australia, own and fully control Jan Mayen.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "right_side_up",
+   "internal_key": 2334
+  },
+  {
+   "name": "A Succulent Chinese Meal",
+   "desc": "As Australia annex and own one province in China.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "a_succulent_chinese_meal",
+   "internal_key": 2335
+  },
+  {
+   "name": "ANZAC",
+   "desc": "As Australia or New Zealand, have an Army HQ in Greece and ensure that Greece doesn't capitulate until 1945.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "anzac",
+   "internal_key": 2560
+  },
+  {
+   "name": "Noone Will Notice the Difference",
+   "desc": "As Indonesia, station Gustav Adolf Ilgen in Stockholm.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "no_one_will_notice_the_difference",
+   "internal_key": 2561
+  },
+  {
+   "name": "Java-Script",
+   "desc": "As the Dutch East Indies (or Indonesia), research the Advanced Computing Machine and fully upgrade the Cryptology Department (while your capital is on the island of Java).",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "java_script",
+   "internal_key": 2562
+  },
+  {
+   "name": "The Man of Medan",
+   "desc": "Sink 100 convoys as Indonesia.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "the_man_of_medan",
+   "internal_key": 2563
+  },
+  {
+   "name": "Maphilindia",
+   "desc": "As Indonesia or the Philippines, form Maphilindo and control all Indian core states.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "maphilindia",
+   "internal_key": 2564
+  },
+  {
+   "name": "Old Zealand",
+   "desc": "As New Zealand, control and own the states of Brabant (Zeeland) and Sjaelland (Zealand).",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "old_zealand",
+   "internal_key": 2565
+  },
+  {
+   "name": "From Rags to Admiral Stripes",
+   "desc": "Promote a Ship Captains to Admiral.",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "from_rags_to_admiral_stripes",
+   "internal_key": 2566
+  },
+  {
+   "name": "Hail to the King",
+   "desc": "As Siam, form Greater Thailand before King Ananda is 15 years old.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "hail_to_the_king",
+   "internal_key": 2567
+  },
+  {
+   "name": "Grand Siam",
+   "desc": " As Siam, capitulate 4 nations within one year.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "grand_siam",
+   "internal_key": 2568
+  },
+  {
+   "name": "ThaiTanic",
+   "desc": "As any nation, sink Siam's pride of the fleet.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "thaitanic",
+   "internal_key": 2569
+  },
+  {
+   "name": "Thai fighters",
+   "desc": "As Siam, have 10 aces.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "thaifighters",
+   "internal_key": 2570
+  },
+  {
+   "name": "Dacii",
+   "desc": "As Romania, form the Kingdom of Dacia.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "dacii",
+   "internal_key": 2571
+  },
+  {
+   "name": "What would Maniu think",
+   "desc": "As democratic Romania, receive the maximum intervention bonus on 4 countries.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "what_would_maniu_think",
+   "internal_key": 2572
+  },
+  {
+   "name": "Before 1947",
+   "desc": "Win the Romanian People's Revolution without Prison Faction aid and puppet the USSR.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "before_1947",
+   "internal_key": 2573
+  },
+  {
+   "name": "Rome-mania",
+   "desc": "As Romania, own and control Rome, Istanbul and Moscow.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "rome_mania",
+   "internal_key": 2574
+  },
+  {
+   "name": "Total Balkan Domination",
+   "desc": "As Romania, fully own and control the Balkans.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "balkan_domination",
+   "internal_key": 2575
+  }
+ ]
+}

@@ -1,0 +1,617 @@
+{
+ "appid": 1643320,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 76,
+ "achievements": [
+  {
+   "name": "Clincher",
+   "desc": "100 enemies shot in the head. Not bad for a head start…",
+   "hidden": false,
+   "pct": 58.1,
+   "api_name": "Progressive_DoHeadshots",
+   "internal_key": 256
+  },
+  {
+   "name": "Goodnight",
+   "desc": "Get 20 covert kills. The Zone likes it quiet.",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "Progressive_DoStealthKills",
+   "internal_key": 257
+  },
+  {
+   "name": "On the go",
+   "desc": "Bread and sausage — Zone's most popular sandwich recipe.",
+   "hidden": false,
+   "pct": 63.4,
+   "api_name": "Sandwich",
+   "internal_key": 258
+  },
+  {
+   "name": "Tit for tat",
+   "desc": "Sidorovich's worst nightmare: buy and sell goods for the exact same amount of coupons in one deal.",
+   "hidden": false,
+   "pct": 8.2,
+   "api_name": "PerfectBarter",
+   "internal_key": 259
+  },
+  {
+   "name": "First touches",
+   "desc": "First equipment enhancement. Never the last, for most Zone folks.",
+   "hidden": false,
+   "pct": 64.5,
+   "api_name": "PurchaseUpgrade",
+   "internal_key": 260
+  },
+  {
+   "name": "The good, the bad and the ugly",
+   "desc": "5 headshots in 10 seconds. Good eye.",
+   "hidden": false,
+   "pct": 42.5,
+   "api_name": "HeadshotStreak",
+   "internal_key": 261
+  },
+  {
+   "name": "Bingo",
+   "desc": "Experience the effects of bleeding, sleep, hunger, alcohol, radiation and psi. Doesn't sound pretty.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "RoyalFlush",
+   "internal_key": 262
+  },
+  {
+   "name": "Zone's deadliest predator",
+   "desc": "Kill a mutant of every kind. You'll need a bigger wall to fit all those trophies!",
+   "hidden": false,
+   "pct": 25.0,
+   "api_name": "MutantHunter",
+   "internal_key": 263
+  },
+  {
+   "name": "Pump it up",
+   "desc": "Fully enhance any type of weapon. Somewhere out there, a Zone technician just shed a tear of pride..",
+   "hidden": false,
+   "pct": 53.7,
+   "api_name": "Gunsmith",
+   "internal_key": 264
+  },
+  {
+   "name": "The four winds",
+   "desc": "Unlock the whole map. Few folks know the Zone this well.",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "Discovery",
+   "internal_key": 265
+  },
+  {
+   "name": "Taking it for granted",
+   "desc": "Gear broken beyond repair. Don't forget to pay regular visits to the technician.",
+   "hidden": false,
+   "pct": 35.8,
+   "api_name": "BreakEquipment",
+   "internal_key": 266
+  },
+  {
+   "name": "Miracle hoarder",
+   "desc": "Collect all artifacts. What about arch-artifacts?",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ArtiHoarder",
+   "internal_key": 267
+  },
+  {
+   "name": "Curiouser and curiouser!",
+   "desc": "Collect all arch-artifacts. A priceless collection, arguably too weird, even by Zone standards.",
+   "hidden": false,
+   "pct": 5.2,
+   "api_name": "ArchiHoarder",
+   "internal_key": 268
+  },
+  {
+   "name": "No obstacle too big…",
+   "desc": "Kill 50 enemies through obstacles. No one in the Zone is really safe.",
+   "hidden": false,
+   "pct": 16.8,
+   "api_name": "Progressive_NoObstacleTooBig",
+   "internal_key": 269
+  },
+  {
+   "name": "BOOM!",
+   "desc": "20 enemies killed by blowing up the surroundings. Save on hand grenades and enjoy the fireworks.",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "Progressive_Demoman",
+   "internal_key": 270
+  },
+  {
+   "name": "Personal approach",
+   "desc": "One fight, four enemies, killed by different weapons. That trick would charm the hell out of Mavka!",
+   "hidden": false,
+   "pct": 36.0,
+   "api_name": "UseDifferentWeapons",
+   "internal_key": 271
+  },
+  {
+   "name": "Loner shooter",
+   "desc": "Shoot an enemy in the head from 75 meters. No scope-peeking!",
+   "hidden": false,
+   "pct": 8.0,
+   "api_name": "LonerShooter",
+   "internal_key": 272
+  },
+  {
+   "name": "Merry-go-round",
+   "desc": "Drop a corpse into the Whirlgig anomaly. A joy for someone who never got to ride the Ferris Wheel.",
+   "hidden": false,
+   "pct": 14.6,
+   "api_name": "MerryGoRound",
+   "internal_key": 273
+  },
+  {
+   "name": "Keeping your hands steady",
+   "desc": "Shoot an enemy in the head, through an obstacle, having the intoxication effect. ",
+   "hidden": false,
+   "pct": 12.8,
+   "api_name": "DrunkMaster",
+   "internal_key": 274
+  },
+  {
+   "name": "Catching up",
+   "desc": "Shoot an incoming grenade to make it explode. Nice view!",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "CatchingUp",
+   "internal_key": 275
+  },
+  {
+   "name": "Flash Royal",
+   "desc": "Gather all armor and gear enhancement flash drives.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "BlueHoarder",
+   "internal_key": 276
+  },
+  {
+   "name": "Wiped out",
+   "desc": "Kill a Rodent using a grenade launcher. A good wipe-out makes the Duty proud.",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "WipedOut",
+   "internal_key": 277
+  },
+  {
+   "name": "Can opener",
+   "desc": "Use a knife to kill an enemy wearing an exoskeleton. Epic battle indeed.",
+   "hidden": false,
+   "pct": 17.5,
+   "api_name": "CanOpener",
+   "internal_key": 278
+  },
+  {
+   "name": "Coupons to burn",
+   "desc": "Spend over 1,000,000 coupons. Myklukha and Sidorovich will fight hard over their favorite customer.",
+   "hidden": false,
+   "pct": 28.8,
+   "api_name": "Progressive_CouponsToBurn",
+   "internal_key": 279
+  },
+  {
+   "name": "Bouncy",
+   "desc": "A successful jump from a 30-meter height. No parachute, though.",
+   "hidden": false,
+   "pct": 22.9,
+   "api_name": "Bouncy",
+   "internal_key": 280
+  },
+  {
+   "name": "Run, stalker, run!",
+   "desc": "That Chimera made you run like an Olympic champion!",
+   "hidden": false,
+   "pct": 25.6,
+   "api_name": "ChimeraRun",
+   "internal_key": 281
+  },
+  {
+   "name": "Peace and quiet",
+   "desc": "Kill everyone in the camp before the alarm is set off. They couldn't see it coming!",
+   "hidden": false,
+   "pct": 36.0,
+   "api_name": "SneakyClearLair",
+   "internal_key": 282
+  },
+  {
+   "name": "Proxy",
+   "desc": "Kill a squad that just finished off another squad and won the fight. Or so they thought…",
+   "hidden": false,
+   "pct": 64.9,
+   "api_name": "FinishSquad",
+   "internal_key": 283
+  },
+  {
+   "name": "Lockpick",
+   "desc": "Lure a mutant into an anomaly. Hardly a noble deed, but it gets the job done.",
+   "hidden": false,
+   "pct": 66.4,
+   "api_name": "Lockpick",
+   "internal_key": 284
+  },
+  {
+   "name": "Welcome to the Zone",
+   "desc": "Prologue complete, but this is so far from over.",
+   "hidden": false,
+   "pct": 86.0,
+   "api_name": "HelloZone",
+   "internal_key": 285
+  },
+  {
+   "name": "Good hunting, stalker",
+   "desc": "Leave the Lesser Zone to go Scanner-hunting. More miracles await, and more dangers, too.",
+   "hidden": true,
+   "pct": 63.7,
+   "api_name": "GoodbyeLesserZone",
+   "internal_key": 286
+  },
+  {
+   "name": "Would you like some toast?",
+   "desc": "Meet Scar.",
+   "hidden": true,
+   "pct": 51.1,
+   "api_name": "MeetShram",
+   "internal_key": 287
+  },
+  {
+   "name": "Eyes on the prize",
+   "desc": "Retrieve the stolen Scanner. Time to find out what is so special about it.",
+   "hidden": true,
+   "pct": 41.1,
+   "api_name": "MainPrize",
+   "internal_key": 1536
+  },
+  {
+   "name": "House of glass",
+   "desc": "Witness the temple of science get destroyed.",
+   "hidden": true,
+   "pct": 39.0,
+   "api_name": "CrystalLock",
+   "internal_key": 1537
+  },
+  {
+   "name": "Such is the will of the Monolith",
+   "desc": "Kill Faust.",
+   "hidden": true,
+   "pct": 29.2,
+   "api_name": "KillFaust",
+   "internal_key": 1538
+  },
+  {
+   "name": "I see you have many questions",
+   "desc": "Meet the C-Consciousness Representative. Didn't Strelok finish them off?",
+   "hidden": true,
+   "pct": 28.7,
+   "api_name": "OSoznanie",
+   "internal_key": 1539
+  },
+  {
+   "name": "Doctor's oath",
+   "desc": "The mysterious Doctor had to reveal what he'd been hiding.",
+   "hidden": true,
+   "pct": 26.6,
+   "api_name": "DoctorMystery",
+   "internal_key": 1540
+  },
+  {
+   "name": "Living legend",
+   "desc": "Meet Strelok. How was it, talking to a living legend?",
+   "hidden": true,
+   "pct": 25.8,
+   "api_name": "MeetStrelok",
+   "internal_key": 1541
+  },
+  {
+   "name": "The Prypiat guardian",
+   "desc": "Meet Degtyarev in Prypiat. The toughest place in the Zone has the toughest-looking watchman.",
+   "hidden": true,
+   "pct": 23.7,
+   "api_name": "MeetDegtyarev",
+   "internal_key": 1542
+  },
+  {
+   "name": "Brave new world",
+   "desc": "Korshunov sacrificed himself so that humanity could have a new future, free of doubt and the Zone.",
+   "hidden": true,
+   "pct": 7.4,
+   "api_name": "EndingKorshunov",
+   "internal_key": 1543
+  },
+  {
+   "name": "Today never ends",
+   "desc": "Scar went into the pod to rid the Zone of darkness.",
+   "hidden": true,
+   "pct": 3.2,
+   "api_name": "EndingShram",
+   "internal_key": 1544
+  },
+  {
+   "name": "She will never be free",
+   "desc": "Strelok went into the pod to protect her. Always.",
+   "hidden": true,
+   "pct": 10.0,
+   "api_name": "EndingStrelok",
+   "internal_key": 1545
+  },
+  {
+   "name": "Project Y",
+   "desc": "Go through with Kaimanov's initial plan.",
+   "hidden": true,
+   "pct": 8.6,
+   "api_name": "EndingKaymanov",
+   "internal_key": 1546
+  },
+  {
+   "name": "Wardens drool",
+   "desc": "Save a bandit's life, get on the Ward's naughty list. Was it worth it?",
+   "hidden": true,
+   "pct": 1.7,
+   "api_name": "SaveChernozem",
+   "internal_key": 1547
+  },
+  {
+   "name": "Stalker's smarts",
+   "desc": "Find a way to get the parts without sneaking into the warehouse.",
+   "hidden": true,
+   "pct": 2.0,
+   "api_name": "TheSmartest",
+   "internal_key": 1548
+  },
+  {
+   "name": "The good ol' days",
+   "desc": "Help Skadovsk get its name and rightful owners back.",
+   "hidden": true,
+   "pct": 13.1,
+   "api_name": "SaveSkadovsk",
+   "internal_key": 1549
+  },
+  {
+   "name": "Apple-shot",
+   "desc": "Three precise shots at apples spared stalker lives and helped you win a twisted bandit's game.",
+   "hidden": true,
+   "pct": 16.8,
+   "api_name": "ShootApples",
+   "internal_key": 1550
+  },
+  {
+   "name": "Baptism by fire",
+   "desc": "Help Zalissya survive the Monolith attack. New generations of stalkers will have a place to stay.",
+   "hidden": true,
+   "pct": 27.4,
+   "api_name": "SaveZalesie",
+   "internal_key": 1551
+  },
+  {
+   "name": "On a leash",
+   "desc": "The Leash project experiments are finally over. Hopefully.",
+   "hidden": true,
+   "pct": 11.8,
+   "api_name": "Povodok",
+   "internal_key": 1552
+  },
+  {
+   "name": "Your move!",
+   "desc": "Found a unique weapon designed for a kingpin. Checkmate!",
+   "hidden": true,
+   "pct": 38.4,
+   "api_name": "VerySpecialWeapon",
+   "internal_key": 1553
+  },
+  {
+   "name": "Goss",
+   "desc": "Join Stalkers for some campfire gossip.",
+   "hidden": false,
+   "pct": 66.9,
+   "api_name": "SitNearBonfire",
+   "internal_key": 1554
+  },
+  {
+   "name": "Legends never die",
+   "desc": "Kill the Strelok.",
+   "hidden": true,
+   "pct": 14.9,
+   "api_name": "KillStrelok",
+   "internal_key": 1555
+  },
+  {
+   "name": "All quiet in the Zone",
+   "desc": "Kill Korshunov.",
+   "hidden": true,
+   "pct": 16.9,
+   "api_name": "KillKorshunov",
+   "internal_key": 1556
+  },
+  {
+   "name": "Alas poor Yorick",
+   "desc": "Kill Scar.",
+   "hidden": true,
+   "pct": 19.7,
+   "api_name": "KillShram",
+   "internal_key": 1557
+  },
+  {
+   "name": "One awkward step",
+   "desc": "I am blind, but it's you who cannot see.",
+   "hidden": true,
+   "pct": 9.1,
+   "api_name": "AcceptFaustHelp",
+   "internal_key": 1558
+  },
+  {
+   "name": "Monolith envoy",
+   "desc": "You know more than I do, envoy.",
+   "hidden": true,
+   "pct": 29.2,
+   "api_name": "DeclineFaustHelp",
+   "internal_key": 1559
+  },
+  {
+   "name": "Between the lines",
+   "desc": "The \"Best reader\" award. And reward.",
+   "hidden": true,
+   "pct": 6.8,
+   "api_name": "BetweenTheLines",
+   "internal_key": 1560
+  },
+  {
+   "name": "Scanning complete",
+   "desc": "You were out looking for a scanner, but ended up collecting them all.",
+   "hidden": true,
+   "pct": 1.9,
+   "api_name": "FindAllScanners",
+   "internal_key": 1561
+  },
+  {
+   "name": "High voltage",
+   "desc": "Find a way into the Iron Forest. What mysteries are waiting behind the wall?",
+   "hidden": true,
+   "pct": 9.9,
+   "api_name": "DLC1_Woods",
+   "internal_key": 1562
+  },
+  {
+   "name": "Casus Belli ",
+   "desc": "Witness the breach of D4. Myklukha and Voronin wouldn't budge, so Duty and Freedom are foes again.",
+   "hidden": true,
+   "pct": 8.7,
+   "api_name": "DLC1_Agreement",
+   "internal_key": 1563
+  },
+  {
+   "name": "The territory of the future",
+   "desc": "Get to the SIRCAA ruins and see for yourself what's left of the 'Temple of Science'.",
+   "hidden": true,
+   "pct": 7.2,
+   "api_name": "DLC1_Science",
+   "internal_key": 1564
+  },
+  {
+   "name": "Welcome back",
+   "desc": "Get out of the Spatial Bubble. That place was weird, even by Zone standards. ",
+   "hidden": true,
+   "pct": 6.7,
+   "api_name": "DLC1_BubbleLeave",
+   "internal_key": 1565
+  },
+  {
+   "name": "Shadows of the idols",
+   "desc": "Meet the founders of Duty and Freedom. Their beliefs may be different, but determination is common.",
+   "hidden": true,
+   "pct": 6.5,
+   "api_name": "DLC1_OldLegends",
+   "internal_key": 1566
+  },
+  {
+   "name": "Freedom of Choice",
+   "desc": "Take Mavka's side in the conflict with Zulu.",
+   "hidden": true,
+   "pct": 4.0,
+   "api_name": "DLC1_SideMavka",
+   "internal_key": 1567
+  },
+  {
+   "name": "This is our Duty",
+   "desc": "Take Zulu's side in the conflict with Mavka.",
+   "hidden": true,
+   "pct": 3.7,
+   "api_name": "DLC1_SideZulus",
+   "internal_key": 2048
+  },
+  {
+   "name": "It's a no-brainer!",
+   "desc": "Defeat the Psi Brain. Bigger isn't always better.",
+   "hidden": true,
+   "pct": 6.2,
+   "api_name": "DLC1_Brainstorm",
+   "internal_key": 2049
+  },
+  {
+   "name": "The end of the Golden Era",
+   "desc": "Kill Myklukha in the Arena. This performance will be hard to beat.",
+   "hidden": true,
+   "pct": 3.8,
+   "api_name": "DLC1_ArenaBoss",
+   "internal_key": 2050
+  },
+  {
+   "name": "His last order",
+   "desc": "Witness Voronin's sacrifice at the Monorail. Now you have to make sure it was worth it.",
+   "hidden": true,
+   "pct": 3.5,
+   "api_name": "DLC1_RailLeader",
+   "internal_key": 2051
+  },
+  {
+   "name": "Kilometer Zero",
+   "desc": "Reach the CNPP and join the ranks of the Zone's legends.",
+   "hidden": true,
+   "pct": 6.0,
+   "api_name": "DLC1_HomeSweetHome",
+   "internal_key": 2052
+  },
+  {
+   "name": "In the heart of the enemy",
+   "desc": "Set up a new Duty base at the CNPP. The Zone will one day end where it began.",
+   "hidden": true,
+   "pct": 3.5,
+   "api_name": "DLC1_DutyCamp",
+   "internal_key": 2053
+  },
+  {
+   "name": "The times of Freedom",
+   "desc": "Set up a new Freedom base at the CNPP. Will there be an Arena, too?",
+   "hidden": true,
+   "pct": 3.7,
+   "api_name": "DLC1_FreedomCamp",
+   "internal_key": 2054
+  },
+  {
+   "name": "Battle on – and win your battle!",
+   "desc": "Help Zulu destroy all the samples of the technology. One less threat in the Zone.",
+   "hidden": true,
+   "pct": 3.3,
+   "api_name": "DLC1_OneTrueDuty",
+   "internal_key": 2055
+  },
+  {
+   "name": "Contra spem spero",
+   "desc": "Help Mavka save the technology and bring it to the Mainland. And get an Oasis as a farewell gift.",
+   "hidden": true,
+   "pct": 3.5,
+   "api_name": "DLC1_TrueFreedomPrice",
+   "internal_key": 2056
+  },
+  {
+   "name": "The draw of the Flare",
+   "desc": "Put together fragments of the past and grasp the light of the Flare.",
+   "hidden": true,
+   "pct": 3.1,
+   "api_name": "DLC1_Assembler",
+   "internal_key": 2057
+  },
+  {
+   "name": "Get your hands dirty",
+   "desc": "Get an artifact from the chimera's remains in the Spatial Bubble with your own hands.",
+   "hidden": true,
+   "pct": 6.5,
+   "api_name": "DLC1_HeartHunter",
+   "internal_key": 2058
+  },
+  {
+   "name": "Voices of the Zone",
+   "desc": "Get a hint for a stash from the Faraday Anomaly. The Zone favors those who listen.",
+   "hidden": true,
+   "pct": 1.8,
+   "api_name": "DLC1_WhatsThatNoise",
+   "internal_key": 2059
+  }
+ ]
+}

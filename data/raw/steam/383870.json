@@ -1,0 +1,78 @@
+{
+ "appid": 383870,
+ "game": "Firewatch",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 10,
+ "achievements": [
+  {
+   "api": "VG_DAY1",
+   "name": "\"Good first day.\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 79.0
+  },
+  {
+   "api": "VG_DAY2",
+   "name": "\"Back to work.\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 66.4
+  },
+  {
+   "api": "VG_DAY76",
+   "name": "\"Someone's out here.\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 59.1
+  },
+  {
+   "api": "VG_DAY77",
+   "name": "\"Burn the place down.\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 56.8
+  },
+  {
+   "api": "VG_DAY79",
+   "name": "Firewatch",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.3
+  },
+  {
+   "api": "VG_BEE",
+   "name": "Bee Plot",
+   "desc": "Got stung by a bee. It happens.",
+   "hidden": false,
+   "pct": 46.3
+  },
+  {
+   "api": "VG_TURTLE",
+   "name": "Love Turts",
+   "desc": "Adopted a turtle as a pet. The average lifespan of a box turtle is fifty years. It will outlive you.",
+   "hidden": false,
+   "pct": 25.3
+  },
+  {
+   "api": "VG_CAMERA",
+   "name": "Shutter Bug",
+   "desc": "Filled a disposable camera with photos.",
+   "hidden": false,
+   "pct": 13.4
+  },
+  {
+   "api": "VG_RACCOONATTACK",
+   "name": "The Life and Times of Raccoon Carter",
+   "desc": "Got attacked by a raccoon; probably didn't get rabies.",
+   "hidden": false,
+   "pct": 11.6
+  },
+  {
+   "api": "VG_OLSHOSHONE",
+   "name": "Ol' Shoshone",
+   "desc": "Listened to the tape of \"Ol' Shoshone.\" Cavorted among the aspens.",
+   "hidden": false,
+   "pct": 7.8
+  }
+ ]
+}

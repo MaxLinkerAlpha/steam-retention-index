@@ -1,0 +1,681 @@
+{
+ "appid": 377160,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 84,
+ "achievements": [
+  {
+   "name": "War Never Changes",
+   "desc": "Enter The Wasteland",
+   "hidden": true,
+   "pct": 83.3,
+   "api_name": "NEW_ACHIEVEMENT_1_0",
+   "internal_key": 256
+  },
+  {
+   "name": "When Freedom Calls",
+   "desc": "Complete \"When Freedom Calls\"",
+   "hidden": true,
+   "pct": 65.6,
+   "api_name": "NEW_ACHIEVEMENT_2_0",
+   "internal_key": 257
+  },
+  {
+   "name": "Unlikely Valentine",
+   "desc": "Complete \"Unlikely Valentine\"",
+   "hidden": true,
+   "pct": 43.6,
+   "api_name": "NEW_ACHIEVEMENT_3_0",
+   "internal_key": 258
+  },
+  {
+   "name": "Reunions",
+   "desc": "Complete \"Reunions\"",
+   "hidden": true,
+   "pct": 38.2,
+   "api_name": "NEW_ACHIEVEMENT_4_0",
+   "internal_key": 259
+  },
+  {
+   "name": "Dangerous Minds",
+   "desc": "Complete \"Dangerous Minds\"",
+   "hidden": true,
+   "pct": 35.9,
+   "api_name": "NEW_ACHIEVEMENT_5_0",
+   "internal_key": 260
+  },
+  {
+   "name": "Hunter/Hunted",
+   "desc": "Complete \"Hunter/Hunted\"",
+   "hidden": true,
+   "pct": 30.4,
+   "api_name": "NEW_ACHIEVEMENT_6_0",
+   "internal_key": 261
+  },
+  {
+   "name": "The Molecular Level",
+   "desc": "Complete \"The Molecular Level\"",
+   "hidden": true,
+   "pct": 26.4,
+   "api_name": "NEW_ACHIEVEMENT_7_0",
+   "internal_key": 262
+  },
+  {
+   "name": "The Nuclear Option",
+   "desc": "Complete \"The Nuclear Option\"",
+   "hidden": true,
+   "pct": 14.1,
+   "api_name": "NEW_ACHIEVEMENT_8_0",
+   "internal_key": 263
+  },
+  {
+   "name": "Institutionalized",
+   "desc": "Complete \"Institutionalized\"",
+   "hidden": true,
+   "pct": 25.7,
+   "api_name": "NEW_ACHIEVEMENT_9_0",
+   "internal_key": 264
+  },
+  {
+   "name": "Mankind-Redefined",
+   "desc": "Complete \"Mankind-Redefined\"",
+   "hidden": true,
+   "pct": 16.4,
+   "api_name": "NEW_ACHIEVEMENT_10_0",
+   "internal_key": 265
+  },
+  {
+   "name": "Powering Up",
+   "desc": "Complete \"Powering Up\"",
+   "hidden": true,
+   "pct": 12.6,
+   "api_name": "NEW_ACHIEVEMENT_11_0",
+   "internal_key": 266
+  },
+  {
+   "name": "Nuclear Family",
+   "desc": "Complete \"Nuclear Family\"",
+   "hidden": true,
+   "pct": 9.8,
+   "api_name": "NEW_ACHIEVEMENT_12_0",
+   "internal_key": 267
+  },
+  {
+   "name": "The First Step",
+   "desc": "Join the Minutemen",
+   "hidden": true,
+   "pct": 50.2,
+   "api_name": "NEW_ACHIEVEMENT_13_0",
+   "internal_key": 268
+  },
+  {
+   "name": "Taking Independence",
+   "desc": "Complete \"Taking Independence\"",
+   "hidden": true,
+   "pct": 34.3,
+   "api_name": "NEW_ACHIEVEMENT_14_0",
+   "internal_key": 269
+  },
+  {
+   "name": "Old Guns",
+   "desc": "Complete \"Old Guns\"",
+   "hidden": true,
+   "pct": 29.1,
+   "api_name": "NEW_ACHIEVEMENT_15_0",
+   "internal_key": 270
+  },
+  {
+   "name": "Semper Invicta",
+   "desc": "Join the Brotherhood of Steel",
+   "hidden": true,
+   "pct": 39.8,
+   "api_name": "NEW_ACHIEVEMENT_16_0",
+   "internal_key": 271
+  },
+  {
+   "name": "Blind Betrayal",
+   "desc": "Complete \"Blind Betrayal\"",
+   "hidden": true,
+   "pct": 11.5,
+   "api_name": "NEW_ACHIEVEMENT_17_0",
+   "internal_key": 272
+  },
+  {
+   "name": "Ad Victoriam",
+   "desc": "Complete \"Ad Victoriam\"",
+   "hidden": true,
+   "pct": 8.9,
+   "api_name": "NEW_ACHIEVEMENT_18_0",
+   "internal_key": 273
+  },
+  {
+   "name": "Tradecraft",
+   "desc": "Join the Railroad",
+   "hidden": true,
+   "pct": 25.2,
+   "api_name": "NEW_ACHIEVEMENT_19_0",
+   "internal_key": 274
+  },
+  {
+   "name": "Underground Undercover",
+   "desc": "Complete \"Underground Undercover\"",
+   "hidden": true,
+   "pct": 6.4,
+   "api_name": "NEW_ACHIEVEMENT_20_0",
+   "internal_key": 275
+  },
+  {
+   "name": "Rockets' Red Glare",
+   "desc": "Complete \"Rockets' Red Glare\"",
+   "hidden": true,
+   "pct": 6.1,
+   "api_name": "NEW_ACHIEVEMENT_21_0",
+   "internal_key": 276
+  },
+  {
+   "name": "Sanctuary",
+   "desc": "Complete \"Sanctuary\"",
+   "hidden": true,
+   "pct": 46.9,
+   "api_name": "NEW_ACHIEVEMENT_22_0",
+   "internal_key": 277
+  },
+  {
+   "name": "Community Organizer",
+   "desc": "Ally with 3 Settlements",
+   "hidden": true,
+   "pct": 39.3,
+   "api_name": "NEW_ACHIEVEMENT_23_0",
+   "internal_key": 278
+  },
+  {
+   "name": "Benevolent Leader",
+   "desc": "Reach Maximum Happiness in a Large Settlement",
+   "hidden": true,
+   "pct": 3.3,
+   "api_name": "NEW_ACHIEVEMENT_24_0",
+   "internal_key": 279
+  },
+  {
+   "name": "Gun-For-Hire",
+   "desc": "Complete 10 Side Quests",
+   "hidden": true,
+   "pct": 30.6,
+   "api_name": "NEW_ACHIEVEMENT_25_0",
+   "internal_key": 280
+  },
+  {
+   "name": "Mercenary",
+   "desc": "Complete 50 Misc. Objectives",
+   "hidden": true,
+   "pct": 10.7,
+   "api_name": "NEW_ACHIEVEMENT_26_0",
+   "internal_key": 281
+  },
+  {
+   "name": "Scavver",
+   "desc": "Gather 1000 Resources Used For Crafting",
+   "hidden": true,
+   "pct": 43.9,
+   "api_name": "NEW_ACHIEVEMENT_27_0",
+   "internal_key": 282
+  },
+  {
+   "name": "What's Yours Is Mine",
+   "desc": "Pick 50 Locks",
+   "hidden": true,
+   "pct": 34.7,
+   "api_name": "NEW_ACHIEVEMENT_28_0",
+   "internal_key": 283
+  },
+  {
+   "name": "RobCo's Worst Nightmare",
+   "desc": "Hack 50 Terminals",
+   "hidden": true,
+   "pct": 14.7,
+   "api_name": "NEW_ACHIEVEMENT_29_0",
+   "internal_key": 284
+  },
+  {
+   "name": "Armed and Dangerous",
+   "desc": "Create 50 Weapon Mods",
+   "hidden": true,
+   "pct": 22.7,
+   "api_name": "NEW_ACHIEVEMENT_30_0",
+   "internal_key": 285
+  },
+  {
+   "name": "Wasteland D.I.Y.",
+   "desc": "Craft 100 Items",
+   "hidden": true,
+   "pct": 20.5,
+   "api_name": "NEW_ACHIEVEMENT_31_0",
+   "internal_key": 286
+  },
+  {
+   "name": "Never Go It Alone",
+   "desc": "Recruit 5 Separate Companions",
+   "hidden": true,
+   "pct": 29.6,
+   "api_name": "NEW_ACHIEVEMENT_32_0",
+   "internal_key": 287
+  },
+  {
+   "name": "Lovable",
+   "desc": "Reach Maximum Relationship Level with a Companion",
+   "hidden": true,
+   "pct": 24.1,
+   "api_name": "NEW_ACHIEVEMENT_33_0",
+   "internal_key": 512
+  },
+  {
+   "name": "Fix-Er-Upper",
+   "desc": "Build 100 Workshop Items",
+   "hidden": true,
+   "pct": 41.2,
+   "api_name": "NEW_ACHIEVEMENT_34_0",
+   "internal_key": 513
+  },
+  {
+   "name": "Future Retro",
+   "desc": "Play a Holotape Game",
+   "hidden": true,
+   "pct": 53.3,
+   "api_name": "NEW_ACHIEVEMENT_35_0",
+   "internal_key": 514
+  },
+  {
+   "name": "…The Harder They Fall",
+   "desc": "Kill 5 Giant Creatures",
+   "hidden": true,
+   "pct": 14.8,
+   "api_name": "NEW_ACHIEVEMENT_36_0",
+   "internal_key": 515
+  },
+  {
+   "name": "Ranger Corps",
+   "desc": "Discover 100 Locations",
+   "hidden": true,
+   "pct": 37.1,
+   "api_name": "NEW_ACHIEVEMENT_37_0",
+   "internal_key": 516
+  },
+  {
+   "name": "Print's Not Dead",
+   "desc": "Read 20 Magazines",
+   "hidden": true,
+   "pct": 27.9,
+   "api_name": "NEW_ACHIEVEMENT_38_0",
+   "internal_key": 517
+  },
+  {
+   "name": "Prankster's Return",
+   "desc": "Placed A Grenade Or Mine While Pickpocketing",
+   "hidden": true,
+   "pct": 4.0,
+   "api_name": "NEW_ACHIEVEMENT_39_0",
+   "internal_key": 518
+  },
+  {
+   "name": "Masshole",
+   "desc": "Kill 300 People",
+   "hidden": true,
+   "pct": 31.8,
+   "api_name": "NEW_ACHIEVEMENT_40_0",
+   "internal_key": 519
+  },
+  {
+   "name": "Animal Control",
+   "desc": "Kill 300 Creatures",
+   "hidden": true,
+   "pct": 36.6,
+   "api_name": "NEW_ACHIEVEMENT_41_0",
+   "internal_key": 520
+  },
+  {
+   "name": "Homerun!",
+   "desc": "Get a Homerun",
+   "hidden": true,
+   "pct": 6.0,
+   "api_name": "NEW_ACHIEVEMENT_42_0",
+   "internal_key": 521
+  },
+  {
+   "name": "Touchdown!",
+   "desc": "Get a Touchdown",
+   "hidden": true,
+   "pct": 45.0,
+   "api_name": "NEW_ACHIEVEMENT_43_0",
+   "internal_key": 522
+  },
+  {
+   "name": "They're Not Dolls…",
+   "desc": "Collect 10 Vault-Tec Bobbleheads",
+   "hidden": true,
+   "pct": 12.5,
+   "api_name": "NEW_ACHIEVEMENT_44_0",
+   "internal_key": 523
+  },
+  {
+   "name": "…They're Action Figures",
+   "desc": "Collect 20 Vault-Tec Bobbleheads",
+   "hidden": true,
+   "pct": 5.7,
+   "api_name": "NEW_ACHIEVEMENT_45_0",
+   "internal_key": 524
+  },
+  {
+   "name": "Born Survivor",
+   "desc": "Reach Level 5",
+   "hidden": true,
+   "pct": 66.1,
+   "api_name": "NEW_ACHIEVEMENT_46_0",
+   "internal_key": 525
+  },
+  {
+   "name": "Commonwealth Citizen",
+   "desc": "Reach Level 10",
+   "hidden": true,
+   "pct": 54.0,
+   "api_name": "NEW_ACHIEVEMENT_47_0",
+   "internal_key": 526
+  },
+  {
+   "name": "Unstoppable Wanderer",
+   "desc": "Reach Level 25",
+   "hidden": true,
+   "pct": 40.3,
+   "api_name": "NEW_ACHIEVEMENT_48_0",
+   "internal_key": 527
+  },
+  {
+   "name": "Legend Of The Wastes",
+   "desc": "Reach Level 50",
+   "hidden": true,
+   "pct": 23.5,
+   "api_name": "NEW_ACHIEVEMENT_49_0",
+   "internal_key": 528
+  },
+  {
+   "name": "Prepared for the Future",
+   "desc": "Decide the Fate of the Commonwealth",
+   "hidden": true,
+   "pct": 18.7,
+   "api_name": "NEW_ACHIEVEMENT_50_0",
+   "internal_key": 529
+  },
+  {
+   "name": "Mechanical Menace",
+   "desc": "Complete \"Mechanical Menace\"",
+   "hidden": true,
+   "pct": 20.9,
+   "api_name": "NEW_ACHIEVEMENT_51_0",
+   "internal_key": 530
+  },
+  {
+   "name": "Headhunting",
+   "desc": "Complete \"Headhunting\"",
+   "hidden": true,
+   "pct": 14.6,
+   "api_name": "NEW_ACHIEVEMENT_52_0",
+   "internal_key": 531
+  },
+  {
+   "name": "Restoring Order",
+   "desc": "Complete \"Restoring Order\"",
+   "hidden": true,
+   "pct": 13.8,
+   "api_name": "NEW_ACHIEVEMENT_53_0",
+   "internal_key": 532
+  },
+  {
+   "name": "Robot Hunter",
+   "desc": "Unlock 10 Robot Mods",
+   "hidden": true,
+   "pct": 15.7,
+   "api_name": "NEW_ACHIEVEMENT_54_0",
+   "internal_key": 533
+  },
+  {
+   "name": "The Most Toys",
+   "desc": "Build 10 Robot Mods",
+   "hidden": true,
+   "pct": 13.2,
+   "api_name": "NEW_ACHIEVEMENT_55_0",
+   "internal_key": 534
+  },
+  {
+   "name": "Docile",
+   "desc": "Have 5 Tamed Creatures in a Settlement",
+   "hidden": true,
+   "pct": 1.7,
+   "api_name": "NEW_ACHIEVEMENT_56_0",
+   "internal_key": 535
+  },
+  {
+   "name": "Instigator",
+   "desc": "Start a Spectated Arena Fight in a Settlement",
+   "hidden": true,
+   "pct": 1.7,
+   "api_name": "NEW_ACHIEVEMENT_57_0",
+   "internal_key": 536
+  },
+  {
+   "name": "Trapper",
+   "desc": "Build One of Every Cage Type",
+   "hidden": true,
+   "pct": 2.0,
+   "api_name": "NEW_ACHIEVEMENT_58_0",
+   "internal_key": 537
+  },
+  {
+   "name": "Far From Home",
+   "desc": "Complete the quest \"Far From Home\"",
+   "hidden": true,
+   "pct": 15.2,
+   "api_name": "NEW_ACHIEVEMENT_59_0",
+   "internal_key": 538
+  },
+  {
+   "name": "Where You Belong",
+   "desc": "Complete the quest \"Where You Belong\"",
+   "hidden": true,
+   "pct": 12.6,
+   "api_name": "NEW_ACHIEVEMENT_60_0",
+   "internal_key": 539
+  },
+  {
+   "name": "The Way Life Should Be",
+   "desc": "Complete the quest \"The Way Life Should Be\"",
+   "hidden": true,
+   "pct": 9.7,
+   "api_name": "NEW_ACHIEVEMENT_61_0",
+   "internal_key": 540
+  },
+  {
+   "name": "Cleansing The Land",
+   "desc": "Complete the quest \"Cleansing the Land\"",
+   "hidden": true,
+   "pct": 8.9,
+   "api_name": "NEW_ACHIEVEMENT_62_0",
+   "internal_key": 541
+  },
+  {
+   "name": "Close To Home",
+   "desc": "Complete the quest \"Close to Home\"",
+   "hidden": true,
+   "pct": 9.4,
+   "api_name": "NEW_ACHIEVEMENT_63_0",
+   "internal_key": 542
+  },
+  {
+   "name": "The Islander's Almanac",
+   "desc": "Collect all issues of \"The Islander's Almanac\" magazine",
+   "hidden": true,
+   "pct": 2.5,
+   "api_name": "NEW_ACHIEVEMENT_64_0",
+   "internal_key": 543
+  },
+  {
+   "name": "Hooked",
+   "desc": "Defeat 30 Far Harbor Sea Creatures",
+   "hidden": true,
+   "pct": 5.7,
+   "api_name": "NEW_ACHIEVEMENT_65_0",
+   "internal_key": 768
+  },
+  {
+   "name": "New England Vacationer",
+   "desc": "Discover 20 Far Harbor Locations",
+   "hidden": true,
+   "pct": 9.6,
+   "api_name": "NEW_ACHIEVEMENT_66_0",
+   "internal_key": 769
+  },
+  {
+   "name": "Push Back The Fog",
+   "desc": "Unlock 3 Far Harbor Workshop Locations",
+   "hidden": true,
+   "pct": 9.6,
+   "api_name": "NEW_ACHIEVEMENT_67_0",
+   "internal_key": 770
+  },
+  {
+   "name": "Just Add Saltwater",
+   "desc": "Cook One of the New Far Harbor Recipes",
+   "hidden": true,
+   "pct": 9.5,
+   "api_name": "NEW_ACHIEVEMENT_68_0",
+   "internal_key": 771
+  },
+  {
+   "name": "Show Off",
+   "desc": "Display a weapon on a weapon rack, armor on an armor rack, and power armor in a power armor display",
+   "hidden": true,
+   "pct": 3.9,
+   "api_name": "NEW_ACHIEVEMENT_69_0",
+   "internal_key": 772
+  },
+  {
+   "name": "Time Out",
+   "desc": "Assign a settler to a pillory",
+   "hidden": true,
+   "pct": 3.7,
+   "api_name": "NEW_ACHIEVEMENT_70_0",
+   "internal_key": 773
+  },
+  {
+   "name": "Mass Production",
+   "desc": "Produce 100 objects from your builders",
+   "hidden": true,
+   "pct": 3.0,
+   "api_name": "NEW_ACHIEVEMENT_71_0",
+   "internal_key": 774
+  },
+  {
+   "name": "Oversight",
+   "desc": "Become Overseer",
+   "hidden": true,
+   "pct": 6.9,
+   "api_name": "NEW_ACHIEVEMENT_72_0",
+   "internal_key": 775
+  },
+  {
+   "name": "Better Living Underground",
+   "desc": "Unlock all build areas of Vault 88",
+   "hidden": true,
+   "pct": 11.2,
+   "api_name": "NEW_ACHIEVEMENT_73_0",
+   "internal_key": 776
+  },
+  {
+   "name": "Vault Dweller",
+   "desc": "Equip Vault 88 suit and Pip-boy on a settler ",
+   "hidden": true,
+   "pct": 8.0,
+   "api_name": "NEW_ACHIEVEMENT_74_0",
+   "internal_key": 777
+  },
+  {
+   "name": "Raiding for a Living",
+   "desc": "Complete 12 quests for any Nuka-World Raider Gangs",
+   "hidden": true,
+   "pct": 1.8,
+   "api_name": "NEW_ACHIEVEMENT_75_0",
+   "internal_key": 778
+  },
+  {
+   "name": "Diebrarian",
+   "desc": "Collect every issue of Scav! Magazine",
+   "hidden": true,
+   "pct": 2.5,
+   "api_name": "NEW_ACHIEVEMENT_76_0",
+   "internal_key": 779
+  },
+  {
+   "name": "Beverageer",
+   "desc": "Create 20 different flavors of Nuka-Cola",
+   "hidden": true,
+   "pct": 1.6,
+   "api_name": "NEW_ACHIEVEMENT_77_0",
+   "internal_key": 780
+  },
+  {
+   "name": "Hostile Takeover",
+   "desc": "Establish 8 Raider Camps in the Commonwealth",
+   "hidden": true,
+   "pct": 2.2,
+   "api_name": "NEW_ACHIEVEMENT_78_0",
+   "internal_key": 781
+  },
+  {
+   "name": "All Sugared Up",
+   "desc": "Defeat 40 Nuka-World Creatures while under the effect of any Nuka-Mix flavor",
+   "hidden": true,
+   "pct": 1.5,
+   "api_name": "NEW_ACHIEVEMENT_79_0",
+   "internal_key": 782
+  },
+  {
+   "name": "Eyes on the Prize",
+   "desc": "Redeem 100,000 tickets at the Nuka-Cade",
+   "hidden": true,
+   "pct": 1.9,
+   "api_name": "NEW_ACHIEVEMENT_80_0",
+   "internal_key": 783
+  },
+  {
+   "name": "Taken for a Ride",
+   "desc": "Complete \"Taken for a Ride\"",
+   "hidden": true,
+   "pct": 12.1,
+   "api_name": "NEW_ACHIEVEMENT_81_0",
+   "internal_key": 784
+  },
+  {
+   "name": "The Grand Tour",
+   "desc": "Complete \"The Grand Tour\"",
+   "hidden": true,
+   "pct": 6.9,
+   "api_name": "NEW_ACHIEVEMENT_82_0",
+   "internal_key": 785
+  },
+  {
+   "name": "Home Sweet Home",
+   "desc": "Complete \"Home Sweet Home\"",
+   "hidden": true,
+   "pct": 3.9,
+   "api_name": "NEW_ACHIEVEMENT_83_0",
+   "internal_key": 786
+  },
+  {
+   "name": "Power Play",
+   "desc": "Complete \"Power Play\"",
+   "hidden": true,
+   "pct": 4.1,
+   "api_name": "NEW_ACHIEVEMENT_84_0",
+   "internal_key": 787
+  }
+ ]
+}

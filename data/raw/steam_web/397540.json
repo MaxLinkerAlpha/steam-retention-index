@@ -1,0 +1,657 @@
+{
+ "appid": 397540,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 81,
+ "achievements": [
+  {
+   "name": "You Got Skills",
+   "desc": "Reach level 2.",
+   "hidden": false,
+   "pct": 94.1,
+   "api_name": "Achievement_1",
+   "internal_key": 256
+  },
+  {
+   "name": "Star Bound",
+   "desc": "Reach level 10.",
+   "hidden": false,
+   "pct": 69.0,
+   "api_name": "Achievement_2",
+   "internal_key": 257
+  },
+  {
+   "name": "Vaulting Your Way To The Top",
+   "desc": "Reach level 25.",
+   "hidden": false,
+   "pct": 47.3,
+   "api_name": "Achievement_3",
+   "internal_key": 258
+  },
+  {
+   "name": "Biggest Badass In The Borderlands",
+   "desc": "Reach level 50.",
+   "hidden": false,
+   "pct": 27.5,
+   "api_name": "Achievement_4",
+   "internal_key": 259
+  },
+  {
+   "name": "Bolt-Ons",
+   "desc": "Unlock 10 Character Heads or Skins.",
+   "hidden": false,
+   "pct": 47.0,
+   "api_name": "Achievement_5",
+   "internal_key": 260
+  },
+  {
+   "name": "Mechani-Cool",
+   "desc": "Unlock 10 Vehicle Parts via hijacking.",
+   "hidden": false,
+   "pct": 26.3,
+   "api_name": "Achievement_6",
+   "internal_key": 261
+  },
+  {
+   "name": "Tips Appreciated",
+   "desc": "Tip Moxxi.",
+   "hidden": false,
+   "pct": 27.3,
+   "api_name": "Achievement_7",
+   "internal_key": 262
+  },
+  {
+   "name": "I Hope You Didn't Tea-bag",
+   "desc": "Win a duel.",
+   "hidden": false,
+   "pct": 22.8,
+   "api_name": "Achievement_8",
+   "internal_key": 263
+  },
+  {
+   "name": "Stay Away From The Light",
+   "desc": "Revive another player.",
+   "hidden": false,
+   "pct": 39.3,
+   "api_name": "Achievement_9",
+   "internal_key": 264
+  },
+  {
+   "name": "Gun Pals!",
+   "desc": "Send an item to a friend.",
+   "hidden": false,
+   "pct": 6.4,
+   "api_name": "Achievement_10",
+   "internal_key": 265
+  },
+  {
+   "name": "Dropping Loads",
+   "desc": "Win a live grenade at a Slot Machine.",
+   "hidden": false,
+   "pct": 41.9,
+   "api_name": "Achievement_11",
+   "internal_key": 266
+  },
+  {
+   "name": "Good Against Remotes Is One Thing",
+   "desc": "Get a perfect score at the Firing Range on any difficulty.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "Achievement_12",
+   "internal_key": 267
+  },
+  {
+   "name": "My Name Is Earl",
+   "desc": "Buy 20 cosmetic items from Crazy Earl.",
+   "hidden": false,
+   "pct": 14.8,
+   "api_name": "Achievement_13",
+   "internal_key": 268
+  },
+  {
+   "name": "Tales From The Eridian Slab",
+   "desc": "Decipher all of the Eridian Slabs.",
+   "hidden": false,
+   "pct": 24.4,
+   "api_name": "Achievement_14",
+   "internal_key": 269
+  },
+  {
+   "name": "Slaughterhouse 3",
+   "desc": "Complete all the Circles of Slaughter.",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "Achievement_15",
+   "internal_key": 270
+  },
+  {
+   "name": "A Hundred Names For Sand",
+   "desc": "Discover all named locations on Pandora.",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "Achievement_16",
+   "internal_key": 271
+  },
+  {
+   "name": "Swamped",
+   "desc": "Discover all named locations on Eden-6.",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "Achievement_17",
+   "internal_key": 272
+  },
+  {
+   "name": "City Slicker",
+   "desc": "Discover all named locations on Promethea.",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "Achievement_18",
+   "internal_key": 273
+  },
+  {
+   "name": "Exoarchaeolo—You Get The Gist",
+   "desc": "Discover all named locations on Nekrotafeyo.",
+   "hidden": true,
+   "pct": 10.2,
+   "api_name": "Achievement_19",
+   "internal_key": 274
+  },
+  {
+   "name": "Master Of All You Survey",
+   "desc": "Discover all named locations.",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "Achievement_20",
+   "internal_key": 275
+  },
+  {
+   "name": "À La Carte",
+   "desc": "Complete 20 Side Missions.",
+   "hidden": false,
+   "pct": 30.2,
+   "api_name": "Achievement_21",
+   "internal_key": 276
+  },
+  {
+   "name": "Getting A Little On The Side",
+   "desc": "Complete all Side Missions.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "Achievement_22",
+   "internal_key": 277
+  },
+  {
+   "name": "100-Proof",
+   "desc": "Clear all the Eridian Proving Grounds.",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "Achievement_23",
+   "internal_key": 278
+  },
+  {
+   "name": "Got Big Game",
+   "desc": "Defeat all of Hammerlock's Legendary Hunts.",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "Achievement_24",
+   "internal_key": 279
+  },
+  {
+   "name": "Zer0ed In",
+   "desc": "Defeat all of Zer0's Targets of Opportunity.",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "Achievement_25",
+   "internal_key": 280
+  },
+  {
+   "name": "Barreled Right Over Them",
+   "desc": "Kill an enemy with an exploding barrel.",
+   "hidden": false,
+   "pct": 80.9,
+   "api_name": "Achievement_26",
+   "internal_key": 281
+  },
+  {
+   "name": "Feelin' A Little Stabby",
+   "desc": "Kill an enemy, knifing them with a gun blade.",
+   "hidden": false,
+   "pct": 58.0,
+   "api_name": "Achievement_27",
+   "internal_key": 282
+  },
+  {
+   "name": "Stick It To 'Em",
+   "desc": "Kill two or more enemies with a single sticky grenade.",
+   "hidden": false,
+   "pct": 20.4,
+   "api_name": "Achievement_28",
+   "internal_key": 283
+  },
+  {
+   "name": "On Fleek",
+   "desc": "Equip purple-rated gear or better in every slot.",
+   "hidden": false,
+   "pct": 35.9,
+   "api_name": "Achievement_29",
+   "internal_key": 284
+  },
+  {
+   "name": "Rewards Card",
+   "desc": "Earn a Loyalty Package from each weapon manufacturer.",
+   "hidden": false,
+   "pct": 7.2,
+   "api_name": "Achievement_30",
+   "internal_key": 285
+  },
+  {
+   "name": "Welcome To The Crimson Raiders",
+   "desc": "Complete mission “Children of the Vault”.",
+   "hidden": true,
+   "pct": 92.3,
+   "api_name": "Achievement_31",
+   "internal_key": 286
+  },
+  {
+   "name": "So Long, Pandora!",
+   "desc": "Complete mission “Taking Flight”.",
+   "hidden": true,
+   "pct": 70.9,
+   "api_name": "Achievement_32",
+   "internal_key": 287
+  },
+  {
+   "name": "NOG It Off",
+   "desc": "Complete mission “Hostile Takeover”.",
+   "hidden": true,
+   "pct": 62.0,
+   "api_name": "Achievement_33",
+   "internal_key": 13056
+  },
+  {
+   "name": "I Mustache You A Question",
+   "desc": "Complete mission “Atlas, At Last”.",
+   "hidden": true,
+   "pct": 51.2,
+   "api_name": "Achievement_34",
+   "internal_key": 13057
+  },
+  {
+   "name": "Gone From My Sight",
+   "desc": "Complete mission “Beneath the Meridian”.",
+   "hidden": true,
+   "pct": 48.8,
+   "api_name": "Achievement_35",
+   "internal_key": 13058
+  },
+  {
+   "name": "That Was Cold",
+   "desc": "Complete mission “Lair of the Harpy”.",
+   "hidden": true,
+   "pct": 45.0,
+   "api_name": "Achievement_36",
+   "internal_key": 13059
+  },
+  {
+   "name": "Heir To An Empty Castle",
+   "desc": "Complete mission “Cold as the Grave”.",
+   "hidden": true,
+   "pct": 39.8,
+   "api_name": "Achievement_37",
+   "internal_key": 13060
+  },
+  {
+   "name": "Cross The Streamers",
+   "desc": "Complete mission “Blood Drive”.",
+   "hidden": true,
+   "pct": 38.5,
+   "api_name": "Achievement_38",
+   "internal_key": 13061
+  },
+  {
+   "name": "Apocalypso!",
+   "desc": "Complete mission “The Great Vault”.",
+   "hidden": true,
+   "pct": 36.9,
+   "api_name": "Achievement_39",
+   "internal_key": 13062
+  },
+  {
+   "name": "I Am A Goddess, A Glorious Female Warrior",
+   "desc": "Complete mission “In the Shadow of Starlight”.",
+   "hidden": true,
+   "pct": 35.7,
+   "api_name": "Achievement_40",
+   "internal_key": 13063
+  },
+  {
+   "name": "Bye, Felicia!",
+   "desc": "Complete mission “Divine Retribution”.",
+   "hidden": true,
+   "pct": 35.1,
+   "api_name": "Achievement_41",
+   "internal_key": 13064
+  },
+  {
+   "name": "Florida Man",
+   "desc": "Down yourself by grenade or explosion.",
+   "hidden": true,
+   "pct": 58.2,
+   "api_name": "Achievement_42",
+   "internal_key": 13065
+  },
+  {
+   "name": "Stay Golden",
+   "desc": "Use a Golden Key.",
+   "hidden": true,
+   "pct": 26.6,
+   "api_name": "Achievement_43",
+   "internal_key": 13066
+  },
+  {
+   "name": "Damn, Gina",
+   "desc": "Get all Vault Rewards.",
+   "hidden": true,
+   "pct": 35.7,
+   "api_name": "Achievement_44",
+   "internal_key": 13067
+  },
+  {
+   "name": "Ultimate Vault Hunter",
+   "desc": "Unlock all Borderlands® 3 Achievements!",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "Achievement_45",
+   "internal_key": 13068
+  },
+  {
+   "name": "A Proper Hand-Off",
+   "desc": "Complete mission “All Bets Off”.",
+   "hidden": false,
+   "pct": 16.2,
+   "api_name": "Achievement_46",
+   "internal_key": 13069
+  },
+  {
+   "name": "Firebug",
+   "desc": "Sabotage all statues for Ember.",
+   "hidden": false,
+   "pct": 8.3,
+   "api_name": "Achievement_47",
+   "internal_key": 13070
+  },
+  {
+   "name": "Killer Look",
+   "desc": "Complete the Mayor's outfit.",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "Achievement_48",
+   "internal_key": 13071
+  },
+  {
+   "name": "Scovillain",
+   "desc": "Destroy all of Mr. Torgue's hot sauces.",
+   "hidden": false,
+   "pct": 10.1,
+   "api_name": "Achievement_49",
+   "internal_key": 13072
+  },
+  {
+   "name": "Shoe Money Tonight",
+   "desc": "Get a 21 in the blackjack minigame.",
+   "hidden": false,
+   "pct": 9.8,
+   "api_name": "Achievement_50",
+   "internal_key": 13073
+  },
+  {
+   "name": "Don't Be A Stranger",
+   "desc": "Return for a chat with the Clapstructor.",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "Achievement_51",
+   "internal_key": 13074
+  },
+  {
+   "name": "Who Collects The Collector?",
+   "desc": "Defeat the wandering Debt Collector.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "Achievement_52",
+   "internal_key": 13075
+  },
+  {
+   "name": "Good One, Babe",
+   "desc": "Watch Deathtrap kill 50 enemies.",
+   "hidden": true,
+   "pct": 1.8,
+   "api_name": "Achievement_56",
+   "internal_key": 13079
+  },
+  {
+   "name": "Industrious In The Face Of Cosmic Terror",
+   "desc": "Complete all Crew Challenges and Side Missions on Xylourgos.",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "Achievement_57",
+   "internal_key": 13080
+  },
+  {
+   "name": "Whispers On The Wind",
+   "desc": "Collect all ECHO logs on Xylourgos.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "Achievement_58",
+   "internal_key": 13081
+  },
+  {
+   "name": "A Hunter, Through And Through",
+   "desc": "Find and kill all four rare spawns.",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "Achievement_59",
+   "internal_key": 13082
+  },
+  {
+   "name": "I'm Floudering Up Here",
+   "desc": "Listen to 25 fish jokes.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "Achievement_60",
+   "internal_key": 13083
+  },
+  {
+   "name": "Party's Still On!",
+   "desc": "Find the party.",
+   "hidden": false,
+   "pct": 15.9,
+   "api_name": "Achievement_53_Fixed",
+   "internal_key": 13084
+  },
+  {
+   "name": "Love Is The Fifth Dimension",
+   "desc": "Marry your friends.",
+   "hidden": false,
+   "pct": 12.9,
+   "api_name": "Achievement_54_Fixed",
+   "internal_key": 13085
+  },
+  {
+   "name": "Older Than The Trees",
+   "desc": "Kill the Wendigo.",
+   "hidden": false,
+   "pct": 13.8,
+   "api_name": "Achievement_55_Fixed",
+   "internal_key": 13086
+  },
+  {
+   "name": "How The West Was Done",
+   "desc": "Complete all plot missions, side missions, and crew challenges on Gehenna.",
+   "hidden": true,
+   "pct": 2.5,
+   "api_name": "Achievement_61",
+   "internal_key": 13087
+  },
+  {
+   "name": "That's Quite Challenging",
+   "desc": "Complete all crew challenges on Gehenna.",
+   "hidden": true,
+   "pct": 2.9,
+   "api_name": "Achievement_62",
+   "internal_key": 19200
+  },
+  {
+   "name": "Helpful Hunter",
+   "desc": "Complete all side missions on Gehenna.",
+   "hidden": true,
+   "pct": 4.7,
+   "api_name": "Achievement_63",
+   "internal_key": 19201
+  },
+  {
+   "name": "Stone Cold Killer",
+   "desc": "Complete mission “Blood from a Stone”.",
+   "hidden": true,
+   "pct": 15.9,
+   "api_name": "Achievement_64",
+   "internal_key": 19202
+  },
+  {
+   "name": "It's A Wash",
+   "desc": "Complete mission “The Name of the Law”.",
+   "hidden": true,
+   "pct": 14.5,
+   "api_name": "Achievement_65",
+   "internal_key": 19203
+  },
+  {
+   "name": "Getting Off Track",
+   "desc": "Complete mission “Off the Rails”.",
+   "hidden": true,
+   "pct": 13.4,
+   "api_name": "Achievement_66",
+   "internal_key": 19204
+  },
+  {
+   "name": "Ruin On The Horizon",
+   "desc": "Complete mission “Riding to Ruin”.",
+   "hidden": true,
+   "pct": 12.6,
+   "api_name": "Achievement_67",
+   "internal_key": 19205
+  },
+  {
+   "name": "Bounty: Hunted",
+   "desc": "Complete mission “Where It All Started”.",
+   "hidden": true,
+   "pct": 12.9,
+   "api_name": "Achievement_68",
+   "internal_key": 19206
+  },
+  {
+   "name": "Meat and Greet",
+   "desc": "Complete mission “Enter the Psychoscape”.",
+   "hidden": true,
+   "pct": 14.7,
+   "api_name": "Achievement_69",
+   "internal_key": 19207
+  },
+  {
+   "name": "The Blast and the Furious",
+   "desc": "Defeat Evil Lilith.",
+   "hidden": true,
+   "pct": 13.5,
+   "api_name": "Achievement_70",
+   "internal_key": 19208
+  },
+  {
+   "name": "Brain Pain Train Slain",
+   "desc": "Defeat Locomöbius.",
+   "hidden": true,
+   "pct": 12.5,
+   "api_name": "Achievement_71",
+   "internal_key": 19209
+  },
+  {
+   "name": "Trauma Center",
+   "desc": "Defeat Dr. Benedict.",
+   "hidden": true,
+   "pct": 11.9,
+   "api_name": "Achievement_72",
+   "internal_key": 19210
+  },
+  {
+   "name": "Red Wrath and Beyond",
+   "desc": "Defeat Psychoreaver.",
+   "hidden": true,
+   "pct": 11.7,
+   "api_name": "Achievement_73",
+   "internal_key": 19211
+  },
+  {
+   "name": "Ye Who Enter",
+   "desc": "Open the gates to Vaulthalla.",
+   "hidden": true,
+   "pct": 3.8,
+   "api_name": "Achievement_74",
+   "internal_key": 19212
+  },
+  {
+   "name": "Fustercluck Off",
+   "desc": "Complete all side missions and crew challenges in Krieg's Mind.",
+   "hidden": true,
+   "pct": 3.6,
+   "api_name": "Achievement_75",
+   "internal_key": 19213
+  },
+  {
+   "name": "In the Eye of a Murdercane",
+   "desc": "Win a round of Arms Race.",
+   "hidden": false,
+   "pct": 10.2,
+   "api_name": "ACHIEVEMENT_76",
+   "internal_key": 19214
+  },
+  {
+   "name": "Treat Yo Self",
+   "desc": "Extract 100 pieces of gear from Arms Race.",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "ACHIEVEMENT_77",
+   "internal_key": 19215
+  },
+  {
+   "name": "Complex Made Simple",
+   "desc": "Explore the entire Stormblind Complex.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "ACHIEVEMENT_78",
+   "internal_key": 19216
+  },
+  {
+   "name": "Demysteriouslierified",
+   "desc": "Solve all murder mysteries for Ava's podcast.",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "ACHIEVEMENT_79",
+   "internal_key": 19217
+  },
+  {
+   "name": "Blood Sucking Freak",
+   "desc": "Defeat Hemovorous the Invincible.",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "ACHIEVEMENT_80",
+   "internal_key": 19218
+  },
+  {
+   "name": "Might Beyond Sight",
+   "desc": "Destroy 50 mysterious Eridium piles.",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "ACHIEVEMENT_81",
+   "internal_key": 19219
+  }
+ ]
+}

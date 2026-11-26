@@ -1,0 +1,657 @@
+{
+ "appid": 2358720,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 81,
+ "achievements": [
+  {
+   "name": "Home is Behind",
+   "desc": "The old monkey has told his tale. Onward you must go.",
+   "hidden": false,
+   "pct": 97.7,
+   "api_name": "81001",
+   "internal_key": 2048
+  },
+  {
+   "name": "Hammer and Hew",
+   "desc": "Armed head to toe, dread not the foe.",
+   "hidden": false,
+   "pct": 84.5,
+   "api_name": "81002",
+   "internal_key": 2049
+  },
+  {
+   "name": "Warring with Wolves",
+   "desc": "False is his name. Slay him all the same!",
+   "hidden": true,
+   "pct": 84.8,
+   "api_name": "81003",
+   "internal_key": 2050
+  },
+  {
+   "name": "Absorb and Cultivate",
+   "desc": "Consume those who had consumed.",
+   "hidden": true,
+   "pct": 83.6,
+   "api_name": "81004",
+   "internal_key": 2052
+  },
+  {
+   "name": "Brew of Bravery",
+   "desc": "Fresh brew in an old cask. May it stir a great task!",
+   "hidden": false,
+   "pct": 81.2,
+   "api_name": "81005",
+   "internal_key": 2053
+  },
+  {
+   "name": "Slithering Snake",
+   "desc": "The white-clad one pled his case. Spare him some days of grace.",
+   "hidden": true,
+   "pct": 80.3,
+   "api_name": "81006",
+   "internal_key": 2054
+  },
+  {
+   "name": "Handy and Hardy",
+   "desc": "A good match calls for a good weapon.",
+   "hidden": false,
+   "pct": 78.6,
+   "api_name": "81007",
+   "internal_key": 2055
+  },
+  {
+   "name": "Enduring Echoes",
+   "desc": "Three bells sound, lost souls bound.",
+   "hidden": true,
+   "pct": 74.8,
+   "api_name": "81008",
+   "internal_key": 2056
+  },
+  {
+   "name": "Temple of Taint",
+   "desc": "Now at an end is the elder's long wait for the journeyer.",
+   "hidden": true,
+   "pct": 74.2,
+   "api_name": "81009",
+   "internal_key": 2057
+  },
+  {
+   "name": "Blazing Black Wind",
+   "desc": "Of all things to learn, you chose to play with fire?",
+   "hidden": true,
+   "pct": 78.1,
+   "api_name": "81010",
+   "internal_key": 2058
+  },
+  {
+   "name": "Creative Concoction",
+   "desc": "Tonics are well and good, but not to be wolfed like food!",
+   "hidden": false,
+   "pct": 70.2,
+   "api_name": "81011",
+   "internal_key": 2059
+  },
+  {
+   "name": "Cursed Clan",
+   "desc": "A whole nest of rats scatters and falls.",
+   "hidden": true,
+   "pct": 73.8,
+   "api_name": "81012",
+   "internal_key": 2060
+  },
+  {
+   "name": "Cage of Claws",
+   "desc": "Smoke rises high, his doom shall arrive.",
+   "hidden": true,
+   "pct": 60.7,
+   "api_name": "81013",
+   "internal_key": 2061
+  },
+  {
+   "name": "Sound in Stone",
+   "desc": "No words of kind. Pay them no mind.",
+   "hidden": true,
+   "pct": 60.1,
+   "api_name": "81014",
+   "internal_key": 2062
+  },
+  {
+   "name": "Death in Despair",
+   "desc": "Resonant waves profound, he is now buried in the ground.",
+   "hidden": true,
+   "pct": 61.5,
+   "api_name": "81015",
+   "internal_key": 2063
+  },
+  {
+   "name": "The Stone's Secret",
+   "desc": "This odd boulder has something curious inside.",
+   "hidden": true,
+   "pct": 71.2,
+   "api_name": "81016",
+   "internal_key": 2064
+  },
+  {
+   "name": "Oṃ Maṇi Padme Hūm",
+   "desc": "Search each Buddha's head; in this perilous land, stones reside.",
+   "hidden": true,
+   "pct": 59.7,
+   "api_name": "81017",
+   "internal_key": 2065
+  },
+  {
+   "name": "Buried in the Sand",
+   "desc": "The tiger, the child, both lost in the wild.",
+   "hidden": true,
+   "pct": 55.3,
+   "api_name": "81018",
+   "internal_key": 2066
+  },
+  {
+   "name": "Gleams of Gold",
+   "desc": "The drunk said there's gold here. Do you believe him?",
+   "hidden": true,
+   "pct": 63.5,
+   "api_name": "81019",
+   "internal_key": 2067
+  },
+  {
+   "name": "The Tiger Family",
+   "desc": "The brothers and their father. You've met them all.",
+   "hidden": true,
+   "pct": 54.8,
+   "api_name": "81020",
+   "internal_key": 2068
+  },
+  {
+   "name": "Shifting Sands",
+   "desc": "The beetle came with drumbeats' call, and left with waves' gentle fall.",
+   "hidden": true,
+   "pct": 63.3,
+   "api_name": "81021",
+   "internal_key": 2069
+  },
+  {
+   "name": "Precious Pills",
+   "desc": "In furnace there is fire, and in fire there are pills.",
+   "hidden": true,
+   "pct": 60.4,
+   "api_name": "81022",
+   "internal_key": 2070
+  },
+  {
+   "name": "A Great Gust",
+   "desc": "There will be more sages if their maker still engages.",
+   "hidden": true,
+   "pct": 67.8,
+   "api_name": "81023",
+   "internal_key": 2071
+  },
+  {
+   "name": "Thousand-Mile Quest",
+   "desc": "Oh woe, oh woe, long trails they did go.",
+   "hidden": true,
+   "pct": 48.0,
+   "api_name": "81024",
+   "internal_key": 2072
+  },
+  {
+   "name": "Voice Vanquished",
+   "desc": "Red eyes mark wrong chants. The scripture needs amends.",
+   "hidden": true,
+   "pct": 63.8,
+   "api_name": "81025",
+   "internal_key": 2073
+  },
+  {
+   "name": "Karma of Kang-Jin",
+   "desc": "Now one less dwells in the dome of stars.",
+   "hidden": true,
+   "pct": 62.8,
+   "api_name": "81026",
+   "internal_key": 2074
+  },
+  {
+   "name": "Boundless Bitterness",
+   "desc": "Evening light on snow, rigidity ends in woe.",
+   "hidden": true,
+   "pct": 56.2,
+   "api_name": "81027",
+   "internal_key": 2075
+  },
+  {
+   "name": "Shell and Scales",
+   "desc": "To die is as woeful as to live alone.",
+   "hidden": true,
+   "pct": 51.4,
+   "api_name": "81028",
+   "internal_key": 2076
+  },
+  {
+   "name": "Secret in the Scroll",
+   "desc": "Near the hut the crops thrive; in the Painted Realm, their hearts lie.",
+   "hidden": true,
+   "pct": 55.4,
+   "api_name": "81029",
+   "internal_key": 2077
+  },
+  {
+   "name": "Pound and Perfect",
+   "desc": "\"Through fire, armor is refined; through trials, strength is defined.\"",
+   "hidden": true,
+   "pct": 48.3,
+   "api_name": "81030",
+   "internal_key": 2078
+  },
+  {
+   "name": "The Soaring Slash",
+   "desc": "A mere test of skill turned into a fight for the kill.",
+   "hidden": true,
+   "pct": 52.6,
+   "api_name": "81031",
+   "internal_key": 2079
+  },
+  {
+   "name": "Happy Harvest",
+   "desc": "Fields kept trim leave time to skim.",
+   "hidden": true,
+   "pct": 50.0,
+   "api_name": "81032",
+   "internal_key": 2304
+  },
+  {
+   "name": "Marvelous Melon",
+   "desc": "A quirky man, a vanished melon patch; a marvelous spell, and an unexpected meeting.",
+   "hidden": true,
+   "pct": 53.7,
+   "api_name": "81033",
+   "internal_key": 2305
+  },
+  {
+   "name": "Lust and Dust",
+   "desc": "Each and every one holds their own truth.",
+   "hidden": true,
+   "pct": 43.7,
+   "api_name": "81034",
+   "internal_key": 2306
+  },
+  {
+   "name": "Corrupted Captains",
+   "desc": "How mighty would those four spirits be if I could harness their power?",
+   "hidden": true,
+   "pct": 49.4,
+   "api_name": "81035",
+   "internal_key": 2307
+  },
+  {
+   "name": "Devoted Disciples",
+   "desc": "Such a waste of those four grand titles.",
+   "hidden": true,
+   "pct": 46.3,
+   "api_name": "81036",
+   "internal_key": 2308
+  },
+  {
+   "name": "Matches with the Macaque",
+   "desc": "You don't need to wait for the perfect moment to soar to greater heights.",
+   "hidden": true,
+   "pct": 59.0,
+   "api_name": "81037",
+   "internal_key": 2309
+  },
+  {
+   "name": "Nifty Nonsense",
+   "desc": "The fat monk failed, for he spoke too much.",
+   "hidden": true,
+   "pct": 58.7,
+   "api_name": "81038",
+   "internal_key": 2310
+  },
+  {
+   "name": "Mud on His Face",
+   "desc": "An odd yaoguai killed, an odd mirror earned.",
+   "hidden": true,
+   "pct": 56.5,
+   "api_name": "81039",
+   "internal_key": 2311
+  },
+  {
+   "name": "Gnashing Grudge",
+   "desc": "Harsh, rash, ever unquelled. Rank, dank, muck-impelled.",
+   "hidden": true,
+   "pct": 55.2,
+   "api_name": "81040",
+   "internal_key": 2312
+  },
+  {
+   "name": "Passion Passes",
+   "desc": "Not even one of them looked back.",
+   "hidden": true,
+   "pct": 54.9,
+   "api_name": "81041",
+   "internal_key": 2313
+  },
+  {
+   "name": "The Loong Pattern",
+   "desc": "In the air they swing, yet it's already ending.",
+   "hidden": true,
+   "pct": 49.0,
+   "api_name": "81042",
+   "internal_key": 2314
+  },
+  {
+   "name": "Secret in Purple Cloud",
+   "desc": "\"What use are eight arms against twenty strikes with my staff?\"",
+   "hidden": true,
+   "pct": 51.1,
+   "api_name": "81043",
+   "internal_key": 2315
+  },
+  {
+   "name": "The Wayward Ways",
+   "desc": "\"Is that ugliness a promise of immortality? Better leave it.\"",
+   "hidden": true,
+   "pct": 44.0,
+   "api_name": "81044",
+   "internal_key": 2316
+  },
+  {
+   "name": "A Family Finished",
+   "desc": "Together at last, the scorpions united.",
+   "hidden": true,
+   "pct": 39.6,
+   "api_name": "81045",
+   "internal_key": 2317
+  },
+  {
+   "name": "The Cockerel Crowed",
+   "desc": "Long and short, far and near, each span has its year.",
+   "hidden": true,
+   "pct": 50.2,
+   "api_name": "81046",
+   "internal_key": 2318
+  },
+  {
+   "name": "Misfit with Merit",
+   "desc": "Never will she see with him the world beyond.",
+   "hidden": true,
+   "pct": 45.0,
+   "api_name": "81047",
+   "internal_key": 2320
+  },
+  {
+   "name": "Behold the Betrayal",
+   "desc": "More eyes do not see more than the mortal trifles.",
+   "hidden": true,
+   "pct": 52.9,
+   "api_name": "81048",
+   "internal_key": 2321
+  },
+  {
+   "name": "Always Accompanied",
+   "desc": "How odd to encounter this old man at every corner!",
+   "hidden": true,
+   "pct": 38.7,
+   "api_name": "81049",
+   "internal_key": 2322
+  },
+  {
+   "name": "The Furnace Boy",
+   "desc": "Ha! A devoted Daoist should not be so polished!",
+   "hidden": true,
+   "pct": 51.3,
+   "api_name": "81050",
+   "internal_key": 2323
+  },
+  {
+   "name": "Urge Unfulfilled",
+   "desc": "\"With my life I'll repay the title he gave me!\"",
+   "hidden": true,
+   "pct": 36.4,
+   "api_name": "81051",
+   "internal_key": 2324
+  },
+  {
+   "name": "Seeds to Sow",
+   "desc": "Take more as fruit as your plants take root.",
+   "hidden": false,
+   "pct": 16.2,
+   "api_name": "81052",
+   "internal_key": 2325
+  },
+  {
+   "name": "Souls in the Stalks",
+   "desc": "You've picked them all, the easy ones and the hard ones.",
+   "hidden": true,
+   "pct": 35.3,
+   "api_name": "81053",
+   "internal_key": 2326
+  },
+  {
+   "name": "A Willing Warrior",
+   "desc": "\"For his recognition, I'd give my life for him.\"",
+   "hidden": true,
+   "pct": 46.2,
+   "api_name": "81054",
+   "internal_key": 2327
+  },
+  {
+   "name": "Scenic Seeker",
+   "desc": "The most marvelous places for meditation have all met your gaze.",
+   "hidden": false,
+   "pct": 29.0,
+   "api_name": "81055",
+   "internal_key": 2328
+  },
+  {
+   "name": "Three Teams of Two",
+   "desc": "The six valiant captains who only fight in number.",
+   "hidden": true,
+   "pct": 46.2,
+   "api_name": "81056",
+   "internal_key": 2329
+  },
+  {
+   "name": "With Full Spirit",
+   "desc": "Their mighty Spirits are now gathered within you.",
+   "hidden": true,
+   "pct": 17.5,
+   "api_name": "81057",
+   "internal_key": 2330
+  },
+  {
+   "name": "Frost and Flame",
+   "desc": "The merging of ice and fire, swift and severe.",
+   "hidden": true,
+   "pct": 46.0,
+   "api_name": "81058",
+   "internal_key": 2331
+  },
+  {
+   "name": "Flaming Fury",
+   "desc": "The golden child brought fire and smoke; when they cleared, the family broke.",
+   "hidden": true,
+   "pct": 50.6,
+   "api_name": "81059",
+   "internal_key": 2332
+  },
+  {
+   "name": "Treasure Trove",
+   "desc": "\"All the four vessels now belong to me!\"",
+   "hidden": true,
+   "pct": 47.9,
+   "api_name": "81060",
+   "internal_key": 2333
+  },
+  {
+   "name": "Mei of Memory",
+   "desc": "Bonds from bygone days still pull at the heart.",
+   "hidden": true,
+   "pct": 43.8,
+   "api_name": "81061",
+   "internal_key": 2334
+  },
+  {
+   "name": "Meet the Match",
+   "desc": "\"Let go of him, and you let go of all.\"",
+   "hidden": true,
+   "pct": 42.0,
+   "api_name": "81062",
+   "internal_key": 2335
+  },
+  {
+   "name": "Full of Forms",
+   "desc": "Each guise grants a new horizon.",
+   "hidden": false,
+   "pct": 29.8,
+   "api_name": "81063",
+   "internal_key": 2560
+  },
+  {
+   "name": "Brews and Barrels",
+   "desc": "Now you can sate yourself with all the drinks.",
+   "hidden": false,
+   "pct": 31.1,
+   "api_name": "81064",
+   "internal_key": 2561
+  },
+  {
+   "name": "The Cloud Claimed",
+   "desc": "Wings alone pale beside this greater gift!",
+   "hidden": true,
+   "pct": 50.1,
+   "api_name": "81065",
+   "internal_key": 2562
+  },
+  {
+   "name": "The Clamor of Frogs",
+   "desc": "Six frogs, six skills—how intriguing!",
+   "hidden": true,
+   "pct": 37.2,
+   "api_name": "81066",
+   "internal_key": 2563
+  },
+  {
+   "name": "A Curious Collection",
+   "desc": "Every rare wonder the world can offer, collected and kept.",
+   "hidden": false,
+   "pct": 15.4,
+   "api_name": "81067",
+   "internal_key": 2564
+  },
+  {
+   "name": "The Five Skandhas",
+   "desc": "This powerful pill still carries her caring wish.",
+   "hidden": true,
+   "pct": 39.0,
+   "api_name": "81068",
+   "internal_key": 2565
+  },
+  {
+   "name": "Medicine Meal",
+   "desc": "\"Here, have it, have it all.\"",
+   "hidden": false,
+   "pct": 31.7,
+   "api_name": "81069",
+   "internal_key": 2566
+  },
+  {
+   "name": "Treaded Tracks",
+   "desc": "\"Call off the chase! You've crushed every yaoguai here...\"",
+   "hidden": true,
+   "pct": 32.0,
+   "api_name": "81070",
+   "internal_key": 2567
+  },
+  {
+   "name": "Guardian of Gear",
+   "desc": "You are fully fitted. Now, swing that staff and fight!",
+   "hidden": true,
+   "pct": 48.6,
+   "api_name": "81071",
+   "internal_key": 2568
+  },
+  {
+   "name": "A Duel of Destiny",
+   "desc": "Two minds' long fray leaves but one to stay.",
+   "hidden": true,
+   "pct": 46.5,
+   "api_name": "81072",
+   "internal_key": 2569
+  },
+  {
+   "name": "Portraits Perfected",
+   "desc": "Humans, beasts, yaoguais, and the Bodhisattvas. All recorded and noted.",
+   "hidden": false,
+   "pct": 25.3,
+   "api_name": "81073",
+   "internal_key": 2570
+  },
+  {
+   "name": "Six Senses Secured",
+   "desc": "After all that strife and struggle, what's truly been gained?",
+   "hidden": true,
+   "pct": 40.9,
+   "api_name": "81074",
+   "internal_key": 2571
+  },
+  {
+   "name": "Master of Magic",
+   "desc": "All spells we know are derived from the same source.",
+   "hidden": false,
+   "pct": 39.4,
+   "api_name": "81075",
+   "internal_key": 2572
+  },
+  {
+   "name": "Gourds Gathered",
+   "desc": "Rare is not the gourd but a friend to drink with.",
+   "hidden": false,
+   "pct": 21.5,
+   "api_name": "81076",
+   "internal_key": 2573
+  },
+  {
+   "name": "Page Preserver",
+   "desc": "\"All the tattered pages can now be compiled in full.\"",
+   "hidden": false,
+   "pct": 22.8,
+   "api_name": "81077",
+   "internal_key": 2574
+  },
+  {
+   "name": "Brewer's Bounty",
+   "desc": "A blend for every brew to bring out its best.",
+   "hidden": false,
+   "pct": 14.2,
+   "api_name": "81078",
+   "internal_key": 2575
+  },
+  {
+   "name": "Mantled with Might",
+   "desc": "Shoes on feet, hat on head, embroidered shirt, Daoist robe—free as can be, doing as you please!",
+   "hidden": false,
+   "pct": 14.0,
+   "api_name": "81079",
+   "internal_key": 2576
+  },
+  {
+   "name": "Staffs and Spears",
+   "desc": "A walking vault of arms you have become!",
+   "hidden": false,
+   "pct": 18.3,
+   "api_name": "81080",
+   "internal_key": 2577
+  },
+  {
+   "name": "Final Fulfillment",
+   "desc": "Each ordeal paves your path to what you are meant to be.",
+   "hidden": false,
+   "pct": 12.6,
+   "api_name": "81081",
+   "internal_key": 2578
+  }
+ ]
+}

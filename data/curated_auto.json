@@ -1,0 +1,707 @@
+{
+ "games": [
+  {
+   "appid": 812140,
+   "name": "Assassin's Creed® Odyssey",
+   "level": "auto",
+   "note": "自动识别：成就描述含显式章节编号（9 个），解锁率严格单调",
+   "nodes": [
+    {
+     "code": "1",
+     "stage": "An Odyssey in the Making",
+     "pct": 70.6
+    },
+    {
+     "code": "2",
+     "stage": "Past Mistakes",
+     "pct": 64.6
+    },
+    {
+     "code": "3",
+     "stage": "Evil Unearthed",
+     "pct": 59.0
+    },
+    {
+     "code": "4",
+     "stage": "The Bright Minds",
+     "pct": 50.0
+    },
+    {
+     "code": "5",
+     "stage": "From the Ashes",
+     "pct": 42.3
+    },
+    {
+     "code": "6",
+     "stage": "Democracy Falls",
+     "pct": 41.9
+    },
+    {
+     "code": "7",
+     "stage": "Legend in the Making",
+     "pct": 33.5
+    },
+    {
+     "code": "8",
+     "stage": "Taking Back Athens",
+     "pct": 32.6
+    },
+    {
+     "code": "9",
+     "stage": "Odyssey's End",
+     "pct": 32.4
+    }
+   ]
+  },
+  {
+   "appid": 504230,
+   "name": "Celeste",
+   "level": "auto",
+   "note": "自动识别：成就描述含显式章节编号（6 个），解锁率严格单调",
+   "nodes": [
+    {
+     "code": "1",
+     "stage": "Forsaken",
+     "pct": 70.8
+    },
+    {
+     "code": "2",
+     "stage": "Archaeology",
+     "pct": 61.7
+    },
+    {
+     "code": "3",
+     "stage": "Checking Out",
+     "pct": 50.5
+    },
+    {
+     "code": "4",
+     "stage": "Breathe",
+     "pct": 43.1
+    },
+    {
+     "code": "5",
+     "stage": "In the Mirror",
+     "pct": 38.5
+    },
+    {
+     "code": "6",
+     "stage": "Reflection",
+     "pct": 36.7
+    }
+   ]
+  },
+  {
+   "appid": 1693980,
+   "name": "Dead Space",
+   "level": "auto",
+   "note": "自动识别：成就描述含显式章节编号（12 个），解锁率严格单调",
+   "nodes": [
+    {
+     "code": "1",
+     "stage": "Welcome Aboard",
+     "pct": 65.8
+    },
+    {
+     "code": "2",
+     "stage": "Lab Rat",
+     "pct": 55.1
+    },
+    {
+     "code": "3",
+     "stage": "All Systems Go",
+     "pct": 47.9
+    },
+    {
+     "code": "4",
+     "stage": "Cannon Fodder",
+     "pct": 44.6
+    },
+    {
+     "code": "5",
+     "stage": "True Believer",
+     "pct": 41.9
+    },
+    {
+     "code": "6",
+     "stage": "Greenhouse Effect",
+     "pct": 39.3
+    },
+    {
+     "code": "7",
+     "stage": "S.O.S.",
+     "pct": 36.4
+    },
+    {
+     "code": "8",
+     "stage": "Strange Transmissions",
+     "pct": 35.2
+    },
+    {
+     "code": "9",
+     "stage": "Wreckage",
+     "pct": 34.7
+    },
+    {
+     "code": "10",
+     "stage": "Keeper of the Faith",
+     "pct": 33.6
+    },
+    {
+     "code": "11",
+     "stage": "Betrayed",
+     "pct": 33.0
+    },
+    {
+     "code": "12",
+     "stage": "Exodus",
+     "pct": 32.4
+    }
+   ]
+  },
+  {
+   "appid": 1462040,
+   "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+   "level": "auto",
+   "note": "自动识别：成就描述含显式章节编号（18 个），解锁率严格单调",
+   "nodes": [
+    {
+     "code": "1",
+     "stage": "Onetime Gig",
+     "pct": 86.2
+    },
+    {
+     "code": "2",
+     "stage": "Escape Artist",
+     "pct": 78.2
+    },
+    {
+     "code": "3",
+     "stage": "Mercenary Endeavors",
+     "pct": 63.4
+    },
+    {
+     "code": "4",
+     "stage": "Night on the Town",
+     "pct": 59.6
+    },
+    {
+     "code": "5",
+     "stage": "Plan E",
+     "pct": 57.7
+    },
+    {
+     "code": "6",
+     "stage": "Lights Out",
+     "pct": 55.5
+    },
+    {
+     "code": "7",
+     "stage": "Trapped like Sewer Rats",
+     "pct": 54.0
+    },
+    {
+     "code": "8",
+     "stage": "Reunited",
+     "pct": 47.8
+    },
+    {
+     "code": "9",
+     "stage": "Never the Bride",
+     "pct": 43.3
+    },
+    {
+     "code": "10",
+     "stage": "Sewer Survivor",
+     "pct": 42.2
+    },
+    {
+     "code": "11",
+     "stage": "Paranormal Investigator",
+     "pct": 41.0
+    },
+    {
+     "code": "12",
+     "stage": "The Collapse",
+     "pct": 40.2
+    },
+    {
+     "code": "13",
+     "stage": "Broken Dreams",
+     "pct": 38.7
+    },
+    {
+     "code": "14",
+     "stage": "Picking Up the Pieces",
+     "pct": 35.3
+    },
+    {
+     "code": "15",
+     "stage": "The Pizza in the Sky",
+     "pct": 34.8
+    },
+    {
+     "code": "16",
+     "stage": "No Appointment Needed",
+     "pct": 33.6
+    },
+    {
+     "code": "17",
+     "stage": "Emerging from Chaos",
+     "pct": 32.7
+    },
+    {
+     "code": "18",
+     "stage": "Destiny's Crossroads",
+     "pct": 31.8
+    }
+   ]
+  },
+  {
+   "appid": 1475810,
+   "name": "Ghostwire: Tokyo",
+   "level": "auto",
+   "note": "自动识别：成就描述含显式章节编号（6 个），解锁率严格单调",
+   "nodes": [
+    {
+     "code": "1",
+     "stage": "Beginnings",
+     "pct": 83.5
+    },
+    {
+     "code": "2",
+     "stage": "Trouble",
+     "pct": 45.5
+    },
+    {
+     "code": "3",
+     "stage": "Connection",
+     "pct": 33.6
+    },
+    {
+     "code": "4",
+     "stage": "Contortion",
+     "pct": 25.3
+    },
+    {
+     "code": "5",
+     "stage": "Severance",
+     "pct": 24.8
+    },
+    {
+     "code": "6",
+     "stage": "Binding",
+     "pct": 24.5
+    }
+   ]
+  },
+  {
+   "appid": 319630,
+   "name": "Life is Strange - Episode 1",
+   "level": "auto",
+   "note": "自动识别：成就描述含显式章节编号（5 个），解锁率严格单调",
+   "nodes": [
+    {
+     "code": "1",
+     "stage": "Chrysalis",
+     "pct": 49.9
+    },
+    {
+     "code": "2",
+     "stage": "Out of Time",
+     "pct": 30.0
+    },
+    {
+     "code": "3",
+     "stage": "Chaos Theory",
+     "pct": 26.9
+    },
+    {
+     "code": "4",
+     "stage": "Dark Room",
+     "pct": 24.5
+    },
+    {
+     "code": "5",
+     "stage": "Polarized",
+     "pct": 23.3
+    }
+   ]
+  },
+  {
+   "appid": 234140,
+   "name": "Mad Max",
+   "level": "auto",
+   "note": "自动识别：成就描述含显式章节编号（5 个），解锁率严格单调",
+   "nodes": [
+    {
+     "code": "1",
+     "stage": "Everything Lost Again",
+     "pct": 76.6
+    },
+    {
+     "code": "2",
+     "stage": "Wasteland of Opportunities",
+     "pct": 45.7
+    },
+    {
+     "code": "3",
+     "stage": "Digging a Deeper Hole",
+     "pct": 31.4
+    },
+    {
+     "code": "4",
+     "stage": "Power in the Machine",
+     "pct": 29.1
+    },
+    {
+     "code": "5",
+     "stage": "Downward Spiral Reawakening",
+     "pct": 27.9
+    }
+   ]
+  },
+  {
+   "appid": 2535440,
+   "name": "Shadows of the Damned: Hella Remastered",
+   "level": "auto",
+   "note": "自动识别：成就描述含显式章节编号（5 个），解锁率严格单调",
+   "nodes": [
+    {
+     "code": "1",
+     "stage": "An Ordinary Life",
+     "pct": 92.0
+    },
+    {
+     "code": "2",
+     "stage": "Take Me To Hell",
+     "pct": 64.0
+    },
+    {
+     "code": "3",
+     "stage": "It's a Bughunt",
+     "pct": 47.4
+    },
+    {
+     "code": "4",
+     "stage": "The Big... You Know",
+     "pct": 41.0
+    },
+    {
+     "code": "5",
+     "stage": "Twelve Feet Under",
+     "pct": 35.3
+    }
+   ]
+  },
+  {
+   "appid": 207610,
+   "name": "The Walking Dead",
+   "level": "auto",
+   "note": "自动识别：成就描述含显式章节编号（37 个），解锁率严格单调",
+   "nodes": [
+    {
+     "code": "1",
+     "stage": "Out of the Frying Pan",
+     "pct": 82.3
+    },
+    {
+     "code": "2",
+     "stage": "Adventures in Babysitting",
+     "pct": 78.0
+    },
+    {
+     "code": "3",
+     "stage": "In Your Charge",
+     "pct": 76.6
+    },
+    {
+     "code": "4",
+     "stage": "Rock and a Hard Place",
+     "pct": 71.6
+    },
+    {
+     "code": "5",
+     "stage": "It's Just One Bullet",
+     "pct": 63.5
+    },
+    {
+     "code": "6",
+     "stage": "Hey, Bud",
+     "pct": 61.9
+    },
+    {
+     "code": "7",
+     "stage": "Two Enter, One Leaves",
+     "pct": 61.5
+    },
+    {
+     "code": "8",
+     "stage": "Going Hungry",
+     "pct": 56.4
+    },
+    {
+     "code": "9",
+     "stage": "Conversation Killer",
+     "pct": 55.3
+    },
+    {
+     "code": "10",
+     "stage": "Thank you for shopping at Save Lots!",
+     "pct": 52.1
+    },
+    {
+     "code": "11",
+     "stage": "Guess Who's Coming to Dinner",
+     "pct": 50.7
+    },
+    {
+     "code": "12",
+     "stage": "Too Much Salt Will Kill You",
+     "pct": 50.6
+    },
+    {
+     "code": "13",
+     "stage": "Taking Charlotte",
+     "pct": 50.4
+    },
+    {
+     "code": "14",
+     "stage": "You Fight Like A Dairy Farmer",
+     "pct": 50.1
+    },
+    {
+     "code": "15",
+     "stage": "Goodbye, She Quietly Says",
+     "pct": 48.2
+    },
+    {
+     "code": "16",
+     "stage": "Bad Blood",
+     "pct": 48.0
+    },
+    {
+     "code": "17",
+     "stage": "Hit the Road",
+     "pct": 47.2
+    },
+    {
+     "code": "18",
+     "stage": "What now?",
+     "pct": 47.1
+    },
+    {
+     "code": "19",
+     "stage": "Handle It",
+     "pct": 46.1
+    },
+    {
+     "code": "20",
+     "stage": "Unexpected Delay",
+     "pct": 45.5
+    },
+    {
+     "code": "21",
+     "stage": "Look Behind You",
+     "pct": 44.5
+    },
+    {
+     "code": "22",
+     "stage": "Georgia's First City",
+     "pct": 43.0
+    },
+    {
+     "code": "23",
+     "stage": "Down By The River",
+     "pct": 42.1
+    },
+    {
+     "code": "24",
+     "stage": "Support Group",
+     "pct": 41.7
+    },
+    {
+     "code": "25",
+     "stage": "Bedside Manor",
+     "pct": 41.6
+    },
+    {
+     "code": "26",
+     "stage": "Georgia's Last City",
+     "pct": 41.3
+    },
+    {
+     "code": "27",
+     "stage": "For Whom The Bell Tolls",
+     "pct": 40.5
+    },
+    {
+     "code": "28",
+     "stage": "The Morning After",
+     "pct": 40.5
+    },
+    {
+     "code": "29",
+     "stage": "Penultimate",
+     "pct": 40.4
+    },
+    {
+     "code": "30",
+     "stage": "Into The Fire",
+     "pct": 39.7
+    },
+    {
+     "code": "31",
+     "stage": "Twice Shy",
+     "pct": 39.5
+    },
+    {
+     "code": "32",
+     "stage": "There Ain't No Way",
+     "pct": 39.4
+    },
+    {
+     "code": "33",
+     "stage": "Mercy",
+     "pct": 39.3
+    },
+    {
+     "code": "34",
+     "stage": "The Marsh House",
+     "pct": 39.2
+    },
+    {
+     "code": "35",
+     "stage": "What's in the bag? ",
+     "pct": 39.1
+    },
+    {
+     "code": "36",
+     "stage": "Stay Close To Me",
+     "pct": 39.1
+    },
+    {
+     "code": "37",
+     "stage": "What Remains",
+     "pct": 38.2
+    }
+   ]
+  },
+  {
+   "appid": 460810,
+   "name": "Vanquish",
+   "level": "auto",
+   "note": "自动识别：成就描述含显式章节编号（5 个），解锁率严格单调",
+   "nodes": [
+    {
+     "code": "1",
+     "stage": "Space Normandy",
+     "pct": 47.6
+    },
+    {
+     "code": "2",
+     "stage": "Storming Grand Hill",
+     "pct": 36.0
+    },
+    {
+     "code": "3",
+     "stage": "I Don't Speak Kreon!",
+     "pct": 30.0
+    },
+    {
+     "code": "4",
+     "stage": "My Way",
+     "pct": 27.1
+    },
+    {
+     "code": "5",
+     "stage": "End to Major Combat Operations",
+     "pct": 26.0
+    }
+   ]
+  },
+  {
+   "appid": 1235140,
+   "name": "Yakuza: Like a Dragon",
+   "level": "auto",
+   "note": "自动识别：成就描述含显式章节编号（15 个），解锁率严格单调",
+   "nodes": [
+    {
+     "code": "1",
+     "stage": "For the Family",
+     "pct": 78.1
+    },
+    {
+     "code": "2",
+     "stage": "Rock Bottom",
+     "pct": 73.6
+    },
+    {
+     "code": "3",
+     "stage": "Heroes and Villains",
+     "pct": 69.6
+    },
+    {
+     "code": "4",
+     "stage": "Soap on a Rope",
+     "pct": 61.2
+    },
+    {
+     "code": "5",
+     "stage": "Smoked",
+     "pct": 54.1
+    },
+    {
+     "code": "6",
+     "stage": "Ignition",
+     "pct": 52.5
+    },
+    {
+     "code": "7",
+     "stage": "Three Spiders",
+     "pct": 49.2
+    },
+    {
+     "code": "8",
+     "stage": "The Statesman",
+     "pct": 48.2
+    },
+    {
+     "code": "9",
+     "stage": "Time to Talk",
+     "pct": 45.9
+    },
+    {
+     "code": "10",
+     "stage": "Illuminations",
+     "pct": 43.2
+    },
+    {
+     "code": "11",
+     "stage": "The Dragon Stirs",
+     "pct": 41.8
+    },
+    {
+     "code": "12",
+     "stage": "End of an Era",
+     "pct": 37.9
+    },
+    {
+     "code": "13",
+     "stage": "Fate of Our Fathers",
+     "pct": 36.8
+    },
+    {
+     "code": "14",
+     "stage": "The Torch is Passed",
+     "pct": 35.6
+    },
+    {
+     "code": "15",
+     "stage": "Thank You",
+     "pct": 33.5
+    }
+   ]
+  }
+ ]
+}

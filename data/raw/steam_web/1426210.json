@@ -1,0 +1,169 @@
+{
+ "appid": 1426210,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 20,
+ "achievements": [
+  {
+   "name": "It Took Two",
+   "desc": "You did it! CO-LLA-BO-RATION!",
+   "hidden": false,
+   "pct": 30.5,
+   "api_name": "Achievement_GOSCC_1",
+   "internal_key": 5376
+  },
+  {
+   "name": "Minigame Megalomania",
+   "desc": "All minigames found!",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "Achievement_GOSCC_2",
+   "internal_key": 5377
+  },
+  {
+   "name": "Fried Friendship",
+   "desc": "It takes two to… torture.",
+   "hidden": false,
+   "pct": 48.1,
+   "api_name": "Achievement_GOSCC_3",
+   "internal_key": 5378
+  },
+  {
+   "name": "Struck A Pose",
+   "desc": "Self-inflicted paparazzi.",
+   "hidden": false,
+   "pct": 48.7,
+   "api_name": "Achievement_GOSCC_4",
+   "internal_key": 5379
+  },
+  {
+   "name": "Plastic Prison Breakers",
+   "desc": "They had no way out.",
+   "hidden": true,
+   "pct": 10.7,
+   "api_name": "Achievement_GOSCC_5",
+   "internal_key": 5380
+  },
+  {
+   "name": "Faraway Frequencies",
+   "desc": "The truth was out there all along!",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "Achievement_GOSCC_6",
+   "internal_key": 5381
+  },
+  {
+   "name": "Look At Him Go",
+   "desc": "Shoot for the stars, literally.",
+   "hidden": false,
+   "pct": 43.0,
+   "api_name": "Achievement_GOSCC_7",
+   "internal_key": 5382
+  },
+  {
+   "name": "Break the Bank",
+   "desc": "Guess it was time to cash out.",
+   "hidden": false,
+   "pct": 25.8,
+   "api_name": "Achievement_GOSCC_8",
+   "internal_key": 5383
+  },
+  {
+   "name": "A Daring Devil",
+   "desc": "Put on a show and die trying.",
+   "hidden": false,
+   "pct": 30.1,
+   "api_name": "Achievement_GOSCC_9",
+   "internal_key": 5384
+  },
+  {
+   "name": "Snackosaurus",
+   "desc": "Now look who's extinct!",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "Achievement_GOSCC_10",
+   "internal_key": 5385
+  },
+  {
+   "name": "Realize Your Art",
+   "desc": "Isn't it pretty? That's going on the fridge.",
+   "hidden": false,
+   "pct": 10.3,
+   "api_name": "Achievement_GOSCC_11",
+   "internal_key": 5386
+  },
+  {
+   "name": "On Rails Experience",
+   "desc": "Choo Choo!",
+   "hidden": false,
+   "pct": 32.2,
+   "api_name": "Achievement_GOSCC_12",
+   "internal_key": 5387
+  },
+  {
+   "name": "Platforming Prodigy",
+   "desc": "Helltower? More like hello-from-up-here-tower!",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "Achievement_GOSCC_13",
+   "internal_key": 5388
+  },
+  {
+   "name": "Force Triangulated",
+   "desc": "Breathe some wind into your ocarina, my skyward princess!",
+   "hidden": true,
+   "pct": 8.0,
+   "api_name": "Achievement_GOSCC_14",
+   "internal_key": 5389
+  },
+  {
+   "name": "Lost And Found",
+   "desc": "Again? Keep track of your kids!",
+   "hidden": false,
+   "pct": 8.5,
+   "api_name": "Achievement_GOSCC_15",
+   "internal_key": 5390
+  },
+  {
+   "name": "Mood Swing",
+   "desc": "Took things a bit too far, didn't you?",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "Achievement_GOSCC_16",
+   "internal_key": 5391
+  },
+  {
+   "name": "Something Fishy",
+   "desc": "Don't feed the animals! Or do, they're adorable.",
+   "hidden": false,
+   "pct": 7.0,
+   "api_name": "Achievement_GOSCC_17",
+   "internal_key": 5392
+  },
+  {
+   "name": "Terror Of The Seven Seas",
+   "desc": "Scurvy! Ye look smashing, captain!",
+   "hidden": false,
+   "pct": 9.9,
+   "api_name": "Achievement_GOSCC_18",
+   "internal_key": 5393
+  },
+  {
+   "name": "Bug Sized Relaxation",
+   "desc": "Release that tension at the root level.",
+   "hidden": false,
+   "pct": 16.0,
+   "api_name": "Achievement_GOSCC_19",
+   "internal_key": 5394
+  },
+  {
+   "name": "Meditation Maestro",
+   "desc": "You reached a higher state of mind. Or at least some peace and quiet.",
+   "hidden": false,
+   "pct": 9.8,
+   "api_name": "Achievement_GOSCC_20",
+   "internal_key": 5395
+  }
+ ]
+}

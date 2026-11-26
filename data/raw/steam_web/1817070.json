@@ -1,0 +1,633 @@
+{
+ "appid": 1817070,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 78,
+ "achievements": [
+  {
+   "name": "Superior Spider-Man",
+   "desc": "Unlock all Skills",
+   "hidden": false,
+   "pct": 37.2,
+   "api_name": "superiorspiderman",
+   "internal_key": 1
+  },
+  {
+   "name": "I Heart Manhattan",
+   "desc": "100% complete all districts",
+   "hidden": false,
+   "pct": 16.9,
+   "api_name": "iheartmanhattan",
+   "internal_key": 2
+  },
+  {
+   "name": "Master of Masters",
+   "desc": "Defeat Taskmaster",
+   "hidden": true,
+   "pct": 22.9,
+   "api_name": "masterofmasters",
+   "internal_key": 3
+  },
+  {
+   "name": "Backpacker",
+   "desc": "Collect all Backpacks",
+   "hidden": false,
+   "pct": 40.7,
+   "api_name": "backpacker",
+   "internal_key": 4
+  },
+  {
+   "name": "Cat Prints",
+   "desc": "Track down Black Cat",
+   "hidden": false,
+   "pct": 42.3,
+   "api_name": "catprints",
+   "internal_key": 5
+  },
+  {
+   "name": "Inner Sanctuary",
+   "desc": "Take down each Demon Warehouse",
+   "hidden": true,
+   "pct": 31.6,
+   "api_name": "innersanctuary",
+   "internal_key": 6
+  },
+  {
+   "name": "All the King's Men",
+   "desc": "Take down each Fisk Hideout",
+   "hidden": true,
+   "pct": 35.8,
+   "api_name": "alltheking_smen",
+   "internal_key": 7
+  },
+  {
+   "name": "Mercenary Tactics",
+   "desc": "Take down each Sable Outpost",
+   "hidden": true,
+   "pct": 25.6,
+   "api_name": "mercenarytactics",
+   "internal_key": 8
+  },
+  {
+   "name": "Back in the Slammer",
+   "desc": "Take down each Prisoner Camp",
+   "hidden": true,
+   "pct": 26.0,
+   "api_name": "backintheslammer",
+   "internal_key": 9
+  },
+  {
+   "name": "Neighbourhood Watch",
+   "desc": "Complete all Faction Crimes in a district",
+   "hidden": false,
+   "pct": 30.0,
+   "api_name": "neighbourhoodwatch",
+   "internal_key": 10
+  },
+  {
+   "name": "A Suit For All Seasons",
+   "desc": "Purchase all Suits",
+   "hidden": false,
+   "pct": 17.8,
+   "api_name": "asuitforallseasons",
+   "internal_key": 11
+  },
+  {
+   "name": "Schooled",
+   "desc": "Complete all of the Corrupted Student missions",
+   "hidden": true,
+   "pct": 27.9,
+   "api_name": "schooled",
+   "internal_key": 12
+  },
+  {
+   "name": "Amazing Coverage",
+   "desc": "All Surveillance Towers activated",
+   "hidden": false,
+   "pct": 55.6,
+   "api_name": "amazingcoverage",
+   "internal_key": 13
+  },
+  {
+   "name": "Short Fuse",
+   "desc": "Get Spectacular or better in a Taskmaster Bomb Challenge",
+   "hidden": true,
+   "pct": 49.1,
+   "api_name": "shortfuse",
+   "internal_key": 14
+  },
+  {
+   "name": "Fists of Fury",
+   "desc": "Get Spectacular or better in a Taskmaster Combat Challenge",
+   "hidden": true,
+   "pct": 42.1,
+   "api_name": "fistsoffury",
+   "internal_key": 15
+  },
+  {
+   "name": "Ninja",
+   "desc": "Get Spectacular or better in a Taskmaster Stealth Challenge",
+   "hidden": true,
+   "pct": 35.0,
+   "api_name": "ninja",
+   "internal_key": 16
+  },
+  {
+   "name": "Spy Hunter",
+   "desc": "Get Spectacular or better in a Taskmaster Drone Challenge",
+   "hidden": true,
+   "pct": 43.3,
+   "api_name": "spyhunter",
+   "internal_key": 17
+  },
+  {
+   "name": "Challenge Finder",
+   "desc": "Complete every Taskmaster Challenge in the city once",
+   "hidden": true,
+   "pct": 25.0,
+   "api_name": "challengefinder",
+   "internal_key": 18
+  },
+  {
+   "name": "R&D",
+   "desc": "Complete all Research Stations",
+   "hidden": false,
+   "pct": 25.7,
+   "api_name": "r&d",
+   "internal_key": 19
+  },
+  {
+   "name": "Demons Emerge",
+   "desc": "Complete Act 1",
+   "hidden": true,
+   "pct": 65.8,
+   "api_name": "demonsemerge",
+   "internal_key": 20
+  },
+  {
+   "name": "The Six Assemble",
+   "desc": "Complete Act 2",
+   "hidden": true,
+   "pct": 54.6,
+   "api_name": "thesixassemble",
+   "internal_key": 21
+  },
+  {
+   "name": "End Game",
+   "desc": "Complete Act 3",
+   "hidden": true,
+   "pct": 48.3,
+   "api_name": "endgame",
+   "internal_key": 22
+  },
+  {
+   "name": "Science FTW!",
+   "desc": "Craft 15 Upgrades",
+   "hidden": false,
+   "pct": 41.8,
+   "api_name": "scienceftw!",
+   "internal_key": 23
+  },
+  {
+   "name": "Knocking Down Kingpin",
+   "desc": "Defeat Fisk",
+   "hidden": true,
+   "pct": 90.2,
+   "api_name": "knockingdownkingpin",
+   "internal_key": 24
+  },
+  {
+   "name": "Staying Positive",
+   "desc": "Defeat Li",
+   "hidden": true,
+   "pct": 49.1,
+   "api_name": "stayingpositive",
+   "internal_key": 25
+  },
+  {
+   "name": "Grounded",
+   "desc": "Defeat Electro and Vulture",
+   "hidden": true,
+   "pct": 52.1,
+   "api_name": "grounded",
+   "internal_key": 26
+  },
+  {
+   "name": "Sting and Smash",
+   "desc": "Defeat Scorpion and Rhino",
+   "hidden": true,
+   "pct": 50.3,
+   "api_name": "stingandsmash",
+   "internal_key": 27
+  },
+  {
+   "name": "Tombstone Takedown",
+   "desc": "Defeat Tombstone",
+   "hidden": true,
+   "pct": 34.1,
+   "api_name": "tombstonetakedown",
+   "internal_key": 28
+  },
+  {
+   "name": "Shock and Awe",
+   "desc": "Defeat Shocker",
+   "hidden": true,
+   "pct": 71.3,
+   "api_name": "shockandawe",
+   "internal_key": 29
+  },
+  {
+   "name": "Wing It",
+   "desc": "Traverse across the city rooftops",
+   "hidden": true,
+   "pct": 74.2,
+   "api_name": "wingit",
+   "internal_key": 30
+  },
+  {
+   "name": "King of Swing",
+   "desc": "Complete a level 1 Traversal Benchmark",
+   "hidden": false,
+   "pct": 74.0,
+   "api_name": "kingofswing",
+   "internal_key": 31
+  },
+  {
+   "name": "And Stay Down!",
+   "desc": "Complete a level 1 Combat Benchmark",
+   "hidden": false,
+   "pct": 69.6,
+   "api_name": "andstaydown!",
+   "internal_key": 51200
+  },
+  {
+   "name": "Pigeon Hunter",
+   "desc": "Catch all of Howard's Pigeons",
+   "hidden": true,
+   "pct": 33.5,
+   "api_name": "pigeonhunter",
+   "internal_key": 51201
+  },
+  {
+   "name": "Hug It Out",
+   "desc": "Knock together 10 pairs of enemies with Trip Mines",
+   "hidden": true,
+   "pct": 27.8,
+   "api_name": "hugitout",
+   "internal_key": 51202
+  },
+  {
+   "name": "Friendly Neighbourhood Spider-Man",
+   "desc": "Complete all Side Missions",
+   "hidden": false,
+   "pct": 26.8,
+   "api_name": "friendlyneighbourhoodspiderman",
+   "internal_key": 51203
+  },
+  {
+   "name": "The Scientific Method",
+   "desc": "Craft your first Upgrade",
+   "hidden": false,
+   "pct": 67.1,
+   "api_name": "thescientificmethod",
+   "internal_key": 51204
+  },
+  {
+   "name": "Spider-Sensible",
+   "desc": "Perfect Dodge 10 attacks",
+   "hidden": false,
+   "pct": 75.1,
+   "api_name": "spidersensible",
+   "internal_key": 51205
+  },
+  {
+   "name": "Overdrive",
+   "desc": "Complete 10 Vehicle Takedowns",
+   "hidden": false,
+   "pct": 42.7,
+   "api_name": "overdrive",
+   "internal_key": 51206
+  },
+  {
+   "name": "With Great Power...",
+   "desc": "Pay respects at Ben Parker's grave",
+   "hidden": true,
+   "pct": 11.7,
+   "api_name": "withgreatpower",
+   "internal_key": 51207
+  },
+  {
+   "name": "Hero for Higher",
+   "desc": "Perch atop Avengers Tower",
+   "hidden": false,
+   "pct": 37.4,
+   "api_name": "heroforhigher",
+   "internal_key": 51208
+  },
+  {
+   "name": "Sightseeing",
+   "desc": "Photograph all Landmarks on the Map",
+   "hidden": false,
+   "pct": 35.2,
+   "api_name": "sightseeing",
+   "internal_key": 51209
+  },
+  {
+   "name": "Born to Ride",
+   "desc": "Ride the Subway 5 times",
+   "hidden": false,
+   "pct": 43.4,
+   "api_name": "borntoride",
+   "internal_key": 51210
+  },
+  {
+   "name": "Sticky and Tricky",
+   "desc": "Chain 4 unique tricks before landing",
+   "hidden": false,
+   "pct": 38.4,
+   "api_name": "stickyandtricky",
+   "internal_key": 51211
+  },
+  {
+   "name": "Snappy Dresser",
+   "desc": "Wear 5 new Spider-Suits",
+   "hidden": true,
+   "pct": 62.4,
+   "api_name": "snappydresser",
+   "internal_key": 51212
+  },
+  {
+   "name": "Arachnophobia",
+   "desc": "Perform 75 Stealth Takedowns",
+   "hidden": false,
+   "pct": 61.2,
+   "api_name": "arachnophobia",
+   "internal_key": 51213
+  },
+  {
+   "name": "Lost and Found",
+   "desc": "Collect 5 Backpacks",
+   "hidden": false,
+   "pct": 75.0,
+   "api_name": "lostandfound",
+   "internal_key": 51214
+  },
+  {
+   "name": "Spider-Man About Town",
+   "desc": "Greet 10 citizens",
+   "hidden": false,
+   "pct": 41.1,
+   "api_name": "spidermanabouttown",
+   "internal_key": 51215
+  },
+  {
+   "name": "Cat's Out of the Bag",
+   "desc": "Collect a Black Cat collectible",
+   "hidden": false,
+   "pct": 68.1,
+   "api_name": "cat_soutofthebag",
+   "internal_key": 51216
+  },
+  {
+   "name": "A Bit of a Fixer-Upper",
+   "desc": "Complete all optional projects in the lab",
+   "hidden": true,
+   "pct": 18.6,
+   "api_name": "abitofafixerupper",
+   "internal_key": 51217
+  },
+  {
+   "name": "Ace the Base",
+   "desc": "Complete all objectives in a base",
+   "hidden": false,
+   "pct": 59.4,
+   "api_name": "acethebase",
+   "internal_key": 51218
+  },
+  {
+   "name": "One More Time",
+   "desc": "Complete a New Game+ playthrough",
+   "hidden": false,
+   "pct": 6.5,
+   "api_name": "onemoretime",
+   "internal_key": 51219
+  },
+  {
+   "name": "Power and Responsibility",
+   "desc": "Complete a playthrough on Ultimate difficulty",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "powerandresponsibility",
+   "internal_key": 51220
+  },
+  {
+   "name": "Seduced by the City",
+   "desc": "100% Complete CTNS: The Heist",
+   "hidden": false,
+   "pct": 16.8,
+   "api_name": "seducedbythecity",
+   "internal_key": 51221
+  },
+  {
+   "name": "Screwy",
+   "desc": "Get Spectacular or better in all Screwball Challenges",
+   "hidden": false,
+   "pct": 11.7,
+   "api_name": "screwy",
+   "internal_key": 51222
+  },
+  {
+   "name": "The Cat Came Back",
+   "desc": "Complete \"The Maria\" mission",
+   "hidden": true,
+   "pct": 31.8,
+   "api_name": "thecatcameback",
+   "internal_key": 51223
+  },
+  {
+   "name": "Here Kitty-Kitty",
+   "desc": "Complete the Black Cat chase",
+   "hidden": true,
+   "pct": 28.3,
+   "api_name": "herekittykitty",
+   "internal_key": 51224
+  },
+  {
+   "name": "Bye Felicia",
+   "desc": "Complete the \"Follow the Money\" mission",
+   "hidden": true,
+   "pct": 27.1,
+   "api_name": "byefelicia",
+   "internal_key": 51225
+  },
+  {
+   "name": "The Long Con",
+   "desc": "Complete the \"Like a Fiddle\" mission",
+   "hidden": true,
+   "pct": 20.7,
+   "api_name": "thelongcon",
+   "internal_key": 51226
+  },
+  {
+   "name": "Disorganised Crime",
+   "desc": "Complete all Crimes in a district",
+   "hidden": false,
+   "pct": 20.2,
+   "api_name": "disorganisedcrime",
+   "internal_key": 51227
+  },
+  {
+   "name": "The City is My Family",
+   "desc": "100% complete CTNS: Turf Wars",
+   "hidden": false,
+   "pct": 13.6,
+   "api_name": "thecityismyfamily",
+   "internal_key": 51228
+  },
+  {
+   "name": "Turning the Screw",
+   "desc": "Get Spectacular or better in all Screwball Challenges",
+   "hidden": false,
+   "pct": 10.0,
+   "api_name": "turningthescrew",
+   "internal_key": 51229
+  },
+  {
+   "name": "Pulling the Trigger",
+   "desc": "Complete the \"Blindsided\" mission",
+   "hidden": true,
+   "pct": 25.6,
+   "api_name": "pullingthetrigger",
+   "internal_key": 51230
+  },
+  {
+   "name": "Crossing the Thin Blue Line",
+   "desc": "Complete the \"Lockup\" mission",
+   "hidden": true,
+   "pct": 23.1,
+   "api_name": "crossingthethinblueline",
+   "internal_key": 51231
+  },
+  {
+   "name": "Steel Skull, Glass Jaw",
+   "desc": "Complete the \"Bring the Hammer Down\" mission",
+   "hidden": true,
+   "pct": 22.2,
+   "api_name": "steelskull,glassjaw",
+   "internal_key": 51456
+  },
+  {
+   "name": "Prohibition",
+   "desc": "Take down each Hammerhead Front",
+   "hidden": true,
+   "pct": 15.2,
+   "api_name": "prohibition",
+   "internal_key": 51457
+  },
+  {
+   "name": "The Gang War",
+   "desc": "Complete all Crimes in a district",
+   "hidden": false,
+   "pct": 15.0,
+   "api_name": "thegangwar",
+   "internal_key": 51458
+  },
+  {
+   "name": "The City Sleeps",
+   "desc": "100% Complete CTNS: Silver Lining",
+   "hidden": false,
+   "pct": 12.6,
+   "api_name": "thecitysleeps",
+   "internal_key": 51459
+  },
+  {
+   "name": "Screwballed",
+   "desc": "Get Spectacular or better in all Screwball Challenges",
+   "hidden": false,
+   "pct": 9.4,
+   "api_name": "screwballed",
+   "internal_key": 51460
+  },
+  {
+   "name": "Frenemies",
+   "desc": "Complete the \"Old Friends\" mission",
+   "hidden": true,
+   "pct": 21.6,
+   "api_name": "frenemies",
+   "internal_key": 51461
+  },
+  {
+   "name": "Unplugged",
+   "desc": "Complete the Screwball chase",
+   "hidden": true,
+   "pct": 13.2,
+   "api_name": "unplugged",
+   "internal_key": 51462
+  },
+  {
+   "name": "Terminated",
+   "desc": "Complete the \"One Plus One Equals Win\" mission",
+   "hidden": true,
+   "pct": 19.6,
+   "api_name": "terminated",
+   "internal_key": 51463
+  },
+  {
+   "name": "The Wages of War",
+   "desc": "Complete the \"Aiding a Human\" mission",
+   "hidden": true,
+   "pct": 13.2,
+   "api_name": "thewagesofwar",
+   "internal_key": 51464
+  },
+  {
+   "name": "Unacceptable",
+   "desc": "Complete the \"Scales of Justice\" mission",
+   "hidden": false,
+   "pct": 14.8,
+   "api_name": "unacceptable",
+   "internal_key": 51465
+  },
+  {
+   "name": "Grinding All the Way",
+   "desc": "Max out one Benchmark type",
+   "hidden": false,
+   "pct": 51.4,
+   "api_name": "grindingalltheway",
+   "internal_key": 51466
+  },
+  {
+   "name": "Full Arsenal",
+   "desc": "Max out all Gadgets",
+   "hidden": false,
+   "pct": 23.3,
+   "api_name": "fullarsenal",
+   "internal_key": 51467
+  },
+  {
+   "name": "Master's Education",
+   "desc": "Achieve Ultimate on a Taskmaster Challenge",
+   "hidden": false,
+   "pct": 39.2,
+   "api_name": "master_seducation",
+   "internal_key": 51468
+  },
+  {
+   "name": "So Many Hits...",
+   "desc": "Achieve a combo of 100",
+   "hidden": false,
+   "pct": 36.1,
+   "api_name": "somanyhits",
+   "internal_key": 51469
+  },
+  {
+   "name": "The Untouchable Spider-Man",
+   "desc": "Complete any Enemy Base without taking damage",
+   "hidden": false,
+   "pct": 17.0,
+   "api_name": "theuntouchablespiderman",
+   "internal_key": 51470
+  }
+ ]
+}

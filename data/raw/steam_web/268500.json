@@ -1,0 +1,713 @@
+{
+ "appid": 268500,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 88,
+ "achievements": [
+  {
+   "name": "Earth Avenged",
+   "desc": "Overthrow the aliens at any difficulty level",
+   "hidden": false,
+   "pct": 30.6,
+   "api_name": "Achievement_0",
+   "internal_key": 257
+  },
+  {
+   "name": "Defender of Humanity",
+   "desc": "Overthrow the aliens on Commander difficulty",
+   "hidden": false,
+   "pct": 6.1,
+   "api_name": "Achievement_1",
+   "internal_key": 258
+  },
+  {
+   "name": "Immortal Commander",
+   "desc": "Overthrow the aliens on Legend difficulty",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "Achievement_2",
+   "internal_key": 259
+  },
+  {
+   "name": "Tinker",
+   "desc": "Build an experimental item in the Proving Grounds",
+   "hidden": false,
+   "pct": 56.2,
+   "api_name": "Achievement_3",
+   "internal_key": 260
+  },
+  {
+   "name": "Rise of the Resistance",
+   "desc": "Make contact with a region",
+   "hidden": false,
+   "pct": 67.5,
+   "api_name": "Achievement_4",
+   "internal_key": 261
+  },
+  {
+   "name": "First Blood",
+   "desc": "Complete the tactical tutorial",
+   "hidden": false,
+   "pct": 80.2,
+   "api_name": "Achievement_5",
+   "internal_key": 262
+  },
+  {
+   "name": "Rebel Radio",
+   "desc": "Build Resistance Comms",
+   "hidden": true,
+   "pct": 54.1,
+   "api_name": "Achievement_6",
+   "internal_key": 263
+  },
+  {
+   "name": "Codebreaker",
+   "desc": "Build the Shadow Chamber",
+   "hidden": true,
+   "pct": 48.7,
+   "api_name": "Achievement_7",
+   "internal_key": 264
+  },
+  {
+   "name": "Room to Grow",
+   "desc": "Upgrade a facility",
+   "hidden": false,
+   "pct": 55.4,
+   "api_name": "Achievement_8",
+   "internal_key": 265
+  },
+  {
+   "name": "Shadow Broker",
+   "desc": "Sell goods worth 1000 supplies to the Black Market (Can span multiple games)",
+   "hidden": false,
+   "pct": 15.9,
+   "api_name": "Achievement_9",
+   "internal_key": 266
+  },
+  {
+   "name": "Rumor Hunter",
+   "desc": "Complete a Rumor",
+   "hidden": false,
+   "pct": 75.1,
+   "api_name": "Achievement_10",
+   "internal_key": 267
+  },
+  {
+   "name": "A Horrible Truth",
+   "desc": "Recover the Blacksite Data",
+   "hidden": true,
+   "pct": 57.2,
+   "api_name": "Achievement_11",
+   "internal_key": 268
+  },
+  {
+   "name": "A Grim Key",
+   "desc": "Recover a Codex Brain",
+   "hidden": true,
+   "pct": 55.7,
+   "api_name": "Achievement_12",
+   "internal_key": 269
+  },
+  {
+   "name": "A Dark Doorway",
+   "desc": "Recover the Psi Gate",
+   "hidden": true,
+   "pct": 37.4,
+   "api_name": "Achievement_13",
+   "internal_key": 270
+  },
+  {
+   "name": "A Line Crossed",
+   "desc": "Complete the Avatar Autopsy",
+   "hidden": true,
+   "pct": 34.5,
+   "api_name": "Achievement_14",
+   "internal_key": 271
+  },
+  {
+   "name": "A God Falls",
+   "desc": "Kill an Avatar",
+   "hidden": true,
+   "pct": 40.2,
+   "api_name": "Achievement_15",
+   "internal_key": 272
+  },
+  {
+   "name": "Meat Over Metal",
+   "desc": "Kill a Sectopod on the same turn you encounter it",
+   "hidden": false,
+   "pct": 39.2,
+   "api_name": "Achievement_16",
+   "internal_key": 273
+  },
+  {
+   "name": "Like Clockwork",
+   "desc": "Complete a successful ambush",
+   "hidden": false,
+   "pct": 77.3,
+   "api_name": "Achievement_18",
+   "internal_key": 275
+  },
+  {
+   "name": "Mechlord",
+   "desc": "Hack and take control of a Sectopod",
+   "hidden": false,
+   "pct": 37.2,
+   "api_name": "Achievement_19",
+   "internal_key": 276
+  },
+  {
+   "name": "Nick of Time",
+   "desc": "Evacuate a soldier whose bleed-out timer is still running",
+   "hidden": false,
+   "pct": 16.0,
+   "api_name": "Achievement_20",
+   "internal_key": 277
+  },
+  {
+   "name": "Locked and Loaded",
+   "desc": "Upgrade a weapon",
+   "hidden": false,
+   "pct": 69.3,
+   "api_name": "Achievement_21",
+   "internal_key": 278
+  },
+  {
+   "name": "Excalibur",
+   "desc": "Completely upgrade a beam weapon with superior grade weapon upgrades",
+   "hidden": false,
+   "pct": 29.8,
+   "api_name": "Achievement_22",
+   "internal_key": 279
+  },
+  {
+   "name": "David and Goliath",
+   "desc": "Kill a Berserker in melee combat",
+   "hidden": false,
+   "pct": 31.9,
+   "api_name": "Achievement_23",
+   "internal_key": 280
+  },
+  {
+   "name": "Breathing Room",
+   "desc": "Kill a Viper who is strangling a squadmate",
+   "hidden": false,
+   "pct": 58.3,
+   "api_name": "Achievement_24",
+   "internal_key": 281
+  },
+  {
+   "name": "Come Back To Me",
+   "desc": "Kill a Sectoid who is currently mind controlling a squadmate",
+   "hidden": false,
+   "pct": 63.7,
+   "api_name": "Achievement_25",
+   "internal_key": 282
+  },
+  {
+   "name": "Stop Hitting Yourself",
+   "desc": "Kill an enemy with a hacked turret",
+   "hidden": false,
+   "pct": 28.4,
+   "api_name": "Achievement_26",
+   "internal_key": 283
+  },
+  {
+   "name": "Shen's Legacy",
+   "desc": "Build a facility in every Avenger slot",
+   "hidden": false,
+   "pct": 28.1,
+   "api_name": "Achievement_27",
+   "internal_key": 284
+  },
+  {
+   "name": "Bring It Down",
+   "desc": "Sabotage an alien facility",
+   "hidden": false,
+   "pct": 49.0,
+   "api_name": "Achievement_28",
+   "internal_key": 285
+  },
+  {
+   "name": "Have a Nice Trip",
+   "desc": "Cause an enemy to fall to its death",
+   "hidden": false,
+   "pct": 47.5,
+   "api_name": "Achievement_29",
+   "internal_key": 286
+  },
+  {
+   "name": "Car Wrecked",
+   "desc": "Cause an enemy to die in a vehicle explosion",
+   "hidden": false,
+   "pct": 56.3,
+   "api_name": "Achievement_30",
+   "internal_key": 287
+  },
+  {
+   "name": "Exquisite Timing",
+   "desc": "Beat the game on Commander+ difficulty by July 1st (July 15th for War of the Chosen)",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "Achievement_31",
+   "internal_key": 3328
+  },
+  {
+   "name": "Who Needs Tygan?",
+   "desc": "Beat the final mission using only conventional gear",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "Achievement_32",
+   "internal_key": 3329
+  },
+  {
+   "name": "The Few and the Proud",
+   "desc": "Beat the game on Commander+ difficulty without buying a Squad Size upgrade",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "Achievement_33",
+   "internal_key": 3330
+  },
+  {
+   "name": "The Untouchables",
+   "desc": "Beat the game on Commander+ without losing a soldier",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "Achievement_34",
+   "internal_key": 3331
+  },
+  {
+   "name": "Pile 'Em Up",
+   "desc": "Kill 500 aliens. (does not have to be in same game)",
+   "hidden": false,
+   "pct": 38.8,
+   "api_name": "Achievement_35",
+   "internal_key": 3332
+  },
+  {
+   "name": "The Most Dangerous Game",
+   "desc": "Win a multiplayer match.",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "Achievement_36",
+   "internal_key": 3333
+  },
+  {
+   "name": "Overpowered",
+   "desc": "Beat a mission on Commander+ with a squad composed entirely of soldiers of the same class (but not Rookie)",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "Achievement_37",
+   "internal_key": 3334
+  },
+  {
+   "name": "Heroes of the Resistance",
+   "desc": "Beat a Retaliation mission with no more than 3 civilian deaths",
+   "hidden": false,
+   "pct": 54.4,
+   "api_name": "Achievement_38",
+   "internal_key": 3335
+  },
+  {
+   "name": "Cyberlord",
+   "desc": "Earn a second tier hack reward",
+   "hidden": false,
+   "pct": 50.4,
+   "api_name": "Achievement_39",
+   "internal_key": 3336
+  },
+  {
+   "name": "Heavy Metal",
+   "desc": "Kill an enemy with every heavy weapon in the game (Doesn't have to be in the same game)",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "Achievement_40",
+   "internal_key": 3337
+  },
+  {
+   "name": "The Sun Never Sets",
+   "desc": "Build a radio relay on every continent",
+   "hidden": false,
+   "pct": 16.4,
+   "api_name": "Achievement_41",
+   "internal_key": 3338
+  },
+  {
+   "name": "Global Resistance",
+   "desc": "Get all of the continent bonuses available in a single campaign",
+   "hidden": false,
+   "pct": 13.6,
+   "api_name": "Achievement_42",
+   "internal_key": 3339
+  },
+  {
+   "name": "Beginner's Luck",
+   "desc": "Beat a mission in June or later using only Rookies",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "Achievement_43",
+   "internal_key": 3340
+  },
+  {
+   "name": "Brutal Collection",
+   "desc": "Skulljack each different type of ADVENT soldier (does not have to be in same game)",
+   "hidden": false,
+   "pct": 7.6,
+   "api_name": "Achievement_44",
+   "internal_key": 3341
+  },
+  {
+   "name": "With Extreme Prejudice",
+   "desc": "Skulljack an ADVENT Officer",
+   "hidden": false,
+   "pct": 57.3,
+   "api_name": "Achievement_45",
+   "internal_key": 3342
+  },
+  {
+   "name": "A Better Human Being",
+   "desc": "Recover the Forge Item",
+   "hidden": true,
+   "pct": 39.4,
+   "api_name": "Achievement_46",
+   "internal_key": 3343
+  },
+  {
+   "name": "A Final Stand",
+   "desc": "Create the Commander's Avatar",
+   "hidden": true,
+   "pct": 32.4,
+   "api_name": "Achievement_47",
+   "internal_key": 3344
+  },
+  {
+   "name": "Harder, Better, Faster, Stronger",
+   "desc": "Apply a PCS upgrade to a soldier",
+   "hidden": false,
+   "pct": 53.8,
+   "api_name": "Achievement_48",
+   "internal_key": 3345
+  },
+  {
+   "name": "Now Am I Become Death",
+   "desc": "Kill 3 enemies in a single turn, with a single soldier, without explosives",
+   "hidden": false,
+   "pct": 52.0,
+   "api_name": "Achievement_49",
+   "internal_key": 3346
+  },
+  {
+   "name": "Valhalla",
+   "desc": "Beat the game on Commander+ difficulty in Ironman mode",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "Achievement_50",
+   "internal_key": 3347
+  },
+  {
+   "name": "A Forbidden Experiment",
+   "desc": "Investigate the Abandoned Research Facility",
+   "hidden": true,
+   "pct": 21.1,
+   "api_name": "Achievement_51",
+   "internal_key": 3348
+  },
+  {
+   "name": "Viper Vanquisher",
+   "desc": "Kill the Viper Ruler",
+   "hidden": false,
+   "pct": 27.6,
+   "api_name": "Achievement_52",
+   "internal_key": 3349
+  },
+  {
+   "name": "Berserker Breaker",
+   "desc": "Kill the Berserker Ruler",
+   "hidden": false,
+   "pct": 23.1,
+   "api_name": "Achievement_53",
+   "internal_key": 3350
+  },
+  {
+   "name": "Archon Annihilator",
+   "desc": "Kill the Archon Ruler",
+   "hidden": false,
+   "pct": 19.8,
+   "api_name": "Achievement_54",
+   "internal_key": 3351
+  },
+  {
+   "name": "Kingslayer",
+   "desc": "Kill all alien rulers in a single game",
+   "hidden": false,
+   "pct": 18.4,
+   "api_name": "Achievement_55",
+   "internal_key": 3352
+  },
+  {
+   "name": "Deadly Arsenal",
+   "desc": "Purchase all of the final tier Hunter Weapons",
+   "hidden": false,
+   "pct": 14.5,
+   "api_name": "Achievement_56",
+   "internal_key": 3353
+  },
+  {
+   "name": "Now I Am The Master",
+   "desc": "Use all ruler armor abilities in a single mission",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "Achievement_57",
+   "internal_key": 3354
+  },
+  {
+   "name": "Enemy Adopted",
+   "desc": "Use a ruler armor ability against an alien ruler",
+   "hidden": false,
+   "pct": 8.6,
+   "api_name": "Achievement_58",
+   "internal_key": 3355
+  },
+  {
+   "name": "Regicide",
+   "desc": "Kill an alien ruler the first time you encounter it",
+   "hidden": false,
+   "pct": 13.8,
+   "api_name": "Achievement_59",
+   "internal_key": 3356
+  },
+  {
+   "name": "Not Throwing Away My Shot",
+   "desc": "Kill an alien ruler while it attempts to escape",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "Achievement_60",
+   "internal_key": 3357
+  },
+  {
+   "name": "A Torch Passed",
+   "desc": "Beat the Lost Towers mission",
+   "hidden": false,
+   "pct": 23.9,
+   "api_name": "Achievement_61",
+   "internal_key": 3358
+  },
+  {
+   "name": "Our New Overlords",
+   "desc": "Promote a SPARK unit to Champion rank",
+   "hidden": false,
+   "pct": 13.2,
+   "api_name": "Achievement_62",
+   "internal_key": 3359
+  },
+  {
+   "name": "Rise of the Robots",
+   "desc": "Complete a mission with three or more SPARK units in the squad",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "Achievement_63",
+   "internal_key": 3584
+  },
+  {
+   "name": "Matter Over Mind",
+   "desc": "Defeat an Avatar with a SPARK unit",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "Achievement_64",
+   "internal_key": 3585
+  },
+  {
+   "name": "Running on Fumes",
+   "desc": "A SPARK unit survives a mission it started with less than half health",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "Achievement_65",
+   "internal_key": 3586
+  },
+  {
+   "name": "Bells and Whistles",
+   "desc": "Outfit a SPARK unit with the highest tier weaponry and armor",
+   "hidden": false,
+   "pct": 18.1,
+   "api_name": "Achievement_66",
+   "internal_key": 3587
+  },
+  {
+   "name": "Always be Shooting",
+   "desc": "Hit three shots on a single turn with a SPARK unit after using its Overdrive ability",
+   "hidden": false,
+   "pct": 14.3,
+   "api_name": "Achievement_67",
+   "internal_key": 3588
+  },
+  {
+   "name": "Axles to Axles, Bolts to Bolts",
+   "desc": "Defeat a robotic enemy with a SPARK unit",
+   "hidden": false,
+   "pct": 31.4,
+   "api_name": "Achievement_68",
+   "internal_key": 3589
+  },
+  {
+   "name": "Just Like Dad Used To Make",
+   "desc": "Build a SPARK unit",
+   "hidden": false,
+   "pct": 24.0,
+   "api_name": "Achievement_69",
+   "internal_key": 3590
+  },
+  {
+   "name": "Make ‘em go Boom",
+   "desc": "Kill an enemy primed Derelict MEC before it can self-destruct",
+   "hidden": false,
+   "pct": 26.2,
+   "api_name": "Achievement_70",
+   "internal_key": 3591
+  },
+  {
+   "name": "A New Alliance",
+   "desc": "Complete the Lost and Abandoned mission",
+   "hidden": false,
+   "pct": 35.1,
+   "api_name": "Achievement_71",
+   "internal_key": 3592
+  },
+  {
+   "name": "A Rival Silenced",
+   "desc": "Permanently defeat one of the Chosen",
+   "hidden": false,
+   "pct": 23.8,
+   "api_name": "Achievement_72",
+   "internal_key": 3593
+  },
+  {
+   "name": "Zombies in a Barrel",
+   "desc": "Get 15 Headshots against Lost in a single turn",
+   "hidden": false,
+   "pct": 6.1,
+   "api_name": "Achievement_73",
+   "internal_key": 3594
+  },
+  {
+   "name": "Born in the Darkness",
+   "desc": "Get four kills from Shadow mode with a Reaper in a single mission",
+   "hidden": false,
+   "pct": 20.9,
+   "api_name": "Achievement_74",
+   "internal_key": 3595
+  },
+  {
+   "name": "Circle of Psi",
+   "desc": "Raise a Templar to maximum Focus level, spend it all, and reach the max again in a single mission",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "Achievement_75",
+   "internal_key": 3596
+  },
+  {
+   "name": "Can't Stop the Fighting",
+   "desc": "Perform three offensive actions against the same target with a Skirmisher in a single turn",
+   "hidden": false,
+   "pct": 15.1,
+   "api_name": "Achievement_76",
+   "internal_key": 3597
+  },
+  {
+   "name": "It Takes Two",
+   "desc": "Form a level 3 bond between two soldiers",
+   "hidden": false,
+   "pct": 19.5,
+   "api_name": "Achievement_77",
+   "internal_key": 3598
+  },
+  {
+   "name": "Weary Warriors",
+   "desc": "Complete a mission with all Tired soldiers and no casualties",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "Achievement_78",
+   "internal_key": 3599
+  },
+  {
+   "name": "Fully Operational Resistance",
+   "desc": "Raise XCOM's influence with all three factions to High in a single game",
+   "hidden": false,
+   "pct": 21.8,
+   "api_name": "Achievement_79",
+   "internal_key": 3600
+  },
+  {
+   "name": "No One Left Behind",
+   "desc": "Rescue a soldier who was captured by the Chosen",
+   "hidden": false,
+   "pct": 31.4,
+   "api_name": "Achievement_80",
+   "internal_key": 3601
+  },
+  {
+   "name": "Deja Vu All Over Again",
+   "desc": "Complete the 'Blast From the Past' legacy operation with a gold medal",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "Achievement_81",
+   "internal_key": 3602
+  },
+  {
+   "name": "Bug Fisherman",
+   "desc": "Complete the 'It Came From the Sea' legacy operation with a gold medal",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "Achievement_82",
+   "internal_key": 3603
+  },
+  {
+   "name": "Fully Operational Battlestation",
+   "desc": "Complete the 'Avenger Assemble' legacy operation with a gold medal",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "Achievement_83",
+   "internal_key": 3604
+  },
+  {
+   "name": "The Gang's All Here",
+   "desc": "Complete 'The Lazarus Project' legacy operation with a gold medal",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "Achievement_84",
+   "internal_key": 3605
+  },
+  {
+   "name": "Campaign Microcosm",
+   "desc": "Complete a random legacy operation",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "Achievement_85",
+   "internal_key": 3606
+  },
+  {
+   "name": "Honorary Level Designer",
+   "desc": "Complete a Skirmish Mission",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "Achievement_86",
+   "internal_key": 3607
+  },
+  {
+   "name": "Playing For Score",
+   "desc": "Complete a Local Challenge",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "Achievement_87",
+   "internal_key": 3608
+  },
+  {
+   "name": "There's A Future In The Past",
+   "desc": "Complete a single player campaign with Tactical Legacy Pack content",
+   "hidden": false,
+   "pct": 10.4,
+   "api_name": "Achievement_88",
+   "internal_key": 3609
+  }
+ ]
+}

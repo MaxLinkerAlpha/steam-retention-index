@@ -1,0 +1,897 @@
+{
+ "appid": 1328670,
+ "game": "Mass Effect™ Legendary Edition",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 127,
+ "achievements": [
+  {
+   "api": "Achievement_GOSCC_3",
+   "name": "Distinguished Service Medal",
+   "desc": "ME1: Complete Eden Prime",
+   "hidden": false,
+   "pct": 76.1
+  },
+  {
+   "api": "Achievement_GOSCC_31",
+   "name": "Spectre Inductee",
+   "desc": "ME1: Become a Spectre",
+   "hidden": false,
+   "pct": 60.4
+  },
+  {
+   "api": "Achievement_GOSCC_21",
+   "name": "Medal of Exploration I",
+   "desc": "ME1: Land on an uncharted world",
+   "hidden": false,
+   "pct": 52.6
+  },
+  {
+   "api": "Achievement_GOSCC_124",
+   "name": "Recruit",
+   "desc": "Kill 250 enemies in Mass Effect 1, 2 or 3",
+   "hidden": false,
+   "pct": 49.8
+  },
+  {
+   "api": "Achievement_GOSCC_33",
+   "name": "Search and Rescue",
+   "desc": "ME1: Locate Dr. T'soni in the Artemis Tau cluster",
+   "hidden": false,
+   "pct": 49.6
+  },
+  {
+   "api": "Achievement_GOSCC_28",
+   "name": "Quarian Ally",
+   "desc": "ME1: Complete 5 missions with the quarian squad member",
+   "hidden": false,
+   "pct": 47.3
+  },
+  {
+   "api": "Achievement_GOSCC_5",
+   "name": "Honorarium of Corporate Service",
+   "desc": "ME1: Complete Noveria",
+   "hidden": false,
+   "pct": 44.2
+  },
+  {
+   "api": "Achievement_GOSCC_2",
+   "name": "Medal of Heroism",
+   "desc": "ME1: Complete Feros",
+   "hidden": false,
+   "pct": 43.9
+  },
+  {
+   "api": "Achievement_GOSCC_27",
+   "name": "Turian Ally",
+   "desc": "ME1: Complete 5 missions with the turian squad member",
+   "hidden": false,
+   "pct": 42.5
+  },
+  {
+   "api": "Achievement_GOSCC_36",
+   "name": "Missing in Action",
+   "desc": "ME2: Save your crew from an overwhelming attack",
+   "hidden": false,
+   "pct": 40.4
+  },
+  {
+   "api": "Achievement_GOSCC_4",
+   "name": "Council Legion of Merit",
+   "desc": "ME1: Complete Virmire",
+   "hidden": false,
+   "pct": 40.1
+  },
+  {
+   "api": "Achievement_GOSCC_37",
+   "name": "Very Elusive",
+   "desc": "ME2: Return to active duty",
+   "hidden": false,
+   "pct": 39.1
+  },
+  {
+   "api": "Achievement_GOSCC_22",
+   "name": "Medal of Exploration II",
+   "desc": "ME1: Land on 4 uncharted worlds",
+   "hidden": false,
+   "pct": 38.9
+  },
+  {
+   "api": "Achievement_GOSCC_1",
+   "name": "Medal of Honor",
+   "desc": "ME1: Complete the game on any difficulty",
+   "hidden": false,
+   "pct": 38.5
+  },
+  {
+   "api": "Achievement_GOSCC_18",
+   "name": "Meritorious Service Medal",
+   "desc": "ME1: Complete Ilos",
+   "hidden": false,
+   "pct": 38.4
+  },
+  {
+   "api": "Achievement_GOSCC_32",
+   "name": "Charismatic",
+   "desc": "ME1: Use Charm or Intimidate to resolve an impossible situation in the game.",
+   "hidden": false,
+   "pct": 38.4
+  },
+  {
+   "api": "Achievement_GOSCC_125",
+   "name": "Soldier",
+   "desc": "Kill 1,000 enemies in Mass Effect 1, 2 or 3",
+   "hidden": false,
+   "pct": 37.4
+  },
+  {
+   "api": "Achievement_GOSCC_64",
+   "name": "Merciless",
+   "desc": "ME2: Make 20 enemies scream as they fall or are set on fire",
+   "hidden": false,
+   "pct": 36.5
+  },
+  {
+   "api": "Achievement_GOSCC_29",
+   "name": "Asari Ally",
+   "desc": "ME1: Complete 5 missions with the asari squad member",
+   "hidden": false,
+   "pct": 36.4
+  },
+  {
+   "api": "Achievement_GOSCC_73",
+   "name": "Scholar",
+   "desc": "ME2: Unlock 15 new Mass Effect 2 codex entries",
+   "hidden": false,
+   "pct": 36.1
+  },
+  {
+   "api": "Achievement_GOSCC_44",
+   "name": "The Archangel",
+   "desc": "ME2: Successfully recruit Archangel",
+   "hidden": false,
+   "pct": 36.0
+  },
+  {
+   "api": "Achievement_GOSCC_49",
+   "name": "The Professor",
+   "desc": "ME2: Successfully recruit the Professor",
+   "hidden": false,
+   "pct": 35.9
+  },
+  {
+   "api": "Achievement_GOSCC_71",
+   "name": "Scientist",
+   "desc": "ME2: Complete any research project in the Normandy's laboratory",
+   "hidden": false,
+   "pct": 35.9
+  },
+  {
+   "api": "Achievement_GOSCC_62",
+   "name": "Head Hunter",
+   "desc": "ME2: Perform 30 headshot kills with any weapon on humanoid targets",
+   "hidden": false,
+   "pct": 35.4
+  },
+  {
+   "api": "Achievement_GOSCC_34",
+   "name": "Colonial Savior",
+   "desc": "ME1: Complete the Bring Down the Sky mission.",
+   "hidden": false,
+   "pct": 34.9
+  },
+  {
+   "api": "Achievement_GOSCC_30",
+   "name": "Principled",
+   "desc": "ME1: Accumulate 75% of total possible Paragon or Renegade points",
+   "hidden": false,
+   "pct": 34.6
+  },
+  {
+   "api": "Achievement_GOSCC_120",
+   "name": "Paramour I",
+   "desc": "Establish a romantic relationship in Mass Effect 1, 2 or 3",
+   "hidden": false,
+   "pct": 34.2
+  },
+  {
+   "api": "Achievement_GOSCC_46",
+   "name": "The Convict",
+   "desc": "ME2: Successfully recruit the biotic Convict",
+   "hidden": false,
+   "pct": 33.7
+  },
+  {
+   "api": "Achievement_GOSCC_70",
+   "name": "Operative",
+   "desc": "ME2: Complete a mission discovered by scanning an unexplored world",
+   "hidden": false,
+   "pct": 33.2
+  },
+  {
+   "api": "Achievement_GOSCC_74",
+   "name": "Power Full",
+   "desc": "ME2: Evolve any power",
+   "hidden": false,
+   "pct": 33.0
+  },
+  {
+   "api": "Achievement_GOSCC_23",
+   "name": "Medal of Exploration III",
+   "desc": "ME1: Land on 8 uncharted worlds",
+   "hidden": false,
+   "pct": 32.9
+  },
+  {
+   "api": "Achievement_GOSCC_26",
+   "name": "Krogan Ally",
+   "desc": "ME1: Complete 5 missions with the krogan squad member",
+   "hidden": false,
+   "pct": 32.8
+  },
+  {
+   "api": "Achievement_GOSCC_48",
+   "name": "The Krogan",
+   "desc": "ME2: Successfully recruit the krogan",
+   "hidden": false,
+   "pct": 32.8
+  },
+  {
+   "api": "Achievement_GOSCC_38",
+   "name": "Colony Defense",
+   "desc": "ME2: Defend a human colony from attack",
+   "hidden": false,
+   "pct": 32.7
+  },
+  {
+   "api": "Achievement_GOSCC_24",
+   "name": "Soldier Ally",
+   "desc": "ME1: Complete 5 missions with the Alliance soldier squad member",
+   "hidden": false,
+   "pct": 32.6
+  },
+  {
+   "api": "Achievement_GOSCC_76",
+   "name": "Broke, Blind, and Bedlam",
+   "desc": "ME2: Gain the loyalty of the thief",
+   "hidden": false,
+   "pct": 32.2
+  },
+  {
+   "api": "Achievement_GOSCC_25",
+   "name": "Sentinel Ally",
+   "desc": "ME1: Complete 5 missions with the Alliance sentinel squad member",
+   "hidden": false,
+   "pct": 30.9
+  },
+  {
+   "api": "Achievement_GOSCC_45",
+   "name": "The Assassin",
+   "desc": "ME2: Successfully recruit the Assassin",
+   "hidden": false,
+   "pct": 30.7
+  },
+  {
+   "api": "Achievement_GOSCC_50",
+   "name": "The Quarian",
+   "desc": "ME2: Successfully recruit the quarian",
+   "hidden": false,
+   "pct": 30.6
+  },
+  {
+   "api": "Achievement_GOSCC_39",
+   "name": "Ghost Ship",
+   "desc": "ME2: Complete the investigation of a derelict alien vessel",
+   "hidden": false,
+   "pct": 30.5
+  },
+  {
+   "api": "Achievement_GOSCC_47",
+   "name": "The Justicar",
+   "desc": "ME2: Successfully recruit the Justicar",
+   "hidden": false,
+   "pct": 30.2
+  },
+  {
+   "api": "Achievement_GOSCC_59",
+   "name": "The Prodigal",
+   "desc": "ME2: Gain the loyalty of the Cerberus Officer",
+   "hidden": false,
+   "pct": 30.1
+  },
+  {
+   "api": "Achievement_GOSCC_126",
+   "name": "Veteran",
+   "desc": "Kill 2,000 enemies in Mass Effect 1, 2 or 3",
+   "hidden": false,
+   "pct": 29.8
+  },
+  {
+   "api": "Achievement_GOSCC_79",
+   "name": "Driven",
+   "desc": "ME3: Return to active duty.",
+   "hidden": false,
+   "pct": 29.6
+  },
+  {
+   "api": "Achievement_GOSCC_54",
+   "name": "Catharsis",
+   "desc": "ME2: Gain the loyalty of the biotic Convict",
+   "hidden": false,
+   "pct": 29.4
+  },
+  {
+   "api": "Achievement_GOSCC_56",
+   "name": "Fade Away",
+   "desc": "ME2: Gain the loyalty of Archangel",
+   "hidden": false,
+   "pct": 29.3
+  },
+  {
+   "api": "Achievement_GOSCC_58",
+   "name": "The Cure",
+   "desc": "ME2: Gain the loyalty of the Professor",
+   "hidden": false,
+   "pct": 29.3
+  },
+  {
+   "api": "Achievement_GOSCC_52",
+   "name": "Battlemaster",
+   "desc": "ME2: Gain the loyalty of the krogan",
+   "hidden": false,
+   "pct": 29.2
+  },
+  {
+   "api": "Achievement_GOSCC_57",
+   "name": "Ghost of the Father",
+   "desc": "ME2: Gain the loyalty of the Cerberus Operative",
+   "hidden": false,
+   "pct": 29.2
+  },
+  {
+   "api": "Achievement_GOSCC_75",
+   "name": "Revenge!",
+   "desc": "ME2: Gain the loyalty of the mercenary",
+   "hidden": false,
+   "pct": 29.0
+  },
+  {
+   "api": "Achievement_GOSCC_61",
+   "name": "Big Game Hunter",
+   "desc": "ME2: Thresher Maw defeated",
+   "hidden": false,
+   "pct": 28.9
+  },
+  {
+   "api": "Achievement_GOSCC_78",
+   "name": "Heart of Darkness",
+   "desc": "ME2: Confront the Shadow Broker",
+   "hidden": false,
+   "pct": 28.8
+  },
+  {
+   "api": "Achievement_GOSCC_60",
+   "name": "Treason",
+   "desc": "ME2: Gain the loyalty of the quarian",
+   "hidden": false,
+   "pct": 28.4
+  },
+  {
+   "api": "Achievement_GOSCC_80",
+   "name": "Bringer of War",
+   "desc": "ME3: Chase down an assassin.",
+   "hidden": false,
+   "pct": 28.3
+  },
+  {
+   "api": "Achievement_GOSCC_77",
+   "name": "Digital Exorcist",
+   "desc": "ME2: Successfully shut down the rogue VI in Project Overlord",
+   "hidden": false,
+   "pct": 28.1
+  },
+  {
+   "api": "Achievement_GOSCC_53",
+   "name": "Cat's in the Cradle",
+   "desc": "ME2: Gain the loyalty of the Assassin",
+   "hidden": false,
+   "pct": 28.0
+  },
+  {
+   "api": "Achievement_GOSCC_55",
+   "name": "Doppelganger",
+   "desc": "ME2: Help the Justicar resolve her mission",
+   "hidden": false,
+   "pct": 27.9
+  },
+  {
+   "api": "Achievement_GOSCC_97",
+   "name": "Shopaholic",
+   "desc": "ME3: Visit a store in the single-player campaign.",
+   "hidden": false,
+   "pct": 27.9
+  },
+  {
+   "api": "Achievement_GOSCC_43",
+   "name": "Friend or Foe",
+   "desc": "ME2: Obtain geth technology",
+   "hidden": false,
+   "pct": 27.8
+  },
+  {
+   "api": "Achievement_GOSCC_69",
+   "name": "Galactic Explorer",
+   "desc": "ME2: Visit 100% of the planets in an unexplored cluster",
+   "hidden": false,
+   "pct": 27.6
+  },
+  {
+   "api": "Achievement_GOSCC_100",
+   "name": "A Personal Touch",
+   "desc": "ME3: Modify a weapon.",
+   "hidden": false,
+   "pct": 27.6
+  },
+  {
+   "api": "Achievement_GOSCC_40",
+   "name": "Suicide Mission",
+   "desc": "ME2: Use the Omega 4 Relay",
+   "hidden": false,
+   "pct": 27.5
+  },
+  {
+   "api": "Achievement_GOSCC_35",
+   "name": "Mission Accomplished",
+   "desc": "ME2: Save humanity throughout the galaxy from certain annihilation",
+   "hidden": false,
+   "pct": 27.4
+  },
+  {
+   "api": "Achievement_GOSCC_41",
+   "name": "Against All Odds",
+   "desc": "ME2: Survive suicide mission",
+   "hidden": false,
+   "pct": 27.4
+  },
+  {
+   "api": "Achievement_GOSCC_102",
+   "name": "Focused",
+   "desc": "ME3: Evolve any of your powers to rank 6.",
+   "hidden": false,
+   "pct": 27.1
+  },
+  {
+   "api": "Achievement_GOSCC_81",
+   "name": "Mobilizer",
+   "desc": "ME3: Bring a veteran officer aboard.",
+   "hidden": false,
+   "pct": 27.0
+  },
+  {
+   "api": "Achievement_GOSCC_51",
+   "name": "A House Divided",
+   "desc": "ME2: Hack a geth collective",
+   "hidden": false,
+   "pct": 26.5
+  },
+  {
+   "api": "Achievement_GOSCC_68",
+   "name": "Agent",
+   "desc": "ME2: Complete 5 missions discovered by scanning unexplored worlds",
+   "hidden": false,
+   "pct": 26.3
+  },
+  {
+   "api": "Achievement_GOSCC_82",
+   "name": "World Shaker",
+   "desc": "ME3: Destroy an Atlas dropped from orbit.",
+   "hidden": false,
+   "pct": 25.4
+  },
+  {
+   "api": "Achievement_GOSCC_107",
+   "name": "Eye of the Hurricane",
+   "desc": "ME3: Kill a brute while it's charging you.",
+   "hidden": false,
+   "pct": 25.2
+  },
+  {
+   "api": "Achievement_GOSCC_110",
+   "name": "Giant Killer",
+   "desc": "ME3: Defeat a harvester.",
+   "hidden": false,
+   "pct": 25.2
+  },
+  {
+   "api": "Achievement_GOSCC_103",
+   "name": "Untouchable",
+   "desc": "ME3: Escape a Reaper in the galaxy map.",
+   "hidden": false,
+   "pct": 25.0
+  },
+  {
+   "api": "Achievement_GOSCC_93",
+   "name": "Liberator",
+   "desc": "ME3: Stop a Cerberus kidnapping.",
+   "hidden": false,
+   "pct": 24.8
+  },
+  {
+   "api": "Achievement_GOSCC_84",
+   "name": "Tunnel Rat",
+   "desc": "ME3: Survive the swarm.",
+   "hidden": false,
+   "pct": 24.4
+  },
+  {
+   "api": "Achievement_GOSCC_83",
+   "name": "Pathfinder",
+   "desc": "ME3: Explore a lost city.",
+   "hidden": false,
+   "pct": 24.3
+  },
+  {
+   "api": "Achievement_GOSCC_88",
+   "name": "Arbiter",
+   "desc": "ME3: Win a political stand-off.",
+   "hidden": false,
+   "pct": 24.1
+  },
+  {
+   "api": "Achievement_GOSCC_16",
+   "name": "First Aid Specialist",
+   "desc": "ME1: Use medi-gel 50 times",
+   "hidden": false,
+   "pct": 23.6
+  },
+  {
+   "api": "Achievement_GOSCC_72",
+   "name": "Weapon Specialist",
+   "desc": "ME2: Fully upgrade a weapon",
+   "hidden": false,
+   "pct": 23.2
+  },
+  {
+   "api": "Achievement_GOSCC_114",
+   "name": "Savior",
+   "desc": "ME3: Free Omega from Cerberus Occupation.",
+   "hidden": false,
+   "pct": 23.2
+  },
+  {
+   "api": "Achievement_GOSCC_20",
+   "name": "Completionist",
+   "desc": "ME1: Complete the majority of the game",
+   "hidden": false,
+   "pct": 23.0
+  },
+  {
+   "api": "Achievement_GOSCC_85",
+   "name": "Party Crasher",
+   "desc": "ME3: Sabotage a dreadnought.",
+   "hidden": false,
+   "pct": 22.8
+  },
+  {
+   "api": "Achievement_GOSCC_94",
+   "name": "Problem Solver",
+   "desc": "ME3: Evacuate a scientific facility.",
+   "hidden": false,
+   "pct": 22.5
+  },
+  {
+   "api": "Achievement_GOSCC_92",
+   "name": "Fact Finder",
+   "desc": "ME3: Discover an enemy's monstrous origin.",
+   "hidden": false,
+   "pct": 22.4
+  },
+  {
+   "api": "Achievement_GOSCC_86",
+   "name": "Hard Target",
+   "desc": "ME3: Call down an orbital strike.",
+   "hidden": false,
+   "pct": 22.3
+  },
+  {
+   "api": "Achievement_GOSCC_99",
+   "name": "Lost and Found",
+   "desc": "ME3: Dispatch 10 probes to retrieve people or resources in Reaper territory.",
+   "hidden": false,
+   "pct": 22.2
+  },
+  {
+   "api": "Achievement_GOSCC_113",
+   "name": "Under Pressure",
+   "desc": "ME3: Uncover an ancient secret.",
+   "hidden": false,
+   "pct": 21.8
+  },
+  {
+   "api": "Achievement_GOSCC_87",
+   "name": "Saboteur",
+   "desc": "ME3: Disable a group of fighter squadrons.",
+   "hidden": false,
+   "pct": 21.7
+  },
+  {
+   "api": "Achievement_GOSCC_42",
+   "name": "No One Left Behind",
+   "desc": "ME2: Keep your team alive through the suicide mission",
+   "hidden": false,
+   "pct": 21.6
+  },
+  {
+   "api": "Achievement_GOSCC_89",
+   "name": "Last Witness",
+   "desc": "ME3: Extract ancient technology.",
+   "hidden": false,
+   "pct": 21.5
+  },
+  {
+   "api": "Achievement_GOSCC_115",
+   "name": "Last Resort",
+   "desc": "ME3: Stop an out-of-control scheme before it's too late.",
+   "hidden": false,
+   "pct": 21.5
+  },
+  {
+   "api": "Achievement_GOSCC_121",
+   "name": "Paramour II",
+   "desc": "Establish or rekindle a romantic relationship in two games in Mass Effect Legendary Edition",
+   "hidden": false,
+   "pct": 21.5
+  },
+  {
+   "api": "Achievement_GOSCC_91",
+   "name": "Well Connected",
+   "desc": "ME3: Send a warning across the galaxy.",
+   "hidden": false,
+   "pct": 21.2
+  },
+  {
+   "api": "Achievement_GOSCC_19",
+   "name": "Archivist",
+   "desc": "ME1: Find all primary Alien: Council Races, Extinct Races and Non-Council Races codex entries",
+   "hidden": false,
+   "pct": 20.9
+  },
+  {
+   "api": "Achievement_GOSCC_90",
+   "name": "Executioner",
+   "desc": "ME3: Defeat an old adversary.",
+   "hidden": false,
+   "pct": 20.3
+  },
+  {
+   "api": "Achievement_GOSCC_98",
+   "name": "Master and Commander",
+   "desc": "ME3: Deliver most of the Galaxy at War assets to the final conflict.",
+   "hidden": false,
+   "pct": 20.1
+  },
+  {
+   "api": "Achievement_GOSCC_95",
+   "name": "Patriot",
+   "desc": "ME3: Make the final assault.",
+   "hidden": false,
+   "pct": 20.0
+  },
+  {
+   "api": "Achievement_GOSCC_96",
+   "name": "Legend",
+   "desc": "ME3: Mission accomplished.",
+   "hidden": false,
+   "pct": 19.6
+  },
+  {
+   "api": "Achievement_GOSCC_106",
+   "name": "Pyromaniac",
+   "desc": "ME3: Set 100 enemies on fire with powers.",
+   "hidden": false,
+   "pct": 18.4
+  },
+  {
+   "api": "Achievement_GOSCC_123",
+   "name": "Long Service Medal",
+   "desc": "Finish Mass Effect 1, 2 and 3 with the same character",
+   "hidden": false,
+   "pct": 18.2
+  },
+  {
+   "api": "Achievement_GOSCC_7",
+   "name": "Throw Mastery",
+   "desc": "ME1: Use biotic Throw 25 times",
+   "hidden": false,
+   "pct": 16.5
+  },
+  {
+   "api": "Achievement_GOSCC_101",
+   "name": "Combined Arms",
+   "desc": "ME3: Perform any combination of 50 biotic combos or tech bursts.",
+   "hidden": false,
+   "pct": 15.2
+  },
+  {
+   "api": "Achievement_GOSCC_108",
+   "name": "Mail Slot",
+   "desc": "ME3: Kill 10 guardians with headshots from the front while their shields are raised.",
+   "hidden": false,
+   "pct": 15.2
+  },
+  {
+   "api": "Achievement_GOSCC_15",
+   "name": "Sabotage Specialist",
+   "desc": "ME1: Use Sabotage 25 times",
+   "hidden": false,
+   "pct": 15.1
+  },
+  {
+   "api": "Achievement_GOSCC_14",
+   "name": "Electronics Specialist",
+   "desc": "ME1: Use Shield Overload 25 times",
+   "hidden": false,
+   "pct": 14.8
+  },
+  {
+   "api": "Achievement_GOSCC_65",
+   "name": "Overload Specialist",
+   "desc": "ME2: Disrupt the shields of 25 enemies",
+   "hidden": false,
+   "pct": 13.0
+  },
+  {
+   "api": "Achievement_GOSCC_8",
+   "name": "Warp Mastery",
+   "desc": "ME1: Use biotic Warp 25 times",
+   "hidden": false,
+   "pct": 12.9
+  },
+  {
+   "api": "Achievement_GOSCC_105",
+   "name": "Sky High",
+   "desc": "ME3: Lift 100 enemies off the ground with powers.",
+   "hidden": false,
+   "pct": 12.9
+  },
+  {
+   "api": "Achievement_GOSCC_10",
+   "name": "Barrier Mastery",
+   "desc": "ME1: Use biotic Barrier 25 times",
+   "hidden": false,
+   "pct": 12.4
+  },
+  {
+   "api": "Achievement_GOSCC_127",
+   "name": "Bruiser",
+   "desc": "Kill 100 enemies with melee attacks in Mass Effect 1, 2 or 3",
+   "hidden": false,
+   "pct": 11.9
+  },
+  {
+   "api": "Achievement_GOSCC_6",
+   "name": "Lift Mastery",
+   "desc": "ME1: Use biotic Lift 25 times",
+   "hidden": false,
+   "pct": 11.1
+  },
+  {
+   "api": "Achievement_GOSCC_111",
+   "name": "Always Prepared",
+   "desc": "ME3: Obtain two non-customizable suits of armor.",
+   "hidden": false,
+   "pct": 11.1
+  },
+  {
+   "api": "Achievement_GOSCC_122",
+   "name": "Paramour III",
+   "desc": "Establish or rekindle a romantic relationship in all three games in Mass Effect Legendary Edition",
+   "hidden": false,
+   "pct": 11.0
+  },
+  {
+   "api": "Achievement_GOSCC_109",
+   "name": "Hijacker",
+   "desc": "ME3: Hijack an Atlas mech.",
+   "hidden": false,
+   "pct": 10.1
+  },
+  {
+   "api": "Achievement_GOSCC_9",
+   "name": "Singularity Mastery",
+   "desc": "ME1: Use biotic Singularity 25 times",
+   "hidden": false,
+   "pct": 8.2
+  },
+  {
+   "api": "Achievement_GOSCC_63",
+   "name": "Incineration Specialist",
+   "desc": "ME2: Incinerate the armor of 25 enemies",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "Achievement_GOSCC_104",
+   "name": "Shield Breaker",
+   "desc": "ME3: Overload the shields of 100 enemies.",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "Achievement_GOSCC_117",
+   "name": "Insanity I",
+   "desc": "Complete Mass Effect 1, 2 or 3 on Insanity without changing difficulty",
+   "hidden": false,
+   "pct": 7.6
+  },
+  {
+   "api": "Achievement_GOSCC_12",
+   "name": "Damping Specialist",
+   "desc": "ME1: Use Damping Field 25 times",
+   "hidden": false,
+   "pct": 7.3
+  },
+  {
+   "api": "Achievement_GOSCC_67",
+   "name": "Warp Specialist",
+   "desc": "ME2: Warp the barriers of 25 enemies",
+   "hidden": false,
+   "pct": 7.0
+  },
+  {
+   "api": "Achievement_GOSCC_66",
+   "name": "Tactician",
+   "desc": "ME2: Hit 20 different targets with multiple biotic powers to combine the effects",
+   "hidden": false,
+   "pct": 5.8
+  },
+  {
+   "api": "Achievement_GOSCC_118",
+   "name": "Insanity II",
+   "desc": "Complete two games in Mass Effect Legendary Edition on Insanity without changing difficulty",
+   "hidden": false,
+   "pct": 5.2
+  },
+  {
+   "api": "Achievement_GOSCC_11",
+   "name": "Stasis Mastery",
+   "desc": "ME1: Use biotic Stasis 25 times.",
+   "hidden": false,
+   "pct": 4.9
+  },
+  {
+   "api": "Achievement_GOSCC_13",
+   "name": "AI Hacking Specialist",
+   "desc": "ME1: Use AI Hacking 25 times",
+   "hidden": false,
+   "pct": 4.6
+  },
+  {
+   "api": "Achievement_GOSCC_17",
+   "name": "Neural Shock Specialist",
+   "desc": "ME1: Use Neural Shock 25 times",
+   "hidden": false,
+   "pct": 4.5
+  },
+  {
+   "api": "Achievement_GOSCC_112",
+   "name": "Gunsmith",
+   "desc": "ME3: Upgrade any weapon to level 10.",
+   "hidden": false,
+   "pct": 4.4
+  },
+  {
+   "api": "Achievement_GOSCC_119",
+   "name": "Insanity III",
+   "desc": "Complete all three games in Mass Effect Legendary Edition on Insanity without changing difficulty",
+   "hidden": false,
+   "pct": 3.7
+  },
+  {
+   "api": "Achievement_GOSCC_116",
+   "name": "The One and Only",
+   "desc": "ME3: Defeat a group of Spectre-level opponents on Normal, Hardcore, or Insanity.",
+   "hidden": false,
+   "pct": 3.0
+  }
+ ]
+}

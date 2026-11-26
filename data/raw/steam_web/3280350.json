@@ -1,0 +1,449 @@
+{
+ "appid": 3280350,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 55,
+ "achievements": [
+  {
+   "name": "Homo Liberans: The Savior of Humanity",
+   "desc": "Unlocked all achievements.",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "trophy_000",
+   "internal_key": 3072
+  },
+  {
+   "name": "\"Lou? Can you hear me? Can you see me?\"",
+   "desc": "Complete Episode 1: Sam.",
+   "hidden": true,
+   "pct": 80.2,
+   "api_name": "trophy_001",
+   "internal_key": 3073
+  },
+  {
+   "name": "\"Time to Start a New Journey\"",
+   "desc": "Complete Episode 2: Lou.",
+   "hidden": true,
+   "pct": 79.8,
+   "api_name": "trophy_002",
+   "internal_key": 3074
+  },
+  {
+   "name": "\"Help us Bring Australia into the Network\"",
+   "desc": "Complete Episode 3: Drawbridge.",
+   "hidden": true,
+   "pct": 69.1,
+   "api_name": "trophy_003",
+   "internal_key": 3075
+  },
+  {
+   "name": "\"We'll Show the World the Hope in Your Rain\"",
+   "desc": "Complete Episode 4: Raindrops.",
+   "hidden": true,
+   "pct": 66.2,
+   "api_name": "trophy_004",
+   "internal_key": 3076
+  },
+  {
+   "name": "\"Did He Say Nirvana?\"",
+   "desc": "Complete Episode 5: Conflagration.",
+   "hidden": true,
+   "pct": 65.5,
+   "api_name": "trophy_005",
+   "internal_key": 3077
+  },
+  {
+   "name": "\"To Our Little Family\"",
+   "desc": "Complete Episode 6: Chrysalis.",
+   "hidden": true,
+   "pct": 59.7,
+   "api_name": "trophy_006",
+   "internal_key": 3078
+  },
+  {
+   "name": "\"Sam the Man—In the Dark About Everything\"",
+   "desc": "Complete Episode 7: Pod.",
+   "hidden": true,
+   "pct": 52.9,
+   "api_name": "trophy_007",
+   "internal_key": 3079
+  },
+  {
+   "name": "\"His Name is Neil. Neil Vana\"",
+   "desc": "Complete Episode 8: Deluge.",
+   "hidden": true,
+   "pct": 47.7,
+   "api_name": "trophy_008",
+   "internal_key": 3080
+  },
+  {
+   "name": "\"I Don't Break That Easily\"",
+   "desc": "Complete Episode 9: Puppets.",
+   "hidden": true,
+   "pct": 43.8,
+   "api_name": "trophy_009",
+   "internal_key": 3081
+  },
+  {
+   "name": "\"You Will Never, Ever Be Alone\"",
+   "desc": "Complete Episode 10: Isolation.",
+   "hidden": true,
+   "pct": 42.5,
+   "api_name": "trophy_010",
+   "internal_key": 3082
+  },
+  {
+   "name": "\"Keep Lou Safe...\"",
+   "desc": "Complete Episode 11: Quake.",
+   "hidden": true,
+   "pct": 42.3,
+   "api_name": "trophy_011",
+   "internal_key": 3083
+  },
+  {
+   "name": "\"To Help You Find the Strength to Carry On\"",
+   "desc": "Complete Episode 12: Fragile.",
+   "hidden": true,
+   "pct": 41.9,
+   "api_name": "trophy_012",
+   "internal_key": 3084
+  },
+  {
+   "name": "\"To Forsake Our Flesh and Our Freedom\"",
+   "desc": "Complete Episode 13: Die Hard.",
+   "hidden": true,
+   "pct": 41.8,
+   "api_name": "trophy_013",
+   "internal_key": 3085
+  },
+  {
+   "name": "\"We Have to Get Tomorrow Back\"",
+   "desc": "Complete Episode 14: Last Stranding.",
+   "hidden": true,
+   "pct": 40.8,
+   "api_name": "trophy_014",
+   "internal_key": 3086
+  },
+  {
+   "name": "\"I'll Always Be With You\"",
+   "desc": "Complete Episode 15: On the Beach.",
+   "hidden": true,
+   "pct": 40.7,
+   "api_name": "trophy_015",
+   "internal_key": 3087
+  },
+  {
+   "name": "\"Death Can't Tear Us Apart\"",
+   "desc": "Complete Episode 16: Tomorrow.",
+   "hidden": true,
+   "pct": 40.5,
+   "api_name": "trophy_016",
+   "internal_key": 3088
+  },
+  {
+   "name": "Standard Porter",
+   "desc": "Complete a standard order for the first time.",
+   "hidden": false,
+   "pct": 70.8,
+   "api_name": "trophy_017",
+   "internal_key": 3089
+  },
+  {
+   "name": "Seasoned Porter",
+   "desc": "Complete 10 deliveries, 10 recoveries, 10 elimination/destruction standard orders with an S rank in Casual difficulty or above.",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "trophy_018",
+   "internal_key": 3090
+  },
+  {
+   "name": "Helping People to Connect",
+   "desc": "Complete an aid request for the first time.",
+   "hidden": false,
+   "pct": 80.1,
+   "api_name": "trophy_019",
+   "internal_key": 3091
+  },
+  {
+   "name": "Promising Signs",
+   "desc": "Construct an online aid request sign for the first time.",
+   "hidden": false,
+   "pct": 50.2,
+   "api_name": "trophy_020",
+   "internal_key": 3092
+  },
+  {
+   "name": "My First Structure",
+   "desc": "Build your first structure (any structure - signs, ladders, etc.).",
+   "hidden": false,
+   "pct": 94.8,
+   "api_name": "trophy_021",
+   "internal_key": 3093
+  },
+  {
+   "name": "Master Builder",
+   "desc": "Build every structure type, including tools, deployable shields, electric traps and any sign.",
+   "hidden": false,
+   "pct": 7.2,
+   "api_name": "trophy_022",
+   "internal_key": 3094
+  },
+  {
+   "name": "Starting Point",
+   "desc": "Connect your Q-pid for the first time.",
+   "hidden": true,
+   "pct": 92.4,
+   "api_name": "trophy_023",
+   "internal_key": 3095
+  },
+  {
+   "name": "Keep on Connecting",
+   "desc": "Connect all facilities using your Q-pid.",
+   "hidden": true,
+   "pct": 18.4,
+   "api_name": "trophy_024",
+   "internal_key": 3096
+  },
+  {
+   "name": "Connecting Hearts and Minds",
+   "desc": "Maximize your connection level with all facilities.",
+   "hidden": true,
+   "pct": 6.4,
+   "api_name": "trophy_025",
+   "internal_key": 3097
+  },
+  {
+   "name": "Self-Improvement",
+   "desc": "Activate an APAS enhancement for the first time.",
+   "hidden": false,
+   "pct": 77.3,
+   "api_name": "trophy_026",
+   "internal_key": 3098
+  },
+  {
+   "name": "It's Like That",
+   "desc": " Send a Like for the first time.",
+   "hidden": false,
+   "pct": 89.0,
+   "api_name": "trophy_027",
+   "internal_key": 3099
+  },
+  {
+   "name": "A Life Well Liked",
+   "desc": " Receive a total of 2400 or more Likes for completing orders.",
+   "hidden": true,
+   "pct": 83.0,
+   "api_name": "trophy_028",
+   "internal_key": 3100
+  },
+  {
+   "name": "A Porter at Peak Popularity",
+   "desc": " Receive a total of 50000 or more Likes for completing orders.",
+   "hidden": true,
+   "pct": 61.7,
+   "api_name": "trophy_029",
+   "internal_key": 3101
+  },
+  {
+   "name": "My First Training Session",
+   "desc": "Complete a VR Training program for the first time.",
+   "hidden": false,
+   "pct": 41.5,
+   "api_name": "trophy_030",
+   "internal_key": 3102
+  },
+  {
+   "name": "A First Glimpse of the SSS",
+   "desc": "Read an SSS post for the first time.",
+   "hidden": false,
+   "pct": 87.9,
+   "api_name": "trophy_031",
+   "internal_key": 3103
+  },
+  {
+   "name": "Making It Your Own",
+   "desc": "Use a screenshot taken in Photo Mode to decorate your private room.",
+   "hidden": false,
+   "pct": 15.1,
+   "api_name": "trophy_032",
+   "internal_key": 3328
+  },
+  {
+   "name": "Creature Comforter",
+   "desc": "Deliver a wild animal to the Animal Shelter for the first time. (Animals required to complete orders do not count.)",
+   "hidden": true,
+   "pct": 50.7,
+   "api_name": "trophy_033",
+   "internal_key": 3329
+  },
+  {
+   "name": "Rare Specimen Rescuer",
+   "desc": "Deliver an albino animal to the Animal Shelter for the first time.",
+   "hidden": true,
+   "pct": 19.2,
+   "api_name": "trophy_034",
+   "internal_key": 3330
+  },
+  {
+   "name": "Road Restorer",
+   "desc": "Restore one section of road.",
+   "hidden": false,
+   "pct": 64.1,
+   "api_name": "trophy_035",
+   "internal_key": 3331
+  },
+  {
+   "name": "Dig, Dig, Dig!",
+   "desc": "Restore three mines.",
+   "hidden": false,
+   "pct": 42.9,
+   "api_name": "trophy_036",
+   "internal_key": 3332
+  },
+  {
+   "name": "Rail Restorer",
+   "desc": "Restore and fully reopen a monorail line.",
+   "hidden": false,
+   "pct": 34.7,
+   "api_name": "trophy_037",
+   "internal_key": 3333
+  },
+  {
+   "name": "Emergency Worker",
+   "desc": "Deliver emergency support for the first time.",
+   "hidden": false,
+   "pct": 28.6,
+   "api_name": "trophy_038",
+   "internal_key": 3334
+  },
+  {
+   "name": "Spring into Life",
+   "desc": "Dig a hot spring for the first time.",
+   "hidden": true,
+   "pct": 21.3,
+   "api_name": "trophy_039",
+   "internal_key": 3335
+  },
+  {
+   "name": "Written in the Stars",
+   "desc": "Study the night sky for the first time.",
+   "hidden": false,
+   "pct": 20.9,
+   "api_name": "trophy_040",
+   "internal_key": 3336
+  },
+  {
+   "name": "Porters Make the World Go Round",
+   "desc": "Barter with another porter for the first time.",
+   "hidden": true,
+   "pct": 16.1,
+   "api_name": "trophy_041",
+   "internal_key": 3337
+  },
+  {
+   "name": "A Private Show!",
+   "desc": "Watch a live performance in your private room.",
+   "hidden": true,
+   "pct": 22.7,
+   "api_name": "trophy_042",
+   "internal_key": 3338
+  },
+  {
+   "name": "So YOU'RE the Pizza Chef!",
+   "desc": "Discover the truth about the Pizza Chef.",
+   "hidden": false,
+   "pct": 40.9,
+   "api_name": "trophy_043",
+   "internal_key": 3339
+  },
+  {
+   "name": "Showdown at the Tar Lake",
+   "desc": "Defeat the Lord of the Tar Lake.",
+   "hidden": false,
+   "pct": 17.6,
+   "api_name": "trophy_044",
+   "internal_key": 3340
+  },
+  {
+   "name": "The Headless Riders Unmasked",
+   "desc": "Solve the riddle of the headless riders.",
+   "hidden": false,
+   "pct": 44.9,
+   "api_name": "trophy_045",
+   "internal_key": 3341
+  },
+  {
+   "name": "Savior of Terminal Fort Knot",
+   "desc": "Prevent Terminal Fort Knot from falling victim to a voidout.",
+   "hidden": false,
+   "pct": 9.1,
+   "api_name": "trophy_046",
+   "internal_key": 3342
+  },
+  {
+   "name": "The Scars Left by the Giants",
+   "desc": "Arrive at the BT nexus in the F3 crater.",
+   "hidden": false,
+   "pct": 17.4,
+   "api_name": "trophy_047",
+   "internal_key": 3343
+  },
+  {
+   "name": "The Real Story of the Ghost Hunter",
+   "desc": "Reveal the truth about the Ghost Hunter.",
+   "hidden": true,
+   "pct": 15.0,
+   "api_name": "trophy_048",
+   "internal_key": 3344
+  },
+  {
+   "name": "BT's Best Friend",
+   "desc": "Capture a large BT for the first time.",
+   "hidden": true,
+   "pct": 38.7,
+   "api_name": "trophy_049",
+   "internal_key": 3345
+  },
+  {
+   "name": "Conqueror of the Golden CC",
+   "desc": "Defeat the golden chiral creature.",
+   "hidden": true,
+   "pct": 28.4,
+   "api_name": "trophy_050",
+   "internal_key": 3346
+  },
+  {
+   "name": "A Premier Porter",
+   "desc": "Achieve a porter grade of 40 or higher in all categories.",
+   "hidden": true,
+   "pct": 24.9,
+   "api_name": "trophy_051",
+   "internal_key": 3347
+  },
+  {
+   "name": "Compulsive Cargo Carrier",
+   "desc": "Deliver a total of 500 pieces of cargo.",
+   "hidden": false,
+   "pct": 39.5,
+   "api_name": "trophy_052",
+   "internal_key": 3348
+  },
+  {
+   "name": "Heavy Lifter",
+   "desc": "Deliver cargo weighing a total of two tons.",
+   "hidden": false,
+   "pct": 66.4,
+   "api_name": "trophy_053",
+   "internal_key": 3349
+  },
+  {
+   "name": "Long-Distance Lugger",
+   "desc": "Reach a total distance traveled of 80km upon completion of an order.",
+   "hidden": false,
+   "pct": 67.1,
+   "api_name": "trophy_054",
+   "internal_key": 3350
+  }
+ ]
+}

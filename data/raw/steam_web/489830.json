@@ -1,0 +1,609 @@
+{
+ "appid": 489830,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 75,
+ "achievements": [
+  {
+   "name": "Unbound",
+   "desc": "Complete \"Unbound\"",
+   "hidden": false,
+   "pct": 72.1,
+   "api_name": "NEW_ACHIEVEMENT_1_0",
+   "internal_key": 259
+  },
+  {
+   "name": "Bleak Falls Barrow",
+   "desc": "Complete \"Bleak Falls Barrow\"",
+   "hidden": false,
+   "pct": 49.6,
+   "api_name": "NEW_ACHIEVEMENT_2_0",
+   "internal_key": 260
+  },
+  {
+   "name": "The Way of the Voice",
+   "desc": "Complete \"The Way of the Voice\"",
+   "hidden": false,
+   "pct": 37.0,
+   "api_name": "NEW_ACHIEVEMENT_3_0",
+   "internal_key": 261
+  },
+  {
+   "name": "Diplomatic Immunity",
+   "desc": "Complete \"Diplomatic Immunity\"",
+   "hidden": false,
+   "pct": 21.9,
+   "api_name": "NEW_ACHIEVEMENT_4_0",
+   "internal_key": 262
+  },
+  {
+   "name": "Alduin's Wall",
+   "desc": "Complete \"Alduin's Wall\"",
+   "hidden": false,
+   "pct": 18.2,
+   "api_name": "NEW_ACHIEVEMENT_5_0",
+   "internal_key": 263
+  },
+  {
+   "name": "Elder Knowledge",
+   "desc": "Complete \"Elder Knowledge\"",
+   "hidden": false,
+   "pct": 15.4,
+   "api_name": "NEW_ACHIEVEMENT_6_0",
+   "internal_key": 264
+  },
+  {
+   "name": "The Fallen",
+   "desc": "Complete \"The Fallen\"",
+   "hidden": false,
+   "pct": 13.0,
+   "api_name": "NEW_ACHIEVEMENT_7_0",
+   "internal_key": 265
+  },
+  {
+   "name": "Dragonslayer",
+   "desc": "Complete \"Dragonslayer\"",
+   "hidden": false,
+   "pct": 12.5,
+   "api_name": "NEW_ACHIEVEMENT_8_0",
+   "internal_key": 266
+  },
+  {
+   "name": "Take Up Arms",
+   "desc": "Join the Companions",
+   "hidden": false,
+   "pct": 28.3,
+   "api_name": "NEW_ACHIEVEMENT_9_0",
+   "internal_key": 267
+  },
+  {
+   "name": "Blood Oath",
+   "desc": "Become a member of the Circle",
+   "hidden": false,
+   "pct": 18.0,
+   "api_name": "NEW_ACHIEVEMENT_10_0",
+   "internal_key": 268
+  },
+  {
+   "name": "Glory of the Dead",
+   "desc": "Complete \"Glory of the Dead\"",
+   "hidden": false,
+   "pct": 13.5,
+   "api_name": "NEW_ACHIEVEMENT_11_0",
+   "internal_key": 269
+  },
+  {
+   "name": "Gatekeeper",
+   "desc": "Join the College of Winterhold",
+   "hidden": false,
+   "pct": 31.4,
+   "api_name": "NEW_ACHIEVEMENT_12_0",
+   "internal_key": 270
+  },
+  {
+   "name": "Revealing the Unseen",
+   "desc": "Complete \"Revealing the Unseen\"",
+   "hidden": false,
+   "pct": 16.8,
+   "api_name": "NEW_ACHIEVEMENT_13_0",
+   "internal_key": 271
+  },
+  {
+   "name": "The Eye of Magnus",
+   "desc": "Complete \"The Eye of Magnus\"",
+   "hidden": false,
+   "pct": 16.2,
+   "api_name": "NEW_ACHIEVEMENT_14_0",
+   "internal_key": 272
+  },
+  {
+   "name": "Taking Care of Business",
+   "desc": "Join the Thieves Guild",
+   "hidden": false,
+   "pct": 22.4,
+   "api_name": "NEW_ACHIEVEMENT_15_0",
+   "internal_key": 273
+  },
+  {
+   "name": "Darkness Returns",
+   "desc": "Complete \"Darkness Returns\"",
+   "hidden": false,
+   "pct": 11.6,
+   "api_name": "NEW_ACHIEVEMENT_16_0",
+   "internal_key": 274
+  },
+  {
+   "name": "One with the Shadows",
+   "desc": "Returned the Thieves Guild to its former glory",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "NEW_ACHIEVEMENT_17_0",
+   "internal_key": 275
+  },
+  {
+   "name": "With Friends Like These…",
+   "desc": "Join the Dark Brotherhood",
+   "hidden": false,
+   "pct": 16.0,
+   "api_name": "NEW_ACHIEVEMENT_18_0",
+   "internal_key": 276
+  },
+  {
+   "name": "Bound Until Death",
+   "desc": "Complete \"Bound Until Death\"",
+   "hidden": false,
+   "pct": 11.7,
+   "api_name": "NEW_ACHIEVEMENT_19_0",
+   "internal_key": 277
+  },
+  {
+   "name": "Hail Sithis!",
+   "desc": "Complete \"Hail Sithis!\"",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "NEW_ACHIEVEMENT_20_0",
+   "internal_key": 278
+  },
+  {
+   "name": "Taking Sides",
+   "desc": "Join the Stormcloaks or the Imperial Army",
+   "hidden": false,
+   "pct": 18.0,
+   "api_name": "NEW_ACHIEVEMENT_21_0",
+   "internal_key": 279
+  },
+  {
+   "name": "War Hero",
+   "desc": "Capture Fort Sungard or Fort Greenwall",
+   "hidden": false,
+   "pct": 10.9,
+   "api_name": "NEW_ACHIEVEMENT_22_0",
+   "internal_key": 280
+  },
+  {
+   "name": "Hero of Skyrim",
+   "desc": "Capture Solitude or Windhelm",
+   "hidden": false,
+   "pct": 10.8,
+   "api_name": "NEW_ACHIEVEMENT_23_0",
+   "internal_key": 281
+  },
+  {
+   "name": "Sideways",
+   "desc": "Complete 10 side quests",
+   "hidden": false,
+   "pct": 14.5,
+   "api_name": "NEW_ACHIEVEMENT_24_0",
+   "internal_key": 282
+  },
+  {
+   "name": "Hero of the People",
+   "desc": "Complete 50 Misc Objectives",
+   "hidden": false,
+   "pct": 21.2,
+   "api_name": "NEW_ACHIEVEMENT_25_0",
+   "internal_key": 283
+  },
+  {
+   "name": "Hard Worker",
+   "desc": "Chop wood, mine ore, and cook food",
+   "hidden": false,
+   "pct": 14.1,
+   "api_name": "NEW_ACHIEVEMENT_26_0",
+   "internal_key": 284
+  },
+  {
+   "name": "Thief",
+   "desc": "Pick 50 locks and 50 pockets",
+   "hidden": false,
+   "pct": 7.8,
+   "api_name": "NEW_ACHIEVEMENT_27_0",
+   "internal_key": 285
+  },
+  {
+   "name": "Snake Tongue",
+   "desc": "Successfully persuade, bribe, and intimidate",
+   "hidden": false,
+   "pct": 22.7,
+   "api_name": "NEW_ACHIEVEMENT_28_0",
+   "internal_key": 286
+  },
+  {
+   "name": "Blessed",
+   "desc": "Select a Standing Stone blessing",
+   "hidden": false,
+   "pct": 62.1,
+   "api_name": "NEW_ACHIEVEMENT_29_0",
+   "internal_key": 287
+  },
+  {
+   "name": "Standing Stones",
+   "desc": "Find 13 Standing Stones",
+   "hidden": false,
+   "pct": 9.1,
+   "api_name": "NEW_ACHIEVEMENT_30_0",
+   "internal_key": 512
+  },
+  {
+   "name": "Citizen",
+   "desc": "Buy a house",
+   "hidden": false,
+   "pct": 31.1,
+   "api_name": "NEW_ACHIEVEMENT_31_0",
+   "internal_key": 513
+  },
+  {
+   "name": "Wanted",
+   "desc": "Escape from jail",
+   "hidden": false,
+   "pct": 8.9,
+   "api_name": "NEW_ACHIEVEMENT_32_0",
+   "internal_key": 514
+  },
+  {
+   "name": "Married",
+   "desc": "Get married",
+   "hidden": false,
+   "pct": 10.1,
+   "api_name": "NEW_ACHIEVEMENT_33_0",
+   "internal_key": 515
+  },
+  {
+   "name": "Artificer",
+   "desc": "Make a smithed item, an enchanted item, and a potion",
+   "hidden": false,
+   "pct": 26.0,
+   "api_name": "NEW_ACHIEVEMENT_34_0",
+   "internal_key": 516
+  },
+  {
+   "name": "Master Criminal",
+   "desc": "Bounty of 1000 gold in all nine holds",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "NEW_ACHIEVEMENT_35_0",
+   "internal_key": 517
+  },
+  {
+   "name": "Golden Touch",
+   "desc": "Have 100,000 gold",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "NEW_ACHIEVEMENT_36_0",
+   "internal_key": 518
+  },
+  {
+   "name": "Delver",
+   "desc": "Clear 50 dungeons",
+   "hidden": false,
+   "pct": 14.8,
+   "api_name": "NEW_ACHIEVEMENT_37_0",
+   "internal_key": 519
+  },
+  {
+   "name": "Skill Master",
+   "desc": "Get a skill to 100",
+   "hidden": false,
+   "pct": 22.7,
+   "api_name": "NEW_ACHIEVEMENT_38_0",
+   "internal_key": 520
+  },
+  {
+   "name": "Explorer",
+   "desc": "Discover 100 Locations",
+   "hidden": false,
+   "pct": 23.1,
+   "api_name": "NEW_ACHIEVEMENT_39_0",
+   "internal_key": 521
+  },
+  {
+   "name": "Reader",
+   "desc": "Read 50 Skill Books",
+   "hidden": false,
+   "pct": 10.5,
+   "api_name": "NEW_ACHIEVEMENT_40_0",
+   "internal_key": 522
+  },
+  {
+   "name": "Daedric Influence",
+   "desc": "Acquire a Daedric Artifact",
+   "hidden": false,
+   "pct": 29.8,
+   "api_name": "NEW_ACHIEVEMENT_41_0",
+   "internal_key": 523
+  },
+  {
+   "name": "Oblivion Walker",
+   "desc": "Collect 15 Daedric Artifacts",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "NEW_ACHIEVEMENT_42_0",
+   "internal_key": 524
+  },
+  {
+   "name": "Dragon Soul",
+   "desc": "Absorb a dragon soul",
+   "hidden": false,
+   "pct": 49.2,
+   "api_name": "NEW_ACHIEVEMENT_43_0",
+   "internal_key": 525
+  },
+  {
+   "name": "Dragon Hunter",
+   "desc": "Absorb 20 dragon souls",
+   "hidden": false,
+   "pct": 14.4,
+   "api_name": "NEW_ACHIEVEMENT_44_0",
+   "internal_key": 526
+  },
+  {
+   "name": "Words of Power",
+   "desc": "Learn all three words of a shout",
+   "hidden": false,
+   "pct": 32.3,
+   "api_name": "NEW_ACHIEVEMENT_45_0",
+   "internal_key": 527
+  },
+  {
+   "name": "Thu'um Master",
+   "desc": "Learn 20 shouts",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "NEW_ACHIEVEMENT_46_0",
+   "internal_key": 528
+  },
+  {
+   "name": "Apprentice",
+   "desc": "Reach Level 5",
+   "hidden": false,
+   "pct": 52.1,
+   "api_name": "NEW_ACHIEVEMENT_47_0",
+   "internal_key": 529
+  },
+  {
+   "name": "Adept",
+   "desc": "Reach Level 10",
+   "hidden": false,
+   "pct": 42.8,
+   "api_name": "NEW_ACHIEVEMENT_48_0",
+   "internal_key": 530
+  },
+  {
+   "name": "Expert",
+   "desc": "Reach Level 25",
+   "hidden": false,
+   "pct": 28.3,
+   "api_name": "NEW_ACHIEVEMENT_49_0",
+   "internal_key": 531
+  },
+  {
+   "name": "Master",
+   "desc": "Reach Level 50",
+   "hidden": false,
+   "pct": 12.5,
+   "api_name": "NEW_ACHIEVEMENT_50_0",
+   "internal_key": 532
+  },
+  {
+   "name": "Awakening",
+   "desc": "Complete \"Awakening\"",
+   "hidden": false,
+   "pct": 19.4,
+   "api_name": "NEW_ACHIEVEMENT_51_0",
+   "internal_key": 533
+  },
+  {
+   "name": "Beyond Death",
+   "desc": "Complete \"Beyond Death\"",
+   "hidden": false,
+   "pct": 13.9,
+   "api_name": "NEW_ACHIEVEMENT_52_0",
+   "internal_key": 534
+  },
+  {
+   "name": "Kindred Judgement",
+   "desc": "Complete \"Kindred Judgment\"",
+   "hidden": false,
+   "pct": 11.6,
+   "api_name": "NEW_ACHIEVEMENT_53_0",
+   "internal_key": 535
+  },
+  {
+   "name": "Lost to the Ages",
+   "desc": "Complete \"Lost to the Ages\"",
+   "hidden": false,
+   "pct": 8.3,
+   "api_name": "NEW_ACHIEVEMENT_54_0",
+   "internal_key": 536
+  },
+  {
+   "name": "Soul Tear",
+   "desc": "Learn all three words of Soul Tear",
+   "hidden": false,
+   "pct": 7.9,
+   "api_name": "NEW_ACHIEVEMENT_55_0",
+   "internal_key": 537
+  },
+  {
+   "name": "Auriel's Bow",
+   "desc": "Use the special power of Auriel's Bow",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "NEW_ACHIEVEMENT_56_0",
+   "internal_key": 538
+  },
+  {
+   "name": "Werewolf Mastered",
+   "desc": "Acquire 11 werewolf perks",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "NEW_ACHIEVEMENT_57_0",
+   "internal_key": 539
+  },
+  {
+   "name": "Vampire Mastered",
+   "desc": "Acquire 11 vampire perks",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "NEW_ACHIEVEMENT_58_0",
+   "internal_key": 540
+  },
+  {
+   "name": "A New You",
+   "desc": "Change your face",
+   "hidden": false,
+   "pct": 9.9,
+   "api_name": "NEW_ACHIEVEMENT_59_0",
+   "internal_key": 541
+  },
+  {
+   "name": "Legend",
+   "desc": "Defeat a Legendary Dragon",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "NEW_ACHIEVEMENT_60_0",
+   "internal_key": 542
+  },
+  {
+   "name": "Proud Parent",
+   "desc": "Adopt a child",
+   "hidden": false,
+   "pct": 15.9,
+   "api_name": "NEW_ACHIEVEMENT_61_0",
+   "internal_key": 543
+  },
+  {
+   "name": "Landowner",
+   "desc": "Buy a plot of land",
+   "hidden": false,
+   "pct": 17.1,
+   "api_name": "NEW_ACHIEVEMENT_62_0",
+   "internal_key": 768
+  },
+  {
+   "name": "Architect",
+   "desc": "Build three wings on a house",
+   "hidden": false,
+   "pct": 10.9,
+   "api_name": "NEW_ACHIEVEMENT_63_0",
+   "internal_key": 769
+  },
+  {
+   "name": "Land Baron",
+   "desc": "Buy three plots of land",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "NEW_ACHIEVEMENT_64_0",
+   "internal_key": 770
+  },
+  {
+   "name": "Master Architect",
+   "desc": "Build three houses",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "NEW_ACHIEVEMENT_65_0",
+   "internal_key": 771
+  },
+  {
+   "name": "Outlander",
+   "desc": "Arrive on Solstheim",
+   "hidden": false,
+   "pct": 24.0,
+   "api_name": "NEW_ACHIEVEMENT_66_0",
+   "internal_key": 772
+  },
+  {
+   "name": "The Temple of Miraak",
+   "desc": "Complete \"The Temple of Miraak\"",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "NEW_ACHIEVEMENT_67_0",
+   "internal_key": 773
+  },
+  {
+   "name": "The Path of Knowledge",
+   "desc": "Complete \"The Path of Knowledge\"",
+   "hidden": false,
+   "pct": 12.6,
+   "api_name": "NEW_ACHIEVEMENT_68_0",
+   "internal_key": 774
+  },
+  {
+   "name": "At the Summit of Apocrypha",
+   "desc": "Complete \"At the Summit of Apocrypha\"",
+   "hidden": false,
+   "pct": 11.3,
+   "api_name": "NEW_ACHIEVEMENT_69_0",
+   "internal_key": 775
+  },
+  {
+   "name": "Dragon Aspect",
+   "desc": "Learn all 3 words of Dragon Aspect",
+   "hidden": false,
+   "pct": 8.1,
+   "api_name": "NEW_ACHIEVEMENT_70_0",
+   "internal_key": 776
+  },
+  {
+   "name": "Hidden Knowledge",
+   "desc": "Learn the secrets of 5 Black Books",
+   "hidden": false,
+   "pct": 6.5,
+   "api_name": "NEW_ACHIEVEMENT_71_0",
+   "internal_key": 777
+  },
+  {
+   "name": "Stalhrim Crafter",
+   "desc": "Craft an item out of Stalhrim",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "NEW_ACHIEVEMENT_72_0",
+   "internal_key": 778
+  },
+  {
+   "name": "Dragonrider",
+   "desc": "Tame and ride 5 dragons",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "NEW_ACHIEVEMENT_73_0",
+   "internal_key": 779
+  },
+  {
+   "name": "Raven Rock Owner",
+   "desc": "Own a house in Raven Rock",
+   "hidden": false,
+   "pct": 8.0,
+   "api_name": "NEW_ACHIEVEMENT_74_0",
+   "internal_key": 780
+  },
+  {
+   "name": "Solstheim Explorer",
+   "desc": "Discover 30 locations on the island of Solstheim",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "NEW_ACHIEVEMENT_75_0",
+   "internal_key": 781
+  }
+ ]
+}

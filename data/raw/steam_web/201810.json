@@ -1,0 +1,409 @@
+{
+ "appid": 201810,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 50,
+ "achievements": [
+  {
+   "name": "Gunner",
+   "desc": "Save allied planes",
+   "hidden": true,
+   "pct": 94.1,
+   "api_name": "ach_1",
+   "internal_key": 256
+  },
+  {
+   "name": "Fergus saved",
+   "desc": "Choose to save Fergus",
+   "hidden": true,
+   "pct": 59.3,
+   "api_name": "ach_2",
+   "internal_key": 258
+  },
+  {
+   "name": "Wyatt saved",
+   "desc": "Choose to save Wyatt",
+   "hidden": true,
+   "pct": 44.6,
+   "api_name": "ach_3",
+   "internal_key": 259
+  },
+  {
+   "name": "Vive la resistance!",
+   "desc": "Locate the resistance",
+   "hidden": true,
+   "pct": 74.6,
+   "api_name": "ach_4",
+   "internal_key": 260
+  },
+  {
+   "name": "Power to the laser",
+   "desc": "Find the Laserkraftwerk",
+   "hidden": true,
+   "pct": 69.7,
+   "api_name": "ach_5",
+   "internal_key": 261
+  },
+  {
+   "name": "Hidden in the deep",
+   "desc": "Locate the underwater stash",
+   "hidden": true,
+   "pct": 60.8,
+   "api_name": "ach_6",
+   "internal_key": 262
+  },
+  {
+   "name": "London uprising",
+   "desc": "Defeat the London Monitor",
+   "hidden": true,
+   "pct": 56.0,
+   "api_name": "ach_7",
+   "internal_key": 263
+  },
+  {
+   "name": "Deliverance",
+   "desc": "Release friend",
+   "hidden": true,
+   "pct": 53.9,
+   "api_name": "ach_8",
+   "internal_key": 264
+  },
+  {
+   "name": "Liberation",
+   "desc": "Complete game on any difficulty",
+   "hidden": true,
+   "pct": 46.9,
+   "api_name": "ach_9",
+   "internal_key": 265
+  },
+  {
+   "name": "Super hero",
+   "desc": "Complete game on I AM DEATH INCARNATE! (or ÜBER)",
+   "hidden": true,
+   "pct": 13.6,
+   "api_name": "ach_10",
+   "internal_key": 266
+  },
+  {
+   "name": "Über hero",
+   "desc": "Complete game on ÜBER",
+   "hidden": true,
+   "pct": 6.7,
+   "api_name": "ach_11",
+   "internal_key": 267
+  },
+  {
+   "name": "All that glitters",
+   "desc": "Collect 25 gold items",
+   "hidden": true,
+   "pct": 18.7,
+   "api_name": "ach_12",
+   "internal_key": 268
+  },
+  {
+   "name": "Heart of gold",
+   "desc": "Collect all gold items",
+   "hidden": true,
+   "pct": 4.9,
+   "api_name": "ach_13",
+   "internal_key": 269
+  },
+  {
+   "name": "The lives of others",
+   "desc": "Collect all letters",
+   "hidden": true,
+   "pct": 5.4,
+   "api_name": "ach_14",
+   "internal_key": 270
+  },
+  {
+   "name": "Secrets revealed I",
+   "desc": "Solve the first Enigma code",
+   "hidden": true,
+   "pct": 6.4,
+   "api_name": "ach_15",
+   "internal_key": 271
+  },
+  {
+   "name": "Secrets revealed II",
+   "desc": "Solve the second Enigma code",
+   "hidden": true,
+   "pct": 5.2,
+   "api_name": "ach_16",
+   "internal_key": 272
+  },
+  {
+   "name": "Secrets revealed III",
+   "desc": "Solve the third Enigma code",
+   "hidden": true,
+   "pct": 5.0,
+   "api_name": "ach_17",
+   "internal_key": 273
+  },
+  {
+   "name": "Secrets revealed IV",
+   "desc": "Solve the fourth Enigma code",
+   "hidden": true,
+   "pct": 4.9,
+   "api_name": "ach_18",
+   "internal_key": 274
+  },
+  {
+   "name": "Scout I",
+   "desc": "Unlock stealth perk 1",
+   "hidden": true,
+   "pct": 87.2,
+   "api_name": "ach_19",
+   "internal_key": 275
+  },
+  {
+   "name": "Knife throwing",
+   "desc": "Unlock stealth perk 2",
+   "hidden": true,
+   "pct": 80.0,
+   "api_name": "ach_20",
+   "internal_key": 276
+  },
+  {
+   "name": "Knife sheath +",
+   "desc": "Unlock stealth perk 3",
+   "hidden": true,
+   "pct": 46.2,
+   "api_name": "ach_21",
+   "internal_key": 277
+  },
+  {
+   "name": "Knife sheath ++",
+   "desc": "Unlock stealth perk 4",
+   "hidden": true,
+   "pct": 15.9,
+   "api_name": "ach_22",
+   "internal_key": 278
+  },
+  {
+   "name": "Silent shot",
+   "desc": "Unlock stealth perk 5",
+   "hidden": true,
+   "pct": 52.5,
+   "api_name": "ach_23",
+   "internal_key": 279
+  },
+  {
+   "name": "Vampire",
+   "desc": "Unlock stealth perk 6",
+   "hidden": true,
+   "pct": 13.8,
+   "api_name": "ach_24",
+   "internal_key": 280
+  },
+  {
+   "name": "Scout II",
+   "desc": "Unlock stealth perk 7",
+   "hidden": true,
+   "pct": 67.0,
+   "api_name": "ach_25",
+   "internal_key": 281
+  },
+  {
+   "name": "Assassin",
+   "desc": "Unlock stealth perk 8",
+   "hidden": true,
+   "pct": 38.5,
+   "api_name": "ach_26",
+   "internal_key": 282
+  },
+  {
+   "name": "Deadeye",
+   "desc": "Unlock tactical perk 1",
+   "hidden": true,
+   "pct": 72.7,
+   "api_name": "ach_27",
+   "internal_key": 283
+  },
+  {
+   "name": "Quick draw",
+   "desc": "Unlock tactical perk 2",
+   "hidden": true,
+   "pct": 64.9,
+   "api_name": "ach_28",
+   "internal_key": 284
+  },
+  {
+   "name": "Quick regeneration",
+   "desc": "Unlock tactical perk 3",
+   "hidden": true,
+   "pct": 61.2,
+   "api_name": "ach_29",
+   "internal_key": 285
+  },
+  {
+   "name": "Gun magazine +",
+   "desc": "Unlock tactical perk 4",
+   "hidden": true,
+   "pct": 16.4,
+   "api_name": "ach_30",
+   "internal_key": 286
+  },
+  {
+   "name": "Shotgun magazine +",
+   "desc": "Unlock tactical perk 5",
+   "hidden": true,
+   "pct": 10.3,
+   "api_name": "ach_31",
+   "internal_key": 287
+  },
+  {
+   "name": "AR magazine +",
+   "desc": "Unlock tactical perk 6",
+   "hidden": true,
+   "pct": 9.4,
+   "api_name": "ach_32",
+   "internal_key": 512
+  },
+  {
+   "name": "Marksman magazine +",
+   "desc": "Unlock tactical perk 7",
+   "hidden": true,
+   "pct": 8.4,
+   "api_name": "ach_33",
+   "internal_key": 513
+  },
+  {
+   "name": "Quick reload",
+   "desc": "Unlock tactical perk 8",
+   "hidden": true,
+   "pct": 37.0,
+   "api_name": "ach_34",
+   "internal_key": 514
+  },
+  {
+   "name": "Double reload",
+   "desc": "Unlock assault perk 1",
+   "hidden": true,
+   "pct": 78.5,
+   "api_name": "ach_35",
+   "internal_key": 515
+  },
+  {
+   "name": "Endurance I",
+   "desc": "Unlock assault perk 2",
+   "hidden": true,
+   "pct": 20.4,
+   "api_name": "ach_36",
+   "internal_key": 516
+  },
+  {
+   "name": "Scavenger",
+   "desc": "Unlock assault perk 3",
+   "hidden": true,
+   "pct": 14.2,
+   "api_name": "ach_37",
+   "internal_key": 517
+  },
+  {
+   "name": "Bullet feeder",
+   "desc": "Unlock assault perk 4",
+   "hidden": true,
+   "pct": 46.0,
+   "api_name": "ach_38",
+   "internal_key": 518
+  },
+  {
+   "name": "Endurance II",
+   "desc": "Unlock assault perk 5",
+   "hidden": true,
+   "pct": 12.0,
+   "api_name": "ach_39",
+   "internal_key": 519
+  },
+  {
+   "name": "Autopanzer",
+   "desc": "Unlock assault perk 6",
+   "hidden": true,
+   "pct": 49.3,
+   "api_name": "ach_40",
+   "internal_key": 520
+  },
+  {
+   "name": "LKW battery +",
+   "desc": "Unlock assault perk 7",
+   "hidden": true,
+   "pct": 9.8,
+   "api_name": "ach_41",
+   "internal_key": 521
+  },
+  {
+   "name": "Dual-wield expert",
+   "desc": "Unlock assault perk 8",
+   "hidden": true,
+   "pct": 28.4,
+   "api_name": "ach_42",
+   "internal_key": 522
+  },
+  {
+   "name": "Throwback",
+   "desc": "Unlock demolition perk 1",
+   "hidden": true,
+   "pct": 73.0,
+   "api_name": "ach_43",
+   "internal_key": 523
+  },
+  {
+   "name": "Grenade pouch +",
+   "desc": "Unlock demolition perk 2",
+   "hidden": true,
+   "pct": 36.4,
+   "api_name": "ach_44",
+   "internal_key": 524
+  },
+  {
+   "name": "Grenade pouch ++",
+   "desc": "Unlock demolition perk 3",
+   "hidden": true,
+   "pct": 13.0,
+   "api_name": "ach_45",
+   "internal_key": 525
+  },
+  {
+   "name": "Bullseye",
+   "desc": "Unlock demolition perk 4",
+   "hidden": true,
+   "pct": 5.1,
+   "api_name": "ach_46",
+   "internal_key": 526
+  },
+  {
+   "name": "Rocket magazine +",
+   "desc": "Unlock demolition perk 5",
+   "hidden": true,
+   "pct": 4.6,
+   "api_name": "ach_47",
+   "internal_key": 527
+  },
+  {
+   "name": "Vaporize",
+   "desc": "Unlock demolition perk 6",
+   "hidden": true,
+   "pct": 10.4,
+   "api_name": "ach_48",
+   "internal_key": 528
+  },
+  {
+   "name": "Sentinel",
+   "desc": "Unlock demolition perk 7",
+   "hidden": true,
+   "pct": 4.5,
+   "api_name": "ach_49",
+   "internal_key": 529
+  },
+  {
+   "name": "Hardened",
+   "desc": "Unlock demolition perk 8",
+   "hidden": true,
+   "pct": 17.0,
+   "api_name": "ach_50",
+   "internal_key": 530
+  }
+ ]
+}

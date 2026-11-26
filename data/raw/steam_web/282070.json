@@ -1,0 +1,481 @@
+{
+ "appid": 282070,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 59,
+ "achievements": [
+  {
+   "name": "Epilogue: War is over",
+   "desc": "The dogs of war have been raging insanely all around for so long. Too long for many. But I survived and I hope I am not the only one.",
+   "hidden": true,
+   "pct": 22.6,
+   "api_name": "SURVIVED_THE_WAR",
+   "internal_key": 256
+  },
+  {
+   "name": "Diary: Day 7",
+   "desc": "It's been seven days since we holed up here. Death is all around, but we've been lucky to keep everyone alive - so far...",
+   "hidden": true,
+   "pct": 63.7,
+   "api_name": "SURVIVED_7_DAYS_NO_CASUALITIES",
+   "internal_key": 257
+  },
+  {
+   "name": "Diary: Effing Snow",
+   "desc": "Fucking snow. It buried half of the city so deep that we can't get there. No point waiting for the snow plows...",
+   "hidden": true,
+   "pct": 36.8,
+   "api_name": "SURVIVED_WINTER_DAY",
+   "internal_key": 258
+  },
+  {
+   "name": "Diary: Finished ransacking",
+   "desc": "We've explored every nook and cranny of our abode and there's nothing useful left to find. We must venture outside.",
+   "hidden": true,
+   "pct": 66.2,
+   "api_name": "GET_ALL_SHELTER_ITEMS",
+   "internal_key": 259
+  },
+  {
+   "name": "Note: Bless the radio",
+   "desc": "The radio is useful beyond expectations. We get the news and it's so good to be reminded of normal life and the wide world.",
+   "hidden": true,
+   "pct": 58.0,
+   "api_name": "USE_RADIO_3_TIMES",
+   "internal_key": 260
+  },
+  {
+   "name": "Note: Distilled gold",
+   "desc": "We finally managed to distill some moonshine. In a city under siege food and alcohol are always in high demand.",
+   "hidden": true,
+   "pct": 38.2,
+   "api_name": "CRAFT_ALCOHOL_WITH_MOONSHINE_STILL",
+   "internal_key": 261
+  },
+  {
+   "name": "Note: Doubled the watch",
+   "desc": "It's crucial to secure our place against night intruders. Two persons watching out for thieves can also watch out for each other.",
+   "hidden": true,
+   "pct": 39.8,
+   "api_name": "DOUBLE_GUARD_AT_NIGHT",
+   "internal_key": 262
+  },
+  {
+   "name": "Diary: Miraculous recovery",
+   "desc": "This recovery from a grave illness proves that medicines work miracles. Or perhaps some of us have really robust immune systems.",
+   "hidden": true,
+   "pct": 5.8,
+   "api_name": "CURE_ILL_DWELLER",
+   "internal_key": 263
+  },
+  {
+   "name": "Diary: Patched up and ready to go ",
+   "desc": "What good fortune, not only we managed to dress these critical wounds, but they are healing nicely. Someone must be praying for us.",
+   "hidden": true,
+   "pct": 9.9,
+   "api_name": "SAVE_WOUNDED_DWELLER",
+   "internal_key": 264
+  },
+  {
+   "name": "Diary: Back from the brink ",
+   "desc": "With just kind words and deeds, we helped one of us survive the darkest depression that can kill just as dead as a bullet. ",
+   "hidden": true,
+   "pct": 14.8,
+   "api_name": "CURE_DWELLER_BROKEN_STATUS",
+   "internal_key": 265
+  },
+  {
+   "name": "Diary: Hostel's open!",
+   "desc": "We have now enough beds for everybody - that is, everybody but the one that has to go out and search for stuff.",
+   "hidden": true,
+   "pct": 47.1,
+   "api_name": "BEDS_FOR_ALL_DWELLERS",
+   "internal_key": 266
+  },
+  {
+   "name": "Diary: Shooting for five stars",
+   "desc": "For the first time since we wound up here all of us ate a hot meal. Let's not get accustomed yet.",
+   "hidden": true,
+   "pct": 64.0,
+   "api_name": "WARM_MEAL_FOR_ALL_DWELLERS",
+   "internal_key": 267
+  },
+  {
+   "name": "Diary: First blood",
+   "desc": "One of us survived our first brush with violent death. We hope against all odds there will be no more encounters like that.",
+   "hidden": true,
+   "pct": 58.6,
+   "api_name": "SURVIVE_FIGHT_WITH_ARMED_ENEMY",
+   "internal_key": 268
+  },
+  {
+   "name": "Note: Creature comforts",
+   "desc": "Our place is starting to resemble a proper home. Let's furnish it so we can live in a relative comfort, it keeps the spirits up.",
+   "hidden": true,
+   "pct": 38.2,
+   "api_name": "ACHIEVE_COMFORT_LEVEL",
+   "internal_key": 269
+  },
+  {
+   "name": "Diary: Traces of lives ",
+   "desc": "Every building we visit has a story to tell. I'm wondering sometimes what kind of story we'll leave behind...",
+   "hidden": true,
+   "pct": 58.4,
+   "api_name": "STORYITEM_FROM_5_LOCATIONS",
+   "internal_key": 271
+  },
+  {
+   "name": "Diary: We Have Wintered",
+   "desc": "The winter's gone. The freeze is over. We made it through... everyone made it! Amazing.",
+   "hidden": true,
+   "pct": 21.8,
+   "api_name": "SURVIVE_WINTER_ALL_INIT_DWELLER",
+   "internal_key": 272
+  },
+  {
+   "name": "Epilogue: We made it!",
+   "desc": "In the beginning, we didn't hope we'll all make it. So many died. And yet we're still here. This surely means something... right?",
+   "hidden": true,
+   "pct": 21.1,
+   "api_name": "SURVIVE_WAR_ALL_INIT_DWELLERS",
+   "internal_key": 273
+  },
+  {
+   "name": "Diary: We've been everywhere",
+   "desc": "We've combed through all the neighborhood, it's harder and harder to find anything useful. This war can't end soon enough.",
+   "hidden": true,
+   "pct": 16.4,
+   "api_name": "VISIT_ALL_LOCATIONS_FROM_TIMELINE",
+   "internal_key": 274
+  },
+  {
+   "name": "Diary: We Made A Stand",
+   "desc": "The bandits came in packs like dogs driven mad with hunger. We beat them back every night. And everyone survived. A miracle.",
+   "hidden": true,
+   "pct": 21.9,
+   "api_name": "SURVIVE_BANDITS_ATTACK_ALL_INIT_DWELLERS",
+   "internal_key": 275
+  },
+  {
+   "name": "Note: A bit of indulgence",
+   "desc": "For the first time we all indulged our addictions. It keeps the spirits up, and damn the health issues, we can die tonight anyway.",
+   "hidden": true,
+   "pct": 71.5,
+   "api_name": "STIMULANTS_FOR_ALL_DWELLERS",
+   "internal_key": 276
+  },
+  {
+   "name": "Note: Helping children",
+   "desc": "It’s the children who suffer the most during war. They need all the help  they can get. Thank you!",
+   "hidden": true,
+   "pct": 8.7,
+   "api_name": "DLC_WAR_CHILD_UNLOCKED",
+   "internal_key": 277
+  },
+  {
+   "name": "Note: Street Art",
+   "desc": "War can’t shut people’s mouths. Sometimes graffiti speaks more than a  thousand words.",
+   "hidden": true,
+   "pct": 1.6,
+   "api_name": "DLC_WAR_CHILD_GRAFFITI_COMPLETED",
+   "internal_key": 278
+  },
+  {
+   "name": "Note: The school of life",
+   "desc": "It’s crucial that kids learn to survive on their own. What if we don’t come back one night?",
+   "hidden": true,
+   "pct": 1.1,
+   "api_name": "THE_SCHOOL_OF_LIFE",
+   "internal_key": 279
+  },
+  {
+   "name": "Diary: Our future",
+   "desc": "We made it! Schools will reopen soon. From now on, kids will live a normal life again.",
+   "hidden": true,
+   "pct": 5.7,
+   "api_name": "OUR_FUTURE",
+   "internal_key": 280
+  },
+  {
+   "name": "Note: Avoid the worst",
+   "desc": "Attacking a place that shelters a kid… Atrocious! We stand together to protect our little one!",
+   "hidden": true,
+   "pct": 10.5,
+   "api_name": "AVOID_THE_WORST",
+   "internal_key": 281
+  },
+  {
+   "name": "Note: Better days",
+   "desc": "Kids… they sometimes seem to be far away from this war. It’s heartwarming.",
+   "hidden": true,
+   "pct": 9.0,
+   "api_name": "BETTER_DAYS",
+   "internal_key": 282
+  },
+  {
+   "name": "Diary: Bond for life",
+   "desc": "At least the kid has a new playmate. Maybe it will even be a break from our daily routine here.",
+   "hidden": true,
+   "pct": 4.3,
+   "api_name": "BOND_FOR_LIFE",
+   "internal_key": 283
+  },
+  {
+   "name": "Note: Everybody got to learn",
+   "desc": "Solidarity. That’s the first thing we have to teach to our children.",
+   "hidden": true,
+   "pct": 5.0,
+   "api_name": "EVERYBODY_GOT_TO_LEARN",
+   "internal_key": 284
+  },
+  {
+   "name": "Diary: Our own playground",
+   "desc": "We wish we could be kids again and have fun with practically nothing.",
+   "hidden": true,
+   "pct": 10.0,
+   "api_name": "OUR_OWN_PLAYGROUND",
+   "internal_key": 285
+  },
+  {
+   "name": "Note: No more tears",
+   "desc": "Nothing is more beautiful to see than a child smile and play again.",
+   "hidden": true,
+   "pct": 2.8,
+   "api_name": "NO_MORE_TEARS",
+   "internal_key": 286
+  },
+  {
+   "name": "Epilogue: Exodus",
+   "desc": "Safe at last, I looked back at the burning city and wept. I wished that all who wanted to leave it could do so. Escape from Pogoren.",
+   "hidden": true,
+   "pct": 3.1,
+   "api_name": "ESCAPE",
+   "internal_key": 287
+  },
+  {
+   "name": "Diary: The Truth",
+   "desc": "Faced my demons and learned the truth of that horrible night.",
+   "hidden": true,
+   "pct": 9.7,
+   "api_name": "STORIES_THE_TRUTH",
+   "internal_key": 512
+  },
+  {
+   "name": "Diary: Home Shelled Home",
+   "desc": "Finally found a way back to the old apartment. Or whatever was left of it.",
+   "hidden": true,
+   "pct": 13.4,
+   "api_name": "STORIES_HOME_SHELLED_HOME",
+   "internal_key": 513
+  },
+  {
+   "name": "Diary: Compassion",
+   "desc": "The hoodie meant the world to Amelia, but war turns everything upside down. This piece of cloth was crucial to this woman’s health. Maybe life.",
+   "hidden": true,
+   "pct": 9.4,
+   "api_name": "STORIES_COMPASSION",
+   "internal_key": 514
+  },
+  {
+   "name": "Diary: The doctor",
+   "desc": "The stakes were high, but I could not stay idle. I killed those soldiers, but I saved the doctor.",
+   "hidden": true,
+   "pct": 7.4,
+   "api_name": "STORIES_THE_DOCTOR",
+   "internal_key": 515
+  },
+  {
+   "name": "Note: Malik on duty",
+   "desc": "Learn and broadcast all the news",
+   "hidden": true,
+   "pct": 1.3,
+   "api_name": "STORIES_MALIK_ON_DUTY",
+   "internal_key": 516
+  },
+  {
+   "name": "Diary: You are a liar",
+   "desc": "Lie to Malik on two or more occasions",
+   "hidden": true,
+   "pct": 1.5,
+   "api_name": "STORIES_A_LIAR",
+   "internal_key": 517
+  },
+  {
+   "name": "Diary: Thruthful",
+   "desc": "Tell Malik the truth at least twice",
+   "hidden": true,
+   "pct": 4.3,
+   "api_name": "STORIES_THRUTHFUL",
+   "internal_key": 518
+  },
+  {
+   "name": "Epilogue: Heir",
+   "desc": "Finish the game as Malik's successor",
+   "hidden": true,
+   "pct": 3.4,
+   "api_name": "STORIES_HEIR",
+   "internal_key": 519
+  },
+  {
+   "name": "Epilogue: Remorse",
+   "desc": "Finish the game apologising to Malik",
+   "hidden": true,
+   "pct": 1.0,
+   "api_name": "STORIES_REMORSE",
+   "internal_key": 520
+  },
+  {
+   "name": "Note: He is back home",
+   "desc": "Let Adem return to the shelter",
+   "hidden": true,
+   "pct": 4.5,
+   "api_name": "STORIES_BACK_HOME",
+   "internal_key": 521
+  },
+  {
+   "name": "Note: Roll-up master",
+   "desc": "Make one hundred cigarettes",
+   "hidden": true,
+   "pct": 1.2,
+   "api_name": "STORIES_ROLL_UP_MASTER",
+   "internal_key": 522
+  },
+  {
+   "name": "Diary: Good Neighbor",
+   "desc": "The winter was severe. I knew Tito used to help my father frequently. I decided to help him too.",
+   "hidden": true,
+   "pct": 2.6,
+   "api_name": "STORIES_TITO_QUEST_DONE",
+   "internal_key": 525
+  },
+  {
+   "name": "Epilogue: All the way",
+   "desc": "Complete the game with all the alternate endings.",
+   "hidden": true,
+   "pct": 0.7,
+   "api_name": "STORIES_ALL_WS3_ENDINGS",
+   "internal_key": 526
+  },
+  {
+   "name": "Diary: The Janitor",
+   "desc": "Zoran's destiny is fulfilled. We didn't burn any of our legacy.",
+   "hidden": true,
+   "pct": 1.5,
+   "api_name": "STORIES_NO_HERITAGE_BURNED",
+   "internal_key": 527
+  },
+  {
+   "name": "Note: Fortify",
+   "desc": "Our place was damaged in the bombing. We decided to reinforce all the pillars to buy us as much time as we can.",
+   "hidden": true,
+   "pct": 0.9,
+   "api_name": "STORIES_EVERYTHING_REINFORCED",
+   "internal_key": 528
+  },
+  {
+   "name": "Note: Burn'em all",
+   "desc": "Some people just want to watch the world burn.",
+   "hidden": true,
+   "pct": 0.7,
+   "api_name": "STORIES_BURNED_A_LOT",
+   "internal_key": 529
+  },
+  {
+   "name": "Diary: Innocent children",
+   "desc": "They had only their adoptive father - Adam. Now they have a glimmer of hope to survive this war.",
+   "hidden": true,
+   "pct": 1.9,
+   "api_name": "STORIES_ORPHANAGE_QUEST_DONE",
+   "internal_key": 530
+  },
+  {
+   "name": "Note: The truck is ready",
+   "desc": "We finally managed to repair the truck. Now we can move our heritage to safety.",
+   "hidden": true,
+   "pct": 3.3,
+   "api_name": "STORIES_TRUCK_FIXED",
+   "internal_key": 531
+  },
+  {
+   "name": "Note: The Colonel",
+   "desc": "We gave the painting to Colonel Markov. Our heritage should be safe now.",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "STORIES_COLONEL_QUEST_DONE",
+   "internal_key": 532
+  },
+  {
+   "name": "Note: The Fence",
+   "desc": "We gave the case files to Taras the fence. Our heritage should be safe now. ",
+   "hidden": true,
+   "pct": 1.9,
+   "api_name": "STORIES_PASER_QUEST_DONE",
+   "internal_key": 533
+  },
+  {
+   "name": "Diary: My dear Ruben",
+   "desc": "We faced the harsh winter together and made it to the Museum, our new shelter. ",
+   "hidden": true,
+   "pct": 4.7,
+   "api_name": "STORIES_PITA_IN_MUSEUM",
+   "internal_key": 534
+  },
+  {
+   "name": "Diary: The Custodian",
+   "desc": "Milena's wish came true. We saved it all - our precious heritage.",
+   "hidden": true,
+   "pct": 2.0,
+   "api_name": "STORIES_EVERYTHING_SECURED",
+   "internal_key": 535
+  },
+  {
+   "name": "Diary: Fool the Crow",
+   "desc": "We acquired the truck parts without giving up Anja's necklace.",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "STORIES_CAR_MECHANIC_TRICKED",
+   "internal_key": 536
+  },
+  {
+   "name": "Epilogue: New life",
+   "desc": "Livia managed to survive until the end of war and gave birth to her child in time of peace.",
+   "hidden": true,
+   "pct": 3.0,
+   "api_name": "NEW_LIFE",
+   "internal_key": 538
+  },
+  {
+   "name": "Forget Celebrations: Surviving Pogoren",
+   "desc": "Despite the war raging on in Pogoren, Katia found a path to safety, leaving the chaos behind.",
+   "hidden": true,
+   "pct": 0.6,
+   "api_name": "LASTDLC_WITNESS_SURVIVED",
+   "internal_key": 539
+  },
+  {
+   "name": "Forget Celebrations: Together We Escape",
+   "desc": "Katia chose to wait for a second chance to flee the city – and when the moment came, she left with someone by her side.",
+   "hidden": true,
+   "pct": 0.5,
+   "api_name": "LASTDLC_TOGETHER_WE_STAND",
+   "internal_key": 540
+  },
+  {
+   "name": "Forget Celebrations: The Final Chapter",
+   "desc": "With her precious book materials finally in hand, Katia waited for a second chance to escape the chaos of war.",
+   "hidden": true,
+   "pct": 0.4,
+   "api_name": "LASTDLC_LIFES_WORK_COMPLETED",
+   "internal_key": 541
+  },
+  {
+   "name": "Forget Celebrations: Speedwriting",
+   "desc": "With her hard-earned book materials safely collected, Katia didn’t hesitate when the first chance to escape presented itself.",
+   "hidden": true,
+   "pct": 0.2,
+   "api_name": "LASTDLC_COMPLETED_IN_A_RUSH",
+   "internal_key": 542
+  }
+ ]
+}

@@ -1,0 +1,1953 @@
+{
+ "appid": 1794680,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 243,
+ "achievements": [
+  {
+   "name": "Wings",
+   "desc": "Reach Level 5.",
+   "hidden": false,
+   "pct": 97.2,
+   "api_name": "ReachLV5",
+   "internal_key": 256
+  },
+  {
+   "name": "Crown",
+   "desc": "Reach Level 10.",
+   "hidden": false,
+   "pct": 95.4,
+   "api_name": "ReachLV10",
+   "internal_key": 257
+  },
+  {
+   "name": "Hollow Heart",
+   "desc": "Survive 1 minute with any character.",
+   "hidden": false,
+   "pct": 97.8,
+   "api_name": "Survive1Minute",
+   "internal_key": 258
+  },
+  {
+   "name": "Runetracer",
+   "desc": "Survive 5 minutes with Pasqualina.",
+   "hidden": false,
+   "pct": 83.0,
+   "api_name": "Survive5MinutesWithDiamond",
+   "internal_key": 259
+  },
+  {
+   "name": "Peachone",
+   "desc": "Survive 10 minutes with any character.",
+   "hidden": false,
+   "pct": 93.5,
+   "api_name": "Survive10Minutes",
+   "internal_key": 260
+  },
+  {
+   "name": "Arca",
+   "desc": "Get Fire Wand to Level 4.",
+   "hidden": false,
+   "pct": 84.5,
+   "api_name": "GetFireWandToLevel4",
+   "internal_key": 261
+  },
+  {
+   "name": "Bracer",
+   "desc": "Get King Bible to Level 4.",
+   "hidden": false,
+   "pct": 87.4,
+   "api_name": "GetHolyBookToLevel4",
+   "internal_key": 262
+  },
+  {
+   "name": "Candelabrador",
+   "desc": "Get Santa Water to Level 4.",
+   "hidden": false,
+   "pct": 85.9,
+   "api_name": "GetHolyWaterToLevel4",
+   "internal_key": 263
+  },
+  {
+   "name": "Porta",
+   "desc": "Get Lightning Ring to Level 4.",
+   "hidden": false,
+   "pct": 81.8,
+   "api_name": "GetLightningRingToLevel4",
+   "internal_key": 264
+  },
+  {
+   "name": "Duplicator",
+   "desc": "Get Magic Wand to Level 7.",
+   "hidden": false,
+   "pct": 84.7,
+   "api_name": "GetMagicMissileToLevel7",
+   "internal_key": 265
+  },
+  {
+   "name": "Ebony Wings",
+   "desc": "Get Peachone to Level 7.",
+   "hidden": false,
+   "pct": 69.9,
+   "api_name": "GetPeachoneToLevel7",
+   "internal_key": 266
+  },
+  {
+   "name": "Spellbinder",
+   "desc": "Get Runetracer to Level 7.",
+   "hidden": false,
+   "pct": 76.7,
+   "api_name": "GetRunetracerToLevel7",
+   "internal_key": 267
+  },
+  {
+   "name": "Empty Tome",
+   "desc": "Hold 6 different weapons at once.",
+   "hidden": false,
+   "pct": 92.7,
+   "api_name": "Have6DifferentWeapons",
+   "internal_key": 268
+  },
+  {
+   "name": "Fire Wand",
+   "desc": "Destroy 20 light sources.",
+   "hidden": false,
+   "pct": 95.3,
+   "api_name": "Destroy20Candles",
+   "internal_key": 269
+  },
+  {
+   "name": "Garlic",
+   "desc": "Find 5 Floor Chickens.",
+   "hidden": false,
+   "pct": 93.4,
+   "api_name": "Eat5PotRoast",
+   "internal_key": 270
+  },
+  {
+   "name": "Clover",
+   "desc": "Find a Little Clover.",
+   "hidden": false,
+   "pct": 87.1,
+   "api_name": "FindAClover",
+   "internal_key": 271
+  },
+  {
+   "name": "Magnet",
+   "desc": "Find a Vacuum.",
+   "hidden": false,
+   "pct": 89.6,
+   "api_name": "FindAVacuum",
+   "internal_key": 272
+  },
+  {
+   "name": "Clock Lancet",
+   "desc": "Find an Orologion.",
+   "hidden": false,
+   "pct": 92.8,
+   "api_name": "FindAnOrologion",
+   "internal_key": 273
+  },
+  {
+   "name": "Cross",
+   "desc": "Find a Rosary.",
+   "hidden": false,
+   "pct": 88.8,
+   "api_name": "FindARosary",
+   "internal_key": 274
+  },
+  {
+   "name": "Lightning Ring",
+   "desc": "Defeat a total of 5000 enemies.",
+   "hidden": false,
+   "pct": 90.9,
+   "api_name": "Defeat5000Enemies",
+   "internal_key": 275
+  },
+  {
+   "name": "Mortaccio",
+   "desc": "Defeat a total of 3000 Skeletons.",
+   "hidden": false,
+   "pct": 81.2,
+   "api_name": "Defeat3000Skeletons",
+   "internal_key": 276
+  },
+  {
+   "name": "Pentagram",
+   "desc": "Survive 20 minutes with any character.",
+   "hidden": false,
+   "pct": 84.0,
+   "api_name": "Survive20Minutes",
+   "internal_key": 277
+  },
+  {
+   "name": "Hyper Mad Forest",
+   "desc": "Defeat the giant Blue Venus in the Mad Forest.",
+   "hidden": false,
+   "pct": 68.8,
+   "api_name": "DefeatBossMadForest",
+   "internal_key": 278
+  },
+  {
+   "name": "Hyper Inlaid Library",
+   "desc": "Defeat the Hag in the Inlaid Library.",
+   "hidden": false,
+   "pct": 77.6,
+   "api_name": "DefeatBossLibrary",
+   "internal_key": 279
+  },
+  {
+   "name": "Inlaid Library",
+   "desc": "Reach Level 20 in the Mad Forest.",
+   "hidden": false,
+   "pct": 88.4,
+   "api_name": "ReachLV20InMadForest",
+   "internal_key": 280
+  },
+  {
+   "name": "Pummarola",
+   "desc": "Survive 5 minutes with Gennaro.",
+   "hidden": false,
+   "pct": 77.4,
+   "api_name": "Survive5MinutesWithKnife",
+   "internal_key": 281
+  },
+  {
+   "name": "Stone Mask",
+   "desc": "Find a Stone Mask.",
+   "hidden": false,
+   "pct": 68.1,
+   "api_name": "FindAStoneMask",
+   "internal_key": 282
+  },
+  {
+   "name": "Bloody Tear",
+   "desc": "Evolve the Whip.",
+   "hidden": false,
+   "pct": 70.0,
+   "api_name": "EvolveWhip",
+   "internal_key": 283
+  },
+  {
+   "name": "Holy Wand",
+   "desc": "Evolve the Magic Wand.",
+   "hidden": false,
+   "pct": 78.1,
+   "api_name": "EvolveMagicWand",
+   "internal_key": 284
+  },
+  {
+   "name": "Thousand Edge",
+   "desc": "Evolve the Knife.",
+   "hidden": false,
+   "pct": 67.4,
+   "api_name": "EvolveKnife",
+   "internal_key": 285
+  },
+  {
+   "name": "Death Spiral",
+   "desc": "Evolve the Axe.",
+   "hidden": false,
+   "pct": 71.9,
+   "api_name": "EvolveAxe",
+   "internal_key": 286
+  },
+  {
+   "name": "Heaven Sword",
+   "desc": "Evolve the Cross.",
+   "hidden": false,
+   "pct": 67.3,
+   "api_name": "EvolveCross",
+   "internal_key": 287
+  },
+  {
+   "name": "Unholy Vespers",
+   "desc": "Evolve the King Bible.",
+   "hidden": false,
+   "pct": 68.1,
+   "api_name": "EvolveKingBible",
+   "internal_key": 512
+  },
+  {
+   "name": "Hellfire",
+   "desc": "Evolve the Fire Wand.",
+   "hidden": false,
+   "pct": 73.3,
+   "api_name": "EvolveFireWand",
+   "internal_key": 513
+  },
+  {
+   "name": "Poe Ratcho",
+   "desc": "Get Garlic to Level 7.",
+   "hidden": false,
+   "pct": 81.9,
+   "api_name": "GetGarlicToLevel7",
+   "internal_key": 514
+  },
+  {
+   "name": "Soul Eater",
+   "desc": "Evolve the Garlic.",
+   "hidden": false,
+   "pct": 67.3,
+   "api_name": "EvolveGarlic",
+   "internal_key": 515
+  },
+  {
+   "name": "Vandalier",
+   "desc": "Unite Ebony Wings and Peachone.",
+   "hidden": false,
+   "pct": 56.5,
+   "api_name": "UniteBirds",
+   "internal_key": 516
+  },
+  {
+   "name": "Green Acres",
+   "desc": "Unlock Hyper mode for 2 normal stages.",
+   "hidden": false,
+   "pct": 71.9,
+   "api_name": "Unlock2Hypers",
+   "internal_key": 517
+  },
+  {
+   "name": "Suor Clerici",
+   "desc": "Recover a total of 1000 HP.",
+   "hidden": false,
+   "pct": 84.0,
+   "api_name": "Recover1000HP",
+   "internal_key": 518
+  },
+  {
+   "name": "Dommario",
+   "desc": "Earn 5000 coins in a single run.",
+   "hidden": false,
+   "pct": 70.0,
+   "api_name": "Earn5000CoinsInASingleRun",
+   "internal_key": 519
+  },
+  {
+   "name": "Krochi",
+   "desc": "Defeat a total of 100000 enemies.",
+   "hidden": false,
+   "pct": 74.4,
+   "api_name": "Defeat100KEnemies",
+   "internal_key": 520
+  },
+  {
+   "name": "Tiragisú",
+   "desc": "Survive 20 minutes with Krochi.",
+   "hidden": false,
+   "pct": 50.9,
+   "api_name": "Survive20MinutesWithCross",
+   "internal_key": 521
+  },
+  {
+   "name": "La Borra",
+   "desc": "Evolve the Santa Water.",
+   "hidden": false,
+   "pct": 69.2,
+   "api_name": "EvolveSantaWater",
+   "internal_key": 522
+  },
+  {
+   "name": "Thunder Loop",
+   "desc": "Evolve the Lightning Ring.",
+   "hidden": false,
+   "pct": 71.1,
+   "api_name": "EvolveLightning",
+   "internal_key": 523
+  },
+  {
+   "name": "Reroll 1",
+   "desc": "Reach Level 80 with Mortaccio.",
+   "hidden": false,
+   "pct": 38.7,
+   "api_name": "ReachLV100WithMortaccio",
+   "internal_key": 524
+  },
+  {
+   "name": "Skip 2",
+   "desc": "Survive 30 minutes in Green Acres.",
+   "hidden": false,
+   "pct": 36.8,
+   "api_name": "Survive30MinutesInGreenAcres",
+   "internal_key": 525
+  },
+  {
+   "name": "Reroll 2",
+   "desc": "Reach Level 80 with Yatta Cavallo.",
+   "hidden": false,
+   "pct": 34.2,
+   "api_name": "ReachLV100WithCavallo",
+   "internal_key": 526
+  },
+  {
+   "name": "Yatta Cavallo",
+   "desc": "Defeat a total of 3000 Lion Heads.",
+   "hidden": false,
+   "pct": 69.8,
+   "api_name": "Defeat3000Buers",
+   "internal_key": 527
+  },
+  {
+   "name": "Lama",
+   "desc": "Survive 20 minutes with at least +10% Curse.",
+   "hidden": false,
+   "pct": 58.5,
+   "api_name": "Survive20MinutesWithCurse",
+   "internal_key": 528
+  },
+  {
+   "name": "Skull O'Maniac",
+   "desc": "Survive 30 minutes with Lama.",
+   "hidden": false,
+   "pct": 36.0,
+   "api_name": "Survive30MinutesWithAxe",
+   "internal_key": 529
+  },
+  {
+   "name": "Dairy Plant",
+   "desc": "Reach Level 40 in the Inlaid Library.",
+   "hidden": false,
+   "pct": 78.5,
+   "api_name": "ReachLV40InLibrary",
+   "internal_key": 530
+  },
+  {
+   "name": "Hyper Dairy Plant",
+   "desc": "Defeat the Sword Guardian in the Dairy Plant.",
+   "hidden": false,
+   "pct": 62.6,
+   "api_name": "DefeatBossPlant",
+   "internal_key": 531
+  },
+  {
+   "name": "Milky Way Map",
+   "desc": "Find the Milky Way Map.",
+   "hidden": false,
+   "pct": 72.3,
+   "api_name": "FindMilkyWayMap",
+   "internal_key": 532
+  },
+  {
+   "name": "Coffin: Dairy Plant",
+   "desc": "Find and open the coffin in the Dairy Plant.",
+   "hidden": false,
+   "pct": 57.4,
+   "api_name": "FindCoffinStage3",
+   "internal_key": 533
+  },
+  {
+   "name": "Song of Mana",
+   "desc": "Survive 15 minutes with Poppea.",
+   "hidden": false,
+   "pct": 47.5,
+   "api_name": "Survive15MinutesWithSong",
+   "internal_key": 534
+  },
+  {
+   "name": "Mannajja",
+   "desc": "Evolve the Song Of Mana.",
+   "hidden": false,
+   "pct": 37.3,
+   "api_name": "EvolveSongOfMana",
+   "internal_key": 535
+  },
+  {
+   "name": "Christine",
+   "desc": "Get Pentagram to Level 7.",
+   "hidden": false,
+   "pct": 55.8,
+   "api_name": "GetPentagramToLevel7",
+   "internal_key": 536
+  },
+  {
+   "name": "Il Molise",
+   "desc": "Unlock Hyper mode for any normal stage.",
+   "hidden": false,
+   "pct": 76.4,
+   "api_name": "Unlock3Hypers",
+   "internal_key": 537
+  },
+  {
+   "name": "Skip 1",
+   "desc": "Survive 15 minutes in Molise.",
+   "hidden": false,
+   "pct": 48.0,
+   "api_name": "Survive15MinutesInMolise",
+   "internal_key": 538
+  },
+  {
+   "name": "Gorgeous Moon",
+   "desc": "Evolve the Pentagram.",
+   "hidden": false,
+   "pct": 47.3,
+   "api_name": "EvolvePentagram",
+   "internal_key": 539
+  },
+  {
+   "name": "Mindbender",
+   "desc": "Fill 50 entries in the Collection.",
+   "hidden": false,
+   "pct": 68.3,
+   "api_name": "See50Items",
+   "internal_key": 540
+  },
+  {
+   "name": "Coffin: Mad Forest",
+   "desc": "Find and open the coffin in the Mad Forest.",
+   "hidden": false,
+   "pct": 52.2,
+   "api_name": "FindCoffinStage1",
+   "internal_key": 541
+  },
+  {
+   "name": "Phiera Der Tuphello",
+   "desc": "Survive 10 minutes with Pugnala.",
+   "hidden": false,
+   "pct": 47.6,
+   "api_name": "Survive10MinutesWithGuns",
+   "internal_key": 542
+  },
+  {
+   "name": "Eight The Sparrow",
+   "desc": "Survive 15 minutes with Pugnala.",
+   "hidden": false,
+   "pct": 46.5,
+   "api_name": "Survive15MinutesWithGuns",
+   "internal_key": 543
+  },
+  {
+   "name": "Phieraggi",
+   "desc": "Evolve and unite Phiera Der Tuphello and Eight The Sparrow.",
+   "hidden": false,
+   "pct": 38.7,
+   "api_name": "EvolveGuns",
+   "internal_key": 768
+  },
+  {
+   "name": "NO FUTURE",
+   "desc": "Evolve the Runetracer.",
+   "hidden": false,
+   "pct": 59.1,
+   "api_name": "EvolveRunetracer",
+   "internal_key": 769
+  },
+  {
+   "name": "Reroll 3",
+   "desc": "Reach Level 80 with Bianca Ramba.",
+   "hidden": false,
+   "pct": 20.5,
+   "api_name": "ReachLV100WithRamba",
+   "internal_key": 771
+  },
+  {
+   "name": "Banish 1",
+   "desc": "Fill 60 entries in the Collection.",
+   "hidden": false,
+   "pct": 58.1,
+   "api_name": "See60Items",
+   "internal_key": 772
+  },
+  {
+   "name": "Hyper Gallo Tower",
+   "desc": "Defeat the Giant Enemy Crab in Gallo Tower.",
+   "hidden": false,
+   "pct": 53.3,
+   "api_name": "DefeatBossTower",
+   "internal_key": 773
+  },
+  {
+   "name": "Sorceress' Tears",
+   "desc": "Find the Sorceress' Tears.",
+   "hidden": false,
+   "pct": 54.9,
+   "api_name": "FindSorceressTears",
+   "internal_key": 774
+  },
+  {
+   "name": "Gallo Tower",
+   "desc": "Reach Level 60 in the Dairy Plant.",
+   "hidden": false,
+   "pct": 62.4,
+   "api_name": "ReachLV60InDairyPlant",
+   "internal_key": 775
+  },
+  {
+   "name": "Bianca Ramba",
+   "desc": "Defeat a total of 3000 Milk Elementals.",
+   "hidden": false,
+   "pct": 37.4,
+   "api_name": "Defeat3000Milk",
+   "internal_key": 776
+  },
+  {
+   "name": "Banish 2",
+   "desc": "Fill 70 entries in the Collection.",
+   "hidden": false,
+   "pct": 48.5,
+   "api_name": "See70Items",
+   "internal_key": 777
+  },
+  {
+   "name": "Randomazzo",
+   "desc": "Find the Randomazzo.",
+   "hidden": false,
+   "pct": 55.3,
+   "api_name": "FindRandomazzo",
+   "internal_key": 778
+  },
+  {
+   "name": "Gatti Amari",
+   "desc": "Survive 15 minutes with Giovanna.",
+   "hidden": false,
+   "pct": 38.8,
+   "api_name": "Survive15MinutesWithGatti",
+   "internal_key": 779
+  },
+  {
+   "name": "Coffin: Inlaid Library",
+   "desc": "Find and open the coffin in the Inlaid Library.",
+   "hidden": false,
+   "pct": 55.9,
+   "api_name": "FindCoffinStage2",
+   "internal_key": 780
+  },
+  {
+   "name": "V - Chaos in the Dark Night",
+   "desc": "Reach Level 50 with Giovanna.",
+   "hidden": false,
+   "pct": 28.1,
+   "api_name": "ReachLV99WithGiovanna",
+   "internal_key": 781
+  },
+  {
+   "name": "IV - Awake",
+   "desc": "Reach Level 50 with Krochi.",
+   "hidden": false,
+   "pct": 32.7,
+   "api_name": "ReachLV99WithKroci",
+   "internal_key": 782
+  },
+  {
+   "name": "VI - Sarabande of Healing",
+   "desc": "Find the Randomazzo.",
+   "hidden": false,
+   "pct": 55.3,
+   "api_name": "FindRandomazzoT06",
+   "internal_key": 783
+  },
+  {
+   "name": "XVI - Slash",
+   "desc": "Reach Level 50 with Lama.",
+   "hidden": false,
+   "pct": 31.0,
+   "api_name": "ReachLV99WithLama",
+   "internal_key": 784
+  },
+  {
+   "name": "XVII - Lost and Found Painting",
+   "desc": "Reach Level 50 with Poppea.",
+   "hidden": false,
+   "pct": 34.5,
+   "api_name": "ReachLV99WithPoppea",
+   "internal_key": 785
+  },
+  {
+   "name": "XIX - Heart of Fire",
+   "desc": "Reach Level 50 with Arca.",
+   "hidden": false,
+   "pct": 23.2,
+   "api_name": "ReachLV99WithArca",
+   "internal_key": 786
+  },
+  {
+   "name": "O'Sole Meeo",
+   "desc": "Defeat a total of 3000 Dragon Shrimps.",
+   "hidden": false,
+   "pct": 43.3,
+   "api_name": "Defeat3000Hydra",
+   "internal_key": 787
+  },
+  {
+   "name": "The Bone Zone",
+   "desc": "Unlock Hyper mode for 3 normal stages.",
+   "hidden": false,
+   "pct": 58.3,
+   "api_name": "Unlock3Hypers_Correct",
+   "internal_key": 788
+  },
+  {
+   "name": "Skip 3",
+   "desc": "Survive 30 minutes in The Bone Zone.",
+   "hidden": false,
+   "pct": 31.7,
+   "api_name": "Survive30MinutesInBoneZone",
+   "internal_key": 789
+  },
+  {
+   "name": "Reroll 4",
+   "desc": "Reach Level 80 with O'Sole Meeo.",
+   "hidden": false,
+   "pct": 21.8,
+   "api_name": "ReachLV100WithOsole",
+   "internal_key": 790
+  },
+  {
+   "name": "XI - Waltz of Pearls",
+   "desc": "Reach Level 50 with Imelda.",
+   "hidden": false,
+   "pct": 27.5,
+   "api_name": "ReachLV99WithImelda",
+   "internal_key": 791
+  },
+  {
+   "name": "VII - Iron Blue Will",
+   "desc": "Reach Level 50 with Gennaro.",
+   "hidden": false,
+   "pct": 27.3,
+   "api_name": "ReachLV99WithGennaro",
+   "internal_key": 792
+  },
+  {
+   "name": "Coffin: Gallo Tower",
+   "desc": "Find and open the coffin in the Gallo Tower.",
+   "hidden": false,
+   "pct": 43.5,
+   "api_name": "FindCoffinStage4",
+   "internal_key": 793
+  },
+  {
+   "name": "XVIII - Boogaloo of Illusions",
+   "desc": "Reach Level 50 with Concetta.",
+   "hidden": false,
+   "pct": 29.6,
+   "api_name": "ReachLV99WithConcetta",
+   "internal_key": 794
+  },
+  {
+   "name": "Vicious Hunger",
+   "desc": "Evolve the Gatti Amari.",
+   "hidden": false,
+   "pct": 32.9,
+   "api_name": "EvolveGatti",
+   "internal_key": 795
+  },
+  {
+   "name": "Valkyrie Turner",
+   "desc": "Evolve the Shadow Pinion.",
+   "hidden": false,
+   "pct": 30.5,
+   "api_name": "EvolveShadow",
+   "internal_key": 796
+  },
+  {
+   "name": "XV - Disco of Gold",
+   "desc": "Reach minute 31 in the Inlaid Library.",
+   "hidden": false,
+   "pct": 25.9,
+   "api_name": "Survive31MinutesInLibrary",
+   "internal_key": 797
+  },
+  {
+   "name": "Banish 3",
+   "desc": "Fill 80 entries in the Collection.",
+   "hidden": false,
+   "pct": 40.9,
+   "api_name": "See80Items",
+   "internal_key": 798
+  },
+  {
+   "name": "Magic Banger",
+   "desc": "Find the Magic Banger.",
+   "hidden": false,
+   "pct": 49.7,
+   "api_name": "FindMagicBanger",
+   "internal_key": 799
+  },
+  {
+   "name": "Shadow Pinion",
+   "desc": "Survive 15 minutes with Concetta.",
+   "hidden": false,
+   "pct": 34.3,
+   "api_name": "Survive15MinutesWithShadow",
+   "internal_key": 1024
+  },
+  {
+   "name": "Moongolow",
+   "desc": "Unlock Hyper mode for 4 normal stages.",
+   "hidden": false,
+   "pct": 49.2,
+   "api_name": "Unlock4Hypers",
+   "internal_key": 1025
+  },
+  {
+   "name": "Skip 4",
+   "desc": "Survive 15 minutes in Moongolow.",
+   "hidden": false,
+   "pct": 34.1,
+   "api_name": "Survive15MinutesInMoongolow",
+   "internal_key": 1026
+  },
+  {
+   "name": "Glass Vizard",
+   "desc": "Find and buy the Glass Vizard.",
+   "hidden": false,
+   "pct": 35.2,
+   "api_name": "BuyGlassMask",
+   "internal_key": 1027
+  },
+  {
+   "name": "XIV - Jail of Crystal",
+   "desc": "Reach Level 50 with Pasqualina.",
+   "hidden": false,
+   "pct": 25.1,
+   "api_name": "ReachLV99WithPasqualina",
+   "internal_key": 1028
+  },
+  {
+   "name": "XII - Out of Bounds",
+   "desc": "Reach minute 31 in the Gallo Tower.",
+   "hidden": false,
+   "pct": 20.7,
+   "api_name": "Survive31MinutesInTower",
+   "internal_key": 1029
+  },
+  {
+   "name": "Banish 4",
+   "desc": "Fill 90 entries in the Collection.",
+   "hidden": false,
+   "pct": 34.9,
+   "api_name": "See90Items",
+   "internal_key": 1030
+  },
+  {
+   "name": "Yellow Sign",
+   "desc": "Find the Yellow Sign.",
+   "hidden": false,
+   "pct": 34.4,
+   "api_name": "FindYellowSign",
+   "internal_key": 1031
+  },
+  {
+   "name": "Seeker of the Infinite Corridor",
+   "desc": "Obtain the Infinite Corridor.",
+   "hidden": false,
+   "pct": 26.6,
+   "api_name": "ObtainTheInfiniteCorridor",
+   "internal_key": 1032
+  },
+  {
+   "name": "Seeker of the Crimson Shroud",
+   "desc": "Obtain the Crimson Shroud.",
+   "hidden": false,
+   "pct": 25.9,
+   "api_name": "ObtainTheCrimsonShroud",
+   "internal_key": 1033
+  },
+  {
+   "name": "X - Beginning",
+   "desc": "Reach Level 50 with Antonio.",
+   "hidden": false,
+   "pct": 26.3,
+   "api_name": "ReachLV99WithAntonio",
+   "internal_key": 1034
+  },
+  {
+   "name": "VIII - Mad Groove",
+   "desc": "Reach minute 31 in the Mad Forest.",
+   "hidden": false,
+   "pct": 23.5,
+   "api_name": "Survive31MinutesInForest",
+   "internal_key": 1035
+  },
+  {
+   "name": "Torrona's Box",
+   "desc": "Hold 6 different weapon evolutions at once.",
+   "hidden": false,
+   "pct": 44.9,
+   "api_name": "Have6Evolutions",
+   "internal_key": 1036
+  },
+  {
+   "name": "Omni",
+   "desc": "Get Torrona's Box to Level 9.",
+   "hidden": false,
+   "pct": 36.5,
+   "api_name": "GetTorroneToLevel9",
+   "internal_key": 1037
+  },
+  {
+   "name": "Cappella Magna",
+   "desc": "Reach Level 80 in the Gallo Tower.",
+   "hidden": false,
+   "pct": 45.5,
+   "api_name": "FindYellowSignS5",
+   "internal_key": 1038
+  },
+  {
+   "name": "Coffin: Cappella Magna",
+   "desc": "Find and open the coffin in the Cappella Magna.",
+   "hidden": false,
+   "pct": 37.7,
+   "api_name": "FindCoffinStage5",
+   "internal_key": 1039
+  },
+  {
+   "name": "Vento Sacro",
+   "desc": "Survive 15 minutes with Zi'Assunta.",
+   "hidden": false,
+   "pct": 30.2,
+   "api_name": "Survive15MinutesWithWind",
+   "internal_key": 1040
+  },
+  {
+   "name": "Fuwalafuwaloo",
+   "desc": "Unite Vento Sacro and Bloody Tear.",
+   "hidden": false,
+   "pct": 27.4,
+   "api_name": "EvolveWind",
+   "internal_key": 1041
+  },
+  {
+   "name": "Hyper Cappella Magna",
+   "desc": "Defeat the Trinacria in the Cappella Magna.",
+   "hidden": false,
+   "pct": 38.5,
+   "api_name": "DefeatBossChapel",
+   "internal_key": 1042
+  },
+  {
+   "name": "Sir Ambrojoe",
+   "desc": "Defeat a total of 6000 Stage Killers.",
+   "hidden": false,
+   "pct": 26.1,
+   "api_name": "Defeat6000StageKillers",
+   "internal_key": 1043
+  },
+  {
+   "name": "III - Tragic Princess",
+   "desc": "Reach Level 50 with Porta.",
+   "hidden": false,
+   "pct": 26.2,
+   "api_name": "ReachLV99WithPorta",
+   "internal_key": 1044
+  },
+  {
+   "name": "XX - Silent Old Sanctuary",
+   "desc": "Reach minute 31 in the Dairy Plant.",
+   "hidden": false,
+   "pct": 19.6,
+   "api_name": "Survive31MinutesInDairyPlant",
+   "internal_key": 1045
+  },
+  {
+   "name": "Banish 5",
+   "desc": "Fill 100 entries in the Collection.",
+   "hidden": false,
+   "pct": 29.8,
+   "api_name": "See100Items",
+   "internal_key": 1046
+  },
+  {
+   "name": "Reroll 5",
+   "desc": "Reach Level 80 with Sir Ambrojoe.",
+   "hidden": false,
+   "pct": 16.8,
+   "api_name": "ReachLV100WithAmbrojoe",
+   "internal_key": 1047
+  },
+  {
+   "name": "Grim Grimoire",
+   "desc": "Find the Grim Grimoire.",
+   "hidden": false,
+   "pct": 68.8,
+   "api_name": "FindGrimoire",
+   "internal_key": 1048
+  },
+  {
+   "name": "Ars Gouda",
+   "desc": "Find the Ars Gouda.",
+   "hidden": false,
+   "pct": 61.4,
+   "api_name": "FindGouda",
+   "internal_key": 1049
+  },
+  {
+   "name": "Great Gospel",
+   "desc": "Find the Great Gospel.",
+   "hidden": false,
+   "pct": 27.4,
+   "api_name": "FindGGospel",
+   "internal_key": 1050
+  },
+  {
+   "name": "Game Killer",
+   "desc": "Defeat the final enemy in the Cappella Magna.",
+   "hidden": false,
+   "pct": 27.1,
+   "api_name": "DefeatBossChapel2",
+   "internal_key": 1051
+  },
+  {
+   "name": "Boss Rash",
+   "desc": "Unlock Hyper mode for all 5 normal stages.",
+   "hidden": false,
+   "pct": 35.6,
+   "api_name": "Unlock5Hypers",
+   "internal_key": 1052
+  },
+  {
+   "name": "Skip 5",
+   "desc": "Survive 15 minutes in Boss Rash.",
+   "hidden": false,
+   "pct": 20.7,
+   "api_name": "Survive15MinutesInBossRash",
+   "internal_key": 1053
+  },
+  {
+   "name": "II - Twilight Requiem",
+   "desc": "Reach Level 50 with Dommario.",
+   "hidden": false,
+   "pct": 26.0,
+   "api_name": "ReachLV99WithDommario",
+   "internal_key": 1054
+  },
+  {
+   "name": "I - Gemini",
+   "desc": "Reach Level 50 with Pugnala.",
+   "hidden": false,
+   "pct": 33.5,
+   "api_name": "ReachLV99WithPugnala",
+   "internal_key": 1055
+  },
+  {
+   "name": "Forbidden Scrolls",
+   "desc": "Find the Forbidden Scrolls of Morbane.",
+   "hidden": false,
+   "pct": 24.2,
+   "api_name": "FindForbiddenScroll",
+   "internal_key": 1280
+  },
+  {
+   "name": "XIII - Wicked Season",
+   "desc": "Reach Level 50 with Christine.",
+   "hidden": false,
+   "pct": 20.9,
+   "api_name": "ReachLV99WithChristine",
+   "internal_key": 1281
+  },
+  {
+   "name": "Queen Sigma",
+   "desc": "Complete the Collection 1.0.",
+   "hidden": false,
+   "pct": 12.2,
+   "api_name": "CompleteCollection",
+   "internal_key": 1282
+  },
+  {
+   "name": "Victory Sword",
+   "desc": "Defeat 100000 enemies in a single run with Queen Sigma.",
+   "hidden": false,
+   "pct": 13.2,
+   "api_name": "Defeat100kWithSigma",
+   "internal_key": 1283
+  },
+  {
+   "name": "IX - Divine Bloodline",
+   "desc": "Reach Level 50 with Suor Clerici.",
+   "hidden": false,
+   "pct": 22.4,
+   "api_name": "ReachLV99WithClerici",
+   "internal_key": 1284
+  },
+  {
+   "name": "XXI - Blood Astronomia",
+   "desc": "Reach Level 50 with Poe.",
+   "hidden": false,
+   "pct": 25.1,
+   "api_name": "ReachLV99WithPoe",
+   "internal_key": 1285
+  },
+  {
+   "name": "Bracelet",
+   "desc": "Survive 30 minutes with either Gallo or Divano.",
+   "hidden": false,
+   "pct": 19.0,
+   "api_name": "GalloDivano",
+   "internal_key": 1286
+  },
+  {
+   "name": "Tri-Bracelet",
+   "desc": "Evolve the Bracelet and then the Bi-Bracelet.",
+   "hidden": false,
+   "pct": 19.1,
+   "api_name": "EvolveBracelet",
+   "internal_key": 1291
+  },
+  {
+   "name": "Candybox",
+   "desc": "Discover every standard evolution and union.",
+   "hidden": false,
+   "pct": 16.4,
+   "api_name": "EvolveAll",
+   "internal_key": 1292
+  },
+  {
+   "name": "The Eudaimonia Machine",
+   "desc": "Obtain all standard relics from all stages.",
+   "hidden": false,
+   "pct": 21.9,
+   "api_name": "ObtainAllRelics",
+   "internal_key": 1293
+  },
+  {
+   "name": "Gracia's Mirror",
+   "desc": "Obtain Gracia's Mirror.",
+   "hidden": false,
+   "pct": 20.2,
+   "api_name": "ObtainGraciasMirror",
+   "internal_key": 1294
+  },
+  {
+   "name": "Seventh Trumpet",
+   "desc": "Obtain the Seventh Trumpet.",
+   "hidden": false,
+   "pct": 20.3,
+   "api_name": "ObtainSeventhTrumpet",
+   "internal_key": 1295
+  },
+  {
+   "name": "Greatest Jubilee",
+   "desc": "See the final fireworks.",
+   "hidden": false,
+   "pct": 14.5,
+   "api_name": "GreatestJubilee",
+   "internal_key": 1296
+  },
+  {
+   "name": "EXTRA: Seal I",
+   "desc": "Banish 10 or more weapons in a single run.",
+   "hidden": false,
+   "pct": 18.5,
+   "api_name": "Banish10Items",
+   "internal_key": 1297
+  },
+  {
+   "name": "EXTRA: Tiny Bridge",
+   "desc": "Reach Level 80 in Inverse Gallo Tower.",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "ReachLV80InverseTower",
+   "internal_key": 1298
+  },
+  {
+   "name": "EXTRA: Bat Country",
+   "desc": "Reach Level 80 in Inverse Mad Forest.",
+   "hidden": false,
+   "pct": 13.8,
+   "api_name": "ReachLV80InverseForest",
+   "internal_key": 1540
+  },
+  {
+   "name": "EXTRA: Apoplexy",
+   "desc": "Find the Apoplexy at minute 09:00 in Bat Country.",
+   "hidden": false,
+   "pct": 12.9,
+   "api_name": "FindApoplexy",
+   "internal_key": 1541
+  },
+  {
+   "name": "EXTRA: Chaos Malachite",
+   "desc": "Find the Chaos Malachite at minute 18:00 in Bat Country.",
+   "hidden": false,
+   "pct": 12.9,
+   "api_name": "FindChaosMalachite",
+   "internal_key": 1542
+  },
+  {
+   "name": "EXTRA: Seal II",
+   "desc": "Banish 20 or more weapons in a single run.",
+   "hidden": false,
+   "pct": 10.0,
+   "api_name": "Banish20Items",
+   "internal_key": 1543
+  },
+  {
+   "name": "EXTRA: Astral Stair",
+   "desc": "Reach Level 80 in Inverse Inlaid Library.",
+   "hidden": false,
+   "pct": 12.6,
+   "api_name": "ReachLV80InverseLibrary",
+   "internal_key": 1565
+  },
+  {
+   "name": "EXTRA: Chaos Rosalia",
+   "desc": "Find the Chaos Rosalia in Astral Stair.",
+   "hidden": false,
+   "pct": 11.5,
+   "api_name": "FindChaosRosalia",
+   "internal_key": 1566
+  },
+  {
+   "name": "EXTRA: Trisection",
+   "desc": "Find the Trisection in Astral Stair.",
+   "hidden": false,
+   "pct": 11.5,
+   "api_name": "FindTrisection",
+   "internal_key": 1567
+  },
+  {
+   "name": "EXTRA: Astral Stair Map",
+   "desc": "Find the Astral Stair Map.",
+   "hidden": false,
+   "pct": 11.4,
+   "api_name": "FindMap_AstralStair",
+   "internal_key": 1792
+  },
+  {
+   "name": "EXTRA: Chaos Altemanna",
+   "desc": "Find the Chaos Altemanna in Tiny Bridge.",
+   "hidden": false,
+   "pct": 9.9,
+   "api_name": "FindChaosAltemanna",
+   "internal_key": 1795
+  },
+  {
+   "name": "EXTRA: Whiteout",
+   "desc": "Find 20 Orologions.",
+   "hidden": false,
+   "pct": 41.6,
+   "api_name": "FindManyOrologions",
+   "internal_key": 1796
+  },
+  {
+   "name": "EXTRA: Glass Fandango",
+   "desc": "Get Glass Fandango to Level 7.",
+   "hidden": false,
+   "pct": 23.1,
+   "api_name": "GetGlassFandangoToLevel7",
+   "internal_key": 1797
+  },
+  {
+   "name": "EXTRA: Celestial Voulge",
+   "desc": "Evolve the Glass Fandango.",
+   "hidden": false,
+   "pct": 17.8,
+   "api_name": "EvolveGlassFandango",
+   "internal_key": 1798
+  },
+  {
+   "name": "EXTRA: She-Moon Eeta",
+   "desc": "Survive 20 minutes in Whiteout.",
+   "hidden": false,
+   "pct": 24.3,
+   "api_name": "SurviveUntilTheEndOfWhiteout",
+   "internal_key": 1799
+  },
+  {
+   "name": "EXTRA: Antidote",
+   "desc": "Find the Antidote in Whiteout.",
+   "hidden": false,
+   "pct": 25.2,
+   "api_name": "FindAntidote",
+   "internal_key": 1800
+  },
+  {
+   "name": "EXTRA: Adventures",
+   "desc": "Obtain the Atlas Gate in Boss Rash.",
+   "hidden": false,
+   "pct": 15.8,
+   "api_name": "FindAtlas",
+   "internal_key": 1801
+  },
+  {
+   "name": "EXTRA: Space 54",
+   "desc": "Find 5 Golden Fingers.",
+   "hidden": false,
+   "pct": 9.6,
+   "api_name": "FindManyGoldenFinger",
+   "internal_key": 1802
+  },
+  {
+   "name": "EXTRA: Phas3r",
+   "desc": "Get Phas3r to level 7.",
+   "hidden": false,
+   "pct": 9.2,
+   "api_name": "GetPhas3rToLevel7",
+   "internal_key": 1803
+  },
+  {
+   "name": "EXTRA: Evolve the Phas3r.",
+   "desc": "Evolve the Phas3r.",
+   "hidden": false,
+   "pct": 8.7,
+   "api_name": "EvolvePhas3r",
+   "internal_key": 1804
+  },
+  {
+   "name": "EXTRA: Space Dude",
+   "desc": "Survive 20 minutes in Space 54.",
+   "hidden": false,
+   "pct": 8.6,
+   "api_name": "Survive20MinutesInSpace54",
+   "internal_key": 1805
+  },
+  {
+   "name": "EXTRA: Brave Story",
+   "desc": "Find the Brave Story at minute 18 in Space 54.",
+   "hidden": false,
+   "pct": 8.2,
+   "api_name": "FindBraveStory",
+   "internal_key": 1806
+  },
+  {
+   "name": "EXTRA: Pako Battiliar",
+   "desc": "Defeat a total of 161616 bats.",
+   "hidden": false,
+   "pct": 11.8,
+   "api_name": "DefeatManyBats",
+   "internal_key": 1807
+  },
+  {
+   "name": "EXTRA: Bat Robbert",
+   "desc": "Evolve the Pako Battiliar.",
+   "hidden": false,
+   "pct": 9.2,
+   "api_name": "EvolveBattilia",
+   "internal_key": 1808
+  },
+  {
+   "name": "EXTRA: Laborratory",
+   "desc": "Find 33 Rosaries.",
+   "hidden": false,
+   "pct": 23.5,
+   "api_name": "FindManyRosaries",
+   "internal_key": 1809
+  },
+  {
+   "name": "EXTRA: Santa Javelin",
+   "desc": "Get Santa Javelin to level 7.",
+   "hidden": false,
+   "pct": 13.2,
+   "api_name": "GetJavelinToLevel7",
+   "internal_key": 1810
+  },
+  {
+   "name": "EXTRA: Seraphic Cry",
+   "desc": "Evolve the Santa Javelin.",
+   "hidden": false,
+   "pct": 12.0,
+   "api_name": "EvolveJavelin",
+   "internal_key": 1811
+  },
+  {
+   "name": "EXTRA: Santa Ladonna",
+   "desc": "Survive 20 minutes in Laborratory.",
+   "hidden": false,
+   "pct": 13.2,
+   "api_name": "Survive20MinutesInLaborratory",
+   "internal_key": 1812
+  },
+  {
+   "name": "EXTRA: Arma Dio",
+   "desc": "Find an Arma Dio.",
+   "hidden": false,
+   "pct": 16.8,
+   "api_name": "FindAnArmaDio",
+   "internal_key": 1813
+  },
+  {
+   "name": "EXTRA: Carlo Cart",
+   "desc": "Deal a total of 25120 damage with the Laborratory Train. ",
+   "hidden": false,
+   "pct": 11.1,
+   "api_name": "HitManyEnemiesWithTrain",
+   "internal_key": 1814
+  },
+  {
+   "name": "EXTRA: Seal III",
+   "desc": "Banish 40 or more weapons in a single run.",
+   "hidden": false,
+   "pct": 5.2,
+   "api_name": "Banish40Items",
+   "internal_key": 1815
+  },
+  {
+   "name": "EXTRA: A Garlic Paradise",
+   "desc": "Complete once the adventure A Garlic Paradise.",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "CompleteAdv_AGarlicParadise",
+   "internal_key": 1816
+  },
+  {
+   "name": "EXTRA: World of Light and Dark",
+   "desc": "Complete once the adventure World of Light and Dark.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "CompleteAdv_WorldOfLightAndDark",
+   "internal_key": 1817
+  },
+  {
+   "name": "EXTRA: Room 1665",
+   "desc": "Dare to cast the spell ",
+   "hidden": false,
+   "pct": 6.6,
+   "api_name": "CastForbiddenBox",
+   "internal_key": 1818
+  },
+  {
+   "name": "EXTRA: Darkasso",
+   "desc": "Be embraced by the Darkasso.",
+   "hidden": false,
+   "pct": 6.1,
+   "api_name": "ObtainDarkasso",
+   "internal_key": 1819
+  },
+  {
+   "name": "EXTRA: VI - Moonlight Bolero",
+   "desc": "Be embraced by the Darkasso.",
+   "hidden": false,
+   "pct": 6.1,
+   "api_name": "Dark_06Darkasso",
+   "internal_key": 1820
+  },
+  {
+   "name": "EXTRA: I - Sapphire Mist",
+   "desc": "Reach a Cooldown bonus of -85% with Space Dude.",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "Dark_01SpaceDude",
+   "internal_key": 1821
+  },
+  {
+   "name": "EXTRA: X - Hail from the Future",
+   "desc": "Trigger a Weird Souls Purifier with Santa Ladonna.",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "Dark_10Santa",
+   "internal_key": 1822
+  },
+  {
+   "name": "EXTRA: XII - Crystal Cries",
+   "desc": "Trigger a Starry Heavens with She-Moon Eeta.",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "Dark_12Shemoon",
+   "internal_key": 1823
+  },
+  {
+   "name": "EXTRA: XXI - Wandering the Jet Black",
+   "desc": "Reach 665 Max Health with Bat Robbert.",
+   "hidden": false,
+   "pct": 3.6,
+   "api_name": "Dark_21Robert",
+   "internal_key": 2560
+  },
+  {
+   "name": "EXTRA: Hyper The Coop",
+   "desc": "Find 500 Floor Chickens.",
+   "hidden": false,
+   "pct": 15.8,
+   "api_name": "FindManyChickens",
+   "internal_key": 2563
+  },
+  {
+   "name": "EXTRA: Parm Aegis",
+   "desc": "Find a Parm Aegis in The Coop.",
+   "hidden": false,
+   "pct": 10.9,
+   "api_name": "FindAParmAegis",
+   "internal_key": 2564
+  },
+  {
+   "name": "EXTRA: Game Speed Modifier",
+   "desc": "Find the Roast chicken with a clock in the middle at the end of The Coop.",
+   "hidden": false,
+   "pct": 8.2,
+   "api_name": "FindChickenClock",
+   "internal_key": 2565
+  },
+  {
+   "name": "EXTRA: Gaze of Gaea",
+   "desc": "Defeat 0 enemies in The Coop.",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "Defeat0EnemiesInCoop",
+   "internal_key": 2566
+  },
+  {
+   "name": "EXTRA: Gazebo",
+   "desc": "Survive 20 minutes in The Coop.",
+   "hidden": false,
+   "pct": 7.2,
+   "api_name": "EvolveOfGaea",
+   "internal_key": 2567
+  },
+  {
+   "name": "EXTRA: III - Hidden Anathema",
+   "desc": "Eat as much as possible with Gazebo.",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "Dark_03Gazebo",
+   "internal_key": 2568
+  },
+  {
+   "name": "EXTRA: Seal All",
+   "desc": "Banish 80 or more weapons in a single run.",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "Banish80Items",
+   "internal_key": 2569
+  },
+  {
+   "name": "EXTRA: To End An Ice Age",
+   "desc": "Complete once the adventure To End An Ice Age.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "CompleteAdv_ToEndAnIceAge",
+   "internal_key": 2570
+  },
+  {
+   "name": "EXTRA: Embrace of Gaea",
+   "desc": "Evolve the Gaze of Gaea.",
+   "hidden": false,
+   "pct": 6.4,
+   "api_name": "EvolveOfGaea_Fix",
+   "internal_key": 2577
+  },
+  {
+   "name": "EXTRA: Westwoods",
+   "desc": "Find 23 Little Clovers.",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "FindManyClovers",
+   "internal_key": 2578
+  },
+  {
+   "name": "EXTRA: Chula-Reh",
+   "desc": "Survive 20 minutes in Westwoods. ",
+   "hidden": false,
+   "pct": 6.5,
+   "api_name": "Survive20minutesInWestwoods",
+   "internal_key": 2579
+  },
+  {
+   "name": "EXTRA: Karoma's Mana",
+   "desc": "Find a Karoma's Mana in Westwoods.",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "FindKaromasMana",
+   "internal_key": 2580
+  },
+  {
+   "name": "EXTRA: Masquerade",
+   "desc": "Find the Masquerade Relic in Westwoods.",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "FindMasquerade",
+   "internal_key": 2581
+  },
+  {
+   "name": "EXTRA: Magi-Stone",
+   "desc": "Get Magi-Stone To Level 7.",
+   "hidden": false,
+   "pct": 6.4,
+   "api_name": "GetMagiStoneToLevel7",
+   "internal_key": 2582
+  },
+  {
+   "name": "EXTRA: Kyra-Stones",
+   "desc": "Evolve the Magi-Stone.",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "EvolveMagiStone",
+   "internal_key": 2583
+  },
+  {
+   "name": "EXTRA: XIII - Call of a Mad Moon",
+   "desc": "Reach +999% Luck with Chula-Reh.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "Dark_13Chula",
+   "internal_key": 2584
+  },
+  {
+   "name": "EXTRA: Mazerella",
+   "desc": "Reach Level 80 in Inverse Dairy Plant.",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "ReachLV80InverseWarehouse",
+   "internal_key": 2585
+  },
+  {
+   "name": "EXTRA: Chaos Lazulia",
+   "desc": "Find the Chaos Lazulia in Mazerella.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "FindChaosLazulia",
+   "internal_key": 2586
+  },
+  {
+   "name": "EXTRA: Preserve",
+   "desc": "Find the Wax Fetish in Mazerella.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "FindRecycle",
+   "internal_key": 2587
+  },
+  {
+   "name": "EXTRA: Ammo Appalate",
+   "desc": "Defeat a total of 251096 Shooting Enemies.",
+   "hidden": false,
+   "pct": 10.8,
+   "api_name": "DefeatShootingEnemies",
+   "internal_key": 2588
+  },
+  {
+   "name": "EXTRA: Zi'Appunta Belpaese",
+   "desc": "Evolve the Ammo Appalate.",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "EvolveAmmoAppalate",
+   "internal_key": 2589
+  },
+  {
+   "name": "EXTRA: V - Pale Diamond Incursion",
+   "desc": "Find 10 Treasure Chests from Zi'Appunta's ability in a single run.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "Dark_05Appunta",
+   "internal_key": 2590
+  },
+  {
+   "name": "EXTRA: XVIII - Victorian Horror",
+   "desc": "Survive 30 minutes with no weapons in Inverse Green Acres.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "Dark_18Challenge",
+   "internal_key": 2591
+  },
+  {
+   "name": "Miang",
+   "desc": "Find and open the coffin in Mt.Moonspell.",
+   "hidden": false,
+   "pct": 49.2,
+   "api_name": "MOON01_FindCoffin",
+   "internal_key": 1299
+  },
+  {
+   "name": "Silver Wind",
+   "desc": "Survive 15 minutes with Miang Moonspell.",
+   "hidden": false,
+   "pct": 48.7,
+   "api_name": "MOON02_Survive15Miang",
+   "internal_key": 1300
+  },
+  {
+   "name": "Menya",
+   "desc": "Evolve the Silver Wind.",
+   "hidden": false,
+   "pct": 47.6,
+   "api_name": "MOON03_EvolveSilverWind",
+   "internal_key": 1301
+  },
+  {
+   "name": "Four Seasons",
+   "desc": "Survive 15 minutes with Menya Moonspell.",
+   "hidden": false,
+   "pct": 39.7,
+   "api_name": "MOON04_Survive15Menya",
+   "internal_key": 1302
+  },
+  {
+   "name": "Syuuto",
+   "desc": "Evolve the Four Seasons.",
+   "hidden": false,
+   "pct": 42.2,
+   "api_name": "MOON05_EvolveFourSeasons",
+   "internal_key": 1303
+  },
+  {
+   "name": "Summon Night",
+   "desc": "Survive 15 minutes with Syuuto Moonspell.",
+   "hidden": false,
+   "pct": 35.6,
+   "api_name": "MOON06_Survive15Syuuto",
+   "internal_key": 1304
+  },
+  {
+   "name": "Babi-Onna",
+   "desc": "Evolve the Summon Night.",
+   "hidden": false,
+   "pct": 40.4,
+   "api_name": "MOON07_EvolveSummonNight",
+   "internal_key": 1305
+  },
+  {
+   "name": "Mirage Robe",
+   "desc": "Survive 15 minutes with Babi-Onna.",
+   "hidden": false,
+   "pct": 31.5,
+   "api_name": "MOON08_Survive15BabiOnna",
+   "internal_key": 1306
+  },
+  {
+   "name": "McCoy-Oni",
+   "desc": "Evolve the Mirage Robe.",
+   "hidden": false,
+   "pct": 35.8,
+   "api_name": "MOON09_EvolveMirageRobe",
+   "internal_key": 1307
+  },
+  {
+   "name": "108 Bocce",
+   "desc": "Survive 15 minutes with McCoy-Oni.",
+   "hidden": false,
+   "pct": 28.6,
+   "api_name": "MOON10_Survive15McCoy",
+   "internal_key": 1308
+  },
+  {
+   "name": "Megalo Menya",
+   "desc": "Defeat 100000 enemies in a single run with Menya Moonspell.",
+   "hidden": false,
+   "pct": 26.1,
+   "api_name": "MOON11_Defeat100kVanya",
+   "internal_key": 1309
+  },
+  {
+   "name": "Megalo Syuuto",
+   "desc": "Defeat 100000 enemies in a single run with Syuuto Moonspell.",
+   "hidden": false,
+   "pct": 24.7,
+   "api_name": "MOON12_Defeat100kVadjouel",
+   "internal_key": 1310
+  },
+  {
+   "name": "Gav'Et-Oni",
+   "desc": "Defeat 6000 Kappa.",
+   "hidden": false,
+   "pct": 22.6,
+   "api_name": "MOON13_Defeat6kWater",
+   "internal_key": 1311
+  },
+  {
+   "name": "Night Sword",
+   "desc": "Find a Night Sword.",
+   "hidden": false,
+   "pct": 54.9,
+   "api_name": "MOON14_FindNightSword",
+   "internal_key": 1536
+  },
+  {
+   "name": "Muramasa",
+   "desc": "Evolve the Night Sword.",
+   "hidden": false,
+   "pct": 43.6,
+   "api_name": "MOON15_EvolveNightSword",
+   "internal_key": 1537
+  },
+  {
+   "name": "Hyper Mt.Moonspell",
+   "desc": "Defeat the Orochimario in Mt.Moonspell.",
+   "hidden": false,
+   "pct": 45.0,
+   "api_name": "MOON16_DefeatBossRuins",
+   "internal_key": 1538
+  },
+  {
+   "name": "Boo Roo Boolle",
+   "desc": "Evolve the Mille Bolle Blu.",
+   "hidden": false,
+   "pct": 25.7,
+   "api_name": "MOON17_EvolveBubbles",
+   "internal_key": 1539
+  },
+  {
+   "name": "Mt.Moonspell Map",
+   "desc": "Find the Mt.Moonspell Map.",
+   "hidden": false,
+   "pct": 47.8,
+   "api_name": "MOON18_FindMap_Moonspell",
+   "internal_key": 1793
+  },
+  {
+   "name": "Eleanor Uziron",
+   "desc": "Find and open the coffin in Lake Foscari.",
+   "hidden": false,
+   "pct": 48.9,
+   "api_name": "FOSC01_FindCoffin",
+   "internal_key": 1544
+  },
+  {
+   "name": "SpellString",
+   "desc": "Survive 15 minutes with Eleanor Uziron.",
+   "hidden": false,
+   "pct": 42.3,
+   "api_name": "FOSC02_Survive15Eleanor",
+   "internal_key": 1545
+  },
+  {
+   "name": "SpellStream",
+   "desc": "Get SpellStream to Level 6.",
+   "hidden": false,
+   "pct": 43.4,
+   "api_name": "FOSC03_GetStreamToLevel6",
+   "internal_key": 1546
+  },
+  {
+   "name": "SpellStrike",
+   "desc": "Get SpellStrike to Level 6.",
+   "hidden": false,
+   "pct": 43.1,
+   "api_name": "FOSC04_GetStrikeToLevel6",
+   "internal_key": 1547
+  },
+  {
+   "name": "Maruto Cuts",
+   "desc": "Unite SpellString, SpellStream, and SpellStrike.",
+   "hidden": false,
+   "pct": 42.0,
+   "api_name": "FOSC05_UniteSpells",
+   "internal_key": 1548
+  },
+  {
+   "name": "Eskizzibur",
+   "desc": "Survive 15 minutes with Maruto Cuts.",
+   "hidden": false,
+   "pct": 37.2,
+   "api_name": "FOSC06_Survive15Viktor",
+   "internal_key": 1549
+  },
+  {
+   "name": "Keitha Muort",
+   "desc": "Evolve the Eskizzibur.",
+   "hidden": false,
+   "pct": 37.0,
+   "api_name": "FOSC07_EvolveEskizzibur",
+   "internal_key": 1550
+  },
+  {
+   "name": "Flash Arrow",
+   "desc": "Survive 15 minutes with Keitha Muort.",
+   "hidden": false,
+   "pct": 32.2,
+   "api_name": "FOSC08_Survive15Keira",
+   "internal_key": 1551
+  },
+  {
+   "name": "Millionaire",
+   "desc": "Evolve the Flash Arrow.",
+   "hidden": false,
+   "pct": 32.4,
+   "api_name": "FOSC09_EvolveFlashArrow",
+   "internal_key": 1552
+  },
+  {
+   "name": "Abyss Foscari",
+   "desc": "With Keitha, break the Seal of the Lake.",
+   "hidden": false,
+   "pct": 27.3,
+   "api_name": "FOSC10_BreakSeal1",
+   "internal_key": 1553
+  },
+  {
+   "name": "Luminaire Foscari",
+   "desc": "With Maruto, break the Seal of the Abyss.",
+   "hidden": false,
+   "pct": 26.0,
+   "api_name": "FOSC11_BreakSeal2",
+   "internal_key": 1554
+  },
+  {
+   "name": "Genevieve Gruyère",
+   "desc": "With Eleanor, break the Seal of the Banished.",
+   "hidden": false,
+   "pct": 24.8,
+   "api_name": "FOSC12_BreakSeal3",
+   "internal_key": 1555
+  },
+  {
+   "name": "Prismatic Missile",
+   "desc": "Survive 15 minutes with Luminaire Foscari.",
+   "hidden": false,
+   "pct": 24.2,
+   "api_name": "FOSC13_Survive15Luminaire",
+   "internal_key": 1556
+  },
+  {
+   "name": "Luminaire",
+   "desc": "Evolve the Prismatic Missile.",
+   "hidden": false,
+   "pct": 28.3,
+   "api_name": "FOSC14_EvolvePrismatic",
+   "internal_key": 1557
+  },
+  {
+   "name": "Shadow Servant",
+   "desc": "Survive 15 minutes with Genevieve Gruyère.",
+   "hidden": false,
+   "pct": 26.0,
+   "api_name": "FOSC15_Survive15Genevieve",
+   "internal_key": 1558
+  },
+  {
+   "name": "Ophion",
+   "desc": "Evolve the Shadow Servant.",
+   "hidden": false,
+   "pct": 26.2,
+   "api_name": "FOSC16_EvolveShadow",
+   "internal_key": 1559
+  },
+  {
+   "name": "Je-Ne-Viv",
+   "desc": "Defeat 100000 enemies in a single run with Genevieve Gruyère.",
+   "hidden": false,
+   "pct": 22.4,
+   "api_name": "FOSC17_Defeat100kGenevieve",
+   "internal_key": 1560
+  },
+  {
+   "name": "Happy Birthday",
+   "desc": "Defeat a total of 6000 Sammies.",
+   "hidden": false,
+   "pct": 22.1,
+   "api_name": "FOSC18_Defeat6kFairy",
+   "internal_key": 1561
+  },
+  {
+   "name": "Rottin'Ghoul",
+   "desc": "Defeat a total of 6000 Rotting Ghouls.",
+   "hidden": false,
+   "pct": 23.7,
+   "api_name": "FOSC19_Defeat6kHorror",
+   "internal_key": 1562
+  },
+  {
+   "name": "Hyper Lake Foscari",
+   "desc": "Defeat the Avatar of Gaea in Lake Foscari.",
+   "hidden": false,
+   "pct": 45.3,
+   "api_name": "FOSC20_DefeatBossLake",
+   "internal_key": 1563
+  },
+  {
+   "name": "Hyper Abyss Foscari",
+   "desc": "Defeat Je-Ne-Viv in Abyss Foscari.",
+   "hidden": false,
+   "pct": 23.5,
+   "api_name": "FOSC21_DefeatBossAbyss",
+   "internal_key": 1564
+  },
+  {
+   "name": "Lake Foscari Map",
+   "desc": "Find the Lake Foscari Map.",
+   "hidden": false,
+   "pct": 45.9,
+   "api_name": "FOSC22_FindMap_Foscari",
+   "internal_key": 1794
+  }
+ ]
+}

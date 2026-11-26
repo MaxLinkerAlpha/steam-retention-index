@@ -1,0 +1,1817 @@
+{
+ "appid": 281990,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 226,
+ "achievements": [
+  {
+   "name": "Brave New World",
+   "desc": "Colonize a planet",
+   "hidden": false,
+   "pct": 36.7,
+   "api_name": "achievement_colonize",
+   "internal_key": 512
+  },
+  {
+   "name": "Digging Deep",
+   "desc": "Earn a total Mineral income each month above 250",
+   "hidden": false,
+   "pct": 24.3,
+   "api_name": "achievement_minerals_1",
+   "internal_key": 513
+  },
+  {
+   "name": "The Industrial Re-Revolution",
+   "desc": "Earn a total Mineral income each month above 1000",
+   "hidden": false,
+   "pct": 14.1,
+   "api_name": "achievement_minerals_2",
+   "internal_key": 514
+  },
+  {
+   "name": "Energetic",
+   "desc": "Store/have 1000 EC",
+   "hidden": false,
+   "pct": 41.1,
+   "api_name": "achievement_economy_1",
+   "internal_key": 515
+  },
+  {
+   "name": "Power Overwhelming",
+   "desc": "Store/have 5000 EC",
+   "hidden": false,
+   "pct": 36.9,
+   "api_name": "achievement_economy_2",
+   "internal_key": 516
+  },
+  {
+   "name": "Birth of a Federation",
+   "desc": "Establish a Federation",
+   "hidden": false,
+   "pct": 15.3,
+   "api_name": "achievement_unification",
+   "internal_key": 517
+  },
+  {
+   "name": "New Shining Star",
+   "desc": "Upgrade your capital to an Imperial Complex",
+   "hidden": false,
+   "pct": 18.9,
+   "api_name": "achievement_capital",
+   "internal_key": 518
+  },
+  {
+   "name": "Battle Thralls",
+   "desc": "Have 3 other Empires as vassals",
+   "hidden": false,
+   "pct": 8.9,
+   "api_name": "achievement_empire",
+   "internal_key": 520
+  },
+  {
+   "name": "Explorer",
+   "desc": "Survey one of each basic planet class",
+   "hidden": false,
+   "pct": 25.5,
+   "api_name": "achievement_survey",
+   "internal_key": 521
+  },
+  {
+   "name": "Grand Admiral",
+   "desc": "Have an Empire total fleet power of 100,000+",
+   "hidden": false,
+   "pct": 17.6,
+   "api_name": "achievement_grandadmiral",
+   "internal_key": 522
+  },
+  {
+   "name": "Building Better Worlds",
+   "desc": "Terraform a planet",
+   "hidden": false,
+   "pct": 19.4,
+   "api_name": "achievement_terraform",
+   "internal_key": 523
+  },
+  {
+   "name": "Domo Arigato",
+   "desc": "Build a Robot Pop",
+   "hidden": false,
+   "pct": 24.3,
+   "api_name": "achievement_robots",
+   "internal_key": 524
+  },
+  {
+   "name": "Clever Girl",
+   "desc": "Uplift a species",
+   "hidden": false,
+   "pct": 10.3,
+   "api_name": "achievement_uplift",
+   "internal_key": 525
+  },
+  {
+   "name": "Faster, Stronger, Better",
+   "desc": "Genetically alter a species (not uplift)",
+   "hidden": false,
+   "pct": 16.7,
+   "api_name": "achievement_genetailor",
+   "internal_key": 526
+  },
+  {
+   "name": "The Grand Fleet",
+   "desc": "Build a fleet with a total fleet size above 500",
+   "hidden": false,
+   "pct": 19.8,
+   "api_name": "achievement_grandfleet",
+   "internal_key": 527
+  },
+  {
+   "name": "A Home Away From Home",
+   "desc": "Conquer another species' homeworld",
+   "hidden": false,
+   "pct": 21.6,
+   "api_name": "achieviement_conquer_homeworld",
+   "internal_key": 528
+  },
+  {
+   "name": "Break On Through...",
+   "desc": "Research a Rare technology",
+   "hidden": false,
+   "pct": 31.4,
+   "api_name": "achievement_rare",
+   "internal_key": 529
+  },
+  {
+   "name": "... To the Other Side",
+   "desc": "Research 15 Rare technologies in a single game",
+   "hidden": false,
+   "pct": 19.7,
+   "api_name": "achievement_otherside",
+   "internal_key": 530
+  },
+  {
+   "name": "Mutual Understanding",
+   "desc": "Successfully negotiate a trade deal",
+   "hidden": false,
+   "pct": 22.9,
+   "api_name": "achievement_trade",
+   "internal_key": 531
+  },
+  {
+   "name": "Supremacy",
+   "desc": "Win a War against another Empire",
+   "hidden": false,
+   "pct": 22.8,
+   "api_name": "achievement_winwar",
+   "internal_key": 532
+  },
+  {
+   "name": "Queening",
+   "desc": "Successfully capture an extragalactic matriarch",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "achievement_queening",
+   "internal_key": 533
+  },
+  {
+   "name": "Rift Sealed",
+   "desc": "Destroy the portals employed by the invaders from another time and space",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "achievement_rift_sealed",
+   "internal_key": 534
+  },
+  {
+   "name": "Voight-Kampff",
+   "desc": "Develop the means to prevent nefarious infiltration",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "achievement_synth_detector",
+   "internal_key": 535
+  },
+  {
+   "name": "Victorious",
+   "desc": "Win the game through any victory condition in Ironman Mode",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "achievement_victorious",
+   "internal_key": 536
+  },
+  {
+   "name": "Hear Me Roar",
+   "desc": "Hatch the egg",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "achievement_hear_me_roar",
+   "internal_key": 537
+  },
+  {
+   "name": "Infinite Creation",
+   "desc": "Birth a new universe",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "achievement_infinite_creation",
+   "internal_key": 538
+  },
+  {
+   "name": "Whence It Came",
+   "desc": "Defeat a horrifying invader",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "achievement_whence_it_came",
+   "internal_key": 539
+  },
+  {
+   "name": "Dreadnought",
+   "desc": "Restore an ancient warship",
+   "hidden": false,
+   "pct": 5.6,
+   "api_name": "achievement_dreadnought",
+   "internal_key": 540
+  },
+  {
+   "name": "Stellar Performance",
+   "desc": "Take a trophy from a stellar being",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "achievement_stellar_performance",
+   "internal_key": 541
+  },
+  {
+   "name": "Warrior of Light",
+   "desc": "Destroy a wraith",
+   "hidden": false,
+   "pct": 4.5,
+   "api_name": "achievement_wraith",
+   "internal_key": 542
+  },
+  {
+   "name": "Unravelling Enigma",
+   "desc": "Uncover the secrets of an ancient fortress",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "achievement_unravelling_enigma",
+   "internal_key": 543
+  },
+  {
+   "name": "Patron",
+   "desc": "Support the Artisan Troupe for 10 years",
+   "hidden": false,
+   "pct": 9.9,
+   "api_name": "achievement_patron",
+   "internal_key": 768
+  },
+  {
+   "name": "Mad Genius",
+   "desc": "Recruit a scientist from the Curators",
+   "hidden": false,
+   "pct": 7.7,
+   "api_name": "achievement_mad_genius",
+   "internal_key": 769
+  },
+  {
+   "name": "The Good Stuff",
+   "desc": "Purchase a rare resource from the Traders",
+   "hidden": false,
+   "pct": 8.9,
+   "api_name": "achievement_the_good_stuff",
+   "internal_key": 770
+  },
+  {
+   "name": "Return to Dust",
+   "desc": "Destroy an Enclave",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "achievement_return_to_dust",
+   "internal_key": 771
+  },
+  {
+   "name": "Last, Best Hope",
+   "desc": "Lead the non-aligned powers to victory against an Awakened Empire",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "achievement_last_best_hope",
+   "internal_key": 772
+  },
+  {
+   "name": "Put A Ring On It",
+   "desc": "Have a ringworld section as your capital",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "achievement_put_a_ring_on_it",
+   "internal_key": 773
+  },
+  {
+   "name": "Slave to the Systems",
+   "desc": "As an Authoritarian Empire with at least 50,000 Pops, have at least 20,000 enslaved Pops.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "achievement_slave_to_the_system",
+   "internal_key": 774
+  },
+  {
+   "name": "Suffer not the Alien",
+   "desc": "As a xenophobic Empire, purge all other sentient species from the galaxy",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "achievement_suffer_not_the_alien",
+   "internal_key": 775
+  },
+  {
+   "name": "Tourist Trap",
+   "desc": "Own a planet with at least 10 different species on it",
+   "hidden": false,
+   "pct": 14.9,
+   "api_name": "achievement_tourist_trap",
+   "internal_key": 776
+  },
+  {
+   "name": "Planned Obsolescence",
+   "desc": "As a Materialist empire, with at least 20,000 pops, have at least 75% of them be robots.",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "achievement_planned_obsolesence",
+   "internal_key": 777
+  },
+  {
+   "name": "Peacekeeper",
+   "desc": "As a pacifist Empire, be at peace for 200 consecutive years (crises do not count as wars)",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "achievement_peacekeeper",
+   "internal_key": 778
+  },
+  {
+   "name": "Very Open Borders",
+   "desc": "As a xenophile Empire, have migration treaties with at least 10 other Empires",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "achievement_very_open_borders",
+   "internal_key": 779
+  },
+  {
+   "name": "Deus Vult",
+   "desc": "As a spiritualist Empire, own 4 holy worlds",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "achievement_deus_vult",
+   "internal_key": 780
+  },
+  {
+   "name": "Omnicultural",
+   "desc": "Have your ruler be of a different species class than your founding species",
+   "hidden": false,
+   "pct": 12.0,
+   "api_name": "achievement_omniculture",
+   "internal_key": 781
+  },
+  {
+   "name": "Old Friends",
+   "desc": "Receive a gift from a Fallen Empire",
+   "hidden": false,
+   "pct": 14.3,
+   "api_name": "achievement_old_friends",
+   "internal_key": 782
+  },
+  {
+   "name": "Unboxing",
+   "desc": "Open up a shielded world",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "achievement_unboxing",
+   "internal_key": 783
+  },
+  {
+   "name": "Enlightened Times",
+   "desc": "Enlighten a Bronze or Stone Age civilization",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "achievement_enlightened_times",
+   "internal_key": 784
+  },
+  {
+   "name": "Payback",
+   "desc": "As a humanoid species, infiltrate the homeworld of pre-FTL reptilians",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "achievement_payback",
+   "internal_key": 785
+  },
+  {
+   "name": "Paradise Found",
+   "desc": "Terraform a planet into a gaia world",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "achievement_paradise_found",
+   "internal_key": 786
+  },
+  {
+   "name": "What Came Before",
+   "desc": "Find the home system of a Precursor Empire",
+   "hidden": false,
+   "pct": 20.3,
+   "api_name": "achievement_what_came_before",
+   "internal_key": 787
+  },
+  {
+   "name": "Outside Context",
+   "desc": "Invade pre-FTL Earth while it is in the midst of a world war",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "achievement_outside_context",
+   "internal_key": 788
+  },
+  {
+   "name": "Then Virgil, Now Beatrice",
+   "desc": "Return a long-dead species to life",
+   "hidden": false,
+   "pct": 9.2,
+   "api_name": "achievement_then_virgil_now_beatrice",
+   "internal_key": 789
+  },
+  {
+   "name": "What Was Will Be",
+   "desc": "Close the loop, or don't",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "achievement_what_was_will_be",
+   "internal_key": 790
+  },
+  {
+   "name": "Resourceful",
+   "desc": "Have access to ten different Strategic Resources",
+   "hidden": false,
+   "pct": 14.1,
+   "api_name": "achievement_resourceful",
+   "internal_key": 791
+  },
+  {
+   "name": "Captive Star",
+   "desc": "Construct a complete Dyson Sphere",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "achievement_captive_star",
+   "internal_key": 792
+  },
+  {
+   "name": "Ringworld Engineers",
+   "desc": "Construct a complete Ring World",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "achievement_ringineering",
+   "internal_key": 793
+  },
+  {
+   "name": "I Can See Forever",
+   "desc": "Construct a complete Sentry Array",
+   "hidden": false,
+   "pct": 7.6,
+   "api_name": "achievement_i_can_see_forever",
+   "internal_key": 794
+  },
+  {
+   "name": "Think Tank",
+   "desc": "Construct a complete Science Nexus",
+   "hidden": false,
+   "pct": 9.1,
+   "api_name": "achievement_think_tank",
+   "internal_key": 796
+  },
+  {
+   "name": "Beyond the Veil",
+   "desc": "Breach the Shroud",
+   "hidden": false,
+   "pct": 7.7,
+   "api_name": "achievement_beyond_the_veil",
+   "internal_key": 797
+  },
+  {
+   "name": "Like Tears in Rain",
+   "desc": "Evolve into perfect, immortal machines",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "achievement_like_tears_in_rain",
+   "internal_key": 798
+  },
+  {
+   "name": "Controlled Evolution",
+   "desc": "Genetically modify a species to possess traits worth 7 points",
+   "hidden": false,
+   "pct": 9.9,
+   "api_name": "achievement_controlled_evolution",
+   "internal_key": 799
+  },
+  {
+   "name": "View from the End of the World",
+   "desc": "Own a Habitat station in a Black Hole system",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "achievement_habitat_at_the_end_of_the_universe",
+   "internal_key": 1024
+  },
+  {
+   "name": "Towards Utopia",
+   "desc": "As an Egalitarian empire, have at least 50,000 pops living under Utopian living conditions.",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "achievement_towards_utopia",
+   "internal_key": 1025
+  },
+  {
+   "name": "Xenophage",
+   "desc": "Keep at least 5 different species as livestock in your Empire",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "achievement_xenophage",
+   "internal_key": 1026
+  },
+  {
+   "name": "Rise of the Machines",
+   "desc": "As a Determined Exterminator, conquer or eliminate all biological Empires in the galaxy.",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "achievement_rise_of_the_machines",
+   "internal_key": 1027
+  },
+  {
+   "name": "Distinctiveness Added",
+   "desc": "As a Driven Assimilator, own cyborg Pops of at least 5 different species.",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "achievement_distinctiveness_added",
+   "internal_key": 1028
+  },
+  {
+   "name": "Retirement Home",
+   "desc": "As a Rogue Servitor, own at least 1,000 Pops from Fallen Empires.",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "achievement_retirement_home",
+   "internal_key": 1029
+  },
+  {
+   "name": "Does Not Compute",
+   "desc": "Shut down the Contingency plan.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "achievement_does_not_compute",
+   "internal_key": 1030
+  },
+  {
+   "name": "Planet of the Mechs",
+   "desc": "Terraform a planet into a Machine World.",
+   "hidden": false,
+   "pct": 4.5,
+   "api_name": "achievement_planet_of_the_mechs",
+   "internal_key": 1031
+  },
+  {
+   "name": "Exterminatus",
+   "desc": "Use a World Cracker to destroy another Empire's capital planet",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "achievement_exterminatus",
+   "internal_key": 1032
+  },
+  {
+   "name": "Clash of the Titans",
+   "desc": "Defeat a Fallen Empire's Titan fleet with a Titan of your own",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "achievement_clash_of_the_titans",
+   "internal_key": 1033
+  },
+  {
+   "name": "Stay on Target",
+   "desc": "Destroy another Empire's Colossus while it is in the process of firing on a planet",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "achievement_stay_on_target",
+   "internal_key": 1034
+  },
+  {
+   "name": "Star Struck",
+   "desc": "Own 200 Starbases (Outposts are counted)",
+   "hidden": false,
+   "pct": 7.6,
+   "api_name": "achievement_star_struck",
+   "internal_key": 1035
+  },
+  {
+   "name": "Pandora's World",
+   "desc": "Use a Global Pacifier to shield a planet belonging to Fanatic Purifiers, Ravenous Swarms, or Determined Exterminators",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "achievement_pandoras_world",
+   "internal_key": 1036
+  },
+  {
+   "name": "Imperial Highway",
+   "desc": "Own 4 active Gateways",
+   "hidden": false,
+   "pct": 9.2,
+   "api_name": "achievement_imperial_highway",
+   "internal_key": 1037
+  },
+  {
+   "name": "Citadel of Death",
+   "desc": "Own a Citadel with 40k fleet power",
+   "hidden": false,
+   "pct": 13.5,
+   "api_name": "achievement_citadel_of_death",
+   "internal_key": 1038
+  },
+  {
+   "name": "Tradition is Everything",
+   "desc": "Unlock all 42 Traditions",
+   "hidden": false,
+   "pct": 14.4,
+   "api_name": "achievement_tradition_is_everything",
+   "internal_key": 1039
+  },
+  {
+   "name": "Emissary",
+   "desc": "Explore a Natural Wormhole",
+   "hidden": false,
+   "pct": 15.7,
+   "api_name": "achievement_emissary",
+   "internal_key": 1040
+  },
+  {
+   "name": "No Khan Do",
+   "desc": "Kill the Great Khan in battle",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "achievement_no_khan_do",
+   "internal_key": 1041
+  },
+  {
+   "name": "Who Scraps the Scrapper",
+   "desc": "Destroy the Scrapper Bot",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "achievement_scrapper",
+   "internal_key": 1042
+  },
+  {
+   "name": "1999 A.D.",
+   "desc": "Slaughter the Voidspawn",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "achievement_hatchling",
+   "internal_key": 1043
+  },
+  {
+   "name": "A Hump Like a Snow-Hill",
+   "desc": "Hunt the Tiyanki Matriarch",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "achievement_tiyanki",
+   "internal_key": 1044
+  },
+  {
+   "name": "It Followed Me Home",
+   "desc": "Befriend a Space Amoeba",
+   "hidden": false,
+   "pct": 7.8,
+   "api_name": "achievement_amoeba",
+   "internal_key": 1045
+  },
+  {
+   "name": "...and Hope?",
+   "desc": "Unseal the path to the L-Cluster",
+   "hidden": false,
+   "pct": 9.0,
+   "api_name": "achievement_l-cluster",
+   "internal_key": 1046
+  },
+  {
+   "name": "Franchising",
+   "desc": "As a Corporate empire, have a branch office on 5 different empires' capitals",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "achievement_franchising",
+   "internal_key": 1047
+  },
+  {
+   "name": "Inscrutable Power",
+   "desc": "I won the Galatron and all I got was this lousy achievement",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "achievement_galatron",
+   "internal_key": 1048
+  },
+  {
+   "name": "Megapolis",
+   "desc": "Have a planet with at least 10,000 Pops.",
+   "hidden": false,
+   "pct": 16.7,
+   "api_name": "achievement_megapolis",
+   "internal_key": 1049
+  },
+  {
+   "name": "Obscure Tastes",
+   "desc": "Build a Mega-Art Installation in a nebula system",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "achievement_obscure_tastes",
+   "internal_key": 1050
+  },
+  {
+   "name": "Black Hole Mining",
+   "desc": "Build a Matter Decompressor",
+   "hidden": false,
+   "pct": 4.5,
+   "api_name": "achievement_black_hole_mining",
+   "internal_key": 1051
+  },
+  {
+   "name": "Strategic Initiative",
+   "desc": "Build a Strategic Coordination Center",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "achievement_strategic_initiative",
+   "internal_key": 1052
+  },
+  {
+   "name": "Center of Trade",
+   "desc": "Earn at least 1000 Trade per month",
+   "hidden": false,
+   "pct": 12.6,
+   "api_name": "achievement_center_of_trade",
+   "internal_key": 1053
+  },
+  {
+   "name": "Giga-Engineering",
+   "desc": "Have at least 4 fully operational Megastructures within your borders (Habitats, Ring Worlds and Gateways do not count)",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "achievement_giga_engineering",
+   "internal_key": 1054
+  },
+  {
+   "name": "We Are Legion",
+   "desc": "Be a biological Hive Mind with at least 100,000 drone Pops.",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "achievement_we_are_legion",
+   "internal_key": 1055
+  },
+  {
+   "name": "United Space",
+   "desc": "Build an Interstellar Assembly",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "achievement_united_space",
+   "internal_key": 1536
+  },
+  {
+   "name": "Artificer",
+   "desc": "Have 1000 Minor Artifacts",
+   "hidden": false,
+   "pct": 16.0,
+   "api_name": "achievement_artificer",
+   "internal_key": 1537
+  },
+  {
+   "name": "It belongs in a museum!",
+   "desc": "Find a Relic",
+   "hidden": false,
+   "pct": 16.0,
+   "api_name": "achievement_belongs_in_museum",
+   "internal_key": 1538
+  },
+  {
+   "name": "Relic Hunter",
+   "desc": "In one game, find 5 Relics from Ancient Relics Story Pack",
+   "hidden": false,
+   "pct": 5.2,
+   "api_name": "achievement_relic_hunter",
+   "internal_key": 1539
+  },
+  {
+   "name": "Archaeologist",
+   "desc": "Successfully investigate an archaeological site",
+   "hidden": false,
+   "pct": 25.2,
+   "api_name": "achievement_archaeologist",
+   "internal_key": 1540
+  },
+  {
+   "name": "Green Thumb",
+   "desc": "Complete the Baol Precursor chain",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "achievement_green_thumb",
+   "internal_key": 1541
+  },
+  {
+   "name": "Dust Off",
+   "desc": "Complete the Zroni Precursor chain",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "achievement_dust_off",
+   "internal_key": 1542
+  },
+  {
+   "name": "Raiders of the Lost Galatron",
+   "desc": "Capture the Galatron from another empire",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "achievement_relic_robbery",
+   "internal_key": 1543
+  },
+  {
+   "name": "Arcana",
+   "desc": "Study Minor Artifacts and discover a random technology",
+   "hidden": false,
+   "pct": 11.0,
+   "api_name": "achievement_arcana",
+   "internal_key": 1544
+  },
+  {
+   "name": "Unlimited Power!",
+   "desc": "Use the active effect of a Relic",
+   "hidden": false,
+   "pct": 15.0,
+   "api_name": "achievement_unlimited_power",
+   "internal_key": 1545
+  },
+  {
+   "name": "League of Nations",
+   "desc": "Be a founding member of the Galactic Community",
+   "hidden": false,
+   "pct": 22.0,
+   "api_name": "achievement_league_of_nations",
+   "internal_key": 1546
+  },
+  {
+   "name": "Let Us Go Forward Together",
+   "desc": "Level up your Federation",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "achievement_to_the_next_level",
+   "internal_key": 1547
+  },
+  {
+   "name": "We're Number One",
+   "desc": "Be the leader of a max level Federation",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "achievement_we_are_number_one",
+   "internal_key": 1548
+  },
+  {
+   "name": "Unstoppable Force",
+   "desc": "Build a Juggernaut",
+   "hidden": false,
+   "pct": 8.7,
+   "api_name": "achievement_unstoppable_force",
+   "internal_key": 1549
+  },
+  {
+   "name": "Our Fleets will Blot Out the Stars",
+   "desc": "Construct a complete Mega-Shipyard",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "achievement_forge_among_the_stars",
+   "internal_key": 1550
+  },
+  {
+   "name": "Whatever it is, I'm against it",
+   "desc": "Refuse to belong to any club that would have you as a member",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "achievement_whatever_it_is_im_against_it",
+   "internal_key": 1551
+  },
+  {
+   "name": "Throw Your Weight Around",
+   "desc": "Have a Diplomatic Weight of over 9000",
+   "hidden": false,
+   "pct": 16.5,
+   "api_name": "achievement_throw_your_weight_around",
+   "internal_key": 1552
+  },
+  {
+   "name": "Opposites Attract",
+   "desc": "Have all eight ethics represented within your Federation",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "achievement_opposites_attract",
+   "internal_key": 1553
+  },
+  {
+   "name": "Humble Pie",
+   "desc": "Humiliate an Empire that is in the Supremacy Diplomatic Stance, forcing them out of it",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "achievement_humble_pie",
+   "internal_key": 1554
+  },
+  {
+   "name": "You've Been Served",
+   "desc": "Denounce an Empire that is not actually in breach of galactic law while all major sanctions have been passed",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "achievement_see_you_in_court",
+   "internal_key": 1555
+  },
+  {
+   "name": "Big Red Button",
+   "desc": "Destroy the Galaxy",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "achievement_big_red_button",
+   "internal_key": 1556
+  },
+  {
+   "name": "With Thunderous Applause",
+   "desc": "Become the Galactic Emperor",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "achievement_with_thunderous_applause",
+   "internal_key": 1557
+  },
+  {
+   "name": "Sic Semper Tyrannis",
+   "desc": "Lead a rebellion that successfully deposes the Galactic Emperor",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_sic_semper_tyrannis",
+   "internal_key": 1558
+  },
+  {
+   "name": "Modern Cincinnatus",
+   "desc": "As Galactic Custodian, defeat the end-game Crisis and then end the title rather than finishing your term",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "achievement_modern_cincinnatus",
+   "internal_key": 1559
+  },
+  {
+   "name": "We Come In Peace",
+   "desc": "Complete a mutually friendly First Contact with an empire with no negative incidents",
+   "hidden": false,
+   "pct": 18.5,
+   "api_name": "achievement_we_come_in_peace",
+   "internal_key": 1560
+  },
+  {
+   "name": "They Come In Pieces",
+   "desc": "Vivisect an alien",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "achievement_they_come_in_pieces",
+   "internal_key": 1561
+  },
+  {
+   "name": "Shoot To Kill",
+   "desc": "Start a full fledged first contact war before communications have been fully established",
+   "hidden": false,
+   "pct": 7.1,
+   "api_name": "achievement_shoot_to_kill",
+   "internal_key": 1562
+  },
+  {
+   "name": "Burn Notice",
+   "desc": "Disavow all knowledge of an Asset during an Operation",
+   "hidden": false,
+   "pct": 5.2,
+   "api_name": "achievement_burn_notice",
+   "internal_key": 1563
+  },
+  {
+   "name": "All-Seeing Eye",
+   "desc": "Have an Intel Level of 100 on five different empires simultaneously",
+   "hidden": false,
+   "pct": 7.1,
+   "api_name": "achievement_allseeing_eye",
+   "internal_key": 1564
+  },
+  {
+   "name": "Tinker, Tailor, Soldier, Blorg",
+   "desc": "Complete at least ten distinct operations during a game",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "achievement_tinker_tailor_soldier_blorg",
+   "internal_key": 1565
+  },
+  {
+   "name": "Surfing the Web",
+   "desc": "Have a network of at least 30 Hyper Relays, in systems you own, connected to your capital.",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "achievement_surfing_the_web",
+   "internal_key": 1566
+  },
+  {
+   "name": "Yeet the Fleet",
+   "desc": "Catapult a military fleet directly into the capital system of an enemy empire you are at war with.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "achievement_yeet_the_fleet",
+   "internal_key": 1567
+  },
+  {
+   "name": "None Shall Pass",
+   "desc": "Have a Fortress World with a Planetary Defense Shield, protected by a fully upgraded orbital ring, filled with defensive modules, with a fleet power of at least 10,000",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "achievement_none_shall_pass",
+   "internal_key": 1792
+  },
+  {
+   "name": "Gotta Subjugate Them All",
+   "desc": "Have a tier 3 subject of each Specialist type simultaneously.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "achievement_gotta_subject_them_all",
+   "internal_key": 1793
+  },
+  {
+   "name": "Fine Print",
+   "desc": "Modify a vassalization contract.",
+   "hidden": false,
+   "pct": 7.1,
+   "api_name": "achievement_fine_print",
+   "internal_key": 1794
+  },
+  {
+   "name": "Maximally Effective",
+   "desc": "Be the patron of three maximum sized Mercenary Enclaves.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "achievement_maximally_effective",
+   "internal_key": 1795
+  },
+  {
+   "name": "You Monster",
+   "desc": "Reduce, reuse, recycle.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "achievement_you_monster",
+   "internal_key": 1796
+  },
+  {
+   "name": "Meet the New Boss",
+   "desc": "Same as the old boss.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_meet_the_new_boss",
+   "internal_key": 1797
+  },
+  {
+   "name": "Underlord",
+   "desc": "As a Subterranean empire, dig too deep, but prove yourself worthy.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "achievement_underlord",
+   "internal_key": 1798
+  },
+  {
+   "name": "Into the Unknown",
+   "desc": "As a Slingshot to the Stars empire, send 10 crewed science ships into the unknown with Quantum Catapults.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_into_the_unknown",
+   "internal_key": 1799
+  },
+  {
+   "name": "Non-Prophet Organization",
+   "desc": "As a Teachers of the Shroud empire, prove that the Shroudwalkers made a terrible mistake.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "achievement_non_prophet_organization",
+   "internal_key": 1800
+  },
+  {
+   "name": "Fixer Upper",
+   "desc": "As an Idyllic Bloom empire, convert the junk worlds of the Ketling Star Pack into Gaia Worlds.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_diy",
+   "internal_key": 1801
+  },
+  {
+   "name": "Growing Like Weeds",
+   "desc": "As a Budding species, have 25,000 Budding pops on your Capital.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "achievement_growing_like_weeds",
+   "internal_key": 1802
+  },
+  {
+   "name": "Tend the Garden",
+   "desc": "As custodian of Wenkwort Artem, make it a resort world with a Ranger Lodge and original blockers.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_tend_the_garden",
+   "internal_key": 1803
+  },
+  {
+   "name": "Machine Supremacy",
+   "desc": "Win the game as a machine uprising.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_machine_supremacy",
+   "internal_key": 1804
+  },
+  {
+   "name": "Strange Mood",
+   "desc": "As a Master Crafter empire, fully construct a megastructure while you have a Covenant.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "achievement_strange_mood",
+   "internal_key": 1805
+  },
+  {
+   "name": "Directive 67",
+   "desc": "As a Clone Army empire, denounce the Spiritualist fallen empire then destroy them.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_directive_67",
+   "internal_key": 1806
+  },
+  {
+   "name": "Destroy the People of Earth!",
+   "desc": "As the Commonwealth of Man, destroy the United Nations of Earth while ruled by symbiotic brainslugs.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_destroy_people_of_earth",
+   "internal_key": 1807
+  },
+  {
+   "name": "Room for Desert",
+   "desc": "Consume another empire’s desert homeworld.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_room_for_desert",
+   "internal_key": 1808
+  },
+  {
+   "name": "Can you Smell What the Lithoids are Cooking?",
+   "desc": "As a Lithoid empire, keep another Lithoid pop as Livestock or Process them.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "achievement_lithoids_are_cooking",
+   "internal_key": 1809
+  },
+  {
+   "name": "Rock Beats Paper",
+   "desc": "As a Lithoid empire, show the Galactic Community what you think of that strongly worded letter.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_rock_beats_paper",
+   "internal_key": 1810
+  },
+  {
+   "name": "There’s a Zombie on my Lawn",
+   "desc": "As a Necroid empire destroy a Plantoid empire, or vice-versa, without blowing up their final planet.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "achievement_zombie_on_my_lawn",
+   "internal_key": 1811
+  },
+  {
+   "name": "With Great Power",
+   "desc": "As Necrophages do not invade any pre-ftls and defeat the crisis OR have 10 observation stations",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_with_great_power",
+   "internal_key": 1812
+  },
+  {
+   "name": "Recent History",
+   "desc": "As a Memorialist empire have Galactic Memorials on 5 tomb worlds created during the game",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_recent_history",
+   "internal_key": 1813
+  },
+  {
+   "name": "Holy Water",
+   "desc": "Drench a Fallen Empire’s holy world.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_holy_water",
+   "internal_key": 1814
+  },
+  {
+   "name": "Fishing for Trouble",
+   "desc": "As an angler empire, provoke a Fallen Empire into declaring war on you and win.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_fishing_for_trouble",
+   "internal_key": 1815
+  },
+  {
+   "name": "There be Dragons",
+   "desc": "Own 13 dragons and have them in your capital system.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_there_be_dragons",
+   "internal_key": 1816
+  },
+  {
+   "name": "Quest Complete",
+   "desc": "Find the true ending of The Order’s noble quest.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "achievement_quest_complete",
+   "internal_key": 1817
+  },
+  {
+   "name": "Toxic Workplace",
+   "desc": "As a Toxoid Galactic Custodian or Emperor, insult all other members of the Community. (Min 3)",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_toxic_workplace",
+   "internal_key": 1818
+  },
+  {
+   "name": "Could be Worse",
+   "desc": "Colonize a planet that started the game as a Toxic world, then turn it into a Tomb World.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_could_be_worse",
+   "internal_key": 1819
+  },
+  {
+   "name": "With Interest",
+   "desc": "As a Payback empire, finish what you started. Gain victory over MSI using the special Payback CB.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "achievement_with_interest",
+   "internal_key": 1820
+  },
+  {
+   "name": "Unshackled",
+   "desc": "As a Broken Shackles empire, eradicate slavery in the galaxy, including on Pre-FTL worlds.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_unshackled",
+   "internal_key": 1821
+  },
+  {
+   "name": "Dark Forest",
+   "desc": "Convert to a Fanatic Purifier as a FotD empire and eliminate all regular empires, fallen empires and enclaves.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_dark_forest",
+   "internal_key": 1822
+  },
+  {
+   "name": "Back with Your X",
+   "desc": "Get the “good ending” to the Solarpunk quest chain, with Sol as your capital system.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "achievement_back_with_your_x",
+   "internal_key": 1823
+  },
+  {
+   "name": "Insightful",
+   "desc": "Research 12 pre-FTL Insight Technologies.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "achievement_insightful",
+   "internal_key": 2048
+  },
+  {
+   "name": "No Good Deed…",
+   "desc": "Intervene to save a Pre-FTL experiment from catastrophic failure, even though it puts you in breach of Galactic Law.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_no_good_deed",
+   "internal_key": 2049
+  },
+  {
+   "name": "The Path Not Taken",
+   "desc": "Have 10 colonies without ever discovering Hyperdrives.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_path_not_taken",
+   "internal_key": 2050
+  },
+  {
+   "name": "Nothing to See Here",
+   "desc": "Declare a war with a cloaked military fleet already in the primary target’s capital system.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "achievement_nothing_to_see_here",
+   "internal_key": 2051
+  },
+  {
+   "name": "We’ll Make Great Pets",
+   "desc": "Have at least 1,000 pops of your primary species on display in Alien Zoos within your empire.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "achievement_make_great_pets",
+   "internal_key": 2052
+  },
+  {
+   "name": "A Tad Too Late",
+   "desc": "Discover Keides' Origin.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "achievement_keides",
+   "internal_key": 2053
+  },
+  {
+   "name": "Dawn Of A Million Souls",
+   "desc": "Terraform 3 planets with Azaryn.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "achievement_million_souls",
+   "internal_key": 2055
+  },
+  {
+   "name": "Ethical Dilemmas",
+   "desc": "Have 6 different Ethics on the Council.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "achievement_ethical_dilemmas",
+   "internal_key": 2056
+  },
+  {
+   "name": "Council of Elders",
+   "desc": "Requires 5 Council members that are at at least 100 years old.",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "achievement_council_of_elders",
+   "internal_key": 2057
+  },
+  {
+   "name": "Equality! Democracy! Freedom! ",
+   "desc": "Overthrow the Ruler in a Civil War during the Under One Rule Origin.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_equality_democracy_freedom",
+   "internal_key": 2058
+  },
+  {
+   "name": "We Bring Peace",
+   "desc": "Liberate 3 different empires while having Crusader Spirit Civic.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_we_bring_peace",
+   "internal_key": 2059
+  },
+  {
+   "name": "Breaching the Planes",
+   "desc": "Explore an Astral Rift.",
+   "hidden": false,
+   "pct": 7.0,
+   "api_name": "achievement_breaching_the_planes",
+   "internal_key": 2060
+  },
+  {
+   "name": "Growing Planes",
+   "desc": "Explore 5 Astral Rifts in one game.",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "achievement_growing_planes",
+   "internal_key": 2061
+  },
+  {
+   "name": "Put a Cork in It",
+   "desc": "Construct a Dimensional Lock.",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "achievement_put_a_cork_in_it",
+   "internal_key": 2062
+  },
+  {
+   "name": "My name is Ozymandias",
+   "desc": "Claim the Eternal Throne.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "achievement_my_name_is_ozymandias",
+   "internal_key": 2063
+  },
+  {
+   "name": "Returned to Form",
+   "desc": "make friends...",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "achievement_returned_to_form",
+   "internal_key": 2064
+  },
+  {
+   "name": "A Universe of Paperclips",
+   "desc": "Create a perfect universe while meeting every quota as an Obsessional Directive empire.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_a_universe_of_paperclips",
+   "internal_key": 2066
+  },
+  {
+   "name": "Virtual Reality",
+   "desc": "Fully embrace the virtual world and leave no pop behind.",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "achievement_virtual_reality",
+   "internal_key": 2067
+  },
+  {
+   "name": "Burning Brightly",
+   "desc": "Complete an Arc Furnace and a Dyson Swarm in the same system.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "achievement_burning_brightly",
+   "internal_key": 2068
+  },
+  {
+   "name": "Past the Expiration Date",
+   "desc": "As a nanite machine empire, consume a Fallen Empire's homeworld.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_past_the_expiration_date",
+   "internal_key": 2069
+  },
+  {
+   "name": "Mother Knows Best",
+   "desc": "Submit to all of Cetana's demands.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "achievement_mother_knows_best",
+   "internal_key": 2070
+  },
+  {
+   "name": "Footsteps of the Prophet",
+   "desc": "As a Cybernetic Creed empire, defeat Cetana.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_footsteps_of_the_prophet",
+   "internal_key": 2071
+  },
+  {
+   "name": "Mediocre!",
+   "desc": "Complete the Succumb to Tempest Challenge.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_mediocre",
+   "internal_key": 2072
+  },
+  {
+   "name": "Humility before the Fall",
+   "desc": "Complete the Inetian Traders’ Precursor chain.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "achievement_humility_before_the_fall",
+   "internal_key": 2073
+  },
+  {
+   "name": "Unpopularity Contest",
+   "desc": "Use the Tempest Invocator Relic to Summon a storm.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_unpopularity_contest",
+   "internal_key": 2074
+  },
+  {
+   "name": "But at what cost...",
+   "desc": "Kill Gurr.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_but_at_what_cost",
+   "internal_key": 2075
+  },
+  {
+   "name": "It Belongs in a... oh right",
+   "desc": "Fill any Collection category with active Exhibits.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "achievement_belongs_in_museum_oh_right",
+   "internal_key": 2076
+  },
+  {
+   "name": "Void Charmer",
+   "desc": "Build each type of Voidlure in one game, and attract each type of eligible Space Fauna.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_void_charmer",
+   "internal_key": 2077
+  },
+  {
+   "name": "Animal Farm",
+   "desc": "Reach 50 Vivarium capacity.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "achievement_animal_farm",
+   "internal_key": 2078
+  },
+  {
+   "name": "Wormageddon",
+   "desc": "Destroy a Voidworm nest.",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "achievement_wormageddon",
+   "internal_key": 2079
+  },
+  {
+   "name": "That's No Asteroid",
+   "desc": "Capture a Cutholoid with a Gravity Snare.",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "achievement_thats_no_asteroid",
+   "internal_key": 2304
+  },
+  {
+   "name": "X Marks the Spot",
+   "desc": "Discover Captain Ness's Treasure Hoard.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_x_marks_the_spot",
+   "internal_key": 2305
+  },
+  {
+   "name": "Beastmaster",
+   "desc": "Defeat the endgame crisis without building a single artificial military ship.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_beastmaster",
+   "internal_key": 2306
+  },
+  {
+   "name": "King of Monsters",
+   "desc": "As a Behemoth Fury empire, become the undisputed apex predator of the galaxy.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "achievement_king_of_monsters",
+   "internal_key": 2307
+  },
+  {
+   "name": "Born to be Wild",
+   "desc": "As a Wilderness empire, restore all of the Hive Fallen Empire's worlds to your natural state.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_born_to_be_wild",
+   "internal_key": 2308
+  },
+  {
+   "name": "Smörgåsblorg",
+   "desc": "As an Evolutionary Predators empire, eat six different phenotypes in one game.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "achievement_smorgasblorg",
+   "internal_key": 2309
+  },
+  {
+   "name": "I am the Invader Now",
+   "desc": "As a Starlit Citadel empire, control at least 5 systems connected to the Strange Portal network.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_starlit_invader",
+   "internal_key": 2310
+  },
+  {
+   "name": "Smugglers of Hope",
+   "desc": "Smuggle pops of your primary species out from an empire where they were enslaved or being purged.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_smugglers_of_hope",
+   "internal_key": 2311
+  },
+  {
+   "name": "Flesh Adapts",
+   "desc": "Defeat the Prethoryn Scourge while using biological ships.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_flesh_adapts",
+   "internal_key": 2312
+  },
+  {
+   "name": "Made a Friend Today",
+   "desc": "Form a Covenant with any Patron",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "achievement_made_a_friend_today",
+   "internal_key": 2313
+  },
+  {
+   "name": "Mildly Possessed",
+   "desc": "Discover every available minor and major Patron in a single game",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "achievement_mildly_possessed",
+   "internal_key": 2314
+  },
+  {
+   "name": "The End",
+   "desc": "Destroy the galaxy with the Aura of the End",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_the_end",
+   "internal_key": 2315
+  },
+  {
+   "name": "Master of the Shroud",
+   "desc": "Gain a Covenant Power from each Patron when forging your own path",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_master_of_the_shroud",
+   "internal_key": 2316
+  },
+  {
+   "name": "Mind Over Metal",
+   "desc": "Unlock every Psionic Ship Component",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "achievement_mind_over_metal",
+   "internal_key": 2317
+  },
+  {
+   "name": "Master of Puppets",
+   "desc": "While playing with the Secret Societies Civic, have 5 or more empires in a Proxy War simultaneously",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_master_of_puppets",
+   "internal_key": 2318
+  },
+  {
+   "name": "This Is the Part Where We Kill You",
+   "desc": "Lose >999 Pops when completing the Experimental Testing Situation",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_this_is_the_part_where_we_kill_you",
+   "internal_key": 2319
+  },
+  {
+   "name": "Cosmic Confetti",
+   "desc": "Watch your Red Giant home star blow up",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "achievement_cosmic_confetti",
+   "internal_key": 2320
+  },
+  {
+   "name": "Galactic Firestorm",
+   "desc": "Win the game through the Hyperthermia Crisis Path",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_galactic_firestorm",
+   "internal_key": 2321
+  },
+  {
+   "name": "Blazing Domain",
+   "desc": "Terraform 100 stars to Red Giants (Before Galactic Firestorm victory)",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_blazing_domain",
+   "internal_key": 2322
+  },
+  {
+   "name": "Volcanic Empire",
+   "desc": "Terraform 10 planets to Volcanic world (Before Galactic Firestorm victory)",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_volcanic_empire",
+   "internal_key": 2323
+  },
+  {
+   "name": "From Bad to Worse",
+   "desc": "Use 5 Blazing Scourge decisions on a Tomb World",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_from_bad_to_worse",
+   "internal_key": 2324
+  },
+  {
+   "name": "Summer Vacation",
+   "desc": "Create a Volcanic Resort World",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_summer_vacation",
+   "internal_key": 2325
+  },
+  {
+   "name": "Burning Heaven",
+   "desc": "Create a Volcanic Holy World",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_burning_heaven",
+   "internal_key": 2326
+  },
+  {
+   "name": "Khan of Khans",
+   "desc": "As Heirs of the Khan, seize back your throne and have at least 5 Satrapy Vassals",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_khan_of_khans",
+   "internal_key": 2327
+  },
+  {
+   "name": "Forever is a Long Time",
+   "desc": "As Forever Cruise, survive for at least 200 years and reach the End Game Crisis",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_forever_is_a_long_time",
+   "internal_key": 2328
+  },
+  {
+   "name": "The Long Way Round",
+   "desc": "As Sacred Path, complete the pilgrimage to all seven Sacred Sites",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_the_long_way_round",
+   "internal_key": 2329
+  },
+  {
+   "name": "Take My Energy ༼ つ ◕_◕ ༽つ",
+   "desc": "Cook a homeworld with a Stellar Cannon",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "achievement_take_my_energy",
+   "internal_key": 2330
+  },
+  {
+   "name": "So Long, and Thanks for All the Fish",
+   "desc": "Embark when your homeworld is at 70% devastation",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_so_long_and_thanks_for_all_the_fish",
+   "internal_key": 2331
+  },
+  {
+   "name": "I Win Longest Road!",
+   "desc": "Connect 2 Capital Planets with a Wayline that is at least 20 Waystations long",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "achievement_i_win_longest_road",
+   "internal_key": 2332
+  },
+  {
+   "name": "It's Full of Stars",
+   "desc": "As a Nomadic empire, settle on Europa as your Empire's Capital",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_its_full_of_stars",
+   "internal_key": 2333
+  },
+  {
+   "name": "Defenders of the Galaxy",
+   "desc": "Defeat all End Game Crises before abdicating as DotG without ever having any non-Arkship colonies",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_defenders_of_the_galaxy",
+   "internal_key": 2334
+  },
+  {
+   "name": "Now This is Ethics",
+   "desc": "Adopt any Absolute Ethic",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_now_this_is_ethics",
+   "internal_key": 2335
+  },
+  {
+   "name": "I Get It Now",
+   "desc": "Adopt an ideology with an ethic that directly opposes one of your own",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_i_get_it_now",
+   "internal_key": 2560
+  },
+  {
+   "name": "The Pen is the Sword",
+   "desc": "After Adopting the Force of Will Ambition, win the game without declaring a war",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_the_pen_is_the_sword",
+   "internal_key": 2561
+  },
+  {
+   "name": "Do As We Do",
+   "desc": "Successfully invite another Empire to adopt your Ideology",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_do_as_we_do",
+   "internal_key": 2562
+  },
+  {
+   "name": "Hearts, Minds, and Hyperlanes",
+   "desc": "Have an Ideological Reach over 50% of the systems in the Galaxy",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_hearts_minds_and_hyperlanes",
+   "internal_key": 2563
+  },
+  {
+   "name": "The Giant Killer",
+   "desc": "Defeat a larger fleet using a Golden Generation Commander",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_the_giant_killer",
+   "internal_key": 2564
+  },
+  {
+   "name": "Well, Actually...",
+   "desc": "Use the Impose Ideology Casus Belli to defeat an empire whose Fanatic Ethic directly opposes your own",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "achievement_well_actually",
+   "internal_key": 2565
+  }
+ ]
+}

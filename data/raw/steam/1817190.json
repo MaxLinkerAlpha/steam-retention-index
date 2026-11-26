@@ -1,0 +1,358 @@
+{
+ "appid": 1817190,
+ "game": "Marvel’s Spider-Man: Miles Morales",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 50,
+ "achievements": [
+  {
+   "api": "rhinorodeo",
+   "name": "Rhino Rodeo",
+   "desc": "",
+   "hidden": true,
+   "pct": 93.2
+  },
+  {
+   "api": "agiftfrompete",
+   "name": "A Gift From Pete",
+   "desc": "",
+   "hidden": true,
+   "pct": 90.1
+  },
+  {
+   "api": "theharlemexpress",
+   "name": "The Harlem Express",
+   "desc": "",
+   "hidden": true,
+   "pct": 81.8
+  },
+  {
+   "api": "modthatsuit",
+   "name": "Mod that Suit",
+   "desc": "Craft a Suit Mod",
+   "hidden": false,
+   "pct": 80.9
+  },
+  {
+   "api": "hangingbyathread",
+   "name": "Hanging by a Thread",
+   "desc": "",
+   "hidden": true,
+   "pct": 77.5
+  },
+  {
+   "api": "thecoreoftheproblem",
+   "name": "The Core of the Problem",
+   "desc": "",
+   "hidden": true,
+   "pct": 73.9
+  },
+  {
+   "api": "truedeception",
+   "name": "True Deception",
+   "desc": "",
+   "hidden": true,
+   "pct": 70.6
+  },
+  {
+   "api": "lookwithbettereyes",
+   "name": "Look with Better Eyes",
+   "desc": "Craft a Visor Mod",
+   "hidden": false,
+   "pct": 70.5
+  },
+  {
+   "api": "velociskates",
+   "name": "Veloci-Skates",
+   "desc": "",
+   "hidden": true,
+   "pct": 68.2
+  },
+  {
+   "api": "explodingbulldozer",
+   "name": "Exploding Bulldozer",
+   "desc": "",
+   "hidden": true,
+   "pct": 64.1
+  },
+  {
+   "api": "familydrama",
+   "name": "Family Drama",
+   "desc": "",
+   "hidden": true,
+   "pct": 62.8
+  },
+  {
+   "api": "sharedhistory",
+   "name": "Shared History",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.8
+  },
+  {
+   "api": "ultimatesacrifice",
+   "name": "Ultimate Sacrifice",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.2
+  },
+  {
+   "api": "nowheretohide",
+   "name": "Nowhere to Hide",
+   "desc": "Perform 100 Stealth Takedowns",
+   "hidden": false,
+   "pct": 57.0
+  },
+  {
+   "api": "launch,swinganddive",
+   "name": "Launch, Swing and Dive",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.2
+  },
+  {
+   "api": "comeattheking",
+   "name": "Come at the King",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.6
+  },
+  {
+   "api": "punchingpixels",
+   "name": "Punching Pixels",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.3
+  },
+  {
+   "api": "dodginglight",
+   "name": "Dodging Light",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.7
+  },
+  {
+   "api": "invisiblespider",
+   "name": "Invisible Spider",
+   "desc": "Defeat 50 enemies while Camouflaged",
+   "hidden": false,
+   "pct": 42.3
+  },
+  {
+   "api": "fromdowntown",
+   "name": "From Downtown",
+   "desc": "Use Venom Dash to throw an enemy into a group of three or more",
+   "hidden": false,
+   "pct": 41.8
+  },
+  {
+   "api": "overcharge",
+   "name": "Overcharge",
+   "desc": "Defeat 100 enemies with Venom attacks",
+   "hidden": false,
+   "pct": 40.9
+  },
+  {
+   "api": "undergroundundone",
+   "name": "Underground Undone",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.2
+  },
+  {
+   "api": "fivestarreview",
+   "name": "Five Star Review",
+   "desc": "Complete all FNSM app requests",
+   "hidden": false,
+   "pct": 36.8
+  },
+  {
+   "api": "i_monaboat",
+   "name": "I'm on a Boat",
+   "desc": "Ride the derelict boat in southern Chinatown",
+   "hidden": false,
+   "pct": 36.2
+  },
+  {
+   "api": "undertheirnoses",
+   "name": "Under Their Noses",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.9
+  },
+  {
+   "api": "spidertraining:complete",
+   "name": "Spider-Training: Complete",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.4
+  },
+  {
+   "api": "deepcuts",
+   "name": "Deep Cuts",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.4
+  },
+  {
+   "api": "pete_sfirstvillain",
+   "name": "Pete's First Villain",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.0
+  },
+  {
+   "api": "kitbash",
+   "name": "Kitbash",
+   "desc": "Craft 10 Upgrades",
+   "hidden": false,
+   "pct": 34.0
+  },
+  {
+   "api": "urbanexplorers",
+   "name": "Urban Explorers",
+   "desc": "Collect all Time Capsules",
+   "hidden": false,
+   "pct": 32.0
+  },
+  {
+   "api": "upandover",
+   "name": "Up and Over",
+   "desc": "Perform a Venom Jump, then a Venom Dash on a single enemy",
+   "hidden": false,
+   "pct": 31.9
+  },
+  {
+   "api": "memorylane",
+   "name": "Memory Lane",
+   "desc": "Collect all Postcards",
+   "hidden": false,
+   "pct": 27.8
+  },
+  {
+   "api": "likearhinoinachinashop",
+   "name": "Like a Rhino in a China Shop",
+   "desc": "Smash into 15 breakable objects while steering Rhino through the shopping mall",
+   "hidden": false,
+   "pct": 26.6
+  },
+  {
+   "api": "100xcombo!!!",
+   "name": "100x Combo!!!",
+   "desc": "Perform a 100x Combo",
+   "hidden": false,
+   "pct": 26.5
+  },
+  {
+   "api": "trapped",
+   "name": "Trapped",
+   "desc": "Defeat 50 enemies with the Remote Mine gadget",
+   "hidden": false,
+   "pct": 24.9
+  },
+  {
+   "api": "salvager",
+   "name": "Salvager",
+   "desc": "Open all Underground Caches",
+   "hidden": false,
+   "pct": 24.0
+  },
+  {
+   "api": "neversawitcoming",
+   "name": "Never Saw It Coming",
+   "desc": "Complete an Enemy Base without being detected",
+   "hidden": false,
+   "pct": 23.4
+  },
+  {
+   "api": "anewhome",
+   "name": "A New Home",
+   "desc": "100% complete all districts",
+   "hidden": false,
+   "pct": 21.4
+  },
+  {
+   "api": "competitivespirit",
+   "name": "Competitive Spirit",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.7
+  },
+  {
+   "api": "bestfriesintown",
+   "name": "Best Fries in Town",
+   "desc": "Pay your respects to a legend in the Upper West Side",
+   "hidden": false,
+   "pct": 15.8
+  },
+  {
+   "api": "readyforanything",
+   "name": "Ready for Anything",
+   "desc": "Purchase all suits",
+   "hidden": false,
+   "pct": 13.8
+  },
+  {
+   "api": "justthebeginning",
+   "name": "Just the Beginning",
+   "desc": "Unlock all Skills",
+   "hidden": false,
+   "pct": 13.3
+  },
+  {
+   "api": "fromtherafters",
+   "name": "From the Rafters",
+   "desc": "Perform 25 Ceiling Takedowns",
+   "hidden": false,
+   "pct": 13.0
+  },
+  {
+   "api": "crimemaster",
+   "name": "Crime Master",
+   "desc": "Complete all Bonus Objectives for every crime type",
+   "hidden": false,
+   "pct": 13.0
+  },
+  {
+   "api": "climbingthewalls",
+   "name": "Climbing the Walls",
+   "desc": "Perform 25 Wall Takedowns",
+   "hidden": false,
+   "pct": 12.7
+  },
+  {
+   "api": "sociallyacceptable",
+   "name": "Socially Acceptable",
+   "desc": "Scroll through the entire Social Feed at the end of the story",
+   "hidden": false,
+   "pct": 11.3
+  },
+  {
+   "api": "nevergiveup",
+   "name": "Never Give Up",
+   "desc": "Pay respects at Jefferson Davis' grave in Harlem",
+   "hidden": false,
+   "pct": 11.2
+  },
+  {
+   "api": "jjjwouldbeproud",
+   "name": "JJJ Would Be Proud",
+   "desc": "Apply a sticker and customise lighting while in Photo Mode",
+   "hidden": false,
+   "pct": 11.1
+  },
+  {
+   "api": "plusplus",
+   "name": "Plus Plus",
+   "desc": "Complete the game on New Game+",
+   "hidden": false,
+   "pct": 10.5
+  },
+  {
+   "api": "beyourself",
+   "name": "Be Yourself",
+   "desc": "Collect all Achievements",
+   "hidden": false,
+   "pct": 7.3
+  }
+ ]
+}

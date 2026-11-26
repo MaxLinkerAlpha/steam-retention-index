@@ -1,0 +1,309 @@
+{
+ "appid": 1250410,
+ "game": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+ "snapshot": "2026-11-24 17:41 +08",
+ "count": 43,
+ "achievements": [
+  {
+   "api": "1",
+   "name": "Challenge Accepted",
+   "desc": "Complete any activity.",
+   "hidden": false,
+   "pct": 62.7
+  },
+  {
+   "api": "17",
+   "name": "Deadstick Landing",
+   "desc": "After receiving landing clearance, switch off engines and successfully land on the runway.",
+   "hidden": false,
+   "pct": 33.6
+  },
+  {
+   "api": "13",
+   "name": "Light Chop",
+   "desc": "Land at an airport where windspeeds are in excess of 5 knots, without using any assistance.",
+   "hidden": false,
+   "pct": 32.1
+  },
+  {
+   "api": "4",
+   "name": "Mother Nature",
+   "desc": "Adjust the weather during a flight.",
+   "hidden": false,
+   "pct": 31.3
+  },
+  {
+   "api": "11",
+   "name": "Wheels Up, Wheels Down",
+   "desc": "Complete a non-stop flight of at least 300 miles from take-off to landing.",
+   "hidden": false,
+   "pct": 29.8
+  },
+  {
+   "api": "22",
+   "name": "Short Stuff",
+   "desc": "Land on a runway shorter than 2,000 feet, without using any assistance or bypassing any travel.",
+   "hidden": false,
+   "pct": 25.5
+  },
+  {
+   "api": "6",
+   "name": "By the Book",
+   "desc": "Request landing clearance from ATC at a towered airport, without using ATC assistance.",
+   "hidden": false,
+   "pct": 25.4
+  },
+  {
+   "api": "12",
+   "name": "Look Ma, No Hands!",
+   "desc": "Utilize autopilot for a total of 600 miles.",
+   "hidden": false,
+   "pct": 24.1
+  },
+  {
+   "api": "9",
+   "name": "Back-Up Plan",
+   "desc": "Utilize pre-flight Pushback Service to move aircraft, for a total distance of 1 mile.",
+   "hidden": false,
+   "pct": 20.6
+  },
+  {
+   "api": "21",
+   "name": "A Few Bumps",
+   "desc": "Land at an airport where windspeeds are in excess of 15 knots, without using any assistance.",
+   "hidden": false,
+   "pct": 17.7
+  },
+  {
+   "api": "15",
+   "name": "Stay on Target",
+   "desc": "Use the Instrument Landing System (ILS) to complete a landing.",
+   "hidden": false,
+   "pct": 16.5
+  },
+  {
+   "api": "18",
+   "name": "Working for the Weekend",
+   "desc": "Complete a weekly activity.",
+   "hidden": false,
+   "pct": 15.7
+  },
+  {
+   "api": "5",
+   "name": "Start Me Up",
+   "desc": "Manually start the Airbus A320neo's engines, without using Assistance.",
+   "hidden": false,
+   "pct": 14.7
+  },
+  {
+   "api": "28",
+   "name": "Pilot Program",
+   "desc": "Accumulate 50 hours of flight time in a single pilot profile.",
+   "hidden": false,
+   "pct": 12.9
+  },
+  {
+   "api": "2",
+   "name": "Fill 'er Up!",
+   "desc": "Refuel at any ground fuel station.",
+   "hidden": false,
+   "pct": 11.6
+  },
+  {
+   "api": "14",
+   "name": "On the Green",
+   "desc": "Land on a grass runway, without using any assistance.",
+   "hidden": false,
+   "pct": 10.4
+  },
+  {
+   "api": "20",
+   "name": "Road Trip",
+   "desc": "Taxi aircraft for a total distance of 100 miles.",
+   "hidden": false,
+   "pct": 10.3
+  },
+  {
+   "api": "23",
+   "name": "Uphill Climb",
+   "desc": "Land on a runway that has at least a 12 degree incline, without using any assistance.",
+   "hidden": false,
+   "pct": 8.4
+  },
+  {
+   "api": "33",
+   "name": "Century Club",
+   "desc": "Accumulate 100 hours of flight time in a single pilot profile.",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "3",
+   "name": "Rubberneck",
+   "desc": "Use the Smart Cam to view a star landmark for 3 seconds, from a distance of 550 yards or less.",
+   "hidden": false,
+   "pct": 6.2
+  },
+  {
+   "api": "38",
+   "name": "SIDs and STARs",
+   "desc": "Land at every star airport shown on the World Map.",
+   "hidden": false,
+   "pct": 6.2
+  },
+  {
+   "api": "8",
+   "name": "Service with a Smile",
+   "desc": "Request each type of pre-flight Ground Service while at an appropriate airport gate.",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "31",
+   "name": "Flights of Fancy",
+   "desc": "Complete flights of at least 300 miles using a prop, jet and airliner.",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "35",
+   "name": "Instrumental",
+   "desc": "Accumulate 50 hours of IFR flight time, including at least one take-off and landing.",
+   "hidden": false,
+   "pct": 3.6
+  },
+  {
+   "api": "34",
+   "name": "Night Owl",
+   "desc": "Accumulate 50 hours of flight time at night.",
+   "hidden": false,
+   "pct": 3.0
+  },
+  {
+   "api": "30",
+   "name": "Hydroplaning",
+   "desc": "Accumulate 50 hours of flight time in rainy weather.",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "16",
+   "name": "My Way",
+   "desc": "Complete a non-stop 300+ mile flight from parking to parking spot, without assistance.",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "42",
+   "name": "Journeyman",
+   "desc": "Accumulate 500 hours of flight time in a single pilot profile.",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "29",
+   "name": "Greased",
+   "desc": "Complete every Landing Challenge.",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "32",
+   "name": "Saddle Sore",
+   "desc": "Complete a flight of at least 8 hours with a propeller or turbo-prop aircraft.",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "7",
+   "name": "In The Wild",
+   "desc": "Use the Smart Cam to view animals for 3 seconds, from a distance of 550 yards or less.",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "25",
+   "name": "Anemoi",
+   "desc": "Complete the Balkans Bush Trip, without using any navigation assistance.",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "36",
+   "name": "Decathlon",
+   "desc": "Complete 10 weekly activities.",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "43",
+   "name": "Wing Commander",
+   "desc": "Accumulate 1,000 hours of flight time in a single pilot profile.",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "10",
+   "name": "Job Shadowing",
+   "desc": "Create a flight plan based on a Live Traffic aircraft, then fly the route without assistance.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "19",
+   "name": "Frequent Flyer Miles",
+   "desc": "Fly from LFBD airport near Asobo Studio to KSEA airport near Microsoft HQ.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "24",
+   "name": "Fire and Ice",
+   "desc": "Complete the Patagonia Bush Trip, without using any navigation assistance.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "26",
+   "name": "Goldrush",
+   "desc": "Complete the Nevada Bush Trip, without using any navigation assistance.",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "27",
+   "name": "Tour Guide",
+   "desc": "Use the Smart Cam to view 25 star landmarks, from a distance of 550 yards or less.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "37",
+   "name": "Completionist",
+   "desc": "Complete every activity.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "39",
+   "name": "Landmarks the Spot",
+   "desc": "Use the Smart Cam to view 100 star landmarks, from a distance of 550 yards or less.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "40",
+   "name": "World Traveler",
+   "desc": "Land successfully at 500 different airports.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "41",
+   "name": "Jack of All Planes",
+   "desc": "Complete a 300+ mile flight with every aircraft in the standard edition of Flight Simulator.",
+   "hidden": false,
+   "pct": 0.2
+  }
+ ]
+}

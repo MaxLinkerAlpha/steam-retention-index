@@ -1,0 +1,401 @@
+{
+ "appid": 234140,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 49,
+ "achievements": [
+  {
+   "name": "Everything Lost Again",
+   "desc": "Complete Act 01",
+   "hidden": true,
+   "pct": 76.6,
+   "api_name": "TRP_THE_FERAL_MAN",
+   "internal_key": 257
+  },
+  {
+   "name": "Wasteland of Opportunities",
+   "desc": "Complete Act 02",
+   "hidden": true,
+   "pct": 45.7,
+   "api_name": "TRP_WASTELAND_OF_OPPORTUNITIES",
+   "internal_key": 258
+  },
+  {
+   "name": "Digging a Deeper Hole",
+   "desc": "Complete Act 03",
+   "hidden": true,
+   "pct": 31.4,
+   "api_name": "TRP_THE_SIEGE",
+   "internal_key": 259
+  },
+  {
+   "name": "Power in the Machine",
+   "desc": "Complete Act 04",
+   "hidden": true,
+   "pct": 29.1,
+   "api_name": "TRP_THE_BIG_CHIEF",
+   "internal_key": 260
+  },
+  {
+   "name": "Downward Spiral Reawakening",
+   "desc": "Complete Act 05",
+   "hidden": true,
+   "pct": 27.9,
+   "api_name": "TRP_PAINT_MY_NAME_WITH_BLOOD",
+   "internal_key": 261
+  },
+  {
+   "name": "Slight Distraction",
+   "desc": "Complete the Dinki-Di Wasteland Mission",
+   "hidden": false,
+   "pct": 58.5,
+   "api_name": "TRP_SLIGHT_DISTRACTION",
+   "internal_key": 262
+  },
+  {
+   "name": "Stop and Smell the Roses",
+   "desc": "Complete all Wasteland Missions",
+   "hidden": false,
+   "pct": 17.3,
+   "api_name": "TRP_STOP_AND_SMELL_THE_ROSES",
+   "internal_key": 263
+  },
+  {
+   "name": "Golden Boy",
+   "desc": "Reach a new legend rank",
+   "hidden": false,
+   "pct": 65.2,
+   "api_name": "TRP_GOLDEN_BOY",
+   "internal_key": 264
+  },
+  {
+   "name": "Road Warrior",
+   "desc": "Reach Road Warrior legend rank",
+   "hidden": false,
+   "pct": 29.5,
+   "api_name": "TRP_ROAD_WARRIOR",
+   "internal_key": 265
+  },
+  {
+   "name": "The Quick Driver",
+   "desc": "Complete a Time Bomb Death Run",
+   "hidden": false,
+   "pct": 15.1,
+   "api_name": "TRP_THE_QUICK_DRIVER",
+   "internal_key": 266
+  },
+  {
+   "name": "The Smart Driver",
+   "desc": "Complete a Scatter Death Run",
+   "hidden": false,
+   "pct": 28.9,
+   "api_name": "TRP_THE_SMART_DRIVER",
+   "internal_key": 267
+  },
+  {
+   "name": "The Skilled Driver",
+   "desc": "Complete a Barrel Bash Death Run",
+   "hidden": false,
+   "pct": 42.2,
+   "api_name": "TRP_THE_SKILLED_DRIVER",
+   "internal_key": 268
+  },
+  {
+   "name": "Running Wild",
+   "desc": "Complete at least one race at every Death Run Location",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "TRP_RUNNING_WILD",
+   "internal_key": 269
+  },
+  {
+   "name": "The Saint",
+   "desc": "Complete a Death Run in an Archangel",
+   "hidden": false,
+   "pct": 35.5,
+   "api_name": "TRP_THE_SAINT",
+   "internal_key": 270
+  },
+  {
+   "name": "The Guardian",
+   "desc": "Successfully complete a Death Run with every Archangel",
+   "hidden": false,
+   "pct": 3.6,
+   "api_name": "TRP_THE_GUARDIAN",
+   "internal_key": 271
+  },
+  {
+   "name": "The Messenger",
+   "desc": "Complete a Death Run in legendary time with every Archangel",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "TRP_THE_MESSENGER",
+   "internal_key": 272
+  },
+  {
+   "name": "The Exiled",
+   "desc": "Defeat an enemy vehicle with every Archangel",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "TRP_THE_FALLEN",
+   "internal_key": 273
+  },
+  {
+   "name": "Start of Something Good",
+   "desc": "Clear all threat in Jeet's territory",
+   "hidden": false,
+   "pct": 28.6,
+   "api_name": "TRP_START_OF_SOMETHING_GOOD",
+   "internal_key": 274
+  },
+  {
+   "name": "Keep Up the Good Work",
+   "desc": "Clear all threat in Gutgash's territory",
+   "hidden": false,
+   "pct": 15.1,
+   "api_name": "TRP_KEEP_THE_GOOD_WORK",
+   "internal_key": 275
+  },
+  {
+   "name": "Spreading the Word",
+   "desc": "Clear all threat in Pink Eye's territory",
+   "hidden": false,
+   "pct": 14.0,
+   "api_name": "TRP_SPREADING_THE_WORD",
+   "internal_key": 276
+  },
+  {
+   "name": "Jeet Thrives",
+   "desc": "Reduce threat to 0 in the Balefire Flatland region around Jeet's Stronghold",
+   "hidden": false,
+   "pct": 34.1,
+   "api_name": "TRP_JEET_THRIVES",
+   "internal_key": 277
+  },
+  {
+   "name": "Gutgash Thrives",
+   "desc": "Reduce threat to 0 in the Parch Moon region around Gutgash's Stronghold",
+   "hidden": false,
+   "pct": 17.1,
+   "api_name": "TRP_GUTGASH_THRIVES",
+   "internal_key": 278
+  },
+  {
+   "name": "Pink Eye Thrives",
+   "desc": "Reduce threat to 0 in the Knit Sack region around Pink Eye's Stronghold",
+   "hidden": false,
+   "pct": 15.4,
+   "api_name": "TRP_PINK_EYE_THRIVES",
+   "internal_key": 279
+  },
+  {
+   "name": "Daddy Wants a New Grill",
+   "desc": "Collect all hood ornaments",
+   "hidden": false,
+   "pct": 18.8,
+   "api_name": "TRP_DADDY_WANTS_A_NEW_GRILL",
+   "internal_key": 280
+  },
+  {
+   "name": "A Thousand Words",
+   "desc": "Collect all History Relics",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "TRP_A_THOUSAND_WORDS",
+   "internal_key": 281
+  },
+  {
+   "name": "Quench Their Thirst",
+   "desc": "Give water to a wanderer",
+   "hidden": false,
+   "pct": 54.3,
+   "api_name": "TRP_QUENCH_THEIR_THIRST",
+   "internal_key": 282
+  },
+  {
+   "name": "Fresh Air",
+   "desc": "Drive the Magnum Opus off a Wasteland jump",
+   "hidden": false,
+   "pct": 77.9,
+   "api_name": "TRP_FRESH_AIR",
+   "internal_key": 283
+  },
+  {
+   "name": "Maximum Air",
+   "desc": "Be airborne in a vehicle for 4 seconds or more and land without dying",
+   "hidden": false,
+   "pct": 9.3,
+   "api_name": "TRP_MAXIMUM_AIR",
+   "internal_key": 284
+  },
+  {
+   "name": "Doing Jeet a Big Favor",
+   "desc": "Build two projects in Jeet's Stronghold",
+   "hidden": false,
+   "pct": 50.7,
+   "api_name": "TRP_DOING_JEET_A_BIG_FAVOR",
+   "internal_key": 285
+  },
+  {
+   "name": "Doing Gutgash a Big Favor",
+   "desc": "Build two projects in Gutgash's Stronghold",
+   "hidden": false,
+   "pct": 43.9,
+   "api_name": "TRP_DOING_GUTGASH_A_BIG_FAVOR",
+   "internal_key": 286
+  },
+  {
+   "name": "Doing Pink Eye a Big Favor",
+   "desc": "Build two projects in Pink Eye's Stronghold",
+   "hidden": false,
+   "pct": 34.7,
+   "api_name": "TRP_DOING_PINK_EYE_A_BIG_FAVOR",
+   "internal_key": 287
+  },
+  {
+   "name": "The Constructionist",
+   "desc": "Build all projects in all strongholds",
+   "hidden": false,
+   "pct": 11.1,
+   "api_name": "TRP_THE_CONTRUCTIONIST",
+   "internal_key": 512
+  },
+  {
+   "name": "Just Rewards",
+   "desc": "Have 5,000 scrap in your inventory",
+   "hidden": false,
+   "pct": 25.9,
+   "api_name": "TRP_JUST_REWARDS",
+   "internal_key": 513
+  },
+  {
+   "name": "Scrap Collector",
+   "desc": "Have 10,000 scrap in your inventory",
+   "hidden": false,
+   "pct": 18.9,
+   "api_name": "TRP_SCRAP_COLLECTOR",
+   "internal_key": 514
+  },
+  {
+   "name": "On the Road to Nowhere",
+   "desc": "Travel 1300 car lengths in a vehicle",
+   "hidden": false,
+   "pct": 86.6,
+   "api_name": "TRP_DONT_STOP_ME_NOW",
+   "internal_key": 515
+  },
+  {
+   "name": "The Bigger they are…",
+   "desc": "Take down a Top Dog camp",
+   "hidden": false,
+   "pct": 52.2,
+   "api_name": "TRP_THE_BIGGER_THEY_ARE",
+   "internal_key": 517
+  },
+  {
+   "name": "Razing Legend",
+   "desc": "Take down all Scrotus camps",
+   "hidden": false,
+   "pct": 15.0,
+   "api_name": "TRP_RAZING_LEGEND",
+   "internal_key": 518
+  },
+  {
+   "name": "Wasteland Chef",
+   "desc": "Eat a meal of maggots",
+   "hidden": false,
+   "pct": 57.9,
+   "api_name": "TRP_WASTELAND_CHEF",
+   "internal_key": 520
+  },
+  {
+   "name": "Up, Up and Away",
+   "desc": "Fly the balloon at every Vantage Outpost",
+   "hidden": false,
+   "pct": 16.3,
+   "api_name": "TRP_UP_UP_AND_AWAY",
+   "internal_key": 522
+  },
+  {
+   "name": "Bomb Specialist",
+   "desc": "Clear all minefields",
+   "hidden": false,
+   "pct": 11.5,
+   "api_name": "TRP_BOMB_SPECIALIST",
+   "internal_key": 523
+  },
+  {
+   "name": "No Brainer",
+   "desc": "Destroy all scarecrows",
+   "hidden": false,
+   "pct": 14.2,
+   "api_name": "TRP_NO_BRAINER",
+   "internal_key": 524
+  },
+  {
+   "name": "Sniper Suppressor",
+   "desc": "Take out all Scrotus snipers",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "TRP_SNIPER_SUPPRESSOR",
+   "internal_key": 525
+  },
+  {
+   "name": "Rust is the New Black",
+   "desc": "Collect all body colors",
+   "hidden": false,
+   "pct": 18.9,
+   "api_name": "TRP_RUST_IS_THE_NEW_BLACK",
+   "internal_key": 526
+  },
+  {
+   "name": "Blockhead",
+   "desc": "Own the best V6 and V8 Engines",
+   "hidden": false,
+   "pct": 11.3,
+   "api_name": "TRP_BLOCKHEAD",
+   "internal_key": 527
+  },
+  {
+   "name": "Looked Everywhere",
+   "desc": "Loot all Scavenging Locations",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "TRP_LOOKED_EVERYWHERE",
+   "internal_key": 528
+  },
+  {
+   "name": "Explosions Are Not Enough",
+   "desc": "Complete all optional objectives in all camps",
+   "hidden": false,
+   "pct": 7.4,
+   "api_name": "TRP_EXPLOSIONS_ARE_NOT_ENOUGH",
+   "internal_key": 529
+  },
+  {
+   "name": "Maximum",
+   "desc": "Fully upgrade Max",
+   "hidden": false,
+   "pct": 23.9,
+   "api_name": "TRP_MAXIMUM",
+   "internal_key": 530
+  },
+  {
+   "name": "Up to the Task",
+   "desc": "Complete all non-repeating challenges",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "TRP_UP_TO_THE_TASK",
+   "internal_key": 531
+  },
+  {
+   "name": "Just Walk Away",
+   "desc": "Travel 650 car lengths on foot",
+   "hidden": false,
+   "pct": 80.8,
+   "api_name": "TRP_SOLE_OF_A_MAN",
+   "internal_key": 532
+  }
+ ]
+}

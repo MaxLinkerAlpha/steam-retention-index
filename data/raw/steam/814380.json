@@ -1,0 +1,246 @@
+{
+ "appid": 814380,
+ "game": "Sekiro™: Shadows Die Twice - GOTY Edition",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 34,
+ "achievements": [
+  {
+   "api": "ACH16",
+   "name": "Revered Blade",
+   "desc": "Received the \"Kusabimaru\" from Kuro",
+   "hidden": false,
+   "pct": 93.9
+  },
+  {
+   "api": "ACH17",
+   "name": "Shinobi Prosthetic",
+   "desc": "Acquired the Shinobi Prosthetic",
+   "hidden": false,
+   "pct": 89.6
+  },
+  {
+   "api": "ACH19",
+   "name": "Resurrection",
+   "desc": "Returned from the dead using \"Resurrection\" for the first time",
+   "hidden": false,
+   "pct": 85.4
+  },
+  {
+   "api": "ACH18",
+   "name": "Memorial Mob",
+   "desc": "Encountered the Memorial Mob",
+   "hidden": false,
+   "pct": 59.1
+  },
+  {
+   "api": "ACH20",
+   "name": "Gyoubu Masataka Oniwa",
+   "desc": "",
+   "hidden": true,
+   "pct": 57.1
+  },
+  {
+   "api": "ACH21",
+   "name": "The Phantom Lady Butterfly",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.5
+  },
+  {
+   "api": "ACH22",
+   "name": "Genichiro Ashina",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.2
+  },
+  {
+   "api": "ACH25",
+   "name": "Folding Screen Monkeys",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.6
+  },
+  {
+   "api": "ACH23",
+   "name": "Guardian Ape",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.7
+  },
+  {
+   "api": "ACH14",
+   "name": "Master of the Arts",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.8
+  },
+  {
+   "api": "ACH26",
+   "name": "Great Shinobi - Owl",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.4
+  },
+  {
+   "api": "ACH02",
+   "name": "Ashina Traveler",
+   "desc": "Traveled to all areas of the game",
+   "hidden": false,
+   "pct": 35.7
+  },
+  {
+   "api": "ACH28",
+   "name": "Corrupted Monk",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.7
+  },
+  {
+   "api": "ACH29",
+   "name": "Gracious Gift of Tears",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.7
+  },
+  {
+   "api": "ACH24",
+   "name": "Guardian Ape Immortality Severed",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.7
+  },
+  {
+   "api": "ACH06",
+   "name": "All Ninjutsu Techniques",
+   "desc": "Acquired all Ninjutsu Techniques",
+   "hidden": false,
+   "pct": 33.5
+  },
+  {
+   "api": "ACH32",
+   "name": "Great Serpent",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.4
+  },
+  {
+   "api": "ACH13",
+   "name": "Sword Saint, Isshin Ashina",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.4
+  },
+  {
+   "api": "ACH05",
+   "name": "All Prosthetic Tools",
+   "desc": "Acquired all Prosthetic Tools",
+   "hidden": false,
+   "pct": 31.1
+  },
+  {
+   "api": "ACH08",
+   "name": "Ultimate Healing Gourd",
+   "desc": "Fully upgraded the \"Healing Gourd\"",
+   "hidden": false,
+   "pct": 27.0
+  },
+  {
+   "api": "ACH31",
+   "name": "Demon of Hatred",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.5
+  },
+  {
+   "api": "ACH09",
+   "name": "Immortal Severance",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.9
+  },
+  {
+   "api": "ACH33",
+   "name": "Great Colored Carp",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.7
+  },
+  {
+   "api": "ACH27",
+   "name": "Father Surpassed",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.1
+  },
+  {
+   "api": "ACH07",
+   "name": "Peak Physical Strength",
+   "desc": "Upgraded Vitality and Posture to their limit",
+   "hidden": false,
+   "pct": 21.4
+  },
+  {
+   "api": "ACH15",
+   "name": "Lazuline Upgrade",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.2
+  },
+  {
+   "api": "ACH30",
+   "name": "Isshin Ashina",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.2
+  },
+  {
+   "api": "ACH12",
+   "name": "Shura",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.1
+  },
+  {
+   "api": "ACH11",
+   "name": "Dragon's Homecoming",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.0
+  },
+  {
+   "api": "ACH10",
+   "name": "Purification",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.9
+  },
+  {
+   "api": "ACH01",
+   "name": "Man Without Equal",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.7
+  },
+  {
+   "api": "ACH04",
+   "name": "Height of Technique",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.8
+  },
+  {
+   "api": "ACH03",
+   "name": "Master of the Prosthetic",
+   "desc": "Upgraded all Prosthetic Tools to their limit",
+   "hidden": false,
+   "pct": 13.4
+  },
+  {
+   "api": "ACH00",
+   "name": "Sekiro",
+   "desc": "All achievements have been unlocked.",
+   "hidden": false,
+   "pct": 10.0
+  }
+ ]
+}

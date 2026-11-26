@@ -1,0 +1,99 @@
+{
+ "appid": 48000,
+ "game": "LIMBO",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 13,
+ "achievements": [
+  {
+   "api": "ACH_2",
+   "name": "Altitude is Attitude",
+   "desc": "Exploration off the ground",
+   "hidden": false,
+   "pct": 47.3
+  },
+  {
+   "api": "ACH_1",
+   "name": "Wrong Way",
+   "desc": "That's not right",
+   "hidden": false,
+   "pct": 32.9
+  },
+  {
+   "api": "ACH_11",
+   "name": "Where Credit is Due",
+   "desc": "Perseverance has its own reward",
+   "hidden": false,
+   "pct": 29.6
+  },
+  {
+   "api": "ACH_5",
+   "name": "Alone in the Dark",
+   "desc": "Beneath the arthropod",
+   "hidden": false,
+   "pct": 20.8
+  },
+  {
+   "api": "ACH_8",
+   "name": "Guided by Sparks",
+   "desc": "The crate is key",
+   "hidden": false,
+   "pct": 15.9
+  },
+  {
+   "api": "ACH_7",
+   "name": "Backtracking",
+   "desc": "Ride the crates",
+   "hidden": false,
+   "pct": 14.5
+  },
+  {
+   "api": "ACH_4",
+   "name": "Urban Exploration",
+   "desc": "Involves heavy lifting",
+   "hidden": false,
+   "pct": 14.0
+  },
+  {
+   "api": "ACH_9",
+   "name": "Under Ground",
+   "desc": "Vertical passageway",
+   "hidden": false,
+   "pct": 9.8
+  },
+  {
+   "api": "ACH_10",
+   "name": "Going Up",
+   "desc": "Don't let gravity keep you down",
+   "hidden": false,
+   "pct": 7.2
+  },
+  {
+   "api": "ACH_3",
+   "name": "It's Stuck",
+   "desc": "Prepare a dry landing",
+   "hidden": false,
+   "pct": 6.8
+  },
+  {
+   "api": "ACH_6",
+   "name": "Climbing the Cog",
+   "desc": "Don't pull the lever just because you can",
+   "hidden": false,
+   "pct": 6.4
+  },
+  {
+   "api": "ACH_13",
+   "name": "DING!",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.5
+  },
+  {
+   "api": "ACH_12",
+   "name": "No Point in Dying",
+   "desc": "Complete the game in one sitting with five or less deaths",
+   "hidden": false,
+   "pct": 2.5
+  }
+ ]
+}

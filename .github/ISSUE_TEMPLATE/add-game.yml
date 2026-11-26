@@ -1,0 +1,36 @@
+name: 提交一款游戏
+description: 填 Steam appid，系统会低频率抓取该作的成就数据并加进库里
+title: "[Add] "
+labels: ["add-game"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **只需填 Steam appid** —— 就是商店链接 `store.steampowered.com/app/` **1245620** `/` 里那串数字。
+        一次最多 3 个，每天全站最多处理 10 个，超出会排在后面的某天。
+
+        提交前请确认：这是**单机 / 买断制**游戏，且**有 Steam 成就**。
+        联机、纯沙盒、无成就的作品读不出留存，会被自动退回。
+  - type: input
+    id: appids
+    attributes:
+      label: Steam appid
+      description: 多个用空格或逗号分隔，最多 3 个
+      placeholder: "1245620, 1086940"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 为什么想看这款（可选）
+      description: 一句话就够，会显示在处理记录里
+      placeholder: 想对比它的前十小时流失
+    validations:
+      required: false
+  - type: checkboxes
+    id: ack
+    attributes:
+      label: 确认
+      options:
+        - label: 我知道本站只做**低频率、非商业**的研究性数据引用，不做批量抓取
+          required: true

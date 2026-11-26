@@ -1,0 +1,145 @@
+{
+ "appid": 264710,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 17,
+ "achievements": [
+  {
+   "name": "Getting Your Feet Wet",
+   "desc": "Dive for the very first time",
+   "hidden": true,
+   "pct": 89.8,
+   "api_name": "DiveForTheVeryFirstTime",
+   "internal_key": 1281
+  },
+  {
+   "name": "Extinction Event Avoided",
+   "desc": "Repair the Aurora reactor",
+   "hidden": true,
+   "pct": 36.0,
+   "api_name": "RepairAuroraReactor",
+   "internal_key": 1282
+  },
+  {
+   "name": "Ancient Technologies",
+   "desc": "Find the Enforcement Platform",
+   "hidden": true,
+   "pct": 43.9,
+   "api_name": "FindPrecursorGun",
+   "internal_key": 1283
+  },
+  {
+   "name": "Thermal Activity",
+   "desc": "Find the Thermal Plant",
+   "hidden": true,
+   "pct": 18.9,
+   "api_name": "FindPrecursorLavaCastleFacility",
+   "internal_key": 1284
+  },
+  {
+   "name": "Follow the Lost River",
+   "desc": "Find the Disease Research Facility",
+   "hidden": true,
+   "pct": 23.3,
+   "api_name": "FindPrecursorLostRiverFacility",
+   "internal_key": 1285
+  },
+  {
+   "name": "Fourteen Thousand Leagues Under the Sea",
+   "desc": "Find the Primary Containment Facility",
+   "hidden": true,
+   "pct": 18.5,
+   "api_name": "FindPrecursorPrisonFacility",
+   "internal_key": 1286
+  },
+  {
+   "name": "Optimal Health",
+   "desc": "Cure the infection",
+   "hidden": true,
+   "pct": 17.4,
+   "api_name": "CureInfection",
+   "internal_key": 1287
+  },
+  {
+   "name": "Leave Only Time Capsules",
+   "desc": "Create and deploy a time capsule",
+   "hidden": true,
+   "pct": 14.2,
+   "api_name": "DeployTimeCapsule",
+   "internal_key": 1288
+  },
+  {
+   "name": "Seaside Living with an Ocean View",
+   "desc": "Find the Degasi habitat on the floating island",
+   "hidden": true,
+   "pct": 41.9,
+   "api_name": "FindDegasiFloatingIslandsBase",
+   "internal_key": 1289
+  },
+  {
+   "name": "Follow the Degasi",
+   "desc": "Find the Degasi habitat in the jellyshroom caves",
+   "hidden": true,
+   "pct": 32.4,
+   "api_name": "FindDegasiJellyshroomCavesBase",
+   "internal_key": 1290
+  },
+  {
+   "name": "Seamonsters",
+   "desc": "Find the Degasi habitat in the deep grand reef",
+   "hidden": true,
+   "pct": 23.1,
+   "api_name": "FindDegasiDeepGrandReefBase",
+   "internal_key": 1291
+  },
+  {
+   "name": "Settling in for the Long Haul",
+   "desc": "Build a habitat",
+   "hidden": true,
+   "pct": 53.0,
+   "api_name": "BuildBase",
+   "internal_key": 1292
+  },
+  {
+   "name": "Personal Propulsion",
+   "desc": "Build a seamoth",
+   "hidden": true,
+   "pct": 52.3,
+   "api_name": "BuildSeamoth",
+   "internal_key": 1293
+  },
+  {
+   "name": "40-foot Sub For One",
+   "desc": "Build a cyclops",
+   "hidden": true,
+   "pct": 33.6,
+   "api_name": "BuildCyclops",
+   "internal_key": 1294
+  },
+  {
+   "name": "Ordered the Prawn",
+   "desc": "Build a prawn suit",
+   "hidden": true,
+   "pct": 32.3,
+   "api_name": "BuildExosuit",
+   "internal_key": 1295
+  },
+  {
+   "name": "Go Among the Stars",
+   "desc": "Launch the neptune rocket",
+   "hidden": true,
+   "pct": 14.2,
+   "api_name": "LaunchRocket",
+   "internal_key": 1296
+  },
+  {
+   "name": "\"Man's Best Friend\"",
+   "desc": "Hatch and release a Cuddlefish",
+   "hidden": true,
+   "pct": 12.0,
+   "api_name": "HatchCutefish",
+   "internal_key": 1297
+  }
+ ]
+}

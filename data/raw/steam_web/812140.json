@@ -1,0 +1,753 @@
+{
+ "appid": 812140,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 93,
+ "achievements": [
+  {
+   "name": "This is Sparta!",
+   "desc": "Complete the Battle of 300.",
+   "hidden": true,
+   "pct": 91.6,
+   "api_name": "001",
+   "internal_key": 256
+  },
+  {
+   "name": "An Odyssey in the Making",
+   "desc": "Complete Episode 1.",
+   "hidden": true,
+   "pct": 70.6,
+   "api_name": "002",
+   "internal_key": 257
+  },
+  {
+   "name": "Past Mistakes",
+   "desc": "Complete Episode 2.",
+   "hidden": true,
+   "pct": 64.6,
+   "api_name": "003",
+   "internal_key": 258
+  },
+  {
+   "name": "Evil Unearthed",
+   "desc": "Complete Episode 3.",
+   "hidden": true,
+   "pct": 59.0,
+   "api_name": "004",
+   "internal_key": 259
+  },
+  {
+   "name": "The Bright Minds",
+   "desc": "Complete Episode 4.",
+   "hidden": true,
+   "pct": 50.0,
+   "api_name": "005",
+   "internal_key": 260
+  },
+  {
+   "name": "From the Ashes",
+   "desc": "Complete Episode 5.",
+   "hidden": true,
+   "pct": 42.3,
+   "api_name": "006",
+   "internal_key": 261
+  },
+  {
+   "name": "Democracy Falls",
+   "desc": "Complete Episode 6.",
+   "hidden": true,
+   "pct": 41.9,
+   "api_name": "007",
+   "internal_key": 262
+  },
+  {
+   "name": "Legend in the Making",
+   "desc": "Complete Episode 7.",
+   "hidden": true,
+   "pct": 33.5,
+   "api_name": "008",
+   "internal_key": 263
+  },
+  {
+   "name": "Taking Back Athens",
+   "desc": "Complete Episode 8.",
+   "hidden": true,
+   "pct": 32.6,
+   "api_name": "009",
+   "internal_key": 264
+  },
+  {
+   "name": "Odyssey's End",
+   "desc": "Complete Episode 9 + Epilogue.",
+   "hidden": true,
+   "pct": 32.4,
+   "api_name": "010",
+   "internal_key": 265
+  },
+  {
+   "name": "Child of Poseidon",
+   "desc": "Complete all underwater location objectives.",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "011",
+   "internal_key": 266
+  },
+  {
+   "name": "Make It Your Own",
+   "desc": "Engrave your first item.",
+   "hidden": false,
+   "pct": 60.8,
+   "api_name": "012",
+   "internal_key": 267
+  },
+  {
+   "name": "You Work for Me Now",
+   "desc": "Recruit and assign a Legendary NPC for your ship.",
+   "hidden": false,
+   "pct": 62.6,
+   "api_name": "013",
+   "internal_key": 268
+  },
+  {
+   "name": "Shiny!",
+   "desc": "Acquire and equip your first Legendary item.",
+   "hidden": false,
+   "pct": 83.9,
+   "api_name": "014",
+   "internal_key": 269
+  },
+  {
+   "name": "I am Legend",
+   "desc": "Equip 1 Legendary melee weapon and 5 Legendary armor pieces.",
+   "hidden": false,
+   "pct": 75.3,
+   "api_name": "015",
+   "internal_key": 270
+  },
+  {
+   "name": "Are You Not Entertained?",
+   "desc": "Become Champion of the Arena.",
+   "hidden": false,
+   "pct": 29.9,
+   "api_name": "016",
+   "internal_key": 271
+  },
+  {
+   "name": "Demigod",
+   "desc": "Reach Level 50.",
+   "hidden": false,
+   "pct": 31.8,
+   "api_name": "017",
+   "internal_key": 272
+  },
+  {
+   "name": "Godly Power",
+   "desc": "Acquire a Tier 3 active Ability.",
+   "hidden": false,
+   "pct": 36.8,
+   "api_name": "018",
+   "internal_key": 273
+  },
+  {
+   "name": "Legacy Restored",
+   "desc": "Upgrade your Spear to Tier 6.",
+   "hidden": true,
+   "pct": 24.3,
+   "api_name": "019",
+   "internal_key": 274
+  },
+  {
+   "name": "Top of the Food Chain",
+   "desc": "Become the first Mercenary.",
+   "hidden": false,
+   "pct": 29.0,
+   "api_name": "020",
+   "internal_key": 275
+  },
+  {
+   "name": "The Cult Unmasked",
+   "desc": "Defeat all the Cultists of Kosmos.",
+   "hidden": true,
+   "pct": 24.3,
+   "api_name": "021",
+   "internal_key": 276
+  },
+  {
+   "name": "Stink Eye",
+   "desc": "Recover the Cyclops's eye from a goat on Kephallonia.",
+   "hidden": true,
+   "pct": 11.4,
+   "api_name": "022",
+   "internal_key": 277
+  },
+  {
+   "name": "Hermes's Homie",
+   "desc": "Unveil all sub-regions of Greece.",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "023",
+   "internal_key": 278
+  },
+  {
+   "name": "In Perseus's Image",
+   "desc": "Defeat Medusa.",
+   "hidden": true,
+   "pct": 27.7,
+   "api_name": "024",
+   "internal_key": 279
+  },
+  {
+   "name": "A-maze-ing Victory!",
+   "desc": "Defeat the Minotaur.",
+   "hidden": true,
+   "pct": 31.7,
+   "api_name": "025",
+   "internal_key": 280
+  },
+  {
+   "name": "Eye on the Prize",
+   "desc": "Defeat the Cyclops.",
+   "hidden": true,
+   "pct": 30.4,
+   "api_name": "026",
+   "internal_key": 281
+  },
+  {
+   "name": "Riddle Me This",
+   "desc": "Outwit the Sphinx.",
+   "hidden": true,
+   "pct": 32.7,
+   "api_name": "027",
+   "internal_key": 282
+  },
+  {
+   "name": "Lord of the Seas",
+   "desc": "Upgrade the Adrestia to Legendary Status.",
+   "hidden": false,
+   "pct": 21.3,
+   "api_name": "028",
+   "internal_key": 283
+  },
+  {
+   "name": "The Argonauts",
+   "desc": "Fully crew the Adrestia with Legendary Lieutenants.",
+   "hidden": false,
+   "pct": 34.9,
+   "api_name": "029",
+   "internal_key": 284
+  },
+  {
+   "name": "Master of the Hunt",
+   "desc": "Complete the Daughters of Artemis questline.",
+   "hidden": true,
+   "pct": 23.1,
+   "api_name": "030",
+   "internal_key": 287
+  },
+  {
+   "name": "Everybody Benefits",
+   "desc": "Complete Markos's questline.",
+   "hidden": true,
+   "pct": 13.4,
+   "api_name": "031",
+   "internal_key": 512
+  },
+  {
+   "name": "Trust Me, I'm a Doctor",
+   "desc": "Complete the Hippokrates questline.",
+   "hidden": true,
+   "pct": 11.0,
+   "api_name": "032",
+   "internal_key": 513
+  },
+  {
+   "name": "A Pirate's Life for Me",
+   "desc": "Complete Xenia's questline.",
+   "hidden": true,
+   "pct": 7.7,
+   "api_name": "033",
+   "internal_key": 514
+  },
+  {
+   "name": "Going For Gold",
+   "desc": "Complete the Olympic questline.",
+   "hidden": true,
+   "pct": 35.2,
+   "api_name": "034",
+   "internal_key": 515
+  },
+  {
+   "name": "Scourge of the Aegean",
+   "desc": "Sink your first Epic Ship.",
+   "hidden": false,
+   "pct": 53.5,
+   "api_name": "035",
+   "internal_key": 516
+  },
+  {
+   "name": "Blood Sport",
+   "desc": "Defeat a Mercenary in the Arena.",
+   "hidden": false,
+   "pct": 33.0,
+   "api_name": "036",
+   "internal_key": 517
+  },
+  {
+   "name": "Harder, Better, Faster, Stronger",
+   "desc": "Upgrade the Adrestia for the first time.",
+   "hidden": false,
+   "pct": 63.2,
+   "api_name": "037",
+   "internal_key": 519
+  },
+  {
+   "name": "Fashion's Creed",
+   "desc": "Equip a Legendary Armor set.",
+   "hidden": false,
+   "pct": 71.7,
+   "api_name": "038",
+   "internal_key": 520
+  },
+  {
+   "name": "Aphrodite's Embrace",
+   "desc": "Spend the night with another character.",
+   "hidden": false,
+   "pct": 57.6,
+   "api_name": "039",
+   "internal_key": 521
+  },
+  {
+   "name": "One Head Down…",
+   "desc": "Defeat a full cluster of Cultists of Kosmos.",
+   "hidden": true,
+   "pct": 37.6,
+   "api_name": "040",
+   "internal_key": 522
+  },
+  {
+   "name": "Birthright",
+   "desc": "Discover Atlantis and speak with Pythagoras.",
+   "hidden": true,
+   "pct": 36.2,
+   "api_name": "041",
+   "internal_key": 523
+  },
+  {
+   "name": "Ramming Speed",
+   "desc": "Cleave a ship in half.",
+   "hidden": false,
+   "pct": 62.5,
+   "api_name": "042",
+   "internal_key": 524
+  },
+  {
+   "name": "I Have the Power",
+   "desc": "Perform an Overpower Attack with every weapon type.",
+   "hidden": false,
+   "pct": 16.7,
+   "api_name": "043",
+   "internal_key": 525
+  },
+  {
+   "name": "War Master",
+   "desc": "Kill the Leader of any Region with Low Resources, other than Megaris.",
+   "hidden": false,
+   "pct": 48.9,
+   "api_name": "044",
+   "internal_key": 526
+  },
+  {
+   "name": "Misthios in Training",
+   "desc": "Complete 20 Bounties, War Contracts, or Naval Quests from Message Boards.",
+   "hidden": false,
+   "pct": 18.0,
+   "api_name": "045",
+   "internal_key": 527
+  },
+  {
+   "name": "Island Hopper",
+   "desc": "Complete 20 Quests on Pephka, Obsidian and Abantis islands.",
+   "hidden": false,
+   "pct": 13.7,
+   "api_name": "046",
+   "internal_key": 528
+  },
+  {
+   "name": "Infamous",
+   "desc": "Raise your Bounty to the maximum level.",
+   "hidden": false,
+   "pct": 40.4,
+   "api_name": "047",
+   "internal_key": 529
+  },
+  {
+   "name": "Hero for Hire",
+   "desc": "Win your first on land conquest battle in any region (excluding Megaris in Hero's Journey).",
+   "hidden": false,
+   "pct": 51.7,
+   "api_name": "048",
+   "internal_key": 530
+  },
+  {
+   "name": "Wrath of the Amazons",
+   "desc": "Cleave a ship while having an all-women crew.",
+   "hidden": true,
+   "pct": 30.4,
+   "api_name": "049",
+   "internal_key": 531
+  },
+  {
+   "name": "The Midas Touch",
+   "desc": "Engrave a Legendary Item with a Legendary Effect.",
+   "hidden": false,
+   "pct": 42.3,
+   "api_name": "050",
+   "internal_key": 532
+  },
+  {
+   "name": "The Show Must Go On",
+   "desc": "Complete The Show Must Go On.",
+   "hidden": false,
+   "pct": 12.5,
+   "api_name": "051",
+   "internal_key": 535
+  },
+  {
+   "name": "Lightning Rod",
+   "desc": "Defeat Steropes the Lightning Bringer.",
+   "hidden": false,
+   "pct": 30.3,
+   "api_name": "052",
+   "internal_key": 536
+  },
+  {
+   "name": "Divine Intervention",
+   "desc": "Complete Divine Intervention.",
+   "hidden": false,
+   "pct": 16.3,
+   "api_name": "053",
+   "internal_key": 537
+  },
+  {
+   "name": "Volcanic Sunscreen",
+   "desc": "Defeat Arges, the Bright One",
+   "hidden": false,
+   "pct": 22.9,
+   "api_name": "054",
+   "internal_key": 538
+  },
+  {
+   "name": "The Image of Faith",
+   "desc": "Complete The Image of Faith",
+   "hidden": false,
+   "pct": 12.7,
+   "api_name": "055",
+   "internal_key": 539
+  },
+  {
+   "name": "The Daughters of Lalaia",
+   "desc": "Complete The Daughters of Lalaia",
+   "hidden": false,
+   "pct": 16.9,
+   "api_name": "056",
+   "internal_key": 540
+  },
+  {
+   "name": "Lone Lion",
+   "desc": "Kill the Makedonian Lion",
+   "hidden": false,
+   "pct": 5.2,
+   "api_name": "064",
+   "internal_key": 541
+  },
+  {
+   "name": "Without a trace",
+   "desc": "Kill 10 enemies using the Death Veil ability",
+   "hidden": false,
+   "pct": 23.5,
+   "api_name": "065",
+   "internal_key": 542
+  },
+  {
+   "name": "The Start of a Legacy",
+   "desc": "Discover the truth about Darius' past",
+   "hidden": true,
+   "pct": 15.2,
+   "api_name": "066",
+   "internal_key": 543
+  },
+  {
+   "name": "Breaking the Limit",
+   "desc": "Land a Rush Assassinate that chains 4 times with the Blade of the Lion",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "067",
+   "internal_key": 768
+  },
+  {
+   "name": "Predator and Prey",
+   "desc": "Kill all the Ancients in the Order of the Hunters in Makedonia",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "068",
+   "internal_key": 769
+  },
+  {
+   "name": "A Poet's Legacy",
+   "desc": "Complete A Poet's Legacy.",
+   "hidden": false,
+   "pct": 11.6,
+   "api_name": "057",
+   "internal_key": 770
+  },
+  {
+   "name": "A Brother's Seduction",
+   "desc": "Complete A Brother's Seduction",
+   "hidden": false,
+   "pct": 15.9,
+   "api_name": "058",
+   "internal_key": 771
+  },
+  {
+   "name": "Rain of Arrows",
+   "desc": "Kill 10 enemies using the Rapid Fire ability.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "069",
+   "internal_key": 772
+  },
+  {
+   "name": "Fire on Water",
+   "desc": "Set 10 enemy ships on fire.",
+   "hidden": false,
+   "pct": 12.0,
+   "api_name": "070",
+   "internal_key": 773
+  },
+  {
+   "name": "Parry to Carry",
+   "desc": "Heal by parrying 10 times with the Judgment of the Lion.",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "071",
+   "internal_key": 774
+  },
+  {
+   "name": "Blood of Leonidas",
+   "desc": "Continue the bloodline.",
+   "hidden": true,
+   "pct": 12.7,
+   "api_name": "072",
+   "internal_key": 775
+  },
+  {
+   "name": "Stormculler",
+   "desc": "Kill all of the Ancients in the Order of the Storm in Achaia.",
+   "hidden": false,
+   "pct": 11.5,
+   "api_name": "073",
+   "internal_key": 776
+  },
+  {
+   "name": "A Friend Worth Dying For",
+   "desc": "Complete A Friend Worth Dying For",
+   "hidden": false,
+   "pct": 16.1,
+   "api_name": "059",
+   "internal_key": 777
+  },
+  {
+   "name": "The Heir of Memories",
+   "desc": "Complete The Heir of Memories",
+   "hidden": false,
+   "pct": 19.3,
+   "api_name": "060",
+   "internal_key": 778
+  },
+  {
+   "name": "Seeing Red",
+   "desc": "Kill 10 enemies using the Fury of the Bloodline Ability.",
+   "hidden": false,
+   "pct": 14.8,
+   "api_name": "074",
+   "internal_key": 779
+  },
+  {
+   "name": "Bittersweet Beginnings",
+   "desc": "Secure your bloodline",
+   "hidden": true,
+   "pct": 11.7,
+   "api_name": "075",
+   "internal_key": 780
+  },
+  {
+   "name": "Surgical Sniper",
+   "desc": "Heal by getting 10 headshot kills while you have the Golden Harbinger equipped.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "076",
+   "internal_key": 781
+  },
+  {
+   "name": "Kingmaker",
+   "desc": "Acquire the Sword of Kings",
+   "hidden": false,
+   "pct": 10.5,
+   "api_name": "077",
+   "internal_key": 782
+  },
+  {
+   "name": "For Love of Persia",
+   "desc": "Kill all the Ancients in the Order of Dominion in Messenia",
+   "hidden": false,
+   "pct": 10.6,
+   "api_name": "078",
+   "internal_key": 783
+  },
+  {
+   "name": "One Really, Really Bad Day",
+   "desc": "Complete One Really, Really Bad Day",
+   "hidden": false,
+   "pct": 12.7,
+   "api_name": "061",
+   "internal_key": 784
+  },
+  {
+   "name": "Every Story Has an Ending",
+   "desc": "Complete Every Story Has an Ending",
+   "hidden": false,
+   "pct": 13.9,
+   "api_name": "062",
+   "internal_key": 785
+  },
+  {
+   "name": "No More Rulers",
+   "desc": "Kill all Overseers in Elysium.",
+   "hidden": false,
+   "pct": 12.0,
+   "api_name": "079",
+   "internal_key": 786
+  },
+  {
+   "name": "In the Face of the Gods",
+   "desc": "Remember who you are.",
+   "hidden": true,
+   "pct": 11.9,
+   "api_name": "080",
+   "internal_key": 787
+  },
+  {
+   "name": "Blasphemer",
+   "desc": "Destroy all of the Marble Maiden Tributes.",
+   "hidden": false,
+   "pct": 6.6,
+   "api_name": "081",
+   "internal_key": 788
+  },
+  {
+   "name": "Gathering Strength",
+   "desc": "Collect all the Keeper's Insights in Episode 1.",
+   "hidden": false,
+   "pct": 12.2,
+   "api_name": "082",
+   "internal_key": 789
+  },
+  {
+   "name": "The Conqueror",
+   "desc": "Win the conquest of Elysium with freed humans from the 3 main regions.",
+   "hidden": false,
+   "pct": 8.7,
+   "api_name": "083",
+   "internal_key": 791
+  },
+  {
+   "name": "Old Flames Burn Brighter",
+   "desc": "Complete Old Flames Burn Brighter",
+   "hidden": false,
+   "pct": 10.3,
+   "api_name": "063",
+   "internal_key": 792
+  },
+  {
+   "name": "Bad Dog!",
+   "desc": "Defeat Cerberos.",
+   "hidden": false,
+   "pct": 11.1,
+   "api_name": "084",
+   "internal_key": 793
+  },
+  {
+   "name": "Guardian of the Underworld",
+   "desc": "Close all Tartaros Rifts.",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "085",
+   "internal_key": 794
+  },
+  {
+   "name": "The One",
+   "desc": "Defeat all of the Fallen.",
+   "hidden": false,
+   "pct": 8.8,
+   "api_name": "086",
+   "internal_key": 795
+  },
+  {
+   "name": "Gathering More Strength",
+   "desc": "Collect all the Keeper's Insights in Episode 2.",
+   "hidden": false,
+   "pct": 10.4,
+   "api_name": "087",
+   "internal_key": 796
+  },
+  {
+   "name": "A True Ruler",
+   "desc": "Dethrone the king.",
+   "hidden": true,
+   "pct": 10.3,
+   "api_name": "088",
+   "internal_key": 797
+  },
+  {
+   "name": "Your Own Medicine",
+   "desc": "Kill 10 Isu Soldiers with the Blessing of Kronos enhancement.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "089",
+   "internal_key": 798
+  },
+  {
+   "name": "Isu Bloodline",
+   "desc": "Completely fill the Knowledge Sequence.",
+   "hidden": false,
+   "pct": 8.9,
+   "api_name": "090",
+   "internal_key": 799
+  },
+  {
+   "name": "Hephaistos's Apprentice",
+   "desc": "Forge the 3 Legendary Weapons.",
+   "hidden": false,
+   "pct": 7.9,
+   "api_name": "091",
+   "internal_key": 1024
+  },
+  {
+   "name": "Gathering Full Strength",
+   "desc": "Collect all the Keeper's Insights in Episode 3.",
+   "hidden": false,
+   "pct": 9.1,
+   "api_name": "092",
+   "internal_key": 1025
+  },
+  {
+   "name": "1 Versus 100",
+   "desc": "Defeat the Hekatonchires.",
+   "hidden": true,
+   "pct": 8.5,
+   "api_name": "093",
+   "internal_key": 1026
+  }
+ ]
+}

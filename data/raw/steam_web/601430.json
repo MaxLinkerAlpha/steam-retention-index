@@ -1,0 +1,417 @@
+{
+ "appid": 601430,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 51,
+ "achievements": [
+  {
+   "name": "Rookie",
+   "desc": "Completed the game on Casual difficulty or higher.",
+   "hidden": false,
+   "pct": 43.8,
+   "api_name": "ach_001",
+   "internal_key": 256
+  },
+  {
+   "name": "Survivor",
+   "desc": "Completed the game on Survival difficulty or higher.",
+   "hidden": false,
+   "pct": 32.8,
+   "api_name": "ach_002",
+   "internal_key": 257
+  },
+  {
+   "name": "Against All Odds",
+   "desc": "Completed the game on Nightmare difficulty or higher.",
+   "hidden": false,
+   "pct": 10.5,
+   "api_name": "ach_003",
+   "internal_key": 258
+  },
+  {
+   "name": "You Asked For It... Again",
+   "desc": "Completed the game in Classic Mode.",
+   "hidden": true,
+   "pct": 3.3,
+   "api_name": "ach_004",
+   "internal_key": 260
+  },
+  {
+   "name": "Welcome to Union",
+   "desc": "Took the plunge back into STEM.",
+   "hidden": true,
+   "pct": 80.1,
+   "api_name": "ach_005",
+   "internal_key": 261
+  },
+  {
+   "name": "Taken",
+   "desc": "Saw a chilling vision.",
+   "hidden": true,
+   "pct": 59.7,
+   "api_name": "ach_006",
+   "internal_key": 262
+  },
+  {
+   "name": "Not Running This Time",
+   "desc": "Defeated the Guardian outside City Hall.",
+   "hidden": true,
+   "pct": 53.6,
+   "api_name": "ach_007",
+   "internal_key": 263
+  },
+  {
+   "name": "The Team Psychologist",
+   "desc": "Found a potential ally in The Marrow.",
+   "hidden": true,
+   "pct": 52.7,
+   "api_name": "ach_008",
+   "internal_key": 264
+  },
+  {
+   "name": "Premature Finale",
+   "desc": "Shut down a bloody performance.",
+   "hidden": true,
+   "pct": 48.9,
+   "api_name": "ach_009",
+   "internal_key": 265
+  },
+  {
+   "name": "Another Ally",
+   "desc": "Survived an ordeal with the help of a new friend.",
+   "hidden": true,
+   "pct": 48.0,
+   "api_name": "ach_010",
+   "internal_key": 266
+  },
+  {
+   "name": "Crossing to the Other Side",
+   "desc": "Provided a Harbinger sweet release.",
+   "hidden": true,
+   "pct": 46.7,
+   "api_name": "ach_011",
+   "internal_key": 267
+  },
+  {
+   "name": "Spiritual Awakening",
+   "desc": "Came to terms with your past and present.",
+   "hidden": true,
+   "pct": 46.3,
+   "api_name": "ach_012",
+   "internal_key": 268
+  },
+  {
+   "name": "Fire Walk With Me",
+   "desc": "Made it inside the enemy's stronghold.",
+   "hidden": true,
+   "pct": 45.2,
+   "api_name": "ach_013",
+   "internal_key": 269
+  },
+  {
+   "name": "Overcome the Past",
+   "desc": "Your trauma is no more.",
+   "hidden": true,
+   "pct": 44.6,
+   "api_name": "ach_014",
+   "internal_key": 270
+  },
+  {
+   "name": "Everything Comes Crumbling Down",
+   "desc": "Reached the very end of the world.",
+   "hidden": true,
+   "pct": 44.3,
+   "api_name": "ach_015",
+   "internal_key": 271
+  },
+  {
+   "name": "Unfortunate Consequence",
+   "desc": "Did what needed to be done to save your daughter.",
+   "hidden": true,
+   "pct": 44.1,
+   "api_name": "ach_016",
+   "internal_key": 272
+  },
+  {
+   "name": "Backup Ain't Coming",
+   "desc": "Completed the \"Rogue Signal\" side mission.",
+   "hidden": false,
+   "pct": 52.5,
+   "api_name": "ach_017",
+   "internal_key": 273
+  },
+  {
+   "name": "Sykes Out",
+   "desc": "Completed the \"The Last Step\" side mission.",
+   "hidden": false,
+   "pct": 35.5,
+   "api_name": "ach_018",
+   "internal_key": 274
+  },
+  {
+   "name": "Finally Free",
+   "desc": "Experienced every traumatic encounter and made peace with your inner demons.",
+   "hidden": false,
+   "pct": 33.5,
+   "api_name": "ach_019",
+   "internal_key": 275
+  },
+  {
+   "name": "You Got Red in You",
+   "desc": "Used your first Red Gel.",
+   "hidden": false,
+   "pct": 54.9,
+   "api_name": "ach_020",
+   "internal_key": 276
+  },
+  {
+   "name": "Stick it in My Veins",
+   "desc": "Completely upgraded all abilities.",
+   "hidden": false,
+   "pct": 15.4,
+   "api_name": "ach_021",
+   "internal_key": 277
+  },
+  {
+   "name": "Making Things a Little Easier",
+   "desc": "Used your first High-Grade Weapon Parts.",
+   "hidden": false,
+   "pct": 60.2,
+   "api_name": "ach_022",
+   "internal_key": 278
+  },
+  {
+   "name": "Now You're Playing with Power",
+   "desc": "Upgraded a weapon to Level 3.",
+   "hidden": false,
+   "pct": 50.3,
+   "api_name": "ach_023",
+   "internal_key": 279
+  },
+  {
+   "name": "A Little Extra Kick to it",
+   "desc": "Upgraded one of your Warden Crossbow bolts to max level.",
+   "hidden": false,
+   "pct": 21.5,
+   "api_name": "ach_024",
+   "internal_key": 280
+  },
+  {
+   "name": "They Never Even Stood A Chance",
+   "desc": "Completely upgraded all weapons.",
+   "hidden": false,
+   "pct": 7.0,
+   "api_name": "ach_025",
+   "internal_key": 281
+  },
+  {
+   "name": "DIY",
+   "desc": "Crafted something for the first time.",
+   "hidden": false,
+   "pct": 74.0,
+   "api_name": "ach_026",
+   "internal_key": 282
+  },
+  {
+   "name": "Handyman",
+   "desc": "Crafted every type of item at least once.",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "ach_027",
+   "internal_key": 283
+  },
+  {
+   "name": "Echoes Within STEM",
+   "desc": "Observed all Residual Memories.",
+   "hidden": false,
+   "pct": 14.6,
+   "api_name": "ach_028",
+   "internal_key": 284
+  },
+  {
+   "name": "Doing Some Detecting",
+   "desc": "Collected 20 files.",
+   "hidden": false,
+   "pct": 50.4,
+   "api_name": "ach_029",
+   "internal_key": 285
+  },
+  {
+   "name": "Diligent Reader",
+   "desc": "Collected all files.",
+   "hidden": false,
+   "pct": 6.4,
+   "api_name": "ach_030",
+   "internal_key": 286
+  },
+  {
+   "name": "Half the Stash",
+   "desc": "Opened 16 lockers.",
+   "hidden": false,
+   "pct": 13.9,
+   "api_name": "ach_031",
+   "internal_key": 287
+  },
+  {
+   "name": "Locksmith",
+   "desc": "Opened all lockers.",
+   "hidden": false,
+   "pct": 6.5,
+   "api_name": "ach_032",
+   "internal_key": 512
+  },
+  {
+   "name": "Good to See You Again",
+   "desc": "Acquired the Warden Crossbow.",
+   "hidden": false,
+   "pct": 67.0,
+   "api_name": "ach_033",
+   "internal_key": 513
+  },
+  {
+   "name": "Chatting With Kidman",
+   "desc": "Talked to Kidman about all of the photographic slides.",
+   "hidden": false,
+   "pct": 17.0,
+   "api_name": "ach_034",
+   "internal_key": 514
+  },
+  {
+   "name": "Powerhouse",
+   "desc": "Acquired all standard weapons.",
+   "hidden": false,
+   "pct": 5.4,
+   "api_name": "ach_035",
+   "internal_key": 515
+  },
+  {
+   "name": "All in the Family",
+   "desc": "Collected all of the Mysterious Objects.",
+   "hidden": false,
+   "pct": 7.1,
+   "api_name": "ach_036",
+   "internal_key": 516
+  },
+  {
+   "name": "Caffeine Addict",
+   "desc": "Used every Coffee Maker at least once.",
+   "hidden": false,
+   "pct": 18.0,
+   "api_name": "ach_037",
+   "internal_key": 517
+  },
+  {
+   "name": "Thinning Them Out",
+   "desc": "Killed 30 enemies.",
+   "hidden": false,
+   "pct": 63.4,
+   "api_name": "ach_038",
+   "internal_key": 518
+  },
+  {
+   "name": "Clearing a Path",
+   "desc": "Killed 60 enemies.",
+   "hidden": false,
+   "pct": 57.6,
+   "api_name": "ach_039",
+   "internal_key": 519
+  },
+  {
+   "name": "Smoke Assassin",
+   "desc": "Killed 3 enemies using upgraded Smoke Bolts.",
+   "hidden": false,
+   "pct": 9.3,
+   "api_name": "ach_040",
+   "internal_key": 520
+  },
+  {
+   "name": "Shock Therapy",
+   "desc": "Stunned an enemy standing in water using a Shock Bolt.",
+   "hidden": false,
+   "pct": 31.1,
+   "api_name": "ach_041",
+   "internal_key": 521
+  },
+  {
+   "name": "Wait For It...",
+   "desc": "Killed an enemy using an Ambush.",
+   "hidden": false,
+   "pct": 28.7,
+   "api_name": "ach_042",
+   "internal_key": 522
+  },
+  {
+   "name": "Kick, Shoot, Burn",
+   "desc": "Killed 2 or more enemies at once using oil on the ground.",
+   "hidden": false,
+   "pct": 28.1,
+   "api_name": "ach_043",
+   "internal_key": 523
+  },
+  {
+   "name": "Bootable Offense",
+   "desc": "Stomped and killed 15 fallen enemies.",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "ach_044",
+   "internal_key": 524
+  },
+  {
+   "name": "I Am The Night",
+   "desc": "Killed 10 enemies using Sneak Kills.",
+   "hidden": false,
+   "pct": 51.0,
+   "api_name": "ach_045",
+   "internal_key": 525
+  },
+  {
+   "name": "Sometimes Fighting Isn't the Answer",
+   "desc": "Avoided unnecessary bloodshed outside City Hall. (Ch. 5)",
+   "hidden": false,
+   "pct": 6.4,
+   "api_name": "ach_046",
+   "internal_key": 526
+  },
+  {
+   "name": "Death From Above",
+   "desc": "Killed 2 or more enemies at once using a hanging lamp. (Ch. 9)",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "ach_047",
+   "internal_key": 527
+  },
+  {
+   "name": "No More Playing With Fire",
+   "desc": "Stopped a true believer from playing with his favorite toy. (Ch. 11)",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "ach_048",
+   "internal_key": 528
+  },
+  {
+   "name": "Melancholy Memories",
+   "desc": "Reminisced about every moment from your past. (Ch. 12)",
+   "hidden": false,
+   "pct": 20.0,
+   "api_name": "ach_049",
+   "internal_key": 529
+  },
+  {
+   "name": "I'll Take You Down Myself",
+   "desc": "Brought your own equipment to the barbecue this time. (Ch. 14)",
+   "hidden": false,
+   "pct": 8.1,
+   "api_name": "ach_050",
+   "internal_key": 530
+  },
+  {
+   "name": "That Cinematic Feel...",
+   "desc": "Opted for a cinematic experience.",
+   "hidden": true,
+   "pct": 5.8,
+   "api_name": "ach_051",
+   "internal_key": 531
+  }
+ ]
+}

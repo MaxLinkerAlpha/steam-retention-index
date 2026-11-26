@@ -1,0 +1,585 @@
+{
+ "appid": 552520,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 72,
+ "achievements": [
+  {
+   "name": "The Spark",
+   "desc": "Complete the game intro by liberating Dutch’s island (Solo Campaign only).",
+   "hidden": false,
+   "pct": 31.1,
+   "api_name": "FC5_Ach_1",
+   "internal_key": 256
+  },
+  {
+   "name": "You Are Wrath",
+   "desc": "Be deemed the Sin of Wrath (Solo Campaign only).",
+   "hidden": false,
+   "pct": 20.8,
+   "api_name": "FC5_Ach_2",
+   "internal_key": 257
+  },
+  {
+   "name": "Special Delivery",
+   "desc": "Ensure a baby's safe passage into this world (Solo Campaign only).",
+   "hidden": false,
+   "pct": 12.4,
+   "api_name": "FC5_Ach_3",
+   "internal_key": 258
+  },
+  {
+   "name": "Only You",
+   "desc": "Sucessfully complete the First Trial (Solo Campaign only).",
+   "hidden": false,
+   "pct": 17.4,
+   "api_name": "FC5_Ach_4",
+   "internal_key": 259
+  },
+  {
+   "name": "Walk The Path",
+   "desc": "Discover the Bliss (Solo Campaign only).",
+   "hidden": false,
+   "pct": 18.3,
+   "api_name": "FC5_Ach_5",
+   "internal_key": 260
+  },
+  {
+   "name": "Together Forever",
+   "desc": "Get to the End (Solo Campaign only).",
+   "hidden": false,
+   "pct": 10.8,
+   "api_name": "FC5_Ach_6",
+   "internal_key": 261
+  },
+  {
+   "name": "Saving Deputy Hudson",
+   "desc": "Save Deputy Hudson (Solo Campaign only).",
+   "hidden": false,
+   "pct": 17.9,
+   "api_name": "FC5_Ach_7",
+   "internal_key": 262
+  },
+  {
+   "name": "Blissful",
+   "desc": "Save the Marshal from the Bliss (Solo Campaign only).",
+   "hidden": false,
+   "pct": 16.1,
+   "api_name": "FC5_Ach_8",
+   "internal_key": 263
+  },
+  {
+   "name": "Saving Sheriff Whitehorse",
+   "desc": "Save Sheriff Whitehorse (Solo Campaign only).",
+   "hidden": false,
+   "pct": 14.4,
+   "api_name": "FC5_Ach_9",
+   "internal_key": 264
+  },
+  {
+   "name": "Saving Deputy Pratt",
+   "desc": "Save Deputy Pratt (Solo Campaign only).",
+   "hidden": false,
+   "pct": 13.1,
+   "api_name": "FC5_Ach_10",
+   "internal_key": 265
+  },
+  {
+   "name": "Science Fact",
+   "desc": "Put aside skepticism and help Larry (Solo Campaign only).",
+   "hidden": false,
+   "pct": 10.2,
+   "api_name": "FC5_Ach_11",
+   "internal_key": 266
+  },
+  {
+   "name": "Ain't No Wallflower",
+   "desc": "Who are these people? Speak to 50 citizens of Hope County (Solo Campaign only).",
+   "hidden": false,
+   "pct": 16.1,
+   "api_name": "FC5_Ach_12",
+   "internal_key": 268
+  },
+  {
+   "name": "Been There, Done That",
+   "desc": "Complete all Hunting & Fishing Challenges (Campaign only).",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "FC5_Ach_13",
+   "internal_key": 269
+  },
+  {
+   "name": "Liberator",
+   "desc": "Liberate 5 locations from the Project at Eden's Gate (Campaign only).",
+   "hidden": false,
+   "pct": 23.9,
+   "api_name": "FC5_Ach_14",
+   "internal_key": 270
+  },
+  {
+   "name": "Scavenger",
+   "desc": "Follow the clues to the end of 3 treasure hunts (Solo Campaign only).",
+   "hidden": false,
+   "pct": 20.8,
+   "api_name": "FC5_Ach_15",
+   "internal_key": 271
+  },
+  {
+   "name": "What Now?",
+   "desc": "Complete 3 Side Missions in Hope County (Solo Campaign only).",
+   "hidden": false,
+   "pct": 22.1,
+   "api_name": "FC5_Ach_16",
+   "internal_key": 272
+  },
+  {
+   "name": "The Greatest SOB That Ever Lived",
+   "desc": "Laugh in danger's face by executing a Clutch Nixon stunt in each region (Solo Campaign only).",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "FC5_Ach_17",
+   "internal_key": 273
+  },
+  {
+   "name": "Pack Rat",
+   "desc": "Grab 1 of each collectible item. You never know when it will come in handy (Solo Campaign only).",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "FC5_Ach_18",
+   "internal_key": 274
+  },
+  {
+   "name": "A Wing And A Prayer",
+   "desc": "Fly Nick's plane. Hopefully you're not afraid of heights (Solo Campaign only).",
+   "hidden": false,
+   "pct": 20.8,
+   "api_name": "FC5_Ach_19",
+   "internal_key": 275
+  },
+  {
+   "name": "Troublemaker",
+   "desc": "Discover the joys of destroying cult property in every region (Solo Campaign only).",
+   "hidden": false,
+   "pct": 11.2,
+   "api_name": "FC5_Ach_20",
+   "internal_key": 276
+  },
+  {
+   "name": "Sewer Rat",
+   "desc": "Destroy a cult water treatment pump and make them thirst for revenge (Solo Campaign only).",
+   "hidden": false,
+   "pct": 16.8,
+   "api_name": "FC5_Ach_21",
+   "internal_key": 277
+  },
+  {
+   "name": "Peachy Keen",
+   "desc": "Bait Peaches into going back home (Solo Campaign only).",
+   "hidden": false,
+   "pct": 16.3,
+   "api_name": "FC5_Ach_22",
+   "internal_key": 278
+  },
+  {
+   "name": "Kicking the Hornet's Nest",
+   "desc": "Trigger the wrath of a Herald (Solo Campaign only).",
+   "hidden": false,
+   "pct": 19.7,
+   "api_name": "FC5_Ach_23",
+   "internal_key": 279
+  },
+  {
+   "name": "ARCADE Player",
+   "desc": "Reach level 20 in the Arcade (Arcade only).",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "FC5_Ach_24",
+   "internal_key": 280
+  },
+  {
+   "name": "ARCADE Hero",
+   "desc": "Play the 'Arcade Hero' mode 5 times (Arcade only).",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "FC5_Ach_25",
+   "internal_key": 281
+  },
+  {
+   "name": "ARCADE Hunter",
+   "desc": "Kill 100 enemies in Arcade Multiplayer maps (Arcade only).",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "FC5_Ach_26",
+   "internal_key": 282
+  },
+  {
+   "name": "ARCADE Enthusiast",
+   "desc": "Successfully complete 10 featured Arcade maps in Solo or Co-op (Arcade only).",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "FC5_Ach_27",
+   "internal_key": 283
+  },
+  {
+   "name": "ARCADE Competitor",
+   "desc": "Win 10 featured maps in Multiplayer (Arcade only).",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "FC5_Ach_28",
+   "internal_key": 284
+  },
+  {
+   "name": "The Hurk Locker",
+   "desc": "Truly bond with Hurk by destroying 15 vehicles together (Campaign only).",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "FC5_Ach_29",
+   "internal_key": 285
+  },
+  {
+   "name": "Hope County Master Angler",
+   "desc": "Acquire all 4 Fishing Rods (Campaign only).",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "FC5_Ach_30",
+   "internal_key": 286
+  },
+  {
+   "name": "Locked and Loaded",
+   "desc": "Fully customize your weapon (Campaign only).",
+   "hidden": false,
+   "pct": 10.0,
+   "api_name": "FC5_Ach_31",
+   "internal_key": 287
+  },
+  {
+   "name": "Ghost Kill",
+   "desc": "Perform a Headshot kill with any bow or rifle on an enemy cultist more than 150m away (Campaign only).",
+   "hidden": false,
+   "pct": 13.5,
+   "api_name": "FC5_Ach_32",
+   "internal_key": 512
+  },
+  {
+   "name": "Extra Crafty",
+   "desc": "Craft 25 recipes (Campaign only).",
+   "hidden": false,
+   "pct": 11.0,
+   "api_name": "FC5_Ach_33",
+   "internal_key": 513
+  },
+  {
+   "name": "Fashion First",
+   "desc": "Purchase $1000 in clothing (Campaign only).",
+   "hidden": false,
+   "pct": 12.7,
+   "api_name": "FC5_Ach_34",
+   "internal_key": 514
+  },
+  {
+   "name": "Big Spender",
+   "desc": "Spend $50000 in Vehicle Shops (Campaign only).",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "FC5_Ach_35",
+   "internal_key": 515
+  },
+  {
+   "name": "Stocked Garage",
+   "desc": "Buy 3 vehicles to populate your garage (Campaign only).",
+   "hidden": false,
+   "pct": 12.8,
+   "api_name": "FC5_Ach_36",
+   "internal_key": 516
+  },
+  {
+   "name": "Ace Killer",
+   "desc": "Destroy 10 planes while driving any aerial vehicle (Campaign only).",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "FC5_Ach_37",
+   "internal_key": 517
+  },
+  {
+   "name": "Squash and Run",
+   "desc": "Run over and kill 20 enemies (Campaign only).",
+   "hidden": false,
+   "pct": 8.6,
+   "api_name": "FC5_Ach_38",
+   "internal_key": 518
+  },
+  {
+   "name": "Fertilizing the Land",
+   "desc": "Using a tractor, obliterate 5 enemies (Campaign only).",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "FC5_Ach_39",
+   "internal_key": 519
+  },
+  {
+   "name": "Death From Above",
+   "desc": "Drop a bomb from a plane and destroy or disable 4 vehicles at once (Campaign only).",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "FC5_Ach_40",
+   "internal_key": 520
+  },
+  {
+   "name": "Opportunity Knocks",
+   "desc": "Using rocks or cans, distract 15 enemies (Campaign only).",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "FC5_Ach_41",
+   "internal_key": 521
+  },
+  {
+   "name": "Road Gunner",
+   "desc": "While driving or leaning out of a vehicle, kill 25 enemies (Campaign only).",
+   "hidden": false,
+   "pct": 28.1,
+   "api_name": "FC5_Ach_42",
+   "internal_key": 522
+  },
+  {
+   "name": "Fish Market",
+   "desc": "Sell 20 fish for cash (Campaign only).",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "FC5_Ach_43",
+   "internal_key": 523
+  },
+  {
+   "name": "Where's the Beef?",
+   "desc": "Tenderize a bull with your bare hands. To death (Campaign only).",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "FC5_Ach_44",
+   "internal_key": 524
+  },
+  {
+   "name": "Ignoble Beasts",
+   "desc": "Kill a bison using only melee weapons (Campaign only).",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "FC5_Ach_45",
+   "internal_key": 525
+  },
+  {
+   "name": "Hitting it Off",
+   "desc": "Play 3 quests with a friend (Campaign only).",
+   "hidden": false,
+   "pct": 12.3,
+   "api_name": "FC5_Ach_46",
+   "internal_key": 526
+  },
+  {
+   "name": "Like A Bird",
+   "desc": "Use a wingsuit to travel more than 5000m (Campaign only).",
+   "hidden": false,
+   "pct": 9.3,
+   "api_name": "FC5_Ach_47",
+   "internal_key": 527
+  },
+  {
+   "name": "Close and Personal",
+   "desc": "Perform 25 close combat Takedown Kills (Campaign only).",
+   "hidden": false,
+   "pct": 15.9,
+   "api_name": "FC5_Ach_48",
+   "internal_key": 528
+  },
+  {
+   "name": "Explosive Surprise",
+   "desc": "Sabotage 5 vehicles in a way that kills an enemy (Campaign only).",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "FC5_Ach_49",
+   "internal_key": 529
+  },
+  {
+   "name": "Survivalist",
+   "desc": "Purchase half of all perks available (Campaign only).",
+   "hidden": false,
+   "pct": 9.9,
+   "api_name": "FC5_Ach_50",
+   "internal_key": 530
+  },
+  {
+   "name": "Silent Death",
+   "desc": "Perform 25 stealth kills while you have the 4 survival instinct tokens.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "FC5_Ach_51",
+   "internal_key": 531
+  },
+  {
+   "name": "80s Hero",
+   "desc": "Complete the game in Action Movie Mode.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "FC5_Ach_52",
+   "internal_key": 532
+  },
+  {
+   "name": "Wendell's Story",
+   "desc": "Complete the game.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "FC5_Ach_53",
+   "internal_key": 533
+  },
+  {
+   "name": "Roguelike",
+   "desc": "Complete the game in Survivor Mode.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "FC5_Ach_54",
+   "internal_key": 534
+  },
+  {
+   "name": "Leave no one behind",
+   "desc": "Free the 3 US prisoner of war.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "FC5_Ach_55",
+   "internal_key": 535
+  },
+  {
+   "name": "Make them count",
+   "desc": "Kill a total of 25 enemies with airstrikes.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "FC5_Ach_56",
+   "internal_key": 536
+  },
+  {
+   "name": "Welcome to Nam",
+   "desc": "Get back your gear at the helicopter crash site.",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "FC5_Ach_57",
+   "internal_key": 537
+  },
+  {
+   "name": "DLC: Mars:Bug Squasher",
+   "desc": "Perform 10 takedowns on Arachnids using the Power Glove.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "FC5_Ach_58",
+   "internal_key": 538
+  },
+  {
+   "name": "DLC: Mars: Mars Second Amendment",
+   "desc": "Buy 12 weapons.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "FC5_Ach_59",
+   "internal_key": 539
+  },
+  {
+   "name": "DLC: Mars: Martian Journal",
+   "desc": "Collect all of Larry's notes (Host Only).",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "FC5_Ach_60",
+   "internal_key": 540
+  },
+  {
+   "name": "DLC: Mars: Nick's Story",
+   "desc": "Complete the game (Host Only).",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "FC5_Ach_61",
+   "internal_key": 541
+  },
+  {
+   "name": "DLC: Mars: Slimy Death",
+   "desc": "Hit 10 Arachnids with Crabmones.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "FC5_Ach_62",
+   "internal_key": 542
+  },
+  {
+   "name": "DLC: Mars: The Queen is Dead!",
+   "desc": "Kill all the Queens (Host Only).",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "FC5_Ach_63",
+   "internal_key": 543
+  },
+  {
+   "name": "DLC: Mars: Welcome to Mars",
+   "desc": "Reboot the Terminal on top of the Control Center Antenna.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "FC5_Ach_64",
+   "internal_key": 768
+  },
+  {
+   "name": "DLC Zombies: FertiliZer",
+   "desc": "Kill 10 Gougers or Hot Heads with the tractor in Fields of Terror.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "FC5_Ach_65",
+   "internal_key": 769
+  },
+  {
+   "name": "DLC Zombies: Early ExZit Denied",
+   "desc": "Try to escape the bridge early in Burned Bridges.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "FC5_Ach_66",
+   "internal_key": 770
+  },
+  {
+   "name": "DLC Zombies: Blood Zragon",
+   "desc": "Kill the Blood Dragon in Killer Climate.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "FC5_Ach_67",
+   "internal_key": 771
+  },
+  {
+   "name": "DLC Zombies: Killer BeeZ",
+   "desc": "Destroy all the Zom-bee nests in Laboratory of the Dead.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "FC5_Ach_68",
+   "internal_key": 772
+  },
+  {
+   "name": "DLC Zombies: ReZolution",
+   "desc": "Complete all 7 movie pitches.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "FC5_Ach_69",
+   "internal_key": 773
+  },
+  {
+   "name": "DLC Zombies: DeceaZed to ExZist",
+   "desc": "Kill 5000 total Gougers, Hot Heads, or Behemoths in any mode.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "FC5_Ach_70",
+   "internal_key": 774
+  },
+  {
+   "name": "DLC Zombies: Gold MedaliZt",
+   "desc": "Get a gold medal in all 7 movie pitches in Score Attack.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "FC5_Ach_71",
+   "internal_key": 775
+  },
+  {
+   "name": "Infamous",
+   "desc": "Complete New Game+ with Infamous difficulty.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "FC5_Ach_72",
+   "internal_key": 776
+  }
+ ]
+}

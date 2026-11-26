@@ -1,0 +1,305 @@
+{
+ "appid": 1593500,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 37,
+ "achievements": [
+  {
+   "name": "Father and Son",
+   "desc": "Obtain all other achievements",
+   "hidden": false,
+   "pct": 6.6,
+   "api_name": "ACHIEVEMENT_ALL",
+   "internal_key": 256
+  },
+  {
+   "name": "The Journey Begins",
+   "desc": "Defend your home from The Stranger",
+   "hidden": true,
+   "pct": 86.9,
+   "api_name": "ACHIEVEMENT_1",
+   "internal_key": 257
+  },
+  {
+   "name": "A New Friend",
+   "desc": "Survive the Witch’s Woods",
+   "hidden": true,
+   "pct": 75.2,
+   "api_name": "ACHIEVEMENT_2",
+   "internal_key": 258
+  },
+  {
+   "name": "Feels Like Home",
+   "desc": "Allow the Light Elves to return home",
+   "hidden": true,
+   "pct": 62.9,
+   "api_name": "ACHIEVEMENT_3",
+   "internal_key": 259
+  },
+  {
+   "name": "Dragon Slayer",
+   "desc": "Defeat the Dragon of the Mountain",
+   "hidden": true,
+   "pct": 57.4,
+   "api_name": "ACHIEVEMENT_4",
+   "internal_key": 260
+  },
+  {
+   "name": "Troubling Consequences",
+   "desc": "Defeat Magni and Modi",
+   "hidden": true,
+   "pct": 53.7,
+   "api_name": "ACHIEVEMENT_5",
+   "internal_key": 261
+  },
+  {
+   "name": "Hello, Old Friend",
+   "desc": "Retrieve the Blades of Chaos",
+   "hidden": true,
+   "pct": 52.9,
+   "api_name": "ACHIEVEMENT_6",
+   "internal_key": 262
+  },
+  {
+   "name": "Promise Fulfilled",
+   "desc": "Heal Atreus",
+   "hidden": true,
+   "pct": 52.6,
+   "api_name": "ACHIEVEMENT_7",
+   "internal_key": 263
+  },
+  {
+   "name": "Round 2",
+   "desc": "Rescue Atreus",
+   "hidden": true,
+   "pct": 50.3,
+   "api_name": "ACHIEVEMENT_8",
+   "internal_key": 264
+  },
+  {
+   "name": "Past Haunts",
+   "desc": "Ride the ship out of Helheim",
+   "hidden": true,
+   "pct": 49.9,
+   "api_name": "ACHIEVEMENT_9",
+   "internal_key": 265
+  },
+  {
+   "name": "Twilight Beckons",
+   "desc": "Defeat Baldur",
+   "hidden": true,
+   "pct": 47.3,
+   "api_name": "ACHIEVEMENT_10",
+   "internal_key": 266
+  },
+  {
+   "name": "Last Wish",
+   "desc": "Spread the ashes",
+   "hidden": true,
+   "pct": 46.7,
+   "api_name": "ACHIEVEMENT_11",
+   "internal_key": 267
+  },
+  {
+   "name": "Beneath the Surface",
+   "desc": "Explore all the Lake of Nine has to offer",
+   "hidden": true,
+   "pct": 24.9,
+   "api_name": "ACHIEVEMENT_12",
+   "internal_key": 268
+  },
+  {
+   "name": "Death Happened Here",
+   "desc": "Fully explore Veithurgard",
+   "hidden": true,
+   "pct": 31.7,
+   "api_name": "ACHIEVEMENT_13",
+   "internal_key": 269
+  },
+  {
+   "name": "Trilingual",
+   "desc": "Learn the languages of Muspelheim and Niflheim",
+   "hidden": false,
+   "pct": 44.3,
+   "api_name": "ACHIEVEMENT_14",
+   "internal_key": 270
+  },
+  {
+   "name": "Dwarven Ingenuity",
+   "desc": "Upgrade a piece of armor",
+   "hidden": false,
+   "pct": 72.3,
+   "api_name": "ACHIEVEMENT_15",
+   "internal_key": 271
+  },
+  {
+   "name": "Nice Moves",
+   "desc": "Obtain a Runic Attack Gem",
+   "hidden": false,
+   "pct": 83.9,
+   "api_name": "ACHIEVEMENT_16",
+   "internal_key": 272
+  },
+  {
+   "name": "Iðunn’s Orchard",
+   "desc": "Fully upgrade your Health",
+   "hidden": false,
+   "pct": 27.4,
+   "api_name": "ACHIEVEMENT_17",
+   "internal_key": 273
+  },
+  {
+   "name": "Quick Tempered",
+   "desc": "Fully upgrade your rage",
+   "hidden": false,
+   "pct": 25.6,
+   "api_name": "ACHIEVEMENT_18",
+   "internal_key": 274
+  },
+  {
+   "name": "Best Dressed",
+   "desc": "Craft an outfit for Atreus",
+   "hidden": false,
+   "pct": 61.6,
+   "api_name": "ACHIEVEMENT_19",
+   "internal_key": 275
+  },
+  {
+   "name": "Enchanted",
+   "desc": "Slot an Enchantment into your armor",
+   "hidden": false,
+   "pct": 88.2,
+   "api_name": "ACHIEVEMENT_20",
+   "internal_key": 276
+  },
+  {
+   "name": "All Will Fall",
+   "desc": "Kill 1,000 Enemies",
+   "hidden": false,
+   "pct": 31.9,
+   "api_name": "ACHIEVEMENT_21",
+   "internal_key": 277
+  },
+  {
+   "name": "Dangerous Skies",
+   "desc": "Free all of the Dragons",
+   "hidden": false,
+   "pct": 22.7,
+   "api_name": "ACHIEVEMENT_22",
+   "internal_key": 278
+  },
+  {
+   "name": "Like Oil and Water",
+   "desc": "Complete all of Brok and Sindri’s Favors",
+   "hidden": false,
+   "pct": 26.6,
+   "api_name": "ACHIEVEMENT_23",
+   "internal_key": 279
+  },
+  {
+   "name": "Curator",
+   "desc": "Collect all of the Artifacts",
+   "hidden": false,
+   "pct": 8.2,
+   "api_name": "ACHIEVEMENT_24",
+   "internal_key": 280
+  },
+  {
+   "name": "Allfather Blinded",
+   "desc": "Kill all of Odin’s Ravens",
+   "hidden": false,
+   "pct": 8.3,
+   "api_name": "ACHIEVEMENT_25",
+   "internal_key": 281
+  },
+  {
+   "name": "The Best Moves",
+   "desc": "Fully upgrade a Runic Attack",
+   "hidden": false,
+   "pct": 49.5,
+   "api_name": "ACHIEVEMENT_26",
+   "internal_key": 282
+  },
+  {
+   "name": "Worthy",
+   "desc": "Fully upgrade the Leviathan Axe",
+   "hidden": false,
+   "pct": 22.7,
+   "api_name": "ACHIEVEMENT_27",
+   "internal_key": 283
+  },
+  {
+   "name": "Why Fight It?",
+   "desc": "Fully upgrade the Blades of Chaos",
+   "hidden": true,
+   "pct": 23.2,
+   "api_name": "ACHIEVEMENT_28",
+   "internal_key": 284
+  },
+  {
+   "name": "Path of the Zealot",
+   "desc": "Obtain Traveler armor set",
+   "hidden": false,
+   "pct": 14.3,
+   "api_name": "ACHIEVEMENT_29",
+   "internal_key": 285
+  },
+  {
+   "name": "Primordial",
+   "desc": "Obtain Ancient armor set",
+   "hidden": false,
+   "pct": 12.5,
+   "api_name": "ACHIEVEMENT_30",
+   "internal_key": 286
+  },
+  {
+   "name": "Unfinished Business",
+   "desc": "Assist all of the wayward spirits",
+   "hidden": false,
+   "pct": 23.3,
+   "api_name": "ACHIEVEMENT_31",
+   "internal_key": 287
+  },
+  {
+   "name": "Treasure Hunter",
+   "desc": "Use treasure maps to find all of the dig spots",
+   "hidden": false,
+   "pct": 8.2,
+   "api_name": "ACHIEVEMENT_32",
+   "internal_key": 512
+  },
+  {
+   "name": "The Truth",
+   "desc": "Read all of the Jötnar shrines",
+   "hidden": false,
+   "pct": 13.8,
+   "api_name": "ACHIEVEMENT_33",
+   "internal_key": 513
+  },
+  {
+   "name": "Fire and Brimstone",
+   "desc": "Complete all of the Trials of Muspelheim",
+   "hidden": false,
+   "pct": 14.1,
+   "api_name": "ACHIEVEMENT_34",
+   "internal_key": 514
+  },
+  {
+   "name": "Darkness and Fog",
+   "desc": "Retrieve all treasure from the Workshop’s center chamber",
+   "hidden": false,
+   "pct": 12.5,
+   "api_name": "ACHIEVEMENT_35",
+   "internal_key": 515
+  },
+  {
+   "name": "Chooser of the Slain",
+   "desc": "Defeat the nine Valkyries",
+   "hidden": false,
+   "pct": 16.7,
+   "api_name": "ACHIEVEMENT_36",
+   "internal_key": 516
+  }
+ ]
+}

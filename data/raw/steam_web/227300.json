@@ -1,0 +1,921 @@
+{
+ "appid": 227300,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 114,
+ "achievements": [
+  {
+   "name": "I Am a GPS",
+   "desc": "Discover at least 20,000 kilometers of roads",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "map_discover_60",
+   "internal_key": 1024
+  },
+  {
+   "name": "Pathfinder",
+   "desc": "Discover at least 40,000 kilometers of roads",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "map_discover_100",
+   "internal_key": 1025
+  },
+  {
+   "name": "Choo-Choo",
+   "desc": "Use the train to cross the channel",
+   "hidden": false,
+   "pct": 45.0,
+   "api_name": "use_train",
+   "internal_key": 1026
+  },
+  {
+   "name": "Sardine",
+   "desc": "Utilize a boat",
+   "hidden": false,
+   "pct": 53.9,
+   "api_name": "use_boat",
+   "internal_key": 1027
+  },
+  {
+   "name": "Head Hunter",
+   "desc": "Discover at least 40 recruitment agencies",
+   "hidden": false,
+   "pct": 7.1,
+   "api_name": "discover_all_agencies",
+   "internal_key": 1028
+  },
+  {
+   "name": "Successfully Docked",
+   "desc": "Use at least 5 ports in the game (counts sea, river and train ports)",
+   "hidden": false,
+   "pct": 15.0,
+   "api_name": "use_all_ports",
+   "internal_key": 1029
+  },
+  {
+   "name": "From the Comfort of Your Home",
+   "desc": "Buy a truck online",
+   "hidden": false,
+   "pct": 46.5,
+   "api_name": "buy_truck_online",
+   "internal_key": 1030
+  },
+  {
+   "name": "My Precious",
+   "desc": "Design and apply to your truck a custom multi-color metallic paint",
+   "hidden": false,
+   "pct": 20.3,
+   "api_name": "metallic_multi_color_paint",
+   "internal_key": 1031
+  },
+  {
+   "name": "Test Drive Limited",
+   "desc": "Drive 999 km during jobs with each of at least 5 truck brands, only your owned trucks count",
+   "hidden": false,
+   "pct": 5.6,
+   "api_name": "999_km_with_each_brand",
+   "internal_key": 1032
+  },
+  {
+   "name": "Just in Time!",
+   "desc": "Take an urgent delivery for a minimum of 550 km and complete it with less than 30 minutes remaining",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "job_urgent",
+   "internal_key": 1033
+  },
+  {
+   "name": "Long Hauler",
+   "desc": "Complete a delivery that was greater than 2,000 km",
+   "hidden": false,
+   "pct": 17.6,
+   "api_name": "job_2000_km",
+   "internal_key": 1034
+  },
+  {
+   "name": "Reliable Contractor",
+   "desc": "Perform jobs for at least 15 different companies in the game",
+   "hidden": false,
+   "pct": 32.1,
+   "api_name": "job_15_companies",
+   "internal_key": 1035
+  },
+  {
+   "name": "Profit Hunter",
+   "desc": "Complete a job worth over €130,000 and minimum 2,200 km",
+   "hidden": false,
+   "pct": 10.4,
+   "api_name": "job_no_ferry",
+   "internal_key": 1036
+  },
+  {
+   "name": "Experience Beats All!",
+   "desc": "Complete deliveries with following trailer types: Machinery, ADR cargo, Container, Refrigerated, Liquid cargo, Fragile cargo, Construction, Bulk cargo",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "job_all_trailer_types",
+   "internal_key": 1037
+  },
+  {
+   "name": "Job Is Only Worth It If It's Done Well!",
+   "desc": "Complete a perfect delivery (no damage, no fines, in-time) for a job that is at least 1,000 km",
+   "hidden": false,
+   "pct": 21.1,
+   "api_name": "perfect_delivery",
+   "internal_key": 1038
+  },
+  {
+   "name": "Careerist",
+   "desc": "Complete 5 jobs in a row - in-time, without taking any damage to cargo and without using autoparking",
+   "hidden": false,
+   "pct": 34.2,
+   "api_name": "5_jobs_in_a_row",
+   "internal_key": 1039
+  },
+  {
+   "name": "Friends Are Always Here to Help You",
+   "desc": "Use automatic parking",
+   "hidden": false,
+   "pct": 83.1,
+   "api_name": "use_automatic_parking",
+   "internal_key": 1040
+  },
+  {
+   "name": "All Is Possible",
+   "desc": "Take and complete jobs with at least 30 different cargo",
+   "hidden": false,
+   "pct": 24.8,
+   "api_name": "jobs_30_cargo",
+   "internal_key": 1041
+  },
+  {
+   "name": "Minimaxer",
+   "desc": "Gain 20,000 XP for several consecutive jobs with the total distance below 10,000 km",
+   "hidden": false,
+   "pct": 16.4,
+   "api_name": "jobs_20k_xp",
+   "internal_key": 1042
+  },
+  {
+   "name": "Honey, I'm Home",
+   "desc": "Use quick travel to return to your headquarters",
+   "hidden": false,
+   "pct": 27.4,
+   "api_name": "quick_travel_to_hq",
+   "internal_key": 1043
+  },
+  {
+   "name": "National Company",
+   "desc": "Own at least one largest garage in your headquarter country",
+   "hidden": false,
+   "pct": 26.7,
+   "api_name": "garages_in_hq_country",
+   "internal_key": 1044
+  },
+  {
+   "name": "Property Magnate",
+   "desc": "Own at least 30 garages",
+   "hidden": false,
+   "pct": 9.8,
+   "api_name": "garage_in_every_city",
+   "internal_key": 1045
+  },
+  {
+   "name": "Working with the Elite",
+   "desc": "Achieve 100% of productivity for at least 5 large garages at the same time",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "large_garage_productivity",
+   "internal_key": 1046
+  },
+  {
+   "name": "Swimming in Success",
+   "desc": "Reach an average daily profit of €450,000",
+   "hidden": false,
+   "pct": 15.9,
+   "api_name": "daily_profit",
+   "internal_key": 1047
+  },
+  {
+   "name": "Performance Optimizer",
+   "desc": "Achieve at least 75% of the average garage productivity for 10 large garages in your company",
+   "hidden": false,
+   "pct": 6.5,
+   "api_name": "productivity_all_garages",
+   "internal_key": 1048
+  },
+  {
+   "name": "Aspects of Professionalism",
+   "desc": "Have at least 10 female and 10 male employees of maximum level in your company",
+   "hidden": false,
+   "pct": 4.1,
+   "api_name": "maxed_male_female",
+   "internal_key": 1049
+  },
+  {
+   "name": "Zzzzz",
+   "desc": "Use a rest stop",
+   "hidden": false,
+   "pct": 66.4,
+   "api_name": "use_rest_stop",
+   "internal_key": 1050
+  },
+  {
+   "name": "Diesel, No Petrol!",
+   "desc": "Use a filling station",
+   "hidden": false,
+   "pct": 71.0,
+   "api_name": "use_gas_station",
+   "internal_key": 1051
+  },
+  {
+   "name": "Parking Challenge",
+   "desc": "Complete 20 deliveries choosing the trailer delivery option which requires reversing",
+   "hidden": false,
+   "pct": 12.0,
+   "api_name": "unload_difficulty",
+   "internal_key": 7442
+  },
+  {
+   "name": "Odyssean Voyager",
+   "desc": "Discover at least 12 cities in Greece (requires Greece DLC)",
+   "hidden": false,
+   "pct": 25.5,
+   "api_name": "gr_visit_cities",
+   "internal_key": 7454
+  },
+  {
+   "name": "Sights and Legends",
+   "desc": "View cutscenes from at least 8 viewpoints in Greece (requires Greece DLC)",
+   "hidden": false,
+   "pct": 8.1,
+   "api_name": "gr_cutscenes",
+   "internal_key": 7455
+  },
+  {
+   "name": "All Inclusive",
+   "desc": "Deliver cargo to at least 4 unique hotels in Greece (requires Greece DLC)",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "gr_hotels",
+   "internal_key": 15616
+  },
+  {
+   "name": "Gift of Athena",
+   "desc": "Deliver olives or olive oil from Eliarchos Olive Farm to 5 different cities in Greece (requires Greece DLC)",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "gr_olive",
+   "internal_key": 15617
+  },
+  {
+   "name": "Temple Worthy",
+   "desc": "Deliver 3 Marble Blocks and 3 undamaged Marble Slabs from Rock Eater Quarry in Greece (requires Greece DLC)",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "gr_marble",
+   "internal_key": 15618
+  },
+  {
+   "name": "Size Matters",
+   "desc": "Deliver first oversize cargo (requires Special Transport DLC)",
+   "hidden": false,
+   "pct": 75.7,
+   "api_name": "st_first_cargo",
+   "internal_key": 2581
+  },
+  {
+   "name": "The Bigger the Better",
+   "desc": "Complete at least 10 unique deliveries of oversize cargoes (requires Special Transport DLC)",
+   "hidden": false,
+   "pct": 8.9,
+   "api_name": "st_all_cargos",
+   "internal_key": 2582
+  },
+  {
+   "name": "Driver Exceptionnel",
+   "desc": "Complete deliveries on at least 10 oversize routes in base game (requires Special Transport DLC)",
+   "hidden": false,
+   "pct": 16.1,
+   "api_name": "st_all_routes",
+   "internal_key": 2583
+  },
+  {
+   "name": "Not a Big Problem",
+   "desc": "Complete 3 consecutive oversize jobs without any damage (requires Special Transport DLC)",
+   "hidden": false,
+   "pct": 18.4,
+   "api_name": "st_no_damage",
+   "internal_key": 2584
+  },
+  {
+   "name": "Giant",
+   "desc": "Complete delivery of the Silo cargo (requires Special Transport DLC)",
+   "hidden": false,
+   "pct": 21.4,
+   "api_name": "st_silo",
+   "internal_key": 2585
+  },
+  {
+   "name": "Big Brother",
+   "desc": "Complete delivery of the Haul Truck Chassis (requires Special Transport DLC)",
+   "hidden": false,
+   "pct": 29.6,
+   "api_name": "st_cat_785c",
+   "internal_key": 2586
+  },
+  {
+   "name": "Not a Canoe",
+   "desc": "Complete delivery of the Service Boat (requires Special Transport DLC)",
+   "hidden": false,
+   "pct": 17.7,
+   "api_name": "st_pilot_boat",
+   "internal_key": 2587
+  },
+  {
+   "name": "Mass-to-don",
+   "desc": "Deliver at least 195 tons of oversized cargo in just 3 consecutive deliveries (requires Special Transport DLC)",
+   "hidden": false,
+   "pct": 9.2,
+   "api_name": "st_mass",
+   "internal_key": 2588
+  },
+  {
+   "name": "Time for Big Hauling",
+   "desc": "Deliver first Heavy Cargo (requires Heavy Cargo Pack DLC)",
+   "hidden": false,
+   "pct": 77.5,
+   "api_name": "hc_firstjob",
+   "internal_key": 2569
+  },
+  {
+   "name": "Keep Calm and Haul Heavy",
+   "desc": "Complete a perfect delivery (no damage, no fines, in-time) of 3 consecutive Heavy Cargo Pack jobs (requires Heavy Cargo Pack DLC)",
+   "hidden": false,
+   "pct": 12.5,
+   "api_name": "hc_threeperf",
+   "internal_key": 2570
+  },
+  {
+   "name": "You Bet I Can Park It!",
+   "desc": "Collect 1,000 XP from parking on Heavy Cargo Pack deliveries (requires Heavy Cargo Pack DLC)",
+   "hidden": false,
+   "pct": 21.8,
+   "api_name": "hc_1000xps",
+   "internal_key": 2571
+  },
+  {
+   "name": "No Pain No Gain",
+   "desc": "Deliver total of 250 tons of cargo on 5 consecutive jobs (requires Heavy Cargo Pack DLC)",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "hc_250t5jobs",
+   "internal_key": 2573
+  },
+  {
+   "name": "I Thought This Should Be Heavy?!",
+   "desc": "Complete a delivery of at least 8 unique cargoes from the Heavy Cargo Pack (requires Heavy Cargo Pack DLC)",
+   "hidden": false,
+   "pct": 12.9,
+   "api_name": "hc_allcargos",
+   "internal_key": 2574
+  },
+  {
+   "name": "Bon Voyage!",
+   "desc": "Discover at least 20 French cities (requires Vive la France ! DLC) ",
+   "hidden": false,
+   "pct": 31.3,
+   "api_name": "fr_visit_cities",
+   "internal_key": 2564
+  },
+  {
+   "name": "Landmark Tour",
+   "desc": "Discover following landmarks of France: Carcassonne, Brotonne bridge, Tiger tank, Peyrat-le-Château, Château de Ventadour, Château d'Ussé (requires Vive la France ! DLC)",
+   "hidden": false,
+   "pct": 9.1,
+   "api_name": "fr_landmarks",
+   "internal_key": 2565
+  },
+  {
+   "name": "Go Nuclear!",
+   "desc": "Deliver cargo to at least 3 nuclear plants in France (requires Vive la France ! DLC)",
+   "hidden": false,
+   "pct": 10.4,
+   "api_name": "fr_nucplants",
+   "internal_key": 2566
+  },
+  {
+   "name": "Check-in, Check-out",
+   "desc": "Deliver cargo to at least 3 cargo airport terminals in France (requires Vive la France ! DLC)",
+   "hidden": false,
+   "pct": 10.3,
+   "api_name": "fr_airports",
+   "internal_key": 2567
+  },
+  {
+   "name": "Gas Must Flow!",
+   "desc": "Deliver diesel, LPG or petrol to at least 3 truck stops in France (requires Vive la France ! DLC)",
+   "hidden": false,
+   "pct": 8.3,
+   "api_name": "fr_truckstop",
+   "internal_key": 2568
+  },
+  {
+   "name": "All Around the Isle of Beauty",
+   "desc": "Discover at least 4 Corsican cities (requires Vive la France ! DLC)",
+   "hidden": false,
+   "pct": 29.5,
+   "api_name": "fr_visit_corsica",
+   "internal_key": 7428
+  },
+  {
+   "name": "Balkan Explorer",
+   "desc": "Discover at least 20 Road to the Black Sea DLC cities (requires Road to the Black Sea DLC)",
+   "hidden": false,
+   "pct": 26.6,
+   "api_name": "be_visit_cities",
+   "internal_key": 7429
+  },
+  {
+   "name": "Ranger",
+   "desc": "Visit at least 4 border crossings between Romania, Bulgaria and Turkey (requires Road to the Black Sea DLC)",
+   "hidden": false,
+   "pct": 23.1,
+   "api_name": "be_border_crossings",
+   "internal_key": 7430
+  },
+  {
+   "name": "Ferryman",
+   "desc": "Use a river ferry (requires Road to the Black Sea DLC)",
+   "hidden": false,
+   "pct": 18.0,
+   "api_name": "be_blke_ferry",
+   "internal_key": 7431
+  },
+  {
+   "name": "Taking the Scenic Route",
+   "desc": "Visit the following landmarks and locations: Iron Gates, Bran Castle (Romania), Pomorie Beach, Wall of Heroes in Varna (Bulgaria), Lake Küçükçekmece in Istanbul (Turkey) (requires Road to the Black Sea DLC)",
+   "hidden": false,
+   "pct": 12.3,
+   "api_name": "be_landmarks",
+   "internal_key": 7432
+  },
+  {
+   "name": "Along the Black Sea",
+   "desc": "Complete excellent deliveries between these coastal cities: Istanbul-Burgas, Burgas-Varna, Varna-Mangalia, MangaliaConstanța. Any order or direction counts (requires Road to the Black Sea DLC)",
+   "hidden": false,
+   "pct": 6.4,
+   "api_name": "be_black_sea",
+   "internal_key": 7434
+  },
+  {
+   "name": "Volvo Trucks Lover",
+   "desc": "Deliver truck cargo from Volvo Trucks factory (requires Scandinavia DLC)",
+   "hidden": false,
+   "pct": 12.0,
+   "api_name": "sc_volvo_cargo",
+   "internal_key": 1052
+  },
+  {
+   "name": "Scania Trucks Lover",
+   "desc": "Deliver truck cargo from Scania factory (requires Scandinavia DLC)",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "sc_scania_cargo",
+   "internal_key": 1053
+  },
+  {
+   "name": "Whatever Floats Your Boat",
+   "desc": "Deliver cargo to at least 1 container port in Scandinavia DLC (requires Scandinavia DLC)",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "sc_container_ports",
+   "internal_key": 1055
+  },
+  {
+   "name": "Cattle Drive",
+   "desc": "Complete a cattle delivery to any company in Scandinavia DLC (requires Scandinavia DLC)",
+   "hidden": false,
+   "pct": 10.8,
+   "api_name": "sc_cows_to_farm",
+   "internal_key": 2560
+  },
+  {
+   "name": "Sightseer",
+   "desc": "Discover at least 15 Scandinavia DLC cities (requires Scandinavia DLC)",
+   "hidden": false,
+   "pct": 33.7,
+   "api_name": "sc_visit_cities",
+   "internal_key": 2561
+  },
+  {
+   "name": "Miner",
+   "desc": "Complete delivery jobs to at least 3 quarries in Scandinavia DLC (requires Scandinavia DLC)",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "sc_quarries_cargo",
+   "internal_key": 2562
+  },
+  {
+   "name": "Aquaphobia",
+   "desc": "Travel across the Øresund Bridge between Copenhagen and Malmö (requires Scandinavia DLC)",
+   "hidden": false,
+   "pct": 65.5,
+   "api_name": "sc_oresund_bridge",
+   "internal_key": 2563
+  },
+  {
+   "name": "Baltic Tourist",
+   "desc": "Discover at least 20 Beyond the Baltic Sea DLC cities (requires Beyond the Baltic Sea DLC)",
+   "hidden": false,
+   "pct": 31.5,
+   "api_name": "ba_visit_cities",
+   "internal_key": 2589
+  },
+  {
+   "name": "Grand Tour",
+   "desc": "Complete excellent deliveries between the following countries: Russia - Lithuania; Lithuania - Latvia; Latvia - Estonia; Estonia - Russia; Russia - Finland. Any order or direction counts (requires Beyond the Baltic Sea DLC)",
+   "hidden": false,
+   "pct": 9.8,
+   "api_name": "ba_job_countries",
+   "internal_key": 2590
+  },
+  {
+   "name": "Exclave Transit",
+   "desc": "Complete 5 deliveries from Kaliningrad to any other Russian city (requires Beyond the Baltic Sea DLC)",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "ba_to_russia",
+   "internal_key": 2591
+  },
+  {
+   "name": "Concrete Jungle",
+   "desc": "Complete 10 deliveries from concrete plants (requires Beyond the Baltic Sea DLC)",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "ba_concrete",
+   "internal_key": 7424
+  },
+  {
+   "name": "Industry Standard",
+   "desc": "Make 2 deliveries to locomotive, furniture and paper mill factories (requires Beyond the Baltic Sea DLC)",
+   "hidden": false,
+   "pct": 6.6,
+   "api_name": "ba_industry",
+   "internal_key": 7425
+  },
+  {
+   "name": "Like a Farmer",
+   "desc": "Deliver cargo to at least 4 farms in Beyond the Baltic Sea DLC (requires Beyond the Baltic Sea DLC)",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "ba_farm",
+   "internal_key": 7426
+  },
+  {
+   "name": "Polar Explorer",
+   "desc": "Discover at least 20 cities in Nordic Horizons (requires Nordic Horizons DLC)",
+   "hidden": false,
+   "pct": 43.1,
+   "api_name": "pc_visit_cities",
+   "internal_key": 15622
+  },
+  {
+   "name": "Northern Secrets",
+   "desc": "View cutscenes from at least 12 viewpoints of Nordic Horizons regions (requires Nordic Horizons DLC)",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "pc_cutscenes",
+   "internal_key": 15623
+  },
+  {
+   "name": "Salmon Run",
+   "desc": "Deliver 2 cargoes of Salmon Fillet from the city of Tromsø or Alta to 2 different countries (requires Nordic Horizons DLC)",
+   "hidden": false,
+   "pct": 5.6,
+   "api_name": "pc_salm_fillet",
+   "internal_key": 15624
+  },
+  {
+   "name": "Above the Arctic Circle",
+   "desc": "Complete excellent deliveries in this order and direction: Ivalo - Kiruna - Svolvær (requires Nordic Horizons DLC)",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "pc_polar_circle",
+   "internal_key": 15625
+  },
+  {
+   "name": "Conquistador",
+   "desc": "Discover at least 30 cities in Iberia (requires Iberia DLC)",
+   "hidden": false,
+   "pct": 26.8,
+   "api_name": "ib_visit_cities",
+   "internal_key": 7436
+  },
+  {
+   "name": "Let's Get Shipping",
+   "desc": "Deliver cargo to at least 4 container ports in Iberia (requires Iberia DLC)",
+   "hidden": false,
+   "pct": 7.2,
+   "api_name": "ib_container_ports",
+   "internal_key": 7437
+  },
+  {
+   "name": "Taste the Sun",
+   "desc": "Deliver ADR cargo to at least 2 solar power plants in Iberia (requires Iberia DLC)",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "ib_solar_power_plants",
+   "internal_key": 7438
+  },
+  {
+   "name": "Fleet Builder",
+   "desc": "Deliver cargo to at least 3 shipyards in Iberia (requires Iberia DLC)",
+   "hidden": false,
+   "pct": 7.0,
+   "api_name": "ib_shipyards",
+   "internal_key": 7439
+  },
+  {
+   "name": "Iberian Pilgrimage",
+   "desc": "Complete a delivery from Lisbon, Seville, and Pamplona to A Coruña (requires Iberia DLC)",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "ib_a_coruna",
+   "internal_key": 7440
+  },
+  {
+   "name": "Grand Tour Guide",
+   "desc": "View cutscenes from at least 12 viewpoints in Iberia (requires Iberia DLC)",
+   "hidden": false,
+   "pct": 8.8,
+   "api_name": "ib_cutscenes",
+   "internal_key": 7441
+  },
+  {
+   "name": "Imperator",
+   "desc": "Discover at least 15 Italian cities (requires Italia DLC)",
+   "hidden": false,
+   "pct": 31.2,
+   "api_name": "it_visit_cities",
+   "internal_key": 2575
+  },
+  {
+   "name": "True Sicilian",
+   "desc": "Own a garage in at least 2 Sicilian cities (requires Italia DLC)",
+   "hidden": false,
+   "pct": 23.2,
+   "api_name": "it_garages",
+   "internal_key": 2576
+  },
+  {
+   "name": "Captain",
+   "desc": "Deliver cargo to at least 1 Italian shipyard (requires Italia DLC) ",
+   "hidden": false,
+   "pct": 11.5,
+   "api_name": "it_shipyards",
+   "internal_key": 2577
+  },
+  {
+   "name": "Mind the Lava",
+   "desc": "Visit Etna and Vesuvius volcanoes (requires Italia DLC)",
+   "hidden": false,
+   "pct": 29.6,
+   "api_name": "it_volcanoes",
+   "internal_key": 2578
+  },
+  {
+   "name": "Many Roads Lead to Rome",
+   "desc": "Enter Rome from at least 3 corridors that lead to it (requires Italia DLC)",
+   "hidden": false,
+   "pct": 16.4,
+   "api_name": "it_roads_to_rome",
+   "internal_key": 2579
+  },
+  {
+   "name": "Michelangelo",
+   "desc": "Complete a delivery from Carrara quarry (requires Italia DLC)",
+   "hidden": false,
+   "pct": 10.8,
+   "api_name": "it_quarry",
+   "internal_key": 2580
+  },
+  {
+   "name": "All Around the Blue Island",
+   "desc": "Discover at least 2 Sardinian cities (requires Italia DLC)",
+   "hidden": false,
+   "pct": 46.8,
+   "api_name": "it_visit_sardinia",
+   "internal_key": 7427
+  },
+  {
+   "name": "Road to the Adriatics",
+   "desc": "Discover at least 20 cities in West Balkans (requires West Balkans DLC)",
+   "hidden": false,
+   "pct": 25.8,
+   "api_name": "bw_visit_cities",
+   "internal_key": 7443
+  },
+  {
+   "name": "Grand Adventurer",
+   "desc": "View cutscenes from at least 8 viewpoints in West Balkans (requires West Balkans DLC)",
+   "hidden": false,
+   "pct": 9.3,
+   "api_name": "bw_cutscenes",
+   "internal_key": 7444
+  },
+  {
+   "name": "Through the Serpentines",
+   "desc": "Complete a perfect delivery (no damage, no fines, in-time) between Pristina and Bijelo Polje (requires West Balkans DLC)",
+   "hidden": false,
+   "pct": 6.7,
+   "api_name": "bw_pristina_bijelo_polje",
+   "internal_key": 7445
+  },
+  {
+   "name": "Holiday Coastline",
+   "desc": "Complete 3 deliveries along the coast in this order: Rijeka - Zadar - Split - Niksic (requires West Balkans DLC)",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "bw_coastline",
+   "internal_key": 7446
+  },
+  {
+   "name": "Going Camping",
+   "desc": "Deliver the following cargoes from companies in West Balkans to complete a production chain in this order: Ore, Aluminium Ingots, Electrical Wiring, Electronics, Campervans (requires West Balkans DLC)",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "bw_ore_caravans",
+   "internal_key": 7447
+  },
+  {
+   "name": "Get the Ball Rollin'",
+   "desc": "Complete the first scenario of the first chapter in Truck Driving Basics (Driving Academy)",
+   "hidden": false,
+   "pct": 8.3,
+   "api_name": "aca_first",
+   "internal_key": 7448
+  },
+  {
+   "name": "Professional Driver",
+   "desc": "Complete at least 6 scenarios in the fourth chapter of Truck Driving Basics while using only the interior camera (Driving Academy)",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "aca_interior",
+   "internal_key": 7449
+  },
+  {
+   "name": "Dedicated Student",
+   "desc": "Complete at least 28 scenarios in Truck Driving Basics including the final exams (Driving Academy)",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "aca_truck_driving",
+   "internal_key": 7450
+  },
+  {
+   "name": "One-Shottin' It",
+   "desc": "Complete any scenario in fourth chapter of Truck Driving Basics in one attempt without correcting by driving forward (Driving Academy)",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "aca_no_forward",
+   "internal_key": 7451
+  },
+  {
+   "name": "Rowing Through the Gears",
+   "desc": "Complete 20 scenarios in chapters two, three or four using manual transmission in Truck Driving Basics (Driving Academy)",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "aca_manual_transmission",
+   "internal_key": 7452
+  },
+  {
+   "name": "Failure Is Not an Option",
+   "desc": "Complete any 5 scenarios in a row without failure from the third or fourth chapter in Truck Driving Basics (Driving Academy)",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "aca_consecutive",
+   "internal_key": 7453
+  },
+  {
+   "name": "Advanced Student",
+   "desc": "Complete the pass conditions in at least 23 scenarios in Truck Driving Proficiency (Driving Academy)",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "aca_pass_conditions",
+   "internal_key": 15619
+  },
+  {
+   "name": "Nerd of the Road",
+   "desc": "Obtain 3 stars in at least 15 scenarios in Truck Driving Proficiency (Driving Academy)",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "aca_stars",
+   "internal_key": 15620
+  },
+  {
+   "name": "Shining Star",
+   "desc": "Obtain 3 stars in any 3 scenarios played in a row in Truck Driving Proficiency (Driving Academy)",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "aca_stars_consecutive",
+   "internal_key": 15621
+  },
+  {
+   "name": "Double Trouble",
+   "desc": "Complete at least 12 scenarios in Double Trailer Handling (Driving Academy)",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "aca_book3",
+   "internal_key": 15626
+  },
+  {
+   "name": "Sailor",
+   "desc": "Deliver yachts to all Scandinavian marinas (requires Scandinavia and High Power Cargo Pack DLCs)",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "sc_deliver_marinas",
+   "internal_key": 1054
+  },
+  {
+   "name": "Turkish Delight",
+   "desc": "Complete 3 deliveries from Istanbul which are at least 2,500 km long (requires Road to the Black Sea and Going East DLCs)",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "be_istanbul_jobs",
+   "internal_key": 7433
+  },
+  {
+   "name": "Orient Express",
+   "desc": "Complete deliveries between following cities, in this order and direction: Paris-Strasbourg, Strasbourg-Munich, Munich-Vienna, Vienna-Budapest, Budapest-Bucharest, Bucharest-Istanbul (requires Road to the Black Sea and Going East DLCs)",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "be_express",
+   "internal_key": 7435
+  },
+  {
+   "name": "Land of Fire and Ice",
+   "desc": "Discover at least 12 cities in Iceland (requires Iceland DLC)",
+   "hidden": false,
+   "pct": 25.0,
+   "api_name": "is_visit_cities",
+   "internal_key": 15627
+  },
+  {
+   "name": "Saga Sights",
+   "desc": "View cutscenes from at least 8 viewpoints in Iceland (requires Iceland DLC)",
+   "hidden": false,
+   "pct": 9.3,
+   "api_name": "is_cutscenes",
+   "internal_key": 15628
+  },
+  {
+   "name": "Lord of the Ringroad",
+   "desc": "Complete 3 excellent deliveries in this order: Reykjavík - Höfn - Akureyri - Reykjavík (requires Iceland DLC)",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "is_ringroad",
+   "internal_key": 15629
+  },
+  {
+   "name": "Outrun the Yule Cat",
+   "desc": "Complete 3 livestock deliveries of sheep to or from 3 different farms in Iceland (requires Iceland DLC)",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "is_sheep",
+   "internal_key": 15630
+  },
+  {
+   "name": "Smooth Start",
+   "desc": "Complete a coach job with 90% or higher passenger satisfaction (requires Coaches DLC)",
+   "hidden": false,
+   "pct": 74.1,
+   "api_name": "bus_job_satisfaction",
+   "internal_key": 15631
+  },
+  {
+   "name": "Seasoned Traveller",
+   "desc": "Drive a total of 5,000 kilometers in your own vehicle during a coach job (requires Coaches DLC)",
+   "hidden": false,
+   "pct": 16.8,
+   "api_name": "bus_jobs_owned_distance",
+   "internal_key": 15632
+  },
+  {
+   "name": "Multitalented Driver",
+   "desc": "Spend at least one skill point in each coach skill (requires Coaches DLC)",
+   "hidden": false,
+   "pct": 20.8,
+   "api_name": "bus_skills",
+   "internal_key": 15633
+  },
+  {
+   "name": "Rule of Threes",
+   "desc": "Complete 3 consecutive jobs of at least 300 kilometers each with 100% satisfaction (requires Coaches DLC)",
+   "hidden": false,
+   "pct": 10.8,
+   "api_name": "bus_jobs_consecutive",
+   "internal_key": 15634
+  }
+ ]
+}

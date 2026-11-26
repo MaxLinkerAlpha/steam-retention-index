@@ -1,0 +1,361 @@
+{
+ "appid": 304240,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 44,
+ "achievements": [
+  {
+   "name": "Like Taking Candy from a Baby",
+   "desc": "Finish the game on Very Easy difficulty or higher.",
+   "hidden": false,
+   "pct": 27.6,
+   "api_name": "ACHIEVEMENT_0",
+   "internal_key": 512
+  },
+  {
+   "name": "Not in the Mood to Die",
+   "desc": "Finish the game on Easy difficulty or higher.",
+   "hidden": false,
+   "pct": 22.2,
+   "api_name": "ACHIEVEMENT_1",
+   "internal_key": 513
+  },
+  {
+   "name": "Take that, Zombies!",
+   "desc": "Finish the game on Normal difficulty or higher.",
+   "hidden": false,
+   "pct": 11.4,
+   "api_name": "ACHIEVEMENT_2",
+   "internal_key": 514
+  },
+  {
+   "name": "Oh, the Horror",
+   "desc": "Finish the game on Hard difficulty.",
+   "hidden": true,
+   "pct": 5.2,
+   "api_name": "ACHIEVEMENT_3",
+   "internal_key": 515
+  },
+  {
+   "name": "We're in This Together",
+   "desc": "Finish the game with Jill and Chris.",
+   "hidden": false,
+   "pct": 9.4,
+   "api_name": "ACHIEVEMENT_4",
+   "internal_key": 516
+  },
+  {
+   "name": "The Survival Horror",
+   "desc": "Finish the game in Real Survival mode.",
+   "hidden": true,
+   "pct": 3.4,
+   "api_name": "ACHIEVEMENT_5",
+   "internal_key": 517
+  },
+  {
+   "name": "Ghost of a Chance",
+   "desc": "Finish the game in Invisible Enemy mode.",
+   "hidden": true,
+   "pct": 3.0,
+   "api_name": "ACHIEVEMENT_6",
+   "internal_key": 518
+  },
+  {
+   "name": "Not Just Any Object",
+   "desc": "Obtain the Stone & Metal Object using Chris.",
+   "hidden": true,
+   "pct": 17.2,
+   "api_name": "ACHIEVEMENT_7",
+   "internal_key": 519
+  },
+  {
+   "name": "Herbicide",
+   "desc": "Defeat Plant 42 using Chris.",
+   "hidden": true,
+   "pct": 15.8,
+   "api_name": "ACHIEVEMENT_8",
+   "internal_key": 520
+  },
+  {
+   "name": "Written Word is Dead",
+   "desc": "Obtain the \"Last Book Vol. 2\" using Chris.",
+   "hidden": true,
+   "pct": 15.4,
+   "api_name": "ACHIEVEMENT_9",
+   "internal_key": 521
+  },
+  {
+   "name": "An End to a Poor Girl's Misery",
+   "desc": "Defeat Lisa Trevor using Chris.",
+   "hidden": true,
+   "pct": 14.9,
+   "api_name": "ACHIEVEMENT_10",
+   "internal_key": 522
+  },
+  {
+   "name": "You da Man, Chris",
+   "desc": "Finish the game using Chris.",
+   "hidden": false,
+   "pct": 14.8,
+   "api_name": "ACHIEVEMENT_11",
+   "internal_key": 523
+  },
+  {
+   "name": "Grave Digger",
+   "desc": "Defeat a Crimson Head prototype1 using Jill.",
+   "hidden": true,
+   "pct": 27.0,
+   "api_name": "ACHIEVEMENT_12",
+   "internal_key": 524
+  },
+  {
+   "name": "The Key Master",
+   "desc": "Obtain the Helmet Key using Jill.",
+   "hidden": true,
+   "pct": 24.3,
+   "api_name": "ACHIEVEMENT_13",
+   "internal_key": 525
+  },
+  {
+   "name": "Giant Snake Got Nothin'",
+   "desc": "Defeat Yawn using Jill.",
+   "hidden": true,
+   "pct": 23.5,
+   "api_name": "ACHIEVEMENT_14",
+   "internal_key": 526
+  },
+  {
+   "name": "Where the Magic Happens",
+   "desc": "Break into the laboratory using Jill.",
+   "hidden": true,
+   "pct": 22.6,
+   "api_name": "ACHIEVEMENT_15",
+   "internal_key": 527
+  },
+  {
+   "name": "Alpha Team's Finest",
+   "desc": "Finish the game using Jill.",
+   "hidden": false,
+   "pct": 22.3,
+   "api_name": "ACHIEVEMENT_16",
+   "internal_key": 528
+  },
+  {
+   "name": "Get Used To It",
+   "desc": "Die for the first time.",
+   "hidden": false,
+   "pct": 68.2,
+   "api_name": "ACHIEVEMENT_17",
+   "internal_key": 529
+  },
+  {
+   "name": "First Kills Are Special",
+   "desc": "Defeat a zombie.",
+   "hidden": false,
+   "pct": 76.0,
+   "api_name": "ACHIEVEMENT_18",
+   "internal_key": 530
+  },
+  {
+   "name": "Not Taking Any Chances",
+   "desc": "Burn up a zombie.",
+   "hidden": false,
+   "pct": 38.0,
+   "api_name": "ACHIEVEMENT_19",
+   "internal_key": 531
+  },
+  {
+   "name": "Who's the Hunter Now?",
+   "desc": "Defeat a Hunter.",
+   "hidden": true,
+   "pct": 30.1,
+   "api_name": "ACHIEVEMENT_20",
+   "internal_key": 532
+  },
+  {
+   "name": "Bravo, Rebecca",
+   "desc": "Save Chris using Rebecca.",
+   "hidden": true,
+   "pct": 12.2,
+   "api_name": "ACHIEVEMENT_21",
+   "internal_key": 533
+  },
+  {
+   "name": "What a Great Guy",
+   "desc": "Save Jill using Barry.",
+   "hidden": true,
+   "pct": 26.8,
+   "api_name": "ACHIEVEMENT_22",
+   "internal_key": 534
+  },
+  {
+   "name": "Delaying the Inevitable",
+   "desc": "Save Richard with a serum.",
+   "hidden": true,
+   "pct": 28.0,
+   "api_name": "ACHIEVEMENT_23",
+   "internal_key": 535
+  },
+  {
+   "name": "That Was Nice of You",
+   "desc": "Save Rebecca from a Hunter.",
+   "hidden": true,
+   "pct": 12.5,
+   "api_name": "ACHIEVEMENT_24",
+   "internal_key": 536
+  },
+  {
+   "name": "Trust Him",
+   "desc": "Save Barry from Lisa Trevor.",
+   "hidden": true,
+   "pct": 21.1,
+   "api_name": "ACHIEVEMENT_25",
+   "internal_key": 537
+  },
+  {
+   "name": "Sorry I Made You Wait",
+   "desc": "Save Jill from confinement using Chris.",
+   "hidden": true,
+   "pct": 14.1,
+   "api_name": "ACHIEVEMENT_26",
+   "internal_key": 538
+  },
+  {
+   "name": "Sorry About the Wait",
+   "desc": "Save Chris from confinement using Jill.",
+   "hidden": true,
+   "pct": 20.8,
+   "api_name": "ACHIEVEMENT_27",
+   "internal_key": 539
+  },
+  {
+   "name": "The Nightmare Ends",
+   "desc": "Finish the game saving Rebecca and Jill using Chris.",
+   "hidden": true,
+   "pct": 11.5,
+   "api_name": "ACHIEVEMENT_28",
+   "internal_key": 540
+  },
+  {
+   "name": "I'm a Member of S.T.A.R.S.",
+   "desc": "Finish the game saving Chris and Barry using Jill.",
+   "hidden": true,
+   "pct": 18.5,
+   "api_name": "ACHIEVEMENT_29",
+   "internal_key": 541
+  },
+  {
+   "name": "Every Man for Himself",
+   "desc": "Finish the game without saving anyone using Chris.",
+   "hidden": true,
+   "pct": 4.0,
+   "api_name": "ACHIEVEMENT_30",
+   "internal_key": 542
+  },
+  {
+   "name": "Every Woman for Herself",
+   "desc": "Finish the game without saving anyone using Jill.",
+   "hidden": true,
+   "pct": 4.9,
+   "api_name": "ACHIEVEMENT_31",
+   "internal_key": 543
+  },
+  {
+   "name": "Seeing Red",
+   "desc": "Defeat a Crimson Head.",
+   "hidden": true,
+   "pct": 40.3,
+   "api_name": "ACHIEVEMENT_32",
+   "internal_key": 768
+  },
+  {
+   "name": "Not Waiting to Exhale",
+   "desc": "Survive your first encounter with Yawn.",
+   "hidden": true,
+   "pct": 26.6,
+   "api_name": "ACHIEVEMENT_33",
+   "internal_key": 769
+  },
+  {
+   "name": "Deep Sixed",
+   "desc": "Defeat mother Neptune.",
+   "hidden": true,
+   "pct": 30.6,
+   "api_name": "ACHIEVEMENT_34",
+   "internal_key": 770
+  },
+  {
+   "name": "Spider Sense",
+   "desc": "Defeat Black Tiger.",
+   "hidden": true,
+   "pct": 27.8,
+   "api_name": "ACHIEVEMENT_35",
+   "internal_key": 771
+  },
+  {
+   "name": "Don't Stop Running",
+   "desc": "Finish the game in three hours.",
+   "hidden": false,
+   "pct": 5.2,
+   "api_name": "ACHIEVEMENT_36",
+   "internal_key": 772
+  },
+  {
+   "name": "Racing and Pacing",
+   "desc": "Finish the game in five hours.",
+   "hidden": false,
+   "pct": 6.7,
+   "api_name": "ACHIEVEMENT_37",
+   "internal_key": 773
+  },
+  {
+   "name": "CQC FTW",
+   "desc": "Finish the game using only your knife.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "ACHIEVEMENT_38",
+   "internal_key": 774
+  },
+  {
+   "name": "Ink is for Squids",
+   "desc": "Finish the game without saving.",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "ACHIEVEMENT_39",
+   "internal_key": 775
+  },
+  {
+   "name": "Break Out the Marshmallows!",
+   "desc": "Burn up two zombies at the same time with the lighter.",
+   "hidden": false,
+   "pct": 14.3,
+   "api_name": "ACHIEVEMENT_40",
+   "internal_key": 776
+  },
+  {
+   "name": "Starsenal",
+   "desc": "Obtain all weapons.",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "ACHIEVEMENT_41",
+   "internal_key": 777
+  },
+  {
+   "name": "Passion for Fashion",
+   "desc": "Obtain all costumes.",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "ACHIEVEMENT_42",
+   "internal_key": 778
+  },
+  {
+   "name": "Every Nook and Cranny",
+   "desc": "Visit all places on all maps.",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "ACHIEVEMENT_43",
+   "internal_key": 779
+  }
+ ]
+}

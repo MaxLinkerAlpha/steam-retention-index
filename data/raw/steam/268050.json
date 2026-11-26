@@ -1,0 +1,505 @@
+{
+ "appid": 268050,
+ "game": "The Evil Within",
+ "snapshot": "2026-11-24 17:47 +08",
+ "count": 71,
+ "achievements": [
+  {
+   "api": "ach_0",
+   "name": "Weapon of Choice",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.0
+  },
+  {
+   "api": "ach_22",
+   "name": "...And the Corpses Mount",
+   "desc": "Kill 30 enemies.",
+   "hidden": false,
+   "pct": 46.5
+  },
+  {
+   "api": "ach_1",
+   "name": "Old Flame",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.6
+  },
+  {
+   "api": "ach_33",
+   "name": "Home is Where the Hospice is",
+   "desc": "That vision in the hospice... why here? Why now? (Ch. 4)",
+   "hidden": false,
+   "pct": 39.2
+  },
+  {
+   "api": "ach_2",
+   "name": "Two on Two",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.6
+  },
+  {
+   "api": "ach_3",
+   "name": "What's in the Box?",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.8
+  },
+  {
+   "api": "ach_23",
+   "name": "Krimson PD Fury",
+   "desc": "Kill 200 enemies.",
+   "hidden": false,
+   "pct": 29.9
+  },
+  {
+   "api": "ach_4",
+   "name": "The First, Not the Last",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.6
+  },
+  {
+   "api": "ach_5",
+   "name": "Arachnophobia",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.4
+  },
+  {
+   "api": "ach_6",
+   "name": "Slither into Oblivion",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.4
+  },
+  {
+   "api": "ach_7",
+   "name": "One of the Many",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.0
+  },
+  {
+   "api": "ach_8",
+   "name": "First Step into Darkness",
+   "desc": "Complete the game on Casual difficulty.",
+   "hidden": false,
+   "pct": 26.9
+  },
+  {
+   "api": "ach_27",
+   "name": "Drop It Like It's Hot",
+   "desc": "Kill 3 living enemies with one drop of a match.",
+   "hidden": false,
+   "pct": 26.1
+  },
+  {
+   "api": "ach_40",
+   "name": "Entry Level Electrician",
+   "desc": "I should get this whole generator panel running just in case. (Ch. 14)",
+   "hidden": false,
+   "pct": 25.6
+  },
+  {
+   "api": "ach_21",
+   "name": "Burn, Baby, Burn!",
+   "desc": "Kill 5 enemies with a torch.",
+   "hidden": false,
+   "pct": 23.3
+  },
+  {
+   "api": "ach_9",
+   "name": "Another Day on the Job",
+   "desc": "Complete the game on Survival difficulty.",
+   "hidden": false,
+   "pct": 18.2
+  },
+  {
+   "api": "ach_20",
+   "name": "Silent Kill",
+   "desc": "Kill 5 enemies in a row with a sneak kill without being discovered.",
+   "hidden": false,
+   "pct": 15.3
+  },
+  {
+   "api": "ach_14",
+   "name": "My Best Friend",
+   "desc": "Completely upgrade one weapon.",
+   "hidden": false,
+   "pct": 13.7
+  },
+  {
+   "api": "ach_26",
+   "name": "Bloody Bar Brawl",
+   "desc": "Sneak Kill an enemy after hitting them with a bottle.",
+   "hidden": false,
+   "pct": 12.8
+  },
+  {
+   "api": "ach_35",
+   "name": "Everybody Gets One",
+   "desc": "Who wouldn't reach out for a man clinging for his life? (Ch. 6)",
+   "hidden": false,
+   "pct": 11.8
+  },
+  {
+   "api": "ach_24",
+   "name": "One Man Army",
+   "desc": "Kill 400 enemies.",
+   "hidden": false,
+   "pct": 10.8
+  },
+  {
+   "api": "ach_25",
+   "name": "Ammo Conservationist",
+   "desc": "Kill 25 enemies with melee attacks.",
+   "hidden": false,
+   "pct": 9.8
+  },
+  {
+   "api": "ach_13",
+   "name": "Hardbody",
+   "desc": "Fully upgrade all of Sebastian's attributes.",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "ach_45",
+   "name": "A Different Beginning",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.4
+  },
+  {
+   "api": "ach_38",
+   "name": "Bathed in Flames",
+   "desc": "Enough running! I'll burn her to the ground right here! (Ch. 10)",
+   "hidden": false,
+   "pct": 8.5
+  },
+  {
+   "api": "ach_46",
+   "name": "Not as it Seems",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.4
+  },
+  {
+   "api": "ach_67",
+   "name": "Home Invasion",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.9
+  },
+  {
+   "api": "ach_55",
+   "name": "Things Fall Apart",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.8
+  },
+  {
+   "api": "ach_66",
+   "name": "Got to Destroy the Brain",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.8
+  },
+  {
+   "api": "ach_15",
+   "name": "The Power of Three",
+   "desc": "Completely upgrade three weapons.",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "ach_56",
+   "name": "Where Do We Go From Here?",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.6
+  },
+  {
+   "api": "ach_41",
+   "name": "Prank Call",
+   "desc": "Lure an enemy with a phone call and lock them in a room. (Ch. 1)",
+   "hidden": false,
+   "pct": 7.5
+  },
+  {
+   "api": "ach_68",
+   "name": "The Craftsman's Tools",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.4
+  },
+  {
+   "api": "ach_17",
+   "name": "Why Can't I Hold All This Ammo?",
+   "desc": "Upgrade all options in the Stock menu.",
+   "hidden": false,
+   "pct": 6.5
+  },
+  {
+   "api": "ach_36",
+   "name": "I Don't Have Time for This!",
+   "desc": "It won't stay dead! Better only fight when I have to. (Ch. 7)",
+   "hidden": false,
+   "pct": 6.1
+  },
+  {
+   "api": "ach_34",
+   "name": "Not Part of the Job Description",
+   "desc": "The water's rising, but we'll get out of this without a scratch. (Ch. 5)",
+   "hidden": false,
+   "pct": 5.6
+  },
+  {
+   "api": "ach_16",
+   "name": "Unstoppable Arsenal",
+   "desc": "Completely upgrade all weapons.",
+   "hidden": false,
+   "pct": 5.2
+  },
+  {
+   "api": "ach_42",
+   "name": "Clutch!",
+   "desc": "Use a single trap to kill two or more enemies in The Assignment. (Ch. 2)",
+   "hidden": false,
+   "pct": 4.8
+  },
+  {
+   "api": "ach_52",
+   "name": "A Real Hero",
+   "desc": "Save Sebastian's life in the hotel. (Ch. 4)",
+   "hidden": false,
+   "pct": 4.8
+  },
+  {
+   "api": "ach_48",
+   "name": "A Piece of My Past",
+   "desc": "Collect all Personnel Files in The Assignment.",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "ach_58",
+   "name": "Becoming an Agent",
+   "desc": "Collect all Personnel Files in The Consequence.",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "ach_12",
+   "name": "Master of Unlocking",
+   "desc": "Open up all the lockers in the save room.",
+   "hidden": false,
+   "pct": 4.6
+  },
+  {
+   "api": "ach_61",
+   "name": "Nosy Parent",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.5
+  },
+  {
+   "api": "ach_32",
+   "name": "Knife Beats Chainsaw",
+   "desc": "His engine roars, but my knife is strong enough to take him out. (Ch.3) ",
+   "hidden": false,
+   "pct": 4.4
+  },
+  {
+   "api": "ach_65",
+   "name": "Trapper and Keeper",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.0
+  },
+  {
+   "api": "ach_44",
+   "name": "Death Grip",
+   "desc": "Get a Cadaver to grab and kill a Haunted. (Ch. 2)",
+   "hidden": false,
+   "pct": 3.7
+  },
+  {
+   "api": "ach_47",
+   "name": "Doctor's Notes",
+   "desc": "Collect all Research Documents in The Assignment.",
+   "hidden": false,
+   "pct": 3.7
+  },
+  {
+   "api": "ach_54",
+   "name": "Stick to the Script",
+   "desc": "Defeat Ruvik before the final showdown in The Consequence. (Ch. 4)",
+   "hidden": false,
+   "pct": 3.7
+  },
+  {
+   "api": "ach_18",
+   "name": "Blow Up the Playing Field",
+   "desc": "Use a secret explosive weapon to kill 10 enemies. (Agony Bolt effects negate results)",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "ach_31",
+   "name": "À la Corvo",
+   "desc": "Have they lost their minds? Better get past them without a fight.  (Ch.2)",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "ach_43",
+   "name": "All You Need is Axe",
+   "desc": "Survive the duel without using any electronic devices in the environment. (Ch. 2)",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "ach_57",
+   "name": "It's All Your Fault",
+   "desc": "Collect all Research Documents in The Consequence.",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "ach_10",
+   "name": "Master of Horror",
+   "desc": "Complete the game on Nightmare difficulty.",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "ach_11",
+   "name": "Every Nook and Cranny",
+   "desc": "Collect every collectable in the game.",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "ach_49",
+   "name": "A Warning",
+   "desc": "Complete the hidden letter in The Assignment.",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "ach_19",
+   "name": "Full House",
+   "desc": "Kill 5 enemies with each type of Agony Bolt.",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "ach_37",
+   "name": "Item Management",
+   "desc": "This cave echoes like crazy. Better put the gun away and keep quiet. (Ch. 8)",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "ach_59",
+   "name": "This is Just the Beginning",
+   "desc": "Complete the hidden letter in The Consequence.",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "ach_64",
+   "name": "Krimson Chainsaw Massacre",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "ach_70",
+   "name": "You Had This Coming",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "ach_51",
+   "name": "Fumbling in the Dark",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.8
+  },
+  {
+   "api": "ach_30",
+   "name": "You Asked For It",
+   "desc": "Finish the game on 悪夢(AKUMU) mode.",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "ach_39",
+   "name": "Not a Scratch on Her!",
+   "desc": "I'm not taking any chances, this bus can't take much more damage. (Ch. 12)",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "ach_28",
+   "name": "The Quick and the Dead",
+   "desc": "Finish the game with a clear time of under 5:00:00",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "ach_29",
+   "name": "It Is What It Is",
+   "desc": "Finish the game without upgrading any skills with green gel.",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "ach_53",
+   "name": "There Will Not Be Blood",
+   "desc": "Get through the hotel without being spotted or killing any enemies. (Ch. 4)",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "ach_62",
+   "name": "Cruel and Unusual",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.2
+  },
+  {
+   "api": "ach_50",
+   "name": "Not Afraid of the Dark",
+   "desc": "Clear The Assignment in KURAYAMI Mode.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "ach_63",
+   "name": "I Might Close Early",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.1
+  },
+  {
+   "api": "ach_69",
+   "name": "I've Got Box of Steel",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.1
+  },
+  {
+   "api": "ach_60",
+   "name": "None More Dark",
+   "desc": "Clear The Consequence in KURAYAMI Mode.",
+   "hidden": false,
+   "pct": 2.0
+  }
+ ]
+}

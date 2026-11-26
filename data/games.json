@@ -1,0 +1,1461 @@
+{
+ "snapshot": "2026-11-26 18:24 +08",
+ "games": [
+  {
+   "title": "A Way Out",
+   "appid": 1222700,
+   "name": "A Way Out",
+   "release": "Jun 18, 2020",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "count": 14
+  },
+  {
+   "title": "Age of Empires IV",
+   "appid": 1466860,
+   "name": "Age of Empires IV: Anniversary Edition",
+   "release": "Oct 28, 2021",
+   "genres": [
+    "Strategy"
+   ],
+   "count": 195
+  },
+  {
+   "title": "Anno 1800",
+   "appid": 916440,
+   "name": "Anno 1800",
+   "release": "Apr 16, 2019",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "count": 112
+  },
+  {
+   "title": "Assassin's Creed Odyssey",
+   "appid": 812140,
+   "name": "Assassin's Creed® Odyssey",
+   "release": "Oct 5, 2018",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 93
+  },
+  {
+   "title": "Assassin's Creed Origins",
+   "appid": 582160,
+   "name": "Assassin's Creed® Origins",
+   "release": "Oct 26, 2017",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 67
+  },
+  {
+   "title": "Assassin's Creed Valhalla",
+   "appid": 2208920,
+   "name": "Assassin's Creed Valhalla",
+   "release": "Dec 6, 2022",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 94
+  },
+  {
+   "title": "Assetto Corsa",
+   "appid": 244210,
+   "name": "Assetto Corsa",
+   "release": "Dec 19, 2014",
+   "genres": [
+    "Indie",
+    "Racing",
+    "Simulation",
+    "Sports"
+   ],
+   "count": 709
+  },
+  {
+   "title": "Balatro",
+   "appid": 2379780,
+   "name": "Balatro",
+   "release": "Feb 20, 2024",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Strategy"
+   ],
+   "count": 31
+  },
+  {
+   "title": "Baldur's Gate 3",
+   "appid": 1086940,
+   "name": "Baldur's Gate 3",
+   "release": "Aug 3, 2023",
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "count": 54
+  },
+  {
+   "title": "Batman: Arkham Knight",
+   "appid": 208650,
+   "name": "Batman™: Arkham Knight",
+   "release": "Jun 23, 2015",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 113
+  },
+  {
+   "title": "Besiege",
+   "appid": 346010,
+   "name": "Besiege",
+   "release": "Feb 18, 2020",
+   "genres": [
+    "Indie",
+    "Simulation"
+   ],
+   "count": 54
+  },
+  {
+   "title": "BioShock Infinite",
+   "appid": 8870,
+   "name": "BioShock Infinite",
+   "release": "Mar 25, 2013",
+   "genres": [
+    "Action"
+   ],
+   "count": 80
+  },
+  {
+   "title": "Black Myth: Wukong",
+   "appid": 2358720,
+   "name": "Black Myth: Wukong",
+   "release": null,
+   "genres": [],
+   "count": 81
+  },
+  {
+   "title": "Borderlands 3",
+   "appid": 397540,
+   "name": "Borderlands 3",
+   "release": "Mar 13, 2020",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "count": 81
+  },
+  {
+   "title": "Celeste",
+   "appid": 504230,
+   "name": "Celeste",
+   "release": "Jan 25, 2018",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "count": 32
+  },
+  {
+   "title": "Cities: Skylines",
+   "appid": 255710,
+   "name": "Cities: Skylines",
+   "release": "Mar 10, 2015",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "count": 135
+  },
+  {
+   "title": "Cuphead",
+   "appid": 268910,
+   "name": "Cuphead",
+   "release": "Sep 29, 2017",
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "count": 42
+  },
+  {
+   "title": "Cyberpunk 2077",
+   "appid": 1091500,
+   "name": "Cyberpunk 2077",
+   "release": "Dec 9, 2020",
+   "genres": [
+    "RPG"
+   ],
+   "count": 57
+  },
+  {
+   "title": "Dark Souls III",
+   "appid": 374320,
+   "name": "DARK SOULS™ III",
+   "release": "Apr 11, 2016",
+   "genres": [
+    "Action"
+   ],
+   "count": 43
+  },
+  {
+   "title": "Dark Souls Remastered",
+   "appid": 570940,
+   "name": "DARK SOULS™: REMASTERED",
+   "release": "May 23, 2018",
+   "genres": [
+    "Action"
+   ],
+   "count": 41
+  },
+  {
+   "title": "Darkest Dungeon",
+   "appid": 262060,
+   "name": "Darkest Dungeon®",
+   "release": "Jan 19, 2016",
+   "genres": [
+    "Indie",
+    "RPG",
+    "Strategy"
+   ],
+   "count": 126
+  },
+  {
+   "title": "Dave the Diver",
+   "appid": 1868140,
+   "name": "DAVE THE DIVER",
+   "release": "Jun 28, 2023",
+   "genres": [
+    "Adventure",
+    "Casual",
+    "RPG",
+    "Simulation"
+   ],
+   "count": 56
+  },
+  {
+   "title": "Dead Cells",
+   "appid": 588650,
+   "name": "Dead Cells",
+   "release": "Aug 6, 2018",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "count": 121
+  },
+  {
+   "title": "Dead Space",
+   "appid": 1693980,
+   "name": "Dead Space",
+   "release": "Jan 27, 2023",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 47
+  },
+  {
+   "title": "Death Stranding",
+   "appid": 1190460,
+   "name": "DEATH STRANDING",
+   "release": "Mar 19, 2026",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 63
+  },
+  {
+   "title": "Death Stranding 2: On the Beach",
+   "appid": 3280350,
+   "name": "DEATH STRANDING 2: ON THE BEACH",
+   "release": "Mar 19, 2026",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 55
+  },
+  {
+   "title": "Death Stranding Director's Cut",
+   "appid": 1850570,
+   "name": "DEATH STRANDING DIRECTOR'S CUT",
+   "release": "Mar 30, 2022",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 63
+  },
+  {
+   "title": "Death's Door",
+   "appid": 894020,
+   "name": "Death's Door",
+   "release": "Jul 20, 2021",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "count": 24
+  },
+  {
+   "title": "Detroit: Become Human",
+   "appid": 1222140,
+   "name": "Detroit: Become Human",
+   "release": "Jun 18, 2020",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 48
+  },
+  {
+   "title": "Disco Elysium",
+   "appid": 632470,
+   "name": "Disco Elysium - The Final Cut",
+   "release": "Oct 15, 2019",
+   "genres": [
+    "RPG"
+   ],
+   "count": 45
+  },
+  {
+   "title": "Divinity: Original Sin 2",
+   "appid": 435150,
+   "name": "Divinity: Original Sin 2 - Definitive Edition",
+   "release": "Sep 14, 2017",
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "count": 97
+  },
+  {
+   "title": "DOOM",
+   "appid": 379720,
+   "name": "DOOM",
+   "release": "May 14, 2025",
+   "genres": [
+    "Action"
+   ],
+   "count": 54
+  },
+  {
+   "title": "DOOM Eternal",
+   "appid": 782330,
+   "name": "DOOM Eternal",
+   "release": "Mar 19, 2020",
+   "genres": [
+    "Action"
+   ],
+   "count": 50
+  },
+  {
+   "title": "Dragon Age: Inquisition",
+   "appid": 1222690,
+   "name": "Dragon Age™ Inquisition",
+   "release": "Jun 4, 2020",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "count": 69
+  },
+  {
+   "title": "Dragon's Dogma 2",
+   "appid": 2054970,
+   "name": "Dragon's Dogma 2",
+   "release": "Mar 21, 2024",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "count": 60
+  },
+  {
+   "title": "Elden Ring",
+   "appid": 1245620,
+   "name": "ELDEN RING",
+   "release": "Feb 24, 2022",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "count": 42
+  },
+  {
+   "title": "Euro Truck Simulator 2",
+   "appid": 227300,
+   "name": "Euro Truck Simulator 2",
+   "release": "Oct 12, 2012",
+   "genres": [
+    "Indie",
+    "Simulation"
+   ],
+   "count": 114
+  },
+  {
+   "title": "Europa Universalis IV",
+   "appid": 236850,
+   "name": "Europa Universalis IV",
+   "release": "Aug 13, 2013",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "count": 373
+  },
+  {
+   "title": "Factorio",
+   "appid": 427520,
+   "name": "Factorio",
+   "release": "Aug 14, 2020",
+   "genres": [
+    "Casual",
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "count": 88
+  },
+  {
+   "title": "Fallout 4",
+   "appid": 377160,
+   "name": "Fallout 4",
+   "release": "Nov 9, 2015",
+   "genres": [
+    "RPG"
+   ],
+   "count": 84
+  },
+  {
+   "title": "Far Cry 5",
+   "appid": 552520,
+   "name": "Far Cry® 5",
+   "release": "Mar 26, 2018",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 72
+  },
+  {
+   "title": "Final Fantasy VII Remake Intergrade",
+   "appid": 1462040,
+   "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+   "release": "Jun 17, 2022",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 63
+  },
+  {
+   "title": "FINAL FANTASY XIII",
+   "appid": 292120,
+   "name": "FINAL FANTASY® XIII",
+   "release": null,
+   "genres": [],
+   "count": 35
+  },
+  {
+   "title": "Final Fantasy XV Windows Edition",
+   "appid": 637650,
+   "name": "FINAL FANTASY XV WINDOWS EDITION",
+   "release": "Mar 6, 2018",
+   "genres": [
+    "RPG"
+   ],
+   "count": 97
+  },
+  {
+   "title": "Final Fantasy XVI",
+   "appid": 2515020,
+   "name": "FINAL FANTASY XVI",
+   "release": "Sep 17, 2024",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "count": 69
+  },
+  {
+   "title": "Firewatch",
+   "appid": 383870,
+   "name": "Firewatch",
+   "release": "Feb 9, 2016",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "count": 10
+  },
+  {
+   "title": "Forza Horizon 4",
+   "appid": 1293830,
+   "name": "Forza Horizon 4",
+   "release": null,
+   "genres": [],
+   "count": 178
+  },
+  {
+   "title": "Forza Horizon 5",
+   "appid": 1551360,
+   "name": "Forza Horizon 5",
+   "release": "Nov 8, 2021",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Racing",
+    "Simulation",
+    "Sports"
+   ],
+   "count": 164
+  },
+  {
+   "title": "Frostpunk",
+   "appid": 323190,
+   "name": "Frostpunk",
+   "release": "Sep 20, 2024",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "count": 115
+  },
+  {
+   "title": "FTL: Faster Than Light",
+   "appid": 212680,
+   "name": "FTL: Faster Than Light",
+   "release": "Sep 14, 2012",
+   "genres": [
+    "Indie",
+    "Simulation",
+    "Strategy"
+   ],
+   "count": 51
+  },
+  {
+   "title": "Ghost of Tsushima Director's Cut",
+   "appid": 2215430,
+   "name": "Ghost of Tsushima DIRECTOR'S CUT",
+   "release": "May 16, 2024",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 77
+  },
+  {
+   "title": "Ghostwire: Tokyo",
+   "appid": 1475810,
+   "name": "Ghostwire: Tokyo",
+   "release": null,
+   "genres": [],
+   "count": 66
+  },
+  {
+   "title": "God of War",
+   "appid": 1593500,
+   "name": "God of War",
+   "release": "Jan 14, 2022",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 37
+  },
+  {
+   "title": "God of War Ragnarok",
+   "appid": 2322010,
+   "name": "God of War Ragnarök",
+   "release": "Sep 19, 2024",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 48
+  },
+  {
+   "title": "Grand Theft Auto V",
+   "appid": 271590,
+   "name": "Grand Theft Auto V Legacy",
+   "release": "Mar 4, 2025",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Racing"
+   ],
+   "count": 77
+  },
+  {
+   "title": "Hades",
+   "appid": 1145360,
+   "name": "Hades",
+   "release": "Sep 25, 2025",
+   "genres": [
+    "Action",
+    "Indie",
+    "RPG"
+   ],
+   "count": 49
+  },
+  {
+   "title": "Half-Life 2",
+   "appid": 220,
+   "name": "Half-Life 2",
+   "release": "Nov 16, 2004",
+   "genres": [
+    "Action"
+   ],
+   "count": 69
+  },
+  {
+   "title": "Hearts of Iron IV",
+   "appid": 394360,
+   "name": "Hearts of Iron IV",
+   "release": "Jun 6, 2016",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "count": 298
+  },
+  {
+   "title": "Heavy Rain",
+   "appid": 960910,
+   "name": "Heavy Rain",
+   "release": "Jun 18, 2020",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 56
+  },
+  {
+   "title": "Hi-Fi RUSH",
+   "appid": 1817230,
+   "name": "Hi-Fi RUSH",
+   "release": "Jan 25, 2023",
+   "genres": [
+    "Action"
+   ],
+   "count": 71
+  },
+  {
+   "title": "Hogwarts Legacy",
+   "appid": 990080,
+   "name": "Hogwarts Legacy",
+   "release": "Feb 10, 2023",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 45
+  },
+  {
+   "title": "Hollow Knight",
+   "appid": 367520,
+   "name": "Hollow Knight",
+   "release": "Feb 24, 2017",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "count": 63
+  },
+  {
+   "title": "Horizon Forbidden West Complete Edition",
+   "appid": 2420110,
+   "name": "Horizon Forbidden West™ Complete Edition",
+   "release": "Mar 21, 2024",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "count": 80
+  },
+  {
+   "title": "Horizon Zero Dawn Remastered",
+   "appid": 2561580,
+   "name": "Horizon Zero Dawn™ Remastered",
+   "release": "Oct 31, 2024",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 79
+  },
+  {
+   "title": "Hotline Miami",
+   "appid": 219150,
+   "name": "Hotline Miami",
+   "release": "Oct 23, 2012",
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "count": 35
+  },
+  {
+   "title": "Inscryption",
+   "appid": 1092790,
+   "name": "Inscryption",
+   "release": "Oct 19, 2021",
+   "genres": [
+    "Adventure",
+    "Indie",
+    "Strategy"
+   ],
+   "count": 40
+  },
+  {
+   "title": "Into the Breach",
+   "appid": 590380,
+   "name": "Into the Breach",
+   "release": "Feb 27, 2018",
+   "genres": [
+    "Indie",
+    "RPG",
+    "Simulation",
+    "Strategy"
+   ],
+   "count": 70
+  },
+  {
+   "title": "It Takes Two",
+   "appid": 1426210,
+   "name": "It Takes Two",
+   "release": "Mar 25, 2021",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 20
+  },
+  {
+   "title": "Katana ZERO",
+   "appid": 460950,
+   "name": "Katana ZERO",
+   "release": "Apr 18, 2019",
+   "genres": [
+    "Action",
+    "Indie"
+   ],
+   "count": 22
+  },
+  {
+   "title": "Kingdom Come: Deliverance",
+   "appid": 379430,
+   "name": "Kingdom Come: Deliverance",
+   "release": "Feb 4, 2025",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 82
+  },
+  {
+   "title": "Lies of P",
+   "appid": 1627720,
+   "name": "Lies of P",
+   "release": "Sep 18, 2023",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 53
+  },
+  {
+   "title": "Life is Strange",
+   "appid": 319630,
+   "name": "Life is Strange - Episode 1",
+   "release": "Sep 26, 2018",
+   "genres": [
+    "Adventure"
+   ],
+   "count": 60
+  },
+  {
+   "title": "Limbo",
+   "appid": 48000,
+   "name": "LIMBO",
+   "release": "Aug 2, 2011",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "count": 13
+  },
+  {
+   "title": "Mad Max",
+   "appid": 234140,
+   "name": "Mad Max",
+   "release": "Sep 1, 2015",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 49
+  },
+  {
+   "title": "Marvel's Spider-Man Remastered",
+   "appid": 1817070,
+   "name": "Marvel’s Spider-Man Remastered",
+   "release": "Aug 12, 2022",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual"
+   ],
+   "count": 78
+  },
+  {
+   "title": "Marvel's Spider-Man: Miles Morales",
+   "appid": 1817190,
+   "name": "Marvel’s Spider-Man: Miles Morales",
+   "release": "Nov 18, 2022",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 50
+  },
+  {
+   "title": "Mass Effect Legendary Edition",
+   "appid": 1328670,
+   "name": "Mass Effect™ Legendary Edition",
+   "release": "May 14, 2021",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "count": 127
+  },
+  {
+   "title": "Metro Exodus",
+   "appid": 412020,
+   "name": "Metro Exodus",
+   "release": "Feb 14, 2020",
+   "genres": [
+    "Action"
+   ],
+   "count": 68
+  },
+  {
+   "title": "Microsoft Flight Simulator",
+   "appid": 1250410,
+   "name": "Microsoft Flight Simulator (2020) 40th Anniversary Edition",
+   "release": "Nov 19, 2024",
+   "genres": [
+    "Simulation"
+   ],
+   "count": 43
+  },
+  {
+   "title": "NieR:Automata",
+   "appid": 524220,
+   "name": "NieR:Automata™",
+   "release": "Mar 17, 2017",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "count": 47
+  },
+  {
+   "title": "Nioh 2",
+   "appid": 1325200,
+   "name": "Nioh 2 – The Complete Edition",
+   "release": "Feb 5, 2021",
+   "genres": [
+    "Action",
+    "RPG"
+   ],
+   "count": 88
+  },
+  {
+   "title": "Ori and the Blind Forest",
+   "appid": 261570,
+   "name": "Ori and the Blind Forest",
+   "release": "Mar 10, 2015",
+   "genres": [
+    "Action"
+   ],
+   "count": 50
+  },
+  {
+   "title": "Ori and the Blind Forest: Definitive Edition",
+   "appid": 387290,
+   "name": "Ori and the Blind Forest: Definitive Edition",
+   "release": "Mar 10, 2015",
+   "genres": [
+    "Action"
+   ],
+   "count": 57
+  },
+  {
+   "title": "Ori and the Will of the Wisps",
+   "appid": 1057090,
+   "name": "Ori and the Will of the Wisps",
+   "release": "Mar 10, 2020",
+   "genres": [
+    "Action"
+   ],
+   "count": 37
+  },
+  {
+   "title": "Outer Wilds",
+   "appid": 753640,
+   "name": "Outer Wilds",
+   "release": "Jun 18, 2020",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 31
+  },
+  {
+   "title": "Outlast",
+   "appid": 238320,
+   "name": "Outlast",
+   "release": "Mar 5, 2024",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie"
+   ],
+   "count": 14
+  },
+  {
+   "title": "Oxygen Not Included",
+   "appid": 457140,
+   "name": "Oxygen Not Included",
+   "release": "Jul 30, 2019",
+   "genres": [
+    "Indie",
+    "Simulation"
+   ],
+   "count": 51
+  },
+  {
+   "title": "Papers, Please",
+   "appid": 239030,
+   "name": "Papers, Please",
+   "release": "Aug 8, 2013",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "count": 13
+  },
+  {
+   "title": "Persona 3 Reload",
+   "appid": 2161700,
+   "name": "Persona 3 Reload",
+   "release": "Feb 1, 2024",
+   "genres": [
+    "Adventure",
+    "RPG",
+    "Strategy"
+   ],
+   "count": 56
+  },
+  {
+   "title": "Persona 5 Royal",
+   "appid": 1687950,
+   "name": "Persona 5 Royal",
+   "release": "Oct 20, 2022",
+   "genres": [
+    "RPG"
+   ],
+   "count": 53
+  },
+  {
+   "title": "Portal 2",
+   "appid": 620,
+   "name": "Portal 2",
+   "release": "Apr 18, 2011",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 51
+  },
+  {
+   "title": "Red Dead Redemption 2",
+   "appid": 1174180,
+   "name": "Red Dead Redemption 2",
+   "release": "Dec 5, 2019",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 51
+  },
+  {
+   "title": "Resident Evil 0 HD REMASTER",
+   "appid": 339340,
+   "name": "Resident Evil 0",
+   "release": null,
+   "genres": [],
+   "count": 47
+  },
+  {
+   "title": "Resident Evil 2",
+   "appid": 883710,
+   "name": "Resident Evil 2",
+   "release": "Jan 24, 2019",
+   "genres": [
+    "Action"
+   ],
+   "count": 44
+  },
+  {
+   "title": "Resident Evil 4",
+   "appid": 2050650,
+   "name": "Resident Evil 4",
+   "release": "Mar 23, 2023",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 46
+  },
+  {
+   "title": "Resident Evil HD REMASTER",
+   "appid": 304240,
+   "name": "Resident Evil",
+   "release": null,
+   "genres": [],
+   "count": 44
+  },
+  {
+   "title": "Resident Evil Village",
+   "appid": 1196590,
+   "name": "Resident Evil Village",
+   "release": "May 6, 2021",
+   "genres": [
+    "Action"
+   ],
+   "count": 56
+  },
+  {
+   "title": "Return of the Obra Dinn",
+   "appid": 653530,
+   "name": "Return of the Obra Dinn",
+   "release": "Oct 18, 2018",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "count": 16
+  },
+  {
+   "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+   "appid": 1643320,
+   "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+   "release": "Nov 20, 2024",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 76
+  },
+  {
+   "title": "Sea of Stars",
+   "appid": 1244090,
+   "name": "Sea of Stars: Sunset Edition",
+   "release": "Aug 28, 2023",
+   "genres": [
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "count": 54
+  },
+  {
+   "title": "Sekiro: Shadows Die Twice",
+   "appid": 814380,
+   "name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+   "release": "Mar 21, 2019",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 34
+  },
+  {
+   "title": "Shadows of the Damned: Hella Remastered",
+   "appid": 2535440,
+   "name": "Shadows of the Damned: Hella Remastered",
+   "release": null,
+   "genres": [],
+   "count": 51
+  },
+  {
+   "title": "Sid Meier's Civilization VI",
+   "appid": 289070,
+   "name": "Sid Meier’s Civilization® VI",
+   "release": "Oct 20, 2016",
+   "genres": [
+    "Strategy"
+   ],
+   "count": 320
+  },
+  {
+   "title": "Slay the Spire",
+   "appid": 646570,
+   "name": "Slay the Spire",
+   "release": null,
+   "genres": [],
+   "count": 46
+  },
+  {
+   "title": "Sleeping Dogs Definitive Edition",
+   "appid": 307690,
+   "name": "Sleeping Dogs: Definitive Edition",
+   "release": "Oct 8, 2014",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Racing"
+   ],
+   "count": 59
+  },
+  {
+   "title": "Slime Rancher",
+   "appid": 433340,
+   "name": "Slime Rancher",
+   "release": "Sep 23, 2025",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Casual",
+    "Indie",
+    "Simulation"
+   ],
+   "count": 57
+  },
+  {
+   "title": "Stardew Valley",
+   "appid": 413150,
+   "name": "Stardew Valley",
+   "release": "Feb 26, 2016",
+   "genres": [
+    "Indie",
+    "RPG",
+    "Simulation"
+   ],
+   "count": 49
+  },
+  {
+   "title": "Starfield",
+   "appid": 1716740,
+   "name": "Starfield",
+   "release": "Sep 5, 2023",
+   "genres": [
+    "RPG"
+   ],
+   "count": 82
+  },
+  {
+   "title": "Stellaris",
+   "appid": 281990,
+   "name": "Stellaris",
+   "release": "May 9, 2016",
+   "genres": [
+    "Simulation",
+    "Strategy"
+   ],
+   "count": 226
+  },
+  {
+   "title": "Subnautica",
+   "appid": 264710,
+   "name": "Subnautica",
+   "release": null,
+   "genres": [],
+   "count": 17
+  },
+  {
+   "title": "Terraria",
+   "appid": 105600,
+   "name": "Terraria",
+   "release": "May 16, 2011",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "count": 137
+  },
+  {
+   "title": "The Elder Scrolls V: Skyrim Special Edition",
+   "appid": 489830,
+   "name": "The Elder Scrolls V: Skyrim Special Edition",
+   "release": "Oct 27, 2016",
+   "genres": [
+    "RPG"
+   ],
+   "count": 75
+  },
+  {
+   "title": "The Evil Within",
+   "appid": 268050,
+   "name": "The Evil Within",
+   "release": null,
+   "genres": [],
+   "count": 71
+  },
+  {
+   "title": "The Evil Within 2",
+   "appid": 601430,
+   "name": "The Evil Within 2",
+   "release": null,
+   "genres": [],
+   "count": 51
+  },
+  {
+   "title": "The Forest",
+   "appid": 242760,
+   "name": "The Forest",
+   "release": "Apr 30, 2018",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "Simulation"
+   ],
+   "count": 45
+  },
+  {
+   "title": "The Last of Us Part I",
+   "appid": 1888930,
+   "name": "The Last of Us™ Part I",
+   "release": "Mar 28, 2023",
+   "genres": [
+    "Action",
+    "Adventure"
+   ],
+   "count": 29
+  },
+  {
+   "title": "The Stanley Parable: Ultra Deluxe",
+   "appid": 1703340,
+   "name": "The Stanley Parable: Ultra Deluxe",
+   "release": "Apr 27, 2022",
+   "genres": [
+    "Adventure",
+    "Casual",
+    "Indie"
+   ],
+   "count": 11
+  },
+  {
+   "title": "The Walking Dead",
+   "appid": 207610,
+   "name": "The Walking Dead",
+   "release": "Apr 24, 2012",
+   "genres": [
+    "Adventure"
+   ],
+   "count": 48
+  },
+  {
+   "title": "The Witcher 3: Wild Hunt",
+   "appid": 292030,
+   "name": "The Witcher 3: Wild Hunt — Remastered",
+   "release": "May 18, 2015",
+   "genres": [
+    "RPG"
+   ],
+   "count": 78
+  },
+  {
+   "title": "They Are Billions",
+   "appid": 644930,
+   "name": "They Are Billions",
+   "release": "Jun 18, 2019",
+   "genres": [
+    "Strategy"
+   ],
+   "count": 34
+  },
+  {
+   "title": "This War of Mine",
+   "appid": 282070,
+   "name": "This War of Mine",
+   "release": "Nov 14, 2014",
+   "genres": [
+    "Adventure",
+    "Indie",
+    "Simulation"
+   ],
+   "count": 59
+  },
+  {
+   "title": "Titanfall 2",
+   "appid": 1237970,
+   "name": "Titanfall® 2",
+   "release": "Jun 18, 2020",
+   "genres": [
+    "Action"
+   ],
+   "count": 50
+  },
+  {
+   "title": "Total War: Three Kingdoms",
+   "appid": 779340,
+   "name": "Total War: THREE KINGDOMS",
+   "release": "May 23, 2019",
+   "genres": [
+    "Action",
+    "Strategy"
+   ],
+   "count": 99
+  },
+  {
+   "title": "Tunic",
+   "appid": 553420,
+   "name": "TUNIC",
+   "release": "Mar 16, 2022",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 36
+  },
+  {
+   "title": "Uncharted: Legacy of Thieves Collection",
+   "appid": 1659420,
+   "name": "UNCHARTED™: Legacy of Thieves Collection",
+   "release": "Oct 19, 2022",
+   "genres": [
+    "Adventure"
+   ],
+   "count": 101
+  },
+  {
+   "title": "Undertale",
+   "appid": 391540,
+   "name": "Undertale",
+   "release": "Sep 15, 2015",
+   "genres": [
+    "Indie",
+    "RPG"
+   ],
+   "count": 0
+  },
+  {
+   "title": "Valheim",
+   "appid": 892970,
+   "name": "Valheim",
+   "release": "Sep 9, 2026",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Indie",
+    "RPG"
+   ],
+   "count": 53
+  },
+  {
+   "title": "Vampire Survivors",
+   "appid": 1794680,
+   "name": "Vampire Survivors",
+   "release": "Oct 20, 2022",
+   "genres": [
+    "Action",
+    "Casual",
+    "Indie",
+    "RPG"
+   ],
+   "count": 243
+  },
+  {
+   "title": "Vanquish",
+   "appid": 460810,
+   "name": "Vanquish",
+   "release": null,
+   "genres": [],
+   "count": 50
+  },
+  {
+   "title": "What Remains of Edith Finch",
+   "appid": 501300,
+   "name": "What Remains of Edith Finch",
+   "release": "Apr 24, 2017",
+   "genres": [
+    "Adventure",
+    "Indie"
+   ],
+   "count": 9
+  },
+  {
+   "title": "Wolfenstein: The New Order",
+   "appid": 201810,
+   "name": "Wolfenstein: The New Order",
+   "release": "May 19, 2014",
+   "genres": [
+    "Action"
+   ],
+   "count": 50
+  },
+  {
+   "title": "XCOM 2",
+   "appid": 268500,
+   "name": "XCOM® 2",
+   "release": "Feb 4, 2016",
+   "genres": [
+    "Strategy"
+   ],
+   "count": 88
+  },
+  {
+   "title": "Yakuza: Like a Dragon",
+   "appid": 1235140,
+   "name": "Yakuza: Like a Dragon",
+   "release": "Nov 10, 2020",
+   "genres": [
+    "Action",
+    "Adventure",
+    "RPG"
+   ],
+   "count": 63
+  }
+ ]
+}

@@ -1,0 +1,201 @@
+{
+ "appid": 894020,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 24,
+ "achievements": [
+  {
+   "name": "Crow Gamer",
+   "desc": "Beat the game",
+   "hidden": false,
+   "pct": 30.0,
+   "api_name": "ach_game",
+   "internal_key": 256
+  },
+  {
+   "name": "Academy of Umbrellas",
+   "desc": "Beat the game only ever using an umbrella as your melee weapon",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "ach_umbrella",
+   "internal_key": 257
+  },
+  {
+   "name": "Meal for a King",
+   "desc": "Feed the Frog King an explosive treat",
+   "hidden": false,
+   "pct": 11.3,
+   "api_name": "ach_king",
+   "internal_key": 258
+  },
+  {
+   "name": "Hot Pot",
+   "desc": "Set Grandma's pot on fire",
+   "hidden": false,
+   "pct": 17.6,
+   "api_name": "ach_hotpot",
+   "internal_key": 259
+  },
+  {
+   "name": "Banging Tune",
+   "desc": "Listen to Barb's magnum opus",
+   "hidden": false,
+   "pct": 21.2,
+   "api_name": "ach_tune",
+   "internal_key": 263
+  },
+  {
+   "name": "Clever Too Much",
+   "desc": "Gain a devoted fan",
+   "hidden": false,
+   "pct": 36.2,
+   "api_name": "ach_clever",
+   "internal_key": 264
+  },
+  {
+   "name": "Specialist",
+   "desc": "Max out any of the 4 stats",
+   "hidden": false,
+   "pct": 30.0,
+   "api_name": "ach_specialist",
+   "internal_key": 265
+  },
+  {
+   "name": "Big Spender",
+   "desc": "Purchase 12 stat upgrades",
+   "hidden": false,
+   "pct": 33.8,
+   "api_name": "ach_spend",
+   "internal_key": 266
+  },
+  {
+   "name": "Ooh Shiny!",
+   "desc": "Collect all shiny things",
+   "hidden": false,
+   "pct": 14.2,
+   "api_name": "ach_shiny",
+   "internal_key": 267
+  },
+  {
+   "name": "Weapon Master",
+   "desc": "Collect all weapons",
+   "hidden": false,
+   "pct": 26.0,
+   "api_name": "ach_weapons",
+   "internal_key": 268
+  },
+  {
+   "name": "Zen",
+   "desc": "Find all shrines",
+   "hidden": false,
+   "pct": 17.3,
+   "api_name": "ach_shrines",
+   "internal_key": 269
+  },
+  {
+   "name": "A Stroll with Jefferson",
+   "desc": "Take a midnight stroll with Jefferson",
+   "hidden": true,
+   "pct": 17.4,
+   "api_name": "ach_jeff",
+   "internal_key": 270
+  },
+  {
+   "name": "Reap what you sow",
+   "desc": "All seeds collected and planted",
+   "hidden": false,
+   "pct": 14.4,
+   "api_name": "ach_plants",
+   "internal_key": 271
+  },
+  {
+   "name": "Conga Line",
+   "desc": "Have a gang of 10+ forest spirits follow you",
+   "hidden": false,
+   "pct": 16.3,
+   "api_name": "ach_conga",
+   "internal_key": 272
+  },
+  {
+   "name": "Plot Head",
+   "desc": "Access Pothead's secret garden",
+   "hidden": false,
+   "pct": 24.2,
+   "api_name": "ach_pothead",
+   "internal_key": 273
+  },
+  {
+   "name": "Lord of Chores",
+   "desc": "100% Complete the game",
+   "hidden": false,
+   "pct": 12.1,
+   "api_name": "ach_chore",
+   "internal_key": 274
+  },
+  {
+   "name": "Squid Soup?",
+   "desc": "Accept Jefferson's Soup",
+   "hidden": false,
+   "pct": 39.3,
+   "api_name": "ach_soup",
+   "internal_key": 275
+  },
+  {
+   "name": "Baul Plart, Hall Cop",
+   "desc": "Trigger the metal detector without detecting a threat",
+   "hidden": false,
+   "pct": 9.9,
+   "api_name": "ach_tsa",
+   "internal_key": 276
+  },
+  {
+   "name": "In Caw-Hoots",
+   "desc": "Meet with 3 owls",
+   "hidden": true,
+   "pct": 16.1,
+   "api_name": "ach_owls",
+   "internal_key": 278
+  },
+  {
+   "name": "Cremation",
+   "desc": "Upgrade the fire ability",
+   "hidden": false,
+   "pct": 30.2,
+   "api_name": "ach_fire",
+   "internal_key": 279
+  },
+  {
+   "name": "Demo Crow",
+   "desc": "Upgrade the bomb ability",
+   "hidden": false,
+   "pct": 28.8,
+   "api_name": "ach_bomb",
+   "internal_key": 280
+  },
+  {
+   "name": "Crouching Tiger Hidden Crow",
+   "desc": "Upgrade the hookshot ability",
+   "hidden": false,
+   "pct": 26.3,
+   "api_name": "ach_hook",
+   "internal_key": 281
+  },
+  {
+   "name": "Hawk Eye",
+   "desc": "Upgrade the arrow ability",
+   "hidden": false,
+   "pct": 25.5,
+   "api_name": "ach_arrow",
+   "internal_key": 282
+  },
+  {
+   "name": "A True End",
+   "desc": "???",
+   "hidden": true,
+   "pct": 14.1,
+   "api_name": "ach_truth",
+   "internal_key": 283
+  }
+ ]
+}

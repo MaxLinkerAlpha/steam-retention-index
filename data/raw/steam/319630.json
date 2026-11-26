@@ -1,0 +1,428 @@
+{
+ "appid": 319630,
+ "game": "Life is Strange - Episode 1",
+ "snapshot": "2026-11-24 17:41 +08",
+ "count": 60,
+ "achievements": [
+  {
+   "api": "AC_2",
+   "name": "Macro Eyes",
+   "desc": "Take optional photo #1 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 67.7
+  },
+  {
+   "api": "AC_1",
+   "name": "Chrysalis",
+   "desc": "Finish Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 49.9
+  },
+  {
+   "api": "AC_6",
+   "name": "Red Eye",
+   "desc": "Take optional photo #5 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 41.8
+  },
+  {
+   "api": "AC_13",
+   "name": "Out of Time",
+   "desc": "Finish Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 30.0
+  },
+  {
+   "api": "AC_20",
+   "name": "Dynamic Range",
+   "desc": "Take optional photo #7 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 29.4
+  },
+  {
+   "api": "AC_14",
+   "name": "Field Of View",
+   "desc": "Take optional photo #1 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 27.1
+  },
+  {
+   "api": "AC_25",
+   "name": "Chaos Theory",
+   "desc": "Finish Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 26.9
+  },
+  {
+   "api": "AC_37",
+   "name": "Dark Room",
+   "desc": "Finish Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 24.5
+  },
+  {
+   "api": "AC_23",
+   "name": "Resolution Revolution",
+   "desc": "Take optional photo #10 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 24.0
+  },
+  {
+   "api": "AC_49",
+   "name": "Polarized",
+   "desc": "Finish Episode 5: Polarized",
+   "hidden": false,
+   "pct": 23.3
+  },
+  {
+   "api": "AC_45",
+   "name": "Manually Exposed",
+   "desc": "Take optional photo #8 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 22.6
+  },
+  {
+   "api": "AC_4",
+   "name": "Telephotogenic",
+   "desc": "Take optional photo #3 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 21.9
+  },
+  {
+   "api": "AC_11",
+   "name": "Light Leak",
+   "desc": "Take optional photo #10 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 21.9
+  },
+  {
+   "api": "Ac_28",
+   "name": "The Reflex",
+   "desc": "Take optional photo #3 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 21.0
+  },
+  {
+   "api": "AC_18",
+   "name": "Compressed",
+   "desc": "Take optional photo #5 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 20.9
+  },
+  {
+   "api": "AC_29",
+   "name": "Histogrammar",
+   "desc": "Take optional photo #4 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 20.9
+  },
+  {
+   "api": "AC_52",
+   "name": "Framed",
+   "desc": "Take optional photo #3 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 20.4
+  },
+  {
+   "api": "AC_35",
+   "name": "Flash!",
+   "desc": "Take optional photo #10 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 20.3
+  },
+  {
+   "api": "AC_31",
+   "name": "Pinholed",
+   "desc": "Take optional photo #6 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 18.7
+  },
+  {
+   "api": "AC_21",
+   "name": "Colorized",
+   "desc": "Take optional photo #8 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 18.6
+  },
+  {
+   "api": "AC_7",
+   "name": "Focused",
+   "desc": "Take optional photo #6 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 16.8
+  },
+  {
+   "api": "AC_38",
+   "name": "Ambient",
+   "desc": "Take optional photo #1 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 16.2
+  },
+  {
+   "api": "AC_39",
+   "name": "Time-Lapsed",
+   "desc": "Take optional photo #2 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 15.6
+  },
+  {
+   "api": "AC_22",
+   "name": "Meter Made",
+   "desc": "Take optional photo #9 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 15.4
+  },
+  {
+   "api": "AC_15",
+   "name": "Full Exposure",
+   "desc": "Take optional photo #2 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 14.9
+  },
+  {
+   "api": "AC_8",
+   "name": "Zoomed In",
+   "desc": "Take optional photo #7 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 14.6
+  },
+  {
+   "api": "AC_17",
+   "name": "Image Stabilizer",
+   "desc": "Take optional photo #4 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 14.5
+  },
+  {
+   "api": "AC_9",
+   "name": "Focal Pointed",
+   "desc": "Take optional photo #8 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 14.4
+  },
+  {
+   "api": "AC_19",
+   "name": "Pixelated",
+   "desc": "Take optional photo #6 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 14.4
+  },
+  {
+   "api": "AC_3",
+   "name": "Wide Angles",
+   "desc": "Take optional photo #2 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 14.2
+  },
+  {
+   "api": "AC_5",
+   "name": "Close-Ups",
+   "desc": "Take optional photo #4 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 13.9
+  },
+  {
+   "api": "AC_43",
+   "name": "Dioptric Power",
+   "desc": "Take optional photo #6 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 13.9
+  },
+  {
+   "api": "AC_10",
+   "name": "Maximum Aperture",
+   "desc": "Take optional photo #9 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 13.2
+  },
+  {
+   "api": "AC_41",
+   "name": "Rangefinder",
+   "desc": "Take optional photo #4 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 12.5
+  },
+  {
+   "api": "AC_34",
+   "name": "Optican",
+   "desc": "Take optional photo #9 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 12.4
+  },
+  {
+   "api": "AC_44",
+   "name": "Fisheye",
+   "desc": "Take optional photo #7 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 12.3
+  },
+  {
+   "api": "AC_56",
+   "name": "Sensor",
+   "desc": "Take optional photo #7 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 11.8
+  },
+  {
+   "api": "AC_16",
+   "name": "Processor",
+   "desc": "Take optional photo #3 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 11.1
+  },
+  {
+   "api": "AC_59",
+   "name": "Silhouettes",
+   "desc": "Take optional photo #10 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 11.0
+  },
+  {
+   "api": "AC_33",
+   "name": "Viewfinder",
+   "desc": "Take optional photo #8 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 10.8
+  },
+  {
+   "api": "AC_40",
+   "name": "Balance",
+   "desc": "Take optional photo #3 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 10.7
+  },
+  {
+   "api": "AC_51",
+   "name": "Night Vision",
+   "desc": "Take optional photo #2 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 10.4
+  },
+  {
+   "api": "AC_30",
+   "name": "Bokeh",
+   "desc": "Take optional photo #5 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 10.1
+  },
+  {
+   "api": "AC_27",
+   "name": "Lenscrafted",
+   "desc": "Take optional photo #2 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 9.3
+  },
+  {
+   "api": "AC_46",
+   "name": "Slideshow",
+   "desc": "Take optional photo #9 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 9.3
+  },
+  {
+   "api": "AC_54",
+   "name": "Blowup",
+   "desc": "Take optional photo #5 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 8.8
+  },
+  {
+   "api": "AC_50",
+   "name": "Incandescent",
+   "desc": "Take optional photo #1 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 8.5
+  },
+  {
+   "api": "AC_32",
+   "name": "RAW Strength",
+   "desc": "Take optional photo #7 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 8.3
+  },
+  {
+   "api": "AC_12",
+   "name": "Visionary",
+   "desc": "Take all optional photos in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 7.9
+  },
+  {
+   "api": "AC_42",
+   "name": "Gamma Value",
+   "desc": "Take optional photo #5 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 7.9
+  },
+  {
+   "api": "AC_53",
+   "name": "Camera Obscura",
+   "desc": "Take optional photo #4 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 7.5
+  },
+  {
+   "api": "AC_55",
+   "name": "Iris",
+   "desc": "Take optional photo #6 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 7.5
+  },
+  {
+   "api": "AC_24",
+   "name": "Lab Master",
+   "desc": "Take all optional photos in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 7.3
+  },
+  {
+   "api": "AC_26",
+   "name": "Parallax View",
+   "desc": "Take optional photo #1 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 7.1
+  },
+  {
+   "api": "AC_36",
+   "name": "Camera Eye",
+   "desc": "Take all optional photos in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "AC_47",
+   "name": "Tripod",
+   "desc": "Take optional photo #10 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "AC_57",
+   "name": "On Display",
+   "desc": "Take optional photo #8 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 5.9
+  },
+  {
+   "api": "AC_58",
+   "name": "Light Meter",
+   "desc": "Take optional photo #9 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 5.7
+  },
+  {
+   "api": "AC_48",
+   "name": "Shutterbug",
+   "desc": "Take all optional photos in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 5.5
+  },
+  {
+   "api": "AC_60",
+   "name": "Selfie Awareness",
+   "desc": "Take all optional photos in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 5.1
+  }
+ ]
+}

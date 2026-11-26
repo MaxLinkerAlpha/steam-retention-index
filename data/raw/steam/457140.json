@@ -1,0 +1,365 @@
+{
+ "appid": 457140,
+ "game": "Oxygen Not Included",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 51,
+ "achievements": [
+  {
+   "api": "BASIC_COMFORTS",
+   "name": "One Bed One Bath",
+   "desc": "Have at least one bed and one toilet for each Duplicant in the colony.",
+   "hidden": false,
+   "pct": 70.7
+  },
+  {
+   "api": "BUILD_OUTSIDE_BIOME",
+   "name": "Outdoor Renovations",
+   "desc": "Construct a building outside the initial starting biome.",
+   "hidden": false,
+   "pct": 51.8
+  },
+  {
+   "api": "COMPLETED_SKILL_BRANCH",
+   "name": "To Pay the Bills",
+   "desc": "Use a Duplicant's Skill Points to buy out an entire branch of the Skill Tree.",
+   "hidden": false,
+   "pct": 51.5
+  },
+  {
+   "api": "COOKED_FOOD",
+   "name": "It's Not Raw",
+   "desc": "Have a Duplicant eat any cooked meal prepared at an Electrical Grill or Gas Range.",
+   "hidden": false,
+   "pct": 44.8
+  },
+  {
+   "api": "HATCH_A_CRITTER",
+   "name": "Good Egg",
+   "desc": "Hatch a new critter morph from an egg.",
+   "hidden": false,
+   "pct": 42.7
+  },
+  {
+   "api": "PLUMBED_WASHROOMS",
+   "name": "Royal Flush",
+   "desc": "Replace all the Outhouses and Wash Basins in your colony with Lavatories and Sinks.",
+   "hidden": false,
+   "pct": 35.5
+  },
+  {
+   "api": "CURED_DISEASE",
+   "name": "They Got Better",
+   "desc": "Cure a sick Duplicant of disease.",
+   "hidden": false,
+   "pct": 32.0
+  },
+  {
+   "api": "BASIC_PUMPING",
+   "name": "Oxygen Not Occluded",
+   "desc": "Distribute 1000kg of Oxygen using gas vents.",
+   "hidden": false,
+   "pct": 30.2
+  },
+  {
+   "api": "AUTOMATE_A_BUILDING",
+   "name": "Red Light, Green Light",
+   "desc": "Automate a building using sensors or switches from the Automation tab in the Build Menu.",
+   "hidden": false,
+   "pct": 27.1
+  },
+  {
+   "api": "INSPECT_POI",
+   "name": "Ghosts of Gravitas",
+   "desc": "Recover a Database entry by inspecting facility ruins.",
+   "hidden": false,
+   "pct": 23.7
+  },
+  {
+   "api": "SURVIVE_HUNDRED_CYCLES",
+   "name": "Turn of the Century",
+   "desc": "Reach cycle 100 with at least one living Duplicant.",
+   "hidden": false,
+   "pct": 22.7
+  },
+  {
+   "api": "EXPLORE_OIL_BIOME",
+   "name": "Slick",
+   "desc": "Enter an oil biome for the first time.",
+   "hidden": false,
+   "pct": 15.0
+  },
+  {
+   "api": "MASTERPIECE_PAINTING",
+   "name": "Art Underground",
+   "desc": "Have a Duplicant with the Masterworks skill paint a Masterpiece quality painting.",
+   "hidden": false,
+   "pct": 11.8
+  },
+  {
+   "api": "SURVIVE_ONE_YEAR",
+   "name": "One Year, to be Exact",
+   "desc": "Reach cycle 365.25 with a single colony.",
+   "hidden": false,
+   "pct": 8.2
+  },
+  {
+   "api": "EQUIP_EIGHT_DUPES",
+   "name": "And Nowhere to Go",
+   "desc": "Have 8 Duplicants wear non-default clothing simultaneously.",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "TWENTY_DUPES",
+   "name": "No Place Like Clone",
+   "desc": "Have at least 20 living Duplicants living in the colony at one time.",
+   "hidden": false,
+   "pct": 6.8
+  },
+  {
+   "api": "CLEAR_FOW",
+   "name": "Pulling Back The Veil",
+   "desc": "Reveal 80% of map by exploring outside the starting biome.",
+   "hidden": false,
+   "pct": 6.7
+  },
+  {
+   "api": "TUBE_TRAVEL_DISTANCE",
+   "name": "Totally Tubular",
+   "desc": "Have Duplicants travel 10,000m by Transit Tube.",
+   "hidden": false,
+   "pct": 6.4
+  },
+  {
+   "api": "GENERATOR_TUNEUP",
+   "name": "Tune Up For What?",
+   "desc": "Perform 100 Tune Ups on power generators.",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "FIRST_TELEPORT",
+   "name": "First Teleport of Call",
+   "desc": "Teleport a Duplicant and defrost a Friend on another world.",
+   "hidden": false,
+   "pct": 5.8
+  },
+  {
+   "api": "REACH_SPACE_ANY_DESTINATION",
+   "name": "Space Race",
+   "desc": "Launch your first rocket into space.",
+   "hidden": false,
+   "pct": 5.6
+  },
+  {
+   "api": "BUNKER_DOOR_DEFENSE",
+   "name": "Immovable Object",
+   "desc": "Block a meteor from hitting your base using a Bunker Door.",
+   "hidden": false,
+   "pct": 5.2
+  },
+  {
+   "api": "NO_PLANTERBOX",
+   "name": "Locavore",
+   "desc": "Have Duplicants consume 400,000kcal of food without planting any seeds in Planter Boxes, Farm Tiles, or Hydroponic Farms.",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "IDLE_DUPLICANTS",
+   "name": "Easy Livin'",
+   "desc": "Have Auto Sweepers complete more deliveries to machines than Duplicants over 5 cycles.",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "EXOSUIT_CYCLES",
+   "name": "Job Suitability",
+   "desc": "For 10 cycles in a row, have every Duplicant in the colony complete at least one chore while wearing an Exosuit.",
+   "hidden": false,
+   "pct": 3.7
+  },
+  {
+   "api": "VARIETY_OF_ROOMS",
+   "name": "Get a Room",
+   "desc": "Build at least one of each of the following rooms in a single colony: A Nature Reserve, a Hospital, a Recreation Room, a Great Hall, a Bedroom, a Washroom, a Greenhouse and a Stable.",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "SIXKELVIN_BUILDING",
+   "name": "Not 0K, But Pretty Cool",
+   "desc": "Reduce the temperature of a building to 6 Kelvin.",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "BUILD_NATURE_RESERVES",
+   "name": "Some Reservations",
+   "desc": "Improve Duplicant Morale by designating 4 areas as Nature Reserves.",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "CLEAN_ENERGY",
+   "name": "Super Sustainable",
+   "desc": "Generate 240,000kJ of power without using coal, methane, petrol or wood generators.",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "HATCH_REFINEMENT",
+   "name": "Down the Hatch",
+   "desc": "Produce 10 t of refined metal by ranching Smooth Hatches.",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "COMPLETED_RESEARCH",
+   "name": "Honorary Doctorate",
+   "desc": "Unlock every item in the Research Tree.",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "RADICAL_TRIP",
+   "name": "Radical Trip",
+   "desc": "Have radbolts travel a cumulative 10 km.",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "WINCONDITION_STAY",
+   "name": "Home Sweet Home",
+   "desc": "Establish your permanent home by fulfilling the requirements of the Colonize Imperative.",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "SOFT_LAUNCH",
+   "name": "Soft Launch",
+   "desc": "Build a launchpad on a world without a teleporter.",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "SURVIVE_IN_A_ROCKET",
+   "name": "Morale High Ground",
+   "desc": "Have all Duplicants in a rocket survive in space for 10 cycles in a row with a morale of 25 or higher.",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "EAT_MEAT",
+   "name": "Carnivore",
+   "desc": "Have Duplicants eat 400,000kcal of critter meat before the 100th cycle.",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "WINCONDITION_LEAVE",
+   "name": "The Great Escape",
+   "desc": "Ensure your colony's legacy by fulfilling the requirements of the Escape Imperative.",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "SWEETER_THAN_HONEY",
+   "name": "Sweeter Than Honey",
+   "desc": "Extract Uranium from a Beeta hive without getting stung.",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "REACTOR_USAGE",
+   "name": "That's Rad!",
+   "desc": "Run a Research Reactor at full capacity for 5 cycles.",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "TAME_GASSYMOO",
+   "name": "Moovin' On Up",
+   "desc": "Find and tame a Gassy Moo.",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "LANDED_ON_ALL_WORLDS",
+   "name": "Cluster Conquest",
+   "desc": "Land dupes or rovers on all worlds in the cluster.",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "TAME_BASIC_CRITTERS",
+   "name": "Critter Whisperer",
+   "desc": "Find and tame one of every critter species in the world. Default morphs only.",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "ALL_THE_CIRCUITS",
+   "name": "Most Valuable Bionic",
+   "desc": "Install 8 boosters in a single Bionic Duplicant.",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "ASTEROID_DESTROYED",
+   "name": "Blast Line of Defense",
+   "desc": "Escape extinction by fulfilling the requirements of the Defense Imperative.",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "WINCONDITION_ARTIFACTS",
+   "name": "Cosmic Archaeology",
+   "desc": "Uncover the past to secure your future by fulfilling the requirements of the Exploration Imperative.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "MINE_THE_GAP",
+   "name": "Mine the Gap",
+   "desc": "Mine 1,000,000kg from space POIs.",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "GMO_OK",
+   "name": "GMO A-OK",
+   "desc": "Successfully analyze at least one seed of all mutatable plants.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "WINCONDITION_GEOPLANT",
+   "name": "Full Steam Ahead",
+   "desc": "Secure your colony's industrial future by fulfilling the Power Imperative.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "EFFICIENT_DATAMINING",
+   "name": "Data Driven",
+   "desc": "Produce a Data Bank using a Data Miner operating at maximum efficiency.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "ASTEROID_SURVIVED",
+   "name": "The Lab: Life Found A Way",
+   "desc": "Survive 100 cycles after Demolior collides with your colony.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "MINNOW_RECRUITED",
+   "name": "Better Together",
+   "desc": "Recruit the only freediver Duplicant in the universe to your colony.",
+   "hidden": false,
+   "pct": 0.3
+  }
+ ]
+}

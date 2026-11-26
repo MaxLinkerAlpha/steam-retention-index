@@ -1,0 +1,369 @@
+{
+ "appid": 242760,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 45,
+ "achievements": [
+  {
+   "name": "Minor Cannibalism",
+   "desc": "Eat an enemy",
+   "hidden": false,
+   "pct": 39.2,
+   "api_name": "ACH_MINOR_CANNIBALISM",
+   "internal_key": 1024
+  },
+  {
+   "name": "Major Cannibalism",
+   "desc": "Eat an entire family",
+   "hidden": false,
+   "pct": 12.0,
+   "api_name": "ACH_MAJOR_CANNIBALISM",
+   "internal_key": 1025
+  },
+  {
+   "name": "Be Nice",
+   "desc": "Share a food or drink item in MP",
+   "hidden": false,
+   "pct": 37.5,
+   "api_name": "ACH_BE_NICE",
+   "internal_key": 1026
+  },
+  {
+   "name": "Be Extremely Nice",
+   "desc": "Share a weapon in MP",
+   "hidden": false,
+   "pct": 16.2,
+   "api_name": "ACH_BE_EXTREMELY_NICE",
+   "internal_key": 1027
+  },
+  {
+   "name": "Crafty",
+   "desc": "Craft all items",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "ACH_CRAFTY",
+   "internal_key": 1028
+  },
+  {
+   "name": "Bad father",
+   "desc": "Survive 100 days without finding your son",
+   "hidden": true,
+   "pct": 1.7,
+   "api_name": "ACH_BAD_FATHER",
+   "internal_key": 1029
+  },
+  {
+   "name": "Trophy Hunter",
+   "desc": "Kill all animal types and display heads",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ACH_TROPHY_HUNTER",
+   "internal_key": 1030
+  },
+  {
+   "name": "Green Thumb",
+   "desc": "Grow all plant types",
+   "hidden": false,
+   "pct": 12.1,
+   "api_name": "ACH_GARDENER",
+   "internal_key": 1031
+  },
+  {
+   "name": "Vegan",
+   "desc": "Play through entire game without killing or eating animals. Alone in Single Player or together in Multiplayer.",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "ACH_VEGAN",
+   "internal_key": 1032
+  },
+  {
+   "name": "Naturopath",
+   "desc": "Craft 10 medicine items",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "ACH_NATUROPATH",
+   "internal_key": 1033
+  },
+  {
+   "name": "5 Star Hotel",
+   "desc": "Sleep on yacht",
+   "hidden": false,
+   "pct": 27.5,
+   "api_name": "ACH_5_STAR_HOTEL",
+   "internal_key": 1034
+  },
+  {
+   "name": "Spelunker",
+   "desc": "Explore all caves",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "ACH_SPELUNKER",
+   "internal_key": 1035
+  },
+  {
+   "name": "First Responder",
+   "desc": "Revive one co-op player",
+   "hidden": false,
+   "pct": 57.1,
+   "api_name": "ACH_FIRST_RESPONDER",
+   "internal_key": 1036
+  },
+  {
+   "name": "Medic",
+   "desc": "Revive 10 co-op players",
+   "hidden": false,
+   "pct": 20.1,
+   "api_name": "ACH_MEDIC",
+   "internal_key": 1037
+  },
+  {
+   "name": "You should be looking for Timmy",
+   "desc": "Build a gazebo",
+   "hidden": true,
+   "pct": 15.0,
+   "api_name": "ACH_BUILD_GAZEBO",
+   "internal_key": 1038
+  },
+  {
+   "name": "Boy Scout",
+   "desc": "Use the compass",
+   "hidden": false,
+   "pct": 33.3,
+   "api_name": "ACH_BOY_SCOOT",
+   "internal_key": 1039
+  },
+  {
+   "name": "Camp Out",
+   "desc": "Sleep with another player (group sleep)",
+   "hidden": false,
+   "pct": 72.2,
+   "api_name": "ACH_GROUP_SLEEP",
+   "internal_key": 1040
+  },
+  {
+   "name": "Splatter",
+   "desc": "Killed downed enemy with rock",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "ACH_KILL_DOWNED_ENEMY",
+   "internal_key": 1042
+  },
+  {
+   "name": "Longest Wall",
+   "desc": "Build a super long wall",
+   "hidden": false,
+   "pct": 6.4,
+   "api_name": "ACH_LONG_WALL",
+   "internal_key": 1043
+  },
+  {
+   "name": "Choppy Chop",
+   "desc": "Chop up 50 bodies",
+   "hidden": false,
+   "pct": 19.0,
+   "api_name": "ACH_CHOP_BODIES",
+   "internal_key": 1044
+  },
+  {
+   "name": "Unseen",
+   "desc": "Make and wear stealth armour",
+   "hidden": false,
+   "pct": 36.0,
+   "api_name": "ACH_STEALTH_ARMOR",
+   "internal_key": 1047
+  },
+  {
+   "name": "Commercial Fisherman",
+   "desc": "Kill 6 or more fish with a stick of dynamite. Alone in Single Player or together in Multiplayer.",
+   "hidden": false,
+   "pct": 6.1,
+   "api_name": "ACH_FISH_DYNAMITED",
+   "internal_key": 1048
+  },
+  {
+   "name": "Survive The Forest",
+   "desc": "Finish Game",
+   "hidden": false,
+   "pct": 17.7,
+   "api_name": "ACH_SURVIVE_THE_FOREST",
+   "internal_key": 1049
+  },
+  {
+   "name": "Daily Grind",
+   "desc": "Drink from coffee machine",
+   "hidden": true,
+   "pct": 19.0,
+   "api_name": "ACH_DRINK_COFFEE",
+   "internal_key": 1050
+  },
+  {
+   "name": "Gross!",
+   "desc": "Drink water from cooler that has the lawyer head in it",
+   "hidden": true,
+   "pct": 4.2,
+   "api_name": "ACH_GROSS_DRINK",
+   "internal_key": 1051
+  },
+  {
+   "name": "Serial Killer",
+   "desc": "In Single Player, kill 100 cannibals",
+   "hidden": false,
+   "pct": 24.4,
+   "api_name": "ACH_KILL_CANNIBALS",
+   "internal_key": 1052
+  },
+  {
+   "name": "Make It Rain",
+   "desc": "Set off sprinklers in end game",
+   "hidden": true,
+   "pct": 12.4,
+   "api_name": "ACH_SPRINKLERS",
+   "internal_key": 1053
+  },
+  {
+   "name": "Get Closure",
+   "desc": "Find all missing passengers",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ACH_FIND_PASSENGERS",
+   "internal_key": 1054
+  },
+  {
+   "name": "Big Spender",
+   "desc": "Buy a soda and candy from vending machine",
+   "hidden": true,
+   "pct": 19.4,
+   "api_name": "ACH_VENDING_MACHINES",
+   "internal_key": 1055
+  },
+  {
+   "name": "Bite me!",
+   "desc": "Kill shark. Alone in Single Player or together in Multiplayer.",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "ACH_KILL_SHARK",
+   "internal_key": 6400
+  },
+  {
+   "name": "Monster",
+   "desc": "Kill a bunny. Alone in Single Player or together in Multiplayer.",
+   "hidden": false,
+   "pct": 41.0,
+   "api_name": "ACH_KILL_BUNNY",
+   "internal_key": 6401
+  },
+  {
+   "name": "Gabe Fan",
+   "desc": "Collect all cassette tapes!",
+   "hidden": false,
+   "pct": 16.4,
+   "api_name": "ACH_COLLECT_CASSETTES",
+   "internal_key": 6402
+  },
+  {
+   "name": "First Night",
+   "desc": "Survive 1 night",
+   "hidden": false,
+   "pct": 83.7,
+   "api_name": "ACH_DAYS_SURVIVED_1",
+   "internal_key": 6403
+  },
+  {
+   "name": "You are a fun guy",
+   "desc": "Eat all mushroom types",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "ACH_EAT_ALL_MUSHROOMS",
+   "internal_key": 6404
+  },
+  {
+   "name": "Survivalist",
+   "desc": "Survive 5 nights",
+   "hidden": false,
+   "pct": 54.9,
+   "api_name": "ACH_DAYS_SURVIVED_5",
+   "internal_key": 6405
+  },
+  {
+   "name": "Birdseye",
+   "desc": "Kill bird with arrow",
+   "hidden": false,
+   "pct": 36.9,
+   "api_name": "ACH_SHOOT_BIRDS",
+   "internal_key": 6407
+  },
+  {
+   "name": "Step Master",
+   "desc": "Pass 50,000 steps",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "ACH_MARATHON_STEPS",
+   "internal_key": 6408
+  },
+  {
+   "name": "Demolition Man ",
+   "desc": "Set off 20 bombs",
+   "hidden": false,
+   "pct": 21.2,
+   "api_name": "ACH_USED_BOMBS",
+   "internal_key": 6409
+  },
+  {
+   "name": "Handyman",
+   "desc": "Repair a shelter",
+   "hidden": false,
+   "pct": 9.3,
+   "api_name": "ACH_REPAIR_SHELTER",
+   "internal_key": 6410
+  },
+  {
+   "name": "Good Father",
+   "desc": "Collect all robot pieces ",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "ACH_COLLECT_ROBOT",
+   "internal_key": 6411
+  },
+  {
+   "name": "Climate Change",
+   "desc": "Cut down 100 trees",
+   "hidden": false,
+   "pct": 43.8,
+   "api_name": "ACH_CHOP_TREES_100",
+   "internal_key": 6413
+  },
+  {
+   "name": "Don't Save The Forest",
+   "desc": "Cut down 1000 trees",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "ACH_CHOP_TREES_1000",
+   "internal_key": 6414
+  },
+  {
+   "name": "Pacifist",
+   "desc": "In Single Player, don't kill any cannibals for more than 10 days in a row",
+   "hidden": false,
+   "pct": 21.2,
+   "api_name": "ACH_DAYS_WITHOUT_KILLS",
+   "internal_key": 6415
+  },
+  {
+   "name": "Demolition Expert",
+   "desc": "Knock down 6 or more trees with 1 explosive. Alone in Single Player or together in Multiplayer.",
+   "hidden": false,
+   "pct": 14.6,
+   "api_name": "ACH_TREES_DYNAMITED",
+   "internal_key": 6416
+  },
+  {
+   "name": "Fisherman",
+   "desc": "Catch fish with a trap. Alone in Single Player or together in Multiplayer.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "ACH_TRAP_FISH",
+   "internal_key": 6417
+  }
+ ]
+}

@@ -1,0 +1,1569 @@
+{
+ "appid": 1466860,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 195,
+ "achievements": [
+  {
+   "name": "Empires Will Rise",
+   "desc": "Construct your first Landmark.",
+   "hidden": false,
+   "pct": 94.3,
+   "api_name": "A001_",
+   "internal_key": 256
+  },
+  {
+   "name": "Kingdoms Will Fall",
+   "desc": "Defeat 20 enemy units.",
+   "hidden": false,
+   "pct": 93.8,
+   "api_name": "A002_",
+   "internal_key": 257
+  },
+  {
+   "name": "A New Age Is Upon Us",
+   "desc": "Complete the Introductory Tutorial.",
+   "hidden": false,
+   "pct": 59.6,
+   "api_name": "A003_",
+   "internal_key": 258
+  },
+  {
+   "name": "The Normans",
+   "desc": "Complete The Normans campaign.",
+   "hidden": false,
+   "pct": 20.0,
+   "api_name": "A004_",
+   "internal_key": 259
+  },
+  {
+   "name": "The Hundred Years War",
+   "desc": "Complete The Hundred Years War campaign.",
+   "hidden": false,
+   "pct": 10.8,
+   "api_name": "A005_",
+   "internal_key": 260
+  },
+  {
+   "name": "The Mongol Empire",
+   "desc": "Complete The Mongol Empire campaign.",
+   "hidden": false,
+   "pct": 9.1,
+   "api_name": "A006_",
+   "internal_key": 261
+  },
+  {
+   "name": "The Rise of Moscow",
+   "desc": "Complete The Rise of Moscow campaign.",
+   "hidden": false,
+   "pct": 11.4,
+   "api_name": "A007_",
+   "internal_key": 262
+  },
+  {
+   "name": "Age of Empires IV Campaign ",
+   "desc": "Complete the Age of Empires IV campaigns",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "A008_",
+   "internal_key": 263
+  },
+  {
+   "name": "Counter-Raider",
+   "desc": "Loot the Danish war camp during the North to York mission.",
+   "hidden": false,
+   "pct": 31.1,
+   "api_name": "A009_",
+   "internal_key": 264
+  },
+  {
+   "name": "Chivalry",
+   "desc": "Enlist the aid of 45 Knights during the Battle of Tinchebray.",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "A010_",
+   "internal_key": 265
+  },
+  {
+   "name": "Siegebreaker",
+   "desc": "Defeat the siege before the Keep takes damage during the First Battle of Lincoln.",
+   "hidden": false,
+   "pct": 23.1,
+   "api_name": "A011_",
+   "internal_key": 266
+  },
+  {
+   "name": "Quit Touching Me!",
+   "desc": "Stop any of the city's walls being destroyed during the Siege of Wallingford.",
+   "hidden": false,
+   "pct": 14.1,
+   "api_name": "A012_",
+   "internal_key": 267
+  },
+  {
+   "name": "Fill the Coffers",
+   "desc": "Collect every treasure chest during the Battle of Patay.",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "A014_",
+   "internal_key": 269
+  },
+  {
+   "name": "Battle Royal",
+   "desc": "Field a Royal siege unit with all the brothers' bonuses during Retake Normandy.",
+   "hidden": false,
+   "pct": 7.2,
+   "api_name": "A015_",
+   "internal_key": 270
+  },
+  {
+   "name": "Careful Cannons",
+   "desc": "Win the Battle of Formigny without losing any cannons.",
+   "hidden": false,
+   "pct": 7.9,
+   "api_name": "A016_",
+   "internal_key": 271
+  },
+  {
+   "name": "Twinkle Hooves",
+   "desc": "Don't lose any Mangudai during the Battle of the Kalka River.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "A017_",
+   "internal_key": 272
+  },
+  {
+   "name": "Yeah, Well, You Should See the Other Guy",
+   "desc": "Lose a unit to the Front Gate of Zhangjiakou during the Great Wall mission.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "A018_",
+   "internal_key": 273
+  },
+  {
+   "name": "Forgot a Batu",
+   "desc": "Kill double the enemies as Batu when assaulting the bridge in the Battle of Mohi.",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "A019_",
+   "internal_key": 274
+  },
+  {
+   "name": "Boom Boom Pao",
+   "desc": "Don't lose any Huihui Pao during the Fall of Xiangyang.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "A020_",
+   "internal_key": 275
+  },
+  {
+   "name": "Keep the Change",
+   "desc": "Pay off the Mongols within 3 minutes during the Tribute mission.",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "A021_",
+   "internal_key": 276
+  },
+  {
+   "name": "Get Off My Bailey!",
+   "desc": "Stop the Mongols from entering the outer city during Hold Against the Horde.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "A022_",
+   "internal_key": 277
+  },
+  {
+   "name": "Ancient Tower Defense",
+   "desc": "Kill 50 enemies with Wooden Fortresses during the Great Stand on the Ugra River.",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "A023_",
+   "internal_key": 278
+  },
+  {
+   "name": "Classic Conquest",
+   "desc": "Destroy all enemy units and production buildings during the Siege of Kazan.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "A024_",
+   "internal_key": 279
+  },
+  {
+   "name": "The Fundamentals",
+   "desc": "Complete the Training Mastery.",
+   "hidden": false,
+   "pct": 35.5,
+   "api_name": "A025_",
+   "internal_key": 280
+  },
+  {
+   "name": "Quick Study",
+   "desc": "Complete your first Civilization Mastery task.",
+   "hidden": false,
+   "pct": 65.2,
+   "api_name": "A026_",
+   "internal_key": 281
+  },
+  {
+   "name": "Master of the French",
+   "desc": "Complete the French Mastery.",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "A028_",
+   "internal_key": 283
+  },
+  {
+   "name": "Master of the Holy Roman Empire",
+   "desc": "Complete the Holy Roman Empire Mastery.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "A029_",
+   "internal_key": 284
+  },
+  {
+   "name": "Master of the Delhi Sultanate",
+   "desc": "Complete the Delhi Sultanate Mastery.",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "A032_",
+   "internal_key": 287
+  },
+  {
+   "name": "Master of the Chinese",
+   "desc": "Complete the Chinese Mastery.",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "A033_",
+   "internal_key": 512
+  },
+  {
+   "name": "Master of the Abbasid Dynasty",
+   "desc": "Complete the Abbasid Dynasty Mastery.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "A034_",
+   "internal_key": 513
+  },
+  {
+   "name": "Recorded History",
+   "desc": "View a replay.",
+   "hidden": false,
+   "pct": 12.1,
+   "api_name": "A036_",
+   "internal_key": 515
+  },
+  {
+   "name": "By Force",
+   "desc": "Achieve a Landmarks Victory.",
+   "hidden": false,
+   "pct": 54.9,
+   "api_name": "A038_",
+   "internal_key": 517
+  },
+  {
+   "name": "By Faith",
+   "desc": "Achieve a Sacred Victory.",
+   "hidden": false,
+   "pct": 29.1,
+   "api_name": "A039_",
+   "internal_key": 518
+  },
+  {
+   "name": "By Fortune",
+   "desc": "Achieve a Wonder Victory.",
+   "hidden": false,
+   "pct": 26.7,
+   "api_name": "A040_",
+   "internal_key": 519
+  },
+  {
+   "name": "Make It Quick",
+   "desc": "Achieve a Landmarks Victory in the Dark Age (I).",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "A041_",
+   "internal_key": 520
+  },
+  {
+   "name": "Walk the Earth",
+   "desc": "Achieve a Sacred Victory without losing a religious unit.",
+   "hidden": false,
+   "pct": 20.0,
+   "api_name": "A042_",
+   "internal_key": 521
+  },
+  {
+   "name": "Wonderstruck",
+   "desc": "Achieve a Wonder Victory without constructing walls.",
+   "hidden": false,
+   "pct": 14.7,
+   "api_name": "A043_",
+   "internal_key": 522
+  },
+  {
+   "name": "Precious Medals",
+   "desc": "Earn a Medal in 3 Art of War challenges.",
+   "hidden": false,
+   "pct": 9.6,
+   "api_name": "A044_",
+   "internal_key": 523
+  },
+  {
+   "name": "Challenge Taker",
+   "desc": "Earn your first Gold Medal in an Art of War challenge.",
+   "hidden": false,
+   "pct": 10.6,
+   "api_name": "A045_",
+   "internal_key": 524
+  },
+  {
+   "name": "Record Breaker",
+   "desc": "Earn a Gold Medal in 5 Art of War challenges.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "A046_",
+   "internal_key": 525
+  },
+  {
+   "name": "Sub-Human Subduer",
+   "desc": "Win a 1v1 match against the Easy A.I.",
+   "hidden": false,
+   "pct": 46.3,
+   "api_name": "A047_",
+   "internal_key": 526
+  },
+  {
+   "name": "Par-Human Potentate",
+   "desc": "Win a 1v1 match against the Intermediate A.I.",
+   "hidden": false,
+   "pct": 40.6,
+   "api_name": "A048_",
+   "internal_key": 527
+  },
+  {
+   "name": "High-Human Hero",
+   "desc": "Win a 1v1 match against the Hard A.I.",
+   "hidden": false,
+   "pct": 31.7,
+   "api_name": "A049_",
+   "internal_key": 528
+  },
+  {
+   "name": "Super-Human Subjugator",
+   "desc": "Win a 1v1 match against the Hardest A.I.",
+   "hidden": false,
+   "pct": 27.7,
+   "api_name": "A050_",
+   "internal_key": 529
+  },
+  {
+   "name": "The Faithful",
+   "desc": "Convert 30 enemies without holding a Relic as the Abbasid Dynasty.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "A051_",
+   "internal_key": 530
+  },
+  {
+   "name": "All the World's Knowledge",
+   "desc": "During a match, research everything in the wings of the Abbasid House of Wisdom.",
+   "hidden": false,
+   "pct": 8.5,
+   "api_name": "A052_",
+   "internal_key": 531
+  },
+  {
+   "name": "Shifting Winds",
+   "desc": "Defeat 1,000 enemy cavalry units with your Camel Riders as the Abbasid Dynasty.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "A053_",
+   "internal_key": 532
+  },
+  {
+   "name": "A Golden Age",
+   "desc": "Achieve the third tier of the Golden Age as the Abbasid Dynasty.",
+   "hidden": false,
+   "pct": 9.0,
+   "api_name": "A054_",
+   "internal_key": 533
+  },
+  {
+   "name": "Dread Fort",
+   "desc": "Kill 100 enemies with Keeps as the English.",
+   "hidden": false,
+   "pct": 32.7,
+   "api_name": "A055_",
+   "internal_key": 534
+  },
+  {
+   "name": "Pass the Marshmallows",
+   "desc": "Use the Setup Camp ability 20 times as the English.",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "A056_",
+   "internal_key": 535
+  },
+  {
+   "name": "Lancerlot",
+   "desc": "Charge an enemy with 50 Royal Knights simultaneously as the French.",
+   "hidden": false,
+   "pct": 16.8,
+   "api_name": "A059_",
+   "internal_key": 538
+  },
+  {
+   "name": "Who Needs Infantry?",
+   "desc": "Win a match without producing infantry as the French.",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "A060_",
+   "internal_key": 539
+  },
+  {
+   "name": "Big Shot",
+   "desc": "Destroy 1,000 enemy units with gunpowder siege engines as the French.",
+   "hidden": false,
+   "pct": 5.2,
+   "api_name": "A061_",
+   "internal_key": 540
+  },
+  {
+   "name": "Do You Deliver?",
+   "desc": "Accrue 1,000 Food from Traders in a single match as the French.",
+   "hidden": false,
+   "pct": 5.2,
+   "api_name": "A062_",
+   "internal_key": 541
+  },
+  {
+   "name": "Wild's Bounty",
+   "desc": "Accrue 2,000 Gold with Hunting Cabins in a single match as the Rus.",
+   "hidden": false,
+   "pct": 17.8,
+   "api_name": "A063_",
+   "internal_key": 542
+  },
+  {
+   "name": "Big Game Hunter",
+   "desc": "Earn 500 Gold from bounties in a match as the Rus.",
+   "hidden": false,
+   "pct": 16.2,
+   "api_name": "A064_",
+   "internal_key": 543
+  },
+  {
+   "name": "Deforestation",
+   "desc": "Gather Wood 1,000 times as the Rus.",
+   "hidden": false,
+   "pct": 34.5,
+   "api_name": "A065_",
+   "internal_key": 768
+  },
+  {
+   "name": "In Memory of Kulikovo",
+   "desc": "Enhance 10 units with a single Saint's Blessing strike as the Rus.",
+   "hidden": false,
+   "pct": 28.8,
+   "api_name": "A066_",
+   "internal_key": 769
+  },
+  {
+   "name": "Raiding Party",
+   "desc": "Raid an enemy building in the Dark Age (I) as the Mongols.",
+   "hidden": false,
+   "pct": 5.6,
+   "api_name": "A067_",
+   "internal_key": 770
+  },
+  {
+   "name": "Jagutu-iin Darga",
+   "desc": "Enhance 100 units with a single Khan Signal Arrow as the Mongols.",
+   "hidden": false,
+   "pct": 11.0,
+   "api_name": "A068_",
+   "internal_key": 771
+  },
+  {
+   "name": "Long Live the Khan",
+   "desc": "Win a match without your Khan being killed as the Mongols.",
+   "hidden": false,
+   "pct": 13.8,
+   "api_name": "A069_",
+   "internal_key": 772
+  },
+  {
+   "name": "Explore, Expand, Exploit",
+   "desc": "Accrue 10,000 Stone in a single match as the Mongols.",
+   "hidden": false,
+   "pct": 17.9,
+   "api_name": "A070_",
+   "internal_key": 773
+  },
+  {
+   "name": "Who Needs Cavalry?",
+   "desc": "Win a match without producing cavalry as the Holy Roman Empire.",
+   "hidden": false,
+   "pct": 12.8,
+   "api_name": "A071_",
+   "internal_key": 774
+  },
+  {
+   "name": "Inspired Economics",
+   "desc": "Have at least 60 simultaneously inspired Villagers as the Holy Roman Empire.",
+   "hidden": false,
+   "pct": 11.4,
+   "api_name": "A072_",
+   "internal_key": 775
+  },
+  {
+   "name": "Servants of the Land",
+   "desc": "Kill 10,000 enemies with Landsknechte.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "A073_",
+   "internal_key": 776
+  },
+  {
+   "name": "Swift Site",
+   "desc": "Begin capturing a Sacred Site immediately upon entering Age III as the Holy Roman Empire.",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "A074_",
+   "internal_key": 777
+  },
+  {
+   "name": "Herd You Like Elephants",
+   "desc": "Destroy 100 enemy buildings with your elephants as the Delhi Sultanate.",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "A075_",
+   "internal_key": 778
+  },
+  {
+   "name": "Field Construction",
+   "desc": "Build a Stone Wall, Gate, and Tower using infantry as the Delhi Sultanate.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "A076_",
+   "internal_key": 779
+  },
+  {
+   "name": "Higher Education",
+   "desc": "Have 20 Scholars garrisoned in a Madrasa as the Delhi Sultanate.",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "A077_",
+   "internal_key": 780
+  },
+  {
+   "name": "Pantomath",
+   "desc": "Research all technologies in a match as the Delhi Sultanate.",
+   "hidden": false,
+   "pct": 7.7,
+   "api_name": "A078_",
+   "internal_key": 781
+  },
+  {
+   "name": "Be Subtle",
+   "desc": "Reveal 300 Villagers with a single use of Imperial Spies as the Chinese.",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "A079_",
+   "internal_key": 782
+  },
+  {
+   "name": "Great Walls",
+   "desc": "Construct 1,000 Stone Walls as the Chinese.",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "A080_",
+   "internal_key": 783
+  },
+  {
+   "name": "Move Like Wind, Attack Like Fire",
+   "desc": "Defeat 1,000 enemy units with the Nest of Bees as the Chinese.",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "A081_",
+   "internal_key": 784
+  },
+  {
+   "name": "Four Histories",
+   "desc": "Establish all of the Dynasties in a single match as the Chinese.",
+   "hidden": false,
+   "pct": 21.0,
+   "api_name": "A082_",
+   "internal_key": 785
+  },
+  {
+   "name": "Wololottery",
+   "desc": "Assume control of 25 units in a single conversion.",
+   "hidden": false,
+   "pct": 4.5,
+   "api_name": "A083_",
+   "internal_key": 786
+  },
+  {
+   "name": "Having a Blast",
+   "desc": "Destroy 5 enemies with a single Demolition Ship detonation.",
+   "hidden": false,
+   "pct": 11.7,
+   "api_name": "A084_",
+   "internal_key": 787
+  },
+  {
+   "name": "All Creek, No Paddle",
+   "desc": "Sink an enemy Transport Ship that is garrisoned to max capacity.",
+   "hidden": false,
+   "pct": 12.1,
+   "api_name": "A085_",
+   "internal_key": 788
+  },
+  {
+   "name": "Through the Ages",
+   "desc": "Advance to the next Age 500 times.",
+   "hidden": false,
+   "pct": 9.3,
+   "api_name": "A086_",
+   "internal_key": 789
+  },
+  {
+   "name": "Coast Is Clear",
+   "desc": "Win a match during which fishing was your only source of gathered Food.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "A087_",
+   "internal_key": 790
+  },
+  {
+   "name": "Accurate Likeness",
+   "desc": "Equip your first portrait.",
+   "hidden": false,
+   "pct": 27.6,
+   "api_name": "A088_",
+   "internal_key": 791
+  },
+  {
+   "name": "To Remind, To Advise, To Warn",
+   "desc": "Equip your first monument.",
+   "hidden": false,
+   "pct": 19.4,
+   "api_name": "A089_",
+   "internal_key": 792
+  },
+  {
+   "name": "A Heraldic Achievement",
+   "desc": "Customize your coat of arms.",
+   "hidden": false,
+   "pct": 24.9,
+   "api_name": "A090_",
+   "internal_key": 793
+  },
+  {
+   "name": "Du Bois Are Back in Town",
+   "desc": "Win in the arena without losing more than 10 units during the Combat of the Thirty.",
+   "hidden": false,
+   "pct": 10.1,
+   "api_name": "A091_",
+   "internal_key": 794
+  },
+  {
+   "name": "We Charge Extra for That",
+   "desc": "Shutdown a Cavalry Charge with Palings as the English.",
+   "hidden": false,
+   "pct": 48.9,
+   "api_name": "A092_",
+   "internal_key": 795
+  },
+  {
+   "name": "Hope Is Kindled",
+   "desc": "Extend the Network of Castles alarm across 12 buildings simultaneously as the English.",
+   "hidden": false,
+   "pct": 22.8,
+   "api_name": "A093_",
+   "internal_key": 796
+  },
+  {
+   "name": "Master of the English",
+   "desc": "Complete the English Mastery.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "A094_",
+   "internal_key": 797
+  },
+  {
+   "name": "Master of the Mongols",
+   "desc": "Complete the Mongol Mastery.",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "A095_",
+   "internal_key": 798
+  },
+  {
+   "name": "Master of the Rus",
+   "desc": "Complete the Rus Mastery.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "A096_",
+   "internal_key": 799
+  },
+  {
+   "name": "Master of the Ages",
+   "desc": "Complete all Civilization Masteries.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "A097_",
+   "internal_key": 4352
+  },
+  {
+   "name": "Ottoman Expansion",
+   "desc": "Win a match as the Ottomans.",
+   "hidden": false,
+   "pct": 17.2,
+   "api_name": "A098_",
+   "internal_key": 4353
+  },
+  {
+   "name": "Transcontinental Empire",
+   "desc": "Win 20 matches as the Ottomans.",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "A099_",
+   "internal_key": 4354
+  },
+  {
+   "name": "Regimented Training",
+   "desc": "Have 5 Military Schools active at the same time as the Ottomans.",
+   "hidden": false,
+   "pct": 11.7,
+   "api_name": "A100_",
+   "internal_key": 4355
+  },
+  {
+   "name": "Mobile Strikes",
+   "desc": "Defeat 100 ranged units with a Sipahi unit as the Ottomans.",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "A101_",
+   "internal_key": 4356
+  },
+  {
+   "name": "A Wonderful Cannon",
+   "desc": "Destroy a Wonder with a Great Bombard as the Ottomans.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "A102_",
+   "internal_key": 4357
+  },
+  {
+   "name": "Sound Advice",
+   "desc": "Unlock 7 Imperial Council upgrades in a single match as the Ottomans.",
+   "hidden": false,
+   "pct": 7.0,
+   "api_name": "A103_",
+   "internal_key": 4358
+  },
+  {
+   "name": "Hell of a Beat",
+   "desc": "Defeat 500 enemies with units affected by Mehteran as the Ottomans.",
+   "hidden": false,
+   "pct": 7.9,
+   "api_name": "A104_",
+   "internal_key": 4359
+  },
+  {
+   "name": "Trojan Horses",
+   "desc": "Garrison units into 3 Trebuchets as the Ottomans.",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "A105_",
+   "internal_key": 4360
+  },
+  {
+   "name": "Malian Rise",
+   "desc": "Win a match as the Malians.",
+   "hidden": false,
+   "pct": 13.0,
+   "api_name": "A106_",
+   "internal_key": 4361
+  },
+  {
+   "name": "Trans-Saharan Empire",
+   "desc": "Win 20 matches as the Malians.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "A107_",
+   "internal_key": 4362
+  },
+  {
+   "name": "Tax Collector",
+   "desc": "Generate tax from 5 Toll Outposts on a single trip as the Malians.",
+   "hidden": false,
+   "pct": 5.2,
+   "api_name": "A108_",
+   "internal_key": 4363
+  },
+  {
+   "name": "From the Shadows",
+   "desc": "Attack 100 enemies with invisible Musofadi Warriors or Gunners in a single match as the Malians.",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "A109_",
+   "internal_key": 4364
+  },
+  {
+   "name": "Just a Prick",
+   "desc": "Defeat a Heavy Cavalry unit with a Poisoned Arrow as the Malians.",
+   "hidden": false,
+   "pct": 7.0,
+   "api_name": "A110_",
+   "internal_key": 4365
+  },
+  {
+   "name": "All Mine",
+   "desc": "Gather Gold 1,000 times from Open Pit Mines as the Malians.",
+   "hidden": false,
+   "pct": 10.0,
+   "api_name": "A111_",
+   "internal_key": 4366
+  },
+  {
+   "name": "Aerial Poisoned Attacks",
+   "desc": "Defeat 500 units with Poisoned Arrow as the Malians.",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "A112_",
+   "internal_key": 4367
+  },
+  {
+   "name": "All in the Ranch",
+   "desc": "Garrison 20 Cattle in Ranches at the same time as the Malians.",
+   "hidden": false,
+   "pct": 7.7,
+   "api_name": "A113_",
+   "internal_key": 4368
+  },
+  {
+   "name": "Master of the Ottomans",
+   "desc": "Complete the Ottoman Mastery.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "A114_",
+   "internal_key": 4369
+  },
+  {
+   "name": "Master of the Malians",
+   "desc": "Complete the Malian Mastery.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "A115_",
+   "internal_key": 4370
+  },
+  {
+   "name": "The Ottoman Arts",
+   "desc": "Earn a gold medal in the Ottoman Art of War challenge.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "A116_",
+   "internal_key": 4371
+  },
+  {
+   "name": "The Malian Arts",
+   "desc": "Earn a gold medal in the Malian Art of War challenge.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "A117_",
+   "internal_key": 4372
+  },
+  {
+   "name": "Win for the Empire",
+   "desc": "Win a match as the Byzantines.",
+   "hidden": false,
+   "pct": 8.3,
+   "api_name": "A118_",
+   "internal_key": 4375
+  },
+  {
+   "name": "Protecting Constantinople",
+   "desc": "Win 20 matches as the Byzantines.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "A119_",
+   "internal_key": 4376
+  },
+  {
+   "name": "Unsinkable",
+   "desc": "Construct a Transport Ship with a Varangian Guard and garrison it to maximum capacity as the Byzantines.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "A120_",
+   "internal_key": 4377
+  },
+  {
+   "name": "Getting Some Help",
+   "desc": "Recruit 60 mercenaries from a Mercenary House in a single match as the Byzantines.",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "A121_",
+   "internal_key": 4378
+  },
+  {
+   "name": "Bulwark",
+   "desc": "Defeat 200 enemies with Limitanei while Shield Wall is active as the Byzantines.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "A122_",
+   "internal_key": 4379
+  },
+  {
+   "name": "Let There Be Fire",
+   "desc": "Destroy 50 buildings with Cheirosiphons as the Byzantines.",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "A123_",
+   "internal_key": 4380
+  },
+  {
+   "name": "Overflow",
+   "desc": "Build 10 Cisterns in a single match as the Byzantines.",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "A124_",
+   "internal_key": 4381
+  },
+  {
+   "name": "Let It Flow",
+   "desc": "Accrue 2,000 Olive Oil in a single match as the Byzantines.",
+   "hidden": false,
+   "pct": 9.6,
+   "api_name": "A125_",
+   "internal_key": 4382
+  },
+  {
+   "name": "A First for the Emperor",
+   "desc": "Win a match as the Japanese.",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "A126_",
+   "internal_key": 4383
+  },
+  {
+   "name": "Established Lands",
+   "desc": "Win 20 matches as the Japanese.",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "A127_",
+   "internal_key": 8192
+  },
+  {
+   "name": "Protecting Us",
+   "desc": "Heal 20 units using Shinto Priest units in a single match as the Japanese.",
+   "hidden": false,
+   "pct": 8.0,
+   "api_name": "A128_",
+   "internal_key": 8193
+  },
+  {
+   "name": "Daimyo Mastery",
+   "desc": "Spend Stone to research all Town Center upgrades as the Japanese.",
+   "hidden": false,
+   "pct": 10.1,
+   "api_name": "A129_",
+   "internal_key": 8194
+  },
+  {
+   "name": "Exchange Rates",
+   "desc": "Drop Stone at a Blacksmith to convert into 500 Gold in a single match as the Japanese.",
+   "hidden": false,
+   "pct": 8.5,
+   "api_name": "A130_",
+   "internal_key": 8195
+  },
+  {
+   "name": "Shinobi Mastermind",
+   "desc": "Disable 50 buildings with Shinobi units as the Japanese.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "A131_",
+   "internal_key": 8196
+  },
+  {
+   "name": "Gunpowder Mastery",
+   "desc": "Defeat 50 siege units using Ozutsu units as the Japanese.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "A132_",
+   "internal_key": 8197
+  },
+  {
+   "name": "Successful Gatherer",
+   "desc": "Enhance 10 resource drop-off buildings by depositing a Yorishiro as the Japanese.",
+   "hidden": false,
+   "pct": 7.1,
+   "api_name": "A133_",
+   "internal_key": 8198
+  },
+  {
+   "name": "The Sultans",
+   "desc": "Complete The Sultans Ascend campaign.",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "A134_",
+   "internal_key": 8199
+  },
+  {
+   "name": "Master Naval Trader",
+   "desc": "Have 20 Trade Ships trading simultaneously during the Raiders of the Red Sea.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "A135_",
+   "internal_key": 8200
+  },
+  {
+   "name": "In the Lead by a Quarter Nile",
+   "desc": "Capture all Control Points during Into Egypt.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "A136_",
+   "internal_key": 8201
+  },
+  {
+   "name": "Saving the Day Early",
+   "desc": "Eliminate all 3 enemy leaders within 30 seconds of each other during the Battle of Mansurah.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "A137_",
+   "internal_key": 8202
+  },
+  {
+   "name": "Rescue",
+   "desc": "Rescue all the prisoners during the Invasion of Cyprus.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "A138_",
+   "internal_key": 8203
+  },
+  {
+   "name": "Victory Through Cross and Sword",
+   "desc": "Win a Multiplayer or Skirmish match with Knights Templar.",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "A139_",
+   "internal_key": 8204
+  },
+  {
+   "name": "Journey to the Sacred Land",
+   "desc": "Have 50 Knights Templar Pilgrims reach a sacred site.",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "A140_",
+   "internal_key": 8205
+  },
+  {
+   "name": "Castle Crasher",
+   "desc": "Destroy an enemy building with the Trebuchet Emplacement.",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "A141_",
+   "internal_key": 8206
+  },
+  {
+   "name": "'Tis But a Scratch",
+   "desc": "Heal allied units by 500 health with the Hospitaller Knight.",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "A142_",
+   "internal_key": 8207
+  },
+  {
+   "name": "Feeding the Rich",
+   "desc": "Generate 2000 Gold with the Pilgrim Loan at the market.",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "A143_",
+   "internal_key": 8208
+  },
+  {
+   "name": "The Red Rose Flourishes",
+   "desc": "Win a Multiplayer or Skirmish match with the House of Lancaster.",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "A144_",
+   "internal_key": 8209
+  },
+  {
+   "name": "Blot out the Sun",
+   "desc": "As the House of Lancaster, hit 500 times using the Yeoman's Synchronized Shot.",
+   "hidden": false,
+   "pct": 3.6,
+   "api_name": "A145_",
+   "internal_key": 8210
+  },
+  {
+   "name": "My House is Richer Than Yours",
+   "desc": "Generate 4000 Gold with Manors in one match.",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "A146_",
+   "internal_key": 8211
+  },
+  {
+   "name": "Lead the Charge",
+   "desc": "Empower at least 30 units with all 4 Lords of Lancaster at once.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "A147_",
+   "internal_key": 8212
+  },
+  {
+   "name": "Knife to Meet You",
+   "desc": "Kill 50 units with Earl's Guards after researching Throwing Dagger Drills.",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "A148_",
+   "internal_key": 8213
+  },
+  {
+   "name": "Against All Odds",
+   "desc": "Defeat the French army at Agincourt.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "A149_",
+   "internal_key": 8214
+  },
+  {
+   "name": "Get Off My Lawn",
+   "desc": "Destroy the army besieging Safed.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "A150_",
+   "internal_key": 8215
+  },
+  {
+   "name": "Jerusalem Has Come",
+   "desc": "Capture all Sacred Sites and drive the Ayyubids out of Montgisard.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "A151_",
+   "internal_key": 8216
+  },
+  {
+   "name": "A Rose for the Fallen",
+   "desc": "Survive the Aftermath of Towton.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "A152_",
+   "internal_key": 8217
+  },
+  {
+   "name": "Conqueror of History",
+   "desc": "Complete all Historical Battles in Conqueror Mode.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "A153_",
+   "internal_key": 8218
+  },
+  {
+   "name": "The Greatest Khan",
+   "desc": "Earn a Gold Medal on Watch Your Steppe in the Crucible.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "A154_",
+   "internal_key": 8219
+  },
+  {
+   "name": "Lords of the Forest",
+   "desc": "Earn a Gold Medal on Forest Lords in the Crucible.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "A155_",
+   "internal_key": 8220
+  },
+  {
+   "name": "Uncontested",
+   "desc": "Earn a Gold Medal on Contested Coastline in the Crucible.",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "A156_",
+   "internal_key": 8221
+  },
+  {
+   "name": "Gingko’s Grandeur",
+   "desc": "Earn a Gold Medal on Daimyo Dynamics in the Crucible.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "A157_",
+   "internal_key": 8222
+  },
+  {
+   "name": "No Luck Needed",
+   "desc": "Win a Multiplayer or Skirmish match with Tughlaq Dynasty.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "A158_",
+   "internal_key": 8223
+  },
+  {
+   "name": "Toomai's Dance",
+   "desc": "Gain Worker Elephant bonus resources 1000 times in a match.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "A159_",
+   "internal_key": 8960
+  },
+  {
+   "name": "Elevated Theology",
+   "desc": "Have Healer Elephants heal 100 melee infantry units in a single match.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "A160_",
+   "internal_key": 8961
+  },
+  {
+   "name": "Thunder and Trumpets",
+   "desc": "Trample with 25 Raider Elephants at the same time. ",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "A161_",
+   "internal_key": 8962
+  },
+  {
+   "name": "Great Things",
+   "desc": "Win a Multiplayer or Skirmish match with Macedonian Dynasty.",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "A162_",
+   "internal_key": 8963
+  },
+  {
+   "name": "Ready, Aim, Fire!",
+   "desc": "Kill 50 enemy units with flaming Springald bolts in a single match.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "A163_",
+   "internal_key": 8964
+  },
+  {
+   "name": "By Odin's Beard",
+   "desc": "Gain 500 free units from the Varangian Warcamp.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "A164_",
+   "internal_key": 8965
+  },
+  {
+   "name": "Var-Aegean",
+   "desc": "Research 15 technologies from the Varangian Arsenal in a single match.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "A165_",
+   "internal_key": 8966
+  },
+  {
+   "name": "The Great Unifier",
+   "desc": "Win a Multiplayer or Skirmish match with Sengoku Daimyo.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "A166_",
+   "internal_key": 8967
+  },
+  {
+   "name": "Itadakimasu!",
+   "desc": "Completely fill a Matsuri festival with Yatai carts.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "A167_",
+   "internal_key": 8968
+  },
+  {
+   "name": "Daimyo Dance-Off",
+   "desc": "Defeat 50 Elephants with Kanabo Samurai.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "A168_",
+   "internal_key": 8969
+  },
+  {
+   "name": "Bombard Barrage",
+   "desc": "Destroy 150 buildings with Early Ozutsu.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "A169_",
+   "internal_key": 8970
+  },
+  {
+   "name": "Just Like Batu Khan",
+   "desc": "Win a Multiplayer or Skirmish match with Golden Horde.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "A170_",
+   "internal_key": 8971
+  },
+  {
+   "name": "Well Stocked",
+   "desc": "Produce 10,000 food from Stockyards in a single match.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "A171_",
+   "internal_key": 8972
+  },
+  {
+   "name": "Let’s Goooooooooo!",
+   "desc": "Gain 250 free Kharash from the Kharash Golden Tent Edict.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "A172_",
+   "internal_key": 8973
+  },
+  {
+   "name": "More Cuman than Cuman",
+   "desc": "Have 50 Torguud die in place of a Khan.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "A173_",
+   "internal_key": 8974
+  },
+  {
+   "name": "Giddy Up!",
+   "desc": "Field 50 units using Grassland horses.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "A174_",
+   "internal_key": 8975
+  },
+  {
+   "name": "Ready and Waiting",
+   "desc": "Defeat 50 enemies using Meng’an Mouke Defenders.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "A175_",
+   "internal_key": 8976
+  },
+  {
+   "name": "Master of the Jin Dynasty",
+   "desc": "Complete the Jin Dynasty Mastery.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "A176_",
+   "internal_key": 8977
+  },
+  {
+   "name": "Good Karma",
+   "desc": "Achieve the Mountain Gate’s blessing 3 times in a single match.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "A177_",
+   "internal_key": 8978
+  },
+  {
+   "name": "An Offer They Couldn’t Refuse",
+   "desc": "Bribe 10 enemies in a single match.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "A178_",
+   "internal_key": 8979
+  },
+  {
+   "name": "Serve the Country with Perfect Loyalty",
+   "desc": "Complete the Yue Fei campaign.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "A179_",
+   "internal_key": 8980
+  },
+  {
+   "name": "There is no Escape",
+   "desc": "Do not let a single Jin ship escape during the Battle of Huangtiandang.",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "A180_",
+   "internal_key": 8981
+  },
+  {
+   "name": "Master Negotiator",
+   "desc": "Subdue Zhang Yong without breaching his walls in the Southern Rebels mission.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "A181_",
+   "internal_key": 8982
+  },
+  {
+   "name": "Under Cover of Night",
+   "desc": "Destroy an enemy siege camp during the night in the Siege of De’an.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "A182_",
+   "internal_key": 8983
+  },
+  {
+   "name": "Resourceful Raider",
+   "desc": "Complete the Central Plains mission without your supplies falling below 50%.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "A183_",
+   "internal_key": 8984
+  },
+  {
+   "name": "Story in Stone",
+   "desc": "Complete all Sagas in a single match.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "A184_",
+   "internal_key": 8985
+  },
+  {
+   "name": "Axe at my Belt",
+   "desc": "Collect 3000 Wood with Bondi in a single match.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "A185_",
+   "internal_key": 8986
+  },
+  {
+   "name": "Guardians of the Hearth",
+   "desc": "Defeat 60 enemy units with Shield Maidens affected by Verndari. ",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "A186_",
+   "internal_key": 8987
+  },
+  {
+   "name": "Master of the Vikings",
+   "desc": "Complete the Vikings Mastery.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "A187_",
+   "internal_key": 8988
+  },
+  {
+   "name": "Toast to Odin",
+   "desc": "Construct 18 Longhouses with Bee Skeps.",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "A188_",
+   "internal_key": 8989
+  },
+  {
+   "name": "Battle Trance",
+   "desc": "Defeat 60 enemy units with Berserkers while Berserkergang is active.",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "A189_",
+   "internal_key": 8990
+  },
+  {
+   "name": "Terror of the Seas",
+   "desc": "Defeat 50 enemy ships with fully loaded Longships.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "A190_",
+   "internal_key": 8991
+  },
+  {
+   "name": "Nothing Personal",
+   "desc": "Research all upgrades at the Mustering Hall in a single match.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "A191_",
+   "internal_key": 9216
+  },
+  {
+   "name": "I Eat Everything",
+   "desc": "Consume 6000 Food with Highland Cattle in a single match.",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "A192_",
+   "internal_key": 9217
+  },
+  {
+   "name": "Shrouded Warriors",
+   "desc": "Muster 250 units from the Mustering Hall.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "A193_",
+   "internal_key": 9218
+  },
+  {
+   "name": "Master of the Scots",
+   "desc": "Complete the Scots Mastery.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "A194_",
+   "internal_key": 9219
+  },
+  {
+   "name": "Castle Salvage",
+   "desc": "Repair and save a Keep Ruins from total destruction.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "A195_",
+   "internal_key": 9220
+  },
+  {
+   "name": "Stand Ground",
+   "desc": "Defeat 50 enemies with Gallowglass in a single match.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "A196_",
+   "internal_key": 9221
+  },
+  {
+   "name": "Clan Leadership",
+   "desc": "Train 25 Tacksmen in a single match.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "A197_",
+   "internal_key": 9222
+  },
+  {
+   "name": "Ragnarök Repelled",
+   "desc": "Earn a Gold Medal in Standard Sea Raiders.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "A198_",
+   "internal_key": 9223
+  },
+  {
+   "name": "No Quarter on the Heath",
+   "desc": "Earn a Gold Medal in Standard Invasion on the Isthmus.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "A199_",
+   "internal_key": 9224
+  },
+  {
+   "name": "Sultan's Spoils",
+   "desc": "Earn 5 Boons in the Thunder & Trumpets Mission.",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "A200_",
+   "internal_key": 9225
+  },
+  {
+   "name": "Templar Trifecta",
+   "desc": "Destroy 3 Fortresses in the Lost Desert Mission.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "A201_",
+   "internal_key": 9226
+  },
+  {
+   "name": "Wildcard Conqueror",
+   "desc": "Earn a Gold Medal in Conqueror Mode.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "A202_",
+   "internal_key": 9227
+  },
+  {
+   "name": "Master of Mayhem",
+   "desc": "Score over 20,000 in any custom Crucible mission.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "A203_",
+   "internal_key": 9228
+  }
+ ]
+}

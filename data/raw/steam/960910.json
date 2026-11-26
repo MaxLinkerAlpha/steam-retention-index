@@ -1,0 +1,400 @@
+{
+ "appid": 960910,
+ "game": "Heavy Rain",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 56,
+ "achievements": [
+  {
+   "api": "Trophy_2",
+   "name": "Interactive Drama",
+   "desc": "Thank you for supporting Interactive Drama",
+   "hidden": false,
+   "pct": 52.4
+  },
+  {
+   "api": "Trophy_4",
+   "name": "White Knight",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.5
+  },
+  {
+   "api": "Trophy_5",
+   "name": "Private Eye",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.3
+  },
+  {
+   "api": "Trophy_12",
+   "name": "Lucky Locker",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.7
+  },
+  {
+   "api": "Trophy_17",
+   "name": "Good Driver",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.3
+  },
+  {
+   "api": "Trophy_22",
+   "name": "Good Cop",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.6
+  },
+  {
+   "api": "Trophy_18",
+   "name": "Cat & Mouse",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.4
+  },
+  {
+   "api": "Trophy_19",
+   "name": "Tough Guy",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.0
+  },
+  {
+   "api": "Trophy_21",
+   "name": "Electrified",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.5
+  },
+  {
+   "api": "Trophy_50",
+   "name": "HEAVY RAIN™ Hero",
+   "desc": "Finish HEAVY RAIN™",
+   "hidden": false,
+   "pct": 31.5
+  },
+  {
+   "api": "Trophy_54",
+   "name": "Saved the Kid",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.9
+  },
+  {
+   "api": "Trophy_6",
+   "name": "FBI Investigator",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.3
+  },
+  {
+   "api": "Trophy_41",
+   "name": "Escape Master",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.8
+  },
+  {
+   "api": "Trophy_10",
+   "name": "VIP",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.3
+  },
+  {
+   "api": "Trophy_36",
+   "name": "The Chef",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.2
+  },
+  {
+   "api": "Trophy_34",
+   "name": "Queen of Ropes",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.0
+  },
+  {
+   "api": "Trophy_33",
+   "name": "Smart Girl",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.6
+  },
+  {
+   "api": "Trophy_40",
+   "name": "Lover Boy",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.5
+  },
+  {
+   "api": "Trophy_26",
+   "name": "Fugitive",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.0
+  },
+  {
+   "api": "Trophy_45",
+   "name": "Sacrifice",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.9
+  },
+  {
+   "api": "Trophy_13",
+   "name": "Blunder",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.4
+  },
+  {
+   "api": "Trophy_44",
+   "name": "Kind Hearted",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.4
+  },
+  {
+   "api": "Trophy_42",
+   "name": "Swimming Instructor",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.3
+  },
+  {
+   "api": "Trophy_47",
+   "name": "Cold as Ice",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.8
+  },
+  {
+   "api": "Trophy_14",
+   "name": "Self Control",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.6
+  },
+  {
+   "api": "Trophy_28",
+   "name": "Ludwig Von",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.7
+  },
+  {
+   "api": "Trophy_38",
+   "name": "Pride Saved",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.3
+  },
+  {
+   "api": "Trophy_7",
+   "name": "Good Friends",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.8
+  },
+  {
+   "api": "Trophy_51",
+   "name": "Four Heroes",
+   "desc": "Complete the story with four characters alive",
+   "hidden": false,
+   "pct": 19.4
+  },
+  {
+   "api": "Trophy_29",
+   "name": "Detox",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.3
+  },
+  {
+   "api": "Trophy_27",
+   "name": "Hands Up!",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.8
+  },
+  {
+   "api": "Trophy_32",
+   "name": "I'm not a Killer!",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.1
+  },
+  {
+   "api": "Trophy_43",
+   "name": "Invincible Scott",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.8
+  },
+  {
+   "api": "Trophy_3",
+   "name": "Good Father",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.2
+  },
+  {
+   "api": "Trophy_31",
+   "name": "I'm a Killer...",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.2
+  },
+  {
+   "api": "Trophy_46",
+   "name": "Clever Dad",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.0
+  },
+  {
+   "api": "Trophy_24",
+   "name": "Gold Finger",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.8
+  },
+  {
+   "api": "Trophy_48",
+   "name": "Simple Mind",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.8
+  },
+  {
+   "api": "Trophy_53",
+   "name": "Nerd",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.4
+  },
+  {
+   "api": "Trophy_30",
+   "name": "Wise Guy",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.7
+  },
+  {
+   "api": "Trophy_35",
+   "name": "Goodbye Mad Jack",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.5
+  },
+  {
+   "api": "Trophy_1",
+   "name": "Happy Birthday",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.7
+  },
+  {
+   "api": "Trophy_52",
+   "name": "Trial Master",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.2
+  },
+  {
+   "api": "Trophy_9",
+   "name": "Negotiator",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.8
+  },
+  {
+   "api": "Trophy_20",
+   "name": "Coward!",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.2
+  },
+  {
+   "api": "Trophy_15",
+   "name": "Baby Master",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.9
+  },
+  {
+   "api": "Trophy_8",
+   "name": "Got To Remember!",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.5
+  },
+  {
+   "api": "Trophy_25",
+   "name": "Butcher",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.8
+  },
+  {
+   "api": "Trophy_11",
+   "name": "Agoraphobia",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.4
+  },
+  {
+   "api": "Trophy_16",
+   "name": "Kamikaze",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.0
+  },
+  {
+   "api": "Trophy_39",
+   "name": "Unforgivable",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.8
+  },
+  {
+   "api": "Trophy_37",
+   "name": "I'm not Scared!",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.2
+  },
+  {
+   "api": "Trophy_23",
+   "name": "Bad Cop",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.0
+  },
+  {
+   "api": "Trophy_49",
+   "name": "So Close...",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.8
+  },
+  {
+   "api": "Trophy_55",
+   "name": "Perfect Crime",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.1
+  },
+  {
+   "api": "Trophy_56",
+   "name": "All Endings",
+   "desc": "See all endings",
+   "hidden": false,
+   "pct": 2.0
+  }
+ ]
+}

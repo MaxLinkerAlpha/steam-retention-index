@@ -1,0 +1,441 @@
+{
+ "appid": 1244090,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 54,
+ "achievements": [
+  {
+   "name": "Boss Slugged",
+   "desc": "Defeat Forbidden Cavern's boss",
+   "hidden": true,
+   "pct": 74.4,
+   "api_name": "SOS_ACHIEVEMENT_1",
+   "internal_key": 256
+  },
+  {
+   "name": "No, wait!",
+   "desc": "Get sent to Sleeper Island",
+   "hidden": true,
+   "pct": 66.2,
+   "api_name": "SOS_ACHIEVEMENT_2",
+   "internal_key": 257
+  },
+  {
+   "name": "Stretch Quest",
+   "desc": "Defeat Chromatic Apparition",
+   "hidden": true,
+   "pct": 48.7,
+   "api_name": "SOS_ACHIEVEMENT_3",
+   "internal_key": 258
+  },
+  {
+   "name": "Now give me that!",
+   "desc": "Defeat Romaya",
+   "hidden": true,
+   "pct": 42.1,
+   "api_name": "SOS_ACHIEVEMENT_4",
+   "internal_key": 259
+  },
+  {
+   "name": "Dweller of Woe",
+   "desc": "Defeat the Dweller of Woe",
+   "hidden": true,
+   "pct": 40.3,
+   "api_name": "SOS_ACHIEVEMENT_5",
+   "internal_key": 260
+  },
+  {
+   "name": "Who would have thought?",
+   "desc": "Learn Captain Klee'shaë's true identity",
+   "hidden": true,
+   "pct": 38.9,
+   "api_name": "SOS_ACHIEVEMENT_6",
+   "internal_key": 261
+  },
+  {
+   "name": "Yo, Ho!",
+   "desc": "Defeat Stormcaller",
+   "hidden": true,
+   "pct": 37.5,
+   "api_name": "SOS_ACHIEVEMENT_7",
+   "internal_key": 262
+  },
+  {
+   "name": "Home sweet home",
+   "desc": "Build your own town",
+   "hidden": true,
+   "pct": 37.0,
+   "api_name": "SOS_ACHIEVEMENT_8",
+   "internal_key": 263
+  },
+  {
+   "name": "Solstice Power",
+   "desc": "Find the Solstice Amulet",
+   "hidden": true,
+   "pct": 32.3,
+   "api_name": "SOS_ACHIEVEMENT_9",
+   "internal_key": 264
+  },
+  {
+   "name": "Dweller of Torment",
+   "desc": "Defeat the Dweller of Torment",
+   "hidden": true,
+   "pct": 31.4,
+   "api_name": "SOS_ACHIEVEMENT_10",
+   "internal_key": 265
+  },
+  {
+   "name": "Detritus Fallen",
+   "desc": "Defeat the Leaf Monster",
+   "hidden": true,
+   "pct": 30.3,
+   "api_name": "SOS_ACHIEVEMENT_11",
+   "internal_key": 266
+  },
+  {
+   "name": "And stay down, too!",
+   "desc": "Defeat the Acolytes",
+   "hidden": true,
+   "pct": 28.8,
+   "api_name": "SOS_ACHIEVEMENT_12",
+   "internal_key": 267
+  },
+  {
+   "name": "Dweller of Strife",
+   "desc": "Fight the Dweller of Strife",
+   "hidden": true,
+   "pct": 28.8,
+   "api_name": "SOS_ACHIEVEMENT_13",
+   "internal_key": 268
+  },
+  {
+   "name": "Fight fire with lunar",
+   "desc": "Defeat the Toadcano",
+   "hidden": true,
+   "pct": 27.6,
+   "api_name": "SOS_ACHIEVEMENT_14",
+   "internal_key": 269
+  },
+  {
+   "name": "The Warrior Cook",
+   "desc": "Attend the ceremony",
+   "hidden": true,
+   "pct": 27.6,
+   "api_name": "SOS_ACHIEVEMENT_15",
+   "internal_key": 270
+  },
+  {
+   "name": "Who would have thought? Part 2",
+   "desc": "Learn Seraï's true identity",
+   "hidden": true,
+   "pct": 27.2,
+   "api_name": "SOS_ACHIEVEMENT_16",
+   "internal_key": 271
+  },
+  {
+   "name": "Chin up!",
+   "desc": "Defeat Meduso",
+   "hidden": true,
+   "pct": 26.2,
+   "api_name": "SOS_ACHIEVEMENT_17",
+   "internal_key": 272
+  },
+  {
+   "name": "Featherweight",
+   "desc": "Defeat the Triumvirate of Eminence",
+   "hidden": true,
+   "pct": 25.6,
+   "api_name": "SOS_ACHIEVEMENT_18",
+   "internal_key": 273
+  },
+  {
+   "name": "Enter the Artificer",
+   "desc": "Meet Arty",
+   "hidden": true,
+   "pct": 25.2,
+   "api_name": "SOS_ACHIEVEMENT_19",
+   "internal_key": 274
+  },
+  {
+   "name": "Dweller of Dread",
+   "desc": "Defeat the Dweller of Dread",
+   "hidden": true,
+   "pct": 25.0,
+   "api_name": "SOS_ACHIEVEMENT_20",
+   "internal_key": 275
+  },
+  {
+   "name": "Lieupedant",
+   "desc": "Defeat Elysan'darëlle",
+   "hidden": true,
+   "pct": 23.0,
+   "api_name": "SOS_ACHIEVEMENT_21",
+   "internal_key": 276
+  },
+  {
+   "name": "Clockwork Champion",
+   "desc": "Defeat The Watchmaker in a game of Wheels",
+   "hidden": true,
+   "pct": 13.2,
+   "api_name": "SOS_ACHIEVEMENT_22",
+   "internal_key": 277
+  },
+  {
+   "name": "Wholesome Food",
+   "desc": "Have dinner at the Golden Pelican",
+   "hidden": true,
+   "pct": 13.0,
+   "api_name": "SOS_ACHIEVEMENT_23",
+   "internal_key": 278
+  },
+  {
+   "name": "Better off dead",
+   "desc": "Defeat the Gun Goddess",
+   "hidden": true,
+   "pct": 17.3,
+   "api_name": "SOS_ACHIEVEMENT_24",
+   "internal_key": 279
+  },
+  {
+   "name": "Hey, that's a reskin!",
+   "desc": "Defeat the Sea Slug",
+   "hidden": true,
+   "pct": 20.9,
+   "api_name": "SOS_ACHIEVEMENT_25",
+   "internal_key": 280
+  },
+  {
+   "name": "Elder Dissed",
+   "desc": "Defeat the Elder Mist for a second time",
+   "hidden": true,
+   "pct": 20.4,
+   "api_name": "SOS_ACHIEVEMENT_26",
+   "internal_key": 281
+  },
+  {
+   "name": "Glassdiator",
+   "desc": "Defeat Croustalion",
+   "hidden": true,
+   "pct": 17.4,
+   "api_name": "SOS_ACHIEVEMENT_27",
+   "internal_key": 282
+  },
+  {
+   "name": "Free from serviduke",
+   "desc": "Free Duke Aventry's soul",
+   "hidden": true,
+   "pct": 19.2,
+   "api_name": "SOS_ACHIEVEMENT_28",
+   "internal_key": 283
+  },
+  {
+   "name": "Home Neat Home",
+   "desc": "Build a Spa, an Inn, a Shop and a Fishing Hut in Mirth",
+   "hidden": true,
+   "pct": 16.9,
+   "api_name": "SOS_ACHIEVEMENT_29",
+   "internal_key": 284
+  },
+  {
+   "name": "Conch Master",
+   "desc": "Bring all Conches to Mirna in Docarri Village",
+   "hidden": false,
+   "pct": 14.6,
+   "api_name": "SOS_ACHIEVEMENT_30",
+   "internal_key": 285
+  },
+  {
+   "name": "Master Angler",
+   "desc": "Catch every fish species at least once",
+   "hidden": false,
+   "pct": 17.9,
+   "api_name": "SOS_ACHIEVEMENT_31",
+   "internal_key": 286
+  },
+  {
+   "name": "Living Encyclopedia",
+   "desc": "Achieve pro rank in every single Quiz Question pack",
+   "hidden": true,
+   "pct": 9.0,
+   "api_name": "SOS_ACHIEVEMENT_32",
+   "internal_key": 287
+  },
+  {
+   "name": "New Garl +",
+   "desc": "Fulfill the ultimate wish",
+   "hidden": true,
+   "pct": 14.0,
+   "api_name": "SOS_ACHIEVEMENT_33",
+   "internal_key": 512
+  },
+  {
+   "name": "No God of mine",
+   "desc": "Defeat The Fleshmancer",
+   "hidden": true,
+   "pct": 13.1,
+   "api_name": "SOS_ACHIEVEMENT_34",
+   "internal_key": 513
+  },
+  {
+   "name": "Bouncy",
+   "desc": "Bounce a Moonerang 25 times in a row",
+   "hidden": false,
+   "pct": 45.2,
+   "api_name": "SOS_ACHIEVEMENT_35",
+   "internal_key": 514
+  },
+  {
+   "name": "Lock's Myth",
+   "desc": "Break a total 50 locks in battle",
+   "hidden": false,
+   "pct": 65.6,
+   "api_name": "SOS_ACHIEVEMENT_36",
+   "internal_key": 515
+  },
+  {
+   "name": "What a technique!",
+   "desc": "Defeat 10 bosses with Artful Gambit relic on",
+   "hidden": true,
+   "pct": 2.6,
+   "api_name": "SOS_ACHIEVEMENT_37",
+   "internal_key": 516
+  },
+  {
+   "name": "Gustative Completion",
+   "desc": "Cook every recipe at least once",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "SOS_ACHIEVEMENT_38",
+   "internal_key": 517
+  },
+  {
+   "name": "To the teeth",
+   "desc": "Unlock all combos",
+   "hidden": false,
+   "pct": 18.4,
+   "api_name": "SOS_ACHIEVEMENT_39",
+   "internal_key": 518
+  },
+  {
+   "name": "Well read (to)",
+   "desc": "Listen to all of the campfire stories",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "SOS_ACHIEVEMENT_40",
+   "internal_key": 519
+  },
+  {
+   "name": "Measure Hunter",
+   "desc": "Find every single treasure",
+   "hidden": false,
+   "pct": 8.2,
+   "api_name": "SOS_ACHIEVEMENT_41",
+   "internal_key": 520
+  },
+  {
+   "name": "Me day",
+   "desc": "Use the spa in Mirth with all 6 playable characters",
+   "hidden": true,
+   "pct": 7.7,
+   "api_name": "SOS_ACHIEVEMENT_42",
+   "internal_key": 521
+  },
+  {
+   "name": "Turtle Power",
+   "desc": "Do a team Timed Block with three players",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "SOS_ACHIEVEMENT_43",
+   "internal_key": 522
+  },
+  {
+   "name": "Verifying Glass",
+   "desc": "Reveal a lock by either breaking it or using a special move with the scan function",
+   "hidden": false,
+   "pct": 41.0,
+   "api_name": "SOS_ACHIEVEMENT_44",
+   "internal_key": 523
+  },
+  {
+   "name": "Team Power",
+   "desc": "Do a team Timed Hit or Block",
+   "hidden": false,
+   "pct": 7.7,
+   "api_name": "SOS_ACHIEVEMENT_45",
+   "internal_key": 524
+  },
+  {
+   "name": "Down Low",
+   "desc": "Try all high-five combinations",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "SOS_ACHIEVEMENT_46",
+   "internal_key": 525
+  },
+  {
+   "name": "Fishing Trip",
+   "desc": "Catch at least one fish with each character",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "SOS_ACHIEVEMENT_47",
+   "internal_key": 526
+  },
+  {
+   "name": "I'm walking here!",
+   "desc": "Make the giant lift both feet",
+   "hidden": true,
+   "pct": 2.4,
+   "api_name": "SOS_ACHIEVEMENT_48",
+   "internal_key": 527
+  },
+  {
+   "name": "Marquee Star",
+   "desc": "Unlock all skills and combos for circus classes",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "SOS_ACHIEVEMENT_49",
+   "internal_key": 528
+  },
+  {
+   "name": "Carnival Culinarian",
+   "desc": "Cook each of the five Horloge recipes at least once",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "SOS_ACHIEVEMENT_50",
+   "internal_key": 529
+  },
+  {
+   "name": "Warlocked",
+   "desc": "Beat all of Horloge's Wheels champions",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "SOS_ACHIEVEMENT_51",
+   "internal_key": 530
+  },
+  {
+   "name": "Unrivaled Wonder",
+   "desc": "Earn top rank in all three of Horloge's minigames",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "SOS_ACHIEVEMENT_52",
+   "internal_key": 531
+  },
+  {
+   "name": "Clockworkn't",
+   "desc": "Defeat Dweller of Scourge",
+   "hidden": true,
+   "pct": 4.8,
+   "api_name": "SOS_ACHIEVEMENT_53",
+   "internal_key": 532
+  },
+  {
+   "name": "What doth it meanst?",
+   "desc": "Bear witness to the secret vision",
+   "hidden": true,
+   "pct": 3.6,
+   "api_name": "SOS_ACHIEVEMENT_54",
+   "internal_key": 533
+  }
+ ]
+}

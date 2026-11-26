@@ -1,0 +1,241 @@
+{
+ "appid": 1888930,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 29,
+ "achievements": [
+  {
+   "name": "It Can't Be For Nothing",
+   "desc": "Collect all the achievements",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "0cc86a431a4a8154",
+   "internal_key": 6656
+  },
+  {
+   "name": "No Matter What",
+   "desc": "Complete Part 1",
+   "hidden": false,
+   "pct": 50.9,
+   "api_name": "284b17b75ee9e837",
+   "internal_key": 6657
+  },
+  {
+   "name": "Don't Go",
+   "desc": "Complete Left Behind",
+   "hidden": false,
+   "pct": 25.5,
+   "api_name": "d8be398c779c55da",
+   "internal_key": 6658
+  },
+  {
+   "name": "Look for the Light",
+   "desc": "Find all Firefly pendants",
+   "hidden": false,
+   "pct": 4.5,
+   "api_name": "09a57ae84324b621",
+   "internal_key": 6659
+  },
+  {
+   "name": "Endure and Survive",
+   "desc": "Collect all comics",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "0cb661f85a2415f9",
+   "internal_key": 6660
+  },
+  {
+   "name": "Chronicles",
+   "desc": "Find all notes and artifacts",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "8b77f28f25db173c",
+   "internal_key": 6661
+  },
+  {
+   "name": "Getting to Know You",
+   "desc": "Engage in all optional conversations",
+   "hidden": false,
+   "pct": 4.1,
+   "api_name": "8e2d13fc783f696f",
+   "internal_key": 6662
+  },
+  {
+   "name": "That's All I Got",
+   "desc": "Survive all of Ellie's jokes",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "48d13f3e8665916e",
+   "internal_key": 6663
+  },
+  {
+   "name": "Something to Fight For",
+   "desc": "Find all training manuals",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "429d91ec6e991fa7",
+   "internal_key": 6664
+  },
+  {
+   "name": "Combat Ready",
+   "desc": "Fully upgrade a weapon",
+   "hidden": false,
+   "pct": 28.3,
+   "api_name": "2c22acdebba9a201",
+   "internal_key": 6665
+  },
+  {
+   "name": "Master of Unlocking",
+   "desc": "Break into every locked door using shivs",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "50acf882e84c2895",
+   "internal_key": 6666
+  },
+  {
+   "name": "Prepared For the Worst",
+   "desc": "Find all workbenches",
+   "hidden": false,
+   "pct": 20.8,
+   "api_name": "5843b084be7082dc",
+   "internal_key": 6667
+  },
+  {
+   "name": "Sticky Fingers",
+   "desc": "Open all safes",
+   "hidden": false,
+   "pct": 21.2,
+   "api_name": "60dbb44ccacb0121",
+   "internal_key": 6668
+  },
+  {
+   "name": "Sharpest Tool in the Shed",
+   "desc": "Find all workbench tools",
+   "hidden": false,
+   "pct": 42.3,
+   "api_name": "33d7ce435071bec5",
+   "internal_key": 6669
+  },
+  {
+   "name": "Build Em Up, Break Em Down",
+   "desc": "Upgrade and then break one of every melee weapon",
+   "hidden": false,
+   "pct": 12.8,
+   "api_name": "981b469d0676aa7b",
+   "internal_key": 6670
+  },
+  {
+   "name": "Fallen Firefly",
+   "desc": "Find a Firefly pendant",
+   "hidden": false,
+   "pct": 74.6,
+   "api_name": "71d5d57326f5b8f1",
+   "internal_key": 6671
+  },
+  {
+   "name": "Self-Help",
+   "desc": "Find one training manual",
+   "hidden": false,
+   "pct": 67.8,
+   "api_name": "2143304396bed9b2",
+   "internal_key": 6672
+  },
+  {
+   "name": "Savage Starlight Fan",
+   "desc": "Find a comic",
+   "hidden": false,
+   "pct": 61.6,
+   "api_name": "d6637d641c0a684f",
+   "internal_key": 6673
+  },
+  {
+   "name": "Geared Up",
+   "desc": "Craft every item",
+   "hidden": false,
+   "pct": 48.8,
+   "api_name": "5d6eea83aff89166",
+   "internal_key": 6674
+  },
+  {
+   "name": "In Memoriam",
+   "desc": "Pick up Frank's note after it's discarded",
+   "hidden": false,
+   "pct": 15.8,
+   "api_name": "44d4de56b74c610b",
+   "internal_key": 6675
+  },
+  {
+   "name": "Lights Out",
+   "desc": "While in stealth, turn off the spotlight generator in Pittsburgh",
+   "hidden": false,
+   "pct": 27.4,
+   "api_name": "c87c609f99e09e9e",
+   "internal_key": 6676
+  },
+  {
+   "name": "Waterlogged",
+   "desc": "Ride the sewer contraption with Henry and Sam",
+   "hidden": false,
+   "pct": 8.4,
+   "api_name": "fb3aefb32ef01d3f",
+   "internal_key": 6677
+  },
+  {
+   "name": "Left Hanging",
+   "desc": "Leave Ellie hanging after a job well done",
+   "hidden": false,
+   "pct": 13.0,
+   "api_name": "628588a6ffd82ada",
+   "internal_key": 6678
+  },
+  {
+   "name": "Who's A Good Boy?",
+   "desc": "Pet Buckley the dog",
+   "hidden": false,
+   "pct": 49.7,
+   "api_name": "f6bbd883545b7634",
+   "internal_key": 6679
+  },
+  {
+   "name": "Nobody's Perfect",
+   "desc": "Play the Jak X game in Left Behind",
+   "hidden": false,
+   "pct": 8.1,
+   "api_name": "b1c7582cb4bdbe80",
+   "internal_key": 6680
+  },
+  {
+   "name": "Brick Master",
+   "desc": "Win the brick throwing contest",
+   "hidden": false,
+   "pct": 27.2,
+   "api_name": "2a0b62cab5f059d9",
+   "internal_key": 6681
+  },
+  {
+   "name": "Angel Knives",
+   "desc": "Defeat Black Fang without getting hit",
+   "hidden": false,
+   "pct": 6.6,
+   "api_name": "0461a39547e3a2a3",
+   "internal_key": 6682
+  },
+  {
+   "name": "Skillz",
+   "desc": "Win the water gun fight",
+   "hidden": false,
+   "pct": 23.0,
+   "api_name": "80b0d9d2f5a006fa",
+   "internal_key": 6683
+  },
+  {
+   "name": "Live Bait",
+   "desc": "Use bricks or bottles to lure an infected into attacking a human",
+   "hidden": false,
+   "pct": 23.3,
+   "api_name": "af668020bf9cc65b",
+   "internal_key": 6684
+  }
+ ]
+}

@@ -1,0 +1,687 @@
+{
+ "appid": 435150,
+ "game": "Divinity: Original Sin 2 - Definitive Edition",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 97,
+ "achievements": [
+  {
+   "api": "DOS2_Quest2",
+   "name": "Reaper's Eye",
+   "desc": "Arrive at Reaper's Eye",
+   "hidden": false,
+   "pct": 82.1
+  },
+  {
+   "api": "DOS2_Quest1",
+   "name": "Thunders of the Upper Deep",
+   "desc": "Escape the kraken's clutches",
+   "hidden": false,
+   "pct": 80.5
+  },
+  {
+   "api": "DOS2_Quest94",
+   "name": "Thief",
+   "desc": "Perform a successful theft",
+   "hidden": false,
+   "pct": 72.7
+  },
+  {
+   "api": "DOS2_Quest93",
+   "name": "Convincing",
+   "desc": "Win a persuasion event",
+   "hidden": false,
+   "pct": 67.3
+  },
+  {
+   "api": "DOS2_Quest4",
+   "name": "The Great Escape",
+   "desc": "Flee Fort Joy for good",
+   "hidden": false,
+   "pct": 54.1
+  },
+  {
+   "api": "DOS2_Quest5",
+   "name": "Walk at Liberty",
+   "desc": "Remove your Source Collar",
+   "hidden": false,
+   "pct": 51.0
+  },
+  {
+   "api": "DOS2_Quest22",
+   "name": "Apprentice",
+   "desc": "Use your first Source Skill",
+   "hidden": false,
+   "pct": 49.5
+  },
+  {
+   "api": "DOS2_Quest7",
+   "name": "Spira, Spera",
+   "desc": "Arrive at the Sanctuary of Amadia",
+   "hidden": false,
+   "pct": 49.0
+  },
+  {
+   "api": "DOS2_Quest6",
+   "name": "Abound with Blessings",
+   "desc": "Face a higher power",
+   "hidden": false,
+   "pct": 47.0
+  },
+  {
+   "api": "DOS2_Quest8",
+   "name": "A Good and Faithful Servant",
+   "desc": "Rescue Gareth from Braccus' Armoury",
+   "hidden": false,
+   "pct": 46.4
+  },
+  {
+   "api": "DOS2_Quest91",
+   "name": "Hero",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.2
+  },
+  {
+   "api": "DOS2_Quest9",
+   "name": "His Father's Son",
+   "desc": "Defeat Alexandar in Fort Joy",
+   "hidden": false,
+   "pct": 43.8
+  },
+  {
+   "api": "DOS2_Quest13",
+   "name": "The Weird Sister",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.1
+  },
+  {
+   "api": "DOS2_Quest3",
+   "name": "Gladiator",
+   "desc": "Become champion of the Fort Joy arena",
+   "hidden": false,
+   "pct": 42.1
+  },
+  {
+   "api": "DOS2_Quest14",
+   "name": "Sails That Glance in the Sun",
+   "desc": "Take command of the Lady Vengeance",
+   "hidden": false,
+   "pct": 41.9
+  },
+  {
+   "api": "DOS2_Quest17",
+   "name": "Heaven's Gate",
+   "desc": "Enter the Hall of Echoes",
+   "hidden": false,
+   "pct": 41.6
+  },
+  {
+   "api": "DOS2_Quest19",
+   "name": "A Million of Waves",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.1
+  },
+  {
+   "api": "DOS2_Quest16",
+   "name": "Seascape",
+   "desc": "Escape Dallis' siege on the Lady Vengeance without killing every minion",
+   "hidden": false,
+   "pct": 38.3
+  },
+  {
+   "api": "DOS2_Quest20",
+   "name": "The Meistr",
+   "desc": "Meet Meistr Siva",
+   "hidden": false,
+   "pct": 37.9
+  },
+  {
+   "api": "DOS2_Quest88",
+   "name": "Runemaster",
+   "desc": "Equip runes to all of an item's available slots",
+   "hidden": false,
+   "pct": 36.8
+  },
+  {
+   "api": "DOS2_Quest86",
+   "name": "Took a Great Fall",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.2
+  },
+  {
+   "api": "DOS2_Quest10",
+   "name": "Cat's Out of the Bag!",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.7
+  },
+  {
+   "api": "DOS2_Quest37",
+   "name": "Bridge Over Troubled Waters",
+   "desc": "Help free Mari from the Voidwoken",
+   "hidden": false,
+   "pct": 31.7
+  },
+  {
+   "api": "DOS2_Quest23",
+   "name": "Expert",
+   "desc": "Unlock your second Source Point slot",
+   "hidden": false,
+   "pct": 31.2
+  },
+  {
+   "api": "DOS2_Quest89",
+   "name": "Spirit Animal",
+   "desc": "Speak to an animal's spirit",
+   "hidden": false,
+   "pct": 30.8
+  },
+  {
+   "api": "DOS2_Quest15",
+   "name": "Scholar of Secret Arts",
+   "desc": "Welcome Tarquin to the Seekers' service",
+   "hidden": false,
+   "pct": 30.1
+  },
+  {
+   "api": "DOS2_Quest96",
+   "name": "Criminal Intent",
+   "desc": "Get caught breaking the law",
+   "hidden": false,
+   "pct": 30.0
+  },
+  {
+   "api": "DOS2_Quest38",
+   "name": "Cur of Low Degree",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.3
+  },
+  {
+   "api": "DOS2_Quest24",
+   "name": "Master",
+   "desc": "Unlock your third Source Point slot",
+   "hidden": false,
+   "pct": 27.5
+  },
+  {
+   "api": "DOS2_Quest43",
+   "name": "Proud Parent",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.2
+  },
+  {
+   "api": "DOS2_Quest87",
+   "name": "Skillcrafter",
+   "desc": "Craft a skill",
+   "hidden": false,
+   "pct": 24.3
+  },
+  {
+   "api": "DOS2_Quest85",
+   "name": "Arcane Author",
+   "desc": "Craft a scroll",
+   "hidden": false,
+   "pct": 23.9
+  },
+  {
+   "api": "DOS2_Quest27",
+   "name": "Isle of the Gods",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.6
+  },
+  {
+   "api": "DOS2_Quest81",
+   "name": "Masquerade",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.5
+  },
+  {
+   "api": "DOS2_Quest44",
+   "name": "Island Hopper",
+   "desc": "Arrive at the Nameless Isle",
+   "hidden": false,
+   "pct": 23.2
+  },
+  {
+   "api": "DOS2_Quest21",
+   "name": "Andabata",
+   "desc": "Become champion of the Driftwood Arena",
+   "hidden": false,
+   "pct": 22.6
+  },
+  {
+   "api": "DOS2_Quest42",
+   "name": "Kiss of the Spider Woman",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.0
+  },
+  {
+   "api": "DOS2_Quest45",
+   "name": "Back to School",
+   "desc": "Enter the Academy",
+   "hidden": false,
+   "pct": 20.7
+  },
+  {
+   "api": "DOS2_Quest46",
+   "name": "Get In The Ring",
+   "desc": "Enter The Arena of the One",
+   "hidden": false,
+   "pct": 20.2
+  },
+  {
+   "api": "DOS2_Quest55",
+   "name": "The Wreck of the Titan",
+   "desc": "Arrive at Arx",
+   "hidden": false,
+   "pct": 20.0
+  },
+  {
+   "api": "DOS2_Quest29",
+   "name": "Lawyer Up",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.0
+  },
+  {
+   "api": "DOS2_Quest26",
+   "name": "Iniquity Forgiven",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.2
+  },
+  {
+   "api": "DOS2_Quest30",
+   "name": "What's in a Name?",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.9
+  },
+  {
+   "api": "DOS2_Quest31",
+   "name": "Existential Crisis",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.8
+  },
+  {
+   "api": "DOS2_Quest39",
+   "name": "The Good Doctor",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.5
+  },
+  {
+   "api": "DOS2_Quest77",
+   "name": "Lair of the White Worm",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.9
+  },
+  {
+   "api": "DOS2_Quest34",
+   "name": "A Sheep in Wolf's Clothing",
+   "desc": "Escort Saheila outside without fighting the Lone Wolves",
+   "hidden": false,
+   "pct": 14.8
+  },
+  {
+   "api": "DOS2_Quest56",
+   "name": "The Back Door",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.8
+  },
+  {
+   "api": "DOS2_Quest50",
+   "name": "Chosen",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.9
+  },
+  {
+   "api": "DOS2_Quest79",
+   "name": "Doctor: Heal Thyself",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.9
+  },
+  {
+   "api": "DOS2_Quest95",
+   "name": "Grenadier",
+   "desc": "Craft a grenade",
+   "hidden": false,
+   "pct": 13.9
+  },
+  {
+   "api": "DOS2_Quest58",
+   "name": "The Abysmal Sea",
+   "desc": "Defeated the Kraken",
+   "hidden": false,
+   "pct": 13.1
+  },
+  {
+   "api": "DOS2_Quest51",
+   "name": "Serious Academic",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.9
+  },
+  {
+   "api": "DOS2_Quest82",
+   "name": "Sourcerer",
+   "desc": "Complete the game in Explorer Mode",
+   "hidden": false,
+   "pct": 11.8
+  },
+  {
+   "api": "DOS2_Quest78",
+   "name": "Cat Person",
+   "desc": "Rescue Arhu",
+   "hidden": false,
+   "pct": 11.6
+  },
+  {
+   "api": "DOS2_Quest59",
+   "name": "Risen",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.9
+  },
+  {
+   "api": "DOS2_Quest41",
+   "name": "Death in the Pot",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.7
+  },
+  {
+   "api": "DOS2_Quest76",
+   "name": "Toy Story",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.7
+  },
+  {
+   "api": "DOS2_Quest35",
+   "name": "Over to the Farther Coast",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.5
+  },
+  {
+   "api": "DOS2_Quest92",
+   "name": "Villain",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.5
+  },
+  {
+   "api": "DOS2_Quest83",
+   "name": "Godwoken",
+   "desc": "Complete the game in Classic Mode",
+   "hidden": false,
+   "pct": 10.2
+  },
+  {
+   "api": "DOS2_Quest100",
+   "name": "A Song Unsung",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.7
+  },
+  {
+   "api": "DOS2_Quest36",
+   "name": "A Nest on High",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.5
+  },
+  {
+   "api": "DOS2_Quest32",
+   "name": "Infiltration",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.7
+  },
+  {
+   "api": "DOS2_Quest33",
+   "name": "Anathema",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.2
+  },
+  {
+   "api": "DOS2_Quest60",
+   "name": "One For All",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.1
+  },
+  {
+   "api": "DOS2_Quest12",
+   "name": "Dragonslayer",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.3
+  },
+  {
+   "api": "DOS2_Quest65",
+   "name": "All-Father, Life-Shaper",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.3
+  },
+  {
+   "api": "DOS2_Quest67",
+   "name": "An Apple a Day",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.1
+  },
+  {
+   "api": "DOS2_Quest18",
+   "name": "Swashbuckler",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.5
+  },
+  {
+   "api": "DOS2_Quest61",
+   "name": "Supreme Sacrifice",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.3
+  },
+  {
+   "api": "DOS2_Quest49",
+   "name": "Favoured Son",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.1
+  },
+  {
+   "api": "DOS2_Quest69",
+   "name": "Liberator",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.0
+  },
+  {
+   "api": "DOS2_Quest97",
+   "name": "Venture Forth",
+   "desc": "Successfully begin a match in Arena Mode",
+   "hidden": false,
+   "pct": 5.7
+  },
+  {
+   "api": "DOS2_Quest25",
+   "name": "Furious Rebuke",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.6
+  },
+  {
+   "api": "DOS2_Quest72",
+   "name": "A Wolf Avenged",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.5
+  },
+  {
+   "api": "DOS2_Quest48",
+   "name": "The Seven Altars",
+   "desc": "Pray at every altar on the Nameless Isle",
+   "hidden": false,
+   "pct": 5.4
+  },
+  {
+   "api": "DOS2_Quest62",
+   "name": "Return of the King",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.5
+  },
+  {
+   "api": "DOS2_Quest98",
+   "name": "Gather Your Party",
+   "desc": "Successfully begin a Game Master session",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "DOS2_Quest11",
+   "name": "Hammered",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.1
+  },
+  {
+   "api": "DOS2_Quest68",
+   "name": "Stay Grounded",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.1
+  },
+  {
+   "api": "DOS2_Quest84",
+   "name": "Divine",
+   "desc": "Complete the game in Tactician Mode",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "DOS2_Quest80",
+   "name": "Deal with the Devil",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "DOS2_Quest90",
+   "name": "Curse Thine Enemies",
+   "desc": "Use the Curse skill",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "DOS2_Quest54",
+   "name": "The Promise",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  },
+  {
+   "api": "DOS2_Quest75",
+   "name": "Royalty",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.5
+  },
+  {
+   "api": "DOS2_Quest71",
+   "name": "The Adventure Begins...",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.1
+  },
+  {
+   "api": "DOS2_Quest70",
+   "name": "Eternal Salvation",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.0
+  },
+  {
+   "api": "DOS2_Quest57",
+   "name": "Puritan's Walk",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.9
+  },
+  {
+   "api": "DOS2_Quest74",
+   "name": "Regicide",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.9
+  },
+  {
+   "api": "DOS2_Quest66",
+   "name": "Demon's Embrace",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.6
+  },
+  {
+   "api": "DOS2_Quest40",
+   "name": "Technical Eggstacy",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.4
+  },
+  {
+   "api": "DOS2_Quest73",
+   "name": "Fool Me Once",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.4
+  },
+  {
+   "api": "DOS2_Quest63",
+   "name": "Angel and Demon",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.3
+  },
+  {
+   "api": "DOS2_Quest64",
+   "name": "A Dream Undone",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.2
+  },
+  {
+   "api": "DOS2_Quest99",
+   "name": "For Honour",
+   "desc": "Complete the game in Honour Mode",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "DOS2_Quest28",
+   "name": "The Isle of Last Resort",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.9
+  }
+ ]
+}

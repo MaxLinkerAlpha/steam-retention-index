@@ -1,0 +1,316 @@
+{
+ "appid": 304240,
+ "game": "Resident Evil",
+ "snapshot": "2026-11-24 17:47 +08",
+ "count": 44,
+ "achievements": [
+  {
+   "api": "ACHIEVEMENT_18",
+   "name": "First Kills Are Special",
+   "desc": "Defeat a zombie.",
+   "hidden": false,
+   "pct": 76.0
+  },
+  {
+   "api": "ACHIEVEMENT_17",
+   "name": "Get Used To It",
+   "desc": "Die for the first time.",
+   "hidden": false,
+   "pct": 68.2
+  },
+  {
+   "api": "ACHIEVEMENT_32",
+   "name": "Seeing Red",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.3
+  },
+  {
+   "api": "ACHIEVEMENT_19",
+   "name": "Not Taking Any Chances",
+   "desc": "Burn up a zombie.",
+   "hidden": false,
+   "pct": 38.0
+  },
+  {
+   "api": "ACHIEVEMENT_34",
+   "name": "Deep Sixed",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.6
+  },
+  {
+   "api": "ACHIEVEMENT_20",
+   "name": "Who's the Hunter Now?",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.1
+  },
+  {
+   "api": "ACHIEVEMENT_23",
+   "name": "Delaying the Inevitable",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.0
+  },
+  {
+   "api": "ACHIEVEMENT_35",
+   "name": "Spider Sense",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.8
+  },
+  {
+   "api": "ACHIEVEMENT_0",
+   "name": "Like Taking Candy from a Baby",
+   "desc": "Finish the game on Very Easy difficulty or higher.",
+   "hidden": false,
+   "pct": 27.6
+  },
+  {
+   "api": "ACHIEVEMENT_12",
+   "name": "Grave Digger",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.0
+  },
+  {
+   "api": "ACHIEVEMENT_22",
+   "name": "What a Great Guy",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.8
+  },
+  {
+   "api": "ACHIEVEMENT_33",
+   "name": "Not Waiting to Exhale",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.6
+  },
+  {
+   "api": "ACHIEVEMENT_13",
+   "name": "The Key Master",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.3
+  },
+  {
+   "api": "ACHIEVEMENT_14",
+   "name": "Giant Snake Got Nothin'",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.5
+  },
+  {
+   "api": "ACHIEVEMENT_15",
+   "name": "Where the Magic Happens",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.6
+  },
+  {
+   "api": "ACHIEVEMENT_16",
+   "name": "Alpha Team's Finest",
+   "desc": "Finish the game using Jill.",
+   "hidden": false,
+   "pct": 22.3
+  },
+  {
+   "api": "ACHIEVEMENT_1",
+   "name": "Not in the Mood to Die",
+   "desc": "Finish the game on Easy difficulty or higher.",
+   "hidden": false,
+   "pct": 22.2
+  },
+  {
+   "api": "ACHIEVEMENT_25",
+   "name": "Trust Him",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.1
+  },
+  {
+   "api": "ACHIEVEMENT_27",
+   "name": "Sorry About the Wait",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.8
+  },
+  {
+   "api": "ACHIEVEMENT_29",
+   "name": "I'm a Member of S.T.A.R.S.",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.5
+  },
+  {
+   "api": "ACHIEVEMENT_7",
+   "name": "Not Just Any Object",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.2
+  },
+  {
+   "api": "ACHIEVEMENT_8",
+   "name": "Herbicide",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.8
+  },
+  {
+   "api": "ACHIEVEMENT_9",
+   "name": "Written Word is Dead",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.4
+  },
+  {
+   "api": "ACHIEVEMENT_10",
+   "name": "An End to a Poor Girl's Misery",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.9
+  },
+  {
+   "api": "ACHIEVEMENT_11",
+   "name": "You da Man, Chris",
+   "desc": "Finish the game using Chris.",
+   "hidden": false,
+   "pct": 14.8
+  },
+  {
+   "api": "ACHIEVEMENT_40",
+   "name": "Break Out the Marshmallows!",
+   "desc": "Burn up two zombies at the same time with the lighter.",
+   "hidden": false,
+   "pct": 14.3
+  },
+  {
+   "api": "ACHIEVEMENT_26",
+   "name": "Sorry I Made You Wait",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.1
+  },
+  {
+   "api": "ACHIEVEMENT_24",
+   "name": "That Was Nice of You",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.5
+  },
+  {
+   "api": "ACHIEVEMENT_21",
+   "name": "Bravo, Rebecca",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.2
+  },
+  {
+   "api": "ACHIEVEMENT_28",
+   "name": "The Nightmare Ends",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.5
+  },
+  {
+   "api": "ACHIEVEMENT_2",
+   "name": "Take that, Zombies!",
+   "desc": "Finish the game on Normal difficulty or higher.",
+   "hidden": false,
+   "pct": 11.4
+  },
+  {
+   "api": "ACHIEVEMENT_4",
+   "name": "We're in This Together",
+   "desc": "Finish the game with Jill and Chris.",
+   "hidden": false,
+   "pct": 9.4
+  },
+  {
+   "api": "ACHIEVEMENT_37",
+   "name": "Racing and Pacing",
+   "desc": "Finish the game in five hours.",
+   "hidden": false,
+   "pct": 6.7
+  },
+  {
+   "api": "ACHIEVEMENT_3",
+   "name": "Oh, the Horror",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.2
+  },
+  {
+   "api": "ACHIEVEMENT_36",
+   "name": "Don't Stop Running",
+   "desc": "Finish the game in three hours.",
+   "hidden": false,
+   "pct": 5.2
+  },
+  {
+   "api": "ACHIEVEMENT_43",
+   "name": "Every Nook and Cranny",
+   "desc": "Visit all places on all maps.",
+   "hidden": false,
+   "pct": 5.0
+  },
+  {
+   "api": "ACHIEVEMENT_31",
+   "name": "Every Woman for Herself",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.9
+  },
+  {
+   "api": "ACHIEVEMENT_39",
+   "name": "Ink is for Squids",
+   "desc": "Finish the game without saving.",
+   "hidden": false,
+   "pct": 4.2
+  },
+  {
+   "api": "ACHIEVEMENT_30",
+   "name": "Every Man for Himself",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.0
+  },
+  {
+   "api": "ACHIEVEMENT_41",
+   "name": "Starsenal",
+   "desc": "Obtain all weapons.",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "ACHIEVEMENT_42",
+   "name": "Passion for Fashion",
+   "desc": "Obtain all costumes.",
+   "hidden": false,
+   "pct": 3.5
+  },
+  {
+   "api": "ACHIEVEMENT_5",
+   "name": "The Survival Horror",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.4
+  },
+  {
+   "api": "ACHIEVEMENT_38",
+   "name": "CQC FTW",
+   "desc": "Finish the game using only your knife.",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "ACHIEVEMENT_6",
+   "name": "Ghost of a Chance",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.0
+  }
+ ]
+}

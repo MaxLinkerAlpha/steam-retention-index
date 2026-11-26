@@ -1,0 +1,582 @@
+{
+ "appid": 1716740,
+ "game": "Starfield",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 82,
+ "achievements": [
+  {
+   "api": "1",
+   "name": "For All, Into the Starfield",
+   "desc": "Enter Space for the First Time",
+   "hidden": false,
+   "pct": 88.6
+  },
+  {
+   "api": "2",
+   "name": "One Small Step",
+   "desc": "Join Constellation",
+   "hidden": false,
+   "pct": 78.9
+  },
+  {
+   "api": "46",
+   "name": "Dust Off",
+   "desc": "Reach Level 5",
+   "hidden": false,
+   "pct": 73.9
+  },
+  {
+   "api": "47",
+   "name": "Traveler",
+   "desc": "Reach Level 10",
+   "hidden": false,
+   "pct": 61.2
+  },
+  {
+   "api": "26",
+   "name": "Chief Engineer",
+   "desc": "Modify a Ship",
+   "hidden": false,
+   "pct": 57.9
+  },
+  {
+   "api": "23",
+   "name": "Home Sweet Home",
+   "desc": "Build an Outpost",
+   "hidden": false,
+   "pct": 46.2
+  },
+  {
+   "api": "27",
+   "name": "Stellar Cartography",
+   "desc": "Visit 20 Star Systems",
+   "hidden": false,
+   "pct": 43.7
+  },
+  {
+   "api": "3",
+   "name": "Into the Unknown",
+   "desc": "Complete \"Into the Unknown\"",
+   "hidden": false,
+   "pct": 42.7
+  },
+  {
+   "api": "48",
+   "name": "Elite",
+   "desc": "Reach Level 25",
+   "hidden": false,
+   "pct": 41.1
+  },
+  {
+   "api": "43",
+   "name": "Dark Matter",
+   "desc": "Eliminate 300 Human Enemies",
+   "hidden": false,
+   "pct": 39.3
+  },
+  {
+   "api": "31",
+   "name": "Privateer",
+   "desc": "Complete 30 Terminal or Misc. Missions",
+   "hidden": false,
+   "pct": 39.0
+  },
+  {
+   "api": "11",
+   "name": "Supra et Ultra",
+   "desc": "Join the UC Vanguard",
+   "hidden": false,
+   "pct": 36.7
+  },
+  {
+   "api": "14",
+   "name": "Deputized",
+   "desc": "Join the Freestar Rangers",
+   "hidden": false,
+   "pct": 36.3
+  },
+  {
+   "api": "4",
+   "name": "All That Money Can Buy",
+   "desc": "Complete \"All That Money Can Buy\"",
+   "hidden": false,
+   "pct": 36.2
+  },
+  {
+   "api": "35",
+   "name": "Jacked In",
+   "desc": "Access 50 Computers",
+   "hidden": false,
+   "pct": 35.8
+  },
+  {
+   "api": "30",
+   "name": "Fixer",
+   "desc": "Complete 30 Activities",
+   "hidden": false,
+   "pct": 35.5
+  },
+  {
+   "api": "20",
+   "name": "Rook Meets King",
+   "desc": "Join the Crimson Fleet",
+   "hidden": false,
+   "pct": 32.3
+  },
+  {
+   "api": "5",
+   "name": "Further Into the Unknown",
+   "desc": "Complete \"Further Into the Unknown\"",
+   "hidden": false,
+   "pct": 31.8
+  },
+  {
+   "api": "34",
+   "name": "Cyber Jockey",
+   "desc": "Bypass 50 Digital Locks",
+   "hidden": false,
+   "pct": 31.7
+  },
+  {
+   "api": "6",
+   "name": "High Price to Pay",
+   "desc": "Complete \"High Price to Pay\"",
+   "hidden": false,
+   "pct": 29.4
+  },
+  {
+   "api": "17",
+   "name": "Back to the Grind",
+   "desc": "Join Ryujin Industries",
+   "hidden": false,
+   "pct": 28.8
+  },
+  {
+   "api": "15",
+   "name": "Surgical Strike",
+   "desc": "Complete \"Surgical Strike\"",
+   "hidden": false,
+   "pct": 28.4
+  },
+  {
+   "api": "7",
+   "name": "In Their Footsteps",
+   "desc": "Complete \"In Their Footsteps\"",
+   "hidden": false,
+   "pct": 26.5
+  },
+  {
+   "api": "12",
+   "name": "The Devils You Know",
+   "desc": "Complete \"The Devils You Know\"",
+   "hidden": false,
+   "pct": 26.4
+  },
+  {
+   "api": "21",
+   "name": "The Best There Is",
+   "desc": "Complete \"The Best There Is\"",
+   "hidden": false,
+   "pct": 25.3
+  },
+  {
+   "api": "16",
+   "name": "The Hammer Falls",
+   "desc": "Complete \"The Hammer Falls\"",
+   "hidden": false,
+   "pct": 25.1
+  },
+  {
+   "api": "13",
+   "name": "A Legacy Forged",
+   "desc": "Complete \"A Legacy Forged\"",
+   "hidden": false,
+   "pct": 23.7
+  },
+  {
+   "api": "8",
+   "name": "Entangled",
+   "desc": "Complete \"Entangled\"",
+   "hidden": false,
+   "pct": 23.4
+  },
+  {
+   "api": "9",
+   "name": "Unearthed",
+   "desc": "Complete \"Unearthed\"",
+   "hidden": false,
+   "pct": 22.7
+  },
+  {
+   "api": "22",
+   "name": "Legacy's End",
+   "desc": "Complete \"Legacy's End\"",
+   "hidden": false,
+   "pct": 22.3
+  },
+  {
+   "api": "25",
+   "name": "Industrialist",
+   "desc": "Produce 500 Total Resources from Outposts",
+   "hidden": false,
+   "pct": 22.1
+  },
+  {
+   "api": "40",
+   "name": "War of Angels",
+   "desc": "Collect 20 Quantum Essence",
+   "hidden": false,
+   "pct": 21.9
+  },
+  {
+   "api": "10",
+   "name": "One Giant Leap",
+   "desc": "Complete \"One Giant Leap\"",
+   "hidden": false,
+   "pct": 19.7
+  },
+  {
+   "api": "18",
+   "name": "Guilty Parties",
+   "desc": "Complete \"Guilty Parties\"",
+   "hidden": false,
+   "pct": 19.5
+  },
+  {
+   "api": "44",
+   "name": "Another Bug Hunt",
+   "desc": "Eliminate 300 Creatures",
+   "hidden": false,
+   "pct": 18.8
+  },
+  {
+   "api": "49",
+   "name": "Space Opera",
+   "desc": "Reach Level 50",
+   "hidden": false,
+   "pct": 18.6
+  },
+  {
+   "api": "37",
+   "name": "Replicator",
+   "desc": "Craft 100 Items",
+   "hidden": false,
+   "pct": 18.1
+  },
+  {
+   "api": "19",
+   "name": "Executive Level",
+   "desc": "Complete \"Executive Level\"",
+   "hidden": false,
+   "pct": 17.8
+  },
+  {
+   "api": "39",
+   "name": "Starcrossed",
+   "desc": "Reach Maximum Relationship Level with a Companion",
+   "hidden": false,
+   "pct": 17.0
+  },
+  {
+   "api": "36",
+   "name": "Soldier of Fortune",
+   "desc": "Mod 50 Weapons",
+   "hidden": false,
+   "pct": 16.2
+  },
+  {
+   "api": "45",
+   "name": "I Use Them For Smuggling",
+   "desc": "Successfully Smuggle Contraband",
+   "hidden": false,
+   "pct": 14.2
+  },
+  {
+   "api": "42",
+   "name": "Thirst for Knowledge",
+   "desc": "Read 20 Skill Magazines",
+   "hidden": false,
+   "pct": 14.1
+  },
+  {
+   "api": "38",
+   "name": "The Family You Choose",
+   "desc": "Recruit 10 Separate Companions",
+   "hidden": false,
+   "pct": 10.0
+  },
+  {
+   "api": "29",
+   "name": "Boots on the Ground",
+   "desc": "Land on 100 Planets",
+   "hidden": false,
+   "pct": 9.9
+  },
+  {
+   "api": "33",
+   "name": "Rock Collection",
+   "desc": "Gather 500 Inorganic Resources",
+   "hidden": false,
+   "pct": 8.5
+  },
+  {
+   "api": "41",
+   "name": "Fleet Commander",
+   "desc": "Collect 10 Ships",
+   "hidden": false,
+   "pct": 8.3
+  },
+  {
+   "api": "50",
+   "name": "Reach for the Stars",
+   "desc": "Reach Level 100",
+   "hidden": false,
+   "pct": 6.8
+  },
+  {
+   "api": "51",
+   "name": "What Remains",
+   "desc": "Complete “What Remains”",
+   "hidden": false,
+   "pct": 6.6
+  },
+  {
+   "api": "28",
+   "name": "The Stars My Destination",
+   "desc": "Visit all Star Systems",
+   "hidden": false,
+   "pct": 5.7
+  },
+  {
+   "api": "52",
+   "name": "The Promised, Broken",
+   "desc": "Complete “The Promised, Broken”",
+   "hidden": false,
+   "pct": 5.2
+  },
+  {
+   "api": "53",
+   "name": "Zealous Overreach",
+   "desc": "Complete \"Zealous Overreach\"",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "56",
+   "name": "The Other Side",
+   "desc": "Complete “The Other Side”",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "54",
+   "name": "Conflict in Conviction",
+   "desc": "Complete \"Conflict in Conviction\"",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "55",
+   "name": "Exhuming the Past",
+   "desc": "Complete \"Exhuming the Past\"",
+   "hidden": false,
+   "pct": 3.6
+  },
+  {
+   "api": "57",
+   "name": "The Scaled Citadel",
+   "desc": "Complete \"The Scaled Citadel\"",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "24",
+   "name": "Shipping Magnate",
+   "desc": "Connect 5 Outposts with Cargo Links",
+   "hidden": false,
+   "pct": 3.0
+  },
+  {
+   "api": "59",
+   "name": "Facing Your Fears",
+   "desc": "Defeat 25 Vortex Horrors",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "74",
+   "name": "Fully Equipped",
+   "desc": "Find a spaceship equipment module schematic and install an equipment module on your ship",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "32",
+   "name": "Life Begets Life",
+   "desc": "Gather 500 Organic Resources",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "63",
+   "name": "Lost Luxury",
+   "desc": "Complete “Lost Luxury”",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "75",
+   "name": "Top Tier",
+   "desc": "Apply a Rank 4 Legendary Effect to a piece of your equipment",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "69",
+   "name": "Incursion Fighter",
+   "desc": "Clear out 5 Incursions",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "60",
+   "name": "Redemption Arc",
+   "desc": "Defeat 10 Redeemed",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "64",
+   "name": "Into the VOID",
+   "desc": "Complete “Into the VOID”",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "62",
+   "name": "Savior of the Promised",
+   "desc": "Aid the People of Va’ruun’kai",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "65",
+   "name": "Battle of the Unifier",
+   "desc": "Complete “Battle of the Unifier”",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "58",
+   "name": "The Great Unknown",
+   "desc": "Discover 50 Locations on Va’ruun’kai",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "66",
+   "name": "This for That",
+   "desc": "Build out and hand over an outpost to a faction",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "72",
+   "name": "Overclocked",
+   "desc": "Fully upgrade Delta",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "73",
+   "name": "Half the Battle",
+   "desc": "Let Sarah Morgan know about her action figure",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "61",
+   "name": "Five of a Kind",
+   "desc": "Craft one of each type of Vortex Grenade",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "82",
+   "name": "Quantum Hoarder",
+   "desc": "Retrieve your inventory from another universe",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "70",
+   "name": "Incursion Exterminator",
+   "desc": "Clear out 15 Incursions",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "67",
+   "name": "Greater Than",
+   "desc": "Convince Delta that you are worthy of the title Captain",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "76",
+   "name": "Just Like Grandma Used to Make",
+   "desc": "Eat the questionable food offered by a spacefaring Old Woman",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "80",
+   "name": "Master of Magnetism",
+   "desc": "Use a magnet to destroy the robot for Ivica in New Babylon",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "68",
+   "name": "Less Than",
+   "desc": "Prove the superiority of artificial life",
+   "hidden": false,
+   "pct": 0.2
+  },
+  {
+   "api": "71",
+   "name": "Incursion Eliminator",
+   "desc": "Clear out 30 Incursions",
+   "hidden": false,
+   "pct": 0.2
+  },
+  {
+   "api": "77",
+   "name": "They’re Not Toys!",
+   "desc": "Collect all Action Figures",
+   "hidden": false,
+   "pct": 0.2
+  },
+  {
+   "api": "79",
+   "name": "Stay of Execution",
+   "desc": "Stop Bernhard from killing Caruso",
+   "hidden": false,
+   "pct": 0.2
+  },
+  {
+   "api": "81",
+   "name": "Riddle Management",
+   "desc": "Prevent any deaths by answering riddles",
+   "hidden": false,
+   "pct": 0.2
+  },
+  {
+   "api": "78",
+   "name": "Contract Killer",
+   "desc": "Kill 10 targets for the Arbitrator",
+   "hidden": false,
+   "pct": 0.1
+  }
+ ]
+}

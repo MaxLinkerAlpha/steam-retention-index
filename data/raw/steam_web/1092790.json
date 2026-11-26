@@ -1,0 +1,329 @@
+{
+ "appid": 1092790,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 40,
+ "achievements": [
+  {
+   "name": "Blood Artist",
+   "desc": "Complete your first Deathcard.",
+   "hidden": true,
+   "pct": 93.4,
+   "api_name": "STORY_PROGRESS_1",
+   "internal_key": 256
+  },
+  {
+   "name": "Innocuous Insect",
+   "desc": "Free a Stinkbug from the safe.",
+   "hidden": true,
+   "pct": 88.1,
+   "api_name": "STORY_PROGRESS_2",
+   "internal_key": 257
+  },
+  {
+   "name": "Uncage the Menagerie",
+   "desc": "Free the Wolf Statue from its cage.",
+   "hidden": true,
+   "pct": 79.3,
+   "api_name": "STORY_PROGRESS_3",
+   "internal_key": 258
+  },
+  {
+   "name": "Ancestral Vision",
+   "desc": "Fill your empty socket with something magical.",
+   "hidden": true,
+   "pct": 71.9,
+   "api_name": "STORY_PROGRESS_4",
+   "internal_key": 259
+  },
+  {
+   "name": "Reborn Hope",
+   "desc": "Find a spare film roll.",
+   "hidden": true,
+   "pct": 70.9,
+   "api_name": "STORY_PROGRESS_5",
+   "internal_key": 260
+  },
+  {
+   "name": "Enduring Victory",
+   "desc": "Defeat Leshy.",
+   "hidden": true,
+   "pct": 70.0,
+   "api_name": "PART1_LESHY",
+   "internal_key": 263
+  },
+  {
+   "name": "Renewal",
+   "desc": "Start a new game.",
+   "hidden": true,
+   "pct": 64.9,
+   "api_name": "STORY_PROGRESS_6",
+   "internal_key": 264
+  },
+  {
+   "name": "Doomed Necromancer",
+   "desc": "Complete the Temple of the Dead.",
+   "hidden": true,
+   "pct": 54.2,
+   "api_name": "PART2_GRIMORA",
+   "internal_key": 265
+  },
+  {
+   "name": "Avenging Druid",
+   "desc": "Complete the Temple of Beasts.",
+   "hidden": true,
+   "pct": 55.1,
+   "api_name": "PART2_LESHY",
+   "internal_key": 266
+  },
+  {
+   "name": "Accomplished Automaton",
+   "desc": "Complete the Temple of Technology.",
+   "hidden": true,
+   "pct": 52.2,
+   "api_name": "PART2_P03",
+   "internal_key": 267
+  },
+  {
+   "name": "Wizard Mentor",
+   "desc": "Complete the Temple of Magicks.",
+   "hidden": true,
+   "pct": 51.8,
+   "api_name": "PART2_MAGNIFICUS",
+   "internal_key": 268
+  },
+  {
+   "name": "Miner's Bane",
+   "desc": "Defeat The Prospector.",
+   "hidden": false,
+   "pct": 90.9,
+   "api_name": "PART1_PROSPECTOR",
+   "internal_key": 269
+  },
+  {
+   "name": "Grizzled Angler",
+   "desc": "Defeat The Angler.",
+   "hidden": false,
+   "pct": 81.5,
+   "api_name": "PART1_ANGLER",
+   "internal_key": 270
+  },
+  {
+   "name": "Face to Face",
+   "desc": "Defeat The Trapper and The Trader.",
+   "hidden": true,
+   "pct": 72.7,
+   "api_name": "PART1_TRAPPERTRADER",
+   "internal_key": 271
+  },
+  {
+   "name": "Squirrel Wrangler",
+   "desc": "Win a battle with damage from Squirrels.",
+   "hidden": false,
+   "pct": 56.3,
+   "api_name": "PART1_SPECIAL1",
+   "internal_key": 272
+  },
+  {
+   "name": "Gruesome Encore",
+   "desc": "Allow The Mycologists to experiment on a creature that is already itself an experiment.",
+   "hidden": false,
+   "pct": 25.5,
+   "api_name": "PART1_SPECIAL2",
+   "internal_key": 273
+  },
+  {
+   "name": "Role Reversal",
+   "desc": "Steal back one of your creatures from The Angler.",
+   "hidden": false,
+   "pct": 17.1,
+   "api_name": "PART1_SPECIAL3",
+   "internal_key": 274
+  },
+  {
+   "name": "Balance of Power",
+   "desc": "Allow P03 to gain control of Inscryption.",
+   "hidden": true,
+   "pct": 51.1,
+   "api_name": "STORY_PROGRESS_7",
+   "internal_key": 275
+  },
+  {
+   "name": "Rank and File",
+   "desc": "Defeat The Archivist.",
+   "hidden": true,
+   "pct": 44.0,
+   "api_name": "PART3_ARCHIVIST",
+   "internal_key": 276
+  },
+  {
+   "name": "Essence Capture",
+   "desc": "Defeat The Photographer.",
+   "hidden": true,
+   "pct": 43.8,
+   "api_name": "PART3_PHOTOGRAPHER",
+   "internal_key": 277
+  },
+  {
+   "name": "Painter's Servant",
+   "desc": "Defeat The Unfinished Boss.",
+   "hidden": true,
+   "pct": 42.0,
+   "api_name": "PART3_CANVAS",
+   "internal_key": 278
+  },
+  {
+   "name": "Natural Connection",
+   "desc": "Defeat G0lly.",
+   "hidden": true,
+   "pct": 41.4,
+   "api_name": "PART3_TELEGRAPHER",
+   "internal_key": 279
+  },
+  {
+   "name": "Murder",
+   "desc": "Witness the death of P03.",
+   "hidden": true,
+   "pct": 41.1,
+   "api_name": "STORY_PROGRESS_8",
+   "internal_key": 280
+  },
+  {
+   "name": "Dramatic Finale",
+   "desc": "Complete the finale of Inscryption.",
+   "hidden": true,
+   "pct": 41.0,
+   "api_name": "STORY_PROGRESS_9",
+   "internal_key": 281
+  },
+  {
+   "name": "Collective Effort",
+   "desc": "Collect every card in the Original Inscryption.",
+   "hidden": true,
+   "pct": 7.0,
+   "api_name": "PART2_SPECIAL1",
+   "internal_key": 282
+  },
+  {
+   "name": "Devil's Play",
+   "desc": "Attack for over 666 damage in the Original Inscryption.",
+   "hidden": true,
+   "pct": 5.4,
+   "api_name": "PART2_SPECIAL2",
+   "internal_key": 283
+  },
+  {
+   "name": "Dark Offering",
+   "desc": "Make an offering to The Bonelord.",
+   "hidden": true,
+   "pct": 14.1,
+   "api_name": "PART2_SPECIAL3",
+   "internal_key": 284
+  },
+  {
+   "name": "Forgotten Lore",
+   "desc": "Receive all 5 cards from The Trader in P03's factory.",
+   "hidden": true,
+   "pct": 15.2,
+   "api_name": "PART3_SPECIAL1",
+   "internal_key": 285
+  },
+  {
+   "name": "Grim Bounty",
+   "desc": "Destroy a Level 3 Bounty Hunter card.",
+   "hidden": true,
+   "pct": 14.0,
+   "api_name": "PART3_SPECIAL2",
+   "internal_key": 286
+  },
+  {
+   "name": "Agonizing Remorse",
+   "desc": "Don't empty the Recycling Bin.",
+   "hidden": true,
+   "pct": 3.5,
+   "api_name": "PART3_SPECIAL3",
+   "internal_key": 287
+  },
+  {
+   "name": "Dubious Challenge",
+   "desc": "Clear Challenge Level 1 in Kaycee's Mod.",
+   "hidden": false,
+   "pct": 18.4,
+   "api_name": "KMOD_CHALLENGELEVEL1",
+   "internal_key": 769
+  },
+  {
+   "name": "Taunting Challenge",
+   "desc": "Clear Challenge Level 4 in Kaycee's Mod.",
+   "hidden": false,
+   "pct": 12.2,
+   "api_name": "KMOD_CHALLENGELEVEL2",
+   "internal_key": 770
+  },
+  {
+   "name": "Roar of Challenge",
+   "desc": "Clear Challenge Level 8 in Kaycee's Mod.",
+   "hidden": false,
+   "pct": 8.7,
+   "api_name": "KMOD_CHALLENGELEVEL3",
+   "internal_key": 771
+  },
+  {
+   "name": "Rise to the Challenge",
+   "desc": "Clear Challenge Level 12 in Kaycee's Mod.",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "KMOD_CHALLENGELEVEL4",
+   "internal_key": 772
+  },
+  {
+   "name": "Skull Storm",
+   "desc": "Complete a run with every Challenge active in Kaycee's Mod.",
+   "hidden": true,
+   "pct": 2.7,
+   "api_name": "KMOD_ALLCHALLENGES",
+   "internal_key": 773
+  },
+  {
+   "name": "Master Trinketeer",
+   "desc": "Unlock all 3 items from the oil painting in Kaycee's Mod.",
+   "hidden": true,
+   "pct": 3.1,
+   "api_name": "KMOD_ALLITEMSUNLOCKED",
+   "internal_key": 774
+  },
+  {
+   "name": "Start // Finish",
+   "desc": "Complete a run with every Starter Deck in Kaycee's Mod.",
+   "hidden": true,
+   "pct": 4.6,
+   "api_name": "KMOD_ALLSTARTERSCONQUERED",
+   "internal_key": 775
+  },
+  {
+   "name": "Rookie Mistake",
+   "desc": "Make 10 misplays in a single Kaycee's Mod run.",
+   "hidden": true,
+   "pct": 22.6,
+   "api_name": "KMOD_SPECIAL1",
+   "internal_key": 776
+  },
+  {
+   "name": "Pulling Teeth",
+   "desc": "Pull out 32 teeth in Kaycee's Mod.",
+   "hidden": true,
+   "pct": 7.1,
+   "api_name": "KMOD_SPECIAL2",
+   "internal_key": 777
+  },
+  {
+   "name": "Bad Moon",
+   "desc": "Defeat Leshy in Kaycee's Mod without destroying The Moon.",
+   "hidden": true,
+   "pct": 3.4,
+   "api_name": "KMOD_SPECIAL3",
+   "internal_key": 778
+  }
+ ]
+}

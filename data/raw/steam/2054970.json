@@ -1,0 +1,428 @@
+{
+ "appid": 2054970,
+ "game": "Dragon's Dogma 2",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 60,
+ "achievements": [
+  {
+   "api": "1",
+   "name": "First Taste of Freedom",
+   "desc": "Escaped the bonds of slavery.",
+   "hidden": false,
+   "pct": 94.6
+  },
+  {
+   "api": "2",
+   "name": "Arisen",
+   "desc": "Regained your memories of receiving the Arisen's charge.",
+   "hidden": false,
+   "pct": 84.1
+  },
+  {
+   "api": "3",
+   "name": "Seat of the Proxy",
+   "desc": "Arrived in Vernworth.",
+   "hidden": false,
+   "pct": 76.6
+  },
+  {
+   "api": "14",
+   "name": "An In-Tents Adventure",
+   "desc": "Went camping.",
+   "hidden": false,
+   "pct": 74.8
+  },
+  {
+   "api": "16",
+   "name": "One Speed Only",
+   "desc": "Boarded an oxcart.",
+   "hidden": false,
+   "pct": 65.6
+  },
+  {
+   "api": "9",
+   "name": "Versatile",
+   "desc": "Changed your vocation.",
+   "hidden": false,
+   "pct": 63.6
+  },
+  {
+   "api": "18",
+   "name": "Just a Stone's Throw Away",
+   "desc": "Used a Ferrystone.",
+   "hidden": false,
+   "pct": 61.0
+  },
+  {
+   "api": "37",
+   "name": "Quit Playing Dead",
+   "desc": "Revived two pawns simultaneously.",
+   "hidden": false,
+   "pct": 59.8
+  },
+  {
+   "api": "27",
+   "name": "Myrmecoleon Delights",
+   "desc": "Entered the rose chateau.",
+   "hidden": false,
+   "pct": 55.6
+  },
+  {
+   "api": "15",
+   "name": "A House? In This Economy?",
+   "desc": "Purchased a dwelling of your own.",
+   "hidden": false,
+   "pct": 55.1
+  },
+  {
+   "api": "42",
+   "name": "Nobles' Night Out",
+   "desc": "Attended a palace masquerade in formal raiment.",
+   "hidden": false,
+   "pct": 47.5
+  },
+  {
+   "api": "26",
+   "name": "Wish upon the Rift",
+   "desc": "Set a pawn quest.",
+   "hidden": false,
+   "pct": 47.0
+  },
+  {
+   "api": "25",
+   "name": "A Pawn of Many Talents",
+   "desc": "Taught your pawn a specialization.",
+   "hidden": false,
+   "pct": 46.4
+  },
+  {
+   "api": "4",
+   "name": "Across the Border",
+   "desc": "Passed through the gate at the border.",
+   "hidden": false,
+   "pct": 46.1
+  },
+  {
+   "api": "17",
+   "name": "The Savior",
+   "desc": "Used a Wakestone to restore the dead to life.",
+   "hidden": false,
+   "pct": 45.6
+  },
+  {
+   "api": "24",
+   "name": "The Specialist",
+   "desc": "Reached the maximum rank in a vocation.",
+   "hidden": false,
+   "pct": 45.4
+  },
+  {
+   "api": "30",
+   "name": "Affinity and Beyond",
+   "desc": "Raised a person's affinity to the maximum.",
+   "hidden": false,
+   "pct": 45.4
+  },
+  {
+   "api": "10",
+   "name": "Duo Destinies",
+   "desc": "Changed your vocation to mystic spearhand.",
+   "hidden": false,
+   "pct": 40.7
+  },
+  {
+   "api": "49",
+   "name": "Back Where It All Began",
+   "desc": "Returned to Agamen Volcanic Island.",
+   "hidden": false,
+   "pct": 38.9
+  },
+  {
+   "api": "52",
+   "name": "Hope You Brought a Lantern",
+   "desc": "Reached Drabnir's Grotto.",
+   "hidden": false,
+   "pct": 32.8
+  },
+  {
+   "api": "34",
+   "name": "This'll Cure What Ails Ye",
+   "desc": "Soaked in the hot spring.",
+   "hidden": false,
+   "pct": 29.3
+  },
+  {
+   "api": "51",
+   "name": "Roost of the Dragon",
+   "desc": "Reached Dragonsbreath Tower.",
+   "hidden": false,
+   "pct": 29.1
+  },
+  {
+   "api": "12",
+   "name": "Arrows and Incantations",
+   "desc": "Changed your vocation to magick archer.",
+   "hidden": false,
+   "pct": 28.4
+  },
+  {
+   "api": "11",
+   "name": "Trickster of the Trade",
+   "desc": "Changed your vocation to trickster.",
+   "hidden": false,
+   "pct": 24.6
+  },
+  {
+   "api": "45",
+   "name": "Before Dawn Breaks",
+   "desc": "Defeated the headless horseman.",
+   "hidden": false,
+   "pct": 24.5
+  },
+  {
+   "api": "13",
+   "name": "Jack of All Trades, Master of...All Trades",
+   "desc": "Changed your vocation to warfarer.",
+   "hidden": false,
+   "pct": 23.4
+  },
+  {
+   "api": "48",
+   "name": "The Regriffining",
+   "desc": "Took flight on griffin wing a second time.",
+   "hidden": false,
+   "pct": 22.5
+  },
+  {
+   "api": "5",
+   "name": "Dragon's Dogma 2",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.4
+  },
+  {
+   "api": "31",
+   "name": "Dragon Forged",
+   "desc": "Strengthened a weapon in wyrmfire.",
+   "hidden": false,
+   "pct": 21.4
+  },
+  {
+   "api": "53",
+   "name": "To the Victor Go the Spoils",
+   "desc": "Reclaimed your items from the scavenger who stole them from you.",
+   "hidden": false,
+   "pct": 19.6
+  },
+  {
+   "api": "19",
+   "name": "A Badge of Honor",
+   "desc": "Acquired a pawn badge.",
+   "hidden": false,
+   "pct": 18.8
+  },
+  {
+   "api": "8",
+   "name": "Closure",
+   "desc": "Experienced the end of the cycle. (Not available in Casual Mode)",
+   "hidden": false,
+   "pct": 18.4
+  },
+  {
+   "api": "47",
+   "name": "Are We There Yet?",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.5
+  },
+  {
+   "api": "43",
+   "name": "Thought I'd Lost You",
+   "desc": "Restored the dead to life at a morgue or charnel house.",
+   "hidden": false,
+   "pct": 16.8
+  },
+  {
+   "api": "54",
+   "name": "I'm In",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.6
+  },
+  {
+   "api": "32",
+   "name": "The Guardian",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.2
+  },
+  {
+   "api": "33",
+   "name": "The Hero",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.5
+  },
+  {
+   "api": "22",
+   "name": "Off with Its Head!",
+   "desc": "Decapitated a medusa.",
+   "hidden": false,
+   "pct": 13.9
+  },
+  {
+   "api": "21",
+   "name": "Full Marks",
+   "desc": "Found a solution to every conundrum posed by the goddess of riddles.",
+   "hidden": false,
+   "pct": 13.5
+  },
+  {
+   "api": "6",
+   "name": "Peace",
+   "desc": "Became Sovran of Vernworth.",
+   "hidden": false,
+   "pct": 12.8
+  },
+  {
+   "api": "7",
+   "name": "I, Talos",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.8
+  },
+  {
+   "api": "46",
+   "name": "The Tourist",
+   "desc": "Discovered 50 dungeons.",
+   "hidden": false,
+   "pct": 11.9
+  },
+  {
+   "api": "35",
+   "name": "Cyclops Abridged",
+   "desc": "Crossed a cyclopean bridge.",
+   "hidden": false,
+   "pct": 11.4
+  },
+  {
+   "api": "20",
+   "name": "Gigantus, I Hardly Knew Ye",
+   "desc": "Defeated the gigantus in a short span of time.",
+   "hidden": false,
+   "pct": 10.4
+  },
+  {
+   "api": "38",
+   "name": "Dragon's Dogma",
+   "desc": "Obtained Dragon's Dogma.",
+   "hidden": false,
+   "pct": 10.3
+  },
+  {
+   "api": "36",
+   "name": "Harpy Joyride",
+   "desc": "Summoned a harpy, grabbed hold, and took flight.",
+   "hidden": false,
+   "pct": 9.4
+  },
+  {
+   "api": "28",
+   "name": "The Collector",
+   "desc": "Collected 80 Seeker's Tokens.",
+   "hidden": false,
+   "pct": 8.4
+  },
+  {
+   "api": "40",
+   "name": "Getting a Head",
+   "desc": "Acquired a preserved medusa head.",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "55",
+   "name": "The Forgotten North",
+   "desc": "Arrived in Norgan.",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "29",
+   "name": "The Philanthropist",
+   "desc": "Earned the affections of 50 people.",
+   "hidden": false,
+   "pct": 8.0
+  },
+  {
+   "api": "23",
+   "name": "Master of the Maisters",
+   "desc": "Acquired every maister's teaching.",
+   "hidden": false,
+   "pct": 6.6
+  },
+  {
+   "api": "41",
+   "name": "The Barbecue-Maister",
+   "desc": "Grilled every type of meat during the night and day.",
+   "hidden": false,
+   "pct": 4.8
+  },
+  {
+   "api": "44",
+   "name": "Reaper's Scorn",
+   "desc": "Accomplished a miracle for several people all at once.",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "59",
+   "name": "Reunited",
+   "desc": "Granted Eir's wish.",
+   "hidden": false,
+   "pct": 4.5
+  },
+  {
+   "api": "39",
+   "name": "An Eye for an Eye",
+   "desc": "Petrified a medusa.",
+   "hidden": false,
+   "pct": 4.1
+  },
+  {
+   "api": "57",
+   "name": "Dogma Defended",
+   "desc": "Heeded the request of Norgan's guardian.",
+   "hidden": false,
+   "pct": 4.1
+  },
+  {
+   "api": "50",
+   "name": "Plenty Arisen to Go Round",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.2
+  },
+  {
+   "api": "60",
+   "name": "Abominable Snowstash",
+   "desc": "Reclaimed stolen items from the snowfoot's den.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "56",
+   "name": "Dogma Defied",
+   "desc": "Reached the end of the Final Proving Ground without recovering your loss gauge.",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "58",
+   "name": "Strike!",
+   "desc": "Broke through five vile eye barriers at once.",
+   "hidden": false,
+   "pct": 0.3
+  }
+ ]
+}

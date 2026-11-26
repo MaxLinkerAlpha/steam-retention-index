@@ -1,0 +1,409 @@
+{
+ "appid": 1817190,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 50,
+ "achievements": [
+  {
+   "name": "Be Yourself",
+   "desc": "Collect all Achievements",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "beyourself",
+   "internal_key": 256
+  },
+  {
+   "name": "Just the Beginning",
+   "desc": "Unlock all Skills",
+   "hidden": false,
+   "pct": 13.3,
+   "api_name": "justthebeginning",
+   "internal_key": 512
+  },
+  {
+   "name": "A New Home",
+   "desc": "100% complete all districts",
+   "hidden": false,
+   "pct": 21.3,
+   "api_name": "anewhome",
+   "internal_key": 768
+  },
+  {
+   "name": "Urban Explorers",
+   "desc": "Collect all Time Capsules",
+   "hidden": false,
+   "pct": 31.9,
+   "api_name": "urbanexplorers",
+   "internal_key": 1024
+  },
+  {
+   "name": "Memory Lane",
+   "desc": "Collect all Postcards",
+   "hidden": false,
+   "pct": 27.6,
+   "api_name": "memorylane",
+   "internal_key": 1280
+  },
+  {
+   "name": "Salvager",
+   "desc": "Open all Underground Caches",
+   "hidden": false,
+   "pct": 23.9,
+   "api_name": "salvager",
+   "internal_key": 1536
+  },
+  {
+   "name": "Under Their Noses",
+   "desc": "Shut down all Roxxon Labs",
+   "hidden": true,
+   "pct": 35.7,
+   "api_name": "undertheirnoses",
+   "internal_key": 1792
+  },
+  {
+   "name": "Underground Undone",
+   "desc": "Shut down all Underground Hideouts",
+   "hidden": true,
+   "pct": 37.1,
+   "api_name": "undergroundundone",
+   "internal_key": 2048
+  },
+  {
+   "name": "Ready for Anything",
+   "desc": "Purchase all suits",
+   "hidden": false,
+   "pct": 13.7,
+   "api_name": "readyforanything",
+   "internal_key": 2304
+  },
+  {
+   "name": "Come at the King",
+   "desc": "Unravel a criminal conspiracy in Harlem",
+   "hidden": true,
+   "pct": 49.5,
+   "api_name": "comeattheking",
+   "internal_key": 2560
+  },
+  {
+   "name": "Never Saw It Coming",
+   "desc": "Complete an Enemy Base without being detected",
+   "hidden": false,
+   "pct": 23.3,
+   "api_name": "neversawitcoming",
+   "internal_key": 2816
+  },
+  {
+   "name": "100x Combo!!!",
+   "desc": "Perform a 100x Combo",
+   "hidden": false,
+   "pct": 26.4,
+   "api_name": "100xcombo!!!",
+   "internal_key": 3072
+  },
+  {
+   "name": "Launch, Swing and Dive",
+   "desc": "Get Spectacular or better in a Spider-Training Traversal Challenge",
+   "hidden": true,
+   "pct": 52.1,
+   "api_name": "launch,swinganddive",
+   "internal_key": 3328
+  },
+  {
+   "name": "Punching Pixels",
+   "desc": "Get Spectacular or better in a Spider-Training Combat Challenge",
+   "hidden": true,
+   "pct": 48.2,
+   "api_name": "punchingpixels",
+   "internal_key": 3584
+  },
+  {
+   "name": "Dodging Light",
+   "desc": "Get Spectacular or better in a Spider-Training Stealth Challenge",
+   "hidden": true,
+   "pct": 44.6,
+   "api_name": "dodginglight",
+   "internal_key": 3840
+  },
+  {
+   "name": "Spider-Training: Complete",
+   "desc": "Complete every Spider-Training Challenge once",
+   "hidden": true,
+   "pct": 34.3,
+   "api_name": "spidertraining:complete",
+   "internal_key": 4096
+  },
+  {
+   "name": "Pete's First Villain",
+   "desc": "Complete the Final Test",
+   "hidden": true,
+   "pct": 33.8,
+   "api_name": "pete_sfirstvillain",
+   "internal_key": 4352
+  },
+  {
+   "name": "Kitbash",
+   "desc": "Craft 10 Upgrades",
+   "hidden": false,
+   "pct": 33.9,
+   "api_name": "kitbash",
+   "internal_key": 4608
+  },
+  {
+   "name": "Rhino Rodeo",
+   "desc": "Ride Rhino through the mall",
+   "hidden": true,
+   "pct": 93.2,
+   "api_name": "rhinorodeo",
+   "internal_key": 4864
+  },
+  {
+   "name": "Deep Cuts",
+   "desc": "Collect all Sound Samples and recreate the Davis Brothers Mix",
+   "hidden": true,
+   "pct": 34.2,
+   "api_name": "deepcuts",
+   "internal_key": 5120
+  },
+  {
+   "name": "Hanging by a Thread",
+   "desc": "Keep the bridge together",
+   "hidden": true,
+   "pct": 77.4,
+   "api_name": "hangingbyathread",
+   "internal_key": 5376
+  },
+  {
+   "name": "The Core of the Problem",
+   "desc": "Investigate Roxxon's underground lab",
+   "hidden": true,
+   "pct": 73.7,
+   "api_name": "thecoreoftheproblem",
+   "internal_key": 5632
+  },
+  {
+   "name": "True Deception",
+   "desc": "Complete the vault sequence in Underground Undercover",
+   "hidden": true,
+   "pct": 70.4,
+   "api_name": "truedeception",
+   "internal_key": 5888
+  },
+  {
+   "name": "The Harlem Express",
+   "desc": "Get the trains running again",
+   "hidden": true,
+   "pct": 81.7,
+   "api_name": "theharlemexpress",
+   "internal_key": 6144
+  },
+  {
+   "name": "Veloci-Skates",
+   "desc": "Chase Tinkerer through the city",
+   "hidden": true,
+   "pct": 68.0,
+   "api_name": "velociskates",
+   "internal_key": 6400
+  },
+  {
+   "name": "Shared History",
+   "desc": "Walk through Miles and Phin's past",
+   "hidden": true,
+   "pct": 60.6,
+   "api_name": "sharedhistory",
+   "internal_key": 6656
+  },
+  {
+   "name": "Exploding Bulldozer",
+   "desc": "Defeat Roxxon Rhino",
+   "hidden": true,
+   "pct": 63.9,
+   "api_name": "explodingbulldozer",
+   "internal_key": 6912
+  },
+  {
+   "name": "Family Drama",
+   "desc": "Defeat Prowler",
+   "hidden": true,
+   "pct": 62.5,
+   "api_name": "familydrama",
+   "internal_key": 7168
+  },
+  {
+   "name": "Ultimate Sacrifice",
+   "desc": "Save Harlem",
+   "hidden": true,
+   "pct": 60.0,
+   "api_name": "ultimatesacrifice",
+   "internal_key": 7424
+  },
+  {
+   "name": "From the Rafters",
+   "desc": "Perform 25 Ceiling Takedowns",
+   "hidden": false,
+   "pct": 12.9,
+   "api_name": "fromtherafters",
+   "internal_key": 7680
+  },
+  {
+   "name": "Climbing the Walls",
+   "desc": "Perform 25 Wall Takedowns",
+   "hidden": false,
+   "pct": 12.7,
+   "api_name": "climbingthewalls",
+   "internal_key": 7936
+  },
+  {
+   "name": "Invisible Spider",
+   "desc": "Defeat 50 enemies while Camouflaged",
+   "hidden": false,
+   "pct": 42.1,
+   "api_name": "invisiblespider",
+   "internal_key": 8192
+  },
+  {
+   "name": "Overcharge",
+   "desc": "Defeat 100 enemies with Venom attacks",
+   "hidden": false,
+   "pct": 40.8,
+   "api_name": "overcharge",
+   "internal_key": 8448
+  },
+  {
+   "name": "Up and Over",
+   "desc": "Perform a Venom Jump, then a Venom Dash on a single enemy",
+   "hidden": false,
+   "pct": 31.8,
+   "api_name": "upandover",
+   "internal_key": 8704
+  },
+  {
+   "name": "From Downtown",
+   "desc": "Use Venom Dash to throw an enemy into a group of three or more",
+   "hidden": false,
+   "pct": 41.7,
+   "api_name": "fromdowntown",
+   "internal_key": 8960
+  },
+  {
+   "name": "Like a Rhino in a China Shop",
+   "desc": "Smash into 15 breakable objects while steering Rhino through the shopping mall",
+   "hidden": false,
+   "pct": 26.5,
+   "api_name": "likearhinoinachinashop",
+   "internal_key": 9216
+  },
+  {
+   "name": "Competitive Spirit",
+   "desc": "Beat Phin at the rocket launch mini-game",
+   "hidden": true,
+   "pct": 20.6,
+   "api_name": "competitivespirit",
+   "internal_key": 9472
+  },
+  {
+   "name": "Best Fries in Town",
+   "desc": "Pay your respects to a legend in the Upper West Side",
+   "hidden": false,
+   "pct": 15.7,
+   "api_name": "bestfriesintown",
+   "internal_key": 9728
+  },
+  {
+   "name": "JJJ Would Be Proud",
+   "desc": "Apply a sticker and customise lighting while in Photo Mode",
+   "hidden": false,
+   "pct": 11.1,
+   "api_name": "jjjwouldbeproud",
+   "internal_key": 9984
+  },
+  {
+   "name": "Trapped",
+   "desc": "Defeat 50 enemies with the Remote Mine gadget",
+   "hidden": false,
+   "pct": 24.8,
+   "api_name": "trapped",
+   "internal_key": 10240
+  },
+  {
+   "name": "Five Star Review",
+   "desc": "Complete all FNSM app requests",
+   "hidden": false,
+   "pct": 36.7,
+   "api_name": "fivestarreview",
+   "internal_key": 10496
+  },
+  {
+   "name": "Mod that Suit",
+   "desc": "Craft a Suit Mod",
+   "hidden": false,
+   "pct": 80.8,
+   "api_name": "modthatsuit",
+   "internal_key": 10752
+  },
+  {
+   "name": "Look with Better Eyes",
+   "desc": "Craft a Visor Mod",
+   "hidden": false,
+   "pct": 70.3,
+   "api_name": "lookwithbettereyes",
+   "internal_key": 11008
+  },
+  {
+   "name": "Never Give Up",
+   "desc": "Pay respects at Jefferson Davis' grave in Harlem",
+   "hidden": false,
+   "pct": 11.2,
+   "api_name": "nevergiveup",
+   "internal_key": 11264
+  },
+  {
+   "name": "A Gift From Pete",
+   "desc": "Receive the Gift Suit",
+   "hidden": true,
+   "pct": 90.1,
+   "api_name": "agiftfrompete",
+   "internal_key": 11520
+  },
+  {
+   "name": "Crime Master",
+   "desc": "Complete all Bonus Objectives for every crime type",
+   "hidden": false,
+   "pct": 13.0,
+   "api_name": "crimemaster",
+   "internal_key": 11776
+  },
+  {
+   "name": "Nowhere to Hide",
+   "desc": "Perform 100 Stealth Takedowns",
+   "hidden": false,
+   "pct": 56.8,
+   "api_name": "nowheretohide",
+   "internal_key": 12032
+  },
+  {
+   "name": "I'm on a Boat",
+   "desc": "Ride the derelict boat in southern Chinatown",
+   "hidden": false,
+   "pct": 36.0,
+   "api_name": "i_monaboat",
+   "internal_key": 12288
+  },
+  {
+   "name": "Socially Acceptable",
+   "desc": "Scroll through the entire Social Feed at the end of the story",
+   "hidden": false,
+   "pct": 11.2,
+   "api_name": "sociallyacceptable",
+   "internal_key": 12544
+  },
+  {
+   "name": "Plus Plus",
+   "desc": "Complete the game on New Game+",
+   "hidden": false,
+   "pct": 10.4,
+   "api_name": "plusplus",
+   "internal_key": 12800
+  }
+ ]
+}

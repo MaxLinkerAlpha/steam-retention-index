@@ -1,0 +1,421 @@
+{
+ "appid": 282070,
+ "game": "This War of Mine",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 59,
+ "achievements": [
+  {
+   "api": "STIMULANTS_FOR_ALL_DWELLERS",
+   "name": "Note: A bit of indulgence",
+   "desc": "",
+   "hidden": true,
+   "pct": 71.5
+  },
+  {
+   "api": "GET_ALL_SHELTER_ITEMS",
+   "name": "Diary: Finished ransacking",
+   "desc": "",
+   "hidden": true,
+   "pct": 66.2
+  },
+  {
+   "api": "WARM_MEAL_FOR_ALL_DWELLERS",
+   "name": "Diary: Shooting for five stars",
+   "desc": "",
+   "hidden": true,
+   "pct": 64.0
+  },
+  {
+   "api": "SURVIVED_7_DAYS_NO_CASUALITIES",
+   "name": "Diary: Day 7",
+   "desc": "",
+   "hidden": true,
+   "pct": 63.7
+  },
+  {
+   "api": "SURVIVE_FIGHT_WITH_ARMED_ENEMY",
+   "name": "Diary: First blood",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.6
+  },
+  {
+   "api": "STORYITEM_FROM_5_LOCATIONS",
+   "name": "Diary: Traces of lives ",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.4
+  },
+  {
+   "api": "USE_RADIO_3_TIMES",
+   "name": "Note: Bless the radio",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.0
+  },
+  {
+   "api": "BEDS_FOR_ALL_DWELLERS",
+   "name": "Diary: Hostel's open!",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.1
+  },
+  {
+   "api": "DOUBLE_GUARD_AT_NIGHT",
+   "name": "Note: Doubled the watch",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.8
+  },
+  {
+   "api": "CRAFT_ALCOHOL_WITH_MOONSHINE_STILL",
+   "name": "Note: Distilled gold",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.2
+  },
+  {
+   "api": "ACHIEVE_COMFORT_LEVEL",
+   "name": "Note: Creature comforts",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.2
+  },
+  {
+   "api": "SURVIVED_WINTER_DAY",
+   "name": "Diary: Effing Snow",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.8
+  },
+  {
+   "api": "SURVIVED_THE_WAR",
+   "name": "Epilogue: War is over",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.6
+  },
+  {
+   "api": "SURVIVE_BANDITS_ATTACK_ALL_INIT_DWELLERS",
+   "name": "Diary: We Made A Stand",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.9
+  },
+  {
+   "api": "SURVIVE_WINTER_ALL_INIT_DWELLER",
+   "name": "Diary: We Have Wintered",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.8
+  },
+  {
+   "api": "SURVIVE_WAR_ALL_INIT_DWELLERS",
+   "name": "Epilogue: We made it!",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.1
+  },
+  {
+   "api": "VISIT_ALL_LOCATIONS_FROM_TIMELINE",
+   "name": "Diary: We've been everywhere",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.4
+  },
+  {
+   "api": "CURE_DWELLER_BROKEN_STATUS",
+   "name": "Diary: Back from the brink ",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.8
+  },
+  {
+   "api": "STORIES_HOME_SHELLED_HOME",
+   "name": "Diary: Home Shelled Home",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.4
+  },
+  {
+   "api": "AVOID_THE_WORST",
+   "name": "Note: Avoid the worst",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.5
+  },
+  {
+   "api": "OUR_OWN_PLAYGROUND",
+   "name": "Diary: Our own playground",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.0
+  },
+  {
+   "api": "SAVE_WOUNDED_DWELLER",
+   "name": "Diary: Patched up and ready to go ",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.9
+  },
+  {
+   "api": "STORIES_THE_TRUTH",
+   "name": "Diary: The Truth",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.7
+  },
+  {
+   "api": "STORIES_COMPASSION",
+   "name": "Diary: Compassion",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.4
+  },
+  {
+   "api": "BETTER_DAYS",
+   "name": "Note: Better days",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.0
+  },
+  {
+   "api": "DLC_WAR_CHILD_UNLOCKED",
+   "name": "Note: Helping children",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.7
+  },
+  {
+   "api": "STORIES_THE_DOCTOR",
+   "name": "Diary: The doctor",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.4
+  },
+  {
+   "api": "CURE_ILL_DWELLER",
+   "name": "Diary: Miraculous recovery",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.8
+  },
+  {
+   "api": "OUR_FUTURE",
+   "name": "Diary: Our future",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.7
+  },
+  {
+   "api": "EVERYBODY_GOT_TO_LEARN",
+   "name": "Note: Everybody got to learn",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.0
+  },
+  {
+   "api": "STORIES_PITA_IN_MUSEUM",
+   "name": "Diary: My dear Ruben",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.7
+  },
+  {
+   "api": "STORIES_BACK_HOME",
+   "name": "Note: He is back home",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.5
+  },
+  {
+   "api": "BOND_FOR_LIFE",
+   "name": "Diary: Bond for life",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.3
+  },
+  {
+   "api": "STORIES_THRUTHFUL",
+   "name": "Diary: Thruthful",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.3
+  },
+  {
+   "api": "STORIES_HEIR",
+   "name": "Epilogue: Heir",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.4
+  },
+  {
+   "api": "STORIES_TRUCK_FIXED",
+   "name": "Note: The truck is ready",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.3
+  },
+  {
+   "api": "ESCAPE",
+   "name": "Epilogue: Exodus",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.1
+  },
+  {
+   "api": "NEW_LIFE",
+   "name": "Epilogue: New life",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.0
+  },
+  {
+   "api": "NO_MORE_TEARS",
+   "name": "Note: No more tears",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.8
+  },
+  {
+   "api": "STORIES_TITO_QUEST_DONE",
+   "name": "Diary: Good Neighbor",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  },
+  {
+   "api": "STORIES_EVERYTHING_SECURED",
+   "name": "Diary: The Custodian",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.0
+  },
+  {
+   "api": "STORIES_ORPHANAGE_QUEST_DONE",
+   "name": "Diary: Innocent children",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.9
+  },
+  {
+   "api": "STORIES_PASER_QUEST_DONE",
+   "name": "Note: The Fence",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.9
+  },
+  {
+   "api": "DLC_WAR_CHILD_GRAFFITI_COMPLETED",
+   "name": "Note: Street Art",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.6
+  },
+  {
+   "api": "STORIES_A_LIAR",
+   "name": "Diary: You are a liar",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.5
+  },
+  {
+   "api": "STORIES_NO_HERITAGE_BURNED",
+   "name": "Diary: The Janitor",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.5
+  },
+  {
+   "api": "STORIES_COLONEL_QUEST_DONE",
+   "name": "Note: The Colonel",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.4
+  },
+  {
+   "api": "STORIES_CAR_MECHANIC_TRICKED",
+   "name": "Diary: Fool the Crow",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.4
+  },
+  {
+   "api": "STORIES_MALIK_ON_DUTY",
+   "name": "Note: Malik on duty",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.3
+  },
+  {
+   "api": "STORIES_ROLL_UP_MASTER",
+   "name": "Note: Roll-up master",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.2
+  },
+  {
+   "api": "THE_SCHOOL_OF_LIFE",
+   "name": "Note: The school of life",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.1
+  },
+  {
+   "api": "STORIES_REMORSE",
+   "name": "Epilogue: Remorse",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.0
+  },
+  {
+   "api": "STORIES_EVERYTHING_REINFORCED",
+   "name": "Note: Fortify",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.9
+  },
+  {
+   "api": "STORIES_ALL_WS3_ENDINGS",
+   "name": "Epilogue: All the way",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.7
+  },
+  {
+   "api": "STORIES_BURNED_A_LOT",
+   "name": "Note: Burn'em all",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.7
+  },
+  {
+   "api": "LASTDLC_WITNESS_SURVIVED",
+   "name": "Forget Celebrations: Surviving Pogoren",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.6
+  },
+  {
+   "api": "LASTDLC_TOGETHER_WE_STAND",
+   "name": "Forget Celebrations: Together We Escape",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.5
+  },
+  {
+   "api": "LASTDLC_LIFES_WORK_COMPLETED",
+   "name": "Forget Celebrations: The Final Chapter",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.4
+  },
+  {
+   "api": "LASTDLC_COMPLETED_IN_A_RUSH",
+   "name": "Forget Celebrations: Speedwriting",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.2
+  }
+ ]
+}

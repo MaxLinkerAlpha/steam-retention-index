@@ -1,0 +1,513 @@
+{
+ "appid": 1235140,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 63,
+ "achievements": [
+  {
+   "name": "The New Dragon",
+   "desc": "Obtained all achievements.",
+   "hidden": false,
+   "pct": 3.6,
+   "api_name": "YAZAWA_PLATINUM",
+   "internal_key": 1283
+  },
+  {
+   "name": "For the Family",
+   "desc": "Completed Chapter 1.",
+   "hidden": false,
+   "pct": 78.1,
+   "api_name": "YAZAWA_MAIN_STORY_1",
+   "internal_key": 1284
+  },
+  {
+   "name": "Rock Bottom",
+   "desc": "Completed Chapter 2.",
+   "hidden": false,
+   "pct": 73.6,
+   "api_name": "YAZAWA_MAIN_STORY_2",
+   "internal_key": 1285
+  },
+  {
+   "name": "Heroes and Villains",
+   "desc": "Completed Chapter 3.",
+   "hidden": false,
+   "pct": 69.6,
+   "api_name": "YAZAWA_MAIN_STORY_3",
+   "internal_key": 1288
+  },
+  {
+   "name": "Soap on a Rope",
+   "desc": "Completed Chapter 4.",
+   "hidden": false,
+   "pct": 61.2,
+   "api_name": "YAZAWA_MAIN_STORY_4",
+   "internal_key": 1289
+  },
+  {
+   "name": "Smoked",
+   "desc": "Completed Chapter 5.",
+   "hidden": false,
+   "pct": 54.1,
+   "api_name": "YAZAWA_MAIN_STORY_5",
+   "internal_key": 1290
+  },
+  {
+   "name": "Ignition",
+   "desc": "Completed Chapter 6.",
+   "hidden": false,
+   "pct": 52.5,
+   "api_name": "YAZAWA_MAIN_STORY_6",
+   "internal_key": 1291
+  },
+  {
+   "name": "Three Spiders",
+   "desc": "Completed Chapter 7.",
+   "hidden": false,
+   "pct": 49.2,
+   "api_name": "YAZAWA_MAIN_STORY_7",
+   "internal_key": 1292
+  },
+  {
+   "name": "The Statesman",
+   "desc": "Completed Chapter 8.",
+   "hidden": false,
+   "pct": 48.2,
+   "api_name": "YAZAWA_MAIN_STORY_8",
+   "internal_key": 1293
+  },
+  {
+   "name": "Time to Talk",
+   "desc": "Completed Chapter 9.",
+   "hidden": false,
+   "pct": 45.9,
+   "api_name": "YAZAWA_MAIN_STORY_9",
+   "internal_key": 1294
+  },
+  {
+   "name": "Illuminations",
+   "desc": "Completed Chapter 10.",
+   "hidden": false,
+   "pct": 43.2,
+   "api_name": "YAZAWA_MAIN_STORY_10",
+   "internal_key": 1295
+  },
+  {
+   "name": "The Dragon Stirs",
+   "desc": "Completed Chapter 11.",
+   "hidden": false,
+   "pct": 41.8,
+   "api_name": "YAZAWA_MAIN_STORY_11",
+   "internal_key": 1296
+  },
+  {
+   "name": "End of an Era",
+   "desc": "Completed Chapter 12.",
+   "hidden": false,
+   "pct": 37.9,
+   "api_name": "YAZAWA_MAIN_STORY_12",
+   "internal_key": 1297
+  },
+  {
+   "name": "Fate of Our Fathers",
+   "desc": "Completed Chapter 13.",
+   "hidden": false,
+   "pct": 36.8,
+   "api_name": "YAZAWA_MAIN_STORY_13",
+   "internal_key": 1298
+  },
+  {
+   "name": "The Torch is Passed",
+   "desc": "Completed Chapter 14.",
+   "hidden": false,
+   "pct": 35.6,
+   "api_name": "YAZAWA_MAIN_STORY_14",
+   "internal_key": 1299
+  },
+  {
+   "name": "Thank You",
+   "desc": "Completed the final chapter.",
+   "hidden": false,
+   "pct": 33.5,
+   "api_name": "YAZAWA_MAIN_STORY_CLEAR",
+   "internal_key": 1300
+  },
+  {
+   "name": "Stories to Tell",
+   "desc": "Completed 10 substories.",
+   "hidden": false,
+   "pct": 54.3,
+   "api_name": "YAZAWA_SUBSTORY_A",
+   "internal_key": 1301
+  },
+  {
+   "name": "Stories to Live",
+   "desc": "Completed 20 substories.",
+   "hidden": false,
+   "pct": 37.5,
+   "api_name": "YAZAWA_SUBSTORY_B",
+   "internal_key": 1302
+  },
+  {
+   "name": "Stories of the Streets",
+   "desc": "Completed 40 substories.",
+   "hidden": false,
+   "pct": 19.8,
+   "api_name": "YAZAWA_SUBSTORY_C",
+   "internal_key": 1303
+  },
+  {
+   "name": "Friends in Low Places",
+   "desc": "Maxed Nanba's Bond Level.",
+   "hidden": false,
+   "pct": 28.8,
+   "api_name": "YAZAWA_KIZUNA_NANBA",
+   "internal_key": 1304
+  },
+  {
+   "name": "Friends on the Force",
+   "desc": "Maxed Adachi's Bond Level.",
+   "hidden": false,
+   "pct": 41.2,
+   "api_name": "YAZAWA_KIZUNA_ADACHI",
+   "internal_key": 1306
+  },
+  {
+   "name": "Friends Like Sisters",
+   "desc": "Maxed Saeko's Bond Level.",
+   "hidden": false,
+   "pct": 38.2,
+   "api_name": "YAZAWA_KIZUNA_SAEKO",
+   "internal_key": 1308
+  },
+  {
+   "name": "Friends With Familiar Faces",
+   "desc": "Maxed Joon-gi Han's Bond Level.",
+   "hidden": false,
+   "pct": 25.5,
+   "api_name": "YAZAWA_KIZUNA_HAN",
+   "internal_key": 1309
+  },
+  {
+   "name": "Friends in the Gang",
+   "desc": "Maxed Zhao's Bond Level.",
+   "hidden": false,
+   "pct": 21.8,
+   "api_name": "YAZAWA_KIZUNA_CHO",
+   "internal_key": 1310
+  },
+  {
+   "name": "Friends From Work",
+   "desc": "Maxed Eri's Bond Level.",
+   "hidden": false,
+   "pct": 37.7,
+   "api_name": "YAZAWA_KIZUNA_ERI",
+   "internal_key": 1311
+  },
+  {
+   "name": "Food for Thought",
+   "desc": "Viewed more than 20 Table Talk scenes.",
+   "hidden": false,
+   "pct": 7.2,
+   "api_name": "YAZAWA_PARTY_TALK_A",
+   "internal_key": 1536
+  },
+  {
+   "name": "A New Legend",
+   "desc": "Raised Part-time Hero Member Rank to Senior Hero.",
+   "hidden": false,
+   "pct": 32.1,
+   "api_name": "YAZAWA_PART_TIME_RANK_A",
+   "internal_key": 1537
+  },
+  {
+   "name": "A New Hero",
+   "desc": "Raised Part-time Hero Member Rank to Executive Hero.",
+   "hidden": false,
+   "pct": 10.2,
+   "api_name": "YAZAWA_PART_TIME_RANK_B",
+   "internal_key": 1538
+  },
+  {
+   "name": "Awakening Dragon",
+   "desc": "Reached level 10 with Kasuga.",
+   "hidden": false,
+   "pct": 69.2,
+   "api_name": "YAZAWA_KASUGA_LEVEL_A",
+   "internal_key": 1539
+  },
+  {
+   "name": "Rising Dragon",
+   "desc": "Reached level 30 with Kasuga.",
+   "hidden": false,
+   "pct": 46.3,
+   "api_name": "YAZAWA_KASUGA_LEVEL_B",
+   "internal_key": 1540
+  },
+  {
+   "name": "Like a Dragon",
+   "desc": "Reached level 50 with Kasuga.",
+   "hidden": false,
+   "pct": 38.7,
+   "api_name": "YAZAWA_KASUGA_LEVEL_C",
+   "internal_key": 1541
+  },
+  {
+   "name": "Ryu Ga Gotoku",
+   "desc": "Reached level 70 with Kasuga.",
+   "hidden": false,
+   "pct": 18.3,
+   "api_name": "YAZAWA_KASUGA_LEVEL_D",
+   "internal_key": 1543
+  },
+  {
+   "name": "Sound Character",
+   "desc": "Raised one of Kasuga's personality stats to max.",
+   "hidden": false,
+   "pct": 26.7,
+   "api_name": "YAZAWA_KASUGA_NINGENRYOKU_MAX",
+   "internal_key": 1544
+  },
+  {
+   "name": "Super Human",
+   "desc": "Raised all of Kasuga's personality stats to max.",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "YAZAWA_KASUGA_NINGENRYOKU_ALL_MAX",
+   "internal_key": 1545
+  },
+  {
+   "name": "Job Hopper",
+   "desc": "Changed Kasuga to three different jobs other than his starting job.",
+   "hidden": false,
+   "pct": 25.1,
+   "api_name": "YAZAWA_JOB_CHANGE_A",
+   "internal_key": 1546
+  },
+  {
+   "name": "Life Experiences",
+   "desc": "Changed Kasuga to eight different jobs other than his starting job.",
+   "hidden": false,
+   "pct": 15.1,
+   "api_name": "YAZAWA_JOB_CHANGE_B",
+   "internal_key": 1547
+  },
+  {
+   "name": "Career Counseling",
+   "desc": "Changed all four party members to jobs different from their default jobs and won a battle.",
+   "hidden": false,
+   "pct": 33.6,
+   "api_name": "YAZAWA_JOB_CHANGE_C",
+   "internal_key": 1548
+  },
+  {
+   "name": "Professional",
+   "desc": "Raised 1 job's rank to max.",
+   "hidden": false,
+   "pct": 33.2,
+   "api_name": "YAZAWA_JOB_MASTER_A",
+   "internal_key": 1549
+  },
+  {
+   "name": "Master of Trades",
+   "desc": "Raised 3 jobs' ranks to max.",
+   "hidden": false,
+   "pct": 30.8,
+   "api_name": "YAZAWA_JOB_MASTER_B",
+   "internal_key": 1550
+  },
+  {
+   "name": "Jack of All Trades",
+   "desc": "Raised 7 jobs' ranks to max.",
+   "hidden": false,
+   "pct": 21.6,
+   "api_name": "YAZAWA_JOB_MASTER_C",
+   "internal_key": 1551
+  },
+  {
+   "name": "Romance of the 10 Pieces",
+   "desc": "Made 10 pieces of gear at Romance Workshop.",
+   "hidden": false,
+   "pct": 39.6,
+   "api_name": "YAZAWA_BUKI_C",
+   "internal_key": 1552
+  },
+  {
+   "name": "Romancing the Forge",
+   "desc": "Fully upgraded Romance Workshop's equipment.",
+   "hidden": false,
+   "pct": 33.9,
+   "api_name": "YAZAWA_BUKI_ROMAN_SEISAKUJO",
+   "internal_key": 1553
+  },
+  {
+   "name": "Gear Fanatic",
+   "desc": "Collected over 100 pieces of gear.",
+   "hidden": false,
+   "pct": 47.9,
+   "api_name": "YAZAWA_BUKI_COLLECTOR_A",
+   "internal_key": 1554
+  },
+  {
+   "name": "Gear Hoarder",
+   "desc": "Collected over 200 pieces of gear.",
+   "hidden": false,
+   "pct": 35.1,
+   "api_name": "YAZAWA_BUKI_COLLECTOR_B",
+   "internal_key": 1555
+  },
+  {
+   "name": "I Wanna Be the Very Best",
+   "desc": "Registered over 100 Sujimon to the Sujidex.",
+   "hidden": false,
+   "pct": 47.9,
+   "api_name": "YAZAWA_SUJIMON_A",
+   "internal_key": 1556
+  },
+  {
+   "name": "Gotta Catch 'Em All",
+   "desc": "Registered over 200 Sujimon to the Sujidex.",
+   "hidden": false,
+   "pct": 32.8,
+   "api_name": "YAZAWA_SUJIMON_B",
+   "internal_key": 1557
+  },
+  {
+   "name": "Pound It",
+   "desc": "Called for Poundmates 30 times.",
+   "hidden": false,
+   "pct": 11.3,
+   "api_name": "YAZAWA_DELIHELP_A",
+   "internal_key": 1558
+  },
+  {
+   "name": "Heir to the Legend",
+   "desc": "Beat the Sotenbori Battle Arena.",
+   "hidden": false,
+   "pct": 35.1,
+   "api_name": "YAZAWA_DUNGEON_ALL_CLEAR",
+   "internal_key": 1559
+  },
+  {
+   "name": "Fulfiller of Dreams",
+   "desc": "Completed the last dungeon in Premium Adventure.",
+   "hidden": false,
+   "pct": 9.1,
+   "api_name": "YAZAWA_DUNGEON_FINAL_MILLENNIUM",
+   "internal_key": 1560
+  },
+  {
+   "name": "Make That Money",
+   "desc": "Exceed 10 billion yen in capital for Kasuga's company.",
+   "hidden": false,
+   "pct": 19.3,
+   "api_name": "YAZAWA_JUNTAKUNA_SHIKIN",
+   "internal_key": 1561
+  },
+  {
+   "name": "New Digs!",
+   "desc": "Moved Kasuga's company into a new office.",
+   "hidden": false,
+   "pct": 43.1,
+   "api_name": "YAZAWA_OWN_BUILDING",
+   "internal_key": 1562
+  },
+  {
+   "name": "Presidential Power",
+   "desc": "Raised Kasuga's company into the top company in Yokohama.",
+   "hidden": false,
+   "pct": 37.7,
+   "api_name": "YAZAWA_MANAGEMENT_STORY_ALL_CLEAR",
+   "internal_key": 1563
+  },
+  {
+   "name": "Aggressive Executive",
+   "desc": "Bought up over 10 companies.",
+   "hidden": false,
+   "pct": 39.3,
+   "api_name": "YAZAWA_M_AND_A",
+   "internal_key": 1564
+  },
+  {
+   "name": "Man About Town",
+   "desc": "Played over 10 minigames.",
+   "hidden": false,
+   "pct": 20.7,
+   "api_name": "YAZAWA_PLAY_ALL_SPOT",
+   "internal_key": 1565
+  },
+  {
+   "name": "Certified Genius",
+   "desc": "Obtained over 10 certificates from the vocational school.",
+   "hidden": false,
+   "pct": 31.5,
+   "api_name": "YAZAWA_QUALIFICATION_A",
+   "internal_key": 1566
+  },
+  {
+   "name": "Pop the Cork",
+   "desc": "Beat all Dragon Kart cups and rival races.",
+   "hidden": false,
+   "pct": 10.2,
+   "api_name": "YAZAWA_DRAGON_CART_ALL_CLAER",
+   "internal_key": 1567
+  },
+  {
+   "name": "Can Quest Hero",
+   "desc": "Beat all the can-collecting courses.",
+   "hidden": false,
+   "pct": 33.4,
+   "api_name": "YAZAWA_HOMELESS_ALL_CLAER",
+   "internal_key": 1792
+  },
+  {
+   "name": "Sleep Sheep Slapper",
+   "desc": "Watched all the movies at the theater without falling asleep.",
+   "hidden": false,
+   "pct": 10.5,
+   "api_name": "YAZAWA_MEIGAZA_ALL_CLEAR",
+   "internal_key": 1793
+  },
+  {
+   "name": "Playing With Fire",
+   "desc": "Entered into intimate relationships with over two female characters.",
+   "hidden": false,
+   "pct": 15.2,
+   "api_name": "YAZAWA_SPRING_NA_HOUGEKI",
+   "internal_key": 1794
+  },
+  {
+   "name": "Honk-Honk Hero",
+   "desc": "Found all the people who will give you a honk-honk.",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "YAZAWA_NIGINIGI_COMPLETE",
+   "internal_key": 1795
+  },
+  {
+   "name": "Fight on the Sidewalk!",
+   "desc": "Someone got run over by a car in battle.",
+   "hidden": false,
+   "pct": 55.7,
+   "api_name": "YAZAWA_UNKNOWN_A",
+   "internal_key": 1796
+  },
+  {
+   "name": "Treasure Displeasure",
+   "desc": "A creep crawled out of a safe for the first time.",
+   "hidden": false,
+   "pct": 52.8,
+   "api_name": "YAZAWA_UNKNOWN_B",
+   "internal_key": 1797
+  },
+  {
+   "name": "Victory of the Millennium",
+   "desc": "Beat the True Final Millennium Tower.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "YAZAWA_EX_DENSETSU_HA_KURIKESU",
+   "internal_key": 1798
+  }
+ ]
+}

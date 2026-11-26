@@ -1,0 +1,106 @@
+{
+ "appid": 238320,
+ "game": "Outlast",
+ "snapshot": "2026-11-24 17:41 +08",
+ "count": 14,
+ "achievements": [
+  {
+   "api": "Achievement_0",
+   "name": "ILLUMINATED",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.5
+  },
+  {
+   "api": "Achievement_1",
+   "name": "FLUSHED",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.4
+  },
+  {
+   "api": "Achievement_2",
+   "name": "SOAKED",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.6
+  },
+  {
+   "api": "Achievement_3",
+   "name": "EMANCIPATED",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.9
+  },
+  {
+   "api": "Achievement_5",
+   "name": "PUNISHED",
+   "desc": "Finish the game",
+   "hidden": false,
+   "pct": 25.2
+  },
+  {
+   "api": "Achievement_8",
+   "name": "GAS LEAKER",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.5
+  },
+  {
+   "api": "Achievement_9",
+   "name": "SHOCKER",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.9
+  },
+  {
+   "api": "Achievement_10",
+   "name": "WHISTLEBLOWER",
+   "desc": "Finish the Whistleblower DLC",
+   "hidden": false,
+   "pct": 12.1
+  },
+  {
+   "api": "Achievement_4",
+   "name": "EDUCATED",
+   "desc": "Collect 15 documents and complete 15 recordings",
+   "hidden": false,
+   "pct": 11.8
+  },
+  {
+   "api": "Achievement_12",
+   "name": "ARCHIVIST",
+   "desc": "Collect all documents",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "Achievement_6",
+   "name": "PULITZER",
+   "desc": "Collect all documents and complete all recordings",
+   "hidden": false,
+   "pct": 3.0
+  },
+  {
+   "api": "Achievement_7",
+   "name": "LUNATIC",
+   "desc": "Finish the game in Insane mode",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "Achievement_13",
+   "name": "LEGACY",
+   "desc": "Complete all recordings",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "Achievement_11",
+   "name": "BOWELWHISTLER",
+   "desc": "Finish the DLC in Insane mode",
+   "hidden": false,
+   "pct": 2.7
+  }
+ ]
+}

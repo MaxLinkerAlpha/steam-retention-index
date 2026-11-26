@@ -1,0 +1,114 @@
+name: Ingest submitted games
+
+on:
+  issues:
+    types: [opened, labeled]
+  workflow_dispatch:
+    inputs:
+      appids:
+        description: "手动测试：要收录的 appid（逗号分隔，最多 3 个）"
+        required: false
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      contains(join(github.event.issue.labels.*.name, ','), 'add-game')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Save issue body
+        if: github.event_name == 'issues'
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: printf '%s' "$ISSUE_BODY" > /tmp/issue.md
+
+      - name: Ingest
+        id: ingest
+        env:
+          MANUAL_APPIDS: ${{ inputs.appids }}
+        run: |
+          set +e
+          if [ -f /tmp/issue.md ]; then
+            OUT=$(python scripts/ingest.py --body-file /tmp/issue.md 2>&1)
+          elif [ -n "$MANUAL_APPIDS" ]; then
+            OUT=$(python scripts/ingest.py --appids "$MANUAL_APPIDS" 2>&1)
+          else
+            OUT="RESULT=no_appid"
+          fi
+          echo "$OUT"
+          {
+            echo "out<<__EOF__"
+            echo "$OUT"
+            echo "__EOF__"
+          } >> "$GITHUB_OUTPUT"
+          echo "added=$(echo "$OUT" | sed -n 's/^ADDED=//p')" >> "$GITHUB_OUTPUT"
+
+      - name: Commit data
+        if: steps.ingest.outputs.added != ''
+        run: |
+          git config user.name "retention-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data index.html
+          git commit -m "ingest: ${{ steps.ingest.outputs.added }} [skip ci]" || echo "nothing to commit"
+          git push
+
+      - name: Rebuild page
+        run: |
+          python scripts/build_pages.py
+          mkdir -p _site
+          cp index.html _site/
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Comment result
+        if: github.event_name == 'issues'
+        uses: actions/github-script@v7
+        env:
+          RESULT: ${{ steps.ingest.outputs.out }}
+        with:
+          script: |
+            const out = process.env.RESULT || '';
+            const pick = (k) => (out.split('\n').find(l => l.startsWith(k + '=')) || '').slice(k.length + 1);
+            const body = [
+              '### 处理结果',
+              '- 已收录：' + (pick('ADDED') || '无'),
+              pick('SKIPPED') ? '- 跳过：' + pick('SKIPPED') : '',
+              pick('REJECTED') ? '- 退回：' + pick('REJECTED') : '',
+              pick('QUOTA') ? '- 今日配额：' + pick('QUOTA') : '',
+              '',
+              '新作品通常几分钟内出现在页面上。抓取间隔 ≥ 8 秒，全站每天最多 10 个，只做低频率的研究性读取。'
+            ].filter(Boolean).join('\n');
+            await github.rest.issues.createComment({
+              owner: context.repo.owner, repo: context.repo.repo,
+              issue_number: context.issue.number, body
+            });
+
+  deploy:
+    needs: ingest
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

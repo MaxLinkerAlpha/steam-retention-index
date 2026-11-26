@@ -1,0 +1,232 @@
+{
+ "appid": 504230,
+ "game": "Celeste",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 32,
+ "achievements": [
+  {
+   "api": "CH1",
+   "name": "Forsaken",
+   "desc": "",
+   "hidden": true,
+   "pct": 70.8
+  },
+  {
+   "api": "CASS",
+   "name": "Gateway",
+   "desc": "",
+   "hidden": true,
+   "pct": 62.2
+  },
+  {
+   "api": "CH2",
+   "name": "Archaeology",
+   "desc": "",
+   "hidden": true,
+   "pct": 61.7
+  },
+  {
+   "api": "CH3",
+   "name": "Checking Out",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.6
+  },
+  {
+   "api": "STRB1",
+   "name": "Strawberry Badge",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.8
+  },
+  {
+   "api": "CH4",
+   "name": "Breathe",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.1
+  },
+  {
+   "api": "CH5",
+   "name": "In the Mirror",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.6
+  },
+  {
+   "api": "CH6",
+   "name": "Reflection",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.7
+  },
+  {
+   "api": "CH7",
+   "name": "Celeste",
+   "desc": "Climb Celeste Mountain",
+   "hidden": false,
+   "pct": 34.7
+  },
+  {
+   "api": "HEART1",
+   "name": "Pointless Machines",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.4
+  },
+  {
+   "api": "STRB2",
+   "name": "Strawberry Medal",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.9
+  },
+  {
+   "api": "HEART2",
+   "name": "Resurrections",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.8
+  },
+  {
+   "api": "HEART4",
+   "name": "Eye of the Storm",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.3
+  },
+  {
+   "api": "HEART3",
+   "name": "Scattered and Lost",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.5
+  },
+  {
+   "api": "BSIDE2",
+   "name": "Black Moonrise",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.2
+  },
+  {
+   "api": "BSIDE1",
+   "name": "Sever the Skyline",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.6
+  },
+  {
+   "api": "HEART6",
+   "name": "Heavy and Frail",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.3
+  },
+  {
+   "api": "HEART8",
+   "name": "Heart of the Mountain",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.2
+  },
+  {
+   "api": "BSIDE3",
+   "name": "Good Karma",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.5
+  },
+  {
+   "api": "HEART5",
+   "name": "Quiet and Falling",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.2
+  },
+  {
+   "api": "PICO8",
+   "name": "Real Gamer",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.8
+  },
+  {
+   "api": "BSIDE4",
+   "name": "Golden Feather",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.2
+  },
+  {
+   "api": "HEART7",
+   "name": "Pink Sunrise",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.8
+  },
+  {
+   "api": "BSIDE5",
+   "name": "Mirror Magic",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.4
+  },
+  {
+   "api": "BSIDE6",
+   "name": "Center of the Earth",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.3
+  },
+  {
+   "api": "BSIDE7",
+   "name": "No More Running",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.8
+  },
+  {
+   "api": "BSIDE8",
+   "name": "Say Goodbye",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.5
+  },
+  {
+   "api": "STRB3",
+   "name": "Impress Your Friends",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.5
+  },
+  {
+   "api": "FAREWELL",
+   "name": "Farewell",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.9
+  },
+  {
+   "api": "ONEUP",
+   "name": "1UP!",
+   "desc": "Get a 1UP",
+   "hidden": false,
+   "pct": 8.3
+  },
+  {
+   "api": "CSIDES",
+   "name": "Thanks For Playing",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.2
+  },
+  {
+   "api": "WOW",
+   "name": "Wow",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.7
+  }
+ ]
+}

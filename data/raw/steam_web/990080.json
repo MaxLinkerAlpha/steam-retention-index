@@ -1,0 +1,369 @@
+{
+ "appid": 990080,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 45,
+ "achievements": [
+  {
+   "name": "The Sort Who Makes an Entrance",
+   "desc": "Complete the introduction and finish the Sorting Ceremony",
+   "hidden": true,
+   "pct": 92.1,
+   "api_name": "PFA_1",
+   "internal_key": 256
+  },
+  {
+   "name": "The Toast of the Town",
+   "desc": "Find the Map Chamber as a Slytherin",
+   "hidden": true,
+   "pct": 22.9,
+   "api_name": "PFA_2",
+   "internal_key": 257
+  },
+  {
+   "name": "The Auror's Apprentice",
+   "desc": "Find the Map Chamber as a Hufflepuff",
+   "hidden": true,
+   "pct": 12.2,
+   "api_name": "PFA_3",
+   "internal_key": 258
+  },
+  {
+   "name": "The Gryffindor in the Graveyard",
+   "desc": "Find the Map Chamber as a Gryffindor",
+   "hidden": true,
+   "pct": 19.5,
+   "api_name": "PFA_4",
+   "internal_key": 259
+  },
+  {
+   "name": "The Wise Owl",
+   "desc": "Find the Map Chamber as a Ravenclaw",
+   "hidden": true,
+   "pct": 20.4,
+   "api_name": "PFA_5",
+   "internal_key": 260
+  },
+  {
+   "name": "First Class Student",
+   "desc": "Attend your first class",
+   "hidden": true,
+   "pct": 84.2,
+   "api_name": "PFA_6",
+   "internal_key": 261
+  },
+  {
+   "name": "Troll with the Punches",
+   "desc": "Survive the troll attack on Hogsmeade",
+   "hidden": true,
+   "pct": 76.6,
+   "api_name": "PFA_7",
+   "internal_key": 262
+  },
+  {
+   "name": "That's a Keeper",
+   "desc": "Meet Charles Rookwood in the Map Chamber",
+   "hidden": true,
+   "pct": 54.6,
+   "api_name": "PFA_8",
+   "internal_key": 263
+  },
+  {
+   "name": "Rising From the Ashes",
+   "desc": "Rescue the phoenix",
+   "hidden": true,
+   "pct": 24.5,
+   "api_name": "PFA_9",
+   "internal_key": 264
+  },
+  {
+   "name": "Grappling with a Graphorn",
+   "desc": "Subdue the Lord of the Shore",
+   "hidden": true,
+   "pct": 27.3,
+   "api_name": "PFA_10",
+   "internal_key": 265
+  },
+  {
+   "name": "The One Who Mastered Memories",
+   "desc": "View all Pensieve memories",
+   "hidden": true,
+   "pct": 27.4,
+   "api_name": "PFA_11",
+   "internal_key": 266
+  },
+  {
+   "name": "The Hallowed Hero",
+   "desc": "Wield a Deathly Hallow",
+   "hidden": true,
+   "pct": 31.2,
+   "api_name": "PFA_12",
+   "internal_key": 267
+  },
+  {
+   "name": "The Hero of Hogwarts",
+   "desc": "Defeat Ranrok",
+   "hidden": true,
+   "pct": 25.8,
+   "api_name": "PFA_13",
+   "internal_key": 268
+  },
+  {
+   "name": "The Seeker of Knowledge",
+   "desc": "Win the House Cup",
+   "hidden": true,
+   "pct": 14.6,
+   "api_name": "PFA_14",
+   "internal_key": 269
+  },
+  {
+   "name": "The Avenging Gazelle",
+   "desc": "Complete Natsai Onai's relationship line",
+   "hidden": true,
+   "pct": 19.0,
+   "api_name": "PFA_15",
+   "internal_key": 270
+  },
+  {
+   "name": "The Defender of Dragons",
+   "desc": "Save a dragon",
+   "hidden": true,
+   "pct": 36.7,
+   "api_name": "PFA_16",
+   "internal_key": 271
+  },
+  {
+   "name": "Beast Friends",
+   "desc": "Complete Poppy Sweeting's relationship line",
+   "hidden": true,
+   "pct": 18.4,
+   "api_name": "PFA_17",
+   "internal_key": 272
+  },
+  {
+   "name": "A Sallow Grave",
+   "desc": "Complete Sebastian Sallow's relationship line",
+   "hidden": true,
+   "pct": 20.4,
+   "api_name": "PFA_18",
+   "internal_key": 273
+  },
+  {
+   "name": "Flight the Good Flight",
+   "desc": "Beat Imelda's time in all broom races",
+   "hidden": true,
+   "pct": 22.5,
+   "api_name": "PFA_19",
+   "internal_key": 274
+  },
+  {
+   "name": "The Good Samaritan",
+   "desc": "Complete all side quests",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "PFA_20",
+   "internal_key": 275
+  },
+  {
+   "name": "Challenge Accepted",
+   "desc": "Complete all tiers of a challenge",
+   "hidden": false,
+   "pct": 38.3,
+   "api_name": "PFA_21",
+   "internal_key": 276
+  },
+  {
+   "name": "Collector's Edition",
+   "desc": "Complete all collections",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "PFA_22",
+   "internal_key": 277
+  },
+  {
+   "name": "A Keen Sense of Spell",
+   "desc": "Invoke Ancient Magic for the first time",
+   "hidden": true,
+   "pct": 71.0,
+   "api_name": "PFA_23",
+   "internal_key": 278
+  },
+  {
+   "name": "Loom for Improvement",
+   "desc": "Upgrade a piece of gear",
+   "hidden": false,
+   "pct": 46.0,
+   "api_name": "PFA_24",
+   "internal_key": 279
+  },
+  {
+   "name": "The Root of the Problem",
+   "desc": "Stun 10 different enemies using a Mandrake",
+   "hidden": false,
+   "pct": 21.7,
+   "api_name": "PFA_25",
+   "internal_key": 280
+  },
+  {
+   "name": "The Nature of the Beast",
+   "desc": "Breed every type of beast",
+   "hidden": false,
+   "pct": 3.6,
+   "api_name": "PFA_26",
+   "internal_key": 281
+  },
+  {
+   "name": "Going Through the Potions",
+   "desc": "Brew every type of potion",
+   "hidden": false,
+   "pct": 17.6,
+   "api_name": "PFA_27",
+   "internal_key": 282
+  },
+  {
+   "name": "Put Down Roots",
+   "desc": "Grow every type of plant",
+   "hidden": false,
+   "pct": 13.9,
+   "api_name": "PFA_28",
+   "internal_key": 283
+  },
+  {
+   "name": "Third Time's a Charm",
+   "desc": "Upgrade a piece of gear 3 times",
+   "hidden": false,
+   "pct": 19.3,
+   "api_name": "PFA_29",
+   "internal_key": 284
+  },
+  {
+   "name": "A Talent for Spending",
+   "desc": "Spend 5 Talent Points",
+   "hidden": false,
+   "pct": 60.4,
+   "api_name": "PFA_30",
+   "internal_key": 285
+  },
+  {
+   "name": "Savvy Spender",
+   "desc": "Spend all Talent Points",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "PFA_31",
+   "internal_key": 286
+  },
+  {
+   "name": "Room with a View",
+   "desc": "Reach the highest point in the castle, the Headmaster's upper study",
+   "hidden": false,
+   "pct": 12.6,
+   "api_name": "PFA_32",
+   "internal_key": 287
+  },
+  {
+   "name": "Spilled Milk",
+   "desc": "Use Flipendo ten times – to tip one cow or several",
+   "hidden": false,
+   "pct": 6.7,
+   "api_name": "PFA_33",
+   "internal_key": 512
+  },
+  {
+   "name": "Floo Around the World",
+   "desc": "Unlock all Floo Flames",
+   "hidden": false,
+   "pct": 9.6,
+   "api_name": "PFA_34",
+   "internal_key": 513
+  },
+  {
+   "name": "Followed the Butterflies",
+   "desc": "Follow butterflies to a treasure",
+   "hidden": false,
+   "pct": 45.0,
+   "api_name": "PFA_35",
+   "internal_key": 514
+  },
+  {
+   "name": "Rise to the Challenges",
+   "desc": "Defeat enemies in all battle arenas",
+   "hidden": false,
+   "pct": 7.1,
+   "api_name": "PFA_36",
+   "internal_key": 515
+  },
+  {
+   "name": "Merlin's Beard!",
+   "desc": "Complete all Merlin Trials",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "PFA_37",
+   "internal_key": 516
+  },
+  {
+   "name": "The Intrepid Explorer",
+   "desc": "Discover all cairn dungeons",
+   "hidden": false,
+   "pct": 10.4,
+   "api_name": "PFA_38",
+   "internal_key": 517
+  },
+  {
+   "name": "Coasting Along",
+   "desc": "Visit Poidsear Coast",
+   "hidden": true,
+   "pct": 33.0,
+   "api_name": "PFA_39",
+   "internal_key": 518
+  },
+  {
+   "name": "Demiguise Dread",
+   "desc": "Find all Demiguise statues",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "PFA_40",
+   "internal_key": 519
+  },
+  {
+   "name": "The Ends Petrify the Means",
+   "desc": "Defeat a total of fifty enemies using Petrificus Totalus",
+   "hidden": false,
+   "pct": 18.3,
+   "api_name": "PFA_41",
+   "internal_key": 520
+  },
+  {
+   "name": "Raising Expectations",
+   "desc": "Reach a combo of 100",
+   "hidden": false,
+   "pct": 26.3,
+   "api_name": "PFA_42",
+   "internal_key": 521
+  },
+  {
+   "name": "Finishing Touches",
+   "desc": "Use Ancient Magic on every enemy in the game",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "PFA_43",
+   "internal_key": 522
+  },
+  {
+   "name": "The Spell Master",
+   "desc": "Learn all spells",
+   "hidden": false,
+   "pct": 31.9,
+   "api_name": "PFA_44",
+   "internal_key": 523
+  },
+  {
+   "name": "A Forte for Achievement",
+   "desc": "Reach Level 40",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "PFA_45",
+   "internal_key": 524
+  }
+ ]
+}

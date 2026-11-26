@@ -1,0 +1,358 @@
+{
+ "appid": 261570,
+ "game": "Ori and the Blind Forest",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 50,
+ "achievements": [
+  {
+   "api": "findSecret",
+   "name": "So Many Secrets",
+   "desc": "Find your first secret",
+   "hidden": false,
+   "pct": 81.4
+  },
+  {
+   "api": "activateFirstSkill",
+   "name": "Choices Choices",
+   "desc": "Use your first ability point",
+   "hidden": false,
+   "pct": 77.2
+  },
+  {
+   "api": "completePrologue",
+   "name": "The Journey Begins",
+   "desc": "Complete the Prologue",
+   "hidden": false,
+   "pct": 70.5
+  },
+  {
+   "api": "findMapStone",
+   "name": "Marking the way",
+   "desc": "Restore your first Map Stone",
+   "hidden": false,
+   "pct": 68.5
+  },
+  {
+   "api": "reachSpiritTree",
+   "name": "The Ancient Being ",
+   "desc": "Meet the Ancient Being",
+   "hidden": false,
+   "pct": 63.6
+  },
+  {
+   "api": "meetGumo",
+   "name": "Get Back Here!",
+   "desc": "Discover the character in the shadows",
+   "hidden": false,
+   "pct": 50.9
+  },
+  {
+   "api": "openShortcutsWithChargeFlame",
+   "name": "A New Path",
+   "desc": "Break open 5 shortcuts using the Charge Flame",
+   "hidden": false,
+   "pct": 50.9
+  },
+  {
+   "api": "killEnemiesWithoutTouchingGround",
+   "name": "Flying Fury",
+   "desc": "Kill 3 enemies without touching the ground",
+   "hidden": false,
+   "pct": 49.8
+  },
+  {
+   "api": "trickEnemyIntoKillingItself",
+   "name": "Self Destruction",
+   "desc": "Cause an enemy to destroy itself",
+   "hidden": false,
+   "pct": 45.5
+  },
+  {
+   "api": "retrieveWaterVein",
+   "name": "Let's be Friends",
+   "desc": "Make an unexpected friend",
+   "hidden": false,
+   "pct": 44.3
+  },
+  {
+   "api": "enterGinsoTree",
+   "name": "Rotten Inside",
+   "desc": "Enter the Ginso Tree",
+   "hidden": false,
+   "pct": 43.2
+  },
+  {
+   "api": "findHalfOfMapStones",
+   "name": "Halfway There",
+   "desc": "Restore 50% of all Map Stones",
+   "hidden": false,
+   "pct": 40.8
+  },
+  {
+   "api": "ressurectedGinsoHeart",
+   "name": "Run for Your Life",
+   "desc": "Cleanse the Ginso Tree's Heart",
+   "hidden": false,
+   "pct": 40.3
+  },
+  {
+   "api": "escapeGinsoTree",
+   "name": "Close Call",
+   "desc": "Escape a dangerous situation  ",
+   "hidden": false,
+   "pct": 39.0
+  },
+  {
+   "api": "createLotsOfSoulLinks",
+   "name": "Life Saver",
+   "desc": "Create 50 Soul Links",
+   "hidden": false,
+   "pct": 38.8
+  },
+  {
+   "api": "killManyWithChargeFlame",
+   "name": "Deadly Detonation",
+   "desc": "Kill 4 enemies simultaneously using Charge Flame.",
+   "hidden": false,
+   "pct": 37.4
+  },
+  {
+   "api": "killManyWithBashRedirect",
+   "name": "Deadly Deflection",
+   "desc": "Kill 25 enemies using Bash to reflect projectiles",
+   "hidden": false,
+   "pct": 34.1
+  },
+  {
+   "api": "trickEnemiesToKillEachOther",
+   "name": "Deadly Dodge",
+   "desc": "Trick 5 enemies into killing another enemy",
+   "hidden": false,
+   "pct": 33.9
+  },
+  {
+   "api": "clearMistyWoods",
+   "name": "Obtaining Clarity",
+   "desc": "Clear the haze from the Misty Woods",
+   "hidden": false,
+   "pct": 33.5
+  },
+  {
+   "api": "crushRamWithStomper",
+   "name": "Crushing Blow",
+   "desc": "Crush a Ram with a Stomper",
+   "hidden": false,
+   "pct": 33.4
+  },
+  {
+   "api": "restoreWind",
+   "name": "Solid Ground",
+   "desc": "Restore the winds of Nibel",
+   "hidden": false,
+   "pct": 31.2
+  },
+  {
+   "api": "escapedKuro",
+   "name": "Fight to Live Another Day",
+   "desc": "Have a close encounter",
+   "hidden": false,
+   "pct": 30.4
+  },
+  {
+   "api": "collectLotsOfEnergy",
+   "name": "Power Player",
+   "desc": "Collect 200 Energy Shards",
+   "hidden": false,
+   "pct": 29.2
+  },
+  {
+   "api": "recoverSunstone",
+   "name": "Top of the world",
+   "desc": "Climb to the top of Nibel",
+   "hidden": false,
+   "pct": 29.0
+  },
+  {
+   "api": "enterMountHoru",
+   "name": "Into the Fire",
+   "desc": "Enter Mt. Horu",
+   "hidden": false,
+   "pct": 28.5
+  },
+  {
+   "api": "restoreFire",
+   "name": "Rekindle",
+   "desc": "Fan the flames",
+   "hidden": false,
+   "pct": 27.4
+  },
+  {
+   "api": "doubleJumpConsecutively",
+   "name": "Airborne",
+   "desc": "Double Jump 5 times consecutively without touching the ground",
+   "hidden": false,
+   "pct": 27.4
+  },
+  {
+   "api": "naruReunion",
+   "name": "Love",
+   "desc": "A beloved bond",
+   "hidden": false,
+   "pct": 26.6
+  },
+  {
+   "api": "completeGame",
+   "name": "The Journey Ends",
+   "desc": "Complete the game",
+   "hidden": false,
+   "pct": 26.4
+  },
+  {
+   "api": "killFiveHundredEnemiesWithSpiritFlame",
+   "name": "Flame Master",
+   "desc": "Kill 500 enemies with Spirit Flame",
+   "hidden": false,
+   "pct": 25.4
+  },
+  {
+   "api": "useEverySavePedestal",
+   "name": "Safe and Sound",
+   "desc": "Save at every Spirit Portal ",
+   "hidden": false,
+   "pct": 24.2
+  },
+  {
+   "api": "findHalfOfSecrets",
+   "name": "Seasoned Explorer",
+   "desc": "Find 50% of all secrets",
+   "hidden": false,
+   "pct": 23.0
+  },
+  {
+   "api": "collectBranchOneSkills",
+   "name": "Soul Master",
+   "desc": "Earn all Efficiency Skills in the Ability Tree",
+   "hidden": false,
+   "pct": 23.0
+  },
+  {
+   "api": "killFiftyEnemiesWithStomp",
+   "name": "Stomp Master",
+   "desc": "Kill 50 enemies with Stomp",
+   "hidden": false,
+   "pct": 19.8
+  },
+  {
+   "api": "findAllMapStones",
+   "name": "World at Your Feet",
+   "desc": "Restore all Map Stones",
+   "hidden": false,
+   "pct": 16.8
+  },
+  {
+   "api": "findLostCorridor",
+   "name": "Good Eye",
+   "desc": "Find the lost corridor in the Misty Woods",
+   "hidden": false,
+   "pct": 16.5
+  },
+  {
+   "api": "killAHundredEnemiesWithChargeFlame",
+   "name": "Blast Master",
+   "desc": "Kill 100 enemies with Charge Flame",
+   "hidden": false,
+   "pct": 16.3
+  },
+  {
+   "api": "collectBranchTwoSkills",
+   "name": "Utility Master",
+   "desc": "Earn all Utility Skills in the Ability Tree",
+   "hidden": false,
+   "pct": 15.9
+  },
+  {
+   "api": "collectBranchThreeSkills",
+   "name": "Combat Master",
+   "desc": "Earn all Combat Skills in the Ability Tree",
+   "hidden": false,
+   "pct": 14.0
+  },
+  {
+   "api": "juggleRock",
+   "name": "Juggle Master",
+   "desc": "Juggle a rock 5 times without it hitting the ground",
+   "hidden": false,
+   "pct": 11.3
+  },
+  {
+   "api": "collectAllSkills",
+   "name": "Phenom",
+   "desc": "Earn all skills in the Ability Tree",
+   "hidden": false,
+   "pct": 7.6
+  },
+  {
+   "api": "collectAllHealthCells",
+   "name": "Master Guardian",
+   "desc": "Collect all Health Cells",
+   "hidden": false,
+   "pct": 7.2
+  },
+  {
+   "api": "chargeJumpIntoManyEnemies",
+   "name": "Deadly Dash",
+   "desc": "Kill 5 enemies with Charge Jump",
+   "hidden": false,
+   "pct": 5.3
+  },
+  {
+   "api": "collectAllEnergyCells",
+   "name": "Powerhouse ",
+   "desc": "Collect all Energy Cells",
+   "hidden": false,
+   "pct": 5.2
+  },
+  {
+   "api": "bashEnemyALotInARow",
+   "name": "Bash Master",
+   "desc": "Bash off enemies 10 times in a row without touching the ground",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "discoverAllMap",
+   "name": "Master of the Forest ",
+   "desc": "Visit 100% of the map",
+   "hidden": false,
+   "pct": 3.5
+  },
+  {
+   "api": "findAllSecrets",
+   "name": "No Stone Unturned",
+   "desc": "Find all secrets",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "finishWholeGameFast",
+   "name": "Supersonic ",
+   "desc": "Finish the game in under 3 hours",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "completeGameWithoutUsingAbilityPoint",
+   "name": "Elite",
+   "desc": "Complete the whole game without using an Ability Point",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "completeGameWithoutDying",
+   "name": "Immortal",
+   "desc": "Complete whole game without dying",
+   "hidden": false,
+   "pct": 1.7
+  }
+ ]
+}

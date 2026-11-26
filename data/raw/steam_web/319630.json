@@ -1,0 +1,489 @@
+{
+ "appid": 319630,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 60,
+ "achievements": [
+  {
+   "name": "Chrysalis",
+   "desc": "Finish Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 49.9,
+   "api_name": "AC_1",
+   "internal_key": 256
+  },
+  {
+   "name": "Macro Eyes",
+   "desc": "Take optional photo #1 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 67.7,
+   "api_name": "AC_2",
+   "internal_key": 257
+  },
+  {
+   "name": "Wide Angles",
+   "desc": "Take optional photo #2 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 14.2,
+   "api_name": "AC_3",
+   "internal_key": 258
+  },
+  {
+   "name": "Telephotogenic",
+   "desc": "Take optional photo #3 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 21.9,
+   "api_name": "AC_4",
+   "internal_key": 259
+  },
+  {
+   "name": "Close-Ups",
+   "desc": "Take optional photo #4 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 13.9,
+   "api_name": "AC_5",
+   "internal_key": 260
+  },
+  {
+   "name": "Red Eye",
+   "desc": "Take optional photo #5 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 41.8,
+   "api_name": "AC_6",
+   "internal_key": 261
+  },
+  {
+   "name": "Focused",
+   "desc": "Take optional photo #6 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 16.8,
+   "api_name": "AC_7",
+   "internal_key": 262
+  },
+  {
+   "name": "Zoomed In",
+   "desc": "Take optional photo #7 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 14.6,
+   "api_name": "AC_8",
+   "internal_key": 263
+  },
+  {
+   "name": "Focal Pointed",
+   "desc": "Take optional photo #8 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 14.3,
+   "api_name": "AC_9",
+   "internal_key": 264
+  },
+  {
+   "name": "Maximum Aperture",
+   "desc": "Take optional photo #9 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 13.2,
+   "api_name": "AC_10",
+   "internal_key": 265
+  },
+  {
+   "name": "Light Leak",
+   "desc": "Take optional photo #10 in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 21.9,
+   "api_name": "AC_11",
+   "internal_key": 266
+  },
+  {
+   "name": "Visionary",
+   "desc": "Take all optional photos in Episode 1: Chrysalis",
+   "hidden": false,
+   "pct": 7.9,
+   "api_name": "AC_12",
+   "internal_key": 267
+  },
+  {
+   "name": "Out of Time",
+   "desc": "Finish Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 30.0,
+   "api_name": "AC_13",
+   "internal_key": 268
+  },
+  {
+   "name": "Field Of View",
+   "desc": "Take optional photo #1 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 27.1,
+   "api_name": "AC_14",
+   "internal_key": 269
+  },
+  {
+   "name": "Full Exposure",
+   "desc": "Take optional photo #2 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 14.9,
+   "api_name": "AC_15",
+   "internal_key": 270
+  },
+  {
+   "name": "Processor",
+   "desc": "Take optional photo #3 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 11.1,
+   "api_name": "AC_16",
+   "internal_key": 271
+  },
+  {
+   "name": "Image Stabilizer",
+   "desc": "Take optional photo #4 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 14.5,
+   "api_name": "AC_17",
+   "internal_key": 272
+  },
+  {
+   "name": "Compressed",
+   "desc": "Take optional photo #5 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 20.9,
+   "api_name": "AC_18",
+   "internal_key": 273
+  },
+  {
+   "name": "Pixelated",
+   "desc": "Take optional photo #6 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 14.4,
+   "api_name": "AC_19",
+   "internal_key": 274
+  },
+  {
+   "name": "Dynamic Range",
+   "desc": "Take optional photo #7 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 29.4,
+   "api_name": "AC_20",
+   "internal_key": 275
+  },
+  {
+   "name": "Colorized",
+   "desc": "Take optional photo #8 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 18.6,
+   "api_name": "AC_21",
+   "internal_key": 276
+  },
+  {
+   "name": "Meter Made",
+   "desc": "Take optional photo #9 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 15.4,
+   "api_name": "AC_22",
+   "internal_key": 277
+  },
+  {
+   "name": "Resolution Revolution",
+   "desc": "Take optional photo #10 in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 24.0,
+   "api_name": "AC_23",
+   "internal_key": 278
+  },
+  {
+   "name": "Lab Master",
+   "desc": "Take all optional photos in Episode 2: Out of Time",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "AC_24",
+   "internal_key": 279
+  },
+  {
+   "name": "Chaos Theory",
+   "desc": "Finish Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 26.9,
+   "api_name": "AC_25",
+   "internal_key": 280
+  },
+  {
+   "name": "Parallax View",
+   "desc": "Take optional photo #1 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 7.1,
+   "api_name": "AC_26",
+   "internal_key": 281
+  },
+  {
+   "name": "Lenscrafted",
+   "desc": "Take optional photo #2 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 9.3,
+   "api_name": "AC_27",
+   "internal_key": 282
+  },
+  {
+   "name": "The Reflex",
+   "desc": "Take optional photo #3 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 20.9,
+   "api_name": "Ac_28",
+   "internal_key": 283
+  },
+  {
+   "name": "Histogrammar",
+   "desc": "Take optional photo #4 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 20.9,
+   "api_name": "AC_29",
+   "internal_key": 284
+  },
+  {
+   "name": "Bokeh",
+   "desc": "Take optional photo #5 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 10.1,
+   "api_name": "AC_30",
+   "internal_key": 285
+  },
+  {
+   "name": "Pinholed",
+   "desc": "Take optional photo #6 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 18.7,
+   "api_name": "AC_31",
+   "internal_key": 286
+  },
+  {
+   "name": "RAW Strength",
+   "desc": "Take optional photo #7 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 8.3,
+   "api_name": "AC_32",
+   "internal_key": 287
+  },
+  {
+   "name": "Viewfinder",
+   "desc": "Take optional photo #8 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 10.8,
+   "api_name": "AC_33",
+   "internal_key": 512
+  },
+  {
+   "name": "Optican",
+   "desc": "Take optional photo #9 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 12.4,
+   "api_name": "AC_34",
+   "internal_key": 513
+  },
+  {
+   "name": "Flash!",
+   "desc": "Take optional photo #10 in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 20.3,
+   "api_name": "AC_35",
+   "internal_key": 514
+  },
+  {
+   "name": "Camera Eye",
+   "desc": "Take all optional photos in Episode 3: Chaos Theory",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "AC_36",
+   "internal_key": 515
+  },
+  {
+   "name": "Dark Room",
+   "desc": "Finish Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 24.5,
+   "api_name": "AC_37",
+   "internal_key": 516
+  },
+  {
+   "name": "Ambient",
+   "desc": "Take optional photo #1 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 16.2,
+   "api_name": "AC_38",
+   "internal_key": 517
+  },
+  {
+   "name": "Time-Lapsed",
+   "desc": "Take optional photo #2 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "AC_39",
+   "internal_key": 518
+  },
+  {
+   "name": "Balance",
+   "desc": "Take optional photo #3 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "AC_40",
+   "internal_key": 519
+  },
+  {
+   "name": "Rangefinder",
+   "desc": "Take optional photo #4 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 12.5,
+   "api_name": "AC_41",
+   "internal_key": 520
+  },
+  {
+   "name": "Gamma Value",
+   "desc": "Take optional photo #5 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 7.9,
+   "api_name": "AC_42",
+   "internal_key": 521
+  },
+  {
+   "name": "Dioptric Power",
+   "desc": "Take optional photo #6 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 13.9,
+   "api_name": "AC_43",
+   "internal_key": 522
+  },
+  {
+   "name": "Fisheye",
+   "desc": "Take optional photo #7 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 12.3,
+   "api_name": "AC_44",
+   "internal_key": 523
+  },
+  {
+   "name": "Manually Exposed",
+   "desc": "Take optional photo #8 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 22.6,
+   "api_name": "AC_45",
+   "internal_key": 524
+  },
+  {
+   "name": "Slideshow",
+   "desc": "Take optional photo #9 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 9.3,
+   "api_name": "AC_46",
+   "internal_key": 525
+  },
+  {
+   "name": "Tripod",
+   "desc": "Take optional photo #10 in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "AC_47",
+   "internal_key": 526
+  },
+  {
+   "name": "Shutterbug",
+   "desc": "Take all optional photos in Episode 4: Dark Room",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "AC_48",
+   "internal_key": 527
+  },
+  {
+   "name": "Polarized",
+   "desc": "Finish Episode 5: Polarized",
+   "hidden": false,
+   "pct": 23.3,
+   "api_name": "AC_49",
+   "internal_key": 528
+  },
+  {
+   "name": "Incandescent",
+   "desc": "Take optional photo #1 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 8.5,
+   "api_name": "AC_50",
+   "internal_key": 529
+  },
+  {
+   "name": "Night Vision",
+   "desc": "Take optional photo #2 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 10.4,
+   "api_name": "AC_51",
+   "internal_key": 530
+  },
+  {
+   "name": "Framed",
+   "desc": "Take optional photo #3 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 20.4,
+   "api_name": "AC_52",
+   "internal_key": 531
+  },
+  {
+   "name": "Camera Obscura",
+   "desc": "Take optional photo #4 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "AC_53",
+   "internal_key": 532
+  },
+  {
+   "name": "Blowup",
+   "desc": "Take optional photo #5 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 8.8,
+   "api_name": "AC_54",
+   "internal_key": 533
+  },
+  {
+   "name": "Iris",
+   "desc": "Take optional photo #6 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "AC_55",
+   "internal_key": 534
+  },
+  {
+   "name": "Sensor",
+   "desc": "Take optional photo #7 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 11.8,
+   "api_name": "AC_56",
+   "internal_key": 535
+  },
+  {
+   "name": "On Display",
+   "desc": "Take optional photo #8 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "AC_57",
+   "internal_key": 536
+  },
+  {
+   "name": "Light Meter",
+   "desc": "Take optional photo #9 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "AC_58",
+   "internal_key": 537
+  },
+  {
+   "name": "Silhouettes",
+   "desc": "Take optional photo #10 in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 11.0,
+   "api_name": "AC_59",
+   "internal_key": 538
+  },
+  {
+   "name": "Selfie Awareness",
+   "desc": "Take all optional photos in Episode 5: Polarized",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "AC_60",
+   "internal_key": 539
+  }
+ ]
+}

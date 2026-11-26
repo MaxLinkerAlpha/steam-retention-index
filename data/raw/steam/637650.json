@@ -1,0 +1,687 @@
+{
+ "appid": 637650,
+ "game": "FINAL FANTASY XV WINDOWS EDITION",
+ "snapshot": "2026-11-26 18:24 +08",
+ "count": 97,
+ "achievements": [
+  {
+   "api": "ACH_1",
+   "name": "Insomnia's Waking Nightmare",
+   "desc": "",
+   "hidden": true,
+   "pct": 91.9
+  },
+  {
+   "api": "ACH_35",
+   "name": "Blind Spot",
+   "desc": "Performed first blindside link.",
+   "hidden": false,
+   "pct": 85.6
+  },
+  {
+   "api": "ACH_33",
+   "name": "Just Hangin' Around",
+   "desc": "Performed first point-warp suspension.",
+   "hidden": false,
+   "pct": 81.9
+  },
+  {
+   "api": "ACH_34",
+   "name": "Brother-in-Arms",
+   "desc": "Issued first ally command.",
+   "hidden": false,
+   "pct": 81.3
+  },
+  {
+   "api": "ACH_22",
+   "name": "New Power",
+   "desc": "Learned first ability.",
+   "hidden": false,
+   "pct": 79.5
+  },
+  {
+   "api": "ACH_20",
+   "name": "Quadruple Threat",
+   "desc": "Equipped four weapon slots.",
+   "hidden": false,
+   "pct": 76.1
+  },
+  {
+   "api": "ACH_17",
+   "name": "Learner's Permit",
+   "desc": "Drove the Regalia.",
+   "hidden": false,
+   "pct": 75.4
+  },
+  {
+   "api": "ACH_36",
+   "name": "Noct You Like a Hurricane",
+   "desc": "Initiated first link-strike after parrying an attack.",
+   "hidden": false,
+   "pct": 75.3
+  },
+  {
+   "api": "ACH_27",
+   "name": "Photo Rookie",
+   "desc": "Improved photography level for the first time.",
+   "hidden": false,
+   "pct": 74.7
+  },
+  {
+   "api": "ACH_26",
+   "name": "Survival Rookie",
+   "desc": "Improved survival level for the first time.",
+   "hidden": false,
+   "pct": 69.6
+  },
+  {
+   "api": "ACH_49",
+   "name": "My First Hunt",
+   "desc": "Completed first hunt.",
+   "hidden": false,
+   "pct": 69.3
+  },
+  {
+   "api": "ACH_43",
+   "name": "Spinning a Yarn I",
+   "desc": "Completed first sidequest.",
+   "hidden": false,
+   "pct": 69.0
+  },
+  {
+   "api": "ACH_2",
+   "name": "Departure",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.5
+  },
+  {
+   "api": "ACH_39",
+   "name": "Black Mage",
+   "desc": "Used magic for the first time.",
+   "hidden": false,
+   "pct": 62.0
+  },
+  {
+   "api": "ACH_38",
+   "name": "Magical Worker",
+   "desc": "Crafted a spell for the first time.",
+   "hidden": false,
+   "pct": 60.0
+  },
+  {
+   "api": "ACH_3",
+   "name": "No Turning Back",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.7
+  },
+  {
+   "api": "ACH_44",
+   "name": "Spinning a Yarn II",
+   "desc": "Completed 5 sidequests.",
+   "hidden": false,
+   "pct": 54.1
+  },
+  {
+   "api": "ACH_28",
+   "name": "Cooking Rookie",
+   "desc": "Improved cooking level for the first time.",
+   "hidden": false,
+   "pct": 53.3
+  },
+  {
+   "api": "ACH_23",
+   "name": "Self-Improved",
+   "desc": "Activated 20 ability nodes.",
+   "hidden": false,
+   "pct": 50.8
+  },
+  {
+   "api": "ACH_18",
+   "name": "Chocobo Jockey",
+   "desc": "Rode a Chocobo.",
+   "hidden": false,
+   "pct": 47.9
+  },
+  {
+   "api": "ACH_45",
+   "name": "Spinning a Yarn III",
+   "desc": "Completed 10 sidequests.",
+   "hidden": false,
+   "pct": 45.9
+  },
+  {
+   "api": "ACH_4",
+   "name": "The Open World",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.0
+  },
+  {
+   "api": "ACH_37",
+   "name": "The Power of Kings",
+   "desc": "Called forth the Armiger for the first time.",
+   "hidden": false,
+   "pct": 44.3
+  },
+  {
+   "api": "ACH_5",
+   "name": "Living Legend",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.0
+  },
+  {
+   "api": "ACH_25",
+   "name": "Angling Rookie",
+   "desc": "Improved fishing level for the first time.",
+   "hidden": false,
+   "pct": 42.2
+  },
+  {
+   "api": "ACH_6",
+   "name": "Dark Clouds",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.1
+  },
+  {
+   "api": "ACH_7",
+   "name": "A Way Forward",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.0
+  },
+  {
+   "api": "ACH_46",
+   "name": "Spinning a Yarn IV",
+   "desc": "Completed 20 sidequests.",
+   "hidden": false,
+   "pct": 36.2
+  },
+  {
+   "api": "ACH_8",
+   "name": "Party of Three",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.0
+  },
+  {
+   "api": "ACH_41",
+   "name": "High Five for Justice!",
+   "desc": "Played JUSTICE MONSTERS FIVE for the first time.",
+   "hidden": false,
+   "pct": 35.0
+  },
+  {
+   "api": "ACH_42",
+   "name": "Immortal Photobomb",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.6
+  },
+  {
+   "api": "ACH_9",
+   "name": "Seaworthy",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.7
+  },
+  {
+   "api": "ACH_10",
+   "name": "Callings",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.9
+  },
+  {
+   "api": "ACH_11",
+   "name": "The Heart of a King",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.6
+  },
+  {
+   "api": "ACH_12",
+   "name": "In the Dark",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.5
+  },
+  {
+   "api": "ACH_40",
+   "name": "Divine Intervention",
+   "desc": "Summoned one of the Six for the first time.",
+   "hidden": false,
+   "pct": 30.5
+  },
+  {
+   "api": "ACH_13",
+   "name": "End of Days",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.1
+  },
+  {
+   "api": "ACH_24",
+   "name": "Self-Mastered",
+   "desc": "Activated 50 ability nodes.",
+   "hidden": false,
+   "pct": 29.3
+  },
+  {
+   "api": "ACH_14",
+   "name": "Redemption",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.1
+  },
+  {
+   "api": "ACH_86",
+   "name": "Tri-Headed Triumph",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.6
+  },
+  {
+   "api": "ACH_15",
+   "name": "Homecoming",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.8
+  },
+  {
+   "api": "ACH_47",
+   "name": "Spinning a Yarn V",
+   "desc": "Completed 40 sidequests.",
+   "hidden": false,
+   "pct": 24.8
+  },
+  {
+   "api": "ACH_16",
+   "name": "Chosen King",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.3
+  },
+  {
+   "api": "ACH_31",
+   "name": "Photo Expert",
+   "desc": "Reached maximum photography level.",
+   "hidden": false,
+   "pct": 14.8
+  },
+  {
+   "api": "ACH_48",
+   "name": "Weaving a Tapestry",
+   "desc": "Completed 80 sidequests.",
+   "hidden": false,
+   "pct": 14.2
+  },
+  {
+   "api": "ACH_21",
+   "name": "Faithful Heir",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.6
+  },
+  {
+   "api": "ACH_81",
+   "name": "Maiden Voyage",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.0
+  },
+  {
+   "api": "ACH_19",
+   "name": "Regalia Pilot",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.3
+  },
+  {
+   "api": "ACH_74",
+   "name": "Hidden Power",
+   "desc": "Took down 10 enemies using the spelldaggers.",
+   "hidden": false,
+   "pct": 11.3
+  },
+  {
+   "api": "ACH_54",
+   "name": "Shield of the Chosen King",
+   "desc": "Completed the trials on Normal.",
+   "hidden": false,
+   "pct": 10.6
+  },
+  {
+   "api": "ACH_65",
+   "name": "Seize the Moment",
+   "desc": "Performed 10 full-hit cross chains.",
+   "hidden": false,
+   "pct": 9.9
+  },
+  {
+   "api": "ACH_53",
+   "name": "Master and Pupil",
+   "desc": "Performed 5 link-strikes with Cor.",
+   "hidden": false,
+   "pct": 9.2
+  },
+  {
+   "api": "ACH_77",
+   "name": "A Noble Sacrifice",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.8
+  },
+  {
+   "api": "ACH_50",
+   "name": "Tortoise Toppler",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.6
+  },
+  {
+   "api": "ACH_61",
+   "name": "Unbreakable Bonds",
+   "desc": "Completed EPISODE PROMPTO on Normal.",
+   "hidden": false,
+   "pct": 8.6
+  },
+  {
+   "api": "ACH_58",
+   "name": "Unseen Assassin",
+   "desc": "Stealth-killed 3 enemies.",
+   "hidden": false,
+   "pct": 8.4
+  },
+  {
+   "api": "ACH_66",
+   "name": "Love Turned Tragic",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.2
+  },
+  {
+   "api": "ACH_82",
+   "name": "Narwhal Watching",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.9
+  },
+  {
+   "api": "ACH_67",
+   "name": "Beacon of Hope",
+   "desc": "Powered up all facilities in Lestallum.",
+   "hidden": false,
+   "pct": 7.3
+  },
+  {
+   "api": "ACH_85",
+   "name": "The Power Within",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.9
+  },
+  {
+   "api": "ACH_92",
+   "name": "The Pyreburner's Keeper",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.5
+  },
+  {
+   "api": "ACH_79",
+   "name": "Another Path",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.3
+  },
+  {
+   "api": "ACH_30",
+   "name": "Survival Expert",
+   "desc": "Reached maximum survival level.",
+   "hidden": false,
+   "pct": 6.2
+  },
+  {
+   "api": "ACH_68",
+   "name": "Kingly Blessing",
+   "desc": "Received a Royal Sigil.",
+   "hidden": false,
+   "pct": 6.2
+  },
+  {
+   "api": "ACH_32",
+   "name": "Cooking Expert",
+   "desc": "Reached maximum cooking level.",
+   "hidden": false,
+   "pct": 5.8
+  },
+  {
+   "api": "ACH_91",
+   "name": "Fallen Savior",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.8
+  },
+  {
+   "api": "ACH_94",
+   "name": "The Nightmare Ends",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.7
+  },
+  {
+   "api": "ACH_29",
+   "name": "Angling Expert",
+   "desc": "Reached maximum fishing level.",
+   "hidden": false,
+   "pct": 5.5
+  },
+  {
+   "api": "ACH_69",
+   "name": "One with Your Blade",
+   "desc": "Crafted a weapon of Level 30 or higher.",
+   "hidden": false,
+   "pct": 5.3
+  },
+  {
+   "api": "ACH_96",
+   "name": "Insomnia Insurgence",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.0
+  },
+  {
+   "api": "ACH_84",
+   "name": "Speed Daemon",
+   "desc": "Posted excellent times in all cross-country test drives.",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "ACH_87",
+   "name": "Through the Dimensional Rift",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.1
+  },
+  {
+   "api": "ACH_75",
+   "name": "Swift Retaliation",
+   "desc": "Took down 10 enemies with counterstrikes.",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "ACH_93",
+   "name": "King of the Daemons",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.4
+  },
+  {
+   "api": "ACH_95",
+   "name": "Mastering the Darkness",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.4
+  },
+  {
+   "api": "ACH_70",
+   "name": "Come Back, Kenny!",
+   "desc": "Met the owner of the Crow's Nest Diner.",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "ACH_55",
+   "name": "Transcendence",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.7
+  },
+  {
+   "api": "ACH_63",
+   "name": "The Dragoonslayer",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.5
+  },
+  {
+   "api": "ACH_56",
+   "name": "No Pain, No Gain",
+   "desc": "Scored 500,000 or more points in Score Attack.",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "ACH_71",
+   "name": "Royal Retinue Rumble",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.4
+  },
+  {
+   "api": "ACH_59",
+   "name": "Sharp Shooting",
+   "desc": "Took down 30 enemies with crackshots.",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "ACH_72",
+   "name": "Cleaving a Path",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.3
+  },
+  {
+   "api": "ACH_60",
+   "name": "Field Photographer",
+   "desc": "Took 10 photos mid-battle using Selfie Shot.",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "ACH_62",
+   "name": "An Emperor Deposed",
+   "desc": "Defeated the kaiser behemoth.",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "ACH_52",
+   "name": "Column Colossus",
+   "desc": "Uprooted all columns.",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "ACH_80",
+   "name": "A New Protagonist",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.8
+  },
+  {
+   "api": "ACH_73",
+   "name": "Let There Be Light",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.6
+  },
+  {
+   "api": "ACH_78",
+   "name": "Altissian Ambassador",
+   "desc": "Collected all documents.",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "ACH_83",
+   "name": "Pursuit of Knowledge",
+   "desc": "Filled 80% of the Datalog.",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "ACH_88",
+   "name": "Blessed by All",
+   "desc": "Collected all the Royal Sigils.",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "ACH_51",
+   "name": "Picker-Upper",
+   "desc": "Picked up all items.",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "ACH_57",
+   "name": "A New Blademaster",
+   "desc": "Scored 1,000,000 or more points in Score Attack.",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "ACH_89",
+   "name": "Chocobreeder",
+   "desc": "Raised a chocobo to Level 99.",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "ACH_90",
+   "name": "Beacons of Hope",
+   "desc": "Completed the Comrades quest with all four characters.",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "ACH_64",
+   "name": "Dogged Rider",
+   "desc": "Earned the top ranking on all three Time Trial courses.",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "ACH_76",
+   "name": "Master of the Elements",
+   "desc": "Took down 100 enemies using Total Clarity.",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "ACH_97",
+   "name": "Return of the Founder King",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.1
+  }
+ ]
+}

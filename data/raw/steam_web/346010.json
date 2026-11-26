@@ -1,0 +1,441 @@
+{
+ "appid": 346010,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 54,
+ "achievements": [
+  {
+   "name": "A Swift Siege",
+   "desc": "Complete a campaign level under 2 seconds",
+   "hidden": false,
+   "pct": 19.9,
+   "api_name": "A_SWIFT_SIEGE",
+   "internal_key": 256
+  },
+  {
+   "name": "The Handyman",
+   "desc": "Complete a level with a machine of 6 block points or less",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "THE_HANDYMAN",
+   "internal_key": 257
+  },
+  {
+   "name": "Gotta Go Fast",
+   "desc": "Travel at speeds faster than is sensible",
+   "hidden": false,
+   "pct": 38.2,
+   "api_name": "THE_FLASH",
+   "internal_key": 258
+  },
+  {
+   "name": "A Whole New World",
+   "desc": "Build your first level using the level editor",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "THE_CREATOR",
+   "internal_key": 259
+  },
+  {
+   "name": "Sharing is caring",
+   "desc": "Share your machine with the whole world",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "SHARING_IS_CARING",
+   "internal_key": 260
+  },
+  {
+   "name": "The copy-cat",
+   "desc": "Subscribe and download someone else's machine",
+   "hidden": false,
+   "pct": 18.6,
+   "api_name": "THE_COPYCAT",
+   "internal_key": 261
+  },
+  {
+   "name": "Thunderstruck",
+   "desc": "Get hit by lightning",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "THUNDERSTRUCK",
+   "internal_key": 262
+  },
+  {
+   "name": "All Under Control",
+   "desc": "Put out a burning block using water",
+   "hidden": false,
+   "pct": 15.5,
+   "api_name": "IT_WAS_HOT",
+   "internal_key": 263
+  },
+  {
+   "name": "Carnage",
+   "desc": "Defeat 1000 AI units",
+   "hidden": false,
+   "pct": 15.2,
+   "api_name": "CARNAGE",
+   "internal_key": 264
+  },
+  {
+   "name": "Pyromaniac",
+   "desc": "Set yourself on fire",
+   "hidden": false,
+   "pct": 55.4,
+   "api_name": "PYROMANIAC",
+   "internal_key": 265
+  },
+  {
+   "name": "Raw Fodder",
+   "desc": "Beat Queens Fodder without using fire or explosives",
+   "hidden": false,
+   "pct": 20.9,
+   "api_name": "RAW_FODDER",
+   "internal_key": 266
+  },
+  {
+   "name": "Piloting 101",
+   "desc": "Destroy all the Scout Balloons in Scouts of Tolbrynd",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "PILOTING_101",
+   "internal_key": 267
+  },
+  {
+   "name": "Professional Hunchback",
+   "desc": "Ring all 3 Awakening Bells at the same time",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "BELL_THING",
+   "internal_key": 269
+  },
+  {
+   "name": "As Mutton",
+   "desc": "Hit a sheep with the Standing Stone's laser",
+   "hidden": false,
+   "pct": 16.8,
+   "api_name": "BARELY_STANDING",
+   "internal_key": 271
+  },
+  {
+   "name": "Birbecue",
+   "desc": "Kill 100 birds with fire",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "GRILLED_BIRBS",
+   "internal_key": 272
+  },
+  {
+   "name": "Supply Chop",
+   "desc": "Destroy all the supply crates in The Duke's Dear Freighters and collect the strange fragment",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "ANTI_AIRCRAFT",
+   "internal_key": 273
+  },
+  {
+   "name": "Bomb Battlefield",
+   "desc": "Beat Old Howl Battlefield while having blown up all the bombs",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "BOMB_BATTLEFIELD",
+   "internal_key": 274
+  },
+  {
+   "name": "Lord of the Lyre",
+   "desc": "Conquer Ipsilon",
+   "hidden": false,
+   "pct": 18.9,
+   "api_name": "LORD_OF_THE_LYRE",
+   "internal_key": 275
+  },
+  {
+   "name": "Duke of the Skies",
+   "desc": "Conquer Tolbrynd",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "THE_HIGH_DUKE",
+   "internal_key": 276
+  },
+  {
+   "name": "The Frozen Monarch",
+   "desc": "Conquer Valfross",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "MONARCH_OF_FROST",
+   "internal_key": 277
+  },
+  {
+   "name": "Automaton",
+   "desc": "Complete a level without pressing a key",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "RUBE_GOLDBERG",
+   "internal_key": 278
+  },
+  {
+   "name": "Through and Through",
+   "desc": "Complete the Mountain Barrier without explosives",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "THROUGH_THROUGH",
+   "internal_key": 282
+  },
+  {
+   "name": "Golden Eye",
+   "desc": "Retrieve the strange fragment",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "DODGER",
+   "internal_key": 284
+  },
+  {
+   "name": "Tree Hugger",
+   "desc": "Complete Tree of Akhmora without using Projectiles",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "TREE_HUGGER",
+   "internal_key": 285
+  },
+  {
+   "name": "Atlas' Challenge",
+   "desc": "Lift the boulder in Stock Tower 10 units off the ground",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ATLAS_CHALLENGE",
+   "internal_key": 286
+  },
+  {
+   "name": "Emperor of Sand",
+   "desc": "Complete Krolmar",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "EMPEROR_OF_SAND",
+   "internal_key": 287
+  },
+  {
+   "name": "Conqueror",
+   "desc": "Complete the Campaign",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "CONQUEROR",
+   "internal_key": 1792
+  },
+  {
+   "name": "Bonus Round",
+   "desc": "Complete a player-made map",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "MULTIVERSAL",
+   "internal_key": 1793
+  },
+  {
+   "name": "Demolition Expert",
+   "desc": "Complete Kahraz village in less than 30 seconds",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "DEMOLITION_EXPERT",
+   "internal_key": 1794
+  },
+  {
+   "name": "Freezing Frontier",
+   "desc": "Reach enough altitude to freeze your machine",
+   "hidden": false,
+   "pct": 13.0,
+   "api_name": "FREEZING_FRONTIER",
+   "internal_key": 1795
+  },
+  {
+   "name": "Frozen Goods",
+   "desc": "Destroy all the crates in The Frozen Path and collect the strange fragment",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "FROZEN_GOODS",
+   "internal_key": 1796
+  },
+  {
+   "name": "Ironweaver",
+   "desc": "Destroy all the crates in Ironweave Passage and collect the cube fragment (DLC)",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "IRON_WEAVER",
+   "internal_key": 1797
+  },
+  {
+   "name": "Where's Woolly?",
+   "desc": "Destroy the impostor in Solomon's Flock",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "WHERES_WOOLLY",
+   "internal_key": 1798
+  },
+  {
+   "name": "Sword Buster",
+   "desc": "Find a way to retrieve the strange fragment in Argus' Grounds",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "SWORD_BUSTER",
+   "internal_key": 1799
+  },
+  {
+   "name": "Master of Tides",
+   "desc": "Conquer the Splintered Sea (DLC)",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "MASTER_OF_TIDES",
+   "internal_key": 1800
+  },
+  {
+   "name": "Cold as Ice",
+   "desc": "Break the strange fragment out of the ice and collect it in Relict Frost",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "COLD_AS_ICE",
+   "internal_key": 1801
+  },
+  {
+   "name": "Target Practice",
+   "desc": "Get the axe throwers in Penitent Tower to hit one of the training targets",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "TARGET_PRACTICE",
+   "internal_key": 1802
+  },
+  {
+   "name": "Shell Shock",
+   "desc": "Find a way to open the shell in The Devouring Pit and collect strange fragment from inside (DLC)",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "SHELL_SHOCK",
+   "internal_key": 1803
+  },
+  {
+   "name": "A Pirate's Life",
+   "desc": "Destroy the cargo ship and collect the strange fragment in Serpent's Crest (DLC)",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "SHIP_CARGO",
+   "internal_key": 1804
+  },
+  {
+   "name": "Bandicoot",
+   "desc": "Destroy all the crates in Ambush and collect the strange fragment",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "KROLMAR_CRATES",
+   "internal_key": 1805
+  },
+  {
+   "name": "Chained Chomp",
+   "desc": "Lure a shark into the cage in Feeding Frenzy (DLC)",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "CAGED_SHARK",
+   "internal_key": 1806
+  },
+  {
+   "name": "Mine or Inconvenience",
+   "desc": "Open the chests and collect the strange fragment in Webley's Pass (DLC)",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "MINE_CHESTS",
+   "internal_key": 1807
+  },
+  {
+   "name": "Raider",
+   "desc": "Locate and collect the strange fragment in The Last Stand",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "HIDDEN_SHRINE",
+   "internal_key": 1808
+  },
+  {
+   "name": "Spawn Camper",
+   "desc": "Destroy the entire army in Midland Patrol, without destroying any tents",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "SPAWN_CAMP",
+   "internal_key": 1809
+  },
+  {
+   "name": "Completionist",
+   "desc": "Complete All Secondary Objectives in the campaign",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "COMPLETIONIST",
+   "internal_key": 1810
+  },
+  {
+   "name": "Autilis Explorer",
+   "desc": "Complete All Secondary Objectives in The Splintered Sea (DLC)",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "COMPLETIONIST_SS",
+   "internal_key": 1811
+  },
+  {
+   "name": "Hostile Negotiations",
+   "desc": "Kill all the knights in The Duke's Plea, except the Duke's diplomat, and collect the strange fragment",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "NEGOTIATIONS",
+   "internal_key": 1813
+  },
+  {
+   "name": "Leave None Alive",
+   "desc": "Kill all the Duke's knights in Aras' Refuge",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "NONE_ALIVE",
+   "internal_key": 1814
+  },
+  {
+   "name": "Mortissimo",
+   "desc": "Make the monks in Grand Crystal play a secret melody",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "MORTISSIMO",
+   "internal_key": 1815
+  },
+  {
+   "name": "Up Hill Struggle",
+   "desc": "Destroy the monument and collect the strange fragment in Lyre Peak",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "UP_HILL_STRUGGLE",
+   "internal_key": 1816
+  },
+  {
+   "name": "Sandworm",
+   "desc": "Destroy all the crates in Doon Canyon Run and collect the cube fragment (DLC)",
+   "hidden": true,
+   "pct": 0.1,
+   "api_name": "SANDWORM",
+   "internal_key": 1817
+  },
+  {
+   "name": "Hail Mary",
+   "desc": "Land on the planet without taking damage or using any aerodynamic blocks (DLC)",
+   "hidden": true,
+   "pct": 0.1,
+   "api_name": "HAIL_MARY",
+   "internal_key": 1818
+  },
+  {
+   "name": "Tyrant of The Void",
+   "desc": "Conquer The Broken Beyond (DLC)",
+   "hidden": true,
+   "pct": 0.1,
+   "api_name": "TYRANT_OF_THE_VOID",
+   "internal_key": 1819
+  },
+  {
+   "name": "Aranea Completionist",
+   "desc": "Complete All Secondary Objectives in The Broken Beyond Campaign (DLC)",
+   "hidden": true,
+   "pct": 0.1,
+   "api_name": "COMPLETIONIST_BB",
+   "internal_key": 1820
+  }
+ ]
+}

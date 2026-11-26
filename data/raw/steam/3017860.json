@@ -1,0 +1,274 @@
+{
+ "appid": 3017860,
+ "game": "DOOM: The Dark Ages",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 38,
+ "achievements": [
+  {
+   "api": "NEW_ACHIEVEMENT_1_0",
+   "name": "A Dark Beginning",
+   "desc": "",
+   "hidden": true,
+   "pct": 84.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_11",
+   "name": "Upgraded",
+   "desc": "Acquire your first weapon upgrade.",
+   "hidden": false,
+   "pct": 76.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_20",
+   "name": "Essential Upgrade",
+   "desc": "Acquire your first Demonic Essence upgrade.",
+   "hidden": false,
+   "pct": 75.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_1",
+   "name": "Supersized Brawl",
+   "desc": "",
+   "hidden": true,
+   "pct": 72.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_8",
+   "name": "Vagary Down!",
+   "desc": "",
+   "hidden": true,
+   "pct": 68.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_2",
+   "name": "Bringing the House Down",
+   "desc": "",
+   "hidden": true,
+   "pct": 63.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_9",
+   "name": "Agaddon Champion Down!",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_16",
+   "name": "Ancestral Blessing",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_15",
+   "name": "Shield Adept",
+   "desc": "Acquire all shield upgrades under the base category.",
+   "hidden": false,
+   "pct": 50.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_10",
+   "name": "Komodo Champion Down!",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_12",
+   "name": "Fully Loaded",
+   "desc": "Complete the Mastery Challenge for a single weapon.",
+   "hidden": false,
+   "pct": 47.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_14",
+   "name": "Gimme That",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_3",
+   "name": "Jailbreak",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_17",
+   "name": "Powerful Investment",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_4",
+   "name": "Too Angry to Die",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_5",
+   "name": "Argent Return",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_6",
+   "name": "The Only Thing They Fear",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_7",
+   "name": "Game Complete",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_21",
+   "name": "Essential Ammo",
+   "desc": "Acquire all Demonic Essence ammo upgrades.",
+   "hidden": false,
+   "pct": 31.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_23",
+   "name": "Essential Health",
+   "desc": "Acquire all Demonic Essence Health upgrades.",
+   "hidden": false,
+   "pct": 31.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_18",
+   "name": "Melee Expert",
+   "desc": "Acquire all melee weapon upgrades.",
+   "hidden": false,
+   "pct": 26.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_22",
+   "name": "Essential Armor",
+   "desc": "Acquire all Demonic Essence armor upgrades.",
+   "hidden": false,
+   "pct": 24.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_19",
+   "name": "Berserker",
+   "desc": "Acquire all Shield Base, Shield Rune, and Melee Weapon upgrades.",
+   "hidden": false,
+   "pct": 23.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_24",
+   "name": "Essentially Unstoppable",
+   "desc": "Acquire all Demonic Essence upgrades.",
+   "hidden": false,
+   "pct": 22.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_30",
+   "name": "Time to Hunt",
+   "desc": "Acquire the Chain Spear.",
+   "hidden": false,
+   "pct": 17.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_27",
+   "name": "Lore Nerd",
+   "desc": "Acquire all Codex Lore pages.",
+   "hidden": false,
+   "pct": 15.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_26",
+   "name": "Toy Collector",
+   "desc": "Acquire all Collectible demon toys.",
+   "hidden": false,
+   "pct": 15.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_29",
+   "name": "Hellwalker",
+   "desc": "Acquire the Praetor Suit.",
+   "hidden": false,
+   "pct": 12.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_28",
+   "name": "Revelations Complete",
+   "desc": "Complete the Revelations Campaign.",
+   "hidden": false,
+   "pct": 12.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_25",
+   "name": "Challenge Completed",
+   "desc": "Complete all Mission Challenges in the campaign.",
+   "hidden": false,
+   "pct": 11.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_13",
+   "name": "Gunpletionist",
+   "desc": "Complete the Mastery Challenge for all weapons.",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_3",
+   "name": "Time is Money",
+   "desc": "Complete a Ritual of Power.",
+   "hidden": false,
+   "pct": 8.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_1",
+   "name": "Some Assembly Required",
+   "desc": "Completely reassemble a five-piece Relic.",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_1_31",
+   "name": "Spear Adept",
+   "desc": "Acquire all upgrades for a single Chain Spear ability.",
+   "hidden": false,
+   "pct": 8.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_4",
+   "name": "Hello, Old Friend",
+   "desc": "Acquire the '93 Shotgun.",
+   "hidden": false,
+   "pct": 7.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_5",
+   "name": "Xal’Goroth Defeated",
+   "desc": "Defeat Xal’Goroth the Imprisoned.",
+   "hidden": false,
+   "pct": 6.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_0",
+   "name": "Spear Mastery",
+   "desc": "Acquire all Chain Spear upgrades in a single save slot.",
+   "hidden": false,
+   "pct": 5.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_2",
+   "name": "Archeologist",
+   "desc": "Completely reassemble all Relics in a single save slot.",
+   "hidden": false,
+   "pct": 4.3
+  }
+ ]
+}

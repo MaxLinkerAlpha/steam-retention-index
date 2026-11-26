@@ -1,0 +1,379 @@
+{
+ "appid": 1627720,
+ "game": "Lies of P",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 53,
+ "achievements": [
+  {
+   "api": "LOP_122",
+   "name": "Fatal Blow",
+   "desc": "Deliver a successful Fatal Attack.",
+   "hidden": false,
+   "pct": 96.0
+  },
+  {
+   "api": "LOP_119",
+   "name": "Stargazer’s Guide",
+   "desc": "Repair a Stargazer.",
+   "hidden": false,
+   "pct": 95.2
+  },
+  {
+   "api": "LOP_124",
+   "name": "Parade Master",
+   "desc": "",
+   "hidden": true,
+   "pct": 87.7
+  },
+  {
+   "api": "LOP_118",
+   "name": "First Lie",
+   "desc": "",
+   "hidden": true,
+   "pct": 87.4
+  },
+  {
+   "api": "LOP_121",
+   "name": "The Ultimate Defense Technique",
+   "desc": "Destroy an enemy’s weapon with a perfect guard.",
+   "hidden": false,
+   "pct": 81.5
+  },
+  {
+   "api": "LOP_123",
+   "name": "The Bastards and the Sweepers",
+   "desc": "Kill a Stalker.",
+   "hidden": false,
+   "pct": 77.2
+  },
+  {
+   "api": "LOP_125",
+   "name": "Scrapped Watchman",
+   "desc": "",
+   "hidden": true,
+   "pct": 75.5
+  },
+  {
+   "api": "LOP_126",
+   "name": "King's Flame",
+   "desc": "",
+   "hidden": true,
+   "pct": 68.3
+  },
+  {
+   "api": "LOP_120",
+   "name": "Exploring Possibilities",
+   "desc": "Try to assemble a weapon.",
+   "hidden": false,
+   "pct": 64.5
+  },
+  {
+   "api": "LOP_127",
+   "name": "Fallen Archbishop",
+   "desc": "",
+   "hidden": true,
+   "pct": 62.3
+  },
+  {
+   "api": "LOP_128",
+   "name": "The Delayed Match",
+   "desc": "",
+   "hidden": true,
+   "pct": 59.5
+  },
+  {
+   "api": "LOP_136",
+   "name": "Bear Gold Coin Fruit",
+   "desc": "",
+   "hidden": true,
+   "pct": 59.1
+  },
+  {
+   "api": "LOP_129",
+   "name": "King of Puppets",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.0
+  },
+  {
+   "api": "LOP_137",
+   "name": "From Across the Rift",
+   "desc": "Kill all types of Dimensional Butterflies.",
+   "hidden": false,
+   "pct": 54.3
+  },
+  {
+   "api": "LOP_130",
+   "name": "The Champion of Evolution",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.3
+  },
+  {
+   "api": "LOP_131",
+   "name": "Puppet-Devouring Green Monster",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.6
+  },
+  {
+   "api": "LOP_132",
+   "name": "Corrupted Parade Master",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.7
+  },
+  {
+   "api": "LOP_108",
+   "name": "Strongest Legion Arm",
+   "desc": "Modify a Legion Arm to its max level.",
+   "hidden": false,
+   "pct": 47.1
+  },
+  {
+   "api": "LOP_133",
+   "name": "Revenge of Black",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.4
+  },
+  {
+   "api": "LOP_109",
+   "name": "Extreme Potential",
+   "desc": "Activate P-Organ to Phase 5.",
+   "hidden": false,
+   "pct": 45.1
+  },
+  {
+   "api": "LOP_134",
+   "name": "The Complete One",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.8
+  },
+  {
+   "api": "LOP_135",
+   "name": "The Awakened God",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.7
+  },
+  {
+   "api": "LOP_140",
+   "name": "The Story of the One Who Dreamed",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.7
+  },
+  {
+   "api": "LOP_106",
+   "name": "Strongest Normal Weapon",
+   "desc": "Strengthen a normal weapon to its max level.",
+   "hidden": false,
+   "pct": 42.3
+  },
+  {
+   "api": "LOP_107",
+   "name": "Strongest Special Weapon",
+   "desc": "Strengthen a special weapon to its max level.",
+   "hidden": false,
+   "pct": 42.1
+  },
+  {
+   "api": "LOP_105",
+   "name": "The First Puppet",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.6
+  },
+  {
+   "api": "LOP_139",
+   "name": "The Story of the Refined Old Lady",
+   "desc": "Find out about the last story of Antonia.",
+   "hidden": false,
+   "pct": 36.2
+  },
+  {
+   "api": "LOP_111",
+   "name": "Legion Arm Collector",
+   "desc": "Collect all Legion Arms.",
+   "hidden": false,
+   "pct": 28.9
+  },
+  {
+   "api": "LOP_104",
+   "name": "Rise of P",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.4
+  },
+  {
+   "api": "LOP_117",
+   "name": "End of Riddles",
+   "desc": "Discover all Trinity Sanctums.",
+   "hidden": false,
+   "pct": 26.1
+  },
+  {
+   "api": "LOP_138",
+   "name": "The Story of the Prince",
+   "desc": "Find out about the last story of Venigni.",
+   "hidden": false,
+   "pct": 25.8
+  },
+  {
+   "api": "LOP_110",
+   "name": "Pianist of Krat",
+   "desc": "Play a perfect tune on the piano at Hotel Krat.",
+   "hidden": false,
+   "pct": 23.8
+  },
+  {
+   "api": "LOP_142",
+   "name": "The Story of a Stranger Girl",
+   "desc": "Find out about the last story of Eugénie.",
+   "hidden": false,
+   "pct": 21.9
+  },
+  {
+   "api": "LOP_103",
+   "name": "Free from the puppet string",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.3
+  },
+  {
+   "api": "LOP_143",
+   "name": "The Story of the Blue Butterfly",
+   "desc": "Find out about the last story of Sophia.",
+   "hidden": false,
+   "pct": 21.1
+  },
+  {
+   "api": "LOP_151",
+   "name": "Puppeteer of Death",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.1
+  },
+  {
+   "api": "LOP_115",
+   "name": "Learning about Emotions",
+   "desc": "Learn all gestures.",
+   "hidden": false,
+   "pct": 18.5
+  },
+  {
+   "api": "LOP_116",
+   "name": "Veteran Explorer",
+   "desc": "Decipher all cryptic vessels and claim the rewards.",
+   "hidden": false,
+   "pct": 17.9
+  },
+  {
+   "api": "LOP_152",
+   "name": "Anguished Guardian",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.6
+  },
+  {
+   "api": "LOP_154",
+   "name": "Honor and Revenge",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.3
+  },
+  {
+   "api": "LOP_144",
+   "name": "The Rose's Memory",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.5
+  },
+  {
+   "api": "LOP_153",
+   "name": "The Blood Artist",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.5
+  },
+  {
+   "api": "LOP_147",
+   "name": "Beyond Limitless Potential",
+   "desc": "Further upgrade the abilities of the P-Organ.",
+   "hidden": false,
+   "pct": 16.1
+  },
+  {
+   "api": "LOP_102",
+   "name": "Real boy : They all lived happily ever after",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.9
+  },
+  {
+   "api": "LOP_145",
+   "name": "Enduring Resolve",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.2
+  },
+  {
+   "api": "LOP_150",
+   "name": "Tracker of Dark Secrets",
+   "desc": "Decrypt all clues hidden inside the cipher machines and claim the rewards.",
+   "hidden": false,
+   "pct": 14.6
+  },
+  {
+   "api": "LOP_113",
+   "name": "Normal Weapon Collector",
+   "desc": "Collect all normal weapons.",
+   "hidden": false,
+   "pct": 14.3
+  },
+  {
+   "api": "LOP_112",
+   "name": "Special Weapon Collector",
+   "desc": "Collect all special weapons.",
+   "hidden": false,
+   "pct": 13.4
+  },
+  {
+   "api": "LOP_141",
+   "name": "The Story of One Father",
+   "desc": "Find out about the last story of Geppetto.",
+   "hidden": false,
+   "pct": 11.9
+  },
+  {
+   "api": "LOP_114",
+   "name": "Golden Melody",
+   "desc": "Collect and play all records.",
+   "hidden": false,
+   "pct": 9.8
+  },
+  {
+   "api": "LOP_149",
+   "name": "To Be Human",
+   "desc": "Learn all gestures from the Forgotten Time.",
+   "hidden": false,
+   "pct": 9.1
+  },
+  {
+   "api": "LOP_146",
+   "name": "True Combat Gear Collector",
+   "desc": "Collect all weapons and Legion Arms in the Forgotten Time.",
+   "hidden": false,
+   "pct": 9.0
+  },
+  {
+   "api": "LOP_148",
+   "name": "Memory's Melody",
+   "desc": "Collect and listen to all records from the Forgotten Time.",
+   "hidden": false,
+   "pct": 6.0
+  }
+ ]
+}

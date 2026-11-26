@@ -1,0 +1,561 @@
+{
+ "appid": 1601580,
+ "game": "Frostpunk 2",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 79,
+ "achievements": [
+  {
+   "api": "Beginning",
+   "name": "The End is Just the Beginning",
+   "desc": "",
+   "hidden": true,
+   "pct": 76.2
+  },
+  {
+   "api": "NoEvil",
+   "name": "No lesser evil",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.6
+  },
+  {
+   "api": "Trusted",
+   "name": "People person",
+   "desc": "Have maximum trust",
+   "hidden": false,
+   "pct": 42.6
+  },
+  {
+   "api": "Lawmaker",
+   "name": "Lawmaker",
+   "desc": "Pass at least 20 new laws in a single playthrough",
+   "hidden": false,
+   "pct": 39.5
+  },
+  {
+   "api": "Oxbridge",
+   "name": "New Oxbridge",
+   "desc": "Double starting Research speed",
+   "hidden": false,
+   "pct": 39.1
+  },
+  {
+   "api": "DifferentPlace",
+   "name": "There is No Final Design",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.4
+  },
+  {
+   "api": "Storm",
+   "name": "Bring it on!",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.1
+  },
+  {
+   "api": "Planner",
+   "name": "Urban Planner",
+   "desc": "Have 10 districts affected by hubs",
+   "hidden": false,
+   "pct": 35.8
+  },
+  {
+   "api": "Bankster",
+   "name": "Chancellor of the Exchequer",
+   "desc": "Have at least 50 income of heatstamps",
+   "hidden": false,
+   "pct": 35.7
+  },
+  {
+   "api": "DontStarve",
+   "name": "Don't starve",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.0
+  },
+  {
+   "api": "StewardLittle",
+   "name": "Steward Little",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.0
+  },
+  {
+   "api": "Order",
+   "name": "Law and Order",
+   "desc": "Have Crime and Tension Absent in the City with at least 30k population",
+   "hidden": false,
+   "pct": 28.7
+  },
+  {
+   "api": "Mixed",
+   "name": "Mixed Signals",
+   "desc": "Have rallies and protests in the City at the same time",
+   "hidden": false,
+   "pct": 27.9
+  },
+  {
+   "api": "NLStory",
+   "name": "The Ambitions of New London",
+   "desc": "Complete the Story on any difficulty",
+   "hidden": false,
+   "pct": 27.4
+  },
+  {
+   "api": "Paradise",
+   "name": "Paradise City",
+   "desc": "Have all problems absent for 50 weeks in the City with at least 15k population",
+   "hidden": false,
+   "pct": 27.3
+  },
+  {
+   "api": "SmallStep",
+   "name": "A Small Step...",
+   "desc": "Unlock a Utopia Tree Node",
+   "hidden": false,
+   "pct": 27.2
+  },
+  {
+   "api": "Power20",
+   "name": "Power Overwhelming 2.0",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.2
+  },
+  {
+   "api": "Bonfire",
+   "name": "Bonfire",
+   "desc": "Don't let Civil War spread over 5 or more districts",
+   "hidden": false,
+   "pct": 21.9
+  },
+  {
+   "api": "Pork",
+   "name": "Pork Barrel",
+   "desc": "Fulfil at least 1 promise to 5 different communities and factions in one playthrough",
+   "hidden": false,
+   "pct": 21.6
+  },
+  {
+   "api": "Colonist",
+   "name": "Quiet Backwater",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.9
+  },
+  {
+   "api": "Progress",
+   "name": "Can't stop progress",
+   "desc": "Have Squalor Absent despite having at least 1000 Material Demand",
+   "hidden": false,
+   "pct": 18.9
+  },
+  {
+   "api": "Expansionist",
+   "name": "Settler",
+   "desc": "Set up 3 colonies",
+   "hidden": false,
+   "pct": 17.7
+  },
+  {
+   "api": "Unanimity",
+   "name": "No-brainer",
+   "desc": "Have 100% of delegates vote in favour of any law",
+   "hidden": false,
+   "pct": 16.2
+  },
+  {
+   "api": "Adaptation",
+   "name": "Adapted to Weather",
+   "desc": "Have Disease Absent and Cold Absent for 20 weeks, when there is at least -100 Celsius degrees",
+   "hidden": false,
+   "pct": 16.0
+  },
+  {
+   "api": "GreenPower",
+   "name": "Green Power",
+   "desc": "Fulfil at least 300 Heat demand using Steam and have absent Squalor",
+   "hidden": false,
+   "pct": 15.6
+  },
+  {
+   "api": "FrostCity",
+   "name": "FrostCity",
+   "desc": "Have at least 5 different area effects applied to the district",
+   "hidden": false,
+   "pct": 14.3
+  },
+  {
+   "api": "Confident",
+   "name": "Primus inter pares",
+   "desc": "Never be in danger of losing your position due to low Trust or high Tension",
+   "hidden": false,
+   "pct": 12.0
+  },
+  {
+   "api": "AnotherDay",
+   "name": "Another day in paradise",
+   "desc": "Complete a playthrough in Utopia Builder mode",
+   "hidden": false,
+   "pct": 11.2
+  },
+  {
+   "api": "Change",
+   "name": "Visionary",
+   "desc": "Research 60 different ideas under 600 weeks",
+   "hidden": false,
+   "pct": 10.5
+  },
+  {
+   "api": "Revered",
+   "name": "Revered Leader",
+   "desc": "Have \"Devoted\" relations with all communities and factions",
+   "hidden": false,
+   "pct": 10.2
+  },
+  {
+   "api": "Merit",
+   "name": "Idle Hands are the Devil's Playthings",
+   "desc": "Have at least 90% of the population be active workers in your city",
+   "hidden": false,
+   "pct": 9.9
+  },
+  {
+   "api": "FinishS2Act1",
+   "name": "We're So Back",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.8
+  },
+  {
+   "api": "Anger",
+   "name": "Anger management",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.6
+  },
+  {
+   "api": "Peacemaker",
+   "name": "Peacemaker",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.6
+  },
+  {
+   "api": "Optimist",
+   "name": "Optimist",
+   "desc": "Complete the 'Doomsayers' Tale",
+   "hidden": false,
+   "pct": 8.5
+  },
+  {
+   "api": "FinishS2Act2",
+   "name": "Who Saw That Coming?",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.7
+  },
+  {
+   "api": "Healer",
+   "name": "Healer",
+   "desc": "Complete the 'Plague' Tale",
+   "hidden": false,
+   "pct": 7.6
+  },
+  {
+   "api": "FinishS2Story",
+   "name": "What Dreams May Come",
+   "desc": "Finish the 'Breach of Trust' scenario",
+   "hidden": false,
+   "pct": 7.4
+  },
+  {
+   "api": "Equality",
+   "name": "To each according to his needs",
+   "desc": "Have at least 20k heatstamps and over 200k Goods stockpile",
+   "hidden": false,
+   "pct": 7.2
+  },
+  {
+   "api": "Feedback",
+   "name": "Thank you for your feedback",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.1
+  },
+  {
+   "api": "Megalopolis",
+   "name": "Megalopolis",
+   "desc": "Reach over 60,000 population in your main city",
+   "hidden": false,
+   "pct": 7.0
+  },
+  {
+   "api": "Depleted",
+   "name": "Raiders of the Lost Cores",
+   "desc": "Complete the ‘Depleted Cores’ Tale",
+   "hidden": false,
+   "pct": 6.6
+  },
+  {
+   "api": "Wrong",
+   "name": "Prove Them Wrong",
+   "desc": "Complete the 'Doomsayers' Tale without ever triggering the Tension or Trust crises.",
+   "hidden": false,
+   "pct": 5.9
+  },
+  {
+   "api": "Beacon",
+   "name": "Guiding Light",
+   "desc": "Complete the ‘Beacon of Hope’ Tale",
+   "hidden": false,
+   "pct": 5.2
+  },
+  {
+   "api": "AllFactions",
+   "name": "We Are Not The Same",
+   "desc": "Meet all factions in Utopia Builder mode",
+   "hidden": false,
+   "pct": 5.0
+  },
+  {
+   "api": "MovingOut",
+   "name": "Moving out",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.9
+  },
+  {
+   "api": "FlawlessVictory",
+   "name": "Flawless Victory",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.7
+  },
+  {
+   "api": "FirmButCivil",
+   "name": "Firm, But Civil",
+   "desc": "No deaths caused by Civil War during the whole game",
+   "hidden": false,
+   "pct": 4.6
+  },
+  {
+   "api": "SneakPeek",
+   "name": "Sneak a Peek",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.4
+  },
+  {
+   "api": "Apocalyptic",
+   "name": "Apocalypse Nah",
+   "desc": "Complete the ‘Apocalyptic Whiteout’ Tale",
+   "hidden": false,
+   "pct": 4.2
+  },
+  {
+   "api": "NLChallenge",
+   "name": "The Temptations of New London",
+   "desc": "Complete the Story on at least Steward difficulty",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "Prepper",
+   "name": "Prepper",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "Evacuation",
+   "name": "Way Ahead of You",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  },
+  {
+   "api": "Likeable",
+   "name": "Likeable",
+   "desc": "Never have relations worse than Sceptical with any community or faction.",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "TrickleDownEconomics",
+   "name": "Trickle-Down Economics",
+   "desc": "Generate at least 1 Heatstamp Income per 100 Citizens (Venturers' Utopia)",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "Coredigger",
+   "name": "Coredigger",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.3
+  },
+  {
+   "api": "ReindeerArePeople",
+   "name": "Got Milk?",
+   "desc": "Survive until week 500 without building a single Food District (Menders' Utopia)",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "NLLegacy",
+   "name": "The Demons of New London",
+   "desc": "Complete the Story on Captain difficulty",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "Expanse",
+   "name": "… and fill the earth",
+   "desc": "Reach over 50,000 population outside of your main city",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "NoDeaths",
+   "name": "Not on my watch",
+   "desc": "Complete a playthrough without any avoidable deaths",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "Ambitious",
+   "name": "Ambitious",
+   "desc": "Complete all Ambitions in Utopia Builder mode",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "Comeback",
+   "name": "Comeback Kid",
+   "desc": "Have 'Reviled' level of Trust and then win the next First Citizen Election",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "Plumber",
+   "name": "Plumber",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.7
+  },
+  {
+   "api": "Democracy",
+   "name": "I love democracy",
+   "desc": "Have no votes against Captain's Authority policy",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "MiracleWorker",
+   "name": "Miracle Worker",
+   "desc": "Complete the 'Plague' Tale without suffering any death from the plague",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "IRemember",
+   "name": "I Remember",
+   "desc": "Display 130 Mementos (Overseers' Utopia)",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "ApexPredator",
+   "name": "Apex Predator",
+   "desc": "Survive until week 500 without building a single Extraction District (Icebloods' Utopia)",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "Pinot",
+   "name": "π not?",
+   "desc": "Generate exactly 314 Compute (Technocrats' Utopia)",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "Consistency",
+   "name": "Consistency",
+   "desc": "Never research a building or pass a law of the opposite affinity to the one you already have",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "ThreeAtOnce",
+   "name": "Born Ready",
+   "desc": "Complete three Tales in a single playthrough on at least Steward difficulty",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "ApocalypticExtra",
+   "name": "Seen Worse",
+   "desc": "Complete ‘Apocalyptic Whiteout’ without Hunger and Disease over Minor on at least Steward difficulty",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "DepletedExtra",
+   "name": "Gotta Go Fast",
+   "desc": "Complete the ‘Depleted Cores’ Tale under 200 weeks on at least Steward difficulty",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "ProteanShake",
+   "name": "Protean Shake",
+   "desc": "Have a Workforce 2x your Population size without any Automaton Factory (Proteans' Utopia)",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "FullyDeployed",
+   "name": "Fully Deployed",
+   "desc": "Reach week 500 without ever Frostbreaking or demolishing a Deployment Base (Legionnaires' Utopia)",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "Democrat",
+   "name": "Checks and balances",
+   "desc": "Complete the Story without passing any Rule laws on at least Captain difficulty",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "Isolate",
+   "name": "Isolationist",
+   "desc": "Complete a playthrough without gathering any resources from the frostland or colonies",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "S2StoryNoDeaths",
+   "name": "Pure Dead Brilliant",
+   "desc": "Finish the 'Breach of Trust' scenario without any deaths (on at least Steward difficulty)",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "BeaconExtra",
+   "name": "No One Left Behind",
+   "desc": "Complete the ‘Beacon of Hope’ Tale without any deaths on at least Steward difficulty",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "Artinruins",
+   "name": "Art in Ruins",
+   "desc": "Survive 100 weeks with 50% Wear in at least 20 Districts (Bohemians' Utopia)",
+   "hidden": false,
+   "pct": 0.6
+  }
+ ]
+}

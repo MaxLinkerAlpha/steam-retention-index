@@ -1,0 +1,385 @@
+{
+ "appid": 339340,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 47,
+ "achievements": [
+  {
+   "name": "Train Complete",
+   "desc": "Complete the train.",
+   "hidden": true,
+   "pct": 49.5,
+   "api_name": "ACHIEVEMENT_All_Started",
+   "internal_key": 768
+  },
+  {
+   "name": "Training Facility Complete",
+   "desc": "Complete the training facility.",
+   "hidden": true,
+   "pct": 28.1,
+   "api_name": "ACHIEVEMENT_In_The_Sky",
+   "internal_key": 769
+  },
+  {
+   "name": "Laboratory Complete",
+   "desc": "Complete the laboratory.",
+   "hidden": true,
+   "pct": 25.5,
+   "api_name": "ACHIEVEMENT_Crazy",
+   "internal_key": 770
+  },
+  {
+   "name": "Factory Complete",
+   "desc": "Complete the factory.",
+   "hidden": true,
+   "pct": 25.2,
+   "api_name": "ACHIEVEMENT_Abyss",
+   "internal_key": 771
+  },
+  {
+   "name": "Treatment Plant Complete",
+   "desc": "Complete the treatment plant.",
+   "hidden": true,
+   "pct": 23.6,
+   "api_name": "ACHIEVEMENT_Monster",
+   "internal_key": 772
+  },
+  {
+   "name": "S is for S.T.A.R.S.",
+   "desc": "Finish the game with rank S.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "ACHIEVEMENT_Rank_S",
+   "internal_key": 773
+  },
+  {
+   "name": "From Zero to Hero",
+   "desc": "Finish the game on Hard difficulty.",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "ACHIEVEMENT_STARS",
+   "internal_key": 774
+  },
+  {
+   "name": "Who's Got the Herb?",
+   "desc": "Finish the game without combining herbs.",
+   "hidden": false,
+   "pct": 5.2,
+   "api_name": "ACHIEVEMENT_Material",
+   "internal_key": 775
+  },
+  {
+   "name": "Save Your Prayers",
+   "desc": "Finish the game without saving.",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "ACHIEVEMENT_Hand_To_Mouth",
+   "internal_key": 776
+  },
+  {
+   "name": "Allergic to First Aid Spray",
+   "desc": "Finish the game without using a First-Aid Spray.",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "ACHIEVEMENT_Weak",
+   "internal_key": 777
+  },
+  {
+   "name": "This is Serious Business",
+   "desc": "Finish the game without using a recovery item (including Green Chemicals).",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "ACHIEVEMENT_To_Walk",
+   "internal_key": 778
+  },
+  {
+   "name": "Taking the Sting Out",
+   "desc": "Defeat Stinger.",
+   "hidden": true,
+   "pct": 62.2,
+   "api_name": "ACHIEVEMENT_Illegal_Ride",
+   "internal_key": 779
+  },
+  {
+   "name": "Centurion Disciplinarian",
+   "desc": "Defeat Centurion.",
+   "hidden": true,
+   "pct": 37.3,
+   "api_name": "ACHIEVEMENT_Cul_De_Sac",
+   "internal_key": 780
+  },
+  {
+   "name": "Die, Devil Bird!",
+   "desc": "Defeat Infected Bat.",
+   "hidden": true,
+   "pct": 27.2,
+   "api_name": "ACHIEVEMENT_Unbecoming",
+   "internal_key": 781
+  },
+  {
+   "name": "Proto Tyrant Down",
+   "desc": "Fight off the Proto Tyrant.",
+   "hidden": true,
+   "pct": 25.2,
+   "api_name": "ACHIEVEMENT_Crazy_Wandering",
+   "internal_key": 782
+  },
+  {
+   "name": "Proto Tyrant Down Again",
+   "desc": "Defeat the Proto Tyrant.",
+   "hidden": true,
+   "pct": 24.6,
+   "api_name": "ACHIEVEMENT_The_Ends_Of_Crazy",
+   "internal_key": 783
+  },
+  {
+   "name": "Hey, Queenie! Feast on this!",
+   "desc": "Defeat Queen Leech.",
+   "hidden": true,
+   "pct": 23.6,
+   "api_name": "ACHIEVEMENT_Revenge",
+   "internal_key": 784
+  },
+  {
+   "name": "That's Officer Chambers to You",
+   "desc": "Defeat all bosses except Centurion using Rebecca.",
+   "hidden": true,
+   "pct": 4.3,
+   "api_name": "ACHIEVEMENT_Miss",
+   "internal_key": 785
+  },
+  {
+   "name": "Zero In",
+   "desc": "Defeat an enemy with a critical-hit headshot.",
+   "hidden": false,
+   "pct": 46.5,
+   "api_name": "ACHIEVEMENT_Wandering",
+   "internal_key": 786
+  },
+  {
+   "name": "Burned Alive",
+   "desc": "Defeat an enemy by burning them.",
+   "hidden": false,
+   "pct": 33.2,
+   "api_name": "ACHIEVEMENT_Sacred_Fire",
+   "internal_key": 787
+  },
+  {
+   "name": "Dead, Dead, Deadski",
+   "desc": "Defeat a zombie by stomping on them.",
+   "hidden": false,
+   "pct": 31.4,
+   "api_name": "ACHIEVEMENT_Do_Not_Touch",
+   "internal_key": 788
+  },
+  {
+   "name": "This is How You Recycle",
+   "desc": "Create a Molotov Cocktail.",
+   "hidden": false,
+   "pct": 43.3,
+   "api_name": "ACHIEVEMENT_Impovisation",
+   "internal_key": 789
+  },
+  {
+   "name": "Fashion Plate",
+   "desc": "Change into a costume.",
+   "hidden": false,
+   "pct": 40.4,
+   "api_name": "ACHIEVEMENT_The_Mood",
+   "internal_key": 790
+  },
+  {
+   "name": "Here I Come to Save the Day",
+   "desc": "Attack an enemy to save your partner who is grappling with that enemy.",
+   "hidden": false,
+   "pct": 45.6,
+   "api_name": "ACHIEVEMENT_Fellow",
+   "internal_key": 791
+  },
+  {
+   "name": "Guns are Too Quick",
+   "desc": "Defeat an enemy with a knife.",
+   "hidden": false,
+   "pct": 27.2,
+   "api_name": "ACHIEVEMENT_Joker",
+   "internal_key": 792
+  },
+  {
+   "name": "Misdirected Hostility",
+   "desc": "Destroy a zombie's legs.",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "ACHIEVEMENT_Do_Not_Walk",
+   "internal_key": 793
+  },
+  {
+   "name": "Alley-oop!",
+   "desc": "Shoot down a Hunter or an Eliminator while they are jump attacking in the air.",
+   "hidden": true,
+   "pct": 26.7,
+   "api_name": "ACHIEVEMENT_King_Shot_Down",
+   "internal_key": 794
+  },
+  {
+   "name": "Sit, Boy, Sit! Good Dog",
+   "desc": "Break free of a Cerberus while they are biting you or trying to push you down.",
+   "hidden": true,
+   "pct": 52.0,
+   "api_name": "ACHIEVEMENT_Not_Play",
+   "internal_key": 795
+  },
+  {
+   "name": "Custom to Bust 'Em",
+   "desc": "Create a Custom Handgun.",
+   "hidden": true,
+   "pct": 27.2,
+   "api_name": "ACHIEVEMENT_Force",
+   "internal_key": 796
+  },
+  {
+   "name": "Green is the Color",
+   "desc": "Use a Green Chemical.",
+   "hidden": true,
+   "pct": 16.4,
+   "api_name": "ACHIEVEMENT_Afficacy",
+   "internal_key": 797
+  },
+  {
+   "name": "How 'Bout a Light, Bud?",
+   "desc": "Defeat Mimicry Marcus with a Molotov Cocktail or a Napalm Grenade.",
+   "hidden": true,
+   "pct": 24.7,
+   "api_name": "ACHIEVEMENT_Hellfire",
+   "internal_key": 798
+  },
+  {
+   "name": "Fileophile",
+   "desc": "Read all files.",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "ACHIEVEMENT_Fileophile",
+   "internal_key": 799
+  },
+  {
+   "name": "Apprentice of Unlocking",
+   "desc": "Obtain all keys and use them all.",
+   "hidden": false,
+   "pct": 22.7,
+   "api_name": "ACHIEVEMENT_Apprentice",
+   "internal_key": 1024
+  },
+  {
+   "name": "I Have the Touch",
+   "desc": "Defeat Mimicry Marcus for the first time only using a knife.",
+   "hidden": true,
+   "pct": 3.8,
+   "api_name": "ACHIEVEMENT_Whiz",
+   "internal_key": 1025
+  },
+  {
+   "name": "Find Time to Combine",
+   "desc": "Combine every type of herb with each other.",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "ACHIEVEMENT_Body_Capital",
+   "internal_key": 1026
+  },
+  {
+   "name": "I Could Shoot, You Know",
+   "desc": "Obtain all weapons.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "ACHIEVEMENT_With",
+   "internal_key": 1027
+  },
+  {
+   "name": "Winged Spawn of Satan",
+   "desc": "Defeat 16 bats in the church.",
+   "hidden": true,
+   "pct": 5.9,
+   "api_name": "ACHIEVEMENT_Henchmen",
+   "internal_key": 1028
+  },
+  {
+   "name": "Welcome to Team Wesker",
+   "desc": "Put on Team Wesker costume.",
+   "hidden": true,
+   "pct": 3.8,
+   "api_name": "ACHIEVEMENT_Dress",
+   "internal_key": 1029
+  },
+  {
+   "name": "Calm the Zombie Nerves",
+   "desc": "Play the piano using Rebecca.",
+   "hidden": true,
+   "pct": 20.3,
+   "api_name": "ACHIEVEMENT_Wich_Practice",
+   "internal_key": 1030
+  },
+  {
+   "name": "I'm a Medic, Not a Bodybuilder",
+   "desc": "Try to push something heavy with Rebecca.",
+   "hidden": false,
+   "pct": 24.9,
+   "api_name": "ACHIEVEMENT_Maiden",
+   "internal_key": 1031
+  },
+  {
+   "name": "On Leather Wings",
+   "desc": "Get picked up by the Infected Bat.",
+   "hidden": true,
+   "pct": 24.1,
+   "api_name": "ACHIEVEMENT_Heaven",
+   "internal_key": 1032
+  },
+  {
+   "name": "Trying Out New Things",
+   "desc": "Play Leech Hunter.",
+   "hidden": true,
+   "pct": 7.2,
+   "api_name": "ACHIEVEMENT_New_Hell",
+   "internal_key": 1033
+  },
+  {
+   "name": "A Weird Interest in Leeches",
+   "desc": "Finish Leech Hunter with rank A.",
+   "hidden": true,
+   "pct": 4.9,
+   "api_name": "ACHIEVEMENT_Bell_Fight_Back",
+   "internal_key": 1034
+  },
+  {
+   "name": "Leech-Shaped Hole in my Heart",
+   "desc": "Finish Leech Hunter with rank E or above.",
+   "hidden": true,
+   "pct": 6.4,
+   "api_name": "ACHIEVEMENT_Continuation",
+   "internal_key": 1035
+  },
+  {
+   "name": "Who Needs Partners?",
+   "desc": "Collect all of only one color of Leech Charms.",
+   "hidden": true,
+   "pct": 3.3,
+   "api_name": "ACHIEVEMENT_Baggage",
+   "internal_key": 1036
+  },
+  {
+   "name": "Distracted from the Hunt",
+   "desc": "Defeat all enemies in Leech Hunter.",
+   "hidden": true,
+   "pct": 3.5,
+   "api_name": "ACHIEVEMENT_Sweeper",
+   "internal_key": 1037
+  },
+  {
+   "name": "20/20 Vision",
+   "desc": "Kill 50 enemies with the Death Stare at full charge.",
+   "hidden": true,
+   "pct": 3.5,
+   "api_name": "ACHIEVEMENT_God",
+   "internal_key": 1038
+  }
+ ]
+}

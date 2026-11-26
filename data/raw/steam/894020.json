@@ -1,0 +1,176 @@
+{
+ "appid": 894020,
+ "game": "Death's Door",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 24,
+ "achievements": [
+  {
+   "api": "ach_soup",
+   "name": "Squid Soup?",
+   "desc": "Accept Jefferson's Soup",
+   "hidden": false,
+   "pct": 39.3
+  },
+  {
+   "api": "ach_clever",
+   "name": "Clever Too Much",
+   "desc": "Gain a devoted fan",
+   "hidden": false,
+   "pct": 36.2
+  },
+  {
+   "api": "ach_spend",
+   "name": "Big Spender",
+   "desc": "Purchase 12 stat upgrades",
+   "hidden": false,
+   "pct": 33.8
+  },
+  {
+   "api": "ach_fire",
+   "name": "Cremation",
+   "desc": "Upgrade the fire ability",
+   "hidden": false,
+   "pct": 30.2
+  },
+  {
+   "api": "ach_game",
+   "name": "Crow Gamer",
+   "desc": "Beat the game",
+   "hidden": false,
+   "pct": 30.0
+  },
+  {
+   "api": "ach_specialist",
+   "name": "Specialist",
+   "desc": "Max out any of the 4 stats",
+   "hidden": false,
+   "pct": 30.0
+  },
+  {
+   "api": "ach_bomb",
+   "name": "Demo Crow",
+   "desc": "Upgrade the bomb ability",
+   "hidden": false,
+   "pct": 28.8
+  },
+  {
+   "api": "ach_hook",
+   "name": "Crouching Tiger Hidden Crow",
+   "desc": "Upgrade the hookshot ability",
+   "hidden": false,
+   "pct": 26.3
+  },
+  {
+   "api": "ach_weapons",
+   "name": "Weapon Master",
+   "desc": "Collect all weapons",
+   "hidden": false,
+   "pct": 26.0
+  },
+  {
+   "api": "ach_arrow",
+   "name": "Hawk Eye",
+   "desc": "Upgrade the arrow ability",
+   "hidden": false,
+   "pct": 25.5
+  },
+  {
+   "api": "ach_pothead",
+   "name": "Plot Head",
+   "desc": "Access Pothead's secret garden",
+   "hidden": false,
+   "pct": 24.2
+  },
+  {
+   "api": "ach_tune",
+   "name": "Banging Tune",
+   "desc": "Listen to Barb's magnum opus",
+   "hidden": false,
+   "pct": 21.2
+  },
+  {
+   "api": "ach_hotpot",
+   "name": "Hot Pot",
+   "desc": "Set Grandma's pot on fire",
+   "hidden": false,
+   "pct": 17.6
+  },
+  {
+   "api": "ach_jeff",
+   "name": "A Stroll with Jefferson",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.4
+  },
+  {
+   "api": "ach_shrines",
+   "name": "Zen",
+   "desc": "Find all shrines",
+   "hidden": false,
+   "pct": 17.2
+  },
+  {
+   "api": "ach_conga",
+   "name": "Conga Line",
+   "desc": "Have a gang of 10+ forest spirits follow you",
+   "hidden": false,
+   "pct": 16.3
+  },
+  {
+   "api": "ach_owls",
+   "name": "In Caw-Hoots",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.0
+  },
+  {
+   "api": "ach_plants",
+   "name": "Reap what you sow",
+   "desc": "All seeds collected and planted",
+   "hidden": false,
+   "pct": 14.4
+  },
+  {
+   "api": "ach_shiny",
+   "name": "Ooh Shiny!",
+   "desc": "Collect all shiny things",
+   "hidden": false,
+   "pct": 14.2
+  },
+  {
+   "api": "ach_truth",
+   "name": "A True End",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.1
+  },
+  {
+   "api": "ach_chore",
+   "name": "Lord of Chores",
+   "desc": "100% Complete the game",
+   "hidden": false,
+   "pct": 12.1
+  },
+  {
+   "api": "ach_king",
+   "name": "Meal for a King",
+   "desc": "Feed the Frog King an explosive treat",
+   "hidden": false,
+   "pct": 11.3
+  },
+  {
+   "api": "ach_tsa",
+   "name": "Baul Plart, Hall Cop",
+   "desc": "Trigger the metal detector without detecting a threat",
+   "hidden": false,
+   "pct": 9.9
+  },
+  {
+   "api": "ach_umbrella",
+   "name": "Academy of Umbrellas",
+   "desc": "Beat the game only ever using an umbrella as your melee weapon",
+   "hidden": false,
+   "pct": 4.8
+  }
+ ]
+}

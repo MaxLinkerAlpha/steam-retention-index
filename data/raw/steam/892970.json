@@ -1,0 +1,379 @@
+{
+ "appid": 892970,
+ "game": "Valheim",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 53,
+ "achievements": [
+  {
+   "api": "Arrived",
+   "name": "I Have Arrived!",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.2
+  },
+  {
+   "api": "FirstDeath",
+   "name": "The First of Many",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.1
+  },
+  {
+   "api": "BuildHouse",
+   "name": "The Homesteader",
+   "desc": "Build a house.",
+   "hidden": false,
+   "pct": 13.2
+  },
+  {
+   "api": "Boss1Eikthyr",
+   "name": "Eikthyr",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.0
+  },
+  {
+   "api": "MultiplayerBoss",
+   "name": "Stronger Together",
+   "desc": "Kill a boss together with a friend.",
+   "hidden": false,
+   "pct": 10.4
+  },
+  {
+   "api": "BuildVillage",
+   "name": "The Architect",
+   "desc": "Build a village.",
+   "hidden": false,
+   "pct": 9.8
+  },
+  {
+   "api": "Boss2Elder",
+   "name": "The Elder",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.3
+  },
+  {
+   "api": "GrindBuild",
+   "name": "The Builder",
+   "desc": "Build 500 pieces.",
+   "hidden": false,
+   "pct": 7.5
+  },
+  {
+   "api": "Boss3Bonemass",
+   "name": "Bonemass",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.0
+  },
+  {
+   "api": "SoloBoss",
+   "name": "Lone Wolf",
+   "desc": "Kill a boss all by yourself.",
+   "hidden": false,
+   "pct": 5.9
+  },
+  {
+   "api": "Boss4Moder",
+   "name": "Moder",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.9
+  },
+  {
+   "api": "GrindCook",
+   "name": "The Cook",
+   "desc": "Cook 100 dishes.",
+   "hidden": false,
+   "pct": 4.5
+  },
+  {
+   "api": "DeathByTree",
+   "name": "Accidents Happen",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.3
+  },
+  {
+   "api": "GrindLeviathan",
+   "name": "No Time For Snoozing",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.3
+  },
+  {
+   "api": "GrindEat",
+   "name": "No Adventuring On an Empty Stomach",
+   "desc": "Eat 500 items of food.",
+   "hidden": false,
+   "pct": 4.2
+  },
+  {
+   "api": "Boss5Yagluth",
+   "name": "Yagluth",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.9
+  },
+  {
+   "api": "GrindHarvest",
+   "name": "The Farmer",
+   "desc": "Harvest 500 crops.",
+   "hidden": false,
+   "pct": 3.5
+  },
+  {
+   "api": "GrindComfort",
+   "name": "Comfort is King",
+   "desc": "Reach a comfort level of 20.",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "Boss6Queen",
+   "name": "The Seeker Queen",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "GrindForager",
+   "name": "The Forager",
+   "desc": "Pick 250 berries and 250 mushrooms.",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "GrindDays",
+   "name": "The Survivor",
+   "desc": "Survive for 30 consecutive days.",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "Boss7Fader",
+   "name": "Fader",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.2
+  },
+  {
+   "api": "GrindSailHelm",
+   "name": "The Captain",
+   "desc": "Sail far enough to circle the world, while manning the helm.",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "GrindHoney",
+   "name": "The Beekeeper",
+   "desc": "Harvest 500 honey.",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "Boss8FrozenKing",
+   "name": "Kall Fimbulbringer",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.4
+  },
+  {
+   "api": "GrindSail",
+   "name": "The Sailor",
+   "desc": "Sail far enough to circle the world twice.",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "AllBosses",
+   "name": "The Viking",
+   "desc": "Defeat all bosses on any difficulty.",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "AllBossesNormal",
+   "name": "The Tough Viking",
+   "desc": "Defeat all bosses on normal difficulty or higher.",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "BuildDyrnwyn",
+   "name": "The Chosen One",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.7
+  },
+  {
+   "api": "AllMiniBosses",
+   "name": "Odin is Pleased",
+   "desc": "Defeat all minibosses.",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "DeathByObliterator",
+   "name": "Obliterated",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.4
+  },
+  {
+   "api": "GrindTrees",
+   "name": "The Lumberjack",
+   "desc": "Cut down 500 trees.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "BuildHigh",
+   "name": "Mighty Halls",
+   "desc": "Raise a very tall structure.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "SailEdge",
+   "name": "The Legends Are True",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.3
+  },
+  {
+   "api": "AllBossesHard",
+   "name": "The Toughest Viking",
+   "desc": "Defeat all bosses on hard difficulty.",
+   "hidden": false,
+   "pct": 0.2
+  },
+  {
+   "api": "GrindTreasure",
+   "name": "The Treasure Hunter",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.2
+  },
+  {
+   "api": "BuildHighWorld",
+   "name": "Top of the World",
+   "desc": "Build something very high up.",
+   "hidden": false,
+   "pct": 0.1
+  },
+  {
+   "api": "BigFish",
+   "name": "A Catch Worthy of Njord",
+   "desc": "Catch a four star fish.",
+   "hidden": false,
+   "pct": 0.1
+  },
+  {
+   "api": "DeathByAllTypes",
+   "name": "Are You Alright?",
+   "desc": "Die in every way possible.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "DeathByTreeAll",
+   "name": "That Can't Be an Accident",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.0
+  },
+  {
+   "api": "KillAllCreatures",
+   "name": "The Hunter",
+   "desc": "Kill every kind of creature.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "KillAllCreaturesHard",
+   "name": "The Master Hunter",
+   "desc": "Kill every kind of creature on hard difficulty.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "FindAllTrophies",
+   "name": "The Trophy Collector",
+   "desc": "Collect all trophies.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "GrindFish",
+   "name": "The Fisherman",
+   "desc": "Catch every kind of fish.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "ExploreNSEW",
+   "name": "The Explorer",
+   "desc": "Travel far in all four directions.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "ExploreNSEWNoMap",
+   "name": "The Pathfinder",
+   "desc": "Travel far in all four directions, without using a map.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "AllWeaponCraft",
+   "name": "The Blacksmith",
+   "desc": "Craft every kind of weapon.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "AllFoodCooked",
+   "name": "The Master Chef",
+   "desc": "Cook every kind of dish.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "AllItemCraft",
+   "name": "The Artisan",
+   "desc": "Craft every kind of item.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "AllFoodEaten",
+   "name": "The Gourmet",
+   "desc": "Eat every kind of edible item.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "AllBuildPieces",
+   "name": "The Carpenter",
+   "desc": "Build everything.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "KingsQueens",
+   "name": "Kings and Queens of Valheim",
+   "desc": "Embody the spirits of the Viking, Hunter, Artisan, Master Chef, Carpenter and the Explorer.",
+   "hidden": false,
+   "pct": 0.0
+  },
+  {
+   "api": "ChildOfOdin",
+   "name": "Child of Odin",
+   "desc": "Embody the spirits of the Toughest Viking, Master Hunter, Survivor and Pathfinder.",
+   "hidden": false,
+   "pct": 0.0
+  }
+ ]
+}

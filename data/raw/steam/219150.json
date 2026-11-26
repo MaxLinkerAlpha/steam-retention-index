@@ -1,0 +1,253 @@
+{
+ "appid": 219150,
+ "game": "Hotline Miami",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 35,
+ "achievements": [
+  {
+   "api": "ACH_COMBO_BEGINNER",
+   "name": "Combo Beginner",
+   "desc": "Perform a 4x combo",
+   "hidden": false,
+   "pct": 79.8
+  },
+  {
+   "api": "ACH_PLAYING_POOL",
+   "name": "Playing Pool",
+   "desc": "Kill an enemy with a brick bounced against a wall",
+   "hidden": false,
+   "pct": 72.1
+  },
+  {
+   "api": "ACH_COMBO_INTERMEDIATE",
+   "name": "Combo Intermediate",
+   "desc": "Perform a 6x combo",
+   "hidden": false,
+   "pct": 64.7
+  },
+  {
+   "api": "ACH_DOMINO_EFFECT",
+   "name": "Domino Effect",
+   "desc": "Throw a weapon at an enemy so that his weapon hits another",
+   "hidden": false,
+   "pct": 62.3
+  },
+  {
+   "api": "ACH_NIGEL_LOWRIE",
+   "name": "Nigel Lowrie",
+   "desc": "Use a human shield",
+   "hidden": false,
+   "pct": 61.3
+  },
+  {
+   "api": "ACH_DOGLOVER",
+   "name": "Dog Lover",
+   "desc": "Kill 99 dogs",
+   "hidden": false,
+   "pct": 43.0
+  },
+  {
+   "api": "ACH_ACED_IT",
+   "name": "Aced It",
+   "desc": "Get an A+ on any chapter",
+   "hidden": false,
+   "pct": 42.9
+  },
+  {
+   "api": "ACH_1989",
+   "name": "1989",
+   "desc": "Kill 1989 enemies",
+   "hidden": false,
+   "pct": 41.2
+  },
+  {
+   "api": "ACH_COMBO_PRO",
+   "name": "Combo Pro",
+   "desc": "Perform a 8x combo",
+   "hidden": false,
+   "pct": 40.8
+  },
+  {
+   "api": "ACH_THE_END",
+   "name": "The End?",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.8
+  },
+  {
+   "api": "ACH_THATS_IT",
+   "name": "That's It?",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.0
+  },
+  {
+   "api": "ACH_LET_IN_SOME_FRESH_AIR",
+   "name": "Let In Some Air",
+   "desc": "Destroy 200 glass panels",
+   "hidden": false,
+   "pct": 33.8
+  },
+  {
+   "api": "ACH_KARMA",
+   "name": "Karma",
+   "desc": "Die 1000 times",
+   "hidden": false,
+   "pct": 25.4
+  },
+  {
+   "api": "ACH_COMBO_MASTER",
+   "name": "Combo Master",
+   "desc": "Perform a 10x combo",
+   "hidden": false,
+   "pct": 20.4
+  },
+  {
+   "api": "ACH_I_GOT_NEW_FRIENDS",
+   "name": "I Got New Friends",
+   "desc": "Unlock all weapons",
+   "hidden": false,
+   "pct": 16.6
+  },
+  {
+   "api": "ACH_GUNS_FOR_SHOW",
+   "name": "Guns For Show",
+   "desc": "use all guns at least once",
+   "hidden": false,
+   "pct": 10.5
+  },
+  {
+   "api": "ACH_EYE_FOR_DETAILS",
+   "name": "Eye For Details",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.4
+  },
+  {
+   "api": "ACH_COMBO_KING",
+   "name": "Combo King",
+   "desc": "Perform a 12x combo",
+   "hidden": false,
+   "pct": 10.3
+  },
+  {
+   "api": "ACH_PITCHER",
+   "name": "Pitcher",
+   "desc": "use all throwing weapon at least once",
+   "hidden": false,
+   "pct": 10.0
+  },
+  {
+   "api": "ACH_THE_BOSS",
+   "name": "The Boss",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.9
+  },
+  {
+   "api": "ACH_THAT_IS_IT",
+   "name": "This Is It",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.8
+  },
+  {
+   "api": "ACH_THESE_ARE_MY_GUNS",
+   "name": "These Are My Guns",
+   "desc": "Complete chapter five barehanded",
+   "hidden": false,
+   "pct": 9.1
+  },
+  {
+   "api": "ACH_60_TO_CAR",
+   "name": "60 To Car",
+   "desc": "Go to the car 60 times",
+   "hidden": false,
+   "pct": 8.9
+  },
+  {
+   "api": "ACH_KNIFE_FOR_PROS",
+   "name": "Knife For Pros",
+   "desc": "use all melee weapon at least once",
+   "hidden": false,
+   "pct": 8.4
+  },
+  {
+   "api": "ACH_TWO_BIRDS_WITH_ONE_STONE",
+   "name": "Two Birds With One Stone",
+   "desc": "Kill two enemies with the same brick in one throw",
+   "hidden": false,
+   "pct": 8.2
+  },
+  {
+   "api": "ACH_ZOO_KEEPER",
+   "name": "Zoo Keeper",
+   "desc": "Collect all the masks",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "ACH_CAT_FIGHT",
+   "name": "Cat Fight",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.9
+  },
+  {
+   "api": "ACH_SEWER_ALLIGATOR",
+   "name": "Sewer Alligator",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.6
+  },
+  {
+   "api": "ACH_SMELL_SOMETHING_BURNING",
+   "name": "Smell Something Burning",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.0
+  },
+  {
+   "api": "ACH_SOUNDS_OF_ANIMALS_FIGHTING",
+   "name": "Sounds of Animals Fighting",
+   "desc": "Wear all masks at least once",
+   "hidden": false,
+   "pct": 5.9
+  },
+  {
+   "api": "ACH_BATMAN",
+   "name": "Batman",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.7
+  },
+  {
+   "api": "ACH_PLAIN_LUCK",
+   "name": "Plain Luck",
+   "desc": "Kill three or more enemies with the same brick in one throw",
+   "hidden": false,
+   "pct": 5.1
+  },
+  {
+   "api": "ACH_ALWAYS_ON_TOP",
+   "name": "Always On Top",
+   "desc": "Perform every ground kill in the game",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "ACH_GET_A_LIFE",
+   "name": "Get A Life",
+   "desc": "Get A+ on all the chapters",
+   "hidden": false,
+   "pct": 4.6
+  },
+  {
+   "api": "ACH_ACHIEVEMENT_WHORE",
+   "name": "Achievement Whore",
+   "desc": "Unlock all achievements",
+   "hidden": false,
+   "pct": 4.0
+  }
+ ]
+}

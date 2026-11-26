@@ -1,0 +1,393 @@
+{
+ "appid": 1222140,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 48,
+ "achievements": [
+  {
+   "name": "SURVIVORS",
+   "desc": "Everyone is alive at the end",
+   "hidden": true,
+   "pct": 6.9,
+   "api_name": "48",
+   "internal_key": 256
+  },
+  {
+   "name": "THANK YOU",
+   "desc": "Play the first chapter",
+   "hidden": false,
+   "pct": 87.9,
+   "api_name": "1",
+   "internal_key": 257
+  },
+  {
+   "name": "THESE ARE OUR STORIES",
+   "desc": "Spend 20,000 bonus points",
+   "hidden": true,
+   "pct": 4.2,
+   "api_name": "47",
+   "internal_key": 258
+  },
+  {
+   "name": "MISSION ACCOMPLISHED",
+   "desc": "Connor saved Emma",
+   "hidden": true,
+   "pct": 86.7,
+   "api_name": "2",
+   "internal_key": 259
+  },
+  {
+   "name": "SECRETS",
+   "desc": "Kara discovered the content of Alice's box",
+   "hidden": true,
+   "pct": 70.6,
+   "api_name": "3",
+   "internal_key": 260
+  },
+  {
+   "name": "DEVIANT LOCATED",
+   "desc": "Connor found the deviant in the attic",
+   "hidden": true,
+   "pct": 65.8,
+   "api_name": "4",
+   "internal_key": 261
+  },
+  {
+   "name": "WE ARE FREE",
+   "desc": "Kara and Alice escaped Todd's House",
+   "hidden": true,
+   "pct": 65.4,
+   "api_name": "5",
+   "internal_key": 262
+  },
+  {
+   "name": "DEFEND YOURSELF",
+   "desc": "Markus pushed Leo",
+   "hidden": true,
+   "pct": 41.2,
+   "api_name": "6",
+   "internal_key": 263
+  },
+  {
+   "name": "SELF-CONTROL",
+   "desc": "Markus let Leo win",
+   "hidden": true,
+   "pct": 39.2,
+   "api_name": "7",
+   "internal_key": 264
+  },
+  {
+   "name": "CONFESSION",
+   "desc": "Connor made the android confess",
+   "hidden": true,
+   "pct": 42.9,
+   "api_name": "8",
+   "internal_key": 265
+  },
+  {
+   "name": "SHELTER",
+   "desc": "Kara and Alice slept in the motel or the squat",
+   "hidden": true,
+   "pct": 48.1,
+   "api_name": "9",
+   "internal_key": 266
+  },
+  {
+   "name": "KNOW YOUR PARTNER",
+   "desc": "Connor found all the clues about Hank",
+   "hidden": true,
+   "pct": 47.1,
+   "api_name": "10",
+   "internal_key": 267
+  },
+  {
+   "name": "RUN KARA RUN",
+   "desc": "Kara and Alice escaped the police",
+   "hidden": true,
+   "pct": 57.4,
+   "api_name": "11",
+   "internal_key": 268
+  },
+  {
+   "name": "CATCH IT",
+   "desc": "Connor caught up with Rupert",
+   "hidden": true,
+   "pct": 13.1,
+   "api_name": "12",
+   "internal_key": 269
+  },
+  {
+   "name": "SAVE HANK",
+   "desc": "Connor saved Hank",
+   "hidden": true,
+   "pct": 41.7,
+   "api_name": "13",
+   "internal_key": 270
+  },
+  {
+   "name": "ESCAPE THE MANOR",
+   "desc": "Kara and Alice escaped Zlatko's house",
+   "hidden": true,
+   "pct": 51.4,
+   "api_name": "14",
+   "internal_key": 271
+  },
+  {
+   "name": "RUTHLESS",
+   "desc": "The Tracis were killed",
+   "hidden": true,
+   "pct": 26.3,
+   "api_name": "15",
+   "internal_key": 272
+  },
+  {
+   "name": "DOUBTS",
+   "desc": "The Tracis escaped",
+   "hidden": true,
+   "pct": 30.2,
+   "api_name": "16",
+   "internal_key": 273
+  },
+  {
+   "name": "JERICHO'S HERO",
+   "desc": "Markus got enough parts",
+   "hidden": true,
+   "pct": 47.9,
+   "api_name": "17",
+   "internal_key": 274
+  },
+  {
+   "name": "JUST A MACHINE",
+   "desc": "Hank killed Connor",
+   "hidden": true,
+   "pct": 7.5,
+   "api_name": "18",
+   "internal_key": 275
+  },
+  {
+   "name": "A SMILE ON HER FACE",
+   "desc": "Alice enjoyed a ride on the merry-go-round",
+   "hidden": true,
+   "pct": 47.6,
+   "api_name": "19",
+   "internal_key": 276
+  },
+  {
+   "name": "WHEN A PLAN COMES TOGETHER",
+   "desc": "Markus broadcasted his message without raising an alarm or having a team casualty",
+   "hidden": true,
+   "pct": 17.4,
+   "api_name": "20",
+   "internal_key": 277
+  },
+  {
+   "name": "A GLIMPSE OF JERICHO",
+   "desc": "Connor connected to Simon",
+   "hidden": true,
+   "pct": 8.7,
+   "api_name": "21",
+   "internal_key": 278
+  },
+  {
+   "name": "SEND A MESSAGE",
+   "desc": "Markus conducted a pacifist riot",
+   "hidden": true,
+   "pct": 35.8,
+   "api_name": "22",
+   "internal_key": 279
+  },
+  {
+   "name": "BURN THE PLACE",
+   "desc": "Markus conducted a violent riot",
+   "hidden": true,
+   "pct": 9.3,
+   "api_name": "23",
+   "internal_key": 280
+  },
+  {
+   "name": "NOTHING TO SEE HERE",
+   "desc": "Kara succeeded to make the cop go away",
+   "hidden": true,
+   "pct": 41.2,
+   "api_name": "24",
+   "internal_key": 281
+  },
+  {
+   "name": "CONFRONTATION",
+   "desc": "Markus attacked the police",
+   "hidden": true,
+   "pct": 21.2,
+   "api_name": "25",
+   "internal_key": 282
+  },
+  {
+   "name": "STAND YOUR GROUND",
+   "desc": "Markus stood his ground against the police",
+   "hidden": true,
+   "pct": 21.6,
+   "api_name": "26",
+   "internal_key": 283
+  },
+  {
+   "name": "PRIORITIES",
+   "desc": "Connor killed the Chloe",
+   "hidden": true,
+   "pct": 9.7,
+   "api_name": "27",
+   "internal_key": 284
+  },
+  {
+   "name": "KINSHIP",
+   "desc": "Connor refused to kill the Chloe",
+   "hidden": true,
+   "pct": 41.4,
+   "api_name": "28",
+   "internal_key": 285
+  },
+  {
+   "name": "BLOODHOUND",
+   "desc": "Connor got the location of Jericho by himself",
+   "hidden": true,
+   "pct": 41.9,
+   "api_name": "29",
+   "internal_key": 286
+  },
+  {
+   "name": "THREE AT JERICHO",
+   "desc": "Bring the three characters to Crossroads",
+   "hidden": true,
+   "pct": 40.3,
+   "api_name": "30",
+   "internal_key": 287
+  },
+  {
+   "name": "SCORCHED EARTH",
+   "desc": "Markus or Connor detonated the freighter",
+   "hidden": true,
+   "pct": 41.0,
+   "api_name": "31",
+   "internal_key": 512
+  },
+  {
+   "name": "LIBERATION",
+   "desc": "Markus reached the camp and liberated the androids",
+   "hidden": true,
+   "pct": 18.1,
+   "api_name": "32",
+   "internal_key": 513
+  },
+  {
+   "name": "MORAL VICTORY",
+   "desc": "Markus succeeded in making the soldiers stand back",
+   "hidden": true,
+   "pct": 18.4,
+   "api_name": "33",
+   "internal_key": 514
+  },
+  {
+   "name": "ESCAPE DEATH",
+   "desc": "Kara and Alice escaped the recycling center",
+   "hidden": true,
+   "pct": 7.3,
+   "api_name": "34",
+   "internal_key": 515
+  },
+  {
+   "name": "SAFE HARBOR",
+   "desc": "Kara and Alice passed the border",
+   "hidden": true,
+   "pct": 16.2,
+   "api_name": "35",
+   "internal_key": 516
+  },
+  {
+   "name": "AN ARMY OF ME",
+   "desc": "Connor converted the androids",
+   "hidden": true,
+   "pct": 30.5,
+   "api_name": "36",
+   "internal_key": 517
+  },
+  {
+   "name": "MISSION COMPLETE",
+   "desc": "Connor killed the leader of the deviants",
+   "hidden": true,
+   "pct": 6.5,
+   "api_name": "37",
+   "internal_key": 518
+  },
+  {
+   "name": "MY TURN TO DECIDE",
+   "desc": "Connor resisted hacking attempt from Cyberlife",
+   "hidden": true,
+   "pct": 27.9,
+   "api_name": "38",
+   "internal_key": 519
+  },
+  {
+   "name": "COMPLIANT",
+   "desc": "Connor stayed a machine",
+   "hidden": true,
+   "pct": 11.2,
+   "api_name": "39",
+   "internal_key": 520
+  },
+  {
+   "name": "ONE OF US",
+   "desc": "Connor became deviant",
+   "hidden": true,
+   "pct": 36.4,
+   "api_name": "40",
+   "internal_key": 521
+  },
+  {
+   "name": "UNDEFEATED",
+   "desc": "Don't lose any fight before reaching the end",
+   "hidden": true,
+   "pct": 33.6,
+   "api_name": "41",
+   "internal_key": 522
+  },
+  {
+   "name": "BOOKWORM",
+   "desc": "Find every single magazine in the game",
+   "hidden": true,
+   "pct": 1.3,
+   "api_name": "42",
+   "internal_key": 523
+  },
+  {
+   "name": "PARTNERS",
+   "desc": "Hank and Connor were friends until the end",
+   "hidden": true,
+   "pct": 30.5,
+   "api_name": "43",
+   "internal_key": 524
+  },
+  {
+   "name": "HAPPY FAMILY",
+   "desc": "Kara, Alice, Luther are together at the end",
+   "hidden": true,
+   "pct": 17.0,
+   "api_name": "44",
+   "internal_key": 525
+  },
+  {
+   "name": "I'LL BE BACK",
+   "desc": "Connor died and returned at every opportunity before reaching the end",
+   "hidden": true,
+   "pct": 1.3,
+   "api_name": "45",
+   "internal_key": 526
+  },
+  {
+   "name": "THIS IS MY STORY",
+   "desc": "Finish the game once",
+   "hidden": true,
+   "pct": 39.9,
+   "api_name": "46",
+   "internal_key": 527
+  }
+ ]
+}

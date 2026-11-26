@@ -1,0 +1,582 @@
+{
+ "appid": 379430,
+ "game": "Kingdom Come: Deliverance",
+ "snapshot": "2026-11-24 17:41 +08",
+ "count": 82,
+ "achievements": [
+  {
+   "api": "BlacksmithsSon",
+   "name": "Blacksmith's Son",
+   "desc": "",
+   "hidden": true,
+   "pct": 79.2
+  },
+  {
+   "api": "Cavalier",
+   "name": "Cavalier",
+   "desc": "",
+   "hidden": true,
+   "pct": 62.6
+  },
+  {
+   "api": "Awakening",
+   "name": "Awakening",
+   "desc": "",
+   "hidden": true,
+   "pct": 61.5
+  },
+  {
+   "api": "Buddy",
+   "name": "Buddy",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.6
+  },
+  {
+   "api": "Fatso",
+   "name": "Fatso",
+   "desc": "Be stuffed to bursting for two days.",
+   "hidden": false,
+   "pct": 44.2
+  },
+  {
+   "api": "Scrooge",
+   "name": "Scrooge",
+   "desc": "Hoard 5,000 Groschen.",
+   "hidden": false,
+   "pct": 40.3
+  },
+  {
+   "api": "Sinner",
+   "name": "Sinner",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.8
+  },
+  {
+   "api": "Ranger",
+   "name": "Ranger",
+   "desc": "Walk more than 50 Km.",
+   "hidden": false,
+   "pct": 37.3
+  },
+  {
+   "api": "Runt",
+   "name": "Runt",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.8
+  },
+  {
+   "api": "Casanova",
+   "name": "Casanova",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.6
+  },
+  {
+   "api": "Anorectic",
+   "name": "Anorectic",
+   "desc": "Starve for three days.",
+   "hidden": false,
+   "pct": 30.4
+  },
+  {
+   "api": "Bookworm",
+   "name": "Bookworm",
+   "desc": "Read twenty books.",
+   "hidden": false,
+   "pct": 29.8
+  },
+  {
+   "api": "McLovin",
+   "name": "McLovin",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.4
+  },
+  {
+   "api": "Insomniac",
+   "name": "Insomniac",
+   "desc": "Don't sleep for two days and nights.",
+   "hidden": false,
+   "pct": 28.5
+  },
+  {
+   "api": "Convict",
+   "name": "Convict",
+   "desc": "Spend three days in prison.",
+   "hidden": false,
+   "pct": 28.2
+  },
+  {
+   "api": "Thief",
+   "name": "Thief",
+   "desc": "Steal things with a total value of 30,000 Groschen.",
+   "hidden": false,
+   "pct": 24.4
+  },
+  {
+   "api": "Monk",
+   "name": "Monk",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.2
+  },
+  {
+   "api": "Traveller",
+   "name": "Traveller",
+   "desc": "Discover all locations on the map.",
+   "hidden": false,
+   "pct": 23.5
+  },
+  {
+   "api": "Conqueror",
+   "name": "Conqueror",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.2
+  },
+  {
+   "api": "Bastard",
+   "name": "Bastard",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.0
+  },
+  {
+   "api": "DieByTheSplinter",
+   "name": "Death by Splinter",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.7
+  },
+  {
+   "api": "BadTrip",
+   "name": "Bad Trip ",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.6
+  },
+  {
+   "api": "Haggler",
+   "name": "Haggler",
+   "desc": "Save 2000 Groschen by haggling.",
+   "hidden": false,
+   "pct": 20.9
+  },
+  {
+   "api": "PlagueDoctor",
+   "name": "Plague Doctor",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.9
+  },
+  {
+   "api": "Firestarter",
+   "name": "Firestarter",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.8
+  },
+  {
+   "api": "AWomansLot",
+   "name": "Woman's Lot",
+   "desc": "Complete Theresa's story.",
+   "hidden": false,
+   "pct": 18.1
+  },
+  {
+   "api": "Ginger",
+   "name": "Ginger",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.4
+  },
+  {
+   "api": "SerialKiller",
+   "name": "Serial Killer",
+   "desc": "Kill 200 people.",
+   "hidden": false,
+   "pct": 14.0
+  },
+  {
+   "api": "Bard",
+   "name": "Bard",
+   "desc": "Level up Speech to maximum.",
+   "hidden": false,
+   "pct": 13.8
+  },
+  {
+   "api": "TheEnd",
+   "name": "The End",
+   "desc": "Complete the main story line.",
+   "hidden": false,
+   "pct": 13.4
+  },
+  {
+   "api": "RobberBaron",
+   "name": "Robber Baron",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.8
+  },
+  {
+   "api": "Bailiff",
+   "name": "Bailiff",
+   "desc": "Ensure the renewal of Pribyslavitz.",
+   "hidden": false,
+   "pct": 12.0
+  },
+  {
+   "api": "TalmbergPreparation",
+   "name": "Talmberger",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.7
+  },
+  {
+   "api": "Chivalrous",
+   "name": "Chivalrous Soul",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.6
+  },
+  {
+   "api": "Saviour",
+   "name": "Saviour",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.3
+  },
+  {
+   "api": "MasterOfArena",
+   "name": "Arena Master",
+   "desc": "Get a complete set of armour from the Rattay tourney.",
+   "hidden": false,
+   "pct": 11.2
+  },
+  {
+   "api": "Knightrider",
+   "name": "Knightrider",
+   "desc": "Win the Talmberg horse race.",
+   "hidden": false,
+   "pct": 10.8
+  },
+  {
+   "api": "Hunter",
+   "name": "Hunter",
+   "desc": "Bag fifty game animals.",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "MercenarysHonor",
+   "name": "Mercenary's Honour",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.6
+  },
+  {
+   "api": "Tracker",
+   "name": "Tracker",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.5
+  },
+  {
+   "api": "LevelCap",
+   "name": "Level Cap",
+   "desc": "Reach maximum level.",
+   "hidden": false,
+   "pct": 8.9
+  },
+  {
+   "api": "Freud",
+   "name": "Freud",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.4
+  },
+  {
+   "api": "EnoughRope",
+   "name": "Spoilsport",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.8
+  },
+  {
+   "api": "ICanStop",
+   "name": "I Can Quit Anytime",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.8
+  },
+  {
+   "api": "Completionist",
+   "name": "Completionist",
+   "desc": "Complete all quests.",
+   "hidden": false,
+   "pct": 7.2
+  },
+  {
+   "api": "KarelGott",
+   "name": "King Charming",
+   "desc": "Be popular in every town and village.",
+   "hidden": false,
+   "pct": 7.0
+  },
+  {
+   "api": "MasterHuntsman",
+   "name": "Master Huntsman",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.0
+  },
+  {
+   "api": "KingdomDidNotCome",
+   "name": "Kingdom Did Not Come",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.9
+  },
+  {
+   "api": "Perfectionist",
+   "name": "Perfectionist",
+   "desc": "Make 2,000 Groschen a day from Pribyslavitz.",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "Gambler",
+   "name": "Gambler",
+   "desc": "Win 1,000 Groschen in the dice minigame.",
+   "hidden": false,
+   "pct": 4.8
+  },
+  {
+   "api": "ASoulSaved",
+   "name": "Angel of Mercy",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.1
+  },
+  {
+   "api": "StealthKiller",
+   "name": "Stealth Killer",
+   "desc": "Kill twenty enemies by stealth",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "TrueFriend",
+   "name": "True Friend",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.7
+  },
+  {
+   "api": "FriendsWithoutBenefits",
+   "name": "Friends without Benefits",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.6
+  },
+  {
+   "api": "EdwardKelly",
+   "name": "Edward Kelly",
+   "desc": "Brew fifteen types of potion",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "GhostOfCapon",
+   "name": "Lord Capon's Ghost",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.4
+  },
+  {
+   "api": "Wingman",
+   "name": "Wingman",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.3
+  },
+  {
+   "api": "GameIsOver",
+   "name": "Game Over",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.2
+  },
+  {
+   "api": "NotSoChristianBurial",
+   "name": "Not-so-Christian Burial",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.0
+  },
+  {
+   "api": "Fighter",
+   "name": "Fighter",
+   "desc": "Carry out 100 combos in combat.",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "DavidHorak",
+   "name": "David Horak",
+   "desc": "Collect 10,000 herbs.",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "ChristianBurial",
+   "name": "Christian Burial",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.8
+  },
+  {
+   "api": "PinkyPromis",
+   "name": "Pinky Promise",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  },
+  {
+   "api": "FullhouseSinner",
+   "name": "Full House Sinner",
+   "desc": "Have on your conscience every sin Johanka can think of.",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "Alcoholic",
+   "name": "Alcoholic",
+   "desc": "Become addicted to alcohol.",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "OneJob",
+   "name": "You had one job!",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.3
+  },
+  {
+   "api": "Sniper",
+   "name": "Sniper",
+   "desc": "Kill 50 enemies with headshots. ",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "RevenantOfLedechko",
+   "name": "Ledetchko Revenant",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.1
+  },
+  {
+   "api": "LostTrinket",
+   "name": "Lost Trinket",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.1
+  },
+  {
+   "api": "LikeGhost",
+   "name": "Like a Ghost",
+   "desc": "Recover Pavel's treasure without being discovered.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "Torture",
+   "name": "Torturer",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.0
+  },
+  {
+   "api": "InfernalJustice",
+   "name": "Infernal Justice",
+   "desc": "The punishment fits the crime.",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "Judas",
+   "name": "Judas",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.9
+  },
+  {
+   "api": "Voyeur",
+   "name": "Voyeur",
+   "desc": "See what Henslin has in his braies without being observed.",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "HardcoreHenry",
+   "name": "Hardcore Henry",
+   "desc": "Finish the game in Hardcore Mode.",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "ClergyBoy",
+   "name": "Cleric's Pet",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.5
+  },
+  {
+   "api": "BadGirl",
+   "name": "Bad Girl",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.4
+  },
+  {
+   "api": "Virgin",
+   "name": "Virgin",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.2
+  },
+  {
+   "api": "TisButAScratch",
+   "name": "'Tis but a scratch",
+   "desc": "Finish the game in Hardcore Mode with all negative perks.",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "TrialAndError",
+   "name": "Trial-and-Error",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.1
+  },
+  {
+   "api": "Pilgrim",
+   "name": "Pilgrim",
+   "desc": "Find all wayside shrines and conciliatory crosses.",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "Merciful",
+   "name": "Merciful",
+   "desc": "",
+   "hidden": true,
+   "pct": 0.9
+  }
+ ]
+}

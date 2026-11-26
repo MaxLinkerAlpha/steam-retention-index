@@ -1,0 +1,97 @@
+{
+ "appid": 1703340,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 11,
+ "achievements": [
+  {
+   "name": "Get your first achievement",
+   "desc": "Awarded for getting any of the other achievements as your first.",
+   "hidden": false,
+   "pct": 93.6,
+   "api_name": "first",
+   "internal_key": 768
+  },
+  {
+   "name": "Beat the game",
+   "desc": "Complete The Stanley Parable.",
+   "hidden": false,
+   "pct": 73.5,
+   "api_name": "beatgame",
+   "internal_key": 769
+  },
+  {
+   "name": "Test achievement please ignore",
+   "desc": "Test achievement description! Replace this!",
+   "hidden": false,
+   "pct": 18.1,
+   "api_name": "testplsignore",
+   "internal_key": 770
+  },
+  {
+   "name": "Welcome back!",
+   "desc": "Quit the game and then start it again.",
+   "hidden": false,
+   "pct": 67.9,
+   "api_name": "welcomeback",
+   "internal_key": 771
+  },
+  {
+   "name": "You can't jump",
+   "desc": "No seriously, we disabled it.",
+   "hidden": false,
+   "pct": 83.9,
+   "api_name": "nojump",
+   "internal_key": 772
+  },
+  {
+   "name": "Commitment",
+   "desc": "Play The Stanley Parable for the entire duration of a Tuesday.",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "tuesday",
+   "internal_key": 773
+  },
+  {
+   "name": "8888888888888888",
+   "desc": "888888888888888888888888888888888888888888888888",
+   "hidden": false,
+   "pct": 21.1,
+   "api_name": "8888",
+   "internal_key": 774
+  },
+  {
+   "name": "Click on door 430 five times",
+   "desc": "Click on door 430 five times.",
+   "hidden": false,
+   "pct": 43.8,
+   "api_name": "430",
+   "internal_key": 775
+  },
+  {
+   "name": "Speed run",
+   "desc": "Complete The Stanley Parable in under 4 minutes 22 seconds (not including load times).",
+   "hidden": false,
+   "pct": 9.4,
+   "api_name": "speedrun",
+   "internal_key": 776
+  },
+  {
+   "name": "Settings World Champion",
+   "desc": "Set all settings sliders in the menu to all the available numbers.",
+   "hidden": false,
+   "pct": 16.5,
+   "api_name": "settingsworldchamp",
+   "internal_key": 777
+  },
+  {
+   "name": "Super Go Outside",
+   "desc": "Don't play The Stanley Parable for ten years.",
+   "hidden": false,
+   "pct": 4.5,
+   "api_name": "supergooutside",
+   "internal_key": 779
+  }
+ ]
+}

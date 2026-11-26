@@ -1,0 +1,309 @@
+{
+ "appid": 374320,
+ "game": "DARK SOULS™ III",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 43,
+ "achievements": [
+  {
+   "api": "ACH41",
+   "name": "Enkindle",
+   "desc": "Light a bonfire flame for the first time.",
+   "hidden": false,
+   "pct": 93.9
+  },
+  {
+   "api": "ACH42",
+   "name": "Embrace the Flame",
+   "desc": "Become a Host of Embers for the first time.",
+   "hidden": false,
+   "pct": 86.2
+  },
+  {
+   "api": "ACH27",
+   "name": "Iudex Gundyr",
+   "desc": "",
+   "hidden": true,
+   "pct": 85.7
+  },
+  {
+   "api": "ACH28",
+   "name": "Vordt of the Boreal Valley",
+   "desc": "",
+   "hidden": true,
+   "pct": 67.8
+  },
+  {
+   "api": "ACH18",
+   "name": "Covenant: Way of Blue",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.4
+  },
+  {
+   "api": "ACH29",
+   "name": "Curse-rotted Greatwood",
+   "desc": "",
+   "hidden": true,
+   "pct": 61.2
+  },
+  {
+   "api": "ACH19",
+   "name": "Covenant: Blue Sentinels",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.0
+  },
+  {
+   "api": "ACH30",
+   "name": "Crystal Sage",
+   "desc": "",
+   "hidden": true,
+   "pct": 57.6
+  },
+  {
+   "api": "ACH04",
+   "name": "Lords of Cinder: Abyss Watchers",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.1
+  },
+  {
+   "api": "ACH31",
+   "name": "Deacons of the Deep",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.0
+  },
+  {
+   "api": "ACH32",
+   "name": "High Lord Wolnir",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.0
+  },
+  {
+   "api": "ACH17",
+   "name": "Covenant: Warrior of Sunlight",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.2
+  },
+  {
+   "api": "ACH33",
+   "name": "Pontiff Sulyvahn",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.4
+  },
+  {
+   "api": "ACH23",
+   "name": "Covenant: Watchdogs of Farron",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.5
+  },
+  {
+   "api": "ACH34",
+   "name": "Dancer of the Boreal Valley",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.1
+  },
+  {
+   "api": "ACH05",
+   "name": "Lord of Cinder: Yhorm the Giant",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.4
+  },
+  {
+   "api": "ACH06",
+   "name": "Lord of Cinder: Aldrich, Devourer of Gods",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.4
+  },
+  {
+   "api": "ACH36",
+   "name": "Old Demon King",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.8
+  },
+  {
+   "api": "ACH35",
+   "name": "Dragonslayer Armour",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.1
+  },
+  {
+   "api": "ACH37",
+   "name": "Oceiros, the Consumed King",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.1
+  },
+  {
+   "api": "ACH25",
+   "name": "Untended Graves",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.4
+  },
+  {
+   "api": "ACH21",
+   "name": "Covenant: Rosaria's Fingers",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.9
+  },
+  {
+   "api": "ACH07",
+   "name": "Lord of Cinder: Lothric, Younger Prince",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.7
+  },
+  {
+   "api": "ACH38",
+   "name": "Champion Gundyr",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.6
+  },
+  {
+   "api": "ACH08",
+   "name": "Supreme Weapon Reinforcement",
+   "desc": "Reinforce any weapon to the highest level.",
+   "hidden": false,
+   "pct": 42.3
+  },
+  {
+   "api": "ACH26",
+   "name": "Archdragon Peak",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.8
+  },
+  {
+   "api": "ACH39",
+   "name": "Ancient Wyvern",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.3
+  },
+  {
+   "api": "ACH40",
+   "name": "The Nameless King",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.3
+  },
+  {
+   "api": "ACH22",
+   "name": "Covenant: Mound-makers",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.1
+  },
+  {
+   "api": "ACH24",
+   "name": "Covenant: Aldrich Faithful",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.8
+  },
+  {
+   "api": "ACH15",
+   "name": "Ultimate Bonfire",
+   "desc": "Reinforce a bonfire to the highest level.",
+   "hidden": false,
+   "pct": 31.9
+  },
+  {
+   "api": "ACH20",
+   "name": "Covenant: Blade of the Darkmoon",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.8
+  },
+  {
+   "api": "ACH16",
+   "name": "Ultimate Estus",
+   "desc": "Reinforce the Estus Flask to the highest level.",
+   "hidden": false,
+   "pct": 31.3
+  },
+  {
+   "api": "ACH01",
+   "name": "To Link the First Flame",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.4
+  },
+  {
+   "api": "ACH02",
+   "name": "The End of Fire",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.4
+  },
+  {
+   "api": "ACH03",
+   "name": "The Usurpation of Fire",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.0
+  },
+  {
+   "api": "ACH09",
+   "name": "Master of Infusion",
+   "desc": "Perform all forms of infusion.",
+   "hidden": false,
+   "pct": 8.7
+  },
+  {
+   "api": "ACH10",
+   "name": "Master of Sorceries",
+   "desc": "Acquire all sorceries.",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "ACH11",
+   "name": "Master of Pyromancies",
+   "desc": "Acquire all pyromancies.",
+   "hidden": false,
+   "pct": 7.1
+  },
+  {
+   "api": "ACH12",
+   "name": "Master of Miracles",
+   "desc": "Acquire all miracles.",
+   "hidden": false,
+   "pct": 6.7
+  },
+  {
+   "api": "ACH14",
+   "name": "Master of Expression",
+   "desc": "Learn all gestures.",
+   "hidden": false,
+   "pct": 6.3
+  },
+  {
+   "api": "ACH13",
+   "name": "Master of Rings",
+   "desc": "Acquire all rings.",
+   "hidden": false,
+   "pct": 6.2
+  },
+  {
+   "api": "ACH00",
+   "name": "The Dark Soul",
+   "desc": "Complete all achievements.",
+   "hidden": false,
+   "pct": 5.1
+  }
+ ]
+}

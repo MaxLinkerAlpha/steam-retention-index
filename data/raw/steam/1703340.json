@@ -1,0 +1,85 @@
+{
+ "appid": 1703340,
+ "game": "The Stanley Parable: Ultra Deluxe",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 11,
+ "achievements": [
+  {
+   "api": "first",
+   "name": "Get your first achievement",
+   "desc": "Awarded for getting any of the other achievements as your first.",
+   "hidden": false,
+   "pct": 93.6
+  },
+  {
+   "api": "nojump",
+   "name": "You can't jump",
+   "desc": "No seriously, we disabled it.",
+   "hidden": false,
+   "pct": 83.9
+  },
+  {
+   "api": "beatgame",
+   "name": "Beat the game",
+   "desc": "Complete The Stanley Parable.",
+   "hidden": false,
+   "pct": 73.4
+  },
+  {
+   "api": "welcomeback",
+   "name": "Welcome back!",
+   "desc": "Quit the game and then start it again.",
+   "hidden": false,
+   "pct": 67.9
+  },
+  {
+   "api": "430",
+   "name": "Click on door 430 five times",
+   "desc": "Click on door 430 five times.",
+   "hidden": false,
+   "pct": 43.8
+  },
+  {
+   "api": "8888",
+   "name": "8888888888888888",
+   "desc": "888888888888888888888888888888888888888888888888",
+   "hidden": false,
+   "pct": 21.1
+  },
+  {
+   "api": "testplsignore",
+   "name": "Test achievement please ignore",
+   "desc": "Test achievement description! Replace this!",
+   "hidden": false,
+   "pct": 18.1
+  },
+  {
+   "api": "settingsworldchamp",
+   "name": "Settings World Champion",
+   "desc": "Set all settings sliders in the menu to all the available numbers.",
+   "hidden": false,
+   "pct": 16.5
+  },
+  {
+   "api": "speedrun",
+   "name": "Speed run",
+   "desc": "Complete The Stanley Parable in under 4 minutes 22 seconds (not including load times).",
+   "hidden": false,
+   "pct": 9.4
+  },
+  {
+   "api": "supergooutside",
+   "name": "Super Go Outside",
+   "desc": "Don't play The Stanley Parable for ten years.",
+   "hidden": false,
+   "pct": 4.5
+  },
+  {
+   "api": "tuesday",
+   "name": "Commitment",
+   "desc": "Play The Stanley Parable for the entire duration of a Tuesday.",
+   "hidden": false,
+   "pct": 3.2
+  }
+ ]
+}

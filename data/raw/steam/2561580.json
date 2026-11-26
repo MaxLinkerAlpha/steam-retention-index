@@ -1,0 +1,561 @@
+{
+ "appid": 2561580,
+ "game": "Horizon Zero Dawn™ Remastered",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 79,
+ "achievements": [
+  {
+   "api": "followedrost_steachings",
+   "name": "Followed Rost's teachings",
+   "desc": "",
+   "hidden": true,
+   "pct": 75.8
+  },
+  {
+   "api": "defeatedthesawtooth",
+   "name": "Defeated the Sawtooth",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.0
+  },
+  {
+   "api": "firstmodification",
+   "name": "First Modification",
+   "desc": "Used a Weapon Coil or Outfit Weave on a modifiable weapon or outfit.",
+   "hidden": false,
+   "pct": 64.2
+  },
+  {
+   "api": "triumphedintheproving",
+   "name": "Triumphed in the Proving",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.9
+  },
+  {
+   "api": "toreoff10components",
+   "name": "Tore off 10 components",
+   "desc": "Detached 10 components from machines during combat.",
+   "hidden": false,
+   "pct": 57.1
+  },
+  {
+   "api": "reachedlevel10",
+   "name": "Reached level 10",
+   "desc": "Reached player level 10.",
+   "hidden": false,
+   "pct": 56.5
+  },
+  {
+   "api": "firsttallneckoverridden",
+   "name": "First Tallneck Overridden",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.4
+  },
+  {
+   "api": "stealthkilled10machines",
+   "name": "Stealth killed 10 machines",
+   "desc": "Performed a stealth kill on 10 machines.",
+   "hidden": false,
+   "pct": 50.6
+  },
+  {
+   "api": "firstancientvesselfound",
+   "name": "First Ancient Vessel found",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.8
+  },
+  {
+   "api": "firstcorruptedzonecleared",
+   "name": "First Corrupted Zone cleared",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.7
+  },
+  {
+   "api": "firstmetalflowerfound",
+   "name": "First Metal Flower found",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.7
+  },
+  {
+   "api": "firstbanditcampcleared",
+   "name": "First Bandit Camp cleared",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.0
+  },
+  {
+   "api": "foughtbackthecorruption",
+   "name": "Fought back the corruption",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.4
+  },
+  {
+   "api": "victoriouswiththewarchief",
+   "name": "Victorious with the War-Chief",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.0
+  },
+  {
+   "api": "firstcoreoverridden",
+   "name": "First Core Overridden",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.6
+  },
+  {
+   "api": "allreconmachineskilled",
+   "name": "All Recon machines killed",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.8
+  },
+  {
+   "api": "headshot30humanenemies",
+   "name": "Headshot 30 human enemies",
+   "desc": "Killed 30 human enemies by landing headshots on them.",
+   "hidden": false,
+   "pct": 36.3
+  },
+  {
+   "api": "reachedlevel25",
+   "name": "Reached level 25",
+   "desc": "Reached player level 25.",
+   "hidden": false,
+   "pct": 35.4
+  },
+  {
+   "api": "firstvantagefound",
+   "name": "First Vantage found",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.4
+  },
+  {
+   "api": "10vulnerablemachinekills",
+   "name": "10 Vulnerable machine kills",
+   "desc": "Killed 10 machines weak to Fire while burning, or weak to Freeze while frozen.",
+   "hidden": false,
+   "pct": 33.0
+  },
+  {
+   "api": "learnedoftheancientpast",
+   "name": "Learned of the ancient past",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.1
+  },
+  {
+   "api": "3strikesfromabove",
+   "name": "3 Strikes From Above",
+   "desc": "Killed 3 enemies using the Strike from Above skill.",
+   "hidden": false,
+   "pct": 28.8
+  },
+  {
+   "api": "savedmeridianfromitsfoe",
+   "name": "Saved Meridian from its foe",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.7
+  },
+  {
+   "api": "crashedtheeclipsenetwork",
+   "name": "Crashed the Eclipse network",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.4
+  },
+  {
+   "api": "toreoff5heavyweapons",
+   "name": "Tore off 5 heavy weapons",
+   "desc": "Detached 5 heavy weapons from machines during combat.",
+   "hidden": false,
+   "pct": 27.0
+  },
+  {
+   "api": "discoveredthetruth",
+   "name": "Discovered the truth",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.5
+  },
+  {
+   "api": "brokethesiegeofallmother",
+   "name": "Broke the siege of All-Mother",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.0
+  },
+  {
+   "api": "allsunsatoneground",
+   "name": "All Suns at one Ground",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.6
+  },
+  {
+   "api": "reachedlevel40",
+   "name": "Reached level 40",
+   "desc": "Reached player level 40.",
+   "hidden": false,
+   "pct": 25.4
+  },
+  {
+   "api": "recoveredapowerfulweapon",
+   "name": "Recovered a powerful weapon",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.4
+  },
+  {
+   "api": "allcombatmachineskilled",
+   "name": "All Combat machines killed",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.2
+  },
+  {
+   "api": "endedthewarmachinethreat",
+   "name": "Ended the war machine threat",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.8
+  },
+  {
+   "api": "alltallnecksoverridden",
+   "name": "All Tallnecks Overridden",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.4
+  },
+  {
+   "api": "blazingsunsatoneground",
+   "name": "Blazing Suns at one Ground",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.3
+  },
+  {
+   "api": "firstbanukfigurefound",
+   "name": "First Banuk Figure found",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.4
+  },
+  {
+   "api": "tooktheshaman_spath",
+   "name": "Took the Shaman's Path",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.5
+  },
+  {
+   "api": "allacquisitionmachineskilled",
+   "name": "All Acquisition machines killed",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.3
+  },
+  {
+   "api": "7typesofmachineoverridden",
+   "name": "7 types of machine overridden",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.2
+  },
+  {
+   "api": "reachedlevel50",
+   "name": "Reached level 50",
+   "desc": "Reached player level 50.",
+   "hidden": false,
+   "pct": 19.9
+  },
+  {
+   "api": "alltransportmachineskilled",
+   "name": "All Transport machines killed",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.8
+  },
+  {
+   "api": "firstbluegleamtrade",
+   "name": "First Bluegleam Trade",
+   "desc": "Traded Bluegleam for a special weapon or outfit.",
+   "hidden": false,
+   "pct": 18.8
+  },
+  {
+   "api": "wonthewerakchallenge",
+   "name": "Won the Werak Challenge",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.5
+  },
+  {
+   "api": "allcoresoverridden",
+   "name": "All Cores Overridden",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.3
+  },
+  {
+   "api": "aidedthedefectors",
+   "name": "Aided the defectors",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.2
+  },
+  {
+   "api": "completedthesecondexpedition",
+   "name": "Completed the Second Expedition",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.4
+  },
+  {
+   "api": "gottheshieldweaveroutfit",
+   "name": "Got the Shield-Weaver outfit",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.2
+  },
+  {
+   "api": "firstspearmodification",
+   "name": "First Spear Modification",
+   "desc": "Applied a modification to your spear.",
+   "hidden": false,
+   "pct": 17.2
+  },
+  {
+   "api": "conqueredthemountain",
+   "name": "Conquered the Mountain",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.1
+  },
+  {
+   "api": "allmachinescatalogued",
+   "name": "All machines catalogued",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.9
+  },
+  {
+   "api": "huntedredmawwithtalanah",
+   "name": "Hunted Redmaw with Talanah",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.9
+  },
+  {
+   "api": "clearedallthebanditcamps",
+   "name": "Cleared all the Bandit Camps",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.9
+  },
+  {
+   "api": "drainedtheflood",
+   "name": "Drained the Flood",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.9
+  },
+  {
+   "api": "allskillslearned",
+   "name": "All Skills learned",
+   "desc": "Learned all available skills.",
+   "hidden": false,
+   "pct": 13.9
+  },
+  {
+   "api": "allancientvesselsfound",
+   "name": "All Ancient Vessels found",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.0
+  },
+  {
+   "api": "fullyimprovedweapons",
+   "name": "Fully Improved Weapons",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.3
+  },
+  {
+   "api": "allsunsatallgrounds",
+   "name": "All Suns at all Grounds",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.2
+  },
+  {
+   "api": "allcorruptedzonescleared",
+   "name": "All Corrupted Zones cleared",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.2
+  },
+  {
+   "api": "blazingsunsatallgrounds",
+   "name": "Blazing Suns at all Grounds",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.0
+  },
+  {
+   "api": "allfrozenwildsskills",
+   "name": "All Frozen Wilds Skills",
+   "desc": "Learned all of the new skills in the Frozen Wilds.",
+   "hidden": false,
+   "pct": 11.9
+  },
+  {
+   "api": "allcontroltowersdisabled",
+   "name": "All Control Towers disabled",
+   "desc": "Disabled all Control Towers by overriding or destroying them.",
+   "hidden": false,
+   "pct": 11.8
+  },
+  {
+   "api": "allbanukfiguresfound",
+   "name": "All Banuk Figures found",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.6
+  },
+  {
+   "api": "allvantagesfound",
+   "name": "All Vantages found",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.9
+  },
+  {
+   "api": "allmetalflowersfound",
+   "name": "All Metal Flowers found",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.9
+  },
+  {
+   "api": "allpigmentsfound",
+   "name": "All Pigments found",
+   "desc": "Found all of the Pigments in the Cut.",
+   "hidden": false,
+   "pct": 10.5
+  },
+  {
+   "api": "allanimalfigurinesfound",
+   "name": "All Animal Figurines found",
+   "desc": "Found all of the Animal Figurines in the Cut.",
+   "hidden": false,
+   "pct": 10.4
+  },
+  {
+   "api": "killed6fireclaws",
+   "name": "Killed 6 Fireclaws",
+   "desc": "Killed 6 Fireclaw machines.",
+   "hidden": false,
+   "pct": 9.9
+  },
+  {
+   "api": "allalliesjoined",
+   "name": "All allies joined",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.3
+  },
+  {
+   "api": "reachedlevel60",
+   "name": "Reached Level 60",
+   "desc": "Reached player level 60.",
+   "hidden": false,
+   "pct": 9.3
+  },
+  {
+   "api": "killed10frostclaws",
+   "name": "Killed 10 Frostclaws",
+   "desc": "Killed 10 Frostclaw machines.",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "allquestscompleted",
+   "name": "All Quests completed",
+   "desc": "Completed all side quests and errands in the Frozen Wilds.",
+   "hidden": false,
+   "pct": 7.1
+  },
+  {
+   "api": "wonikrie_schallenge",
+   "name": "Won Ikrie's Challenge",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.0
+  },
+  {
+   "api": "allactivitiescompleted",
+   "name": "All Activities completed",
+   "desc": "Completed the Tallneck, Bandit Camp and Hunting Ground in the Cut.",
+   "hidden": false,
+   "pct": 6.9
+  },
+  {
+   "api": "killed15scorchers",
+   "name": "Killed 15 Scorchers",
+   "desc": "Killed 15 Scorcher machines.",
+   "hidden": false,
+   "pct": 6.3
+  },
+  {
+   "api": "5machinetypesrepaired",
+   "name": "5 Machine Types Repaired",
+   "desc": "Used the Machine Repair or Mount Repair skill on 5 different types of machine.",
+   "hidden": false,
+   "pct": 5.0
+  },
+  {
+   "api": "5dismountstrikes",
+   "name": "5 Dismount Strikes",
+   "desc": "Killed 5 enemies using the Dismount Strike skill.",
+   "hidden": false,
+   "pct": 4.8
+  },
+  {
+   "api": "downed23grazerdummies",
+   "name": "Downed 23 Grazer dummies",
+   "desc": "Found and knocked over all of the Grazer training dummies in the Nora region.",
+   "hidden": false,
+   "pct": 4.5
+  },
+  {
+   "api": "alltrophiesobtained",
+   "name": "All Achievements Obtained",
+   "desc": "Obtained all Horizon Zero Dawn™ Remastered achievements.",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "newgame+completed",
+   "name": "New Game+ Completed",
+   "desc": "Completed a New Game+ playthrough on any difficulty.",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "ultrahardcompleted",
+   "name": "Ultra Hard Completed",
+   "desc": "Completed a New Game+ playthrough on Ultra Hard difficulty.",
+   "hidden": false,
+   "pct": 3.1
+  }
+ ]
+}

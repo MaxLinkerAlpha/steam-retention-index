@@ -1,0 +1,121 @@
+{
+ "appid": 1222700,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 14,
+ "achievements": [
+  {
+   "name": "Freedom",
+   "desc": "You freed someone from captivity.",
+   "hidden": false,
+   "pct": 44.1,
+   "api_name": "Achievement_GOSCC_1",
+   "internal_key": 3841
+  },
+  {
+   "name": "Take A Breather",
+   "desc": "You took a break from it all.",
+   "hidden": true,
+   "pct": 3.7,
+   "api_name": "Achievement_GOSCC_2",
+   "internal_key": 3842
+  },
+  {
+   "name": "In Sync",
+   "desc": "Music was played in harmony.",
+   "hidden": true,
+   "pct": 7.4,
+   "api_name": "Achievement_GOSCC_3",
+   "internal_key": 3843
+  },
+  {
+   "name": "Timeless Treasure",
+   "desc": "You linked up to get past.",
+   "hidden": true,
+   "pct": 3.6,
+   "api_name": "Achievement_GOSCC_4",
+   "internal_key": 3844
+  },
+  {
+   "name": "No Cheating",
+   "desc": "You exposed some infidelity.",
+   "hidden": false,
+   "pct": 12.8,
+   "api_name": "Achievement_GOSCC_5",
+   "internal_key": 3845
+  },
+  {
+   "name": "Break From Reality",
+   "desc": "You played a videogame with a friend.",
+   "hidden": false,
+   "pct": 33.7,
+   "api_name": "Achievement_GOSCC_6",
+   "internal_key": 3846
+  },
+  {
+   "name": "Mayday!",
+   "desc": "You almost took to the skies.",
+   "hidden": false,
+   "pct": 9.1,
+   "api_name": "Achievement_GOSCC_7",
+   "internal_key": 3847
+  },
+  {
+   "name": "Managed Anger",
+   "desc": "Dark desires done right.",
+   "hidden": true,
+   "pct": 3.1,
+   "api_name": "Achievement_GOSCC_8",
+   "internal_key": 3848
+  },
+  {
+   "name": "Live the Dream",
+   "desc": "\"Houston, we've had a problem.\"",
+   "hidden": true,
+   "pct": 3.6,
+   "api_name": "Achievement_GOSCC_9",
+   "internal_key": 3849
+  },
+  {
+   "name": "Backseat Mechanic",
+   "desc": "You helped fix the bike.",
+   "hidden": false,
+   "pct": 53.2,
+   "api_name": "Achievement_GOSCC_10",
+   "internal_key": 3850
+  },
+  {
+   "name": "Take It For A Spin",
+   "desc": "You did what the wind couldn't.",
+   "hidden": true,
+   "pct": 7.6,
+   "api_name": "Achievement_GOSCC_11",
+   "internal_key": 3851
+  },
+  {
+   "name": "You Started It",
+   "desc": "Not kids anymore.",
+   "hidden": true,
+   "pct": 11.7,
+   "api_name": "Achievement_GOSCC_12",
+   "internal_key": 3852
+  },
+  {
+   "name": "The Dip",
+   "desc": "You set a new record.",
+   "hidden": true,
+   "pct": 8.8,
+   "api_name": "Achievement_GOSCC_13",
+   "internal_key": 3853
+  },
+  {
+   "name": "Home Run",
+   "desc": "You are clearly good with a bat.",
+   "hidden": false,
+   "pct": 23.6,
+   "api_name": "Achievement_GOSCC_14",
+   "internal_key": 3854
+  }
+ ]
+}

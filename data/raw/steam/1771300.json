@@ -1,0 +1,589 @@
+{
+ "appid": 1771300,
+ "game": "Kingdom Come: Deliverance II",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 83,
+ "achievements": [
+  {
+   "api": "41",
+   "name": "This Won't End Well",
+   "desc": "",
+   "hidden": true,
+   "pct": 82.0
+  },
+  {
+   "api": "1",
+   "name": "Déjà Vu",
+   "desc": "You defeated Capon during practice. Again.",
+   "hidden": false,
+   "pct": 67.8
+  },
+  {
+   "api": "31",
+   "name": "An Old Friend",
+   "desc": "You found Pebbles.",
+   "hidden": false,
+   "pct": 64.2
+  },
+  {
+   "api": "8",
+   "name": "Fancy Fighting",
+   "desc": "You killed an enemy with a combo.",
+   "hidden": false,
+   "pct": 64.0
+  },
+  {
+   "api": "12",
+   "name": "Man's Best Friend",
+   "desc": "",
+   "hidden": true,
+   "pct": 59.5
+  },
+  {
+   "api": "40",
+   "name": "Under Pressure",
+   "desc": "You won three skirmishes while bleeding.",
+   "hidden": false,
+   "pct": 57.1
+  },
+  {
+   "api": "42",
+   "name": "A Bird in the Hand",
+   "desc": "",
+   "hidden": true,
+   "pct": 56.0
+  },
+  {
+   "api": "3",
+   "name": "Vengeance",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.8
+  },
+  {
+   "api": "47",
+   "name": "A Knight's Word",
+   "desc": "You rewarded the herbwoman for her help as promised.",
+   "hidden": false,
+   "pct": 51.7
+  },
+  {
+   "api": "4",
+   "name": "New Horizons",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.5
+  },
+  {
+   "api": "45",
+   "name": "Jack of All Trades",
+   "desc": "You have successfully completed every mini-game.",
+   "hidden": false,
+   "pct": 47.4
+  },
+  {
+   "api": "29",
+   "name": "Rock and Stone!",
+   "desc": "You killed an enemy with a boulder dropped from the battlements. Karl would be proud!",
+   "hidden": false,
+   "pct": 45.9
+  },
+  {
+   "api": "25",
+   "name": "Nimble Fingers",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.6
+  },
+  {
+   "api": "43",
+   "name": "The Dirty Seven",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.4
+  },
+  {
+   "api": "20",
+   "name": "Groschen Must Flow",
+   "desc": "You spent ten thousand groschen.",
+   "hidden": false,
+   "pct": 38.8
+  },
+  {
+   "api": "9",
+   "name": "Lights Out",
+   "desc": "You slit the throat of an enemy who was looking for you.",
+   "hidden": false,
+   "pct": 36.8
+  },
+  {
+   "api": "11",
+   "name": "Reforged",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.2
+  },
+  {
+   "api": "15",
+   "name": "Henry the Bruiser",
+   "desc": "You beat the best brawler around.",
+   "hidden": false,
+   "pct": 33.5
+  },
+  {
+   "api": "17",
+   "name": "Tales of Kuttenberg",
+   "desc": "You helped Rosa finish her book.",
+   "hidden": false,
+   "pct": 33.2
+  },
+  {
+   "api": "16",
+   "name": "Die Another Day",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.7
+  },
+  {
+   "api": "44",
+   "name": "Martyr",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.7
+  },
+  {
+   "api": "35",
+   "name": "Without Protection",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.3
+  },
+  {
+   "api": "14",
+   "name": "Shiny",
+   "desc": "You won a gold badge in a game of dice.",
+   "hidden": false,
+   "pct": 29.8
+  },
+  {
+   "api": "22",
+   "name": "The End",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.3
+  },
+  {
+   "api": "2",
+   "name": "Silence is Golden",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.3
+  },
+  {
+   "api": "19",
+   "name": "Penitent One",
+   "desc": "You made the penitential pilgrimage.",
+   "hidden": false,
+   "pct": 24.6
+  },
+  {
+   "api": "27",
+   "name": "Old Raven",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.0
+  },
+  {
+   "api": "37",
+   "name": "Face to Face",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.9
+  },
+  {
+   "api": "30",
+   "name": "No Good Deed",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.0
+  },
+  {
+   "api": "67",
+   "name": "Master of the Blacksmiths’ Guild",
+   "desc": "You passed the Trial and became a Master blacksmith.  ",
+   "hidden": false,
+   "pct": 19.9
+  },
+  {
+   "api": "23",
+   "name": "Been There Done That",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.7
+  },
+  {
+   "api": "18",
+   "name": "True Cardinal",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.5
+  },
+  {
+   "api": "26",
+   "name": "My Shoes!",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.0
+  },
+  {
+   "api": "33",
+   "name": "Truce",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.9
+  },
+  {
+   "api": "38",
+   "name": "Under a Brown Flag",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.0
+  },
+  {
+   "api": "24",
+   "name": "The Lord Taketh Away",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.7
+  },
+  {
+   "api": "34",
+   "name": "Master of Masters",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.3
+  },
+  {
+   "api": "68",
+   "name": "Home Sweet Home!",
+   "desc": "You completed the reconstruction of your smithy.",
+   "hidden": false,
+   "pct": 13.2
+  },
+  {
+   "api": "65",
+   "name": "Martin’s Legacy",
+   "desc": "You’ve completed the restoration of the Kuttenberg astronomical clock.",
+   "hidden": false,
+   "pct": 12.7
+  },
+  {
+   "api": "75",
+   "name": "Warlock’s Riddle  ",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.4
+  },
+  {
+   "api": "53",
+   "name": "Boneworks",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.1
+  },
+  {
+   "api": "60",
+   "name": "Poet's Gut",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.3
+  },
+  {
+   "api": "32",
+   "name": "The Hydra's Heads",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.8
+  },
+  {
+   "api": "6",
+   "name": "Bohemian Sniper",
+   "desc": "You killed an enemy with a crossbow shot to the head at long range.",
+   "hidden": false,
+   "pct": 9.5
+  },
+  {
+   "api": "77",
+   "name": "Holy Relic",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.2
+  },
+  {
+   "api": "76",
+   "name": "Fresh Air",
+   "desc": "You finished DLC3.",
+   "hidden": false,
+   "pct": 9.0
+  },
+  {
+   "api": "78",
+   "name": "Better Safe Than Sorry",
+   "desc": "You made yourself a plague mask.",
+   "hidden": false,
+   "pct": 8.8
+  },
+  {
+   "api": "46",
+   "name": "Weapon of Choice",
+   "desc": "You've defeated an enemy with every type of weapon.",
+   "hidden": false,
+   "pct": 8.5
+  },
+  {
+   "api": "82",
+   "name": "Stop Licking That!",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.4
+  },
+  {
+   "api": "62",
+   "name": "Masterpiece",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.2
+  },
+  {
+   "api": "59",
+   "name": "Confessor",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.1
+  },
+  {
+   "api": "39",
+   "name": "Canny Shooter",
+   "desc": "You won the miners' competition on the highest difficulty.",
+   "hidden": false,
+   "pct": 8.0
+  },
+  {
+   "api": "84",
+   "name": "Quiet as a Church Mouse",
+   "desc": "The knights never had to escort you to the infirmary.",
+   "hidden": false,
+   "pct": 6.9
+  },
+  {
+   "api": "69",
+   "name": "Nevermore",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.6
+  },
+  {
+   "api": "70",
+   "name": "Racing the Leech",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.4
+  },
+  {
+   "api": "58",
+   "name": "Painted",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.6
+  },
+  {
+   "api": "54",
+   "name": "Nothing But the Best",
+   "desc": "You gave the painter medicine of the highest quality.",
+   "hidden": false,
+   "pct": 4.6
+  },
+  {
+   "api": "81",
+   "name": "Survivor",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.1
+  },
+  {
+   "api": "55",
+   "name": "Rest in One Piece",
+   "desc": "The skull finally reached its final resting place.",
+   "hidden": false,
+   "pct": 3.5
+  },
+  {
+   "api": "5",
+   "name": "High Noon",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.1
+  },
+  {
+   "api": "80",
+   "name": "Feline Affection",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.1
+  },
+  {
+   "api": "13",
+   "name": "Original Gunslinger",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.0
+  },
+  {
+   "api": "36",
+   "name": "Henry the Matchmaker",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "48",
+   "name": "Remember Remember…",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  },
+  {
+   "api": "72",
+   "name": "The Ragman’s Dream",
+   "desc": "You helped the Ragman save his dream.",
+   "hidden": false,
+   "pct": 2.6
+  },
+  {
+   "api": "10",
+   "name": "Hic-Hic-Boom",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.5
+  },
+  {
+   "api": "7",
+   "name": "Overkill",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.0
+  },
+  {
+   "api": "50",
+   "name": "Hardcore Henry II",
+   "desc": "You finished the story in Hardcore mode.",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "56",
+   "name": "All Fun and Games",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.0
+  },
+  {
+   "api": "52",
+   "name": "Flagellum Dei",
+   "desc": "You scored 150 points in the mounted archery competition.",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "61",
+   "name": "Vengeance Solves Nothing",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.9
+  },
+  {
+   "api": "21",
+   "name": "Slip the Noose",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.8
+  },
+  {
+   "api": "63",
+   "name": "Bohemian Graffitti",
+   "desc": "You painted every type of shield.",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "57",
+   "name": "Curiosity Killed the Cat",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.7
+  },
+  {
+   "api": "79",
+   "name": "Do Good to All People",
+   "desc": "You helped the people of the monastery.",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "73",
+   "name": "Silent Partner",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.5
+  },
+  {
+   "api": "64",
+   "name": "Bohemians Rise Up!",
+   "desc": "You were ahead of your time and created the foundations for the state emblem of Bohemia.",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "83",
+   "name": "Ostraconophobia",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.4
+  },
+  {
+   "api": "51",
+   "name": "Against All Odds",
+   "desc": "You finished the game in Hardcore mode with all negative perks enabled.",
+   "hidden": false,
+   "pct": 1.3
+  },
+  {
+   "api": "71",
+   "name": "Two Brothers",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.3
+  },
+  {
+   "api": "74",
+   "name": "Voice of the Bell",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.3
+  },
+  {
+   "api": "66",
+   "name": "Innovator",
+   "desc": "You've acquired all the new weapons and armour from your journeymen.",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "28",
+   "name": "Lent",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.1
+  }
+ ]
+}

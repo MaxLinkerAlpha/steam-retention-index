@@ -1,0 +1,491 @@
+{
+ "appid": 1222690,
+ "game": "Dragon Age™ Inquisition",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 69,
+ "achievements": [
+  {
+   "api": "Achievement_GOSCC_1",
+   "name": "The Wrath of Heaven",
+   "desc": "Finish the prologue.",
+   "hidden": false,
+   "pct": 66.2
+  },
+  {
+   "api": "Achievement_GOSCC_23",
+   "name": "Synergized",
+   "desc": "Trigger a cross-class combo with a character you control in single-player mode.",
+   "hidden": false,
+   "pct": 61.4
+  },
+  {
+   "api": "Achievement_GOSCC_20",
+   "name": "Skilled",
+   "desc": "Upgrade any ability once in single-player mode.",
+   "hidden": false,
+   "pct": 55.6
+  },
+  {
+   "api": "Achievement_GOSCC_17",
+   "name": "Trailblazer",
+   "desc": "Discover a campsite and establish an Inquisition camp in any wilderness area.",
+   "hidden": false,
+   "pct": 51.2
+  },
+  {
+   "api": "Achievement_GOSCC_18",
+   "name": "Sharp-Eyed",
+   "desc": "Find and recover a shard identified by an ocularum.",
+   "hidden": false,
+   "pct": 46.1
+  },
+  {
+   "api": "Achievement_GOSCC_16",
+   "name": "Commander",
+   "desc": "Complete a timed mission on the war table.",
+   "hidden": false,
+   "pct": 43.9
+  },
+  {
+   "api": "Achievement_GOSCC_22",
+   "name": "Cavalier",
+   "desc": "Secure a mount.",
+   "hidden": false,
+   "pct": 42.0
+  },
+  {
+   "api": "Achievement_GOSCC_15",
+   "name": "Customized",
+   "desc": "Enchant or upgrade a piece of equipment in single-player mode.",
+   "hidden": false,
+   "pct": 41.5
+  },
+  {
+   "api": "Achievement_GOSCC_14",
+   "name": "Well-Prepared",
+   "desc": "Craft a weapon or piece of armor in single-player mode.",
+   "hidden": false,
+   "pct": 41.4
+  },
+  {
+   "api": "Achievement_GOSCC_12",
+   "name": "Speak Only the Word",
+   "desc": "Gain access to a major city for the Inquisition.",
+   "hidden": false,
+   "pct": 39.7
+  },
+  {
+   "api": "Achievement_GOSCC_11",
+   "name": "They Who Stand",
+   "desc": "Recruit a new companion.",
+   "hidden": false,
+   "pct": 38.5
+  },
+  {
+   "api": "Achievement_GOSCC_19",
+   "name": "Well-Read",
+   "desc": "Discover a veilfire rune.",
+   "hidden": false,
+   "pct": 38.1
+  },
+  {
+   "api": "Achievement_GOSCC_28",
+   "name": "Hard Hitter",
+   "desc": "Land a single blow in excess of 1,000 damage in single-player mode.",
+   "hidden": false,
+   "pct": 33.6
+  },
+  {
+   "api": "Achievement_GOSCC_2",
+   "name": "Opposition in All Things",
+   "desc": "Close the Breach.",
+   "hidden": false,
+   "pct": 31.6
+  },
+  {
+   "api": "Achievement_GOSCC_3",
+   "name": "In Your Heart Shall Burn",
+   "desc": "Survive an attack on the Inquisition.",
+   "hidden": false,
+   "pct": 31.4
+  },
+  {
+   "api": "Achievement_GOSCC_35",
+   "name": "Focused",
+   "desc": "Spend 10 points in a single ability tree with any one single-player character.",
+   "hidden": false,
+   "pct": 30.3
+  },
+  {
+   "api": "Achievement_GOSCC_46",
+   "name": "Loremaster",
+   "desc": "Collect 250 codex entries in a single playthrough.",
+   "hidden": false,
+   "pct": 28.7
+  },
+  {
+   "api": "Achievement_GOSCC_9",
+   "name": "The Brightest of Their Age",
+   "desc": "Recruit all possible companions in a single playthrough.",
+   "hidden": false,
+   "pct": 25.7
+  },
+  {
+   "api": "Achievement_GOSCC_25",
+   "name": "Wyrmslayer",
+   "desc": "Kill a high dragon in single-player mode.",
+   "hidden": false,
+   "pct": 24.2
+  },
+  {
+   "api": "Achievement_GOSCC_40",
+   "name": "High Commander",
+   "desc": "Complete 50 missions or operations in a single playthrough.",
+   "hidden": false,
+   "pct": 23.7
+  },
+  {
+   "api": "Achievement_GOSCC_13",
+   "name": "Saddled Up",
+   "desc": "Purchase or secure five different mounts of any kind.",
+   "hidden": false,
+   "pct": 23.3
+  },
+  {
+   "api": "Achievement_GOSCC_44",
+   "name": "Peerless",
+   "desc": "Level up the Inquisition to rank 10.",
+   "hidden": false,
+   "pct": 22.8
+  },
+  {
+   "api": "Achievement_GOSCC_21",
+   "name": "Specialized",
+   "desc": "Choose a specialization class.",
+   "hidden": false,
+   "pct": 21.4
+  },
+  {
+   "api": "Achievement_GOSCC_36",
+   "name": "Well-Funded",
+   "desc": "Earn 50,000 or more gold across all single-player playthroughs.",
+   "hidden": false,
+   "pct": 21.3
+  },
+  {
+   "api": "Achievement_GOSCC_4",
+   "name": "Wicked Eyes and Wicked Hearts",
+   "desc": "Make an impression on the Orlesian court.",
+   "hidden": false,
+   "pct": 21.2
+  },
+  {
+   "api": "Achievement_GOSCC_5",
+   "name": "Here Lies the Abyss",
+   "desc": "Face your fears in the Fade.",
+   "hidden": false,
+   "pct": 21.0
+  },
+  {
+   "api": "Achievement_GOSCC_43",
+   "name": "Veteran",
+   "desc": "Reach level 20 in single-player mode.",
+   "hidden": false,
+   "pct": 20.6
+  },
+  {
+   "api": "Achievement_GOSCC_48",
+   "name": "Invincible",
+   "desc": "Defeat 2,500 enemies in single-player mode.",
+   "hidden": false,
+   "pct": 19.6
+  },
+  {
+   "api": "Achievement_GOSCC_56",
+   "name": "Giant Slayer",
+   "desc": "Defeat an ogre alpha.",
+   "hidden": false,
+   "pct": 19.0
+  },
+  {
+   "api": "Achievement_GOSCC_38",
+   "name": "Pathfinder",
+   "desc": "Discover a campsite and establish at least one Inquisition camp in 10 wilderness areas.",
+   "hidden": false,
+   "pct": 17.4
+  },
+  {
+   "api": "Achievement_GOSCC_55",
+   "name": "Deep Roads Commander",
+   "desc": "Complete a mission at the expedition table in the Legion of the Dead camp.",
+   "hidden": false,
+   "pct": 17.2
+  },
+  {
+   "api": "Achievement_GOSCC_6",
+   "name": "What Pride Had Wrought",
+   "desc": "Reach an ancient ruin before your enemies.",
+   "hidden": false,
+   "pct": 16.5
+  },
+  {
+   "api": "Achievement_GOSCC_42",
+   "name": "Persuasive",
+   "desc": "Acquire 10 Inquisition agents in a single playthrough.",
+   "hidden": false,
+   "pct": 15.8
+  },
+  {
+   "api": "Achievement_GOSCC_10",
+   "name": "Beloved and Precious",
+   "desc": "Commit to a romantic relationship.",
+   "hidden": false,
+   "pct": 15.7
+  },
+  {
+   "api": "Achievement_GOSCC_39",
+   "name": "Liberator",
+   "desc": "Liberate three keeps in a single playthrough.",
+   "hidden": false,
+   "pct": 15.6
+  },
+  {
+   "api": "Achievement_GOSCC_47",
+   "name": "Demonslayer",
+   "desc": "Defeat 1,000 demons in single-player mode.",
+   "hidden": false,
+   "pct": 15.6
+  },
+  {
+   "api": "Achievement_GOSCC_8",
+   "name": "Doom upon All the World",
+   "desc": "End the threat once and for all.",
+   "hidden": false,
+   "pct": 15.4
+  },
+  {
+   "api": "Achievement_GOSCC_45",
+   "name": "People Person",
+   "desc": "Become friends with at least three of your inner circle in one playthrough.",
+   "hidden": false,
+   "pct": 15.4
+  },
+  {
+   "api": "Achievement_GOSCC_57",
+   "name": "Fact Finder",
+   "desc": "Help Shaper Valta discover secret dwarven history.",
+   "hidden": false,
+   "pct": 13.6
+  },
+  {
+   "api": "Achievement_GOSCC_49",
+   "name": "Quartermaster",
+   "desc": "Complete 20 requisition requests in a single playthrough.",
+   "hidden": false,
+   "pct": 13.3
+  },
+  {
+   "api": "Achievement_GOSCC_58",
+   "name": "Shaper of Stone",
+   "desc": "End the earthquakes threatening the surface.",
+   "hidden": false,
+   "pct": 12.9
+  },
+  {
+   "api": "Achievement_GOSCC_29",
+   "name": "Master Builder",
+   "desc": "Craft an item from Tier 4 materials in all non-masterwork slots in single-player mode.",
+   "hidden": false,
+   "pct": 12.7
+  },
+  {
+   "api": "Achievement_GOSCC_26",
+   "name": "Decorator",
+   "desc": "Purchase any new decoration element for Skyhold.",
+   "hidden": false,
+   "pct": 12.3
+  },
+  {
+   "api": "Achievement_GOSCC_27",
+   "name": "Belle of the Ball",
+   "desc": "Gain the full approval of the Orlesian court.",
+   "hidden": false,
+   "pct": 12.2
+  },
+  {
+   "api": "Achievement_GOSCC_50",
+   "name": "Marked for Greatness",
+   "desc": "Seal 75 rifts in a single playthrough.",
+   "hidden": false,
+   "pct": 11.7
+  },
+  {
+   "api": "Achievement_GOSCC_41",
+   "name": "Regal",
+   "desc": "Completely upgrade one throne.",
+   "hidden": false,
+   "pct": 11.6
+  },
+  {
+   "api": "Achievement_GOSCC_53",
+   "name": "Historian",
+   "desc": "Uncover the secrets of a legendary figure.",
+   "hidden": false,
+   "pct": 10.2
+  },
+  {
+   "api": "Achievement_GOSCC_54",
+   "name": "Winter's End",
+   "desc": "Dispel a myth of ancient days.",
+   "hidden": false,
+   "pct": 10.0
+  },
+  {
+   "api": "Achievement_GOSCC_67",
+   "name": "Forever Marked",
+   "desc": "Progress the story to unlock.",
+   "hidden": false,
+   "pct": 9.9
+  },
+  {
+   "api": "Achievement_GOSCC_31",
+   "name": "Dragons' Bane",
+   "desc": "Slay 10 high dragons in single-player mode.",
+   "hidden": false,
+   "pct": 9.7
+  },
+  {
+   "api": "Achievement_GOSCC_34",
+   "name": "Stargazer",
+   "desc": "Unlock 15 astrariums in a single playthrough.",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "Achievement_GOSCC_52",
+   "name": "Legend-Marked",
+   "desc": "Impress the Avvar of Stone-Bear Hold and gain their friendship.",
+   "hidden": false,
+   "pct": 8.4
+  },
+  {
+   "api": "Achievement_GOSCC_7",
+   "name": "On Burning Wings",
+   "desc": "Recruit a powerful ally to even the score.",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "Achievement_GOSCC_37",
+   "name": "Keymaster",
+   "desc": "Enter the heart of the Solasan temple.",
+   "hidden": false,
+   "pct": 6.8
+  },
+  {
+   "api": "Achievement_GOSCC_63",
+   "name": "Trial of the Emperor",
+   "desc": "Defeat 20 foes promoted by Walk Softly.",
+   "hidden": false,
+   "pct": 5.9
+  },
+  {
+   "api": "Achievement_GOSCC_30",
+   "name": "Master Alchemist",
+   "desc": "Upgrade your alchemic potions, grenades, or tonics 30 times in a single playthrough.",
+   "hidden": false,
+   "pct": 5.3
+  },
+  {
+   "api": "Achievement_GOSCC_69",
+   "name": "Coroner",
+   "desc": "Find all of the wearable items that make up the Taken Shape.",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "Achievement_GOSCC_24",
+   "name": "Botanist",
+   "desc": "Harvest 50 herbs from Skyhold's garden in a single playthrough.",
+   "hidden": false,
+   "pct": 3.5
+  },
+  {
+   "api": "Achievement_GOSCC_32",
+   "name": "Herald",
+   "desc": "Finish the single-player campaign on at least Hard without lowering the difficulty.",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "Achievement_GOSCC_51",
+   "name": "Firestarter",
+   "desc": "Destroy all the Winter Shards and light all the fires in the Old Temple.",
+   "hidden": false,
+   "pct": 2.6
+  },
+  {
+   "api": "Achievement_GOSCC_64",
+   "name": "Trial of the Empress",
+   "desc": "Even Ground on: slay a level 16 or higher Fereldan Frostback.",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "Achievement_GOSCC_60",
+   "name": "Trial of Temperance",
+   "desc": "Rest Easy trial always on in Emprise du Lion: claim Suledin Keep.",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "Achievement_GOSCC_33",
+   "name": "Inquisitor",
+   "desc": "Finish the single-player campaign on Nightmare without lowering the difficulty.",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "Achievement_GOSCC_68",
+   "name": "Lateral Thinker",
+   "desc": "Unlock all caches watched over by ancient statues.",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "Achievement_GOSCC_61",
+   "name": "Trial of the Magician",
+   "desc": "Travel Light on for \"In Hushed Whispers\": finish the quest.",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "Achievement_GOSCC_62",
+   "name": "Trial of the Tower",
+   "desc": "Rub Some Dirt on It on: slay the Hivernal high dragon.",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "Achievement_GOSCC_59",
+   "name": "Trial of the Hermit",
+   "desc": "Slay 10 great bears promoted by Grizzly End.",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "Achievement_GOSCC_65",
+   "name": "Trial of the Fool",
+   "desc": "Take It Slow on: reach Skyhold at level 5 or less.",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "Achievement_GOSCC_66",
+   "name": "Trial of the Lovers",
+   "desc": "Fair-Weather Friends always on: enter Halamshiral with all followers.",
+   "hidden": false,
+   "pct": 1.4
+  }
+ ]
+}

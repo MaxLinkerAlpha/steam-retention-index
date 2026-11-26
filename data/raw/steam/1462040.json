@@ -1,0 +1,449 @@
+{
+ "appid": 1462040,
+ "game": "FINAL FANTASY VII REMAKE INTERGRADE",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 63,
+ "achievements": [
+  {
+   "api": "ACH_19",
+   "name": "Warming Up",
+   "desc": "Win a battle.",
+   "hidden": false,
+   "pct": 96.9
+  },
+  {
+   "api": "ACH_22",
+   "name": "Staggering Start",
+   "desc": "Stagger an enemy.",
+   "hidden": false,
+   "pct": 93.2
+  },
+  {
+   "api": "ACH_01",
+   "name": "Onetime Gig",
+   "desc": "",
+   "hidden": true,
+   "pct": 86.5
+  },
+  {
+   "api": "ACH_20",
+   "name": "Weakened Resolve",
+   "desc": "Exploit an enemy's weakness.",
+   "hidden": false,
+   "pct": 85.2
+  },
+  {
+   "api": "ACH_02",
+   "name": "Escape Artist",
+   "desc": "",
+   "hidden": true,
+   "pct": 78.7
+  },
+  {
+   "api": "ACH_21",
+   "name": "Bonds of Friendship",
+   "desc": "Free a bound ally.",
+   "hidden": false,
+   "pct": 77.7
+  },
+  {
+   "api": "ACH_24",
+   "name": "Gotta Start Somewhere",
+   "desc": "Complete a quest.",
+   "hidden": false,
+   "pct": 69.9
+  },
+  {
+   "api": "ACH_26",
+   "name": "Materia for Beginners",
+   "desc": "Level up an orb of materia.",
+   "hidden": false,
+   "pct": 68.5
+  },
+  {
+   "api": "ACH_03",
+   "name": "Mercenary Endeavors",
+   "desc": "",
+   "hidden": true,
+   "pct": 64.1
+  },
+  {
+   "api": "ACH_27",
+   "name": "My First Summon",
+   "desc": "Invoke a summon.",
+   "hidden": false,
+   "pct": 61.8
+  },
+  {
+   "api": "ACH_23",
+   "name": "Music Collector",
+   "desc": "Collect 3 music discs.",
+   "hidden": false,
+   "pct": 61.4
+  },
+  {
+   "api": "ACH_04",
+   "name": "Night on the Town",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.4
+  },
+  {
+   "api": "ACH_25",
+   "name": "My First Ability",
+   "desc": "Max out a weapon's proficiency.",
+   "hidden": false,
+   "pct": 59.2
+  },
+  {
+   "api": "ACH_05",
+   "name": "Plan E",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.5
+  },
+  {
+   "api": "ACH_06",
+   "name": "Lights Out",
+   "desc": "",
+   "hidden": true,
+   "pct": 56.3
+  },
+  {
+   "api": "ACH_07",
+   "name": "Trapped like Sewer Rats",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.8
+  },
+  {
+   "api": "ACH_31",
+   "name": "In Lockstep",
+   "desc": "Bypass the delta-level security lock in Mako Reactor 5.",
+   "hidden": false,
+   "pct": 53.9
+  },
+  {
+   "api": "ACH_33",
+   "name": "Say It with Flowers",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.3
+  },
+  {
+   "api": "ACH_08",
+   "name": "Reunited",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.6
+  },
+  {
+   "api": "ACH_38",
+   "name": "Snappy Dresser",
+   "desc": "Obtain three bridal candidate outfits.",
+   "hidden": false,
+   "pct": 44.5
+  },
+  {
+   "api": "ACH_09",
+   "name": "Never the Bride",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.2
+  },
+  {
+   "api": "ACH_34",
+   "name": "Summon Slayer",
+   "desc": "Defeat a summon in battle.",
+   "hidden": false,
+   "pct": 43.6
+  },
+  {
+   "api": "ACH_10",
+   "name": "Sewer Survivor",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.1
+  },
+  {
+   "api": "ACH_11",
+   "name": "Paranormal Investigator",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.9
+  },
+  {
+   "api": "ACH_12",
+   "name": "The Collapse",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.0
+  },
+  {
+   "api": "ACH_13",
+   "name": "Broken Dreams",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.5
+  },
+  {
+   "api": "ACH_30",
+   "name": "Cleanup Crew",
+   "desc": "Obtain the Chocobo & Moogle materia.",
+   "hidden": false,
+   "pct": 38.6
+  },
+  {
+   "api": "ACH_14",
+   "name": "Picking Up the Pieces",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.0
+  },
+  {
+   "api": "ACH_15",
+   "name": "The Pizza in the Sky",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.6
+  },
+  {
+   "api": "ACH_32",
+   "name": "Crate Annihilator",
+   "desc": "Complete all Normal difficulty Whack-a-Box challenges.",
+   "hidden": false,
+   "pct": 34.5
+  },
+  {
+   "api": "ACH_16",
+   "name": "No Appointment Needed",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.3
+  },
+  {
+   "api": "ACH_17",
+   "name": "Emerging from Chaos",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.5
+  },
+  {
+   "api": "ACH_18",
+   "name": "Destiny's Crossroads",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.6
+  },
+  {
+   "api": "ACH_36",
+   "name": "Dancing Queen",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.2
+  },
+  {
+   "api": "ACH_29",
+   "name": "Heavenly Dart Player",
+   "desc": "Rise to the top of the Seventh Heaven darts leaderboard.",
+   "hidden": false,
+   "pct": 26.6
+  },
+  {
+   "api": "ACH_37",
+   "name": "Returning Champion",
+   "desc": "Emerge victorious from a colosseum sparring session.",
+   "hidden": false,
+   "pct": 26.2
+  },
+  {
+   "api": "ACH_35",
+   "name": "Sultan of Squat",
+   "desc": "Complete all squat challenges.",
+   "hidden": false,
+   "pct": 23.3
+  },
+  {
+   "api": "ACH_42",
+   "name": "Divine Gratitude",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.0
+  },
+  {
+   "api": "ACH_43",
+   "name": "The Johnny Experience",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.7
+  },
+  {
+   "api": "ACH_54",
+   "name": "Takes Two IDs to Tango",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.8
+  },
+  {
+   "api": "ACH_55",
+   "name": "Out of Darkness's Clutches",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.8
+  },
+  {
+   "api": "ACH_57",
+   "name": "Turtle-tastic",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.5
+  },
+  {
+   "api": "ACH_40",
+   "name": "Whack-a-Box Wunderkind",
+   "desc": "Complete all Hard difficulty Whack-a-Box challenges.",
+   "hidden": false,
+   "pct": 12.4
+  },
+  {
+   "api": "ACH_41",
+   "name": "Peeress of Pull-Ups",
+   "desc": "Complete all pull-up challenges.",
+   "hidden": false,
+   "pct": 11.3
+  },
+  {
+   "api": "ACH_58",
+   "name": "Game, Set, Master",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.3
+  },
+  {
+   "api": "ACH_46",
+   "name": "Building Character",
+   "desc": "Attain level 50 with a character.",
+   "hidden": false,
+   "pct": 10.7
+  },
+  {
+   "api": "ACH_28",
+   "name": "Biker Boy",
+   "desc": "Get praised by Jessie at the end of the motorcycle mini-game.",
+   "hidden": false,
+   "pct": 6.9
+  },
+  {
+   "api": "ACH_48",
+   "name": "Intelligence Agent",
+   "desc": "Complete all battle intel reports.",
+   "hidden": false,
+   "pct": 5.6
+  },
+  {
+   "api": "ACH_45",
+   "name": "Disc Jockey",
+   "desc": "Collect all music discs.",
+   "hidden": false,
+   "pct": 5.2
+  },
+  {
+   "api": "ACH_49",
+   "name": "Weapons Expert",
+   "desc": "Learn all weapon abilities for Cloud, Barret, Tifa, and Aerith.",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "ACH_47",
+   "name": "Staggering Feat",
+   "desc": "Deal 300% damage to a staggered enemy.",
+   "hidden": false,
+   "pct": 4.5
+  },
+  {
+   "api": "ACH_60",
+   "name": "Materia Maven",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.2
+  },
+  {
+   "api": "ACH_51",
+   "name": "That's the Smell",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.1
+  },
+  {
+   "api": "ACH_44",
+   "name": "Best in the Business",
+   "desc": "Complete all quests.",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "ACH_52",
+   "name": "Ultimate Weapon",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.2
+  },
+  {
+   "api": "ACH_53",
+   "name": "Hardened Veteran",
+   "desc": "Complete all chapters of the main story on Hard difficulty.",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "ACH_50",
+   "name": "Master of Mimicry",
+   "desc": "Learn all enemy skills.",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "ACH_62",
+   "name": "Corrupter of the Immaculate",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "ACH_59",
+   "name": "Condor Queen",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.8
+  },
+  {
+   "api": "ACH_39",
+   "name": "Dressed to the Nines",
+   "desc": "Obtain all nine bridal candidate outfits.",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "ACH_56",
+   "name": "The Road to Revenge",
+   "desc": "Complete both chapters of INTERmission on Hard difficulty.",
+   "hidden": false,
+   "pct": 2.6
+  },
+  {
+   "api": "ACH_61",
+   "name": "Ultimate Weapon 2.0",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  },
+  {
+   "api": "ACH_00",
+   "name": "Master of Fate",
+   "desc": "Earn all FINAL FANTASY VII REMAKE achievements.",
+   "hidden": false,
+   "pct": 2.1
+  }
+ ]
+}

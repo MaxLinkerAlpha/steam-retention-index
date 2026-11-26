@@ -1,0 +1,401 @@
+{
+ "appid": 413150,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 49,
+ "achievements": [
+  {
+   "name": "Greenhorn",
+   "desc": "Earn 15,000g",
+   "hidden": false,
+   "pct": 62.7,
+   "api_name": "a0",
+   "internal_key": 256
+  },
+  {
+   "name": "Cowpoke",
+   "desc": "Earn 50,000g",
+   "hidden": false,
+   "pct": 55.4,
+   "api_name": "1",
+   "internal_key": 257
+  },
+  {
+   "name": "Homesteader",
+   "desc": "Earn 250,000g",
+   "hidden": false,
+   "pct": 44.4,
+   "api_name": "2",
+   "internal_key": 258
+  },
+  {
+   "name": "Millionaire",
+   "desc": "Earn 1,000,000g",
+   "hidden": false,
+   "pct": 32.5,
+   "api_name": "3",
+   "internal_key": 259
+  },
+  {
+   "name": "Legend",
+   "desc": "Earn 10,000,000g",
+   "hidden": true,
+   "pct": 11.7,
+   "api_name": "4",
+   "internal_key": 260
+  },
+  {
+   "name": "A Complete Collection",
+   "desc": "Complete the museum collection.",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "5",
+   "internal_key": 261
+  },
+  {
+   "name": "A New Friend",
+   "desc": "Reach a 5-heart friend level with someone.",
+   "hidden": false,
+   "pct": 40.4,
+   "api_name": "6",
+   "internal_key": 262
+  },
+  {
+   "name": "Best Friends",
+   "desc": "Reach a 10-heart friend level with someone.",
+   "hidden": false,
+   "pct": 32.1,
+   "api_name": "7",
+   "internal_key": 263
+  },
+  {
+   "name": "The Beloved Farmer",
+   "desc": "Reach a 10-heart friend level with 8 people.",
+   "hidden": false,
+   "pct": 13.6,
+   "api_name": "9",
+   "internal_key": 264
+  },
+  {
+   "name": "Cliques",
+   "desc": "Reach a 5-heart friend level with 4 people.",
+   "hidden": false,
+   "pct": 28.8,
+   "api_name": "11",
+   "internal_key": 265
+  },
+  {
+   "name": "Networking",
+   "desc": "Reach a 5-heart friend level with 10 people.",
+   "hidden": false,
+   "pct": 22.5,
+   "api_name": "12",
+   "internal_key": 266
+  },
+  {
+   "name": "Popular",
+   "desc": "Reach a 5-heart friend level with 20 people.",
+   "hidden": false,
+   "pct": 16.4,
+   "api_name": "13",
+   "internal_key": 267
+  },
+  {
+   "name": "Cook",
+   "desc": "Cook 10 different recipes.",
+   "hidden": false,
+   "pct": 12.4,
+   "api_name": "15",
+   "internal_key": 268
+  },
+  {
+   "name": "Sous Chef",
+   "desc": "Cook 25 different recipes.",
+   "hidden": false,
+   "pct": 7.2,
+   "api_name": "16",
+   "internal_key": 269
+  },
+  {
+   "name": "Gourmet Chef",
+   "desc": "Cook every recipe.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "17",
+   "internal_key": 270
+  },
+  {
+   "name": "Moving Up",
+   "desc": "Upgrade your house.",
+   "hidden": false,
+   "pct": 42.7,
+   "api_name": "18",
+   "internal_key": 271
+  },
+  {
+   "name": "Living Large",
+   "desc": "Upgrade your house to the maximum size.",
+   "hidden": false,
+   "pct": 26.9,
+   "api_name": "19",
+   "internal_key": 272
+  },
+  {
+   "name": "D.I.Y.",
+   "desc": "Craft 15 different items.",
+   "hidden": false,
+   "pct": 37.7,
+   "api_name": "20",
+   "internal_key": 273
+  },
+  {
+   "name": "Artisan",
+   "desc": "Craft 30 different items.",
+   "hidden": false,
+   "pct": 22.8,
+   "api_name": "21",
+   "internal_key": 274
+  },
+  {
+   "name": "Craft Master",
+   "desc": "Craft every item.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "22",
+   "internal_key": 275
+  },
+  {
+   "name": "Fisherman",
+   "desc": "Catch 10 different fish.",
+   "hidden": false,
+   "pct": 57.6,
+   "api_name": "24",
+   "internal_key": 276
+  },
+  {
+   "name": "Ol' Mariner",
+   "desc": "Catch 24 different fish.",
+   "hidden": false,
+   "pct": 42.8,
+   "api_name": "25",
+   "internal_key": 277
+  },
+  {
+   "name": "Master Angler",
+   "desc": "Catch every fish.",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "26",
+   "internal_key": 278
+  },
+  {
+   "name": "Mother Catch",
+   "desc": "Catch 100 fish.",
+   "hidden": false,
+   "pct": 49.5,
+   "api_name": "27",
+   "internal_key": 279
+  },
+  {
+   "name": "Treasure Trove",
+   "desc": "Donate 40 different items to the museum.",
+   "hidden": false,
+   "pct": 44.3,
+   "api_name": "28",
+   "internal_key": 280
+  },
+  {
+   "name": "Gofer",
+   "desc": "Complete 10 'Help Wanted' requests.",
+   "hidden": false,
+   "pct": 31.1,
+   "api_name": "29",
+   "internal_key": 281
+  },
+  {
+   "name": "A Big Help",
+   "desc": "Complete 40 'Help Wanted' requests.",
+   "hidden": false,
+   "pct": 11.7,
+   "api_name": "30",
+   "internal_key": 282
+  },
+  {
+   "name": "Polyculture",
+   "desc": "Ship 15 of each crop.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "31",
+   "internal_key": 283
+  },
+  {
+   "name": "Monoculture",
+   "desc": "Ship 300 of one crop.",
+   "hidden": false,
+   "pct": 33.3,
+   "api_name": "32",
+   "internal_key": 284
+  },
+  {
+   "name": "Full Shipment",
+   "desc": "Ship every item.",
+   "hidden": false,
+   "pct": 4.1,
+   "api_name": "34",
+   "internal_key": 285
+  },
+  {
+   "name": "Prairie King",
+   "desc": "Beat 'Journey Of The Prairie King'.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "Achievement_PrairieKing",
+   "internal_key": 286
+  },
+  {
+   "name": "The Bottom",
+   "desc": "Reach the lowest level of the mines.",
+   "hidden": false,
+   "pct": 43.1,
+   "api_name": "Achievement_TheBottom",
+   "internal_key": 287
+  },
+  {
+   "name": "Local Legend",
+   "desc": "Restore the Pelican Town Community Center.",
+   "hidden": false,
+   "pct": 22.8,
+   "api_name": "Achievement_LocalLegend",
+   "internal_key": 769
+  },
+  {
+   "name": "Joja Co. Member Of The Year",
+   "desc": "Become a Joja Co. member and purchase all the community development perks. ",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "Achievement_Joja",
+   "internal_key": 770
+  },
+  {
+   "name": "Mystery Of The Stardrops",
+   "desc": "Find every stardrop.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "Achievement_Stardrop",
+   "internal_key": 771
+  },
+  {
+   "name": "Fector's Challenge",
+   "desc": "Beat 'Journey Of The Prairie King' without dying.",
+   "hidden": true,
+   "pct": 1.3,
+   "api_name": "Achievement_FectorsChallenge",
+   "internal_key": 772
+  },
+  {
+   "name": "Full House",
+   "desc": "Get married and have two kids.",
+   "hidden": false,
+   "pct": 7.6,
+   "api_name": "Achievement_FullHouse",
+   "internal_key": 773
+  },
+  {
+   "name": "Singular Talent",
+   "desc": "Reach level 10 in a skill.",
+   "hidden": false,
+   "pct": 40.9,
+   "api_name": "Achievement_SingularTalent",
+   "internal_key": 774
+  },
+  {
+   "name": "Master Of The Five Ways",
+   "desc": "Reach level 10 in every skill.",
+   "hidden": false,
+   "pct": 18.2,
+   "api_name": "Achievement_MasterOfTheFiveWays",
+   "internal_key": 775
+  },
+  {
+   "name": "Protector Of The Valley",
+   "desc": "Complete all of the Adventure Guild Monster Slayer goals.",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "Achievement_KeeperOfTheMysticRings",
+   "internal_key": 776
+  },
+  {
+   "name": "Well-Read",
+   "desc": "Read every book.",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "35",
+   "internal_key": 777
+  },
+  {
+   "name": "Two Thumbs Up",
+   "desc": "See a movie.",
+   "hidden": false,
+   "pct": 9.8,
+   "api_name": "36",
+   "internal_key": 778
+  },
+  {
+   "name": "Blue Ribbon",
+   "desc": "Get 1st place in the Stardew Valley Fair competition.",
+   "hidden": false,
+   "pct": 18.8,
+   "api_name": "37",
+   "internal_key": 779
+  },
+  {
+   "name": "An Unforgettable Soup",
+   "desc": "Delight the Governor.",
+   "hidden": false,
+   "pct": 13.0,
+   "api_name": "38",
+   "internal_key": 780
+  },
+  {
+   "name": "Good Neighbors",
+   "desc": "Help your forest neighbors grow their family.",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "39",
+   "internal_key": 781
+  },
+  {
+   "name": "Danger In The Deep",
+   "desc": "Reach the bottom of the 'dangerous' mines.",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "41",
+   "internal_key": 782
+  },
+  {
+   "name": "Infinite Power",
+   "desc": "Obtain the most powerful weapon.",
+   "hidden": false,
+   "pct": 8.5,
+   "api_name": "42",
+   "internal_key": 783
+  },
+  {
+   "name": "Perfection",
+   "desc": "Reach the summit.",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "44",
+   "internal_key": 784
+  },
+  {
+   "name": "A Distant Shore",
+   "desc": "Reach Ginger Island.",
+   "hidden": false,
+   "pct": 17.6,
+   "api_name": "40",
+   "internal_key": 785
+  }
+ ]
+}

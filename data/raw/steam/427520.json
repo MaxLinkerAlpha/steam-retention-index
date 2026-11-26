@@ -1,0 +1,624 @@
+{
+ "appid": 427520,
+ "game": "Factorio",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 88,
+ "achievements": [
+  {
+   "api": "it-stinks-and-they-dont-like-it",
+   "name": "It stinks and they don't like it",
+   "desc": "Trigger an alien attack by pollution.",
+   "hidden": false,
+   "pct": 64.4
+  },
+  {
+   "api": "iron-throne-1",
+   "name": "Iron throne 1",
+   "desc": "Produce 20k iron plates per hour.",
+   "hidden": false,
+   "pct": 61.6
+  },
+  {
+   "api": "eco-unfriendly",
+   "name": "Eco unfriendly",
+   "desc": "Research oil processing.",
+   "hidden": false,
+   "pct": 60.2
+  },
+  {
+   "api": "mass-production-1",
+   "name": "Mass production 1",
+   "desc": "Produce 10k electronic circuits.",
+   "hidden": false,
+   "pct": 57.1
+  },
+  {
+   "api": "getting-on-track",
+   "name": "Getting on track",
+   "desc": "Build a locomotive.",
+   "hidden": false,
+   "pct": 50.3
+  },
+  {
+   "api": "circuit-veteran-1",
+   "name": "Circuit veteran 1",
+   "desc": "Produce 1.0k advanced circuits per hour.",
+   "hidden": false,
+   "pct": 47.1
+  },
+  {
+   "api": "reach-for-the-stars",
+   "name": "Reach for the stars",
+   "desc": "Create a space platform.",
+   "hidden": false,
+   "pct": 44.4
+  },
+  {
+   "api": "steam-power",
+   "name": "Steam power",
+   "desc": "Start producing electric power by steam engine.",
+   "hidden": false,
+   "pct": 43.8
+  },
+  {
+   "api": "research-with-automation",
+   "name": "Research with automation",
+   "desc": "Research a technology using automation science packs.",
+   "hidden": false,
+   "pct": 42.5
+  },
+  {
+   "api": "automate-this",
+   "name": "Automate this!",
+   "desc": "Build an assembling machine 1.",
+   "hidden": false,
+   "pct": 40.0
+  },
+  {
+   "api": "research-with-logistics",
+   "name": "Research with logistics",
+   "desc": "Research a technology using logistic science packs.",
+   "hidden": false,
+   "pct": 36.4
+  },
+  {
+   "api": "run-forrest-run",
+   "name": "Run Forrest, run",
+   "desc": "Destroy 100 trees by impact.",
+   "hidden": false,
+   "pct": 34.8
+  },
+  {
+   "api": "trans-factorio-express",
+   "name": "Trans-Factorio express",
+   "desc": "Have a train plan a path 1,000 tiles or longer.",
+   "hidden": false,
+   "pct": 33.5
+  },
+  {
+   "api": "automated-construction",
+   "name": "Automated construction",
+   "desc": "Construct 100 machines using robots.",
+   "hidden": false,
+   "pct": 33.4
+  },
+  {
+   "api": "make-it-better",
+   "name": "Make it better",
+   "desc": "Manually insert a quality module into a module slot.",
+   "hidden": false,
+   "pct": 33.0
+  },
+  {
+   "api": "pest-control",
+   "name": "Pest control",
+   "desc": "Destroy a biter spawner.",
+   "hidden": false,
+   "pct": 33.0
+  },
+  {
+   "api": "visit-vulcanus",
+   "name": "Visit Vulcanus",
+   "desc": "Travel to planet Vulcanus.",
+   "hidden": false,
+   "pct": 32.4
+  },
+  {
+   "api": "automated-cleanup",
+   "name": "Automated cleanup",
+   "desc": "Deconstruct 100 objects with the construction robots.",
+   "hidden": false,
+   "pct": 31.7
+  },
+  {
+   "api": "computer-age-1",
+   "name": "Computer age 1",
+   "desc": "Produce 500 processing units per hour.",
+   "hidden": false,
+   "pct": 31.7
+  },
+  {
+   "api": "research-with-metallurgics",
+   "name": "Research with metallurgics",
+   "desc": "Research a technology using metallurgic science packs.",
+   "hidden": false,
+   "pct": 29.6
+  },
+  {
+   "api": "if-it-bleeds",
+   "name": "If it bleeds, we can kill it",
+   "desc": "Kill a small demolisher.",
+   "hidden": false,
+   "pct": 29.4
+  },
+  {
+   "api": "you-have-got-a-package",
+   "name": "You've got a package",
+   "desc": "Supply the character by logistic robot.",
+   "hidden": false,
+   "pct": 28.9
+  },
+  {
+   "api": "watch-your-step",
+   "name": "Watch your step",
+   "desc": "Get killed by a moving locomotive.",
+   "hidden": false,
+   "pct": 28.0
+  },
+  {
+   "api": "visit-fulgora",
+   "name": "Visit Fulgora",
+   "desc": "Travel to planet Fulgora.",
+   "hidden": false,
+   "pct": 28.0
+  },
+  {
+   "api": "get-off-my-lawn",
+   "name": "Get off my lawn",
+   "desc": "Disturb a demolisher by building on its territory.",
+   "hidden": false,
+   "pct": 27.7
+  },
+  {
+   "api": "computer-age-2",
+   "name": "Computer age 2",
+   "desc": "Produce 1.0k processing units per hour.",
+   "hidden": false,
+   "pct": 27.0
+  },
+  {
+   "api": "solar-power",
+   "name": "Solar power",
+   "desc": "Start producing electric power by solar panels.",
+   "hidden": false,
+   "pct": 26.5
+  },
+  {
+   "api": "research-with-military",
+   "name": "Research with military",
+   "desc": "Research a technology using military science packs.",
+   "hidden": false,
+   "pct": 25.8
+  },
+  {
+   "api": "research-with-electromagnetics",
+   "name": "Research with electromagnetics",
+   "desc": "Research a technology using electromagnetic science packs.",
+   "hidden": false,
+   "pct": 25.7
+  },
+  {
+   "api": "visit-gleba",
+   "name": "Visit Gleba",
+   "desc": "Travel to planet Gleba.",
+   "hidden": false,
+   "pct": 25.6
+  },
+  {
+   "api": "research-with-chemicals",
+   "name": "Research with chemicals",
+   "desc": "Research a technology using chemical science packs.",
+   "hidden": false,
+   "pct": 25.2
+  },
+  {
+   "api": "circuit-veteran-2",
+   "name": "Circuit veteran 2",
+   "desc": "Produce 10k advanced circuits per hour.",
+   "hidden": false,
+   "pct": 24.7
+  },
+  {
+   "api": "smoke-me-a-kipper-i-will-be-back-for-breakfast",
+   "name": "Smoke me a kipper, I'll be back for breakfast",
+   "desc": "Launch a rocket to space.",
+   "hidden": false,
+   "pct": 24.1
+  },
+  {
+   "api": "iron-throne-2",
+   "name": "Iron throne 2",
+   "desc": "Produce 200k iron plates per hour.",
+   "hidden": false,
+   "pct": 23.4
+  },
+  {
+   "api": "mass-production-2",
+   "name": "Mass production 2",
+   "desc": "Produce 1M electronic circuits.",
+   "hidden": false,
+   "pct": 21.5
+  },
+  {
+   "api": "research-with-agriculture",
+   "name": "Research with agriculture",
+   "desc": "Research a technology using agricultural science packs.",
+   "hidden": false,
+   "pct": 21.5
+  },
+  {
+   "api": "solaris",
+   "name": "Solaris",
+   "desc": "Produce more than 10 GJ per hour using only solar panels.",
+   "hidden": false,
+   "pct": 20.9
+  },
+  {
+   "api": "steamrolled",
+   "name": "Steamrolled",
+   "desc": "Destroy 10 spawners by impact.",
+   "hidden": false,
+   "pct": 20.8
+  },
+  {
+   "api": "delivery-service",
+   "name": "Delivery service",
+   "desc": "Supply the character with 10k items delivered by logistic robots.",
+   "hidden": false,
+   "pct": 20.3
+  },
+  {
+   "api": "crafting-with-quality",
+   "name": "Crafting with quality",
+   "desc": "Craft a quality module 3.",
+   "hidden": false,
+   "pct": 19.7
+  },
+  {
+   "api": "it-stinks-and-they-do-like-it",
+   "name": "It stinks and they do like it",
+   "desc": "Attract a group of pentapods using spores.",
+   "hidden": false,
+   "pct": 19.0
+  },
+  {
+   "api": "research-with-production",
+   "name": "Research with production",
+   "desc": "Research a technology using production science packs.",
+   "hidden": false,
+   "pct": 17.5
+  },
+  {
+   "api": "research-with-utility",
+   "name": "Research with utility",
+   "desc": "Research a technology using utility science packs.",
+   "hidden": false,
+   "pct": 15.9
+  },
+  {
+   "api": "visit-aquilo",
+   "name": "Visit Aquilo",
+   "desc": "Travel to planet Aquilo.",
+   "hidden": false,
+   "pct": 15.1
+  },
+  {
+   "api": "circuit-veteran-3",
+   "name": "Circuit veteran 3",
+   "desc": "Produce 25k advanced circuits per hour.",
+   "hidden": false,
+   "pct": 14.9
+  },
+  {
+   "api": "iron-throne-3",
+   "name": "Iron throne 3",
+   "desc": "Produce 400k iron plates per hour.",
+   "hidden": false,
+   "pct": 14.1
+  },
+  {
+   "api": "research-with-cryogenics",
+   "name": "Research with cryogenics",
+   "desc": "Research a technology using cryogenic science packs.",
+   "hidden": false,
+   "pct": 14.0
+  },
+  {
+   "api": "we-need-bigger-guns",
+   "name": "We need bigger guns",
+   "desc": "Kill a medium demolisher.",
+   "hidden": false,
+   "pct": 13.9
+  },
+  {
+   "api": "nuclear-power",
+   "name": "Nuclear power",
+   "desc": "Start producing electric power by nuclear powerplant.",
+   "hidden": false,
+   "pct": 13.8
+  },
+  {
+   "api": "computer-age-3",
+   "name": "Computer age 3",
+   "desc": "Produce 5k processing units per hour.",
+   "hidden": false,
+   "pct": 13.4
+  },
+  {
+   "api": "research-with-space",
+   "name": "Research with space",
+   "desc": "Research a technology using space science packs.",
+   "hidden": false,
+   "pct": 11.9
+  },
+  {
+   "api": "fusion-power",
+   "name": "Fusion power",
+   "desc": "Start producing electric power by fusion powerplant.",
+   "hidden": false,
+   "pct": 11.8
+  },
+  {
+   "api": "terraformer",
+   "name": "Terraformer",
+   "desc": "Destroy a cliff.",
+   "hidden": false,
+   "pct": 11.7
+  },
+  {
+   "api": "you-are-doing-it-right",
+   "name": "You are doing it right",
+   "desc": "Construct more machines using robots than manually.",
+   "hidden": false,
+   "pct": 11.5
+  },
+  {
+   "api": "mining-with-determination",
+   "name": "Mining with determination",
+   "desc": "Completely deplete a resource patch.",
+   "hidden": false,
+   "pct": 11.1
+  },
+  {
+   "api": "look-at-my-shiny-rare-armor",
+   "name": "Look at my shiny rare armor",
+   "desc": "Equip rare or better quality of power armor MK2 or mech armor.",
+   "hidden": false,
+   "pct": 10.3
+  },
+  {
+   "api": "tech-maniac",
+   "name": "Tech maniac",
+   "desc": "Research all technologies.",
+   "hidden": false,
+   "pct": 9.7
+  },
+  {
+   "api": "golem",
+   "name": "Golem",
+   "desc": "Survive a hit of 500 damage or more.",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "pyromaniac",
+   "name": "Pyromaniac",
+   "desc": "Destroy 10k trees with fire.",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "my-modules-are-legendary",
+   "name": "My modules are legendary",
+   "desc": "Craft a legendary quality module 3.",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "raining-bullets",
+   "name": "Raining bullets",
+   "desc": "Launch a rocket to space without building any laser turrets.",
+   "hidden": false,
+   "pct": 9.5
+  },
+  {
+   "api": "second-star-to-the-right-and-straight-on-till-morning",
+   "name": "Second star to the right and straight on till morning",
+   "desc": "Finish the game.",
+   "hidden": false,
+   "pct": 9.1
+  },
+  {
+   "api": "crafting-with-speed",
+   "name": "Crafting with speed",
+   "desc": "Craft a speed module 3.",
+   "hidden": false,
+   "pct": 8.9
+  },
+  {
+   "api": "steam-all-the-way",
+   "name": "Steam all the way",
+   "desc": "Launch a rocket to space without building any solar panels.",
+   "hidden": false,
+   "pct": 8.7
+  },
+  {
+   "api": "logistic-network-embargo",
+   "name": "Logistic network embargo",
+   "desc": "Finish research with space science pack for the base game or any planetary science pack for Space Age without building any active provider, buffer, or requester chests.",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "art-of-siege",
+   "name": "Art of siege",
+   "desc": "Destroy an enemy structure using artillery.",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "so-long-and-thanks-for-all-the-fish",
+   "name": "So long and thanks for all the fish",
+   "desc": " ",
+   "hidden": false,
+   "pct": 7.4
+  },
+  {
+   "api": "shattered-planet-1",
+   "name": "Going to shattered planet 1",
+   "desc": "Travel 10 000 km towards the shattered planet.",
+   "hidden": false,
+   "pct": 7.1
+  },
+  {
+   "api": "shattered-planet-2",
+   "name": "Going to shattered planet 2",
+   "desc": "Travel 30 000 km towards the shattered planet.",
+   "hidden": false,
+   "pct": 6.5
+  },
+  {
+   "api": "size-doesnt-matter",
+   "name": "Size doesn't matter",
+   "desc": "Kill a big demolisher.",
+   "hidden": false,
+   "pct": 6.4
+  },
+  {
+   "api": "crafting-with-efficiency",
+   "name": "Crafting with efficiency",
+   "desc": "Craft an efficiency module 3.",
+   "hidden": false,
+   "pct": 6.3
+  },
+  {
+   "api": "crafting-with-productivity",
+   "name": "Crafting with productivity",
+   "desc": "Craft a productivity module 3.",
+   "hidden": false,
+   "pct": 6.3
+  },
+  {
+   "api": "rush-to-space",
+   "name": "Rush to space",
+   "desc": "Research a technology using another planet's science pack before unlocking production or utility science packs.",
+   "hidden": false,
+   "pct": 6.1
+  },
+  {
+   "api": "mass-production-3",
+   "name": "Mass production 3",
+   "desc": "Produce 20M electronic circuits.",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "arachnophilia",
+   "name": "Arachnophilia",
+   "desc": "Build a spidertron.",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "destroyer-of-worlds",
+   "name": "I am the destroyer of worlds",
+   "desc": "Use an atomic bomb.",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "shattered-planet-3",
+   "name": "Going to shattered planet 3",
+   "desc": "Travel 60 000 km towards the shattered planet.",
+   "hidden": false,
+   "pct": 5.8
+  },
+  {
+   "api": "research-with-promethium",
+   "name": "Research with promethium",
+   "desc": "Research a technology using promethium science packs.",
+   "hidden": false,
+   "pct": 5.1
+  },
+  {
+   "api": "no-time-for-chitchat",
+   "name": "No time for chitchat",
+   "desc": "Launch a rocket to space within 15 hours.",
+   "hidden": false,
+   "pct": 5.0
+  },
+  {
+   "api": "getting-on-track-like-a-pro",
+   "name": "Getting on track like a pro",
+   "desc": "Build a locomotive within the first 90 minutes of the game.",
+   "hidden": false,
+   "pct": 4.1
+  },
+  {
+   "api": "lazy-bastard",
+   "name": "Lazy bastard",
+   "desc": "Launch a rocket to space while manually crafting no more than 111 items.",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "no-room-for-more",
+   "name": "No room for more",
+   "desc": "Fill every tile of legendary mech armor with legendary equipment.",
+   "hidden": false,
+   "pct": 3.7
+  },
+  {
+   "api": "todays-fish-is-trout-a-la-creme",
+   "name": "Today's fish is trout a la creme",
+   "desc": "Eat a legendary fish.",
+   "hidden": false,
+   "pct": 3.7
+  },
+  {
+   "api": "minions",
+   "name": "Minions",
+   "desc": "Have 100 combat robots or more following you.",
+   "hidden": false,
+   "pct": 3.6
+  },
+  {
+   "api": "there-is-no-spoon",
+   "name": "There is no spoon",
+   "desc": "Launch a rocket to space within 8 hours.",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "work-around-the-clock",
+   "name": "Work around the clock",
+   "desc": "Finish the game within 100 hours.",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "express-delivery",
+   "name": "Express delivery",
+   "desc": "Finish the game within 40 hours.",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "keeping-your-hands-clean",
+   "name": "Keeping your hands clean",
+   "desc": "Destroy your first enemy structure using artillery.",
+   "hidden": false,
+   "pct": 1.1
+  }
+ ]
+}

@@ -1,0 +1,409 @@
+{
+ "appid": 782330,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 50,
+ "achievements": [
+  {
+   "name": "Doomsday",
+   "desc": "Complete Hell on Earth",
+   "hidden": true,
+   "pct": 76.3,
+   "api_name": "NEW_ACHIEVEMENT_1_0",
+   "internal_key": 256
+  },
+  {
+   "name": "The Hunters Became the Hunted",
+   "desc": "Kill the Doom Hunters",
+   "hidden": true,
+   "pct": 49.9,
+   "api_name": "NEW_ACHIEVEMENT_1_1",
+   "internal_key": 257
+  },
+  {
+   "name": "Interplanetary Fracking",
+   "desc": "Blow a hole in Mars",
+   "hidden": true,
+   "pct": 40.5,
+   "api_name": "NEW_ACHIEVEMENT_1_2",
+   "internal_key": 258
+  },
+  {
+   "name": "Thumbs Down",
+   "desc": "Best the Gladiator in the coliseum",
+   "hidden": true,
+   "pct": 40.1,
+   "api_name": "NEW_ACHIEVEMENT_1_3",
+   "internal_key": 259
+  },
+  {
+   "name": "Reforged and Refueled",
+   "desc": "Acquire a new Crucible in Taras Nabad",
+   "hidden": true,
+   "pct": 37.1,
+   "api_name": "NEW_ACHIEVEMENT_1_4",
+   "internal_key": 260
+  },
+  {
+   "name": "Nontraditionalist",
+   "desc": "Kill the Khan Maykr",
+   "hidden": true,
+   "pct": 33.1,
+   "api_name": "NEW_ACHIEVEMENT_1_5",
+   "internal_key": 261
+  },
+  {
+   "name": "Iconoclast",
+   "desc": "Kill the Icon of Sin",
+   "hidden": true,
+   "pct": 31.9,
+   "api_name": "NEW_ACHIEVEMENT_1_6",
+   "internal_key": 262
+  },
+  {
+   "name": "The Once and Future Slayer",
+   "desc": "Complete the Campaign on any difficulty",
+   "hidden": false,
+   "pct": 32.0,
+   "api_name": "NEW_ACHIEVEMENT_1_7",
+   "internal_key": 263
+  },
+  {
+   "name": "Treasure Hunter",
+   "desc": "Beat all encounters and Mission Challenges, and find all Items in Taras Nabad in a single save slot",
+   "hidden": true,
+   "pct": 9.2,
+   "api_name": "NEW_ACHIEVEMENT_1_8",
+   "internal_key": 264
+  },
+  {
+   "name": "Master of Fasting",
+   "desc": "Complete a Mission with only the Famine Mode cheat on",
+   "hidden": false,
+   "pct": 3.6,
+   "api_name": "NEW_ACHIEVEMENT_1_9",
+   "internal_key": 265
+  },
+  {
+   "name": "Running Up the High Score",
+   "desc": "Complete Extra Life Mode with 10 Extra Lives in your Inventory",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "NEW_ACHIEVEMENT_1_10",
+   "internal_key": 266
+  },
+  {
+   "name": "Crystal Craving",
+   "desc": "Upgrade Health, Armor, or Ammo",
+   "hidden": false,
+   "pct": 73.6,
+   "api_name": "NEW_ACHIEVEMENT_1_11",
+   "internal_key": 267
+  },
+  {
+   "name": "King of the Crystals",
+   "desc": "Fully upgrade Health, Armor, or Ammo in a single save slot",
+   "hidden": false,
+   "pct": 35.6,
+   "api_name": "NEW_ACHIEVEMENT_1_12",
+   "internal_key": 268
+  },
+  {
+   "name": "This One's my Favorite",
+   "desc": "Complete a Praetor Suit Perk category in a single save slot",
+   "hidden": false,
+   "pct": 41.2,
+   "api_name": "NEW_ACHIEVEMENT_1_13",
+   "internal_key": 269
+  },
+  {
+   "name": "They're ALL My Favorite",
+   "desc": "Purchase all Praetor Suit Perks in a single save slot",
+   "hidden": false,
+   "pct": 20.0,
+   "api_name": "NEW_ACHIEVEMENT_1_14",
+   "internal_key": 270
+  },
+  {
+   "name": "Homemaykr",
+   "desc": "Spend 8 Sentinel Batteries in the Fortress of Doom in a single save slot",
+   "hidden": false,
+   "pct": 38.9,
+   "api_name": "NEW_ACHIEVEMENT_1_15",
+   "internal_key": 271
+  },
+  {
+   "name": "Extra Extra Lives",
+   "desc": "Pick up 20 Extra Lives Total in a single save slot",
+   "hidden": false,
+   "pct": 37.4,
+   "api_name": "NEW_ACHIEVEMENT_1_16",
+   "internal_key": 272
+  },
+  {
+   "name": "Reforged the Genie Lamp",
+   "desc": "Complete the cheat code collection in a single save slot",
+   "hidden": false,
+   "pct": 12.3,
+   "api_name": "NEW_ACHIEVEMENT_1_17",
+   "internal_key": 273
+  },
+  {
+   "name": "Metal Head",
+   "desc": "Complete the album collection in a single save slot",
+   "hidden": false,
+   "pct": 12.3,
+   "api_name": "NEW_ACHIEVEMENT_1_18",
+   "internal_key": 274
+  },
+  {
+   "name": "Playset Sold Separately",
+   "desc": "Complete the toy collection in a single save slot",
+   "hidden": false,
+   "pct": 10.9,
+   "api_name": "NEW_ACHIEVEMENT_1_19",
+   "internal_key": 275
+  },
+  {
+   "name": "If Only I Could Read…",
+   "desc": "Collect all physical Codex pages in a single save slot",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "NEW_ACHIEVEMENT_1_20",
+   "internal_key": 276
+  },
+  {
+   "name": "Bonus Stage",
+   "desc": "Complete a Slayer Gate",
+   "hidden": false,
+   "pct": 51.1,
+   "api_name": "NEW_ACHIEVEMENT_1_21",
+   "internal_key": 277
+  },
+  {
+   "name": "Breaker of Gates",
+   "desc": "Complete all Slayer Gates in a single save slot",
+   "hidden": false,
+   "pct": 21.3,
+   "api_name": "NEW_ACHIEVEMENT_1_22",
+   "internal_key": 278
+  },
+  {
+   "name": "Gunpletionist",
+   "desc": "Master all Weapon Mods in a single save slot",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "NEW_ACHIEVEMENT_1_23",
+   "internal_key": 279
+  },
+  {
+   "name": "Meet Your Unmaykr",
+   "desc": "Acquire the Unmaykr",
+   "hidden": true,
+   "pct": 19.6,
+   "api_name": "NEW_ACHIEVEMENT_1_24",
+   "internal_key": 280
+  },
+  {
+   "name": "Darn It, They Keep BREAKING",
+   "desc": "Perform 33 Unique Glory Kills in a single save slot",
+   "hidden": false,
+   "pct": 77.3,
+   "api_name": "NEW_ACHIEVEMENT_1_25",
+   "internal_key": 281
+  },
+  {
+   "name": "Mix and Match",
+   "desc": "Play as 5 different Player Demons in BATTLEMODE",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "NEW_ACHIEVEMENT_1_26",
+   "internal_key": 282
+  },
+  {
+   "name": "Fight Like Hell",
+   "desc": "Do 5000 damage as a Player Demon in BATTLEMODE",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "NEW_ACHIEVEMENT_1_27",
+   "internal_key": 283
+  },
+  {
+   "name": "Blood Bath",
+   "desc": "Kill 200 opponents in BATTLEMODE",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "NEW_ACHIEVEMENT_1_28",
+   "internal_key": 284
+  },
+  {
+   "name": "Man vs Monsters",
+   "desc": "Play 25 BATTLEMODE matches",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "NEW_ACHIEVEMENT_1_29",
+   "internal_key": 285
+  },
+  {
+   "name": "Weapons Expert",
+   "desc": "Kill a Player Demon with each of the 8 Slayer weapons in BATTLEMODE",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "NEW_ACHIEVEMENT_1_30",
+   "internal_key": 286
+  },
+  {
+   "name": "Truce between Demons",
+   "desc": "Heal yourself or your teammate for 50000 health in BATTLEMODE",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "NEW_ACHIEVEMENT_1_31",
+   "internal_key": 287
+  },
+  {
+   "name": "It's a Magic Number",
+   "desc": "Kill 666 Demons (excluding Player Demons and Wolves)",
+   "hidden": false,
+   "pct": 59.3,
+   "api_name": "NEW_ACHIEVEMENT_2_0",
+   "internal_key": 512
+  },
+  {
+   "name": "Torrential Pain",
+   "desc": "Complete the UAC Atlantica Facility (Ancient Gods 1)",
+   "hidden": true,
+   "pct": 14.0,
+   "api_name": "NEW_ACHIEVEMENT_2_1",
+   "internal_key": 513
+  },
+  {
+   "name": "To Take a Life Sphere",
+   "desc": "Destroy the Life Sphere in the Blood Swamps (Ancient Gods 1)",
+   "hidden": true,
+   "pct": 12.0,
+   "api_name": "NEW_ACHIEVEMENT_2_2",
+   "internal_key": 514
+  },
+  {
+   "name": "Regime Change",
+   "desc": "Defeat Samur in the Holt (Ancient Gods 1)",
+   "hidden": true,
+   "pct": 10.7,
+   "api_name": "NEW_ACHIEVEMENT_2_3",
+   "internal_key": 515
+  },
+  {
+   "name": "1-Upsmanship",
+   "desc": "Complete Extra Life Mode with 5 Extra Lives in your Inventory (Ancient Gods 1)",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "NEW_ACHIEVEMENT_2_4",
+   "internal_key": 516
+  },
+  {
+   "name": "Lucky Charm Bracelet",
+   "desc": "Acquire all Support Runes in a single save slot (Ancient Gods 1)",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "NEW_ACHIEVEMENT_2_5",
+   "internal_key": 517
+  },
+  {
+   "name": "Hypersonic",
+   "desc": "Complete all Secret Encounters in a single save slot (Ancient Gods 1)",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "NEW_ACHIEVEMENT_2_6",
+   "internal_key": 518
+  },
+  {
+   "name": "Required Reading",
+   "desc": "Collect all physical Codex pages in a single save slot (Ancient Gods 1)",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "NEW_ACHIEVEMENT_2_7",
+   "internal_key": 519
+  },
+  {
+   "name": "Crystal Spelunker",
+   "desc": "Complete World Spear (Ancient Gods 2)",
+   "hidden": true,
+   "pct": 9.8,
+   "api_name": "NEW_ACHIEVEMENT_2_8",
+   "internal_key": 520
+  },
+  {
+   "name": "Cross the Threshold",
+   "desc": "Complete Reclaimed Earth (Ancient Gods 2)",
+   "hidden": true,
+   "pct": 9.3,
+   "api_name": "NEW_ACHIEVEMENT_2_9",
+   "internal_key": 521
+  },
+  {
+   "name": "Siege the Day",
+   "desc": "Complete Immora (Ancient Gods 2)",
+   "hidden": true,
+   "pct": 9.0,
+   "api_name": "NEW_ACHIEVEMENT_2_10",
+   "internal_key": 522
+  },
+  {
+   "name": "Tougher Than Nails",
+   "desc": "Acquire all Sentinel Hammer upgrades (Ancient Gods 2)",
+   "hidden": false,
+   "pct": 9.2,
+   "api_name": "NEW_ACHIEVEMENT_2_11",
+   "internal_key": 523
+  },
+  {
+   "name": "Rest Your Weary Fists",
+   "desc": "Kill the Dark Lord (Ancient Gods 2)",
+   "hidden": true,
+   "pct": 8.4,
+   "api_name": "NEW_ACHIEVEMENT_2_12",
+   "internal_key": 524
+  },
+  {
+   "name": "Live Die Reload",
+   "desc": "Complete Extra Life Mode with 5 Extra Lives in your Inventory (Ancient Gods 2)",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "NEW_ACHIEVEMENT_2_13",
+   "internal_key": 525
+  },
+  {
+   "name": "Critical Literature",
+   "desc": "Collect all physical Codex pages in a single save slot (Ancient Gods 2)",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "NEW_ACHIEVEMENT_2_14",
+   "internal_key": 526
+  },
+  {
+   "name": "Let's Play",
+   "desc": "Complete the first Horde Mode Mission",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "NEW_ACHIEVEMENT_2_15",
+   "internal_key": 527
+  },
+  {
+   "name": "Reinvent the Weapon Wheel",
+   "desc": "Re-collect all of the weapons on the Weapon Wheel",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "NEW_ACHIEVEMENT_2_16",
+   "internal_key": 528
+  },
+  {
+   "name": "Game Over",
+   "desc": "Beat Horde Mode",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "NEW_ACHIEVEMENT_2_17",
+   "internal_key": 529
+  }
+ ]
+}

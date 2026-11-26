@@ -1,0 +1,330 @@
+{
+ "appid": 2050650,
+ "game": "Resident Evil 4",
+ "snapshot": "2026-11-24 18:38 +08",
+ "count": 46,
+ "achievements": [
+  {
+   "api": "1",
+   "name": "Knife Basics",
+   "desc": "Parry an enemy with a knife.",
+   "hidden": false,
+   "pct": 86.1
+  },
+  {
+   "api": "2",
+   "name": "My Preferred Piece",
+   "desc": "Upgrade a weapon.",
+   "hidden": false,
+   "pct": 81.1
+  },
+  {
+   "api": "4",
+   "name": "Nice One, Stranger!",
+   "desc": "Complete a request for the Merchant.",
+   "hidden": false,
+   "pct": 78.5
+  },
+  {
+   "api": "7",
+   "name": "Harpoon Hurler",
+   "desc": "",
+   "hidden": true,
+   "pct": 76.4
+  },
+  {
+   "api": "5",
+   "name": "Talk About Near-Death Experience!",
+   "desc": "Rescue Ashley as she's being carried away by the enemy.",
+   "hidden": false,
+   "pct": 71.9
+  },
+  {
+   "api": "8",
+   "name": "Grilled Big Cheese",
+   "desc": "",
+   "hidden": true,
+   "pct": 70.9
+  },
+  {
+   "api": "37",
+   "name": "Amateur Shooter",
+   "desc": "Complete a game at the shooting range.",
+   "hidden": false,
+   "pct": 70.6
+  },
+  {
+   "api": "6",
+   "name": "Revolt Against the Revolting",
+   "desc": "Destroy a Clockwork Castellan.",
+   "hidden": false,
+   "pct": 67.2
+  },
+  {
+   "api": "10",
+   "name": "No Thanks, Bro!",
+   "desc": "",
+   "hidden": true,
+   "pct": 63.3
+  },
+  {
+   "api": "17",
+   "name": "Overkill",
+   "desc": "Use a cannon to defeat a zealot.",
+   "hidden": false,
+   "pct": 61.6
+  },
+  {
+   "api": "11",
+   "name": "You Used to Be a Good Guy",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.9
+  },
+  {
+   "api": "12",
+   "name": "You're Small Time!",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.1
+  },
+  {
+   "api": "28",
+   "name": "Promising Agent",
+   "desc": "Complete the main story on Standard mode or higher.",
+   "hidden": false,
+   "pct": 51.6
+  },
+  {
+   "api": "3",
+   "name": "A Masterpiece",
+   "desc": "Get the exclusive upgrade for a weapon.",
+   "hidden": false,
+   "pct": 47.6
+  },
+  {
+   "api": "13",
+   "name": "Shield Your Eyes",
+   "desc": "Defeat 3 enemies at once with a flash grenade.",
+   "hidden": false,
+   "pct": 44.3
+  },
+  {
+   "api": "9",
+   "name": "Wave Goodbye, Right Hand",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.5
+  },
+  {
+   "api": "15",
+   "name": "Two Bugs, One Stone",
+   "desc": "Kill 2 parasites inside a Regenerador with a single bullet.",
+   "hidden": false,
+   "pct": 36.7
+  },
+  {
+   "api": "21",
+   "name": "Astute Appraiser",
+   "desc": "Sell a single treasure for at least 100000 ptas.",
+   "hidden": false,
+   "pct": 34.4
+  },
+  {
+   "api": "40",
+   "name": "Giant Slayer",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.8
+  },
+  {
+   "api": "41",
+   "name": "\"It\" Kept You Busy",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.4
+  },
+  {
+   "api": "42",
+   "name": "Had Enough of Preachers",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.6
+  },
+  {
+   "api": "43",
+   "name": "Capable Operative",
+   "desc": "Complete Separate Ways on Standard mode or higher.",
+   "hidden": false,
+   "pct": 23.8
+  },
+  {
+   "api": "30",
+   "name": "Proficient Agent",
+   "desc": "Complete the main story on Hardcore mode or higher.",
+   "hidden": false,
+   "pct": 22.0
+  },
+  {
+   "api": "18",
+   "name": "Hope You Like Thrill Rides!",
+   "desc": "Make it through both minecart sections in the underground tunnel without taking any damage.",
+   "hidden": false,
+   "pct": 19.9
+  },
+  {
+   "api": "20",
+   "name": "Smooth Escape",
+   "desc": "Escape on the water scooter without taking any damage.",
+   "hidden": false,
+   "pct": 18.8
+  },
+  {
+   "api": "39",
+   "name": "Trick Shot",
+   "desc": "Shoot through and destroy 5 targets at the shooting range with a single shot.",
+   "hidden": false,
+   "pct": 18.1
+  },
+  {
+   "api": "24",
+   "name": "Raider",
+   "desc": "Obtain all treasures indicated on the island treasure map in a single playthrough.",
+   "hidden": false,
+   "pct": 17.0
+  },
+  {
+   "api": "33",
+   "name": "Sprinter",
+   "desc": "Complete the main story within 8 hours.",
+   "hidden": false,
+   "pct": 15.9
+  },
+  {
+   "api": "26",
+   "name": "Jack of All Trades",
+   "desc": "Complete all requests from the Merchant.",
+   "hidden": false,
+   "pct": 15.7
+  },
+  {
+   "api": "32",
+   "name": "Peerless Agent",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.7
+  },
+  {
+   "api": "22",
+   "name": "Bandit",
+   "desc": "Obtain all treasures indicated on the village treasure map in a single playthrough.",
+   "hidden": false,
+   "pct": 13.2
+  },
+  {
+   "api": "27",
+   "name": "Revolution Wind-up",
+   "desc": "Destroy all Clockwork Castellans.",
+   "hidden": false,
+   "pct": 12.6
+  },
+  {
+   "api": "19",
+   "name": "Capacity Compliance",
+   "desc": "Reach the top of the clock tower without the lift stopping once.",
+   "hidden": false,
+   "pct": 12.4
+  },
+  {
+   "api": "14",
+   "name": "Never Heard It Coming",
+   "desc": "Defeat a Garrador using only knives.",
+   "hidden": false,
+   "pct": 12.0
+  },
+  {
+   "api": "44",
+   "name": "Skilled Agent",
+   "desc": "Complete Separate Ways on Hardcore mode or higher.",
+   "hidden": false,
+   "pct": 11.5
+  },
+  {
+   "api": "16",
+   "name": "You Talk Too Much!",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.4
+  },
+  {
+   "api": "38",
+   "name": "Real Deadeye",
+   "desc": "Earn an S rank in all games at the shooting range.",
+   "hidden": false,
+   "pct": 10.6
+  },
+  {
+   "api": "23",
+   "name": "Burglar",
+   "desc": "Obtain all treasures indicated on the castle treasure map in a single playthrough.",
+   "hidden": false,
+   "pct": 10.0
+  },
+  {
+   "api": "31",
+   "name": "S+ Rank Investigator",
+   "desc": "Complete the main story on Hardcore mode with an S+ rank.",
+   "hidden": false,
+   "pct": 8.8
+  },
+  {
+   "api": "29",
+   "name": "Mission Accomplished S+",
+   "desc": "Complete the main story on Standard mode with an S+ rank.",
+   "hidden": false,
+   "pct": 8.7
+  },
+  {
+   "api": "34",
+   "name": "Frugalist",
+   "desc": "Complete the main story without using a recovery item.",
+   "hidden": false,
+   "pct": 8.0
+  },
+  {
+   "api": "25",
+   "name": "Gun Fanatic",
+   "desc": "Obtain all weapons.",
+   "hidden": false,
+   "pct": 7.2
+  },
+  {
+   "api": "45",
+   "name": "The Perfect Mission",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.7
+  },
+  {
+   "api": "36",
+   "name": "Silent Stranger",
+   "desc": "Complete the main story without talking to the Merchant once.",
+   "hidden": false,
+   "pct": 6.5
+  },
+  {
+   "api": "35",
+   "name": "Minimalist",
+   "desc": "Complete the main story using only knives and handguns. (Excluding specific battles.)",
+   "hidden": false,
+   "pct": 6.3
+  },
+  {
+   "api": "46",
+   "name": "Ada the \"S+\"py",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.2
+  }
+ ]
+}

@@ -1,0 +1,1321 @@
+{
+ "appid": 1551360,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 164,
+ "achievements": [
+  {
+   "name": "Welcome to México",
+   "desc": "Arrive at Horizon Festival México",
+   "hidden": false,
+   "pct": 93.7,
+   "api_name": "ACHIEVEMENT_1",
+   "internal_key": 256
+  },
+  {
+   "name": "Race into Action",
+   "desc": "Complete any Horizon Race Event",
+   "hidden": false,
+   "pct": 79.3,
+   "api_name": "ACHIEVEMENT_2",
+   "internal_key": 257
+  },
+  {
+   "name": "Adaptable",
+   "desc": "Complete the On a Wing and a Prayer Showcase Event",
+   "hidden": false,
+   "pct": 90.2,
+   "api_name": "ACHIEVEMENT_3",
+   "internal_key": 258
+  },
+  {
+   "name": "Icebreaker",
+   "desc": "Participate in a Horizon Arcade Event",
+   "hidden": false,
+   "pct": 45.3,
+   "api_name": "ACHIEVEMENT_4",
+   "internal_key": 259
+  },
+  {
+   "name": "Mi Casa",
+   "desc": "Unlock the first Player House",
+   "hidden": false,
+   "pct": 64.8,
+   "api_name": "ACHIEVEMENT_5",
+   "internal_key": 260
+  },
+  {
+   "name": "First Love",
+   "desc": "Purchase your first car from the Autoshow",
+   "hidden": false,
+   "pct": 65.2,
+   "api_name": "ACHIEVEMENT_6",
+   "internal_key": 261
+  },
+  {
+   "name": "This Is The Way",
+   "desc": "Start a new chapter of the Horizon Adventure",
+   "hidden": false,
+   "pct": 64.7,
+   "api_name": "ACHIEVEMENT_7",
+   "internal_key": 262
+  },
+  {
+   "name": "Viva Horizon!",
+   "desc": "Unlock your first Horizon Finale Event",
+   "hidden": false,
+   "pct": 48.7,
+   "api_name": "ACHIEVEMENT_8",
+   "internal_key": 263
+  },
+  {
+   "name": "Putting on a Show",
+   "desc": "Win every Showcase Event",
+   "hidden": false,
+   "pct": 9.0,
+   "api_name": "ACHIEVEMENT_9",
+   "internal_key": 264
+  },
+  {
+   "name": "AWDyssey",
+   "desc": "Build the Horizon Wilds Outpost",
+   "hidden": false,
+   "pct": 34.3,
+   "api_name": "ACHIEVEMENT_10",
+   "internal_key": 265
+  },
+  {
+   "name": "Ask Any Racer, Any Real Racer",
+   "desc": "Build the Horizon Street Scene Outpost",
+   "hidden": false,
+   "pct": 31.8,
+   "api_name": "ACHIEVEMENT_11",
+   "internal_key": 266
+  },
+  {
+   "name": "Far from the Mudding Crowd",
+   "desc": "Build the Horizon Apex Outpost",
+   "hidden": false,
+   "pct": 59.3,
+   "api_name": "ACHIEVEMENT_12",
+   "internal_key": 267
+  },
+  {
+   "name": "There’s Always Money in the Baja Stand",
+   "desc": "Build the Horizon Baja Outpost",
+   "hidden": false,
+   "pct": 33.1,
+   "api_name": "ACHIEVEMENT_13",
+   "internal_key": 268
+  },
+  {
+   "name": "Adrenaline Rush",
+   "desc": "Build the Horizon Rush Outpost",
+   "hidden": false,
+   "pct": 28.4,
+   "api_name": "ACHIEVEMENT_14",
+   "internal_key": 269
+  },
+  {
+   "name": "Hall of Famer",
+   "desc": "Reach the Horizon Hall of Fame",
+   "hidden": false,
+   "pct": 19.5,
+   "api_name": "ACHIEVEMENT_15",
+   "internal_key": 270
+  },
+  {
+   "name": "How to Race Friends and Influence People",
+   "desc": "Earn 3 stars in the 'Tristan' Chapter of the 'Born Fast' Horizon Story",
+   "hidden": false,
+   "pct": 5.4,
+   "api_name": "ACHIEVEMENT_16",
+   "internal_key": 271
+  },
+  {
+   "name": "Cover to Cover",
+   "desc": "Earn 3 stars on all chapters in a single Horizon Story",
+   "hidden": false,
+   "pct": 28.0,
+   "api_name": "ACHIEVEMENT_17",
+   "internal_key": 273
+  },
+  {
+   "name": "Tourist Attraction",
+   "desc": "Complete your first Horizon Tour Race Event",
+   "hidden": false,
+   "pct": 13.2,
+   "api_name": "ACHIEVEMENT_20",
+   "internal_key": 274
+  },
+  {
+   "name": "Show Me Your Moves!",
+   "desc": "Play any EventLab Event created by another player",
+   "hidden": false,
+   "pct": 45.3,
+   "api_name": "ACHIEVEMENT_21",
+   "internal_key": 275
+  },
+  {
+   "name": "Good Carma",
+   "desc": "Give another player some Kudos to show your appreciation",
+   "hidden": false,
+   "pct": 52.1,
+   "api_name": "ACHIEVEMENT_22",
+   "internal_key": 276
+  },
+  {
+   "name": "Album Cover",
+   "desc": "Take a photo of the 2021 Mercedes-AMG ONE for Horizon Promo",
+   "hidden": false,
+   "pct": 5.2,
+   "api_name": "ACHIEVEMENT_23",
+   "internal_key": 277
+  },
+  {
+   "name": "Fit to Print",
+   "desc": "Take 50 photos of Legendary cars for Horizon Promo",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "ACHIEVEMENT_24",
+   "internal_key": 278
+  },
+  {
+   "name": "A Forza Edition to my Collection",
+   "desc": "Earn a Forza Edition car from a Wheelspin or Super Wheelspin",
+   "hidden": false,
+   "pct": 42.8,
+   "api_name": "ACHIEVEMENT_25",
+   "internal_key": 279
+  },
+  {
+   "name": "Manufacturer Affinity ",
+   "desc": "Earn a Manufacturer Bonus",
+   "hidden": false,
+   "pct": 67.7,
+   "api_name": "ACHIEVEMENT_26",
+   "internal_key": 280
+  },
+  {
+   "name": "You Could Say I'm a Fan",
+   "desc": "Earn a Manufacturer Bonus for a collection of 25 or more cars ",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "ACHIEVEMENT_27",
+   "internal_key": 281
+  },
+  {
+   "name": "An Item Of Extreme Value",
+   "desc": "Discover and photograph the Golden Tlaloc Totem",
+   "hidden": false,
+   "pct": 40.1,
+   "api_name": "ACHIEVEMENT_28",
+   "internal_key": 282
+  },
+  {
+   "name": "No Stone Unturned",
+   "desc": "Complete your first Expedition",
+   "hidden": false,
+   "pct": 50.3,
+   "api_name": "ACHIEVEMENT_29",
+   "internal_key": 283
+  },
+  {
+   "name": "Chicken Dinner",
+   "desc": "Win your first game of The Eliminator",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "ACHIEVEMENT_30",
+   "internal_key": 284
+  },
+  {
+   "name": "Jackpot",
+   "desc": "Fully complete a run of Super7",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "ACHIEVEMENT_31",
+   "internal_key": 285
+  },
+  {
+   "name": "Seasoned Veteran",
+   "desc": "Complete a Festival Playlist activity in every season",
+   "hidden": false,
+   "pct": 27.5,
+   "api_name": "ACHIEVEMENT_32",
+   "internal_key": 286
+  },
+  {
+   "name": "Racing and Pacing and Plotting the Course",
+   "desc": "Win 80 different Race Events in México",
+   "hidden": false,
+   "pct": 13.7,
+   "api_name": "ACHIEVEMENT_33",
+   "internal_key": 287
+  },
+  {
+   "name": "Unbeatable Triumph",
+   "desc": "Win 6 different Race Events against Unbeatable Drivatars",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "ACHIEVEMENT_34",
+   "internal_key": 512
+  },
+  {
+   "name": "Living Legend",
+   "desc": "Earn 294 stars from PR Stunts in México",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "ACHIEVEMENT_35",
+   "internal_key": 513
+  },
+  {
+   "name": "I Have the High Ground ",
+   "desc": "Win 3 Rivals Events in 3 different PI Classes while driving the same car",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "ACHIEVEMENT_37",
+   "internal_key": 514
+  },
+  {
+   "name": "Unlimited Prowess!",
+   "desc": "Complete Round Three in all 5 Themes of Horizon Arcade",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "ACHIEVEMENT_38",
+   "internal_key": 515
+  },
+  {
+   "name": "Ride and Seek ",
+   "desc": "Discover and drive every road in México",
+   "hidden": false,
+   "pct": 6.1,
+   "api_name": "ACHIEVEMENT_39",
+   "internal_key": 516
+  },
+  {
+   "name": "Min, Meet Max",
+   "desc": "Complete all Events in a Festival Playlist Series",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "ACHIEVEMENT_40",
+   "internal_key": 517
+  },
+  {
+   "name": "Better Than New ",
+   "desc": "Restore 14 Barn Finds in México",
+   "hidden": false,
+   "pct": 9.4,
+   "api_name": "ACHIEVEMENT_41",
+   "internal_key": 518
+  },
+  {
+   "name": "Complete Collection",
+   "desc": "Find and smash all 250 Bonus Boards in México",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "ACHIEVEMENT_42",
+   "internal_key": 519
+  },
+  {
+   "name": "Ford of the Wings ",
+   "desc": "Earn 3 Stars at the Eagle's Perch Danger Sign in a Ford Supervan 3 ",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "ACHIEVEMENT_43",
+   "internal_key": 520
+  },
+  {
+   "name": "Mogul ",
+   "desc": "Purchase all 7 Player Houses",
+   "hidden": false,
+   "pct": 7.8,
+   "api_name": "ACHIEVEMENT_44",
+   "internal_key": 521
+  },
+  {
+   "name": "Long Gone",
+   "desc": "Win the Goliath Race Event",
+   "hidden": false,
+   "pct": 29.0,
+   "api_name": "ACHIEVEMENT_46",
+   "internal_key": 522
+  },
+  {
+   "name": "Gotta Smash 'Em All",
+   "desc": "Complete 5 Seasonal Smashable Challenges",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "ACHIEVEMENT_47",
+   "internal_key": 523
+  },
+  {
+   "name": "Cactus Makes Perfect",
+   "desc": "Smash 500 cacti during México's Wet Season ",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "ACHIEVEMENT_48",
+   "internal_key": 524
+  },
+  {
+   "name": "A Royal Affair",
+   "desc": "At sunrise, take a photo of your car with some monarch butterflies at Hotel Mirador Balderrama",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "ACHIEVEMENT_49",
+   "internal_key": 525
+  },
+  {
+   "name": "Dust in the Lens",
+   "desc": "Take a photo featuring the Gran Telescopio and a dust storm",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "ACHIEVEMENT_50",
+   "internal_key": 526
+  },
+  {
+   "name": "Stunning Photography",
+   "desc": "Take a photo during a tropical storm",
+   "hidden": false,
+   "pct": 47.9,
+   "api_name": "ACHIEVEMENT_51",
+   "internal_key": 527
+  },
+  {
+   "name": "A Heart of Gold",
+   "desc": "Send another player a Gift Drop",
+   "hidden": false,
+   "pct": 32.2,
+   "api_name": "ACHIEVEMENT_52",
+   "internal_key": 528
+  },
+  {
+   "name": "Water Performance",
+   "desc": "Earn 3 stars at the Puerta Pétrea and La Marisma Trailblazers within 3 minutes and 30 seconds",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "ACHIEVEMENT_53",
+   "internal_key": 529
+  },
+  {
+   "name": "You're the Champion",
+   "desc": "Win any Event in Horizon Open",
+   "hidden": false,
+   "pct": 8.9,
+   "api_name": "ACHIEVEMENT_54",
+   "internal_key": 530
+  },
+  {
+   "name": "Treasure Hunter",
+   "desc": "Find all Treasure Chests in a Festival Playlist Series",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "ACHIEVEMENT_55",
+   "internal_key": 531
+  },
+  {
+   "name": "Front Runner",
+   "desc": "Finish 5 Horizon Tour Race Events ahead of all Drivatars",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "ACHIEVEMENT_56",
+   "internal_key": 532
+  },
+  {
+   "name": "New Tune",
+   "desc": "Find a place to install the Horizon Pulse Radio Beacon",
+   "hidden": false,
+   "pct": 51.5,
+   "api_name": "ACHIEVEMENT_57",
+   "internal_key": 533
+  },
+  {
+   "name": "Competition, Experimentation, and Creativity",
+   "desc": "Play another player's EventLab creation utilizing Hot Wheels track pieces",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "ACHIEVEMENT_75",
+   "internal_key": 24584
+  },
+  {
+   "name": "Badge of Honour",
+   "desc": "Earn a Badge",
+   "hidden": false,
+   "pct": 63.4,
+   "api_name": "ACHIEVEMENT_86",
+   "internal_key": 24595
+  },
+  {
+   "name": "Hoonigan Impressionist",
+   "desc": "Smash a Pinata in the 'Drift Club Mexico' Chapter of the 'Drift Club' Horizon Story",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "ACHIEVEMENT_87",
+   "internal_key": 24596
+  },
+  {
+   "name": "The Grand Opening",
+   "desc": "Earn 10 Levels in Horizon Open",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "ACHIEVEMENT_88",
+   "internal_key": 24597
+  },
+  {
+   "name": "Another One Bites the Dust",
+   "desc": "Earn 100 Levels in Horizon Open",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ACHIEVEMENT_89",
+   "internal_key": 24598
+  },
+  {
+   "name": "One for All",
+   "desc": "Complete a Horizon Open Custom Race in the 2021 Mercedes-AMG One",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "ACHIEVEMENT_90",
+   "internal_key": 24599
+  },
+  {
+   "name": "Back in the Saddle",
+   "desc": "Complete a Horizon Open Custom Race in the 2021 Ford Bronco",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "ACHIEVEMENT_91",
+   "internal_key": 24600
+  },
+  {
+   "name": "Join the Club",
+   "desc": "Complete all chapters of the 'Drift Club' Horizon Story",
+   "hidden": false,
+   "pct": 6.1,
+   "api_name": "ACHIEVEMENT_92",
+   "internal_key": 24601
+  },
+  {
+   "name": "Drift Club Mexico",
+   "desc": "Earn 3 stars in all chapters of the 'Drift Club' Horizon Story",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "ACHIEVEMENT_93",
+   "internal_key": 24602
+  },
+  {
+   "name": "Welcome to Mexico 2.0",
+   "desc": "Complete the 'Welcome to Mexico' chapter of the 'Horizon Origins' Story",
+   "hidden": false,
+   "pct": 20.1,
+   "api_name": "ACHIEVEMENT_94",
+   "internal_key": 24603
+  },
+  {
+   "name": "Smash Happy",
+   "desc": "Smash all 4 Bonus Boards in the 'Horizon Origins' Story",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ACHIEVEMENT_95",
+   "internal_key": 24604
+  },
+  {
+   "name": "Blast From the Past",
+   "desc": "Complete all chapters of the 'Horizon Origins' Story",
+   "hidden": false,
+   "pct": 8.3,
+   "api_name": "ACHIEVEMENT_96",
+   "internal_key": 24605
+  },
+  {
+   "name": "Memory Lane",
+   "desc": "Earn 3 stars in all chapters of the 'Horizon Origins' Story",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "ACHIEVEMENT_97",
+   "internal_key": 24606
+  },
+  {
+   "name": "I'll Just Take This Now",
+   "desc": "Win your first Midnight Battle",
+   "hidden": false,
+   "pct": 12.2,
+   "api_name": "ACHIEVEMENT_98",
+   "internal_key": 24607
+  },
+  {
+   "name": "Nighthawk",
+   "desc": "Win every Midnight Battle",
+   "hidden": false,
+   "pct": 12.2,
+   "api_name": "ACHIEVEMENT_99",
+   "internal_key": 27136
+  },
+  {
+   "name": "Made in Mexico",
+   "desc": "Complete all chapters of the 'Made in Mexico' Horizon Story",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "ACHIEVEMENT_100",
+   "internal_key": 27137
+  },
+  {
+   "name": "V.U.H.L",
+   "desc": "Earn 3 stars in all chapters of the 'Made in Mexico' Horizon Story",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "ACHIEVEMENT_101",
+   "internal_key": 27138
+  },
+  {
+   "name": "On the Road Again",
+   "desc": "Complete the first chapter of the Donut Media HiLow Story",
+   "hidden": false,
+   "pct": 23.5,
+   "api_name": "ACHIEVEMENT_129",
+   "internal_key": 27166
+  },
+  {
+   "name": "Hi Five",
+   "desc": "Complete all chapters of the Donut Media Hi Story",
+   "hidden": false,
+   "pct": 6.5,
+   "api_name": "ACHIEVEMENT_130",
+   "internal_key": 27167
+  },
+  {
+   "name": "Low Five",
+   "desc": "Complete all chapters of the Donut Media Low Story",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "ACHIEVEMENT_131",
+   "internal_key": 37632
+  },
+  {
+   "name": "Give it the Beans!",
+   "desc": "Earn 3 Stars on all chapters of both Hi and Low stories",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "ACHIEVEMENT_132",
+   "internal_key": 37633
+  },
+  {
+   "name": "Get My Good Side",
+   "desc": "Take a photo of your character outside a car",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "ACHIEVEMENT_133",
+   "internal_key": 37634
+  },
+  {
+   "name": "Juuuuust Right",
+   "desc": "Take a photo using any guidelines 3 times",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ACHIEVEMENT_134",
+   "internal_key": 37635
+  },
+  {
+   "name": "Timeless",
+   "desc": "Take a photo at every time setting",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "ACHIEVEMENT_135",
+   "internal_key": 37636
+  },
+  {
+   "name": "Give Me Five!",
+   "desc": "Apply and purchase an upgrade to 5 cars at the Horizon Test Track",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "ACHIEVEMENT_136",
+   "internal_key": 37637
+  },
+  {
+   "name": "Leaving Tracks",
+   "desc": "Drive 50 miles (80.5km) at the Horizon Test Track",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "ACHIEVEMENT_137",
+   "internal_key": 37638
+  },
+  {
+   "name": "Maxing Out",
+   "desc": "Maintain a speed of 200mph (321.8km/h) for 10 seconds at the Horizon Test Track",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "ACHIEVEMENT_138",
+   "internal_key": 37639
+  },
+  {
+   "name": "Back To School",
+   "desc": "Complete the first chapter in the Icons of Speed Story",
+   "hidden": false,
+   "pct": 17.5,
+   "api_name": "ACHIEVEMENT_139",
+   "internal_key": 37640
+  },
+  {
+   "name": "A New Era",
+   "desc": "Complete all chapters in the Icons of Speed Story",
+   "hidden": false,
+   "pct": 6.1,
+   "api_name": "ACHIEVEMENT_140",
+   "internal_key": 37641
+  },
+  {
+   "name": "A True Icon",
+   "desc": "Earn 3 Stars in all chapters of the Icons of Speed Story",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "ACHIEVEMENT_141",
+   "internal_key": 37642
+  },
+  {
+   "name": "Hider and Seeker",
+   "desc": "Complete a match of Hide and Seek as both the Hider and the Seeker",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "ACHIEVEMENT_142",
+   "internal_key": 37646
+  },
+  {
+   "name": "Bounty Hunter",
+   "desc": "Complete 25 matches of Hide and Seek as a Seeker",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "ACHIEVEMENT_143",
+   "internal_key": 37647
+  },
+  {
+   "name": "The Hidden",
+   "desc": "Complete 5 matches of Hide and Seek as a Hider",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "ACHIEVEMENT_144",
+   "internal_key": 37648
+  },
+  {
+   "name": "Dedicated to the Cause",
+   "desc": "Reach a Streak of 20 in Hide and Seek",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "ACHIEVEMENT_145",
+   "internal_key": 37649
+  },
+  {
+   "name": "Never Back Down",
+   "desc": "Reach a Streak of 50 in Hide and Seek",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "ACHIEVEMENT_146",
+   "internal_key": 37650
+  },
+  {
+   "name": "Lay of The Land",
+   "desc": "Complete a match in every arena in Hide and Seek",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "ACHIEVEMENT_147",
+   "internal_key": 37651
+  },
+  {
+   "name": "Blending In",
+   "desc": "Win as a Hider in Hide and Seek",
+   "hidden": false,
+   "pct": 2.4,
+   "api_name": "ACHIEVEMENT_148",
+   "internal_key": 37652
+  },
+  {
+   "name": "The Big Reveal",
+   "desc": "Win as a Seeker in Hide and Seek",
+   "hidden": false,
+   "pct": 5.4,
+   "api_name": "ACHIEVEMENT_149",
+   "internal_key": 37654
+  },
+  {
+   "name": "Covering Ground",
+   "desc": "Drive 50 miles in Hide and Seek",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "ACHIEVEMENT_150",
+   "internal_key": 37655
+  },
+  {
+   "name": "Catching a Break",
+   "desc": "Successfully hit a total of 20 Seekers with Chase Breaker in a game of Hide and Seek",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "ACHIEVEMENT_151",
+   "internal_key": 37656
+  },
+  {
+   "name": "Enter the Realm",
+   "desc": "Enter any Realm in either Free Mode or Skill Mode",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "ACHIEVEMENT_152",
+   "internal_key": 37657
+  },
+  {
+   "name": "Master of Realms",
+   "desc": "Complete Skill Mode in every Realm",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "ACHIEVEMENT_153",
+   "internal_key": 37658
+  },
+  {
+   "name": "Stunt-tacular",
+   "desc": "Complete Skill Mode in the Stunt Park whilst driving any Hoonigan",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "ACHIEVEMENT_154",
+   "internal_key": 37659
+  },
+  {
+   "name": "You're On Thin Ice",
+   "desc": "Complete Skill Mode in the Ice Rink whilst driving the 2015 Volvo V60 Polestar",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "ACHIEVEMENT_155",
+   "internal_key": 37660
+  },
+  {
+   "name": "Tidy Little Bow",
+   "desc": "Complete Skill Mode in the Oval Track whilst driving the 2013 KTM X-Bow R",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "ACHIEVEMENT_156",
+   "internal_key": 37661
+  },
+  {
+   "name": "Party Like It's 1987",
+   "desc": "Complete Skill Mode at the Summer Party whilst driving the 1987 Pontiac Firebird",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "ACHIEVEMENT_157",
+   "internal_key": 37662
+  },
+  {
+   "name": "Right At Home",
+   "desc": "Complete Skill Mode at Día de Muertos whilst driving any Nissan",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "ACHIEVEMENT_158",
+   "internal_key": 37663
+  },
+  {
+   "name": "Driving in a...",
+   "desc": "Complete Skill Mode in the Winter Wonderland whilst driving any Lotus",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "ACHIEVEMENT_159",
+   "internal_key": 43776
+  },
+  {
+   "name": "Winging It",
+   "desc": "Complete Skill Mode in the Lunar Drift Arena whilst driving any Aston Martin",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "ACHIEVEMENT_160",
+   "internal_key": 43777
+  },
+  {
+   "name": "As The Clock Strikes Midnight",
+   "desc": "Complete Skill Mode at the Neon Airstrip whilst driving any Aventador",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "ACHIEVEMENT_161",
+   "internal_key": 43778
+  },
+  {
+   "name": "You Might Need a Map",
+   "desc": "Drive a total of 20 miles at the Stadium Maze in Horizon Realms",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "ACHIEVEMENT_162",
+   "internal_key": 43779
+  },
+  {
+   "name": "Time-Wyrm",
+   "desc": "Maintain a speed of 88mph or above for 1 minute at the Lunar Drift Arena in Horizon Realms",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "ACHIEVEMENT_163",
+   "internal_key": 43780
+  },
+  {
+   "name": "Free Bird",
+   "desc": "Earn 100 Speed Skills in Free Mode",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "ACHIEVEMENT_164",
+   "internal_key": 43781
+  },
+  {
+   "name": "Keep That Camera Rolling",
+   "desc": "Take a photo of 25 different cars in Free Mode",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "ACHIEVEMENT_165",
+   "internal_key": 43782
+  },
+  {
+   "name": "Drifting, Drifting, Drifting",
+   "desc": "Earn 150 Drift or E-Drift Skills in Free Mode",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "ACHIEVEMENT_166",
+   "internal_key": 43783
+  },
+  {
+   "name": "Spanning Generations",
+   "desc": "Drive a car from every decade around Free Mode",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "ACHIEVEMENT_167",
+   "internal_key": 43784
+  },
+  {
+   "name": "Demolisher",
+   "desc": "Earn 200 Wreckage Skills in Free Mode",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "ACHIEVEMENT_168",
+   "internal_key": 43785
+  },
+  {
+   "name": "No One Expects the Hot Wheels Expedition",
+   "desc": "Arrive at the Horizon Hot Wheels Outpost",
+   "hidden": false,
+   "pct": 55.2,
+   "api_name": "ACHIEVEMENT_58",
+   "internal_key": 535
+  },
+  {
+   "name": "The Rookie",
+   "desc": "Complete the Rookie Qualifier Event",
+   "hidden": false,
+   "pct": 51.5,
+   "api_name": "ACHIEVEMENT_59",
+   "internal_key": 536
+  },
+  {
+   "name": "Pros, No Cons",
+   "desc": "Complete the Pro Qualifier Event",
+   "hidden": false,
+   "pct": 26.5,
+   "api_name": "ACHIEVEMENT_60",
+   "internal_key": 537
+  },
+  {
+   "name": "I'm an Expert Now",
+   "desc": "Complete the Expert Qualifier Event",
+   "hidden": false,
+   "pct": 18.3,
+   "api_name": "ACHIEVEMENT_61",
+   "internal_key": 538
+  },
+  {
+   "name": "WORT, WORT, WORT!",
+   "desc": "Complete the Elite Qualifier Event",
+   "hidden": false,
+   "pct": 15.0,
+   "api_name": "ACHIEVEMENT_62",
+   "internal_key": 539
+  },
+  {
+   "name": "Hot Wheels Legend",
+   "desc": "Win the Hot Wheels Goliath event and become the Hot Wheels Legend",
+   "hidden": false,
+   "pct": 11.9,
+   "api_name": "ACHIEVEMENT_63",
+   "internal_key": 540
+  },
+  {
+   "name": "Missions!",
+   "desc": "Complete 5 Missions",
+   "hidden": false,
+   "pct": 46.3,
+   "api_name": "ACHIEVEMENT_64",
+   "internal_key": 541
+  },
+  {
+   "name": "More Missions!",
+   "desc": "Complete 25 Missions",
+   "hidden": false,
+   "pct": 25.4,
+   "api_name": "ACHIEVEMENT_65",
+   "internal_key": 542
+  },
+  {
+   "name": "Missions Complete!",
+   "desc": "Complete All Missions",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "ACHIEVEMENT_66",
+   "internal_key": 543
+  },
+  {
+   "name": "Over-Qualified",
+   "desc": "Earn 3 Stars from each of the Hot Wheels Qualifier events",
+   "hidden": false,
+   "pct": 12.1,
+   "api_name": "ACHIEVEMENT_67",
+   "internal_key": 24576
+  },
+  {
+   "name": "Altitude Quickness",
+   "desc": "Win all Race Events",
+   "hidden": false,
+   "pct": 13.0,
+   "api_name": "ACHIEVEMENT_68",
+   "internal_key": 24577
+  },
+  {
+   "name": "Soared and Board",
+   "desc": "Smash all Bonus Boards in Hot Wheels Park",
+   "hidden": false,
+   "pct": 6.6,
+   "api_name": "ACHIEVEMENT_69",
+   "internal_key": 24578
+  },
+  {
+   "name": "Gotta Pop 'Em All",
+   "desc": "Smash all of the Floating Tanks in Hot Wheels Park",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "ACHIEVEMENT_70",
+   "internal_key": 24579
+  },
+  {
+   "name": "Fresh Pressed Orange Routes",
+   "desc": "Discover every road in Hot Wheels Park",
+   "hidden": false,
+   "pct": 8.6,
+   "api_name": "ACHIEVEMENT_71",
+   "internal_key": 24580
+  },
+  {
+   "name": "Lessons in Hot Wheels History",
+   "desc": "Complete the first Chapter of the Hot Wheels Horizon Story",
+   "hidden": false,
+   "pct": 38.8,
+   "api_name": "ACHIEVEMENT_72",
+   "internal_key": 24581
+  },
+  {
+   "name": "Major in Hot Wheels History",
+   "desc": "Complete all Chapters in the Hot Wheels Horizon Story",
+   "hidden": false,
+   "pct": 17.6,
+   "api_name": "ACHIEVEMENT_73",
+   "internal_key": 24582
+  },
+  {
+   "name": "Professor of Hot Wheels History",
+   "desc": "Earn 3 Stars from every Chapter in the Hot Wheels Horizon Story",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "ACHIEVEMENT_74",
+   "internal_key": 24583
+  },
+  {
+   "name": "Beach Bomb",
+   "desc": "Earn 3 stars at the Canyon Jump Danger Sign in a 1963 Volkswagen Type 2 De Luxe",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "ACHIEVEMENT_76",
+   "internal_key": 24585
+  },
+  {
+   "name": "Aquanaut",
+   "desc": "Win any race that includes sections of Hot Wheels Water Flume Track",
+   "hidden": false,
+   "pct": 22.8,
+   "api_name": "ACHIEVEMENT_77",
+   "internal_key": 24586
+  },
+  {
+   "name": "Icy Roads Ahead",
+   "desc": "Win any race that includes sections of Hot Wheels Ice Track",
+   "hidden": false,
+   "pct": 39.0,
+   "api_name": "ACHIEVEMENT_78",
+   "internal_key": 24587
+  },
+  {
+   "name": "Shaken Not Third",
+   "desc": "Win any race that includes sections of Hot Wheels Rumble Track",
+   "hidden": false,
+   "pct": 33.9,
+   "api_name": "ACHIEVEMENT_79",
+   "internal_key": 24588
+  },
+  {
+   "name": "Attracted to Victory",
+   "desc": "Win any race that includes sections of Hot Wheels Magnet Track",
+   "hidden": false,
+   "pct": 32.9,
+   "api_name": "ACHIEVEMENT_80",
+   "internal_key": 24589
+  },
+  {
+   "name": "Supersonic",
+   "desc": "Finish a lap of the Hot Wheels Goliath event in under 6 minutes",
+   "hidden": false,
+   "pct": 12.0,
+   "api_name": "ACHIEVEMENT_81",
+   "internal_key": 24590
+  },
+  {
+   "name": "Points Mean Prizes",
+   "desc": "Complete any Seasonal Activity in Hot Wheels Park",
+   "hidden": false,
+   "pct": 21.1,
+   "api_name": "ACHIEVEMENT_82",
+   "internal_key": 24591
+  },
+  {
+   "name": "Hot Wheels, Hot Laps",
+   "desc": "Post a clean time for every Rivals route in Hot Wheels Park",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "ACHIEVEMENT_83",
+   "internal_key": 24592
+  },
+  {
+   "name": "High Roller",
+   "desc": "Spin 25 Wheelspins while in Hot Wheels Park",
+   "hidden": false,
+   "pct": 15.9,
+   "api_name": "ACHIEVEMENT_84",
+   "internal_key": 24593
+  },
+  {
+   "name": "Hot Wheels All Star",
+   "desc": "Earn 3 Stars from every PR Stunt in Hot Wheels Park",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "ACHIEVEMENT_85",
+   "internal_key": 24594
+  },
+  {
+   "name": "Welcome to Sierra Nueva",
+   "desc": "Arrive at the Horizon Badlands Outpost",
+   "hidden": false,
+   "pct": 46.6,
+   "api_name": "ACHIEVEMENT_102",
+   "internal_key": 27139
+  },
+  {
+   "name": "Rouen",
+   "desc": "Win your first Horizon Rally event",
+   "hidden": false,
+   "pct": 36.9,
+   "api_name": "ACHIEVEMENT_103",
+   "internal_key": 27140
+  },
+  {
+   "name": "Better Together",
+   "desc": "Win your first Horizon Race event",
+   "hidden": false,
+   "pct": 19.4,
+   "api_name": "ACHIEVEMENT_104",
+   "internal_key": 27141
+  },
+  {
+   "name": "It's Rally Time!",
+   "desc": "Join the Horizon Raptors Team",
+   "hidden": false,
+   "pct": 31.2,
+   "api_name": "ACHIEVEMENT_105",
+   "internal_key": 27142
+  },
+  {
+   "name": "Road Rally",
+   "desc": "Join the Apex Predators Team",
+   "hidden": false,
+   "pct": 27.0,
+   "api_name": "ACHIEVEMENT_106",
+   "internal_key": 27143
+  },
+  {
+   "name": "In The Still Of The Night",
+   "desc": "Join the Grit Reapers Team",
+   "hidden": false,
+   "pct": 21.6,
+   "api_name": "ACHIEVEMENT_107",
+   "internal_key": 27144
+  },
+  {
+   "name": "Pink Slip",
+   "desc": "Win your first Team Champion Race",
+   "hidden": false,
+   "pct": 17.3,
+   "api_name": "ACHIEVEMENT_108",
+   "internal_key": 27145
+  },
+  {
+   "name": "Picking Up The Tab",
+   "desc": "Win all three Team Champion Races",
+   "hidden": false,
+   "pct": 11.3,
+   "api_name": "ACHIEVEMENT_109",
+   "internal_key": 27146
+  },
+  {
+   "name": "Horizon Badlands Champion",
+   "desc": "Become the Horizon Badlands Rally Champion",
+   "hidden": false,
+   "pct": 11.2,
+   "api_name": "ACHIEVEMENT_110",
+   "internal_key": 27147
+  },
+  {
+   "name": "Keep Calm And Rally On",
+   "desc": "Win all Horizon Rally events",
+   "hidden": false,
+   "pct": 8.8,
+   "api_name": "ACHIEVEMENT_111",
+   "internal_key": 27148
+  },
+  {
+   "name": "Course Connoisseur",
+   "desc": "Win all Horizon Race events",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "ACHIEVEMENT_112",
+   "internal_key": 27149
+  },
+  {
+   "name": "Backwards, At Night, In The Rain",
+   "desc": "Complete all of Ramiro's Reputation Challenges",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "ACHIEVEMENT_113",
+   "internal_key": 27150
+  },
+  {
+   "name": "Follow My Lead",
+   "desc": "Complete all of Alejandra's Reputation Challenges",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "ACHIEVEMENT_114",
+   "internal_key": 27151
+  },
+  {
+   "name": "I Ain't Gonna Change",
+   "desc": "Complete all of Alex's Reputation Challenges",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "ACHIEVEMENT_115",
+   "internal_key": 27152
+  },
+  {
+   "name": "Completed It Mate",
+   "desc": "Complete all the Reputation Challenges",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "ACHIEVEMENT_116",
+   "internal_key": 27153
+  },
+  {
+   "name": "Smashlicious",
+   "desc": "Smash 15 Apex Predators Boards",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "ACHIEVEMENT_117",
+   "internal_key": 27154
+  },
+  {
+   "name": "Generating Alternate Smash Flows",
+   "desc": "Smash all 30 Apex Predators Boards",
+   "hidden": false,
+   "pct": 4.1,
+   "api_name": "ACHIEVEMENT_118",
+   "internal_key": 27155
+  },
+  {
+   "name": "Smashtastic",
+   "desc": "Smash 150 Piñata Trucks!",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "ACHIEVEMENT_119",
+   "internal_key": 27156
+  },
+  {
+   "name": "Put it on my Smash Drive",
+   "desc": "Smash 150 Grit Reapers Crates",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "ACHIEVEMENT_120",
+   "internal_key": 27157
+  },
+  {
+   "name": "Road Book",
+   "desc": "Discover every road in Sierra Nueva",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "ACHIEVEMENT_121",
+   "internal_key": 27158
+  },
+  {
+   "name": "Canyon Master",
+   "desc": "Earn 3 Stars from every freeroam PR Stunt in Sierra Nueva",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "ACHIEVEMENT_122",
+   "internal_key": 27159
+  },
+  {
+   "name": "That Time of Year",
+   "desc": "Complete any Seasonal Activity in Sierra Nueva",
+   "hidden": false,
+   "pct": 20.7,
+   "api_name": "ACHIEVEMENT_123",
+   "internal_key": 27160
+  },
+  {
+   "name": "Unlimited Rally",
+   "desc": "Cross your first Split-Gate in a Horizon Rally event",
+   "hidden": false,
+   "pct": 44.5,
+   "api_name": "ACHIEVEMENT_124",
+   "internal_key": 27161
+  },
+  {
+   "name": "Living up to the Rep",
+   "desc": "Make your way up to the 7th Tier of Horizon Raptors Reputation Challenges",
+   "hidden": false,
+   "pct": 19.9,
+   "api_name": "ACHIEVEMENT_125",
+   "internal_key": 27162
+  },
+  {
+   "name": "Just Reppin'",
+   "desc": "Make your way up to the 7th Tier of Apex Predators Reputation Challenges",
+   "hidden": false,
+   "pct": 16.3,
+   "api_name": "ACHIEVEMENT_126",
+   "internal_key": 27163
+  },
+  {
+   "name": "Cash and Rally",
+   "desc": "Make your way up to the 7th Tier of Grit Reapers Reputation Challenges",
+   "hidden": false,
+   "pct": 15.2,
+   "api_name": "ACHIEVEMENT_127",
+   "internal_key": 27164
+  },
+  {
+   "name": "Life Skills",
+   "desc": "Bank 1 Million Skill Points in Sierra Nueva",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "ACHIEVEMENT_128",
+   "internal_key": 27165
+  }
+ ]
+}

@@ -1,0 +1,457 @@
+{
+ "appid": 2161700,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 56,
+ "achievements": [
+  {
+   "name": "Awakened Power",
+   "desc": "Obtained Orpheus.(Persona 3 Reload main story mode only)",
+   "hidden": true,
+   "pct": 87.9,
+   "api_name": "ACH_ORPHEUS_GET",
+   "internal_key": 260
+  },
+  {
+   "name": "SEES the Day",
+   "desc": "Joined the Specialized Extracurricular Execution Squad.",
+   "hidden": true,
+   "pct": 84.9,
+   "api_name": "ACH_SEES_JOIN",
+   "internal_key": 261
+  },
+  {
+   "name": "Back on Track",
+   "desc": "Defeated the Priestess.",
+   "hidden": true,
+   "pct": 66.7,
+   "api_name": "ACH_DEFEAT_PRIESTESS",
+   "internal_key": 262
+  },
+  {
+   "name": "Empowered Protector",
+   "desc": "Defeated the Empress and Emperor.",
+   "hidden": true,
+   "pct": 58.2,
+   "api_name": "ACH_DEFEAT_EMP_EMP",
+   "internal_key": 263
+  },
+  {
+   "name": "Never Toy with Matters of the Heart",
+   "desc": "Defeated the Hierophant and the Lovers.",
+   "hidden": true,
+   "pct": 52.1,
+   "api_name": "ACH_DEFEAT_HIE_LOV",
+   "internal_key": 264
+  },
+  {
+   "name": "Armor Disarmed",
+   "desc": "Defeated the Chariot and Justice.",
+   "hidden": true,
+   "pct": 48.3,
+   "api_name": "ACH_DEFEAT_CHA_JUS",
+   "internal_key": 265
+  },
+  {
+   "name": "Dodging Lightning",
+   "desc": "Defeated the Hermit.",
+   "hidden": true,
+   "pct": 44.3,
+   "api_name": "ACH_DEFEAT_HERMIT",
+   "internal_key": 266
+  },
+  {
+   "name": "Twist of Fate",
+   "desc": "Defeated Fortune and Strength.",
+   "hidden": true,
+   "pct": 41.2,
+   "api_name": "ACH_DEFEAT_FOR_STR",
+   "internal_key": 267
+  },
+  {
+   "name": "A Sense of Finality",
+   "desc": "Defeated the Hanged Man.",
+   "hidden": true,
+   "pct": 38.6,
+   "api_name": "ACH_DEFEAT_HANGEDMAN",
+   "internal_key": 268
+  },
+  {
+   "name": "The Great Seal",
+   "desc": "Sealed Nyx.",
+   "hidden": true,
+   "pct": 31.8,
+   "api_name": "ACH_DEFEAT_NUXE",
+   "internal_key": 269
+  },
+  {
+   "name": "From Shadows into Light",
+   "desc": "Watched the good ending.",
+   "hidden": true,
+   "pct": 31.2,
+   "api_name": "ACH_TRUE_END",
+   "internal_key": 270
+  },
+  {
+   "name": "The Fool's Journey",
+   "desc": "Obtained 10 Major Arcana during Shuffle Time.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 56.6,
+   "api_name": "ACH_SFL_M_ARCANA_GET_10",
+   "internal_key": 271
+  },
+  {
+   "name": "Distinguished Visitor",
+   "desc": "Invited Elizabeth to your room.",
+   "hidden": false,
+   "pct": 26.6,
+   "api_name": "ACH_INV_ELIZABETH",
+   "internal_key": 272
+  },
+  {
+   "name": "Top of the Class",
+   "desc": "Aced an exam.",
+   "hidden": false,
+   "pct": 48.9,
+   "api_name": "ACH_GET_EXAM_TOP",
+   "internal_key": 273
+  },
+  {
+   "name": "A Legacy of Friendships",
+   "desc": "Maxed out all Social Links.",
+   "hidden": false,
+   "pct": 9.5,
+   "api_name": "ACH_ALL_COMMU_MAX",
+   "internal_key": 274
+  },
+  {
+   "name": "People Person",
+   "desc": "Unlocked all Social Links.",
+   "hidden": false,
+   "pct": 26.4,
+   "api_name": "ACH_ALL_COMMU_OPEN",
+   "internal_key": 275
+  },
+  {
+   "name": "That Special Someone",
+   "desc": "Nurtured a romance.",
+   "hidden": false,
+   "pct": 40.4,
+   "api_name": "ACH_MAKE_LOVERS",
+   "internal_key": 276
+  },
+  {
+   "name": "Unbreakable Link",
+   "desc": "Maxed out one Social Link.",
+   "hidden": false,
+   "pct": 49.4,
+   "api_name": "ACH_ONE_COMMU_MAX",
+   "internal_key": 277
+  },
+  {
+   "name": "A Newfound Strength",
+   "desc": "Awakened all teammates' ultimate Personas.",
+   "hidden": true,
+   "pct": 34.9,
+   "api_name": "ACH_ALL_PERSONA_EVO",
+   "internal_key": 278
+  },
+  {
+   "name": "The Power of Choice",
+   "desc": "Obtained 10 Personas during Shuffle Time.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 62.5,
+   "api_name": "ACH_SFL_PERSONA_GET_10",
+   "internal_key": 279
+  },
+  {
+   "name": "There's No \"I\" in \"Team\"",
+   "desc": "Performed a Shift.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 75.5,
+   "api_name": "ACH_SHIFT",
+   "internal_key": 280
+  },
+  {
+   "name": "The Strength of Our Hearts",
+   "desc": "Used all teammates' Theurgy.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 27.1,
+   "api_name": "ACH_ALL_THEURGIA_USE",
+   "internal_key": 281
+  },
+  {
+   "name": "Extracurricular Excellence",
+   "desc": "Rescued a missing person.",
+   "hidden": false,
+   "pct": 54.1,
+   "api_name": "ACH_FIND_MISSING_PERSON",
+   "internal_key": 282
+  },
+  {
+   "name": "Get a Load of Those Numbers!",
+   "desc": "Dealt over 999 damage in a single attack (All-Out Attacks excluded).(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 47.5,
+   "api_name": "ACH_DAMAGE_999",
+   "internal_key": 283
+  },
+  {
+   "name": "Shrouded Assassin",
+   "desc": "Initiated 50 Chance Encounters.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 58.8,
+   "api_name": "ACH_CHANCE_ENC_50",
+   "internal_key": 284
+  },
+  {
+   "name": "The Thrill of the Hunt",
+   "desc": "Defeated a rare, golden enemy.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 73.1,
+   "api_name": "ACH_DEFEAT_RARE_SHADOW",
+   "internal_key": 285
+  },
+  {
+   "name": "Making the Dream Work",
+   "desc": "Performed 50 All-Out Attacks.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 60.8,
+   "api_name": "ACH_BOKOSUKA_50",
+   "internal_key": 286
+  },
+  {
+   "name": "Glimpse of the Depths",
+   "desc": "Discovered and conquered 10 Monad doors.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 40.3,
+   "api_name": "ACH_FORB_DOOR_OPEN_10",
+   "internal_key": 287
+  },
+  {
+   "name": "Briefcase Burglar",
+   "desc": "Opened 50 treasure chests.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 65.0,
+   "api_name": "ACH_TREASURE_BOX_50",
+   "internal_key": 512
+  },
+  {
+   "name": "Shattered Plumes",
+   "desc": "Used a total of 50 Twilight Fragments.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 52.6,
+   "api_name": "ACH_USE_RAREMEDAL_50",
+   "internal_key": 513
+  },
+  {
+   "name": "The Horror of the Shade",
+   "desc": "Encountered a Dark Zone in Tartarus.",
+   "hidden": false,
+   "pct": 40.3,
+   "api_name": "ACH_ENC_HAPPENING",
+   "internal_key": 514
+  },
+  {
+   "name": "Reaper Reaped",
+   "desc": "Defeated the Reaper.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 26.5,
+   "api_name": "ACH_ENC_DEATH",
+   "internal_key": 515
+  },
+  {
+   "name": "The First of Many",
+   "desc": "Performed a Dyad Fusion.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 72.8,
+   "api_name": "ACH_EXE_2_SPREAD",
+   "internal_key": 516
+  },
+  {
+   "name": "Fusion Artisan",
+   "desc": "Performed a fusion with three or more Personas.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 52.5,
+   "api_name": "ACH_EXE_3_SPREAD",
+   "internal_key": 517
+  },
+  {
+   "name": "Birthday Present",
+   "desc": "Obtained an item from a Persona Conception.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 58.1,
+   "api_name": "ACH_GET_CONCEPTION_ITEM",
+   "internal_key": 518
+  },
+  {
+   "name": "Path to Salvation",
+   "desc": "Fused Messiah.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 17.7,
+   "api_name": "ACH_MAKE_MESSIAH",
+   "internal_key": 519
+  },
+  {
+   "name": "Tempting Fate",
+   "desc": "Triggered a skill change during fusion.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 56.3,
+   "api_name": "ACH_SKILL_CHANGE",
+   "internal_key": 520
+  },
+  {
+   "name": "Eat Your Veggies, Peas!",
+   "desc": "Harvested a crop that you grew with a teammate.",
+   "hidden": false,
+   "pct": 50.3,
+   "api_name": "ACH_HARVEST",
+   "internal_key": 521
+  },
+  {
+   "name": "The Grindset Mindset",
+   "desc": "Earned over 50,000 yen total from part-time jobs.",
+   "hidden": false,
+   "pct": 29.6,
+   "api_name": "ACH_GET_ARBEIT_50000",
+   "internal_key": 522
+  },
+  {
+   "name": "Specialist",
+   "desc": "Maxed out one Social Stat.",
+   "hidden": false,
+   "pct": 47.1,
+   "api_name": "ACH_H_PARAM_ONE_MAX",
+   "internal_key": 523
+  },
+  {
+   "name": "Peak Performance",
+   "desc": "Maxed out all Social Stats.",
+   "hidden": false,
+   "pct": 39.7,
+   "api_name": "ACH_H_PARAM_ALL_MAX",
+   "internal_key": 524
+  },
+  {
+   "name": "Dorm Life",
+   "desc": "Spent an evening in the dorm with a teammate.",
+   "hidden": false,
+   "pct": 55.7,
+   "api_name": "ACH_PAST_NIGHT_TIME",
+   "internal_key": 525
+  },
+  {
+   "name": "Gourmand",
+   "desc": "Ordered from a secret menu at the Iwatodai strip mall at night.",
+   "hidden": false,
+   "pct": 50.0,
+   "api_name": "ACH_HIDDEN_MENU_EMP",
+   "internal_key": 526
+  },
+  {
+   "name": "Benevolent Purr-tector",
+   "desc": "Nursed a cat back to full health.",
+   "hidden": false,
+   "pct": 45.2,
+   "api_name": "ACH_CURE_CAT",
+   "internal_key": 527
+  },
+  {
+   "name": "In High Demand",
+   "desc": "Accepted an invitation to hang out five times.",
+   "hidden": false,
+   "pct": 50.5,
+   "api_name": "ACH_MAIL_INVITATION_5",
+   "internal_key": 528
+  },
+  {
+   "name": "Beyond the Darkness",
+   "desc": "Unlocked access to the remaining Major Arcana.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 46.7,
+   "api_name": "ACH_CHALLENGE_MONADO",
+   "internal_key": 529
+  },
+  {
+   "name": "Through Thick and Thin",
+   "desc": "Unlocked a teammate's Combat Characteristic.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 49.5,
+   "api_name": "ACH_PROPERTY_GET_ONE",
+   "internal_key": 530
+  },
+  {
+   "name": "Eagle Eye",
+   "desc": "Acquired every Twilight Fragment in town.(Persona 3 Reload main story mode only)",
+   "hidden": false,
+   "pct": 15.1,
+   "api_name": "ACH_GET_RAREMEDAL_ALL",
+   "internal_key": 531
+  },
+  {
+   "name": "Realized Power",
+   "desc": "Awakened to the power of the wild card.",
+   "hidden": false,
+   "pct": 12.4,
+   "api_name": "ACH_PRGS_WILD",
+   "internal_key": 532
+  },
+  {
+   "name": "The Vengeful One",
+   "desc": "Witnessed Amada's past.",
+   "hidden": true,
+   "pct": 9.2,
+   "api_name": "ACH_PRGS_COCYTUS",
+   "internal_key": 533
+  },
+  {
+   "name": "The Determined One",
+   "desc": "Witnessed Sanada's past.",
+   "hidden": true,
+   "pct": 8.4,
+   "api_name": "ACH_PRGS_CAINA",
+   "internal_key": 534
+  },
+  {
+   "name": "The Disillusioned One",
+   "desc": "Witnessed Junpei's past.",
+   "hidden": true,
+   "pct": 7.9,
+   "api_name": "ACH_PRGS_ANTENORA",
+   "internal_key": 535
+  },
+  {
+   "name": "The Selfless One",
+   "desc": "Witnessed Mitsuru's past.",
+   "hidden": true,
+   "pct": 7.7,
+   "api_name": "ACH_PRGS_PTOLOMEA",
+   "internal_key": 536
+  },
+  {
+   "name": "The Steadfast One",
+   "desc": "Witnessed Yukari's past.",
+   "hidden": true,
+   "pct": 7.5,
+   "api_name": "ACH_PRGS_JUDECCA",
+   "internal_key": 537
+  },
+  {
+   "name": "The One Who Dreamt",
+   "desc": "Witnessed Aigis's past.",
+   "hidden": true,
+   "pct": 7.4,
+   "api_name": "ACH_PRGS_EMPIREO",
+   "internal_key": 538
+  },
+  {
+   "name": "Together, Into Tomorrow",
+   "desc": "Watched the ending.",
+   "hidden": true,
+   "pct": 7.2,
+   "api_name": "ACH_PRGS_ENDING",
+   "internal_key": 539
+  }
+ ]
+}

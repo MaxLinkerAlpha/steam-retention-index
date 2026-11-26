@@ -1,0 +1,81 @@
+{
+ "appid": 501300,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 9,
+ "achievements": [
+  {
+   "name": "The End of Everything",
+   "desc": "Finish all stories",
+   "hidden": false,
+   "pct": 56.7,
+   "api_name": "AllStories",
+   "internal_key": 256
+  },
+  {
+   "name": "A Closer Look",
+   "desc": "Look in all peepholes and telescopes long enough to hear Edith's commentary",
+   "hidden": false,
+   "pct": 21.5,
+   "api_name": "AllPeepholes",
+   "internal_key": 257
+  },
+  {
+   "name": "All Roads",
+   "desc": "Take both paths to the house",
+   "hidden": false,
+   "pct": 25.3,
+   "api_name": "TakeBothPathsToTheHouse",
+   "internal_key": 258
+  },
+  {
+   "name": "Great Owl",
+   "desc": "Catch 2 rabbits with only 2 swoops",
+   "hidden": false,
+   "pct": 26.3,
+   "api_name": "EfficientOwl",
+   "internal_key": 259
+  },
+  {
+   "name": "Let Him Finish",
+   "desc": "Let the drunken sailor finish his song",
+   "hidden": false,
+   "pct": 12.6,
+   "api_name": "LetDrunkenSailorFinishSinging",
+   "internal_key": 260
+  },
+  {
+   "name": "Clear the Table",
+   "desc": "Clear all balls off the pool table",
+   "hidden": false,
+   "pct": 13.6,
+   "api_name": "KnockAllPoolBallsOffTheTable",
+   "internal_key": 261
+  },
+  {
+   "name": "G-R-E-G-O-R-Y",
+   "desc": "Knock all the letters of Gregory's name into the bathtub",
+   "hidden": false,
+   "pct": 24.4,
+   "api_name": "KnockAllGregoryLettersIntoBathtub",
+   "internal_key": 262
+  },
+  {
+   "name": "Thanks, Johann!",
+   "desc": "See Johann's name in the ending credits",
+   "hidden": false,
+   "pct": 58.5,
+   "api_name": "Johann",
+   "internal_key": 263
+  },
+  {
+   "name": "Loop-de-loop-de-loop",
+   "desc": "Play Calvin's story again",
+   "hidden": false,
+   "pct": 14.1,
+   "api_name": "ReplaySwingset",
+   "internal_key": 264
+  }
+ ]
+}

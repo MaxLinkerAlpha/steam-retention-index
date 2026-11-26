@@ -1,0 +1,561 @@
+{
+ "appid": 2515020,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 69,
+ "achievements": [
+  {
+   "name": "The Chronicler",
+   "desc": "And thus did our journey end...",
+   "hidden": true,
+   "pct": 2.2,
+   "api_name": "1000",
+   "internal_key": 769
+  },
+  {
+   "name": "Awoken",
+   "desc": "Rise from your reverie.",
+   "hidden": true,
+   "pct": 86.5,
+   "api_name": "1001",
+   "internal_key": 770
+  },
+  {
+   "name": "With Great Power",
+   "desc": "Inherit a power unknown.",
+   "hidden": true,
+   "pct": 73.9,
+   "api_name": "1002",
+   "internal_key": 771
+  },
+  {
+   "name": "Acceptance",
+   "desc": "Accept your fate.",
+   "hidden": true,
+   "pct": 64.0,
+   "api_name": "1003",
+   "internal_key": 772
+  },
+  {
+   "name": "Lawless",
+   "desc": "Defy your fate.",
+   "hidden": true,
+   "pct": 57.9,
+   "api_name": "1004",
+   "internal_key": 773
+  },
+  {
+   "name": "Legacy",
+   "desc": "Turn the corner.",
+   "hidden": true,
+   "pct": 51.0,
+   "api_name": "1005",
+   "internal_key": 774
+  },
+  {
+   "name": "Twilight Rose",
+   "desc": "Revisit the past.",
+   "hidden": true,
+   "pct": 49.3,
+   "api_name": "1006",
+   "internal_key": 775
+  },
+  {
+   "name": "From Stone to Sand",
+   "desc": "Exact revenge.",
+   "hidden": true,
+   "pct": 45.8,
+   "api_name": "1007",
+   "internal_key": 776
+  },
+  {
+   "name": "Twin Flames",
+   "desc": "Unite the flames.",
+   "hidden": true,
+   "pct": 41.6,
+   "api_name": "1008",
+   "internal_key": 777
+  },
+  {
+   "name": "The Promise",
+   "desc": "Become one.",
+   "hidden": true,
+   "pct": 37.6,
+   "api_name": "1009",
+   "internal_key": 778
+  },
+  {
+   "name": "A Vessel Complete",
+   "desc": "Collect the final piece.",
+   "hidden": true,
+   "pct": 35.7,
+   "api_name": "1010",
+   "internal_key": 779
+  },
+  {
+   "name": "Ashes to Ashes",
+   "desc": "Escape the Darkness.",
+   "hidden": true,
+   "pct": 34.6,
+   "api_name": "1011",
+   "internal_key": 780
+  },
+  {
+   "name": "Falling Star",
+   "desc": "Fulfill a legacy.",
+   "hidden": true,
+   "pct": 31.5,
+   "api_name": "1012",
+   "internal_key": 781
+  },
+  {
+   "name": "Punisher",
+   "desc": "Punish 10 enemies (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 78.2,
+   "api_name": "1015",
+   "internal_key": 782
+  },
+  {
+   "name": "You're Not the Boss of Me",
+   "desc": "Defeat a boss without taking damage.",
+   "hidden": true,
+   "pct": 18.5,
+   "api_name": "1016",
+   "internal_key": 783
+  },
+  {
+   "name": "Made to Be Broken",
+   "desc": "Defeat 20 enemies while semi-primed (excluding battles in the Hall of Virtue).",
+   "hidden": true,
+   "pct": 35.5,
+   "api_name": "1017",
+   "internal_key": 784
+  },
+  {
+   "name": "It's Over 50,000",
+   "desc": "Deal an enemy 50,000 damage while it is staggered (excluding battles in the Hall of Virtue and while fully primed as Ifrit).",
+   "hidden": false,
+   "pct": 39.1,
+   "api_name": "1018",
+   "internal_key": 785
+  },
+  {
+   "name": "Sheeeeeeeeeeeeeeeift",
+   "desc": "Land 15 Shift Strikes or Shift Shots combined (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 87.0,
+   "api_name": "1019",
+   "internal_key": 786
+  },
+  {
+   "name": "Packing Heat",
+   "desc": "Execute and land 2 Heatwave Counters in a single battle (excluding those in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 13.9,
+   "api_name": "1020",
+   "internal_key": 787
+  },
+  {
+   "name": "Fatal Attraction",
+   "desc": "Defeat 5 enemies in the air after using Deadly Embrace (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 19.3,
+   "api_name": "1021",
+   "internal_key": 788
+  },
+  {
+   "name": "Never Coming Down",
+   "desc": "Land Gouge, Wicked Wheel, and Rook's Gambit in midair before landing (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 5.0,
+   "api_name": "1022",
+   "internal_key": 789
+  },
+  {
+   "name": "I Am the Thunder",
+   "desc": "Discharge 50 Blind Justice lightning balls (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 50.6,
+   "api_name": "1023",
+   "internal_key": 790
+  },
+  {
+   "name": "Rod to Redemption",
+   "desc": "Lure an enemy into striking a Lightning Rod 3 times before it dissipates (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 19.0,
+   "api_name": "1024",
+   "internal_key": 791
+  },
+  {
+   "name": "Untouchable",
+   "desc": "Use Titanic Block to fend off 10 enemy attacks (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 30.7,
+   "api_name": "1025",
+   "internal_key": 792
+  },
+  {
+   "name": "Beat Rocking Blocks",
+   "desc": "Land the third punch of a Titanic Counter twice in a single battle (excluding those in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 22.5,
+   "api_name": "1026",
+   "internal_key": 793
+  },
+  {
+   "name": "100 Mfps",
+   "desc": "Land 100 total hits with Lv. 2 or higher Megaflare (excluding battles in the Hall of Virtue).",
+   "hidden": true,
+   "pct": 28.7,
+   "api_name": "1027",
+   "internal_key": 794
+  },
+  {
+   "name": "Such Dodge, So Mega",
+   "desc": "Execute a Precision Dodge 3 times while charging a single Megaflare (excluding battles in the Hall of Virtue).",
+   "hidden": true,
+   "pct": 19.5,
+   "api_name": "1028",
+   "internal_key": 795
+  },
+  {
+   "name": "Oh, Snap!",
+   "desc": "Inflict Permafrost on 10 enemies by perfectly dodging attacks with Cold Snap (excluding battles in the Hall of Virtue).",
+   "hidden": true,
+   "pct": 14.6,
+   "api_name": "1029",
+   "internal_key": 796
+  },
+  {
+   "name": "Cold-blooded",
+   "desc": "Simultaneously defeat three or more enemies frozen using Frostbite, Permafrost, or Diamond Dust (excluding battles in the Hall of Virtue).",
+   "hidden": true,
+   "pct": 16.3,
+   "api_name": "1030",
+   "internal_key": 797
+  },
+  {
+   "name": "Every Damn Sinew",
+   "desc": "Land a Lv. 2 or higher Zantetsuken five times (excluding battles in the Hall of Virtue).",
+   "hidden": true,
+   "pct": 30.2,
+   "api_name": "1031",
+   "internal_key": 798
+  },
+  {
+   "name": "Fistful of Steel",
+   "desc": "Execute 3 Steel Counters in a single battle (excluding those in the Hall of Virtue).",
+   "hidden": true,
+   "pct": 7.4,
+   "api_name": "1032",
+   "internal_key": 799
+  },
+  {
+   "name": "Yes, Eikon",
+   "desc": "Master all of a single Eikon's abilities and feats.",
+   "hidden": true,
+   "pct": 20.1,
+   "api_name": "1033",
+   "internal_key": 17664
+  },
+  {
+   "name": "Masterclass",
+   "desc": "Upgrade all feats and abilities to their maximum.",
+   "hidden": true,
+   "pct": 6.5,
+   "api_name": "1034",
+   "internal_key": 17665
+  },
+  {
+   "name": "With Two Ds",
+   "desc": "Upgrade consumable potency and inventory slots to their maximum.",
+   "hidden": false,
+   "pct": 28.5,
+   "api_name": "1038",
+   "internal_key": 17666
+  },
+  {
+   "name": "And They Opened Up My Mind",
+   "desc": "Collect six signboards.",
+   "hidden": true,
+   "pct": 23.7,
+   "api_name": "1039",
+   "internal_key": 17667
+  },
+  {
+   "name": "Think, Mark!",
+   "desc": "Defeat 10 notorious marks.",
+   "hidden": true,
+   "pct": 32.8,
+   "api_name": "1040",
+   "internal_key": 17668
+  },
+  {
+   "name": "Hunter, Hunted",
+   "desc": "Clear the Hunt Board.",
+   "hidden": true,
+   "pct": 19.1,
+   "api_name": "1041",
+   "internal_key": 17669
+  },
+  {
+   "name": "Trial Run",
+   "desc": "Complete a chronolith trial.",
+   "hidden": true,
+   "pct": 14.0,
+   "api_name": "1042",
+   "internal_key": 17670
+  },
+  {
+   "name": "For the Hoard",
+   "desc": "Obtain all curiosities.",
+   "hidden": true,
+   "pct": 6.7,
+   "api_name": "1043",
+   "internal_key": 17671
+  },
+  {
+   "name": "Dressed to the Fives",
+   "desc": "Craft or upgrade 5 pieces of gear.",
+   "hidden": false,
+   "pct": 67.5,
+   "api_name": "1013",
+   "internal_key": 17672
+  },
+  {
+   "name": "Half Past Twilight",
+   "desc": "Craft the legendary sword Gotterdammerung.",
+   "hidden": true,
+   "pct": 22.2,
+   "api_name": "1014",
+   "internal_key": 17673
+  },
+  {
+   "name": "The Pen Is Mightier",
+   "desc": "Open 10 letters at the reading table.",
+   "hidden": true,
+   "pct": 36.3,
+   "api_name": "1036",
+   "internal_key": 17674
+  },
+  {
+   "name": "The More You Know",
+   "desc": "Help Harpocrates attain a knowledge level of 5.",
+   "hidden": true,
+   "pct": 27.3,
+   "api_name": "1037",
+   "internal_key": 17675
+  },
+  {
+   "name": "Careful Whisper",
+   "desc": "Obtain all available items from your patrons.",
+   "hidden": false,
+   "pct": 20.3,
+   "api_name": "1044",
+   "internal_key": 17676
+  },
+  {
+   "name": "You Can Pet the Dog",
+   "desc": "Pet Torgal 5 times.",
+   "hidden": false,
+   "pct": 47.8,
+   "api_name": "1045",
+   "internal_key": 17677
+  },
+  {
+   "name": "A Fine Hound",
+   "desc": "Execute and land 5 Precision Sics (excluding battles in the Hall of Virtue).",
+   "hidden": true,
+   "pct": 65.5,
+   "api_name": "1046",
+   "internal_key": 17678
+  },
+  {
+   "name": "When You Ride Alone",
+   "desc": "Ride Ambrosia for the first time.",
+   "hidden": true,
+   "pct": 48.3,
+   "api_name": "1047",
+   "internal_key": 17679
+  },
+  {
+   "name": "Here Be Rosfields",
+   "desc": "Visit all areas on the world and local maps.",
+   "hidden": false,
+   "pct": 19.1,
+   "api_name": "1035",
+   "internal_key": 17680
+  },
+  {
+   "name": "Eureka",
+   "desc": "Spend 36,000 gil at the Tub & Crown.",
+   "hidden": true,
+   "pct": 6.2,
+   "api_name": "1048",
+   "internal_key": 17681
+  },
+  {
+   "name": "Fantasy, Finally",
+   "desc": "Complete the game on \"Final Fantasy\" mode.",
+   "hidden": true,
+   "pct": 2.9,
+   "api_name": "1049",
+   "internal_key": 17682
+  },
+  {
+   "name": "Repercussion",
+   "desc": "Silence the echoes.",
+   "hidden": true,
+   "pct": 18.2,
+   "api_name": "2002",
+   "internal_key": 17683
+  },
+  {
+   "name": "A Crystal Darkly",
+   "desc": "Brave the dusk.",
+   "hidden": true,
+   "pct": 19.7,
+   "api_name": "2000",
+   "internal_key": 17684
+  },
+  {
+   "name": "The Only Way Is Up",
+   "desc": "Enter the spire.",
+   "hidden": true,
+   "pct": 18.6,
+   "api_name": "2001",
+   "internal_key": 17685
+  },
+  {
+   "name": "OMG",
+   "desc": "Defeat Omega on \"Final Fantasy\" mode.",
+   "hidden": true,
+   "pct": 2.9,
+   "api_name": "2003",
+   "internal_key": 17686
+  },
+  {
+   "name": "Bit Fit",
+   "desc": "Obtain all Fallen bits.",
+   "hidden": true,
+   "pct": 15.9,
+   "api_name": "2004",
+   "internal_key": 17687
+  },
+  {
+   "name": "My Reward Is with Me",
+   "desc": "Obtain the Omega Weapon.",
+   "hidden": true,
+   "pct": 17.8,
+   "api_name": "2005",
+   "internal_key": 17688
+  },
+  {
+   "name": "The Calm",
+   "desc": "Find again what was lost.",
+   "hidden": true,
+   "pct": 19.5,
+   "api_name": "3000",
+   "internal_key": 17689
+  },
+  {
+   "name": "Homecoming",
+   "desc": "Enter Mysidia.",
+   "hidden": true,
+   "pct": 19.0,
+   "api_name": "3001",
+   "internal_key": 17690
+  },
+  {
+   "name": "Flow",
+   "desc": "Awaken the storm.",
+   "hidden": true,
+   "pct": 18.7,
+   "api_name": "3002",
+   "internal_key": 17691
+  },
+  {
+   "name": "Flood",
+   "desc": "Restore the flow of time.",
+   "hidden": true,
+   "pct": 18.0,
+   "api_name": "3003",
+   "internal_key": 17692
+  },
+  {
+   "name": "Explain That",
+   "desc": "Tamed the tides.",
+   "hidden": true,
+   "pct": 17.5,
+   "api_name": "3004",
+   "internal_key": 17693
+  },
+  {
+   "name": "Thou Brakest the Head",
+   "desc": "Defeat Leviathan in \"Final Fantasy\" mode.",
+   "hidden": true,
+   "pct": 2.9,
+   "api_name": "3005",
+   "internal_key": 17694
+  },
+  {
+   "name": "Tideslinger",
+   "desc": "Land 300 Tidal attacks combined (excluding battles in the Hall of Virtue).",
+   "hidden": true,
+   "pct": 15.0,
+   "api_name": "3006",
+   "internal_key": 17695
+  },
+  {
+   "name": "Supersoaker",
+   "desc": "Strike three or more enemies with Tidal attacks while using unlimited ammunition following a Quick Refill.",
+   "hidden": true,
+   "pct": 8.0,
+   "api_name": "3007",
+   "internal_key": 18176
+  },
+  {
+   "name": "Deus Ex",
+   "desc": "Channel the heavens.",
+   "hidden": true,
+   "pct": 11.7,
+   "api_name": "3008",
+   "internal_key": 18177
+  },
+  {
+   "name": "A Most Worthy Vessel",
+   "desc": "Acquire and master all Leviathan and Ultima abilities.",
+   "hidden": true,
+   "pct": 4.9,
+   "api_name": "3009",
+   "internal_key": 18178
+  },
+  {
+   "name": "The End Can Wait",
+   "desc": "Complete 10 Mysidian quests.",
+   "hidden": true,
+   "pct": 14.4,
+   "api_name": "3010",
+   "internal_key": 18179
+  },
+  {
+   "name": "Still Breathing",
+   "desc": "Complete the Trial by Water.",
+   "hidden": true,
+   "pct": 5.9,
+   "api_name": "3011",
+   "internal_key": 18180
+  },
+  {
+   "name": "Occasio Calva",
+   "desc": "Complete Kairos Gate.",
+   "hidden": true,
+   "pct": 4.6,
+   "api_name": "3012",
+   "internal_key": 18181
+  }
+ ]
+}

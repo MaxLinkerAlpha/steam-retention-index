@@ -1,0 +1,267 @@
+{
+ "appid": 1057090,
+ "game": "Ori and the Will of the Wisps",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 37,
+ "achievements": [
+  {
+   "api": "1",
+   "name": "Close Call",
+   "desc": "",
+   "hidden": true,
+   "pct": 79.6
+  },
+  {
+   "api": "37",
+   "name": "Did I Do That?",
+   "desc": "Defeat 10 Enemies using Environmental Hazards",
+   "hidden": false,
+   "pct": 60.5
+  },
+  {
+   "api": "3",
+   "name": "Take the Bug by the Horn",
+   "desc": "",
+   "hidden": true,
+   "pct": 57.8
+  },
+  {
+   "api": "7",
+   "name": "Home Sweet Home",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.5
+  },
+  {
+   "api": "8",
+   "name": "Let the Waters Flow",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.1
+  },
+  {
+   "api": "32",
+   "name": "Juggling Act",
+   "desc": "Juggle 3 or More Projectiles in the Air for Over 5 Seconds",
+   "hidden": false,
+   "pct": 49.3
+  },
+  {
+   "api": "11",
+   "name": "Guardian's Rest",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.6
+  },
+  {
+   "api": "10",
+   "name": "Dark Triumph",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.5
+  },
+  {
+   "api": "31",
+   "name": "Timely Demise",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.5
+  },
+  {
+   "api": "9",
+   "name": "Icy Escape",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.6
+  },
+  {
+   "api": "33",
+   "name": "Bring it On",
+   "desc": "Defeat 5 Enemies Without Touching the Ground",
+   "hidden": false,
+   "pct": 37.3
+  },
+  {
+   "api": "12",
+   "name": "Quick Sand",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.0
+  },
+  {
+   "api": "4",
+   "name": "Laser Brain",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.1
+  },
+  {
+   "api": "14",
+   "name": "Destiny",
+   "desc": "Complete the Game",
+   "hidden": false,
+   "pct": 35.5
+  },
+  {
+   "api": "13",
+   "name": "Stone Cold",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.4
+  },
+  {
+   "api": "24",
+   "name": "Shrine Bright",
+   "desc": "Complete all Spirit Shrines",
+   "hidden": false,
+   "pct": 30.8
+  },
+  {
+   "api": "18",
+   "name": "Fully Slotted",
+   "desc": "Upgrade all Shard Slots",
+   "hidden": false,
+   "pct": 30.6
+  },
+  {
+   "api": "16",
+   "name": "Tools of the Trade",
+   "desc": "Unlock all Abilities",
+   "hidden": false,
+   "pct": 25.4
+  },
+  {
+   "api": "26",
+   "name": "Mark of the Trader",
+   "desc": "Complete the Trade Sequence Quest",
+   "hidden": false,
+   "pct": 20.6
+  },
+  {
+   "api": "17",
+   "name": "Mad Skills",
+   "desc": "Upgrade all Abilities",
+   "hidden": false,
+   "pct": 20.5
+  },
+  {
+   "api": "23",
+   "name": "Cartographer's Protégé",
+   "desc": "Buy all Maps from Lupo",
+   "hidden": false,
+   "pct": 20.0
+  },
+  {
+   "api": "28",
+   "name": "Fixer Upper",
+   "desc": "Complete all Wellspring Glades Projects",
+   "hidden": false,
+   "pct": 18.1
+  },
+  {
+   "api": "21",
+   "name": "Healthy",
+   "desc": "Max out Life",
+   "hidden": false,
+   "pct": 17.9
+  },
+  {
+   "api": "27",
+   "name": "Completionist",
+   "desc": "Complete every Side Quest",
+   "hidden": false,
+   "pct": 17.3
+  },
+  {
+   "api": "22",
+   "name": "Powerful",
+   "desc": "Max out Energy",
+   "hidden": false,
+   "pct": 16.9
+  },
+  {
+   "api": "19",
+   "name": "Shard Hunter",
+   "desc": "Unlock all Shards",
+   "hidden": false,
+   "pct": 16.4
+  },
+  {
+   "api": "35",
+   "name": "Damage Spike",
+   "desc": "Defeat 3 Enemies with a Single Spike",
+   "hidden": false,
+   "pct": 12.6
+  },
+  {
+   "api": "20",
+   "name": "Shard Specialist",
+   "desc": "Upgrade all Shards",
+   "hidden": false,
+   "pct": 10.9
+  },
+  {
+   "api": "29",
+   "name": "Speed Demon",
+   "desc": "Complete all Spirit Trials",
+   "hidden": false,
+   "pct": 10.9
+  },
+  {
+   "api": "25",
+   "name": "Lost and Found",
+   "desc": "Find all Collectibles",
+   "hidden": false,
+   "pct": 9.7
+  },
+  {
+   "api": "15",
+   "name": "Hardcore Fan",
+   "desc": "Complete Hard Mode",
+   "hidden": false,
+   "pct": 4.9
+  },
+  {
+   "api": "34",
+   "name": "High and Dry",
+   "desc": "Avoid Touching any Corrupted Water",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "30",
+   "name": "Untouchable",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.3
+  },
+  {
+   "api": "38",
+   "name": "Shardless",
+   "desc": "Beat the Game Without Equipping a Shard",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "39",
+   "name": "Lightless",
+   "desc": "Beat the Game Without Spending any Spirit Light",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "40",
+   "name": "Look at the Time",
+   "desc": "Complete the Game in Under 4 Hours",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "41",
+   "name": "Immortal",
+   "desc": "Complete the Game without Dying",
+   "hidden": false,
+   "pct": 1.4
+  }
+ ]
+}

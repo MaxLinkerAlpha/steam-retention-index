@@ -1,0 +1,337 @@
+{
+ "appid": 1693980,
+ "game": "Dead Space",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 47,
+ "achievements": [
+  {
+   "api": "ach31",
+   "name": "Marksman",
+   "desc": "Dismember 50 Limbs.",
+   "hidden": false,
+   "pct": 74.5
+  },
+  {
+   "api": "ach01",
+   "name": "Welcome Aboard",
+   "desc": "Complete Chapter 1 on any difficulty setting.",
+   "hidden": false,
+   "pct": 66.0
+  },
+  {
+   "api": "ach02",
+   "name": "Lab Rat",
+   "desc": "Complete Chapter 2 on any difficulty setting.",
+   "hidden": false,
+   "pct": 55.3
+  },
+  {
+   "api": "ach03",
+   "name": "All Systems Go",
+   "desc": "Complete Chapter 3 on any difficulty setting.",
+   "hidden": false,
+   "pct": 48.2
+  },
+  {
+   "api": "ach42",
+   "name": "Brute Force",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.0
+  },
+  {
+   "api": "ach04",
+   "name": "Cannon Fodder",
+   "desc": "Complete Chapter 4 on any difficulty setting.",
+   "hidden": false,
+   "pct": 44.9
+  },
+  {
+   "api": "ach34",
+   "name": "Raise The Stakes",
+   "desc": "Pin an enemy.",
+   "hidden": false,
+   "pct": 43.9
+  },
+  {
+   "api": "ach05",
+   "name": "True Believer",
+   "desc": "Complete Chapter 5 on any difficulty setting.",
+   "hidden": false,
+   "pct": 42.2
+  },
+  {
+   "api": "ach28",
+   "name": "Story Teller",
+   "desc": "Collect 75 Logs.",
+   "hidden": false,
+   "pct": 41.5
+  },
+  {
+   "api": "ach32",
+   "name": "Surgeon",
+   "desc": "Dismember 500 Limbs.",
+   "hidden": false,
+   "pct": 40.0
+  },
+  {
+   "api": "ach06",
+   "name": "Greenhouse Effect",
+   "desc": "Complete Chapter 6 on any difficulty setting.",
+   "hidden": false,
+   "pct": 39.6
+  },
+  {
+   "api": "ach20",
+   "name": "Autofire",
+   "desc": "Kill 30 enemies with the Pulse Rifle.",
+   "hidden": false,
+   "pct": 39.6
+  },
+  {
+   "api": "ach43",
+   "name": "Exterminator",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.5
+  },
+  {
+   "api": "ach35",
+   "name": "Freeze",
+   "desc": "Use Stasis on 50 enemies.",
+   "hidden": false,
+   "pct": 39.0
+  },
+  {
+   "api": "ach07",
+   "name": "S.O.S.",
+   "desc": "Complete Chapter 7 on any difficulty setting.",
+   "hidden": false,
+   "pct": 36.7
+  },
+  {
+   "api": "ach08",
+   "name": "Strange Transmissions",
+   "desc": "Complete Chapter 8 on any difficulty setting.",
+   "hidden": false,
+   "pct": 35.5
+  },
+  {
+   "api": "ach44",
+   "name": "Get Off My Ship!",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.5
+  },
+  {
+   "api": "ach09",
+   "name": "Wreckage",
+   "desc": "Complete Chapter 9 on any difficulty setting.",
+   "hidden": false,
+   "pct": 35.0
+  },
+  {
+   "api": "ach18",
+   "name": "Full Arsenal",
+   "desc": "Own every weapon in the game.",
+   "hidden": false,
+   "pct": 34.1
+  },
+  {
+   "api": "ach10",
+   "name": "Keeper of the Faith",
+   "desc": "Complete Chapter 10 on any difficulty setting.",
+   "hidden": false,
+   "pct": 33.9
+  },
+  {
+   "api": "ach11",
+   "name": "Betrayed",
+   "desc": "Complete Chapter 11 on any difficulty setting.",
+   "hidden": false,
+   "pct": 33.3
+  },
+  {
+   "api": "ach21",
+   "name": "Live with the Hot Ones",
+   "desc": "Kill 30 enemies with the Flamethrower.",
+   "hidden": false,
+   "pct": 32.9
+  },
+  {
+   "api": "ach12",
+   "name": "Exodus",
+   "desc": "Complete Chapter 12 on any difficulty setting.",
+   "hidden": false,
+   "pct": 32.7
+  },
+  {
+   "api": "ach45",
+   "name": "Mindless Prey",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.6
+  },
+  {
+   "api": "ach29",
+   "name": "Legend Teller",
+   "desc": "Collect 150 Logs.",
+   "hidden": false,
+   "pct": 32.3
+  },
+  {
+   "api": "ach40",
+   "name": "There's Always Peng!",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.6
+  },
+  {
+   "api": "ach38",
+   "name": "Front Toward Enemy",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.4
+  },
+  {
+   "api": "ach15",
+   "name": "Set A Benchmark",
+   "desc": "Complete the game on Medium difficulty or above.",
+   "hidden": false,
+   "pct": 27.7
+  },
+  {
+   "api": "ach22",
+   "name": "A Cut Above",
+   "desc": "Kill 30 enemies with the Ripper.",
+   "hidden": false,
+   "pct": 26.1
+  },
+  {
+   "api": "ach14",
+   "name": "Whole Again",
+   "desc": "Pursue Nicole's investigation.",
+   "hidden": false,
+   "pct": 25.5
+  },
+  {
+   "api": "ach39",
+   "name": "Z-Baller",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.5
+  },
+  {
+   "api": "ach13",
+   "name": "Final Regeneration",
+   "desc": "Discover the Hunter's origins.",
+   "hidden": false,
+   "pct": 22.1
+  },
+  {
+   "api": "ach41",
+   "name": "Full Clearance",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.7
+  },
+  {
+   "api": "ach25",
+   "name": "Full Contact",
+   "desc": "Kill 30 enemies with the Contact Beam.",
+   "hidden": false,
+   "pct": 21.2
+  },
+  {
+   "api": "ach27",
+   "name": "Pack Rat",
+   "desc": "Place 25 items in Storage.",
+   "hidden": false,
+   "pct": 18.3
+  },
+  {
+   "api": "ach23",
+   "name": "Pusher",
+   "desc": "Kill 30 enemies with the Force Gun.",
+   "hidden": false,
+   "pct": 17.8
+  },
+  {
+   "api": "ach36",
+   "name": "Backbreaker",
+   "desc": "Kill 10 enemies with a stomp attack.",
+   "hidden": false,
+   "pct": 14.5
+  },
+  {
+   "api": "ach24",
+   "name": "Eviscerator",
+   "desc": "Kill 30 enemies with the Line Gun.",
+   "hidden": false,
+   "pct": 14.4
+  },
+  {
+   "api": "ach46",
+   "name": "Marked",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.9
+  },
+  {
+   "api": "ach33",
+   "name": "Wishbone",
+   "desc": "Rip off a dangling limb using Kinesis.",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "ach19",
+   "name": "Built To Order",
+   "desc": "Install every weapon upgrade.",
+   "hidden": false,
+   "pct": 7.0
+  },
+  {
+   "api": "ach30",
+   "name": "Merchant",
+   "desc": "Collect all Schematics.",
+   "hidden": false,
+   "pct": 6.2
+  },
+  {
+   "api": "ach17",
+   "name": "Trusted Contractor",
+   "desc": "Complete New Game Plus on any difficulty mode.",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "ach26",
+   "name": "One Gun",
+   "desc": "Beat the game using only the Plasma Cutter.",
+   "hidden": false,
+   "pct": 4.5
+  },
+  {
+   "api": "ach37",
+   "name": "Maxed Out",
+   "desc": "Fully upgrade all weapons and equipment.",
+   "hidden": false,
+   "pct": 4.4
+  },
+  {
+   "api": "ach47",
+   "name": "Reunion",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.3
+  },
+  {
+   "api": "ach16",
+   "name": "Untouchable",
+   "desc": "Complete the game in Impossible Mode.",
+   "hidden": false,
+   "pct": 3.6
+  }
+ ]
+}

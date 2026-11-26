@@ -1,0 +1,337 @@
+{
+ "appid": 524220,
+ "game": "NieR:Automata™",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 47,
+ "achievements": [
+  {
+   "api": "ACH_VISITED_BUNKER",
+   "name": "Resuscitated Body",
+   "desc": "",
+   "hidden": true,
+   "pct": 80.7
+  },
+  {
+   "api": "ACH_VISITED_RUINS_CITY",
+   "name": "Vestiges of Prosperity",
+   "desc": "",
+   "hidden": true,
+   "pct": 71.8
+  },
+  {
+   "api": "ACH_CLEAR_QUEST_FIRST_TIME",
+   "name": "First Errand",
+   "desc": "Complete your first quest.",
+   "hidden": false,
+   "pct": 66.4
+  },
+  {
+   "api": "ACH_CLEAR_DESERT_AREA",
+   "name": "It's a Healthy Baby Boy!",
+   "desc": "",
+   "hidden": true,
+   "pct": 61.0
+  },
+  {
+   "api": "ACH_CLEAR_AMUSEMENT_PARK",
+   "name": "We Await Your Next Visit",
+   "desc": "",
+   "hidden": true,
+   "pct": 56.1
+  },
+  {
+   "api": "ACH_RECOVERY_SELF_CORPSE",
+   "name": "The Circle of Death",
+   "desc": "Have your body collected.",
+   "hidden": false,
+   "pct": 51.2
+  },
+  {
+   "api": "ACH_CLEAR_ALIEN_SHIP",
+   "name": "Creation and Insurrection",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.3
+  },
+  {
+   "api": "ACH_CLEAR_CASTLE_FOREST",
+   "name": "The Mechanical Kingdom",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.1
+  },
+  {
+   "api": "ACH_SHOOTING",
+   "name": "Ruler of the Skies",
+   "desc": "255 enemies destroyed using a flight unit.",
+   "hidden": false,
+   "pct": 41.5
+  },
+  {
+   "api": "ACH_CLEAR_SUBMERGE_CITY",
+   "name": "Ruler of the Deep",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.9
+  },
+  {
+   "api": "ACH_CLEAR_COPY_CITY",
+   "name": "Those Who Love Humans",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.3
+  },
+  {
+   "api": "ACH_CLEAR_ROBOT_MT",
+   "name": "Iron Soul",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.2
+  },
+  {
+   "api": "ACH_CLEAR_A",
+   "name": "One Battle Ends",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.3
+  },
+  {
+   "api": "ACH_CLEAR_HACKING_9S",
+   "name": "Fighting's Not My Thing",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.8
+  },
+  {
+   "api": "ACH_RICH_MAN",
+   "name": "Desire Without Emotion",
+   "desc": "At least 100,000 G in possession.",
+   "hidden": false,
+   "pct": 34.7
+  },
+  {
+   "api": "ACH_EMILE_SHOP",
+   "name": "Come Take a Look!",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.1
+  },
+  {
+   "api": "ACH_CLEAR_B",
+   "name": "A New Battle Begins",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.4
+  },
+  {
+   "api": "ACH_SEE_2B_DIE",
+   "name": "Final Wish",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.5
+  },
+  {
+   "api": "ACH_PLAY_A2_FIRST_TIME",
+   "name": "Treacherous Blade",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.5
+  },
+  {
+   "api": "ACH_LAST_REQUEST_PASCAL",
+   "name": "Farewell, Pascal",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.1
+  },
+  {
+   "api": "ACH_COLLECT_CHIP",
+   "name": "Chip Collector",
+   "desc": "80% of all plug-in chips collected.",
+   "hidden": false,
+   "pct": 22.6
+  },
+  {
+   "api": "ACH_KILL_ROBOT_BROTHER",
+   "name": "Justice",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.5
+  },
+  {
+   "api": "ACH_DEVOLA_NOVEL_END",
+   "name": "Crime and Punishment",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.4
+  },
+  {
+   "api": "ACH_CLEAR_A2",
+   "name": "Beautiful World",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.0
+  },
+  {
+   "api": "ACH_NPC_KILL",
+   "name": "Wait! Don't Kill Me!",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.0
+  },
+  {
+   "api": "ACH_WEAPON_LV_MAX",
+   "name": "Tools of the Trade",
+   "desc": "Any weapon upgraded to the highest level.",
+   "hidden": false,
+   "pct": 20.4
+  },
+  {
+   "api": "ACH_CLEAR_9S",
+   "name": "Leaving for the New World",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.0
+  },
+  {
+   "api": "ACH_RECOVERY_CORPSE",
+   "name": "Cherish Our Resources",
+   "desc": "Have 100 bodies collected.",
+   "hidden": false,
+   "pct": 17.9
+  },
+  {
+   "api": "ACH_TRUE_END",
+   "name": "The Minds That Emerged",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.2
+  },
+  {
+   "api": "ACH_HACKING_KILL",
+   "name": "A Scanner's Power",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.4
+  },
+  {
+   "api": "ACH_GET_ALL_POD",
+   "name": "Pod Hunter",
+   "desc": "All Pods found.",
+   "hidden": false,
+   "pct": 15.5
+  },
+  {
+   "api": "ACH_EXTRACTION",
+   "name": "Harvest King",
+   "desc": "Materials gathered at a hidden harvest point 10 times.",
+   "hidden": false,
+   "pct": 14.9
+  },
+  {
+   "api": "ACH_COLLECT_EM_LIST",
+   "name": "Destruction is My Job",
+   "desc": "80% of all unit data unlocked.",
+   "hidden": false,
+   "pct": 13.8
+  },
+  {
+   "api": "ACH_ANIMAL_RUN",
+   "name": "Animal Rider",
+   "desc": "Any animal ridden for 5 kilometers.",
+   "hidden": false,
+   "pct": 13.8
+  },
+  {
+   "api": "ACH_SKIRT_ESCAPE",
+   "name": "What Are You Doing?",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.5
+  },
+  {
+   "api": "ACH_CALL_AT_KAINES_ROOM",
+   "name": "Lunar Tear",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.8
+  },
+  {
+   "api": "ACH_CLEAR_MANY_QUEST",
+   "name": "The Mercenary",
+   "desc": "80% of all quests completed.",
+   "hidden": false,
+   "pct": 11.5
+  },
+  {
+   "api": "ACH_REMOTO_KILL",
+   "name": "Machines vs. Machines",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.6
+  },
+  {
+   "api": "ACH_FISHING",
+   "name": "A Round by the Pond",
+   "desc": "20 different kinds of fish caught.",
+   "hidden": false,
+   "pct": 6.9
+  },
+  {
+   "api": "ACH_BERSERKER_KILL",
+   "name": "The Power of Hate",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.6
+  },
+  {
+   "api": "ACH_KILL_EM1010",
+   "name": "Naughty Children",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.5
+  },
+  {
+   "api": "ACH_COLLECT_ARCHIVE",
+   "name": "Information Master",
+   "desc": "80% of all archives found.",
+   "hidden": false,
+   "pct": 6.4
+  },
+  {
+   "api": "ACH_PANTS",
+   "name": "Not That I Mind...",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.1
+  },
+  {
+   "api": "ACH_WEAPON_LV_MAX_ALL",
+   "name": "Inorganic Blade",
+   "desc": "All weapons upgraded to the highest level.",
+   "hidden": false,
+   "pct": 5.9
+  },
+  {
+   "api": "ACH_HAS_ALL_ACTIVE_SKILL",
+   "name": "Weapons Maniac",
+   "desc": "All Pod programs obtained.",
+   "hidden": false,
+   "pct": 5.7
+  },
+  {
+   "api": "ACH_POD_LV_MAX_ALL",
+   "name": "Supreme Support Weapons",
+   "desc": "All Pods upgraded to the highest level.",
+   "hidden": false,
+   "pct": 5.5
+  },
+  {
+   "api": "ACH_BAD_END",
+   "name": "Transcendent Being",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.3
+  }
+ ]
+}

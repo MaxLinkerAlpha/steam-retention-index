@@ -1,0 +1,225 @@
+{
+ "appid": 753640,
+ "game": "Outer Wilds",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 31,
+ "achievements": [
+  {
+   "api": "ACHIEVEMENT_2",
+   "name": "The Silenced Cartographer",
+   "desc": "",
+   "hidden": true,
+   "pct": 86.5
+  },
+  {
+   "api": "ACHIEVEMENT_14",
+   "name": "Oof Ouch, My Bones",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.7
+  },
+  {
+   "api": "GONE_IN_60_SECONDS",
+   "name": "Gone In 60 Seconds",
+   "desc": "Die within 60 seconds of waking up.",
+   "hidden": false,
+   "pct": 34.8
+  },
+  {
+   "api": "CUTTING_IT_CLOSE",
+   "name": "Cutting it Close",
+   "desc": "Use your suit's oxygen in an ill-advised manner.",
+   "hidden": false,
+   "pct": 33.4
+  },
+  {
+   "api": "HARMONIC_CONVERGENCE",
+   "name": "Harmonic Convergence",
+   "desc": "Pick up all traveler instruments simultaneously with your signalscope.",
+   "hidden": false,
+   "pct": 30.1
+  },
+  {
+   "api": "ACHIEVEMENT_4",
+   "name": "Early Adopter",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.5
+  },
+  {
+   "api": "ACHIEVEMENT_6",
+   "name": "Flat Hearther",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.1
+  },
+  {
+   "api": "ACHIEVEMENT_5",
+   "name": "The Grate Filter",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.0
+  },
+  {
+   "api": "PCHOOOOOOO",
+   "name": "Pchooooooo!",
+   "desc": "Launch your ship with a gravity cannon.",
+   "hidden": false,
+   "pct": 17.2
+  },
+  {
+   "api": "ACHIEVEMENT_11",
+   "name": "Fire Arrows",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.0
+  },
+  {
+   "api": "ACHIEVEMENT_10",
+   "name": "Simulation Hypothesis",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.7
+  },
+  {
+   "api": "CARCINOGENS",
+   "name": "Mmmm, Carcinogens...",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.9
+  },
+  {
+   "api": "ACHIEVEMENT_7",
+   "name": "Celsius 232.78",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.2
+  },
+  {
+   "api": "WHATS_THIS_BUTTON",
+   "name": "Hey, what's this button do?",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.6
+  },
+  {
+   "api": "ACHIEVEMENT_13",
+   "name": "You'll Never Take Me Alive!",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.2
+  },
+  {
+   "api": "TERRIBLE_FATE",
+   "name": "You've met a terrible fate.",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.3
+  },
+  {
+   "api": "ACHIEVEMENT_12",
+   "name": "1 / 900",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.3
+  },
+  {
+   "api": "ACHIEVEMENT_9",
+   "name": "Sleep. Wake. Repeat.",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.0
+  },
+  {
+   "api": "RIGIDBODY",
+   "name": "Rigidbody",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.5
+  },
+  {
+   "api": "ACHIEVEMENT_1",
+   "name": "Around the world in 90 seconds",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.0
+  },
+  {
+   "api": "ACHIEVEMENT_8",
+   "name": "Ghosts in the Machine",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.4
+  },
+  {
+   "api": "HEARTH_TO_MOON",
+   "name": "From the Hearth to the Moon",
+   "desc": "Land the model rocket on Attlerock.",
+   "hidden": false,
+   "pct": 8.2
+  },
+  {
+   "api": "ACHIEVEMENT_3",
+   "name": "Tubular!",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.0
+  },
+  {
+   "api": "YOU_TRIED",
+   "name": "It was worth a shot.",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.7
+  },
+  {
+   "api": "MICAS_WRATH",
+   "name": "Mica's Wrath",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.6
+  },
+  {
+   "api": "ALPHA_PILOT",
+   "name": "Hotshot",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.0
+  },
+  {
+   "api": "MUSEUM",
+   "name": "It belongs in a museum!",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.8
+  },
+  {
+   "api": "DEEP_IMPACT",
+   "name": "Deep Impact",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.7
+  },
+  {
+   "api": "DIEHARD",
+   "name": "Die Hard",
+   "desc": "End a time loop (Alive) after having taken (and healed) over 1000 damage.",
+   "hidden": false,
+   "pct": 4.2
+  },
+  {
+   "api": "STUDIOUS",
+   "name": "Archaeologist",
+   "desc": "Complete the ship log.",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "BEGINNERS_LUCK",
+   "name": "Beginner's Luck",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.8
+  }
+ ]
+}

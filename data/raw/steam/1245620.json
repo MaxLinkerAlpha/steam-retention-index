@@ -1,0 +1,302 @@
+{
+ "appid": 1245620,
+ "game": "ELDEN RING",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 42,
+ "achievements": [
+  {
+   "api": "ACH39",
+   "name": "Roundtable Hold",
+   "desc": "",
+   "hidden": true,
+   "pct": 74.9
+  },
+  {
+   "api": "ACH25",
+   "name": "Margit, the Fell Omen",
+   "desc": "",
+   "hidden": true,
+   "pct": 70.9
+  },
+  {
+   "api": "ACH04",
+   "name": "Shardbearer Godrick",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.0
+  },
+  {
+   "api": "ACH40",
+   "name": "Great Rune",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.6
+  },
+  {
+   "api": "ACH26",
+   "name": "Red Wolf of Radagon",
+   "desc": "",
+   "hidden": true,
+   "pct": 59.2
+  },
+  {
+   "api": "ACH18",
+   "name": "Rennala, Queen of the Full Moon",
+   "desc": "",
+   "hidden": true,
+   "pct": 57.9
+  },
+  {
+   "api": "ACH34",
+   "name": "Leonine Misbegotten",
+   "desc": "",
+   "hidden": true,
+   "pct": 57.6
+  },
+  {
+   "api": "ACH35",
+   "name": "Royal Knight Loretta",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.4
+  },
+  {
+   "api": "ACH05",
+   "name": "Shardbearer Radahn",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.2
+  },
+  {
+   "api": "ACH31",
+   "name": "Mimic Tear",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.8
+  },
+  {
+   "api": "ACH29",
+   "name": "Godfrey, First Elden Lord",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.0
+  },
+  {
+   "api": "ACH06",
+   "name": "Shardbearer Morgott",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.6
+  },
+  {
+   "api": "ACH28",
+   "name": "Magma Wyrm Makar",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.8
+  },
+  {
+   "api": "ACH13",
+   "name": "God-Slaying Armament",
+   "desc": "Upgraded any armament to its highest stage",
+   "hidden": false,
+   "pct": 45.5
+  },
+  {
+   "api": "ACH21",
+   "name": "Fire Giant",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.0
+  },
+  {
+   "api": "ACH41",
+   "name": "Erdtree Aflame",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.2
+  },
+  {
+   "api": "ACH38",
+   "name": "Commander Niall",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.0
+  },
+  {
+   "api": "ACH07",
+   "name": "Shardbearer Rykard",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.6
+  },
+  {
+   "api": "ACH33",
+   "name": "Astel, Naturalborn of the Void",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.4
+  },
+  {
+   "api": "ACH20",
+   "name": "Godskin Duo",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.2
+  },
+  {
+   "api": "ACH27",
+   "name": "Godskin Noble",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.0
+  },
+  {
+   "api": "ACH37",
+   "name": "Ancestor Spirit",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.8
+  },
+  {
+   "api": "ACH10",
+   "name": "Maliketh the Black Blade",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.6
+  },
+  {
+   "api": "ACH09",
+   "name": "Shardbearer Mohg",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.7
+  },
+  {
+   "api": "ACH11",
+   "name": "Hoarah Loux, Warrior",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.5
+  },
+  {
+   "api": "ACH24",
+   "name": "Valiant Gargoyles",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.9
+  },
+  {
+   "api": "ACH32",
+   "name": "Loretta, Knight of the Haligtree",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.8
+  },
+  {
+   "api": "ACH36",
+   "name": "Elemer of the Briar",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.7
+  },
+  {
+   "api": "ACH22",
+   "name": "Dragonkin Soldier of Nokstella",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.1
+  },
+  {
+   "api": "ACH23",
+   "name": "Regal Ancestor Spirit",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.1
+  },
+  {
+   "api": "ACH08",
+   "name": "Shardbearer Malenia",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.4
+  },
+  {
+   "api": "ACH30",
+   "name": "Mohg, the Omen",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.9
+  },
+  {
+   "api": "ACH12",
+   "name": "Dragonlord Placidusax",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.2
+  },
+  {
+   "api": "ACH19",
+   "name": "Lichdragon Fortissax",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.1
+  },
+  {
+   "api": "ACH02",
+   "name": "Age of the Stars",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.2
+  },
+  {
+   "api": "ACH01",
+   "name": "Elden Lord",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.9
+  },
+  {
+   "api": "ACH14",
+   "name": "Legendary Armaments",
+   "desc": "Acquired all legendary armaments",
+   "hidden": false,
+   "pct": 18.3
+  },
+  {
+   "api": "ACH15",
+   "name": "Legendary Ashen Remains",
+   "desc": "Acquired all legendary ashen remains",
+   "hidden": false,
+   "pct": 17.7
+  },
+  {
+   "api": "ACH17",
+   "name": "Legendary Talismans",
+   "desc": "Acquired all legendary talismans",
+   "hidden": false,
+   "pct": 17.7
+  },
+  {
+   "api": "ACH16",
+   "name": "Legendary Sorceries and Incantations",
+   "desc": "Acquired all legendary sorceries and incantations",
+   "hidden": false,
+   "pct": 17.2
+  },
+  {
+   "api": "ACH03",
+   "name": "Lord of Frenzied Flame",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.5
+  },
+  {
+   "api": "ACH00",
+   "name": "Elden Ring",
+   "desc": "Obtained all achievements",
+   "hidden": false,
+   "pct": 10.5
+  }
+ ]
+}

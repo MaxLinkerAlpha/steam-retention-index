@@ -1,0 +1,513 @@
+{
+ "appid": 1462040,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 63,
+ "achievements": [
+  {
+   "name": "Master of Fate",
+   "desc": "Earn all FINAL FANTASY VII REMAKE achievements.",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "ACH_00",
+   "internal_key": 257
+  },
+  {
+   "name": "Onetime Gig",
+   "desc": "Complete Chapter 1.",
+   "hidden": true,
+   "pct": 86.2,
+   "api_name": "ACH_01",
+   "internal_key": 258
+  },
+  {
+   "name": "Escape Artist",
+   "desc": "Complete Chapter 2.",
+   "hidden": true,
+   "pct": 78.2,
+   "api_name": "ACH_02",
+   "internal_key": 259
+  },
+  {
+   "name": "Mercenary Endeavors",
+   "desc": "Complete Chapter 3.",
+   "hidden": true,
+   "pct": 63.4,
+   "api_name": "ACH_03",
+   "internal_key": 260
+  },
+  {
+   "name": "Night on the Town",
+   "desc": "Complete Chapter 4.",
+   "hidden": true,
+   "pct": 59.6,
+   "api_name": "ACH_04",
+   "internal_key": 261
+  },
+  {
+   "name": "Plan E",
+   "desc": "Complete Chapter 5.",
+   "hidden": true,
+   "pct": 57.7,
+   "api_name": "ACH_05",
+   "internal_key": 262
+  },
+  {
+   "name": "Lights Out",
+   "desc": "Complete Chapter 6.",
+   "hidden": true,
+   "pct": 55.5,
+   "api_name": "ACH_06",
+   "internal_key": 263
+  },
+  {
+   "name": "Trapped like Sewer Rats",
+   "desc": "Complete Chapter 7.",
+   "hidden": true,
+   "pct": 54.0,
+   "api_name": "ACH_07",
+   "internal_key": 264
+  },
+  {
+   "name": "Reunited",
+   "desc": "Complete Chapter 8.",
+   "hidden": true,
+   "pct": 47.8,
+   "api_name": "ACH_08",
+   "internal_key": 265
+  },
+  {
+   "name": "Never the Bride",
+   "desc": "Complete Chapter 9.",
+   "hidden": true,
+   "pct": 43.3,
+   "api_name": "ACH_09",
+   "internal_key": 266
+  },
+  {
+   "name": "Sewer Survivor",
+   "desc": "Complete Chapter 10.",
+   "hidden": true,
+   "pct": 42.2,
+   "api_name": "ACH_10",
+   "internal_key": 267
+  },
+  {
+   "name": "Paranormal Investigator",
+   "desc": "Complete Chapter 11.",
+   "hidden": true,
+   "pct": 41.0,
+   "api_name": "ACH_11",
+   "internal_key": 268
+  },
+  {
+   "name": "The Collapse",
+   "desc": "Complete Chapter 12.",
+   "hidden": true,
+   "pct": 40.2,
+   "api_name": "ACH_12",
+   "internal_key": 269
+  },
+  {
+   "name": "Broken Dreams",
+   "desc": "Complete Chapter 13.",
+   "hidden": true,
+   "pct": 38.7,
+   "api_name": "ACH_13",
+   "internal_key": 270
+  },
+  {
+   "name": "Picking Up the Pieces",
+   "desc": "Complete Chapter 14.",
+   "hidden": true,
+   "pct": 35.3,
+   "api_name": "ACH_14",
+   "internal_key": 271
+  },
+  {
+   "name": "The Pizza in the Sky",
+   "desc": "Complete Chapter 15.",
+   "hidden": true,
+   "pct": 34.8,
+   "api_name": "ACH_15",
+   "internal_key": 272
+  },
+  {
+   "name": "No Appointment Needed",
+   "desc": "Complete Chapter 16.",
+   "hidden": true,
+   "pct": 33.6,
+   "api_name": "ACH_16",
+   "internal_key": 273
+  },
+  {
+   "name": "Emerging from Chaos",
+   "desc": "Complete Chapter 17.",
+   "hidden": true,
+   "pct": 32.7,
+   "api_name": "ACH_17",
+   "internal_key": 274
+  },
+  {
+   "name": "Destiny's Crossroads",
+   "desc": "Complete Chapter 18.",
+   "hidden": true,
+   "pct": 31.8,
+   "api_name": "ACH_18",
+   "internal_key": 275
+  },
+  {
+   "name": "Warming Up",
+   "desc": "Win a battle.",
+   "hidden": false,
+   "pct": 96.8,
+   "api_name": "ACH_19",
+   "internal_key": 276
+  },
+  {
+   "name": "Weakened Resolve",
+   "desc": "Exploit an enemy's weakness.",
+   "hidden": false,
+   "pct": 84.8,
+   "api_name": "ACH_20",
+   "internal_key": 277
+  },
+  {
+   "name": "Bonds of Friendship",
+   "desc": "Free a bound ally.",
+   "hidden": false,
+   "pct": 77.2,
+   "api_name": "ACH_21",
+   "internal_key": 278
+  },
+  {
+   "name": "Staggering Start",
+   "desc": "Stagger an enemy.",
+   "hidden": false,
+   "pct": 93.0,
+   "api_name": "ACH_22",
+   "internal_key": 279
+  },
+  {
+   "name": "Music Collector",
+   "desc": "Collect 3 music discs.",
+   "hidden": false,
+   "pct": 60.7,
+   "api_name": "ACH_23",
+   "internal_key": 280
+  },
+  {
+   "name": "Gotta Start Somewhere",
+   "desc": "Complete a quest.",
+   "hidden": false,
+   "pct": 69.3,
+   "api_name": "ACH_24",
+   "internal_key": 281
+  },
+  {
+   "name": "My First Ability",
+   "desc": "Max out a weapon's proficiency.",
+   "hidden": false,
+   "pct": 58.4,
+   "api_name": "ACH_25",
+   "internal_key": 282
+  },
+  {
+   "name": "Materia for Beginners",
+   "desc": "Level up an orb of materia.",
+   "hidden": false,
+   "pct": 67.8,
+   "api_name": "ACH_26",
+   "internal_key": 283
+  },
+  {
+   "name": "My First Summon",
+   "desc": "Invoke a summon.",
+   "hidden": false,
+   "pct": 61.0,
+   "api_name": "ACH_27",
+   "internal_key": 284
+  },
+  {
+   "name": "Biker Boy",
+   "desc": "Get praised by Jessie at the end of the motorcycle mini-game.",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "ACH_28",
+   "internal_key": 285
+  },
+  {
+   "name": "Heavenly Dart Player",
+   "desc": "Rise to the top of the Seventh Heaven darts leaderboard.",
+   "hidden": false,
+   "pct": 26.2,
+   "api_name": "ACH_29",
+   "internal_key": 286
+  },
+  {
+   "name": "Cleanup Crew",
+   "desc": "Obtain the Chocobo & Moogle materia.",
+   "hidden": false,
+   "pct": 38.0,
+   "api_name": "ACH_30",
+   "internal_key": 287
+  },
+  {
+   "name": "In Lockstep",
+   "desc": "Bypass the delta-level security lock in Mako Reactor 5.",
+   "hidden": false,
+   "pct": 53.0,
+   "api_name": "ACH_31",
+   "internal_key": 512
+  },
+  {
+   "name": "Crate Annihilator",
+   "desc": "Complete all Normal difficulty Whack-a-Box challenges.",
+   "hidden": false,
+   "pct": 33.8,
+   "api_name": "ACH_32",
+   "internal_key": 513
+  },
+  {
+   "name": "Say It with Flowers",
+   "desc": "Decorate the Leaf House with a floral arrangement.",
+   "hidden": true,
+   "pct": 49.4,
+   "api_name": "ACH_33",
+   "internal_key": 514
+  },
+  {
+   "name": "Summon Slayer",
+   "desc": "Defeat a summon in battle.",
+   "hidden": false,
+   "pct": 42.8,
+   "api_name": "ACH_34",
+   "internal_key": 515
+  },
+  {
+   "name": "Sultan of Squat",
+   "desc": "Complete all squat challenges.",
+   "hidden": false,
+   "pct": 22.8,
+   "api_name": "ACH_35",
+   "internal_key": 516
+  },
+  {
+   "name": "Dancing Queen",
+   "desc": "Received a gift from Andrea for being a dance superstar.",
+   "hidden": true,
+   "pct": 26.6,
+   "api_name": "ACH_36",
+   "internal_key": 517
+  },
+  {
+   "name": "Returning Champion",
+   "desc": "Emerge victorious from a colosseum sparring session.",
+   "hidden": false,
+   "pct": 25.6,
+   "api_name": "ACH_37",
+   "internal_key": 518
+  },
+  {
+   "name": "Snappy Dresser",
+   "desc": "Obtain three bridal candidate outfits.",
+   "hidden": false,
+   "pct": 43.6,
+   "api_name": "ACH_38",
+   "internal_key": 519
+  },
+  {
+   "name": "Dressed to the Nines",
+   "desc": "Obtain all nine bridal candidate outfits.",
+   "hidden": false,
+   "pct": 2.7,
+   "api_name": "ACH_39",
+   "internal_key": 520
+  },
+  {
+   "name": "Whack-a-Box Wunderkind",
+   "desc": "Complete all Hard difficulty Whack-a-Box challenges.",
+   "hidden": false,
+   "pct": 12.1,
+   "api_name": "ACH_40",
+   "internal_key": 521
+  },
+  {
+   "name": "Peeress of Pull-Ups",
+   "desc": "Complete all pull-up challenges.",
+   "hidden": false,
+   "pct": 11.0,
+   "api_name": "ACH_41",
+   "internal_key": 522
+  },
+  {
+   "name": "Divine Gratitude",
+   "desc": "Receive a letter from an angel.",
+   "hidden": true,
+   "pct": 18.6,
+   "api_name": "ACH_42",
+   "internal_key": 523
+  },
+  {
+   "name": "The Johnny Experience",
+   "desc": "Witness all Johnny-related incidents.",
+   "hidden": true,
+   "pct": 18.2,
+   "api_name": "ACH_43",
+   "internal_key": 524
+  },
+  {
+   "name": "Best in the Business",
+   "desc": "Complete all quests.",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "ACH_44",
+   "internal_key": 525
+  },
+  {
+   "name": "Disc Jockey",
+   "desc": "Collect all music discs.",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "ACH_45",
+   "internal_key": 526
+  },
+  {
+   "name": "Building Character",
+   "desc": "Attain level 50 with a character.",
+   "hidden": false,
+   "pct": 10.5,
+   "api_name": "ACH_46",
+   "internal_key": 527
+  },
+  {
+   "name": "Staggering Feat",
+   "desc": "Deal 300% damage to a staggered enemy.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "ACH_47",
+   "internal_key": 528
+  },
+  {
+   "name": "Intelligence Agent",
+   "desc": "Complete all battle intel reports.",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "ACH_48",
+   "internal_key": 529
+  },
+  {
+   "name": "Weapons Expert",
+   "desc": "Learn all weapon abilities for Cloud, Barret, Tifa, and Aerith.",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "ACH_49",
+   "internal_key": 530
+  },
+  {
+   "name": "Master of Mimicry",
+   "desc": "Learn all enemy skills.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "ACH_50",
+   "internal_key": 531
+  },
+  {
+   "name": "That's the Smell",
+   "desc": "Defeat a malboro.",
+   "hidden": true,
+   "pct": 4.0,
+   "api_name": "ACH_51",
+   "internal_key": 532
+  },
+  {
+   "name": "Ultimate Weapon",
+   "desc": "Defeat the Pride and Joy prototype.",
+   "hidden": true,
+   "pct": 3.1,
+   "api_name": "ACH_52",
+   "internal_key": 533
+  },
+  {
+   "name": "Hardened Veteran",
+   "desc": "Complete all chapters of the main story on Hard difficulty.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "ACH_53",
+   "internal_key": 534
+  },
+  {
+   "name": "Takes Two IDs to Tango",
+   "desc": "Complete Chapter 1 of INTERmission.",
+   "hidden": true,
+   "pct": 17.4,
+   "api_name": "ACH_54",
+   "internal_key": 535
+  },
+  {
+   "name": "Out of Darkness's Clutches",
+   "desc": "Complete Chapter 2 of INTERmission.",
+   "hidden": true,
+   "pct": 16.5,
+   "api_name": "ACH_55",
+   "internal_key": 536
+  },
+  {
+   "name": "The Road to Revenge",
+   "desc": "Complete both chapters of INTERmission on Hard difficulty.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "ACH_56",
+   "internal_key": 537
+  },
+  {
+   "name": "Turtle-tastic",
+   "desc": "Collect all the Happy Turtle flyers.",
+   "hidden": true,
+   "pct": 13.2,
+   "api_name": "ACH_57",
+   "internal_key": 538
+  },
+  {
+   "name": "Game, Set, Master",
+   "desc": "Become the Fort Condor grandmaster.",
+   "hidden": true,
+   "pct": 11.0,
+   "api_name": "ACH_58",
+   "internal_key": 539
+  },
+  {
+   "name": "Condor Queen",
+   "desc": "Become the Fort Condor grandmaster on Hard difficulty.",
+   "hidden": true,
+   "pct": 2.7,
+   "api_name": "ACH_59",
+   "internal_key": 540
+  },
+  {
+   "name": "Materia Maven",
+   "desc": "Obtain all materia available from Shinra Box Buster challenges.",
+   "hidden": true,
+   "pct": 4.1,
+   "api_name": "ACH_60",
+   "internal_key": 541
+  },
+  {
+   "name": "Ultimate Weapon 2.0",
+   "desc": "Defeat the Pride and Joy Mk 0.5.",
+   "hidden": true,
+   "pct": 2.6,
+   "api_name": "ACH_61",
+   "internal_key": 542
+  },
+  {
+   "name": "Corrupter of the Immaculate",
+   "desc": "Defeat Weiss.",
+   "hidden": true,
+   "pct": 2.8,
+   "api_name": "ACH_62",
+   "internal_key": 543
+  }
+ ]
+}

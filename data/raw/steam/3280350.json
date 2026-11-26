@@ -1,0 +1,393 @@
+{
+ "appid": 3280350,
+ "game": "DEATH STRANDING 2: ON THE BEACH",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 55,
+ "achievements": [
+  {
+   "api": "trophy_021",
+   "name": "My First Structure",
+   "desc": "Build your first structure (any structure - signs, ladders, etc.).",
+   "hidden": false,
+   "pct": 94.8
+  },
+  {
+   "api": "trophy_023",
+   "name": "Starting Point",
+   "desc": "",
+   "hidden": true,
+   "pct": 92.4
+  },
+  {
+   "api": "trophy_027",
+   "name": "It's Like That",
+   "desc": " Send a Like for the first time.",
+   "hidden": false,
+   "pct": 89.0
+  },
+  {
+   "api": "trophy_031",
+   "name": "A First Glimpse of the SSS",
+   "desc": "Read an SSS post for the first time.",
+   "hidden": false,
+   "pct": 87.9
+  },
+  {
+   "api": "trophy_028",
+   "name": "A Life Well Liked",
+   "desc": "",
+   "hidden": true,
+   "pct": 83.0
+  },
+  {
+   "api": "trophy_001",
+   "name": "\"Lou? Can you hear me? Can you see me?\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 80.2
+  },
+  {
+   "api": "trophy_019",
+   "name": "Helping People to Connect",
+   "desc": "Complete an aid request for the first time.",
+   "hidden": false,
+   "pct": 80.2
+  },
+  {
+   "api": "trophy_002",
+   "name": "\"Time to Start a New Journey\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 79.8
+  },
+  {
+   "api": "trophy_026",
+   "name": "Self-Improvement",
+   "desc": "Activate an APAS enhancement for the first time.",
+   "hidden": false,
+   "pct": 77.3
+  },
+  {
+   "api": "trophy_017",
+   "name": "Standard Porter",
+   "desc": "Complete a standard order for the first time.",
+   "hidden": false,
+   "pct": 70.9
+  },
+  {
+   "api": "trophy_003",
+   "name": "\"Help us Bring Australia into the Network\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 69.3
+  },
+  {
+   "api": "trophy_054",
+   "name": "Long-Distance Lugger",
+   "desc": "Reach a total distance traveled of 80km upon completion of an order.",
+   "hidden": false,
+   "pct": 67.2
+  },
+  {
+   "api": "trophy_053",
+   "name": "Heavy Lifter",
+   "desc": "Deliver cargo weighing a total of two tons.",
+   "hidden": false,
+   "pct": 66.6
+  },
+  {
+   "api": "trophy_004",
+   "name": "\"We'll Show the World the Hope in Your Rain\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 66.4
+  },
+  {
+   "api": "trophy_005",
+   "name": "\"Did He Say Nirvana?\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.8
+  },
+  {
+   "api": "trophy_035",
+   "name": "Road Restorer",
+   "desc": "Restore one section of road.",
+   "hidden": false,
+   "pct": 64.2
+  },
+  {
+   "api": "trophy_029",
+   "name": "A Porter at Peak Popularity",
+   "desc": "",
+   "hidden": true,
+   "pct": 62.0
+  },
+  {
+   "api": "trophy_006",
+   "name": "\"To Our Little Family\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.0
+  },
+  {
+   "api": "trophy_007",
+   "name": "\"Sam the Man—In the Dark About Everything\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.3
+  },
+  {
+   "api": "trophy_033",
+   "name": "Creature Comforter",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.0
+  },
+  {
+   "api": "trophy_020",
+   "name": "Promising Signs",
+   "desc": "Construct an online aid request sign for the first time.",
+   "hidden": false,
+   "pct": 50.5
+  },
+  {
+   "api": "trophy_008",
+   "name": "\"His Name is Neil. Neil Vana\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.1
+  },
+  {
+   "api": "trophy_045",
+   "name": "The Headless Riders Unmasked",
+   "desc": "Solve the riddle of the headless riders.",
+   "hidden": false,
+   "pct": 45.2
+  },
+  {
+   "api": "trophy_009",
+   "name": "\"I Don't Break That Easily\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.1
+  },
+  {
+   "api": "trophy_036",
+   "name": "Dig, Dig, Dig!",
+   "desc": "Restore three mines.",
+   "hidden": false,
+   "pct": 43.2
+  },
+  {
+   "api": "trophy_010",
+   "name": "\"You Will Never, Ever Be Alone\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.8
+  },
+  {
+   "api": "trophy_011",
+   "name": "\"Keep Lou Safe...\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.7
+  },
+  {
+   "api": "trophy_012",
+   "name": "\"To Help You Find the Strength to Carry On\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.3
+  },
+  {
+   "api": "trophy_013",
+   "name": "\"To Forsake Our Flesh and Our Freedom\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.2
+  },
+  {
+   "api": "trophy_030",
+   "name": "My First Training Session",
+   "desc": "Complete a VR Training program for the first time.",
+   "hidden": false,
+   "pct": 41.6
+  },
+  {
+   "api": "trophy_014",
+   "name": "\"We Have to Get Tomorrow Back\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.2
+  },
+  {
+   "api": "trophy_043",
+   "name": "So YOU'RE the Pizza Chef!",
+   "desc": "Discover the truth about the Pizza Chef.",
+   "hidden": false,
+   "pct": 41.2
+  },
+  {
+   "api": "trophy_015",
+   "name": "\"I'll Always Be With You\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.1
+  },
+  {
+   "api": "trophy_016",
+   "name": "\"Death Can't Tear Us Apart\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.8
+  },
+  {
+   "api": "trophy_052",
+   "name": "Compulsive Cargo Carrier",
+   "desc": "Deliver a total of 500 pieces of cargo.",
+   "hidden": false,
+   "pct": 39.8
+  },
+  {
+   "api": "trophy_049",
+   "name": "BT's Best Friend",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.0
+  },
+  {
+   "api": "trophy_037",
+   "name": "Rail Restorer",
+   "desc": "Restore and fully reopen a monorail line.",
+   "hidden": false,
+   "pct": 35.0
+  },
+  {
+   "api": "trophy_038",
+   "name": "Emergency Worker",
+   "desc": "Deliver emergency support for the first time.",
+   "hidden": false,
+   "pct": 28.7
+  },
+  {
+   "api": "trophy_050",
+   "name": "Conqueror of the Golden CC",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.6
+  },
+  {
+   "api": "trophy_051",
+   "name": "A Premier Porter",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.1
+  },
+  {
+   "api": "trophy_042",
+   "name": "A Private Show!",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.9
+  },
+  {
+   "api": "trophy_039",
+   "name": "Spring into Life",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.5
+  },
+  {
+   "api": "trophy_040",
+   "name": "Written in the Stars",
+   "desc": "Study the night sky for the first time.",
+   "hidden": false,
+   "pct": 21.0
+  },
+  {
+   "api": "trophy_034",
+   "name": "Rare Specimen Rescuer",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.4
+  },
+  {
+   "api": "trophy_024",
+   "name": "Keep on Connecting",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.5
+  },
+  {
+   "api": "trophy_044",
+   "name": "Showdown at the Tar Lake",
+   "desc": "Defeat the Lord of the Tar Lake.",
+   "hidden": false,
+   "pct": 17.7
+  },
+  {
+   "api": "trophy_047",
+   "name": "The Scars Left by the Giants",
+   "desc": "Arrive at the BT nexus in the F3 crater.",
+   "hidden": false,
+   "pct": 17.5
+  },
+  {
+   "api": "trophy_041",
+   "name": "Porters Make the World Go Round",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.2
+  },
+  {
+   "api": "trophy_032",
+   "name": "Making It Your Own",
+   "desc": "Use a screenshot taken in Photo Mode to decorate your private room.",
+   "hidden": false,
+   "pct": 15.2
+  },
+  {
+   "api": "trophy_048",
+   "name": "The Real Story of the Ghost Hunter",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.2
+  },
+  {
+   "api": "trophy_046",
+   "name": "Savior of Terminal Fort Knot",
+   "desc": "Prevent Terminal Fort Knot from falling victim to a voidout.",
+   "hidden": false,
+   "pct": 9.2
+  },
+  {
+   "api": "trophy_018",
+   "name": "Seasoned Porter",
+   "desc": "Complete 10 deliveries, 10 recoveries, 10 elimination/destruction standard orders with an S rank in Casual difficulty or above.",
+   "hidden": false,
+   "pct": 7.3
+  },
+  {
+   "api": "trophy_022",
+   "name": "Master Builder",
+   "desc": "Build every structure type, including tools, deployable shields, electric traps and any sign.",
+   "hidden": false,
+   "pct": 7.3
+  },
+  {
+   "api": "trophy_025",
+   "name": "Connecting Hearts and Minds",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.4
+  },
+  {
+   "api": "trophy_000",
+   "name": "Homo Liberans: The Savior of Humanity",
+   "desc": "Unlocked all achievements.",
+   "hidden": false,
+   "pct": 6.0
+  }
+ ]
+}

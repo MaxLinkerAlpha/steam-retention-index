@@ -1,0 +1,260 @@
+{
+ "appid": 553420,
+ "game": "TUNIC",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 36,
+ "achievements": [
+  {
+   "api": "STICK",
+   "name": "A Stick!",
+   "desc": "",
+   "hidden": true,
+   "pct": 96.6
+  },
+  {
+   "api": "RESURRECTION",
+   "name": "What just happened?",
+   "desc": "",
+   "hidden": true,
+   "pct": 87.2
+  },
+  {
+   "api": "SWORD",
+   "name": "A Sword!",
+   "desc": "",
+   "hidden": true,
+   "pct": 81.2
+  },
+  {
+   "api": "EASTBELL",
+   "name": "Ding",
+   "desc": "Rang the Eastern Bell",
+   "hidden": false,
+   "pct": 75.8
+  },
+  {
+   "api": "ROLLSTAB",
+   "name": "It uses stamina",
+   "desc": "",
+   "hidden": true,
+   "pct": 71.7
+  },
+  {
+   "api": "GRASS",
+   "name": "Lawnmower",
+   "desc": "",
+   "hidden": true,
+   "pct": 59.1
+  },
+  {
+   "api": "BONUSBOMB",
+   "name": "Your pocket feels heavier...",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.7
+  },
+  {
+   "api": "OFFERING",
+   "name": "Your gift is accepted",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.0
+  },
+  {
+   "api": "WESTBELL",
+   "name": "Dong",
+   "desc": "Rang the Western Bell",
+   "hidden": false,
+   "pct": 53.6
+  },
+  {
+   "api": "FUSE",
+   "name": "You hear a strange hum",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.4
+  },
+  {
+   "api": "COIN1",
+   "name": "Nothing happened...",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.4
+  },
+  {
+   "api": "HEX1",
+   "name": "Deep In The Forest",
+   "desc": "Found the red key",
+   "hidden": false,
+   "pct": 46.3
+  },
+  {
+   "api": "HEX2",
+   "name": "High Above The Clouds",
+   "desc": "Found the green key",
+   "hidden": false,
+   "pct": 44.5
+  },
+  {
+   "api": "HEX3",
+   "name": "At The Root of The World",
+   "desc": "Found the blue key",
+   "hidden": false,
+   "pct": 41.8
+  },
+  {
+   "api": "GYRO",
+   "name": "What now?",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.4
+  },
+  {
+   "api": "DASH",
+   "name": "You feel a tingling...",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.5
+  },
+  {
+   "api": "FREEZESELF",
+   "name": "Whoops",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.8
+  },
+  {
+   "api": "RELICS",
+   "name": "Your body is restored.",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.0
+  },
+  {
+   "api": "FAIRY",
+   "name": "I'm free!",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.8
+  },
+  {
+   "api": "GT1",
+   "name": "Mr Mayor",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.7
+  },
+  {
+   "api": "GT3",
+   "name": "Sacred Geometry",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.9
+  },
+  {
+   "api": "GT6",
+   "name": "Regal Weasel",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.2
+  },
+  {
+   "api": "MANUAL",
+   "name": "Thank you for playing!",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.9
+  },
+  {
+   "api": "BADEND",
+   "name": "Game Over",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.0
+  },
+  {
+   "api": "GT11",
+   "name": "Dusty",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.3
+  },
+  {
+   "api": "GT7",
+   "name": "Spring Falls",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.6
+  },
+  {
+   "api": "GT12",
+   "name": "Forever Friend",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.2
+  },
+  {
+   "api": "GT9",
+   "name": "Back to Work",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.2
+  },
+  {
+   "api": "GT5",
+   "name": "Just Some Pals",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.7
+  },
+  {
+   "api": "GT8",
+   "name": "Power Up",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.5
+  },
+  {
+   "api": "GT10",
+   "name": "Phonomath",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.9
+  },
+  {
+   "api": "GT2",
+   "name": "A Secret Legend",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.2
+  },
+  {
+   "api": "GT4",
+   "name": "Vintage",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.2
+  },
+  {
+   "api": "COIN15",
+   "name": "Well done!",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.3
+  },
+  {
+   "api": "PIGGYBANKS",
+   "name": "Too Cute To Smash",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.4
+  },
+  {
+   "api": "WRONGFIGHT",
+   "name": "Bring it to the wrong fight",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.6
+  }
+ ]
+}

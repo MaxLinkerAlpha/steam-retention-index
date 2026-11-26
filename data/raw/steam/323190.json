@@ -1,0 +1,813 @@
+{
+ "appid": 323190,
+ "game": "Frostpunk",
+ "snapshot": "2026-11-24 17:41 +08",
+ "count": 115,
+ "achievements": [
+  {
+   "api": "New Home: Lost souls",
+   "name": "Lost Souls",
+   "desc": "In the New Home scenario, save every person in Frostland",
+   "hidden": false,
+   "pct": 49.5
+  },
+  {
+   "api": "Economy: Built to serve",
+   "name": "Built to Serve",
+   "desc": "Build an automaton",
+   "hidden": false,
+   "pct": 48.5
+  },
+  {
+   "api": "New Home: Banksy",
+   "name": "Banksy",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.7
+  },
+  {
+   "api": "Society: Once more into the breach",
+   "name": "Once More unto the Breach",
+   "desc": "Provide an amputee with a prosthesis",
+   "hidden": false,
+   "pct": 47.6
+  },
+  {
+   "api": "Society: Bread and games",
+   "name": "Bread and Games",
+   "desc": "In a city of at least 200 people, ensure everyone has access to the Public House and a Fighting Arena",
+   "hidden": false,
+   "pct": 43.2
+  },
+  {
+   "api": "Society: Politician",
+   "name": "Politician",
+   "desc": "Stay in power after your people threatened to overthrow you",
+   "hidden": false,
+   "pct": 41.7
+  },
+  {
+   "api": "Society: The scientific method, vol 2",
+   "name": "The Scientific Method, vol. 2",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.6
+  },
+  {
+   "api": "New Home: Leader",
+   "name": "Leader",
+   "desc": "Finish the New Home scenario",
+   "hidden": false,
+   "pct": 41.1
+  },
+  {
+   "api": "Society: The scientific method",
+   "name": "The Scientific Method, vol. 1",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.9
+  },
+  {
+   "api": "Economy: Power overwhelming",
+   "name": "Power Overwhelming",
+   "desc": "Have a fully upgraded Generator (power, range and overdrive)",
+   "hidden": false,
+   "pct": 37.5
+  },
+  {
+   "api": "Society: Promised land",
+   "name": "Promised Land",
+   "desc": "Have maximum hope and no discontent",
+   "hidden": false,
+   "pct": 36.0
+  },
+  {
+   "api": "Society: Consolation prize",
+   "name": "Please, Sir, I Want Some More",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.0
+  },
+  {
+   "api": "Economy: Expats",
+   "name": "Expats",
+   "desc": "Set up 2 Outposts in one playthrough",
+   "hidden": false,
+   "pct": 32.6
+  },
+  {
+   "api": "Economy: Oxbridge",
+   "name": "Oxbridge",
+   "desc": "Have 4 Workshops doing research at the same time",
+   "hidden": false,
+   "pct": 32.6
+  },
+  {
+   "api": "New Home: Compassionate",
+   "name": "Compassionate",
+   "desc": "In the New Home scenario, accept all groups of refugees",
+   "hidden": false,
+   "pct": 30.3
+  },
+  {
+   "api": "New Home: United",
+   "name": "United",
+   "desc": "In the New Home scenario, don't let anyone leave for London",
+   "hidden": false,
+   "pct": 26.7
+  },
+  {
+   "api": "Economy: Summoning Shai Hulud",
+   "name": "Shai Hulud Summoner",
+   "desc": "Have 4 Coal Thumpers working at the same time",
+   "hidden": false,
+   "pct": 25.7
+  },
+  {
+   "api": "Society: Bad at politics",
+   "name": "Bad at Politics",
+   "desc": "Keep every promise made during a playthrough",
+   "hidden": false,
+   "pct": 23.1
+  },
+  {
+   "api": "Tech Haven: Technocrat",
+   "name": "Technocrat",
+   "desc": "Finish The Arks scenario",
+   "hidden": false,
+   "pct": 23.0
+  },
+  {
+   "api": "Endless: Notting Hollow",
+   "name": "Notting Hollow",
+   "desc": "Have over 600 population living in Houses only",
+   "hidden": false,
+   "pct": 23.0
+  },
+  {
+   "api": "Tech Haven: Preserver",
+   "name": "Conservationist",
+   "desc": "Save all the Seedling Arks in The Arks scenario",
+   "hidden": false,
+   "pct": 22.5
+  },
+  {
+   "api": "Economy: Holy heal",
+   "name": "Tis but a Scratch",
+   "desc": "Finish a playthrough without an Infirmary or House of Healing",
+   "hidden": false,
+   "pct": 21.6
+  },
+  {
+   "api": "Economy: Carnivore",
+   "name": "Carnivore",
+   "desc": "Having a choice, finish a scenario using only Hunters",
+   "hidden": false,
+   "pct": 19.9
+  },
+  {
+   "api": "Economy: City of man",
+   "name": "City of Man",
+   "desc": "Have more than 650 people in the city at the same time",
+   "hidden": false,
+   "pct": 19.5
+  },
+  {
+   "api": "Economy: Advanced designs",
+   "name": "Advanced Designs",
+   "desc": "Have an Advanced Coal Mine, Advanced Wall Drill and Advanced Steelworks at the same time",
+   "hidden": false,
+   "pct": 19.2
+  },
+  {
+   "api": "Endless: A Tomb for Memories",
+   "name": "A Tomb for Memories",
+   "desc": "Build the Archives",
+   "hidden": false,
+   "pct": 19.2
+  },
+  {
+   "api": "Refugee: Search and rescue",
+   "name": "Search and Rescue",
+   "desc": "Rescue all of your people coming to the City",
+   "hidden": false,
+   "pct": 18.8
+  },
+  {
+   "api": "Economy: Hyperefficient",
+   "name": "Hyperefficient",
+   "desc": "Have a workplace with efficiency greater than ... [200%]",
+   "hidden": false,
+   "pct": 18.2
+  },
+  {
+   "api": "Economy: City of steam",
+   "name": "City of Steam",
+   "desc": "Have 15 automatons at the same time",
+   "hidden": false,
+   "pct": 18.1
+  },
+  {
+   "api": "Refugee: Refugee",
+   "name": "Refugee",
+   "desc": "Finish the Refugees scenario",
+   "hidden": false,
+   "pct": 17.8
+  },
+  {
+   "api": "Refugee: Uknown Ship",
+   "name": "Unknown Ship",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.7
+  },
+  {
+   "api": "Economy: Sattelites",
+   "name": "Satellites",
+   "desc": "Finish a scenario never expanding the range of the Generator",
+   "hidden": false,
+   "pct": 14.5
+  },
+  {
+   "api": "Tech Haven: Everybody lived for once",
+   "name": "Everybody Lived for Once",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.6
+  },
+  {
+   "api": "Refugee: The Union",
+   "name": "The Union",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.3
+  },
+  {
+   "api": "Reconquest: This is New London, Over",
+   "name": "This is New London, Over",
+   "desc": "Contact New London",
+   "hidden": false,
+   "pct": 12.2
+  },
+  {
+   "api": "Builders: It was me",
+   "name": "It Was Me All Along",
+   "desc": "Find generator parts meant for Winterhome and keep them",
+   "hidden": false,
+   "pct": 11.3
+  },
+  {
+   "api": "Winterhome: Winterhome",
+   "name": "Winterhome",
+   "desc": "Finish the Fall of Winterhome scenario.",
+   "hidden": false,
+   "pct": 10.2
+  },
+  {
+   "api": "New Home: The savior",
+   "name": "The Saviour",
+   "desc": "Finish the New Home scenario with no deaths from cold, hunger, sickness or overwork",
+   "hidden": false,
+   "pct": 10.0
+  },
+  {
+   "api": "Builders: Builder",
+   "name": "Builder",
+   "desc": "Build the Generator in The Last Autumn scenario",
+   "hidden": false,
+   "pct": 9.7
+  },
+  {
+   "api": "Endless: Let There Be Light",
+   "name": "Let There Be Light",
+   "desc": "Build 10 Street Lamps",
+   "hidden": false,
+   "pct": 9.5
+  },
+  {
+   "api": "Reconquest: First Steps",
+   "name": "First Steps",
+   "desc": "Build a safe route",
+   "hidden": false,
+   "pct": 9.3
+  },
+  {
+   "api": "Endless: Rise of the Machines",
+   "name": "Rise of the Machines",
+   "desc": "Have 20 working automatons",
+   "hidden": false,
+   "pct": 8.3
+  },
+  {
+   "api": "Reconquest: Bald Mountain",
+   "name": "Bald Mountain",
+   "desc": "Cut down all the trees in Outpost 11",
+   "hidden": false,
+   "pct": 8.3
+  },
+  {
+   "api": "Economy: Autonomous city",
+   "name": "Autonomous City",
+   "desc": "In a city of at least 200, have automatons working in more than half of workplaces",
+   "hidden": false,
+   "pct": 7.8
+  },
+  {
+   "api": "Endless: Hi Marek",
+   "name": "Hi Marek!",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.8
+  },
+  {
+   "api": "Endless: There was no Waldo",
+   "name": "There was no Waldo",
+   "desc": "Explore all Frostland sites between the storms",
+   "hidden": false,
+   "pct": 7.5
+  },
+  {
+   "api": "Reconquest: We are In This Together",
+   "name": "We Are In This Together",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.2
+  },
+  {
+   "api": "Endless: Backup Plan",
+   "name": "Backup Plan",
+   "desc": "Stockpile 35 000 Coal and 10 000 Food Rations",
+   "hidden": false,
+   "pct": 7.1
+  },
+  {
+   "api": "Reconquest: I Feel Lucky",
+   "name": "I Feel Lucky",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.9
+  },
+  {
+   "api": "Reconquest: The Gardener",
+   "name": "Green Thumb",
+   "desc": "Complete all improvements in Hot Springs",
+   "hidden": false,
+   "pct": 6.2
+  },
+  {
+   "api": "Reconquest: The Defender of the Oppressed",
+   "name": "Defender of the Oppressed",
+   "desc": "Complete all improvements in Shipwreck Camp",
+   "hidden": false,
+   "pct": 6.1
+  },
+  {
+   "api": "Endless: Full House",
+   "name": "Full House",
+   "desc": "Have over 700 population",
+   "hidden": false,
+   "pct": 5.7
+  },
+  {
+   "api": "Endless: Master Archivist",
+   "name": "Master Archivist",
+   "desc": "Fill the Archives",
+   "hidden": false,
+   "pct": 5.6
+  },
+  {
+   "api": "Economy: Unqualified labor",
+   "name": "Unskilled Labour",
+   "desc": "Finish any scenario without constructing Steam or Advanced buildings",
+   "hidden": false,
+   "pct": 5.4
+  },
+  {
+   "api": "Economy: Worse than London",
+   "name": "Worse than London",
+   "desc": "Finish a playthrough without building a single House or Bunkhouse",
+   "hidden": false,
+   "pct": 5.4
+  },
+  {
+   "api": "Endless: Hyde Park Corner",
+   "name": "Hyde Park Corner",
+   "desc": "Have a Town Square of each size",
+   "hidden": false,
+   "pct": 5.4
+  },
+  {
+   "api": "New Home: Negotiator",
+   "name": "Negotiator",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.2
+  },
+  {
+   "api": "Builders: Perfectionist",
+   "name": "Perfectionist",
+   "desc": "Build a Generator with all upgrades and no construction faults",
+   "hidden": false,
+   "pct": 5.2
+  },
+  {
+   "api": "Economy: Central heating",
+   "name": "Central Heating",
+   "desc": "Finish a scenario without building a single Steam Hub",
+   "hidden": false,
+   "pct": 5.1
+  },
+  {
+   "api": "Winterhome: All children on board",
+   "name": "All children on board",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.1
+  },
+  {
+   "api": "Endless: Walk on the Grass",
+   "name": "Walk on the Grass",
+   "desc": "Have a Garden of each size",
+   "hidden": false,
+   "pct": 5.0
+  },
+  {
+   "api": "Builders: Messrs Gabriel",
+   "name": "Messrs Gabriel",
+   "desc": "Use Telegraph Station 20 or more times",
+   "hidden": false,
+   "pct": 4.8
+  },
+  {
+   "api": "Reconquest: Frostland Explorer",
+   "name": "Frostland Explorer",
+   "desc": "Explore all Frostland sites in On The Edge scenario",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "Reconquest: All Your Base Are Connect To Us",
+   "name": "All Your Base Are Connect To Us",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.7
+  },
+  {
+   "api": "Economy: Vegetarian",
+   "name": "Vegetarian",
+   "desc": "Having a choice, finish a scenario using only Hothouses",
+   "hidden": false,
+   "pct": 4.6
+  },
+  {
+   "api": "Builders: Weathering the Storm",
+   "name": "Weathering the Storm",
+   "desc": "Build the Generator with no damage from storms in Endless Mode",
+   "hidden": false,
+   "pct": 4.4
+  },
+  {
+   "api": "Reconquest: The Contractor",
+   "name": "Contractor",
+   "desc": "Develop all settlements to the highest level",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "Builders: Before Christmass",
+   "name": "I'll Be Home for Christmas",
+   "desc": "Build the Generator in The Last Autumn scenario before the last shipment",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "Builders: Ducks in a Row",
+   "name": "Ducks in a Row",
+   "desc": "Build the Generator in The Last Autumn scenario without pauses between construction of its parts longer than 24 hours",
+   "hidden": false,
+   "pct": 3.5
+  },
+  {
+   "api": "Endless: Marathon Medium",
+   "name": "Marathon Medium",
+   "desc": "Survive 50 days of Endurance mode on Medium or higher difficulty",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "Economy: Better than London",
+   "name": "Better than London",
+   "desc": "Finish a playthrough without building a single Tent",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "Builders: Winter Ready",
+   "name": "Winter Ready",
+   "desc": "Build the Generator before the weather changes in Endless Mode",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "Winterhome: Full Dreadnought",
+   "name": "Full Dreadnought",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.2
+  },
+  {
+   "api": "Endless: By the Sweat of their Brow",
+   "name": "By the Sweat of their Brow",
+   "desc": "Survive 75 days without having automatons",
+   "hidden": false,
+   "pct": 3.0
+  },
+  {
+   "api": "Builders: No Crunch",
+   "name": "No Crunch",
+   "desc": "Build the generator in The Last Autumn scenario using neither Two Shifts nor Extended Shifts",
+   "hidden": false,
+   "pct": 3.0
+  },
+  {
+   "api": "New Home: Iron mam",
+   "name": "Iron Man (New Home)",
+   "desc": "Finish the New Home scenario on Hard difficulty",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "Tech Haven: Sprinter",
+   "name": "Sprinter",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "Reconquest: The Babysitter",
+   "name": "Guardian",
+   "desc": "Complete all improvements in Children's Mine",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "Builders: Bonus Pater Familias",
+   "name": "Bonus Pater Familias",
+   "desc": "Build the Generator in The Last Autumn scenario without anyone dying",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "Reconquest: Social Activist",
+   "name": "Social Activist",
+   "desc": "Make all other settlements loyal to you",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "Economy: Charcoaled",
+   "name": "Charcoaled",
+   "desc": "Finish a playthrough with Charcoal Kilns as the only buildings that provide Coal",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "Economy: Urban planner",
+   "name": "Urban Planner",
+   "desc": "Have 300 people living in the heat zone of a single Steam Hub",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "Reconquest: Unforgiven",
+   "name": "Unforgiven",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.3
+  },
+  {
+   "api": "Endless: Ultramarathon Medium",
+   "name": "Ultramarathon Medium",
+   "desc": "Survive 100 days of Endurance mode on Medium or higher difficulty",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "Builders: One More Day Syndrome",
+   "name": "One More Day Syndrome",
+   "desc": "Build the Generator and reach day 100 in Endless Mode",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "New Home: My turn to speak",
+   "name": "My Turn to Speak",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.0
+  },
+  {
+   "api": "Tech Haven: Iron man (Tech Haven)",
+   "name": "Iron Man (The Arks)",
+   "desc": "Finish The Arks scenario on Hard difficulty",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "Builders: Fisher King",
+   "name": "Fisher King",
+   "desc": "Build the Generator in The Last Autumn scenario without setting up any Foragers' Camps",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "New Home: Survivor mode",
+   "name": "New Home Survivor",
+   "desc": "Finish the New Home scenario in Survivor Mode.",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "Endless: Endless Social Activist",
+   "name": "Endless Social Activist",
+   "desc": "Make all other settlements loyal to you in Endless Mode",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "New Home: The Iron savior",
+   "name": "The Iron Saviour",
+   "desc": "Finish the New Home scenario with no deaths from cold, hunger, sickness or overwork on Hard difficulty",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "Endless: Clever Negotiator",
+   "name": "I See Friends Holding Hands",
+   "desc": "Have an ally send Emergency Aid to another settlement",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "New Home: Golden path",
+   "name": "Golden Path",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.5
+  },
+  {
+   "api": "Refugee: Iron man (Refugees)",
+   "name": "Iron Man (Refugees)",
+   "desc": "Finish the Refugees scenario on Hard difficulty",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "Tech Haven: Survivor mode",
+   "name": "The Arks Survivor",
+   "desc": "Finish The Arks scenario in Survivor Mode.",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "Endless: Marathon Hard",
+   "name": "Marathon Hard",
+   "desc": "Survive 50 days of Endurance mode on Hard or higher difficulty",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "Winterhome: Iron man (Winterhome)",
+   "name": "Iron Man (Fall of Winterhome)",
+   "desc": "Finish the Fall of Winterhome scenario on Hard difficulty.",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "Endless: Marathon Extreme",
+   "name": "Marathon Extreme",
+   "desc": "Survive 50 days of Endurance mode on Extreme difficulty",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "Builders: Iron man (The Last Autumn)",
+   "name": "Iron Man (The Last Autumn)",
+   "desc": "Build the Generator in The Last Autumn scenario on Hard difficulty",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "Reconquest: You Had To Do It",
+   "name": "You Had To Do It",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.2
+  },
+  {
+   "api": "Refugees: Survivor mode",
+   "name": "Refugees Survivor",
+   "desc": "Finish the Refugees scenario in Survivor Mode.",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "Endless: Ultramarathon Hard",
+   "name": "Ultramarathon Hard",
+   "desc": "Survive 100 days of Endurance mode on Hard or higher difficulty",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "Builders: Waterfront",
+   "name": "On the Waterfront",
+   "desc": "Have 4 Advanced Docks and 12 Reloading Stations working at the same time",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "Builders: Not great, not terrible",
+   "name": "Not great, not terrible",
+   "desc": "Build the Generator in The Last Autumn scenario, employing people neither in Safe nor Deadly workplaces",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "Winterhome: Survivor mode",
+   "name": "The Winterhome Survivor",
+   "desc": "Finish the Fall of Winterhome scenario in Survivor Mode.",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "Endless: Ultramarathon Extreme",
+   "name": "Ultramarathon Extreme",
+   "desc": "Survive 100 days of Endurance mode on Extreme difficulty",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "Builders: Survivor mode",
+   "name": "The Last Autumn Survivor",
+   "desc": "Build the Generator in The Last Autumn scenario in Survivor Mode.",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "Builders: Emission reduction",
+   "name": "Emissions Reduction",
+   "desc": "Build the Generator in The Last Autumn scenario using no Coal consuming buildings",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "Builders: A for Effort",
+   "name": "A for Effort",
+   "desc": "Build a Generator with all construction faults in Endless Mode",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "Reconquest: Iron Man (On the Edge)",
+   "name": "Iron Man (On The Edge)",
+   "desc": "Finish On The Edge scenario on Hard difficulty",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "Builders: Watchtower",
+   "name": "All Along the Watchtower",
+   "desc": "Build the Generator in The Last Autumn scenario with only convicts and engineers left at the end",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "Builders: Arise Ye Workers",
+   "name": "Arise Ye Workers",
+   "desc": "Build the Generator in The Last Autumn scenario with only workers left at the end",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "Reconquest: On the Edge Survivor",
+   "name": "On The Edge Survivor",
+   "desc": "Finish On The Edge scenario in Survivor Mode",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "Reconquest: Slave Driver",
+   "name": "Slave Driver",
+   "desc": "Make all other settlements distrustful towards you",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "Endless: Endless Slave Driver",
+   "name": "Endless Slave Driver",
+   "desc": "Make all other settlements distrustful towards you in Endless Mode",
+   "hidden": false,
+   "pct": 0.7
+  }
+ ]
+}

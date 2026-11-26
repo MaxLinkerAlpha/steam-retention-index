@@ -1,0 +1,967 @@
+{
+ "appid": 105600,
+ "game": "Terraria",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 137,
+ "achievements": [
+  {
+   "api": "TIMBER",
+   "name": "Timber!!",
+   "desc": "Chop down your first tree.",
+   "hidden": false,
+   "pct": 87.0
+  },
+  {
+   "api": "YOU_CAN_DO_IT",
+   "name": "You Can Do It!",
+   "desc": "Survive your character's first full night.",
+   "hidden": false,
+   "pct": 77.4
+  },
+  {
+   "api": "OOO_SHINY",
+   "name": "Ooo! Shiny!",
+   "desc": "Mine your first nugget of ore with a pickaxe.",
+   "hidden": false,
+   "pct": 77.1
+  },
+  {
+   "api": "NO_HOBO",
+   "name": "No Hobo",
+   "desc": "Build a house suitable enough for your first town NPC, such as the guide, to move into.",
+   "hidden": false,
+   "pct": 70.8
+  },
+  {
+   "api": "MATCHING_ATTIRE",
+   "name": "Matching Attire",
+   "desc": "Equip armor in all three armor slots: head, chest, and feet.",
+   "hidden": false,
+   "pct": 68.0
+  },
+  {
+   "api": "OBTAIN_HAMMER",
+   "name": "Stop! Hammer Time!",
+   "desc": "Obtain your first hammer via crafting or otherwise.",
+   "hidden": false,
+   "pct": 66.2
+  },
+  {
+   "api": "I_AM_LOOT",
+   "name": "I Am Loot!",
+   "desc": "Discover a golden chest underground and take a peek at its contents.",
+   "hidden": false,
+   "pct": 64.9
+  },
+  {
+   "api": "BENCHED",
+   "name": "Benched",
+   "desc": "Craft your first work bench.",
+   "hidden": false,
+   "pct": 63.7
+  },
+  {
+   "api": "HEART_BREAKER",
+   "name": "Heart Breaker",
+   "desc": "Discover and smash your first heart crystal underground.",
+   "hidden": false,
+   "pct": 59.6
+  },
+  {
+   "api": "WATCH_YOUR_STEP",
+   "name": "Watch Your Step!",
+   "desc": "Become a victim to a nasty underground trap.",
+   "hidden": false,
+   "pct": 59.0
+  },
+  {
+   "api": "STAR_POWER",
+   "name": "Star Power",
+   "desc": "Craft a mana crystal out of fallen stars, and consume it.",
+   "hidden": false,
+   "pct": 58.6
+  },
+  {
+   "api": "HEAVY_METAL",
+   "name": "Heavy Metal",
+   "desc": "Obtain an anvil made from iron or lead.",
+   "hidden": false,
+   "pct": 53.9
+  },
+  {
+   "api": "EYE_ON_YOU",
+   "name": "Eye on You",
+   "desc": "Defeat the Eye of Cthulhu, an ocular menace who only appears at night.",
+   "hidden": false,
+   "pct": 51.8
+  },
+  {
+   "api": "LIKE_A_BOSS",
+   "name": "Like a Boss",
+   "desc": "Obtain a boss-summoning item.",
+   "hidden": false,
+   "pct": 51.8
+  },
+  {
+   "api": "BLOODBATH",
+   "name": "Bloodbath",
+   "desc": "Survive a blood moon, a nocturnal event where the rivers run red and monsters swarm aplenty.",
+   "hidden": false,
+   "pct": 51.5
+  },
+  {
+   "api": "HOLD_ON_TIGHT",
+   "name": "Hold on Tight!",
+   "desc": "Equip your first grappling hook.",
+   "hidden": false,
+   "pct": 51.4
+  },
+  {
+   "api": "SMASHING_POPPET",
+   "name": "Smashing, Poppet!",
+   "desc": "Using explosives or your trusty hammer, smash a Shadow Orb or Crimson Heart in the evil parts of your world.",
+   "hidden": false,
+   "pct": 51.0
+  },
+  {
+   "api": "HEAD_IN_THE_CLOUDS",
+   "name": "Head in the Clouds",
+   "desc": "Equip a pair of wings.",
+   "hidden": false,
+   "pct": 50.1
+  },
+  {
+   "api": "ITS_GETTING_HOT_IN_HERE",
+   "name": "It's Getting Hot in Here",
+   "desc": "Spelunk deep enough to reach the molten underworld.",
+   "hidden": false,
+   "pct": 49.6
+  },
+  {
+   "api": "PRETTY_IN_PINK",
+   "name": "Pretty in Pink",
+   "desc": "Kill pinky.",
+   "hidden": false,
+   "pct": 49.5
+  },
+  {
+   "api": "VEHICULAR_MANSLAUGHTER",
+   "name": "Vehicular Manslaughter",
+   "desc": "Defeat an enemy by running it over with a minecart.",
+   "hidden": false,
+   "pct": 48.9
+  },
+  {
+   "api": "JEEPERS_CREEPERS",
+   "name": "Jeepers Creepers",
+   "desc": "Stumble into a spider cavern in the underground.",
+   "hidden": false,
+   "pct": 48.2
+  },
+  {
+   "api": "FASHION_STATEMENT",
+   "name": "Fashion Statement",
+   "desc": "Equip armor or vanity clothing in all three social slots.",
+   "hidden": false,
+   "pct": 48.1
+  },
+  {
+   "api": "GOBLIN_PUNTER",
+   "name": "Goblin Punter",
+   "desc": "Triumph over a goblin invasion, a ragtag regiment of crude, barbaric, pointy-eared warriors and their shadowflame sorcerers.",
+   "hidden": false,
+   "pct": 46.1
+  },
+  {
+   "api": "THROWING_LINES",
+   "name": "Throwing Lines",
+   "desc": "Throw a yoyo.",
+   "hidden": false,
+   "pct": 45.9
+  },
+  {
+   "api": "FIND_A_FAIRY",
+   "name": "Hey! Listen!",
+   "desc": "Encounter a fairy.",
+   "hidden": false,
+   "pct": 45.8
+  },
+  {
+   "api": "MARATHON_MEDALIST",
+   "name": "Marathon Medalist",
+   "desc": "Travel a total of 26.2 miles on foot.",
+   "hidden": false,
+   "pct": 45.1
+  },
+  {
+   "api": "SLIPPERY_SHINOBI",
+   "name": "Slippery Shinobi",
+   "desc": "Defeat King Slime, the lord of all things slimy.",
+   "hidden": false,
+   "pct": 43.6
+  },
+  {
+   "api": "BONED",
+   "name": "Boned",
+   "desc": "Defeat Skeletron, the cursed guardian of the dungeon.",
+   "hidden": false,
+   "pct": 43.4
+  },
+  {
+   "api": "LUCKY_BREAK",
+   "name": "Lucky Break",
+   "desc": "Survive a long fall with just a sliver of health remaining.",
+   "hidden": false,
+   "pct": 42.5
+  },
+  {
+   "api": "THE_CAVALRY",
+   "name": "The Cavalry",
+   "desc": "Equip a mount.",
+   "hidden": false,
+   "pct": 42.5
+  },
+  {
+   "api": "INTO_ORBIT",
+   "name": "Into Orbit",
+   "desc": "You can only go down from here!",
+   "hidden": false,
+   "pct": 41.8
+  },
+  {
+   "api": "FOUND_GRAVEYARD",
+   "name": "Quiet Neighborhood",
+   "desc": "Enter a misty graveyard filled with the surly dead.",
+   "hidden": false,
+   "pct": 41.6
+  },
+  {
+   "api": "WHERES_MY_HONEY",
+   "name": "Where's My Honey?",
+   "desc": "Discover a large bee's hive deep in the jungle.",
+   "hidden": false,
+   "pct": 41.4
+  },
+  {
+   "api": "DUNGEON_HEIST",
+   "name": "Dungeon Heist",
+   "desc": "Steal a key from the dungeon's undead denizens, and unlock one of their precious golden chests.",
+   "hidden": false,
+   "pct": 40.6
+  },
+  {
+   "api": "STING_OPERATION",
+   "name": "Sting Operation",
+   "desc": "Defeat the Queen Bee, the matriarch of the jungle hives.",
+   "hidden": false,
+   "pct": 39.8
+  },
+  {
+   "api": "BULLDOZER",
+   "name": "Bulldozer",
+   "desc": "Destroy a total of 10,000 tiles.",
+   "hidden": false,
+   "pct": 39.4
+  },
+  {
+   "api": "STILL_HUNGRY",
+   "name": "Still Hungry",
+   "desc": "Defeat the Wall of Flesh, the master and core of the world who arises after a great, burning sacrifice.",
+   "hidden": false,
+   "pct": 39.3
+  },
+  {
+   "api": "ITS_HARD",
+   "name": "It's Hard!",
+   "desc": "Unleash the ancient spirits of light and darkness across your world, enabling much stronger foes and showering the world with dazzling treasures (and rainbows!).",
+   "hidden": false,
+   "pct": 39.1
+  },
+  {
+   "api": "STICKY_SITUATION",
+   "name": "Sticky Situation",
+   "desc": "Survive the slime rain, where gelatinous organisms fall from the sky in droves.",
+   "hidden": false,
+   "pct": 37.7
+  },
+  {
+   "api": "BEGONE_EVIL",
+   "name": "Begone, Evil!",
+   "desc": "Smash a demon or crimson altar with a powerful, holy hammer.",
+   "hidden": false,
+   "pct": 37.4
+  },
+  {
+   "api": "TIL_DEATH",
+   "name": "Til Death...",
+   "desc": "Kill the groom.",
+   "hidden": false,
+   "pct": 36.5
+  },
+  {
+   "api": "EXTRA_SHINY",
+   "name": "Extra Shiny!",
+   "desc": "Mine a powerful ore that has been newly blessed upon your world.",
+   "hidden": false,
+   "pct": 35.6
+  },
+  {
+   "api": "MASTERMIND",
+   "name": "Mastermind",
+   "desc": "Defeat the Brain of Cthulhu, an enourmous demon brain which haunts the creeping crimson.",
+   "hidden": false,
+   "pct": 35.4
+  },
+  {
+   "api": "WORM_FODDER",
+   "name": "Worm Fodder",
+   "desc": "Defeat the Eater of Worlds, a massive worm whom dwells in the corruption.",
+   "hidden": false,
+   "pct": 35.2
+  },
+  {
+   "api": "DECEIVER_OF_FOOLS",
+   "name": "Deceiver of Fools",
+   "desc": "Kill a nymph.",
+   "hidden": false,
+   "pct": 34.5
+  },
+  {
+   "api": "THERE_ARE_SOME_WHO_CALL_HIM",
+   "name": "There are Some Who Call Him...",
+   "desc": "Kill Tim.",
+   "hidden": false,
+   "pct": 33.7
+  },
+  {
+   "api": "PET_THE_PET",
+   "name": "Feeling Petty",
+   "desc": "Deliver headpats to the town pet.",
+   "hidden": false,
+   "pct": 32.7
+  },
+  {
+   "api": "GET_A_LIFE",
+   "name": "Get a Life",
+   "desc": "Consume a life fruit, which grows in the thick of subterranean jungle grass.",
+   "hidden": false,
+   "pct": 32.5
+  },
+  {
+   "api": "WALK_THE_PLANK",
+   "name": "Walk the Plank",
+   "desc": "Triumph over a pirate invasion, a group of pillagers from the sea out for your booty... and your life!",
+   "hidden": false,
+   "pct": 32.1
+  },
+  {
+   "api": "ROBBING_THE_GRAVE",
+   "name": "Robbing the Grave",
+   "desc": "Obtain a rare treasure from a difficult monster in the dungeon.",
+   "hidden": false,
+   "pct": 31.1
+  },
+  {
+   "api": "BUCKETS_OF_BOLTS",
+   "name": "Buckets of Bolts",
+   "desc": "Defeat the three nocturnal mechanical menaces: the Twins, the Destroyer, and Skeletron Prime.",
+   "hidden": false,
+   "pct": 30.9
+  },
+  {
+   "api": "COMPLETELY_AWESOME",
+   "name": "Completely Awesome",
+   "desc": "Obtain a minishark.",
+   "hidden": false,
+   "pct": 30.8
+  },
+  {
+   "api": "KILL_THE_SUN",
+   "name": "Kill the Sun",
+   "desc": "Survive a solar eclipse, a day darker than night filled with creatures of horror.",
+   "hidden": false,
+   "pct": 30.7
+  },
+  {
+   "api": "DIE_TO_DEAD_MANS_CHEST",
+   "name": "Dead Men Tell No Tales",
+   "desc": "You were so preoccupied with whether or not you could open the chest that you didn't stop to think if you should.",
+   "hidden": false,
+   "pct": 30.0
+  },
+  {
+   "api": "THE_GREAT_SOUTHERN_PLANTKILL",
+   "name": "The Great Southern Plantkill",
+   "desc": "Defeat Plantera, the overgrown monstrosity of the jungle's depths.",
+   "hidden": false,
+   "pct": 29.6
+  },
+  {
+   "api": "PHOTOSYNTHESIS",
+   "name": "Photosynthesis",
+   "desc": "Mine chlorophyte, an organic ore found deep among the thickest of flora.",
+   "hidden": false,
+   "pct": 28.9
+  },
+  {
+   "api": "LIHZAHRDIAN_IDOL",
+   "name": "Lihzahrdian Idol",
+   "desc": "Defeat Golem, the stone-faced ritualistic idol of the lihzahrd tribe.",
+   "hidden": false,
+   "pct": 28.6
+  },
+  {
+   "api": "MINER_FOR_FIRE",
+   "name": "Miner for Fire",
+   "desc": "Craft a molten pickaxe using the hottest of materials.",
+   "hidden": false,
+   "pct": 28.3
+  },
+  {
+   "api": "FREQUENT_FLYER",
+   "name": "The Frequent Flyer",
+   "desc": "Spend over 1 gold being treated by the nurse.",
+   "hidden": false,
+   "pct": 28.3
+  },
+  {
+   "api": "TURN_GNOME_TO_STATUE",
+   "name": "Heliophobia",
+   "desc": "Trick a gnome into turning into stone!",
+   "hidden": false,
+   "pct": 28.3
+  },
+  {
+   "api": "FUNKYTOWN",
+   "name": "Funkytown",
+   "desc": "Build or encounter a glowing mushroom field above the surface.",
+   "hidden": false,
+   "pct": 27.5
+  },
+  {
+   "api": "TEMPLE_RAIDER",
+   "name": "Temple Raider",
+   "desc": "Breach the impenetrable walls of the jungle temple.",
+   "hidden": false,
+   "pct": 26.6
+  },
+  {
+   "api": "THROW_A_PARTY",
+   "name": "Jolly Jamboree",
+   "desc": "What you're celebrating doesn't matter, just throw a party already!",
+   "hidden": false,
+   "pct": 26.6
+  },
+  {
+   "api": "OBSESSIVE_DEVOTION",
+   "name": "Obsessive Devotion",
+   "desc": "Defeat the Ancient Cultist, fanatical leader of the dungeon coven.",
+   "hidden": false,
+   "pct": 26.5
+  },
+  {
+   "api": "TOPPED_OFF",
+   "name": "Topped Off",
+   "desc": "Attain maximum health and mana possible without accessories or buffs.",
+   "hidden": false,
+   "pct": 26.5
+  },
+  {
+   "api": "ROCK_BOTTOM",
+   "name": "Rock Bottom",
+   "desc": "The only way is up!",
+   "hidden": false,
+   "pct": 25.6
+  },
+  {
+   "api": "CHAMPION_OF_TERRARIA",
+   "name": "Champion of Terraria",
+   "desc": "Defeat the Moon Lord.",
+   "hidden": false,
+   "pct": 24.7
+  },
+  {
+   "api": "TIN_FOIL_HATTER",
+   "name": "Tin-Foil Hatter",
+   "desc": "Triumph over a martian invasion, when beings from out of this world come to scramble your brains and probe you in uncomfortable places.",
+   "hidden": false,
+   "pct": 24.7
+  },
+  {
+   "api": "SWORD_OF_THE_HERO",
+   "name": "Sword of the Hero",
+   "desc": "Obtain a Terra Blade, forged from the finest blades of light and darkness.",
+   "hidden": false,
+   "pct": 24.3
+  },
+  {
+   "api": "STAR_DESTROYER",
+   "name": "Star Destroyer",
+   "desc": "Defeat the four celestial towers of the moon.",
+   "hidden": false,
+   "pct": 23.1
+  },
+  {
+   "api": "DRAX_ATTAX",
+   "name": "Drax Attax",
+   "desc": "Craft a drax or pickaxe axe using hallowed bars, and the souls of the three mechanical bosses.",
+   "hidden": false,
+   "pct": 22.9
+  },
+  {
+   "api": "FISH_OUT_OF_WATER",
+   "name": "Fish Out of Water",
+   "desc": "Defeat Duke Fishron, mutant terror of the sea.",
+   "hidden": false,
+   "pct": 22.5
+  },
+  {
+   "api": "DEFEAT_QUEEN_SLIME",
+   "name": "Just Desserts",
+   "desc": "Defeat Queen Slime, giving the coup-de-grace to the sovereign of all that jiggles.",
+   "hidden": false,
+   "pct": 21.7
+  },
+  {
+   "api": "BIG_BOOTY",
+   "name": "Big Booty",
+   "desc": "Unlock one of the dungeon's large, mysterious chests with a special key.",
+   "hidden": false,
+   "pct": 21.6
+  },
+  {
+   "api": "SICK_THROW",
+   "name": "Sick Throw",
+   "desc": "Obtain the Terrarian.",
+   "hidden": false,
+   "pct": 21.0
+  },
+  {
+   "api": "SLAYER_OF_WORLDS",
+   "name": "Slayer of Worlds",
+   "desc": "Defeat every boss in Terraria.",
+   "hidden": false,
+   "pct": 21.0
+  },
+  {
+   "api": "SERVANT_IN_TRAINING",
+   "name": "Servant-in-Training",
+   "desc": "Complete your 1st quest for the angler.",
+   "hidden": false,
+   "pct": 20.8
+  },
+  {
+   "api": "IT_CAN_TALK",
+   "name": "It Can Talk?!",
+   "desc": "Build a house in a mushroom biome and have the Truffle move in.",
+   "hidden": false,
+   "pct": 20.3
+  },
+  {
+   "api": "TRANSMUTE_ITEM",
+   "name": "A Shimmer In The Dark",
+   "desc": "Shimmer an item into another item. What other transmutations can you find?",
+   "hidden": false,
+   "pct": 20.3
+  },
+  {
+   "api": "ARCHAEOLOGIST",
+   "name": "Archaeologist",
+   "desc": "Kill Doctor Bones.",
+   "hidden": false,
+   "pct": 20.2
+  },
+  {
+   "api": "BALEFUL_HARVEST",
+   "name": "Baleful Harvest",
+   "desc": "Reach the 15th wave of a pumpkin moon, where evil lurks among the autumn harvest.",
+   "hidden": false,
+   "pct": 19.7
+  },
+  {
+   "api": "TALK_TO_NPC_AT_MAX_HAPPINESS",
+   "name": "Leading Landlord",
+   "desc": "Meet with a tenant who's as happy as they possibly can be!",
+   "hidden": false,
+   "pct": 19.2
+  },
+  {
+   "api": "GET_TERRASPARK_BOOTS",
+   "name": "Boots of the Hero",
+   "desc": "Obtain the Terraspark Boots, forged from the finest boots of fire and ice.",
+   "hidden": false,
+   "pct": 18.5
+  },
+  {
+   "api": "GET_ZENITH",
+   "name": "Infinity +1 Sword",
+   "desc": "Obtain the Zenith, the culmination of a journey forged into the ultimate sword.",
+   "hidden": false,
+   "pct": 17.8
+  },
+  {
+   "api": "REAL_ESTATE_AGENT",
+   "name": "Real Estate Agent",
+   "desc": "Have all possible town NPCs living in your world.",
+   "hidden": false,
+   "pct": 16.3
+  },
+  {
+   "api": "DEFEAT_DEERCLOPS",
+   "name": "An Eye For An Eye",
+   "desc": "Defeat Deerclops, the chilly one-eyed monstrosity from a foreign land.",
+   "hidden": false,
+   "pct": 16.0
+  },
+  {
+   "api": "DEFEAT_EMPRESS_OF_LIGHT",
+   "name": "Fae Flayer",
+   "desc": "Defeat the Empress of Light, responsible for all those flashy lights and glitter.",
+   "hidden": false,
+   "pct": 15.5
+  },
+  {
+   "api": "GELATIN_WORLD_TOUR",
+   "name": "Gelatin World Tour",
+   "desc": "Defeat every type of slime there is!",
+   "hidden": false,
+   "pct": 15.3
+  },
+  {
+   "api": "FLY_A_KITE_ON_A_WINDY_DAY",
+   "name": "A Rather Blustery Day",
+   "desc": "Fly a kite on a windy day.",
+   "hidden": false,
+   "pct": 15.3
+  },
+  {
+   "api": "DYE_HARD",
+   "name": "Dye Hard",
+   "desc": "Equip a dye in every possible dye slot.",
+   "hidden": false,
+   "pct": 14.4
+  },
+  {
+   "api": "DO_YOU_WANT_TO_SLAY_A_SNOWMAN",
+   "name": "Do You Want to Slay a Snowman?",
+   "desc": "Triumph over the frost legion, a festive family of maniacal snowman mobsters.",
+   "hidden": false,
+   "pct": 13.6
+  },
+  {
+   "api": "YOU_AND_WHAT_ARMY",
+   "name": "You and What Army?",
+   "desc": "Command nine summoned minions simultaneously.",
+   "hidden": false,
+   "pct": 13.6
+  },
+  {
+   "api": "GLORIOUS_GOLDEN_POLE",
+   "name": "Glorious Golden Pole",
+   "desc": "Obtain a golden fishing rod.",
+   "hidden": false,
+   "pct": 13.3
+  },
+  {
+   "api": "MECHA_MAYHEM",
+   "name": "Mecha Mayhem",
+   "desc": "Do battle against the Twins, the Destroyer, and Skeletron Prime simultaneously and emerge victorious.",
+   "hidden": false,
+   "pct": 13.1
+  },
+  {
+   "api": "ICE_SCREAM",
+   "name": "Ice Scream",
+   "desc": "Reach the 15th wave of a frost moon, where the festive season quickly degrades into madness.",
+   "hidden": false,
+   "pct": 13.0
+  },
+  {
+   "api": "GOOD_LITTLE_SLAVE",
+   "name": "Good Little Slave",
+   "desc": "Complete your 10th quest for the angler.",
+   "hidden": false,
+   "pct": 12.7
+  },
+  {
+   "api": "PLAY_ON_A_SPECIAL_SEED",
+   "name": "A Rare Realm",
+   "desc": "Some very special seeds can lead to unique and rewarding experiences. Can you find one?",
+   "hidden": false,
+   "pct": 12.7
+  },
+  {
+   "api": "DEFEAT_OLD_ONES_ARMY_TIER3",
+   "name": "Hero of Etheria",
+   "desc": "Repel the strongest forces the Old One's Army can muster.",
+   "hidden": false,
+   "pct": 12.2
+  },
+  {
+   "api": "PRISMANCER",
+   "name": "Prismancer",
+   "desc": "Obtain a rainbow rod.",
+   "hidden": false,
+   "pct": 12.0
+  },
+  {
+   "api": "GET_ANKH_SHIELD",
+   "name": "Ankhumulation Complete",
+   "desc": "Obtain the Ankh Shield, the finest protection from unpleasant maladies and ailments.",
+   "hidden": false,
+   "pct": 11.9
+  },
+  {
+   "api": "GOING_OLDSCHOOL",
+   "name": "Going Oldschool",
+   "desc": "Bring back the original title screen.",
+   "hidden": false,
+   "pct": 11.1
+  },
+  {
+   "api": "GAIN_TORCH_GODS_FAVOR",
+   "name": "Torch God",
+   "desc": "Invoked the wrath of the God of Torches, and survived long enough to earn its blessing.",
+   "hidden": false,
+   "pct": 10.5
+  },
+  {
+   "api": "GET_CELL_PHONE",
+   "name": "Black Mirror",
+   "desc": "Obtain the Cell Phone. You'll never leave home without it again.",
+   "hidden": false,
+   "pct": 10.1
+  },
+  {
+   "api": "TROUT_MONKEY",
+   "name": "Trout Monkey",
+   "desc": "Complete your 25th quest for the angler.",
+   "hidden": false,
+   "pct": 9.7
+  },
+  {
+   "api": "DEFEAT_DREADNAUTILUS",
+   "name": "Don't Dread on Me",
+   "desc": "Defeat the Dreadnautilus, murderous mollusk lurking beneath the surface of the sanguine seas.",
+   "hidden": false,
+   "pct": 9.7
+  },
+  {
+   "api": "NOT_THE_BEES",
+   "name": "Not the Bees!",
+   "desc": "Fire a Bee Gun while wearing a full set of Bee Armor.",
+   "hidden": false,
+   "pct": 9.1
+  },
+  {
+   "api": "GO_LAVA_FISHING",
+   "name": "Hot Reels!",
+   "desc": "Drop a lure in a pool of lava for a pre-fried haul!",
+   "hidden": false,
+   "pct": 9.1
+  },
+  {
+   "api": "FORTUNE_FAVORS_THE_BOULD",
+   "name": "Fortune Favors the Bould",
+   "desc": "Discover a friendly boulder.",
+   "hidden": false,
+   "pct": 7.9
+  },
+  {
+   "api": "RAINBOWS_AND_UNICORNS",
+   "name": "Rainbows and Unicorns",
+   "desc": "Fire a rainbow gun while riding on a unicorn.",
+   "hidden": false,
+   "pct": 7.3
+  },
+  {
+   "api": "FAST_AND_FISHIOUS",
+   "name": "Fast and Fishious",
+   "desc": "Complete your 50th quest for the angler.",
+   "hidden": false,
+   "pct": 6.9
+  },
+  {
+   "api": "GET_GOLDEN_DELIGHT",
+   "name": "Feast of Midas",
+   "desc": "Obtain Golden Delight, the highest quality meal made from the highest quality . . . ingredients.",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "ALL_TOWN_SLIMES",
+   "name": "The Great Slime Mitosis",
+   "desc": "Find all of the Slime Pets and have them move in!",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "TO_INFINITY_AND_BEYOND",
+   "name": "To Infinity... and Beyond!",
+   "desc": "Fly a Kwad Racer into outer space.",
+   "hidden": false,
+   "pct": 5.4
+  },
+  {
+   "api": "DRINK_BOTTLED_WATER_WHILE_DROWNING",
+   "name": "Unusual Survival Strategies",
+   "desc": "Delay death from drowning by drinking water. It doesn't make much sense, but you did what you had to do.",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "SPICY_LICKS",
+   "name": "Spicy Licks",
+   "desc": "Jam out on a six stringed instrument.",
+   "hidden": false,
+   "pct": 4.2
+  },
+  {
+   "api": "NEW_DIGS",
+   "name": "New Digs",
+   "desc": "Give any villager a new look.",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "CONSERVATIONIST",
+   "name": "Conservationist",
+   "desc": "Support sustainable logging by planting 100 acorns.",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "SUPREME_HELPER_MINION",
+   "name": "Supreme Helper Minion!",
+   "desc": "Complete a grand total of 200 quests for the angler.",
+   "hidden": false,
+   "pct": 3.0
+  },
+  {
+   "api": "TRAINING_DAY",
+   "name": "Training Day",
+   "desc": "Get your villagers fully combat ready.",
+   "hidden": false,
+   "pct": 3.0
+  },
+  {
+   "api": "PURIFY_ENTIRE_WORLD",
+   "name": "And Good Riddance!",
+   "desc": "Completely purify all Corruption, Crimson, and Hallow from your world, until the Dryad is satisfied!",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "ORGANIZED_CHAOS",
+   "name": "Organized Chaos",
+   "desc": "Find the ultra rare Rod of Discord.",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "SEA_YOU_LATER",
+   "name": "Sea You Later",
+   "desc": "Craft the final upgrade to the Cell Phone.",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "INTERDIMENSIONAL_RECYCLING",
+   "name": "Interdimensional Recycling",
+   "desc": "Give the Dryad a can of Joja Cola.",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "GRAVE_MISTAKE",
+   "name": "Grave Mistake",
+   "desc": "“Accidentally” kill a friend with your tombstone.",
+   "hidden": false,
+   "pct": 1.3
+  },
+  {
+   "api": "ON_FLEEK",
+   "name": "On Fleek",
+   "desc": "Spot the sun on a “cool” day.",
+   "hidden": false,
+   "pct": 1.3
+  },
+  {
+   "api": "BOOK_WORM",
+   "name": "Book Worm",
+   "desc": "Catalogue every creature in the world.",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "TERRARIST",
+   "name": "Terrarist",
+   "desc": "Scare your villagers with a stink bug sword.",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "MY_PEOPLE_NEED_ME",
+   "name": "My People Need Me",
+   "desc": "Embark on a one way trip into outer space.",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "QUEEN_MACHINE",
+   "name": "Queen Machine",
+   "desc": "Defeated the combined form of the 3 mechanical giants.",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "ROLLIN_IN_YOUR_GRAVE",
+   "name": "Rollin’ In Your Grave",
+   "desc": "Take a ride in your final resting place.",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "BOULDER_LORD",
+   "name": "Boulder Lord",
+   "desc": "Prove your worth against the Moon Lord's worst.",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "FEAR_THE_SUN",
+   "name": "Fear The Sun",
+   "desc": "Dawn the garb of a vampire and get a sunburn.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "ITS_SHALING_OUTSIDE",
+   "name": "It’s Shaling Outside",
+   "desc": "Survive the dreaded rain of boulders.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "EXTRA_LIFE",
+   "name": "Extra Life",
+   "desc": "Die as a hardcore character and survive to tell the tale.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "MINI_ME",
+   "name": "Mini-Me",
+   "desc": "Become a Moon Lord impersonator.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "TRASH_COMPACTOR",
+   "name": "Trash Compactor",
+   "desc": "Research 50% of all items in Journey Mode.",
+   "hidden": false,
+   "pct": 0.6
+  }
+ ]
+}

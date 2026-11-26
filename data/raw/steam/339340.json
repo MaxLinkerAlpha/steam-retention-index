@@ -1,0 +1,337 @@
+{
+ "appid": 339340,
+ "game": "Resident Evil 0",
+ "snapshot": "2026-11-24 17:47 +08",
+ "count": 47,
+ "achievements": [
+  {
+   "api": "ACHIEVEMENT_Illegal_Ride",
+   "name": "Taking the Sting Out",
+   "desc": "",
+   "hidden": true,
+   "pct": 62.2
+  },
+  {
+   "api": "ACHIEVEMENT_Not_Play",
+   "name": "Sit, Boy, Sit! Good Dog",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.0
+  },
+  {
+   "api": "ACHIEVEMENT_All_Started",
+   "name": "Train Complete",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.5
+  },
+  {
+   "api": "ACHIEVEMENT_Wandering",
+   "name": "Zero In",
+   "desc": "Defeat an enemy with a critical-hit headshot.",
+   "hidden": false,
+   "pct": 46.4
+  },
+  {
+   "api": "ACHIEVEMENT_Fellow",
+   "name": "Here I Come to Save the Day",
+   "desc": "Attack an enemy to save your partner who is grappling with that enemy.",
+   "hidden": false,
+   "pct": 45.6
+  },
+  {
+   "api": "ACHIEVEMENT_Impovisation",
+   "name": "This is How You Recycle",
+   "desc": "Create a Molotov Cocktail.",
+   "hidden": false,
+   "pct": 43.3
+  },
+  {
+   "api": "ACHIEVEMENT_The_Mood",
+   "name": "Fashion Plate",
+   "desc": "Change into a costume.",
+   "hidden": false,
+   "pct": 40.4
+  },
+  {
+   "api": "ACHIEVEMENT_Cul_De_Sac",
+   "name": "Centurion Disciplinarian",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.3
+  },
+  {
+   "api": "ACHIEVEMENT_Sacred_Fire",
+   "name": "Burned Alive",
+   "desc": "Defeat an enemy by burning them.",
+   "hidden": false,
+   "pct": 33.2
+  },
+  {
+   "api": "ACHIEVEMENT_Do_Not_Touch",
+   "name": "Dead, Dead, Deadski",
+   "desc": "Defeat a zombie by stomping on them.",
+   "hidden": false,
+   "pct": 31.4
+  },
+  {
+   "api": "ACHIEVEMENT_In_The_Sky",
+   "name": "Training Facility Complete",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.0
+  },
+  {
+   "api": "ACHIEVEMENT_Unbecoming",
+   "name": "Die, Devil Bird!",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.2
+  },
+  {
+   "api": "ACHIEVEMENT_Joker",
+   "name": "Guns are Too Quick",
+   "desc": "Defeat an enemy with a knife.",
+   "hidden": false,
+   "pct": 27.2
+  },
+  {
+   "api": "ACHIEVEMENT_Force",
+   "name": "Custom to Bust 'Em",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.2
+  },
+  {
+   "api": "ACHIEVEMENT_King_Shot_Down",
+   "name": "Alley-oop!",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.7
+  },
+  {
+   "api": "ACHIEVEMENT_Crazy",
+   "name": "Laboratory Complete",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.5
+  },
+  {
+   "api": "ACHIEVEMENT_Abyss",
+   "name": "Factory Complete",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.2
+  },
+  {
+   "api": "ACHIEVEMENT_Crazy_Wandering",
+   "name": "Proto Tyrant Down",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.2
+  },
+  {
+   "api": "ACHIEVEMENT_Maiden",
+   "name": "I'm a Medic, Not a Bodybuilder",
+   "desc": "Try to push something heavy with Rebecca.",
+   "hidden": false,
+   "pct": 24.9
+  },
+  {
+   "api": "ACHIEVEMENT_The_Ends_Of_Crazy",
+   "name": "Proto Tyrant Down Again",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.6
+  },
+  {
+   "api": "ACHIEVEMENT_Hellfire",
+   "name": "How 'Bout a Light, Bud?",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.6
+  },
+  {
+   "api": "ACHIEVEMENT_Heaven",
+   "name": "On Leather Wings",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.0
+  },
+  {
+   "api": "ACHIEVEMENT_Monster",
+   "name": "Treatment Plant Complete",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.6
+  },
+  {
+   "api": "ACHIEVEMENT_Revenge",
+   "name": "Hey, Queenie! Feast on this!",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.6
+  },
+  {
+   "api": "ACHIEVEMENT_Apprentice",
+   "name": "Apprentice of Unlocking",
+   "desc": "Obtain all keys and use them all.",
+   "hidden": false,
+   "pct": 22.7
+  },
+  {
+   "api": "ACHIEVEMENT_Wich_Practice",
+   "name": "Calm the Zombie Nerves",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.3
+  },
+  {
+   "api": "ACHIEVEMENT_Afficacy",
+   "name": "Green is the Color",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.4
+  },
+  {
+   "api": "ACHIEVEMENT_Do_Not_Walk",
+   "name": "Misdirected Hostility",
+   "desc": "Destroy a zombie's legs.",
+   "hidden": false,
+   "pct": 9.7
+  },
+  {
+   "api": "ACHIEVEMENT_New_Hell",
+   "name": "Trying Out New Things",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.2
+  },
+  {
+   "api": "ACHIEVEMENT_Fileophile",
+   "name": "Fileophile",
+   "desc": "Read all files.",
+   "hidden": false,
+   "pct": 6.8
+  },
+  {
+   "api": "ACHIEVEMENT_Continuation",
+   "name": "Leech-Shaped Hole in my Heart",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.4
+  },
+  {
+   "api": "ACHIEVEMENT_Weak",
+   "name": "Allergic to First Aid Spray",
+   "desc": "Finish the game without using a First-Aid Spray.",
+   "hidden": false,
+   "pct": 5.9
+  },
+  {
+   "api": "ACHIEVEMENT_Henchmen",
+   "name": "Winged Spawn of Satan",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.9
+  },
+  {
+   "api": "ACHIEVEMENT_STARS",
+   "name": "From Zero to Hero",
+   "desc": "Finish the game on Hard difficulty.",
+   "hidden": false,
+   "pct": 5.5
+  },
+  {
+   "api": "ACHIEVEMENT_Material",
+   "name": "Who's Got the Herb?",
+   "desc": "Finish the game without combining herbs.",
+   "hidden": false,
+   "pct": 5.2
+  },
+  {
+   "api": "ACHIEVEMENT_Bell_Fight_Back",
+   "name": "A Weird Interest in Leeches",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.9
+  },
+  {
+   "api": "ACHIEVEMENT_Body_Capital",
+   "name": "Find Time to Combine",
+   "desc": "Combine every type of herb with each other.",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "ACHIEVEMENT_Rank_S",
+   "name": "S is for S.T.A.R.S.",
+   "desc": "Finish the game with rank S.",
+   "hidden": false,
+   "pct": 4.4
+  },
+  {
+   "api": "ACHIEVEMENT_To_Walk",
+   "name": "This is Serious Business",
+   "desc": "Finish the game without using a recovery item (including Green Chemicals).",
+   "hidden": false,
+   "pct": 4.4
+  },
+  {
+   "api": "ACHIEVEMENT_Miss",
+   "name": "That's Officer Chambers to You",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.3
+  },
+  {
+   "api": "ACHIEVEMENT_Hand_To_Mouth",
+   "name": "Save Your Prayers",
+   "desc": "Finish the game without saving.",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "ACHIEVEMENT_Whiz",
+   "name": "I Have the Touch",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.8
+  },
+  {
+   "api": "ACHIEVEMENT_Dress",
+   "name": "Welcome to Team Wesker",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.8
+  },
+  {
+   "api": "ACHIEVEMENT_Sweeper",
+   "name": "Distracted from the Hunt",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.5
+  },
+  {
+   "api": "ACHIEVEMENT_God",
+   "name": "20/20 Vision",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.5
+  },
+  {
+   "api": "ACHIEVEMENT_With",
+   "name": "I Could Shoot, You Know",
+   "desc": "Obtain all weapons.",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "ACHIEVEMENT_Baggage",
+   "name": "Who Needs Partners?",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.3
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "appid": 460950,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 22,
+ "achievements": [
+  {
+   "name": "The Dragon's tape",
+   "desc": "Complete The Dragon's tape.",
+   "hidden": true,
+   "pct": 59.4,
+   "api_name": "ACH_BEAT_DRAGON",
+   "internal_key": 263
+  },
+  {
+   "name": "To be continued",
+   "desc": "Beat Katana ZERO.",
+   "hidden": true,
+   "pct": 50.1,
+   "api_name": "ACH_BEAT_GAME",
+   "internal_key": 267
+  },
+  {
+   "name": "Don't hang up!",
+   "desc": "In 1962, the Orlons released one of the all-time greatest doo wop hits, Don't Hang Up. Google it. Anyway, you hung up your phone a lot.",
+   "hidden": true,
+   "pct": 27.7,
+   "api_name": "ACH_FACTORY_HANGUP",
+   "internal_key": 268
+  },
+  {
+   "name": "The End",
+   "desc": "Meet your final end in chinatown.",
+   "hidden": true,
+   "pct": 39.2,
+   "api_name": "ACH_THE_END",
+   "internal_key": 269
+  },
+  {
+   "name": "Prism key",
+   "desc": "Most people go right. You went left.",
+   "hidden": true,
+   "pct": 27.7,
+   "api_name": "ACH_SECRET_0",
+   "internal_key": 270
+  },
+  {
+   "name": "Master key",
+   "desc": "You stopped a suicide. With a murder.",
+   "hidden": true,
+   "pct": 23.9,
+   "api_name": "ACH_SECRET_1",
+   "internal_key": 271
+  },
+  {
+   "name": "Phoenix key",
+   "desc": "Found what the robber left behind.",
+   "hidden": true,
+   "pct": 18.5,
+   "api_name": "ACH_SECRET_3",
+   "internal_key": 272
+  },
+  {
+   "name": "Savant key",
+   "desc": "Didn't wake up Leon.",
+   "hidden": true,
+   "pct": 16.0,
+   "api_name": "ACH_SECRET_4",
+   "internal_key": 273
+  },
+  {
+   "name": "Prototype key",
+   "desc": "Fulfilled your secondary goal in the prison.",
+   "hidden": true,
+   "pct": 30.4,
+   "api_name": "ACH_SECRET_5",
+   "internal_key": 274
+  },
+  {
+   "name": "Secret hunter",
+   "desc": "Found all the hidden keys.",
+   "hidden": true,
+   "pct": 14.8,
+   "api_name": "ACH_ALL_SECRETS",
+   "internal_key": 275
+  },
+  {
+   "name": "Beatdown",
+   "desc": "You ruined his fresh track suit.",
+   "hidden": true,
+   "pct": 13.8,
+   "api_name": "ACH_BEAT_V",
+   "internal_key": 276
+  },
+  {
+   "name": "No love for robots",
+   "desc": "Poor guy.",
+   "hidden": true,
+   "pct": 17.9,
+   "api_name": "ACH_NOKILL_ANIMATRONICS",
+   "internal_key": 277
+  },
+  {
+   "name": "Coffin Head",
+   "desc": "You killed a suspiciously familiar character on the Quiet Hills set.",
+   "hidden": true,
+   "pct": 60.6,
+   "api_name": "ACH_COFFIN_HEAD",
+   "internal_key": 278
+  },
+  {
+   "name": "Refused medication",
+   "desc": "This will go well...",
+   "hidden": true,
+   "pct": 22.3,
+   "api_name": "ACH_NO_MEDS",
+   "internal_key": 279
+  },
+  {
+   "name": "Party Animal",
+   "desc": "Why did you think it was a good idea to give him your Katana anyway?",
+   "hidden": true,
+   "pct": 22.5,
+   "api_name": "ACH_RECOVER_V_KATANA",
+   "internal_key": 280
+  },
+  {
+   "name": "Funny prank",
+   "desc": "Kill yourself in an elevator.",
+   "hidden": true,
+   "pct": 9.0,
+   "api_name": "ACH_FUNNY_PRANK",
+   "internal_key": 281
+  },
+  {
+   "name": "What a bad idea",
+   "desc": "Jump off the balcony of the penthouse.",
+   "hidden": true,
+   "pct": 22.1,
+   "api_name": "ACH_JUMP_PENTHOUSE",
+   "internal_key": 282
+  },
+  {
+   "name": "Psychotherapy",
+   "desc": "Defeat the psychiatrist's final form.",
+   "hidden": true,
+   "pct": 10.7,
+   "api_name": "ACH_BEAT_PSYCH",
+   "internal_key": 283
+  },
+  {
+   "name": "Forbidden Ultimate Danger Tempest-Eyed MAJORDOMO Imperial Barrage Crab, Evixion",
+   "desc": "Your trap card was activated.",
+   "hidden": true,
+   "pct": 9.4,
+   "api_name": "ACH_CARDGAME",
+   "internal_key": 284
+  },
+  {
+   "name": "Gold Medal",
+   "desc": "Achieve a total rank of gold or higher in a full speedrun.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "ACH_GOLD",
+   "internal_key": 285
+  },
+  {
+   "name": "Hardmode",
+   "desc": "Complete a full run in hard mode.",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "ACH_HARDMODE",
+   "internal_key": 287
+  },
+  {
+   "name": "Feline Persuasion",
+   "desc": "You really liked petting that cat.",
+   "hidden": true,
+   "pct": 16.6,
+   "api_name": "ACH_CAT",
+   "internal_key": 512
+  }
+ ]
+}

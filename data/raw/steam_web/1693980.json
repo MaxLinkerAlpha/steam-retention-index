@@ -1,0 +1,385 @@
+{
+ "appid": 1693980,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 47,
+ "achievements": [
+  {
+   "name": "Welcome Aboard",
+   "desc": "Complete Chapter 1 on any difficulty setting.",
+   "hidden": false,
+   "pct": 65.8,
+   "api_name": "ach01",
+   "internal_key": 256
+  },
+  {
+   "name": "Lab Rat",
+   "desc": "Complete Chapter 2 on any difficulty setting.",
+   "hidden": false,
+   "pct": 55.1,
+   "api_name": "ach02",
+   "internal_key": 257
+  },
+  {
+   "name": "All Systems Go",
+   "desc": "Complete Chapter 3 on any difficulty setting.",
+   "hidden": false,
+   "pct": 47.9,
+   "api_name": "ach03",
+   "internal_key": 258
+  },
+  {
+   "name": "Cannon Fodder",
+   "desc": "Complete Chapter 4 on any difficulty setting.",
+   "hidden": false,
+   "pct": 44.6,
+   "api_name": "ach04",
+   "internal_key": 259
+  },
+  {
+   "name": "True Believer",
+   "desc": "Complete Chapter 5 on any difficulty setting.",
+   "hidden": false,
+   "pct": 41.9,
+   "api_name": "ach05",
+   "internal_key": 260
+  },
+  {
+   "name": "Greenhouse Effect",
+   "desc": "Complete Chapter 6 on any difficulty setting.",
+   "hidden": false,
+   "pct": 39.3,
+   "api_name": "ach06",
+   "internal_key": 261
+  },
+  {
+   "name": "S.O.S.",
+   "desc": "Complete Chapter 7 on any difficulty setting.",
+   "hidden": false,
+   "pct": 36.4,
+   "api_name": "ach07",
+   "internal_key": 262
+  },
+  {
+   "name": "Strange Transmissions",
+   "desc": "Complete Chapter 8 on any difficulty setting.",
+   "hidden": false,
+   "pct": 35.2,
+   "api_name": "ach08",
+   "internal_key": 263
+  },
+  {
+   "name": "Wreckage",
+   "desc": "Complete Chapter 9 on any difficulty setting.",
+   "hidden": false,
+   "pct": 34.7,
+   "api_name": "ach09",
+   "internal_key": 264
+  },
+  {
+   "name": "Keeper of the Faith",
+   "desc": "Complete Chapter 10 on any difficulty setting.",
+   "hidden": false,
+   "pct": 33.6,
+   "api_name": "ach10",
+   "internal_key": 265
+  },
+  {
+   "name": "Betrayed",
+   "desc": "Complete Chapter 11 on any difficulty setting.",
+   "hidden": false,
+   "pct": 33.0,
+   "api_name": "ach11",
+   "internal_key": 267
+  },
+  {
+   "name": "Exodus",
+   "desc": "Complete Chapter 12 on any difficulty setting.",
+   "hidden": false,
+   "pct": 32.4,
+   "api_name": "ach12",
+   "internal_key": 268
+  },
+  {
+   "name": "Final Regeneration",
+   "desc": "Discover the Hunter's origins.",
+   "hidden": false,
+   "pct": 21.9,
+   "api_name": "ach13",
+   "internal_key": 269
+  },
+  {
+   "name": "Whole Again",
+   "desc": "Pursue Nicole's investigation.",
+   "hidden": false,
+   "pct": 25.3,
+   "api_name": "ach14",
+   "internal_key": 270
+  },
+  {
+   "name": "Set A Benchmark",
+   "desc": "Complete the game on Medium difficulty or above.",
+   "hidden": false,
+   "pct": 27.4,
+   "api_name": "ach15",
+   "internal_key": 271
+  },
+  {
+   "name": "Untouchable",
+   "desc": "Complete the game in Impossible Mode.",
+   "hidden": false,
+   "pct": 3.6,
+   "api_name": "ach16",
+   "internal_key": 272
+  },
+  {
+   "name": "Trusted Contractor",
+   "desc": "Complete New Game Plus on any difficulty mode.",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "ach17",
+   "internal_key": 273
+  },
+  {
+   "name": "Full Arsenal",
+   "desc": "Own every weapon in the game.",
+   "hidden": false,
+   "pct": 33.8,
+   "api_name": "ach18",
+   "internal_key": 274
+  },
+  {
+   "name": "Built To Order",
+   "desc": "Install every weapon upgrade.",
+   "hidden": false,
+   "pct": 7.0,
+   "api_name": "ach19",
+   "internal_key": 275
+  },
+  {
+   "name": "Autofire",
+   "desc": "Kill 30 enemies with the Pulse Rifle.",
+   "hidden": false,
+   "pct": 39.4,
+   "api_name": "ach20",
+   "internal_key": 276
+  },
+  {
+   "name": "Live with the Hot Ones",
+   "desc": "Kill 30 enemies with the Flamethrower.",
+   "hidden": false,
+   "pct": 32.7,
+   "api_name": "ach21",
+   "internal_key": 277
+  },
+  {
+   "name": "A Cut Above",
+   "desc": "Kill 30 enemies with the Ripper.",
+   "hidden": false,
+   "pct": 25.9,
+   "api_name": "ach22",
+   "internal_key": 278
+  },
+  {
+   "name": "Pusher",
+   "desc": "Kill 30 enemies with the Force Gun.",
+   "hidden": false,
+   "pct": 17.6,
+   "api_name": "ach23",
+   "internal_key": 279
+  },
+  {
+   "name": "Eviscerator",
+   "desc": "Kill 30 enemies with the Line Gun.",
+   "hidden": false,
+   "pct": 14.2,
+   "api_name": "ach24",
+   "internal_key": 280
+  },
+  {
+   "name": "Full Contact",
+   "desc": "Kill 30 enemies with the Contact Beam.",
+   "hidden": false,
+   "pct": 21.1,
+   "api_name": "ach25",
+   "internal_key": 281
+  },
+  {
+   "name": "One Gun",
+   "desc": "Beat the game using only the Plasma Cutter.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "ach26",
+   "internal_key": 282
+  },
+  {
+   "name": "Pack Rat",
+   "desc": "Place 25 items in Storage.",
+   "hidden": false,
+   "pct": 18.1,
+   "api_name": "ach27",
+   "internal_key": 283
+  },
+  {
+   "name": "Story Teller",
+   "desc": "Collect 75 Logs.",
+   "hidden": false,
+   "pct": 41.2,
+   "api_name": "ach28",
+   "internal_key": 284
+  },
+  {
+   "name": "Legend Teller",
+   "desc": "Collect 150 Logs.",
+   "hidden": false,
+   "pct": 32.0,
+   "api_name": "ach29",
+   "internal_key": 285
+  },
+  {
+   "name": "Merchant",
+   "desc": "Collect all Schematics.",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "ach30",
+   "internal_key": 286
+  },
+  {
+   "name": "Marksman",
+   "desc": "Dismember 50 Limbs.",
+   "hidden": false,
+   "pct": 74.4,
+   "api_name": "ach31",
+   "internal_key": 287
+  },
+  {
+   "name": "Surgeon",
+   "desc": "Dismember 500 Limbs.",
+   "hidden": false,
+   "pct": 39.7,
+   "api_name": "ach32",
+   "internal_key": 512
+  },
+  {
+   "name": "Wishbone",
+   "desc": "Rip off a dangling limb using Kinesis.",
+   "hidden": false,
+   "pct": 9.5,
+   "api_name": "ach33",
+   "internal_key": 513
+  },
+  {
+   "name": "Raise The Stakes",
+   "desc": "Pin an enemy.",
+   "hidden": false,
+   "pct": 43.6,
+   "api_name": "ach34",
+   "internal_key": 514
+  },
+  {
+   "name": "Freeze",
+   "desc": "Use Stasis on 50 enemies.",
+   "hidden": false,
+   "pct": 38.7,
+   "api_name": "ach35",
+   "internal_key": 515
+  },
+  {
+   "name": "Backbreaker",
+   "desc": "Kill 10 enemies with a stomp attack.",
+   "hidden": false,
+   "pct": 14.4,
+   "api_name": "ach36",
+   "internal_key": 516
+  },
+  {
+   "name": "Maxed Out",
+   "desc": "Fully upgrade all weapons and equipment.",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "ach37",
+   "internal_key": 517
+  },
+  {
+   "name": "Front Toward Enemy",
+   "desc": "Survive the Shooting Gallery.",
+   "hidden": true,
+   "pct": 28.1,
+   "api_name": "ach38",
+   "internal_key": 518
+  },
+  {
+   "name": "Z-Baller",
+   "desc": "Complete Level 6 in Zero-G Basketball.",
+   "hidden": true,
+   "pct": 22.3,
+   "api_name": "ach39",
+   "internal_key": 519
+  },
+  {
+   "name": "There's Always Peng!",
+   "desc": "Find the Peng Treasure.",
+   "hidden": true,
+   "pct": 31.3,
+   "api_name": "ach40",
+   "internal_key": 520
+  },
+  {
+   "name": "Full Clearance",
+   "desc": "Create the Master Security Override.",
+   "hidden": true,
+   "pct": 21.5,
+   "api_name": "ach41",
+   "internal_key": 521
+  },
+  {
+   "name": "Brute Force",
+   "desc": "Kill a Brute.",
+   "hidden": true,
+   "pct": 46.7,
+   "api_name": "ach42",
+   "internal_key": 522
+  },
+  {
+   "name": "Exterminator",
+   "desc": "Kill the Leviathan.",
+   "hidden": true,
+   "pct": 39.2,
+   "api_name": "ach43",
+   "internal_key": 523
+  },
+  {
+   "name": "Get Off My Ship!",
+   "desc": "Kill the Leviathan Remnant.",
+   "hidden": true,
+   "pct": 35.2,
+   "api_name": "ach44",
+   "internal_key": 524
+  },
+  {
+   "name": "Mindless Prey",
+   "desc": "Kill the Hive Mind.",
+   "hidden": true,
+   "pct": 32.3,
+   "api_name": "ach45",
+   "internal_key": 525
+  },
+  {
+   "name": "Marked",
+   "desc": "Pick up a Marker fragment for the first time.",
+   "hidden": true,
+   "pct": 13.7,
+   "api_name": "ach46",
+   "internal_key": 526
+  },
+  {
+   "name": "Reunion",
+   "desc": "See the alternative ending on any difficulty mode.",
+   "hidden": true,
+   "pct": 4.3,
+   "api_name": "ach47",
+   "internal_key": 527
+  }
+ ]
+}

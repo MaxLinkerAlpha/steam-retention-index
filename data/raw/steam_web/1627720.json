@@ -1,0 +1,433 @@
+{
+ "appid": 1627720,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 53,
+ "achievements": [
+  {
+   "name": "Real boy : They all lived happily ever after",
+   "desc": "[Real boy: They all lived happily ever after] Reach the ending.",
+   "hidden": true,
+   "pct": 15.9,
+   "api_name": "LOP_102",
+   "internal_key": 528
+  },
+  {
+   "name": "Free from the puppet string",
+   "desc": "[Free from the puppet string] Reach the ending.",
+   "hidden": true,
+   "pct": 21.2,
+   "api_name": "LOP_103",
+   "internal_key": 529
+  },
+  {
+   "name": "Rise of P",
+   "desc": "[Rise of P] Reach the ending.",
+   "hidden": true,
+   "pct": 27.4,
+   "api_name": "LOP_104",
+   "internal_key": 530
+  },
+  {
+   "name": "The First Puppet",
+   "desc": "Kill the Nameless Puppet.",
+   "hidden": true,
+   "pct": 37.6,
+   "api_name": "LOP_105",
+   "internal_key": 531
+  },
+  {
+   "name": "Strongest Normal Weapon",
+   "desc": "Strengthen a normal weapon to its max level.",
+   "hidden": false,
+   "pct": 42.2,
+   "api_name": "LOP_106",
+   "internal_key": 532
+  },
+  {
+   "name": "Strongest Special Weapon",
+   "desc": "Strengthen a special weapon to its max level.",
+   "hidden": false,
+   "pct": 42.0,
+   "api_name": "LOP_107",
+   "internal_key": 533
+  },
+  {
+   "name": "Strongest Legion Arm",
+   "desc": "Modify a Legion Arm to its max level.",
+   "hidden": false,
+   "pct": 47.1,
+   "api_name": "LOP_108",
+   "internal_key": 534
+  },
+  {
+   "name": "Extreme Potential",
+   "desc": "Activate P-Organ to Phase 5.",
+   "hidden": false,
+   "pct": 45.0,
+   "api_name": "LOP_109",
+   "internal_key": 535
+  },
+  {
+   "name": "Pianist of Krat",
+   "desc": "Play a perfect tune on the piano at Hotel Krat.",
+   "hidden": false,
+   "pct": 23.8,
+   "api_name": "LOP_110",
+   "internal_key": 536
+  },
+  {
+   "name": "Legion Arm Collector",
+   "desc": "Collect all Legion Arms.",
+   "hidden": false,
+   "pct": 28.8,
+   "api_name": "LOP_111",
+   "internal_key": 537
+  },
+  {
+   "name": "Special Weapon Collector",
+   "desc": "Collect all special weapons.",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "LOP_112",
+   "internal_key": 538
+  },
+  {
+   "name": "Normal Weapon Collector",
+   "desc": "Collect all normal weapons.",
+   "hidden": false,
+   "pct": 14.3,
+   "api_name": "LOP_113",
+   "internal_key": 539
+  },
+  {
+   "name": "Golden Melody",
+   "desc": "Collect and play all records.",
+   "hidden": false,
+   "pct": 9.8,
+   "api_name": "LOP_114",
+   "internal_key": 540
+  },
+  {
+   "name": "Learning about Emotions",
+   "desc": "Learn all gestures.",
+   "hidden": false,
+   "pct": 18.4,
+   "api_name": "LOP_115",
+   "internal_key": 541
+  },
+  {
+   "name": "Veteran Explorer",
+   "desc": "Decipher all cryptic vessels and claim the rewards.",
+   "hidden": false,
+   "pct": 17.9,
+   "api_name": "LOP_116",
+   "internal_key": 542
+  },
+  {
+   "name": "End of Riddles",
+   "desc": "Discover all Trinity Sanctums.",
+   "hidden": false,
+   "pct": 26.1,
+   "api_name": "LOP_117",
+   "internal_key": 543
+  },
+  {
+   "name": "First Lie",
+   "desc": "Tell a lie in front of Hotel Krat Entrance.",
+   "hidden": true,
+   "pct": 87.4,
+   "api_name": "LOP_118",
+   "internal_key": 768
+  },
+  {
+   "name": "Stargazer’s Guide",
+   "desc": "Repair a Stargazer.",
+   "hidden": false,
+   "pct": 95.2,
+   "api_name": "LOP_119",
+   "internal_key": 769
+  },
+  {
+   "name": "Exploring Possibilities",
+   "desc": "Try to assemble a weapon.",
+   "hidden": false,
+   "pct": 64.5,
+   "api_name": "LOP_120",
+   "internal_key": 770
+  },
+  {
+   "name": "The Ultimate Defense Technique",
+   "desc": "Destroy an enemy’s weapon with a perfect guard.",
+   "hidden": false,
+   "pct": 81.5,
+   "api_name": "LOP_121",
+   "internal_key": 771
+  },
+  {
+   "name": "Fatal Blow",
+   "desc": "Deliver a successful Fatal Attack.",
+   "hidden": false,
+   "pct": 96.0,
+   "api_name": "LOP_122",
+   "internal_key": 772
+  },
+  {
+   "name": "The Bastards and the Sweepers",
+   "desc": "Kill a Stalker.",
+   "hidden": false,
+   "pct": 77.2,
+   "api_name": "LOP_123",
+   "internal_key": 773
+  },
+  {
+   "name": "Parade Master",
+   "desc": "Kill the Parade Master.",
+   "hidden": true,
+   "pct": 87.7,
+   "api_name": "LOP_124",
+   "internal_key": 774
+  },
+  {
+   "name": "Scrapped Watchman",
+   "desc": "Kill the Scrapped Watchman.",
+   "hidden": true,
+   "pct": 75.5,
+   "api_name": "LOP_125",
+   "internal_key": 775
+  },
+  {
+   "name": "King's Flame",
+   "desc": "Kill King’s Flame, Fuoco.",
+   "hidden": true,
+   "pct": 68.3,
+   "api_name": "LOP_126",
+   "internal_key": 776
+  },
+  {
+   "name": "Fallen Archbishop",
+   "desc": "Kill the Fallen Archbishop Andreus.",
+   "hidden": true,
+   "pct": 62.2,
+   "api_name": "LOP_127",
+   "internal_key": 777
+  },
+  {
+   "name": "The Delayed Match",
+   "desc": "Kill the Eldest of the Black Rabbit Brotherhood.",
+   "hidden": true,
+   "pct": 59.4,
+   "api_name": "LOP_128",
+   "internal_key": 778
+  },
+  {
+   "name": "King of Puppets",
+   "desc": "Kill Romeo, King of Puppets.",
+   "hidden": true,
+   "pct": 55.0,
+   "api_name": "LOP_129",
+   "internal_key": 779
+  },
+  {
+   "name": "The Champion of Evolution",
+   "desc": "Kill Champion Victor.",
+   "hidden": true,
+   "pct": 52.3,
+   "api_name": "LOP_130",
+   "internal_key": 780
+  },
+  {
+   "name": "Puppet-Devouring Green Monster",
+   "desc": "Kill the Puppet-Devouring Green Monster.",
+   "hidden": true,
+   "pct": 49.6,
+   "api_name": "LOP_131",
+   "internal_key": 781
+  },
+  {
+   "name": "Corrupted Parade Master",
+   "desc": "Kill the Corrupted Parade Master.",
+   "hidden": true,
+   "pct": 47.7,
+   "api_name": "LOP_132",
+   "internal_key": 782
+  },
+  {
+   "name": "Revenge of Black",
+   "desc": "Kill the Black Rabbit Brotherhood.",
+   "hidden": true,
+   "pct": 46.4,
+   "api_name": "LOP_133",
+   "internal_key": 783
+  },
+  {
+   "name": "The Complete One",
+   "desc": "Kill Laxasia the Complete.",
+   "hidden": true,
+   "pct": 43.7,
+   "api_name": "LOP_134",
+   "internal_key": 784
+  },
+  {
+   "name": "The Awakened God",
+   "desc": "Kill the Awakened God Simon Manus.",
+   "hidden": true,
+   "pct": 42.6,
+   "api_name": "LOP_135",
+   "internal_key": 785
+  },
+  {
+   "name": "Bear Gold Coin Fruit",
+   "desc": "Harvest Gold Coin Fruit.",
+   "hidden": true,
+   "pct": 59.0,
+   "api_name": "LOP_136",
+   "internal_key": 786
+  },
+  {
+   "name": "From Across the Rift",
+   "desc": "Kill all types of Dimensional Butterflies.",
+   "hidden": false,
+   "pct": 54.2,
+   "api_name": "LOP_137",
+   "internal_key": 787
+  },
+  {
+   "name": "The Story of the Prince",
+   "desc": "Find out about the last story of Venigni.",
+   "hidden": false,
+   "pct": 25.8,
+   "api_name": "LOP_138",
+   "internal_key": 788
+  },
+  {
+   "name": "The Story of the Refined Old Lady",
+   "desc": "Find out about the last story of Antonia.",
+   "hidden": false,
+   "pct": 36.2,
+   "api_name": "LOP_139",
+   "internal_key": 789
+  },
+  {
+   "name": "The Story of the One Who Dreamed",
+   "desc": "Find out about the last story of Simon Manus.",
+   "hidden": true,
+   "pct": 42.6,
+   "api_name": "LOP_140",
+   "internal_key": 790
+  },
+  {
+   "name": "The Story of One Father",
+   "desc": "Find out about the last story of Geppetto.",
+   "hidden": false,
+   "pct": 11.9,
+   "api_name": "LOP_141",
+   "internal_key": 791
+  },
+  {
+   "name": "The Story of a Stranger Girl",
+   "desc": "Find out about the last story of Eugénie.",
+   "hidden": false,
+   "pct": 21.9,
+   "api_name": "LOP_142",
+   "internal_key": 792
+  },
+  {
+   "name": "The Story of the Blue Butterfly",
+   "desc": "Find out about the last story of Sophia.",
+   "hidden": false,
+   "pct": 21.1,
+   "api_name": "LOP_143",
+   "internal_key": 793
+  },
+  {
+   "name": "The Rose's Memory",
+   "desc": "[The Rose's Memory] Reach the ending.",
+   "hidden": true,
+   "pct": 16.5,
+   "api_name": "LOP_144",
+   "internal_key": 795
+  },
+  {
+   "name": "Enduring Resolve",
+   "desc": "Listen to the Legend's last recording.",
+   "hidden": true,
+   "pct": 15.2,
+   "api_name": "LOP_145",
+   "internal_key": 796
+  },
+  {
+   "name": "True Combat Gear Collector",
+   "desc": "Collect all weapons and Legion Arms in the Forgotten Time.",
+   "hidden": false,
+   "pct": 9.0,
+   "api_name": "LOP_146",
+   "internal_key": 797
+  },
+  {
+   "name": "Beyond Limitless Potential",
+   "desc": "Further upgrade the abilities of the P-Organ.",
+   "hidden": false,
+   "pct": 16.1,
+   "api_name": "LOP_147",
+   "internal_key": 798
+  },
+  {
+   "name": "Memory's Melody",
+   "desc": "Collect and listen to all records from the Forgotten Time.",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "LOP_148",
+   "internal_key": 799
+  },
+  {
+   "name": "To Be Human",
+   "desc": "Learn all gestures from the Forgotten Time.",
+   "hidden": false,
+   "pct": 9.1,
+   "api_name": "LOP_149",
+   "internal_key": 1024
+  },
+  {
+   "name": "Tracker of Dark Secrets",
+   "desc": "Decrypt all clues hidden inside the cipher machines and claim the rewards.",
+   "hidden": false,
+   "pct": 14.6,
+   "api_name": "LOP_150",
+   "internal_key": 1025
+  },
+  {
+   "name": "Puppeteer of Death",
+   "desc": "Kill Markiona, the Puppeteer of Death.",
+   "hidden": true,
+   "pct": 19.1,
+   "api_name": "LOP_151",
+   "internal_key": 1026
+  },
+  {
+   "name": "Anguished Guardian",
+   "desc": "Kill the Anguished Guardian of the Ruins.",
+   "hidden": true,
+   "pct": 17.6,
+   "api_name": "LOP_152",
+   "internal_key": 1027
+  },
+  {
+   "name": "The Blood Artist",
+   "desc": "Kill the Blood Artist.",
+   "hidden": true,
+   "pct": 16.5,
+   "api_name": "LOP_153",
+   "internal_key": 1028
+  },
+  {
+   "name": "Honor and Revenge",
+   "desc": "Kill the Leader of the Bastards and the Leader of the Sweepers.",
+   "hidden": true,
+   "pct": 17.3,
+   "api_name": "LOP_154",
+   "internal_key": 1029
+  }
+ ]
+}

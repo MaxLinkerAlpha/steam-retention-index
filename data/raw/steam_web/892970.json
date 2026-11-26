@@ -1,0 +1,433 @@
+{
+ "appid": 892970,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 53,
+ "achievements": [
+  {
+   "name": "Mighty Halls",
+   "desc": "Raise a very tall structure.",
+   "hidden": false,
+   "pct": 0.3,
+   "api_name": "BuildHigh",
+   "internal_key": 4096
+  },
+  {
+   "name": "Top of the World",
+   "desc": "Build something very high up.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "BuildHighWorld",
+   "internal_key": 4097
+  },
+  {
+   "name": "Are You Alright?",
+   "desc": "Die in every way possible.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "DeathByAllTypes",
+   "internal_key": 4098
+  },
+  {
+   "name": "The Viking",
+   "desc": "Defeat all bosses on any difficulty.",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "AllBosses",
+   "internal_key": 4099
+  },
+  {
+   "name": "Odin is Pleased",
+   "desc": "Defeat all minibosses.",
+   "hidden": false,
+   "pct": 0.5,
+   "api_name": "AllMiniBosses",
+   "internal_key": 4100
+  },
+  {
+   "name": "I Have Arrived!",
+   "desc": "Enter the tenth world.",
+   "hidden": true,
+   "pct": 20.6,
+   "api_name": "Arrived",
+   "internal_key": 4101
+  },
+  {
+   "name": "The First of Many",
+   "desc": "Meet your end, then prepare to do it all again...",
+   "hidden": true,
+   "pct": 16.4,
+   "api_name": "FirstDeath",
+   "internal_key": 4102
+  },
+  {
+   "name": "Eikthyr",
+   "desc": "Defeat the Lightning Stag.",
+   "hidden": true,
+   "pct": 12.2,
+   "api_name": "Boss1Eikthyr",
+   "internal_key": 4103
+  },
+  {
+   "name": "The Elder",
+   "desc": "Defeat the Living Forest.",
+   "hidden": true,
+   "pct": 8.5,
+   "api_name": "Boss2Elder",
+   "internal_key": 4104
+  },
+  {
+   "name": "Bonemass",
+   "desc": "Defeat the Writhing Dead.",
+   "hidden": true,
+   "pct": 6.1,
+   "api_name": "Boss3Bonemass",
+   "internal_key": 4105
+  },
+  {
+   "name": "Moder",
+   "desc": "Defeat the Dragon Mother.",
+   "hidden": true,
+   "pct": 5.0,
+   "api_name": "Boss4Moder",
+   "internal_key": 4106
+  },
+  {
+   "name": "Yagluth",
+   "desc": "Defeat the Twisted Soul.",
+   "hidden": true,
+   "pct": 4.1,
+   "api_name": "Boss5Yagluth",
+   "internal_key": 4107
+  },
+  {
+   "name": "The Seeker Queen",
+   "desc": "Defeat the Crawling Matriarch.",
+   "hidden": true,
+   "pct": 3.0,
+   "api_name": "Boss6Queen",
+   "internal_key": 4108
+  },
+  {
+   "name": "Fader",
+   "desc": "Defeat the Emerald Flame.",
+   "hidden": true,
+   "pct": 2.3,
+   "api_name": "Boss7Fader",
+   "internal_key": 4109
+  },
+  {
+   "name": "Kall Fimbulbringer",
+   "desc": "Defeat the Shackled One.",
+   "hidden": true,
+   "pct": 1.5,
+   "api_name": "Boss8FrozenKing",
+   "internal_key": 4110
+  },
+  {
+   "name": "Obliterated",
+   "desc": "You stood a bit too close.",
+   "hidden": true,
+   "pct": 0.4,
+   "api_name": "DeathByObliterator",
+   "internal_key": 4111
+  },
+  {
+   "name": "Accidents Happen",
+   "desc": "Get killed by a tree.",
+   "hidden": true,
+   "pct": 4.4,
+   "api_name": "DeathByTree",
+   "internal_key": 4112
+  },
+  {
+   "name": "That Can't Be an Accident",
+   "desc": "Get killed by every kind of tree.",
+   "hidden": true,
+   "pct": 0.1,
+   "api_name": "DeathByTreeAll",
+   "internal_key": 4113
+  },
+  {
+   "name": "The Lumberjack",
+   "desc": "Cut down 500 trees.",
+   "hidden": false,
+   "pct": 0.4,
+   "api_name": "GrindTrees",
+   "internal_key": 4114
+  },
+  {
+   "name": "The Cook",
+   "desc": "Cook 100 dishes.",
+   "hidden": false,
+   "pct": 4.7,
+   "api_name": "GrindCook",
+   "internal_key": 4115
+  },
+  {
+   "name": "The Farmer",
+   "desc": "Harvest 500 crops.",
+   "hidden": false,
+   "pct": 3.6,
+   "api_name": "GrindHarvest",
+   "internal_key": 4116
+  },
+  {
+   "name": "The Forager",
+   "desc": "Pick 250 berries and 250 mushrooms.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "GrindForager",
+   "internal_key": 4117
+  },
+  {
+   "name": "The Hunter",
+   "desc": "Kill every kind of creature.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "KillAllCreatures",
+   "internal_key": 4118
+  },
+  {
+   "name": "The Master Hunter",
+   "desc": "Kill every kind of creature on hard difficulty.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "KillAllCreaturesHard",
+   "internal_key": 4119
+  },
+  {
+   "name": "The Trophy Collector",
+   "desc": "Collect all trophies.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "FindAllTrophies",
+   "internal_key": 4120
+  },
+  {
+   "name": "The Homesteader",
+   "desc": "Build a house.",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "BuildHouse",
+   "internal_key": 4121
+  },
+  {
+   "name": "The Architect",
+   "desc": "Build a village.",
+   "hidden": false,
+   "pct": 10.0,
+   "api_name": "BuildVillage",
+   "internal_key": 4122
+  },
+  {
+   "name": "The Beekeeper",
+   "desc": "Harvest 500 honey.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "GrindHoney",
+   "internal_key": 4123
+  },
+  {
+   "name": "No Adventuring On an Empty Stomach",
+   "desc": "Eat 500 items of food.",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "GrindEat",
+   "internal_key": 4124
+  },
+  {
+   "name": "The Tough Viking",
+   "desc": "Defeat all bosses on normal difficulty or higher.",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "AllBossesNormal",
+   "internal_key": 4125
+  },
+  {
+   "name": "The Toughest Viking",
+   "desc": "Defeat all bosses on hard difficulty.",
+   "hidden": false,
+   "pct": 0.2,
+   "api_name": "AllBossesHard",
+   "internal_key": 4126
+  },
+  {
+   "name": "The Survivor",
+   "desc": "Survive for 30 consecutive days.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "GrindDays",
+   "internal_key": 4127
+  },
+  {
+   "name": "Comfort is King",
+   "desc": "Reach a comfort level of 20.",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "GrindComfort",
+   "internal_key": 4352
+  },
+  {
+   "name": "The Legends Are True",
+   "desc": "Sail over the edge of the world.",
+   "hidden": true,
+   "pct": 0.3,
+   "api_name": "SailEdge",
+   "internal_key": 4353
+  },
+  {
+   "name": "The Treasure Hunter",
+   "desc": "Discover 10 buried treasure chests.",
+   "hidden": true,
+   "pct": 0.2,
+   "api_name": "GrindTreasure",
+   "internal_key": 4354
+  },
+  {
+   "name": "No Time For Snoozing",
+   "desc": "Awaken a sea creature.",
+   "hidden": true,
+   "pct": 4.4,
+   "api_name": "GrindLeviathan",
+   "internal_key": 4355
+  },
+  {
+   "name": "The Fisherman",
+   "desc": "Catch every kind of fish.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "GrindFish",
+   "internal_key": 4356
+  },
+  {
+   "name": "The Explorer",
+   "desc": "Travel far in all four directions.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "ExploreNSEW",
+   "internal_key": 4357
+  },
+  {
+   "name": "The Pathfinder",
+   "desc": "Travel far in all four directions, without using a map.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "ExploreNSEWNoMap",
+   "internal_key": 4358
+  },
+  {
+   "name": "The Chosen One",
+   "desc": "Assemble Dyrnwyn.",
+   "hidden": true,
+   "pct": 0.7,
+   "api_name": "BuildDyrnwyn",
+   "internal_key": 4359
+  },
+  {
+   "name": "The Blacksmith",
+   "desc": "Craft every kind of weapon.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "AllWeaponCraft",
+   "internal_key": 4360
+  },
+  {
+   "name": "The Master Chef",
+   "desc": "Cook every kind of dish.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "AllFoodCooked",
+   "internal_key": 4361
+  },
+  {
+   "name": "The Artisan",
+   "desc": "Craft every kind of item.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "AllItemCraft",
+   "internal_key": 4362
+  },
+  {
+   "name": "The Gourmet",
+   "desc": "Eat every kind of edible item.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "AllFoodEaten",
+   "internal_key": 4363
+  },
+  {
+   "name": "The Carpenter",
+   "desc": "Build everything.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "AllBuildPieces",
+   "internal_key": 4364
+  },
+  {
+   "name": "Kings and Queens of Valheim",
+   "desc": "Embody the spirits of the Viking, Hunter, Artisan, Master Chef, Carpenter and the Explorer.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "KingsQueens",
+   "internal_key": 4365
+  },
+  {
+   "name": "Child of Odin",
+   "desc": "Embody the spirits of the Toughest Viking, Master Hunter, Survivor and Pathfinder.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "ChildOfOdin",
+   "internal_key": 4366
+  },
+  {
+   "name": "Stronger Together",
+   "desc": "Kill a boss together with a friend.",
+   "hidden": false,
+   "pct": 10.6,
+   "api_name": "MultiplayerBoss",
+   "internal_key": 4367
+  },
+  {
+   "name": "Lone Wolf",
+   "desc": "Kill a boss all by yourself.",
+   "hidden": false,
+   "pct": 6.0,
+   "api_name": "SoloBoss",
+   "internal_key": 4368
+  },
+  {
+   "name": "A Catch Worthy of Njord",
+   "desc": "Catch a four star fish.",
+   "hidden": false,
+   "pct": 0.1,
+   "api_name": "BigFish",
+   "internal_key": 4369
+  },
+  {
+   "name": "The Builder",
+   "desc": "Build 500 pieces.",
+   "hidden": false,
+   "pct": 7.7,
+   "api_name": "GrindBuild",
+   "internal_key": 4370
+  },
+  {
+   "name": "The Sailor",
+   "desc": "Sail far enough to circle the world twice.",
+   "hidden": false,
+   "pct": 1.1,
+   "api_name": "GrindSail",
+   "internal_key": 4371
+  },
+  {
+   "name": "The Captain",
+   "desc": "Sail far enough to circle the world, while manning the helm.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "GrindSailHelm",
+   "internal_key": 4372
+  }
+ ]
+}

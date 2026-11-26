@@ -1,0 +1,513 @@
+{
+ "appid": 1850570,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 63,
+ "achievements": [
+  {
+   "name": "Greatest of Great Deliverers",
+   "desc": "Obtained all Death Stranding achievements.",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "000",
+   "internal_key": 3584
+  },
+  {
+   "name": "Delivering Is What I Do",
+   "desc": "Complete the prologue: Porter.",
+   "hidden": true,
+   "pct": 93.0,
+   "api_name": "001",
+   "internal_key": 3585
+  },
+  {
+   "name": "Rebuilding America",
+   "desc": "Complete Episode 1: Bridget.",
+   "hidden": true,
+   "pct": 81.6,
+   "api_name": "002",
+   "internal_key": 3587
+  },
+  {
+   "name": "We Need You",
+   "desc": "Complete Episode 2: Amelie.",
+   "hidden": true,
+   "pct": 44.7,
+   "api_name": "003",
+   "internal_key": 3588
+  },
+  {
+   "name": "I Won't Break",
+   "desc": "Complete Episode 3: Fragile.",
+   "hidden": true,
+   "pct": 31.1,
+   "api_name": "004",
+   "internal_key": 3589
+  },
+  {
+   "name": "BB...",
+   "desc": "Complete Episode 4: Unger.",
+   "hidden": true,
+   "pct": 30.9,
+   "api_name": "005",
+   "internal_key": 3590
+  },
+  {
+   "name": "We're Whole Again",
+   "desc": "Complete Episode 5: Mama.",
+   "hidden": true,
+   "pct": 27.1,
+   "api_name": "006",
+   "internal_key": 3591
+  },
+  {
+   "name": "BBs: A Bridge Between This World and the One Beyond",
+   "desc": "Complete Episode 6: Deadman.",
+   "hidden": true,
+   "pct": 25.1,
+   "api_name": "007",
+   "internal_key": 3592
+  },
+  {
+   "name": "\"BB\"",
+   "desc": "Complete Episode 7: Clifford.",
+   "hidden": true,
+   "pct": 25.0,
+   "api_name": "008",
+   "internal_key": 3593
+  },
+  {
+   "name": "Sixty Deaths and Sixty Births in a Day",
+   "desc": "Complete Episode 8: Heartman.",
+   "hidden": true,
+   "pct": 22.3,
+   "api_name": "009",
+   "internal_key": 3594
+  },
+  {
+   "name": "The Particle of God",
+   "desc": "Complete Episode 9: Higgs.",
+   "hidden": true,
+   "pct": 21.7,
+   "api_name": "010",
+   "internal_key": 3595
+  },
+  {
+   "name": "I'm Your Die-Hardman",
+   "desc": "Complete Episode 10: Die-Hardman.",
+   "hidden": true,
+   "pct": 21.4,
+   "api_name": "011",
+   "internal_key": 3596
+  },
+  {
+   "name": "Bring Back My Baby",
+   "desc": "Complete Episode 11: Clifford Unger.",
+   "hidden": true,
+   "pct": 21.2,
+   "api_name": "012",
+   "internal_key": 3597
+  },
+  {
+   "name": "She's waiting for you on the Beach.",
+   "desc": "Complete Episode 12: Bridges.",
+   "hidden": true,
+   "pct": 21.0,
+   "api_name": "013",
+   "internal_key": 3598
+  },
+  {
+   "name": "Thank You, Sam",
+   "desc": "Complete Episode 13: Sam Strand.",
+   "hidden": true,
+   "pct": 20.6,
+   "api_name": "014",
+   "internal_key": 3599
+  },
+  {
+   "name": "Thanks for Everything",
+   "desc": "Complete Episode 14: Lou.",
+   "hidden": true,
+   "pct": 20.1,
+   "api_name": "015",
+   "internal_key": 3600
+  },
+  {
+   "name": "Everyday Delivery",
+   "desc": "Complete a standard order.",
+   "hidden": false,
+   "pct": 53.4,
+   "api_name": "016",
+   "internal_key": 3601
+  },
+  {
+   "name": "Deliveries Done",
+   "desc": "Complete 36 standard orders.",
+   "hidden": false,
+   "pct": 24.1,
+   "api_name": "017",
+   "internal_key": 3602
+  },
+  {
+   "name": "Birth of a Legend",
+   "desc": "Complete at least 10 unique premium deliveries in each order category with an evaluation of \"Legend,\" \"Legend of Legends,\" or \"Legend of Legends of Legends.\" ",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "018",
+   "internal_key": 3603
+  },
+  {
+   "name": "Growth of a Legend",
+   "desc": "Complete at least 20 unique premium deliveries in each order category with an evaluation of \"Legend of Legends\" or \"Legend of Legends of Legends.\" ",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "019",
+   "internal_key": 3604
+  },
+  {
+   "name": "A Helping Hand",
+   "desc": "Issue your first supply request.",
+   "hidden": false,
+   "pct": 8.5,
+   "api_name": "020",
+   "internal_key": 3605
+  },
+  {
+   "name": "The Automation Revolution",
+   "desc": "Complete a standard order with a delivery bot.",
+   "hidden": false,
+   "pct": 34.9,
+   "api_name": "021",
+   "internal_key": 3606
+  },
+  {
+   "name": "Apprentice Builder",
+   "desc": "Complete your first structure (signs, ladders, and climbing anchors also count.)",
+   "hidden": false,
+   "pct": 74.4,
+   "api_name": "022",
+   "internal_key": 3607
+  },
+  {
+   "name": "Master Builder",
+   "desc": "Complete at least one of every type of structure (including signs, ladders, and climbing anchors.)",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "023",
+   "internal_key": 3608
+  },
+  {
+   "name": "A New Day for the UCA",
+   "desc": "Connect your first new affiliate to the UCA.",
+   "hidden": true,
+   "pct": 73.5,
+   "api_name": "024",
+   "internal_key": 3609
+  },
+  {
+   "name": "In Sam We Trust",
+   "desc": "Connect all facilities to the UCA.",
+   "hidden": true,
+   "pct": 4.2,
+   "api_name": "025",
+   "internal_key": 3610
+  },
+  {
+   "name": "Well Connected",
+   "desc": "Reach connection level three with a facility.",
+   "hidden": false,
+   "pct": 64.3,
+   "api_name": "026",
+   "internal_key": 3611
+  },
+  {
+   "name": "Best Beloved",
+   "desc": "Reach the maximum connection level with all facilities.",
+   "hidden": true,
+   "pct": 3.9,
+   "api_name": "027",
+   "internal_key": 3612
+  },
+  {
+   "name": "Like and Be Liked",
+   "desc": "Give your first Like.",
+   "hidden": true,
+   "pct": 78.6,
+   "api_name": "028",
+   "internal_key": 3613
+  },
+  {
+   "name": "The People's Porter",
+   "desc": "Reach a total of 2,400 Likes on the Results Screen.",
+   "hidden": true,
+   "pct": 58.5,
+   "api_name": "029",
+   "internal_key": 3614
+  },
+  {
+   "name": "The World's Most Popular Porter",
+   "desc": "Reach a total of 50,000 Likes on the Results Screen.",
+   "hidden": true,
+   "pct": 26.9,
+   "api_name": "030",
+   "internal_key": 3615
+  },
+  {
+   "name": "Good Samaritan",
+   "desc": "Deliver your first piece of lost cargo.",
+   "hidden": false,
+   "pct": 91.5,
+   "api_name": "031",
+   "internal_key": 3840
+  },
+  {
+   "name": "Giver of Gifts",
+   "desc": "Make your first donation of weapons, equipment, etc.",
+   "hidden": false,
+   "pct": 41.1,
+   "api_name": "032",
+   "internal_key": 3841
+  },
+  {
+   "name": "Chiral Crafter",
+   "desc": "Recycle chiral crystals for the first time.",
+   "hidden": true,
+   "pct": 61.0,
+   "api_name": "033",
+   "internal_key": 3842
+  },
+  {
+   "name": "A Thirst for Knowledge",
+   "desc": "Restore your first memory chip.",
+   "hidden": true,
+   "pct": 52.0,
+   "api_name": "034",
+   "internal_key": 3843
+  },
+  {
+   "name": "Fount of Knowledge",
+   "desc": "Restore all memory chips.",
+   "hidden": true,
+   "pct": 2.9,
+   "api_name": "035",
+   "internal_key": 3844
+  },
+  {
+   "name": "The Custom Kid",
+   "desc": "Acquire your first piece of customization data.",
+   "hidden": true,
+   "pct": 63.0,
+   "api_name": "036",
+   "internal_key": 3845
+  },
+  {
+   "name": "Soak and Sigh",
+   "desc": "Take your first hot spring bath.",
+   "hidden": true,
+   "pct": 24.1,
+   "api_name": "037",
+   "internal_key": 3846
+  },
+  {
+   "name": "The Post Guides the Present",
+   "desc": "Read 100 mails.",
+   "hidden": false,
+   "pct": 18.1,
+   "api_name": "038",
+   "internal_key": 3847
+  },
+  {
+   "name": "The Past Guides the Present",
+   "desc": "Read 100 interviews.",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "039",
+   "internal_key": 3848
+  },
+  {
+   "name": "Pathfinder",
+   "desc": "Help porters through a MULE or terrorist area for the first time.",
+   "hidden": false,
+   "pct": 34.5,
+   "api_name": "040",
+   "internal_key": 3849
+  },
+  {
+   "name": "Childminder",
+   "desc": "Reach maximum connection level with BB.",
+   "hidden": false,
+   "pct": 14.2,
+   "api_name": "041",
+   "internal_key": 3850
+  },
+  {
+   "name": "A Baby Blessing",
+   "desc": "Get a Like from BB.",
+   "hidden": false,
+   "pct": 67.1,
+   "api_name": "042",
+   "internal_key": 3851
+  },
+  {
+   "name": "Prominent Porter",
+   "desc": "Reach Grade 10 in any delivery evaluation category.",
+   "hidden": false,
+   "pct": 67.7,
+   "api_name": "043",
+   "internal_key": 3852
+  },
+  {
+   "name": "Great Deliverer",
+   "desc": "Reach Grade 60 in all delivery evaluation categories.",
+   "hidden": true,
+   "pct": 3.9,
+   "api_name": "044",
+   "internal_key": 3853
+  },
+  {
+   "name": "Catcher Crusher",
+   "desc": "Defeat a Catcher.",
+   "hidden": false,
+   "pct": 45.2,
+   "api_name": "045",
+   "internal_key": 3854
+  },
+  {
+   "name": "Snooze 'n' Soothe",
+   "desc": "Heal by sleeping for the first time.",
+   "hidden": false,
+   "pct": 47.5,
+   "api_name": "046",
+   "internal_key": 3855
+  },
+  {
+   "name": "Boots Are a Porter's Best Friend",
+   "desc": "Change footwear for the first time.",
+   "hidden": false,
+   "pct": 59.4,
+   "api_name": "047",
+   "internal_key": 3856
+  },
+  {
+   "name": "Hooked on Delivering!?",
+   "desc": "Deliver 700 items of cargo.",
+   "hidden": false,
+   "pct": 15.0,
+   "api_name": "048",
+   "internal_key": 3857
+  },
+  {
+   "name": "Pumped Porter",
+   "desc": "Deliver 3,000 kg of cargo.",
+   "hidden": false,
+   "pct": 27.5,
+   "api_name": "049",
+   "internal_key": 3858
+  },
+  {
+   "name": "Well-Traveled",
+   "desc": "Travel 80 km and complete an order.",
+   "hidden": false,
+   "pct": 35.9,
+   "api_name": "050",
+   "internal_key": 3859
+  },
+  {
+   "name": "God Particle Go-Getter",
+   "desc": "Find Higgs's home.",
+   "hidden": true,
+   "pct": 9.1,
+   "api_name": "051",
+   "internal_key": 3860
+  },
+  {
+   "name": "Rest In Pieces",
+   "desc": "In a BT area, cut an umbilical cord for the first time without the BT noticing.",
+   "hidden": false,
+   "pct": 19.6,
+   "api_name": "052",
+   "internal_key": 3861
+  },
+  {
+   "name": "Any Porter in a Storm",
+   "desc": "Trade with another porter for the first time.",
+   "hidden": true,
+   "pct": 5.9,
+   "api_name": "053",
+   "internal_key": 3862
+  },
+  {
+   "name": "Sleep Tight, Little BB",
+   "desc": "Soothe a crying BB and stop the crying for the first time.",
+   "hidden": false,
+   "pct": 44.6,
+   "api_name": "054",
+   "internal_key": 3863
+  },
+  {
+   "name": "A Shout in the Dark",
+   "desc": "Send a shout out and have it returned for the first time.",
+   "hidden": false,
+   "pct": 52.7,
+   "api_name": "055",
+   "internal_key": 3864
+  },
+  {
+   "name": "Public Service Porter",
+   "desc": "Dispose of chiralium-contaminated cargo in the crater lake for the first time.",
+   "hidden": false,
+   "pct": 14.8,
+   "api_name": "056",
+   "internal_key": 3865
+  },
+  {
+   "name": "Trail-Blazer",
+   "desc": "Upgrade all types of structure to the maximum level.",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "057",
+   "internal_key": 3866
+  },
+  {
+   "name": "I Couldn't Hold it In!",
+   "desc": "Pee outside for the first time.",
+   "hidden": true,
+   "pct": 52.4,
+   "api_name": "058",
+   "internal_key": 3867
+  },
+  {
+   "name": "All Roads Lead to the UCA",
+   "desc": "Complete your first road.",
+   "hidden": false,
+   "pct": 37.5,
+   "api_name": "059",
+   "internal_key": 3868
+  },
+  {
+   "name": "Soothing Sounds",
+   "desc": "Use the music player for the first time.",
+   "hidden": true,
+   "pct": 45.6,
+   "api_name": "060",
+   "internal_key": 3869
+  },
+  {
+   "name": "Building Bridges",
+   "desc": "Reach Bridge Link Grade 1.",
+   "hidden": false,
+   "pct": 65.4,
+   "api_name": "061",
+   "internal_key": 3870
+  },
+  {
+   "name": "Homo Faber",
+   "desc": "Fabricate all available weapons and equipment.",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "062",
+   "internal_key": 3871
+  }
+ ]
+}

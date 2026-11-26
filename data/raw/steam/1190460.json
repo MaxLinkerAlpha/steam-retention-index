@@ -1,0 +1,449 @@
+{
+ "appid": 1190460,
+ "game": "DEATH STRANDING",
+ "snapshot": "2026-11-24 17:41 +08",
+ "count": 63,
+ "achievements": [
+  {
+   "api": "001",
+   "name": "Delivering Is What I Do",
+   "desc": "",
+   "hidden": true,
+   "pct": 91.8
+  },
+  {
+   "api": "031",
+   "name": "Good Samaritan",
+   "desc": "Deliver your first piece of lost cargo.",
+   "hidden": false,
+   "pct": 91.7
+  },
+  {
+   "api": "002",
+   "name": "Rebuilding America",
+   "desc": "",
+   "hidden": true,
+   "pct": 82.4
+  },
+  {
+   "api": "028",
+   "name": "Like and Be Liked",
+   "desc": "",
+   "hidden": true,
+   "pct": 82.1
+  },
+  {
+   "api": "022",
+   "name": "Apprentice Builder",
+   "desc": "Complete your first structure (signs, ladders, and climbing anchors also count).",
+   "hidden": false,
+   "pct": 76.2
+  },
+  {
+   "api": "024",
+   "name": "A New Day for the UCA",
+   "desc": "",
+   "hidden": true,
+   "pct": 75.2
+  },
+  {
+   "api": "042",
+   "name": "A Baby Blessing",
+   "desc": "Get a Like from BB.",
+   "hidden": false,
+   "pct": 69.9
+  },
+  {
+   "api": "043",
+   "name": "Prominent Porter",
+   "desc": "Reach Grade 10 in any delivery evaluation category.",
+   "hidden": false,
+   "pct": 69.6
+  },
+  {
+   "api": "061",
+   "name": "Building Bridges",
+   "desc": "Reach Bridge Link Grade 1.",
+   "hidden": false,
+   "pct": 67.7
+  },
+  {
+   "api": "026",
+   "name": "Well Connected",
+   "desc": "Reach connection level three with a facility.",
+   "hidden": false,
+   "pct": 66.3
+  },
+  {
+   "api": "036",
+   "name": "The Custom Kid",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.3
+  },
+  {
+   "api": "033",
+   "name": "Chiral Crafter",
+   "desc": "",
+   "hidden": true,
+   "pct": 63.1
+  },
+  {
+   "api": "047",
+   "name": "Boots Are a Porter's Best Friend",
+   "desc": "Change footwear for the first time.",
+   "hidden": false,
+   "pct": 62.6
+  },
+  {
+   "api": "029",
+   "name": "The People's Porter",
+   "desc": "",
+   "hidden": true,
+   "pct": 61.4
+  },
+  {
+   "api": "055",
+   "name": "A Shout in the Dark",
+   "desc": "Send a shout out and have it returned for the first time.",
+   "hidden": false,
+   "pct": 57.2
+  },
+  {
+   "api": "016",
+   "name": "Everyday Delivery",
+   "desc": "Complete a standard order.",
+   "hidden": false,
+   "pct": 55.0
+  },
+  {
+   "api": "058",
+   "name": "I Couldn't Hold it In!",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.0
+  },
+  {
+   "api": "060",
+   "name": "Soothing Sounds",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.1
+  },
+  {
+   "api": "054",
+   "name": "Sleep Tight, Little BB",
+   "desc": "Soothe a crying BB and stop the crying for the first time.",
+   "hidden": false,
+   "pct": 50.6
+  },
+  {
+   "api": "046",
+   "name": "Snooze 'n' Soothe",
+   "desc": "Heal by sleeping for the first time.",
+   "hidden": false,
+   "pct": 50.4
+  },
+  {
+   "api": "045",
+   "name": "Catcher Crusher",
+   "desc": "Defeat a Catcher.",
+   "hidden": false,
+   "pct": 49.0
+  },
+  {
+   "api": "003",
+   "name": "We Need You",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.3
+  },
+  {
+   "api": "034",
+   "name": "A Thirst for Knowledge",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.3
+  },
+  {
+   "api": "032",
+   "name": "Giver of Gifts",
+   "desc": "Make your first donation of weapons, equipment, etc.",
+   "hidden": false,
+   "pct": 45.7
+  },
+  {
+   "api": "059",
+   "name": "All Roads Lead to the UCA",
+   "desc": "Complete your first road.",
+   "hidden": false,
+   "pct": 40.9
+  },
+  {
+   "api": "050",
+   "name": "Well-Traveled",
+   "desc": "Travel 80 km and complete an order.",
+   "hidden": false,
+   "pct": 38.6
+  },
+  {
+   "api": "021",
+   "name": "The Automation Revolution",
+   "desc": "Complete a standard order with a delivery bot.",
+   "hidden": false,
+   "pct": 38.4
+  },
+  {
+   "api": "040",
+   "name": "Pathfinder",
+   "desc": "Help porters through a MULE or terrorist area for the first time.",
+   "hidden": false,
+   "pct": 36.0
+  },
+  {
+   "api": "004",
+   "name": "I Won't Break",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.9
+  },
+  {
+   "api": "005",
+   "name": "BB...",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.6
+  },
+  {
+   "api": "006",
+   "name": "We're Whole Again",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.7
+  },
+  {
+   "api": "049",
+   "name": "Pumped Porter",
+   "desc": "Deliver 3,000 kg of cargo.",
+   "hidden": false,
+   "pct": 29.5
+  },
+  {
+   "api": "030",
+   "name": "The World's Most Popular Porter",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.4
+  },
+  {
+   "api": "007",
+   "name": "BBs: A Bridge Between This World and the One Beyond",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.6
+  },
+  {
+   "api": "008",
+   "name": "BB",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.5
+  },
+  {
+   "api": "037",
+   "name": "Soak and Sigh",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.5
+  },
+  {
+   "api": "017",
+   "name": "Deliveries Done",
+   "desc": "Complete 36 standard orders.",
+   "hidden": false,
+   "pct": 25.2
+  },
+  {
+   "api": "009",
+   "name": "Sixty Deaths and Sixty Births in a Day",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.8
+  },
+  {
+   "api": "010",
+   "name": "The Particle of God",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.1
+  },
+  {
+   "api": "011",
+   "name": "I'm Your Die-Hardman",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.8
+  },
+  {
+   "api": "012",
+   "name": "Bring Back My Baby",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.6
+  },
+  {
+   "api": "013",
+   "name": "She's waiting for you on the Beach.",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.4
+  },
+  {
+   "api": "014",
+   "name": "Thank You, Sam",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.9
+  },
+  {
+   "api": "015",
+   "name": "Thanks for Everything",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.2
+  },
+  {
+   "api": "052",
+   "name": "Rest In Pieces",
+   "desc": "In a BT area, cut an umbilical cord for the first time without the BT noticing.",
+   "hidden": false,
+   "pct": 22.0
+  },
+  {
+   "api": "038",
+   "name": "The Post Guides the Present",
+   "desc": "Read 100 mails.",
+   "hidden": false,
+   "pct": 17.5
+  },
+  {
+   "api": "056",
+   "name": "Public Service Porter",
+   "desc": "Dispose of chiralium-contaminated cargo in the crater lake for the first time.",
+   "hidden": false,
+   "pct": 15.0
+  },
+  {
+   "api": "048",
+   "name": "Hooked on Delivering!?",
+   "desc": "Deliver 700 items of cargo.",
+   "hidden": false,
+   "pct": 14.7
+  },
+  {
+   "api": "041",
+   "name": "Childminder",
+   "desc": "Reach maximum connection level with BB.",
+   "hidden": false,
+   "pct": 12.7
+  },
+  {
+   "api": "020",
+   "name": "A Helping Hand",
+   "desc": "Issue your first supply request.",
+   "hidden": false,
+   "pct": 9.4
+  },
+  {
+   "api": "051",
+   "name": "God Particle Go-Getter",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.9
+  },
+  {
+   "api": "023",
+   "name": "Master Builder",
+   "desc": "Complete at least one of every type of structure (including signs, ladders, and climbing anchors.)",
+   "hidden": false,
+   "pct": 7.3
+  },
+  {
+   "api": "039",
+   "name": "The Past Guides the Present",
+   "desc": "Read 100 interviews.",
+   "hidden": false,
+   "pct": 5.5
+  },
+  {
+   "api": "053",
+   "name": "Any Porter in a Storm",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.7
+  },
+  {
+   "api": "018",
+   "name": "Birth of a Legend",
+   "desc": "Complete at least 10 unique premium deliveries in each order category with an evaluation of \"Legend,\" \"Legend of Legends,\" or \"Legend of Legends of Legends.\" ",
+   "hidden": false,
+   "pct": 4.1
+  },
+  {
+   "api": "025",
+   "name": "In Sam We Trust",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.5
+  },
+  {
+   "api": "044",
+   "name": "Great Deliverer",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.3
+  },
+  {
+   "api": "027",
+   "name": "Best Beloved",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.2
+  },
+  {
+   "api": "057",
+   "name": "Trail-Blazer",
+   "desc": "Upgrade all types of structure to the maximum level.",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "019",
+   "name": "Growth of a Legend",
+   "desc": "Complete at least 20 unique premium deliveries in each order category with an evaluation of \"Legend of Legends\" or \"Legend of Legends of Legends.\" ",
+   "hidden": false,
+   "pct": 2.6
+  },
+  {
+   "api": "035",
+   "name": "Fount of Knowledge",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.5
+  },
+  {
+   "api": "062",
+   "name": "Homo Faber",
+   "desc": "Fabricate all available weapons and equipment.",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "000",
+   "name": "Greatest of Great Deliverers",
+   "desc": "Obtained all Death Stranding achievements.",
+   "hidden": false,
+   "pct": 2.3
+  }
+ ]
+}

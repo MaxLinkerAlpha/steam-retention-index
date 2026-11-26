@@ -1,0 +1,358 @@
+{
+ "appid": 1237970,
+ "game": "Titanfall® 2",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 50,
+ "achievements": [
+  {
+   "api": "Achievement_GOSCC_3",
+   "name": "The Graduate",
+   "desc": "",
+   "hidden": true,
+   "pct": 80.6
+  },
+  {
+   "api": "Achievement_GOSCC_4",
+   "name": "BT Prime",
+   "desc": "",
+   "hidden": true,
+   "pct": 74.0
+  },
+  {
+   "api": "Achievement_GOSCC_5",
+   "name": "Hot Mess",
+   "desc": "",
+   "hidden": true,
+   "pct": 67.0
+  },
+  {
+   "api": "Achievement_GOSCC_25",
+   "name": "Excessive Force",
+   "desc": "Destroy a Titan with your Burst Core in the Campaign",
+   "hidden": false,
+   "pct": 65.7
+  },
+  {
+   "api": "Achievement_GOSCC_7",
+   "name": "Some Shortcut!",
+   "desc": "",
+   "hidden": true,
+   "pct": 63.1
+  },
+  {
+   "api": "Achievement_GOSCC_8",
+   "name": "Incepted",
+   "desc": "",
+   "hidden": true,
+   "pct": 60.6
+  },
+  {
+   "api": "Achievement_GOSCC_10",
+   "name": "Dust to Dust",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.9
+  },
+  {
+   "api": "Achievement_GOSCC_9",
+   "name": "I'm Not Locked in Here With You",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.5
+  },
+  {
+   "api": "Achievement_GOSCC_12",
+   "name": "Following the Footsteps",
+   "desc": "",
+   "hidden": true,
+   "pct": 56.6
+  },
+  {
+   "api": "Achievement_GOSCC_13",
+   "name": "Secret Plans",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.1
+  },
+  {
+   "api": "Achievement_GOSCC_14",
+   "name": "Unlicensed Nuclear Accelerator",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.4
+  },
+  {
+   "api": "Achievement_GOSCC_15",
+   "name": "Calling CQ",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.0
+  },
+  {
+   "api": "Achievement_GOSCC_16",
+   "name": "4 Bars",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.7
+  },
+  {
+   "api": "Achievement_GOSCC_17",
+   "name": "See You at the Party",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.3
+  },
+  {
+   "api": "Achievement_GOSCC_18",
+   "name": "Pied Piper",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.3
+  },
+  {
+   "api": "Achievement_GOSCC_27",
+   "name": "Fire Everything!",
+   "desc": "Destroy a Titan with your Salvo Core in the Campaign",
+   "hidden": false,
+   "pct": 50.3
+  },
+  {
+   "api": "Achievement_GOSCC_19",
+   "name": "Precious Cargo",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.1
+  },
+  {
+   "api": "Achievement_GOSCC_20",
+   "name": "Defanged",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.3
+  },
+  {
+   "api": "Achievement_GOSCC_21",
+   "name": "The Ark",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.2
+  },
+  {
+   "api": "Achievement_GOSCC_22",
+   "name": "Titanfall!",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.1
+  },
+  {
+   "api": "Achievement_GOSCC_24",
+   "name": "No Salvage",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.7
+  },
+  {
+   "api": "Achievement_GOSCC_23",
+   "name": "The Real Pilot's Gauntlet",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.6
+  },
+  {
+   "api": "Achievement_GOSCC_30",
+   "name": "Aim Bot",
+   "desc": "Destroy a Titan with your Smart Core in the Campaign",
+   "hidden": false,
+   "pct": 45.3
+  },
+  {
+   "api": "Achievement_GOSCC_44",
+   "name": "Jack of All Trades",
+   "desc": "Collect all of BT's loadouts in the Campaign",
+   "hidden": false,
+   "pct": 43.7
+  },
+  {
+   "api": "Achievement_GOSCC_41",
+   "name": "Certified Pilot",
+   "desc": "Complete the Campaign on Regular",
+   "hidden": false,
+   "pct": 42.6
+  },
+  {
+   "api": "Achievement_GOSCC_26",
+   "name": "Angel of Death",
+   "desc": "Destroy a Titan with your Flight Core in the Campaign",
+   "hidden": false,
+   "pct": 41.2
+  },
+  {
+   "api": "Achievement_GOSCC_40",
+   "name": "Robot Army",
+   "desc": "Acquire 6 or more friendly Stalkers at the same time in the Campaign",
+   "hidden": false,
+   "pct": 40.5
+  },
+  {
+   "api": "Achievement_GOSCC_32",
+   "name": "Coup de Grace",
+   "desc": "Destroy a Mercenary Titan with a melee execution in the Campaign",
+   "hidden": false,
+   "pct": 37.6
+  },
+  {
+   "api": "Achievement_GOSCC_6",
+   "name": "Close Shave",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.1
+  },
+  {
+   "api": "Achievement_GOSCC_29",
+   "name": "Face Melter",
+   "desc": "Destroy a Titan with your Laser Core in the Campaign",
+   "hidden": false,
+   "pct": 33.6
+  },
+  {
+   "api": "Achievement_GOSCC_1",
+   "name": "The Student...",
+   "desc": "Beat Pilot Anderson's Gauntlet ghost recorder time",
+   "hidden": false,
+   "pct": 33.5
+  },
+  {
+   "api": "Achievement_GOSCC_49",
+   "name": "Lock and Load",
+   "desc": "Customize a multiplayer loadout",
+   "hidden": false,
+   "pct": 32.8
+  },
+  {
+   "api": "Achievement_GOSCC_45",
+   "name": "Off the Beaten Path",
+   "desc": "Find 10 Collectibles",
+   "hidden": false,
+   "pct": 30.5
+  },
+  {
+   "api": "Achievement_GOSCC_48",
+   "name": "So It Begins...",
+   "desc": "Win a multiplayer match",
+   "hidden": false,
+   "pct": 28.8
+  },
+  {
+   "api": "Achievement_GOSCC_31",
+   "name": "Flame On!",
+   "desc": "Destroy a Titan with your Flame Core in the Campaign",
+   "hidden": false,
+   "pct": 27.4
+  },
+  {
+   "api": "Achievement_GOSCC_28",
+   "name": "I have the Power!",
+   "desc": "Destroy a Titan with your Sword Core in the Campaign",
+   "hidden": false,
+   "pct": 26.6
+  },
+  {
+   "api": "Achievement_GOSCC_39",
+   "name": "Apex Predator",
+   "desc": "Perform a melee takedown while cloaked in the Campaign",
+   "hidden": false,
+   "pct": 23.7
+  },
+  {
+   "api": "Achievement_GOSCC_36",
+   "name": "I know Kung Fu",
+   "desc": "Shoot and kill 3 enemies in a row while wallrunning as a Pilot in the Campaign",
+   "hidden": false,
+   "pct": 21.5
+  },
+  {
+   "api": "Achievement_GOSCC_33",
+   "name": "Hat Trick",
+   "desc": "Destroy 3 enemy Titans with 1 Core ability in the Campaign",
+   "hidden": false,
+   "pct": 17.5
+  },
+  {
+   "api": "Achievement_GOSCC_42",
+   "name": "Renowned Pilot",
+   "desc": "Complete the Campaign on Hard",
+   "hidden": false,
+   "pct": 14.0
+  },
+  {
+   "api": "Achievement_GOSCC_37",
+   "name": "Power Slide",
+   "desc": "Shoot and kill 3 enemies in a row while sliding as a Pilot in the Campaign",
+   "hidden": false,
+   "pct": 12.8
+  },
+  {
+   "api": "Achievement_GOSCC_35",
+   "name": "You can be my Wingman anytime",
+   "desc": "Destroy an enemy Titan as a Pilot in the Campaign",
+   "hidden": false,
+   "pct": 12.6
+  },
+  {
+   "api": "Achievement_GOSCC_38",
+   "name": "Cowboy Up",
+   "desc": "Rodeo an enemy Titan in the Campaign",
+   "hidden": false,
+   "pct": 10.2
+  },
+  {
+   "api": "Achievement_GOSCC_50",
+   "name": "Free Association",
+   "desc": "Join a multiplayer network",
+   "hidden": false,
+   "pct": 7.6
+  },
+  {
+   "api": "Achievement_GOSCC_46",
+   "name": "Collector",
+   "desc": "Find 25 Collectibles",
+   "hidden": false,
+   "pct": 4.6
+  },
+  {
+   "api": "Achievement_GOSCC_43",
+   "name": "Legendary Pilot",
+   "desc": "Complete the Campaign on Master",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "Achievement_GOSCC_11",
+   "name": "It Was Coming Right For Us",
+   "desc": "Kill a Caged Prowler in the Wildlife Research Labs",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "Achievement_GOSCC_2",
+   "name": "...Becomes the Master",
+   "desc": "Place in the top 3 on the Gauntlet scoreboard",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "Achievement_GOSCC_47",
+   "name": "Every Nook and Cranny",
+   "desc": "Find All Collectibles",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "Achievement_GOSCC_34",
+   "name": "Annihilation",
+   "desc": "Kill 25 infantry in 2 seconds as a Titan in the Campaign",
+   "hidden": false,
+   "pct": 1.9
+  }
+ ]
+}

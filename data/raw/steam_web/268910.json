@@ -1,0 +1,345 @@
+{
+ "appid": 268910,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 42,
+ "achievements": [
+  {
+   "name": "Taking Names",
+   "desc": "Defeat a boss",
+   "hidden": false,
+   "pct": 76.6,
+   "api_name": "DefeatBoss",
+   "internal_key": 516
+  },
+  {
+   "name": "A Walk in the Park",
+   "desc": "Defeat every boss in Inkwell Isle I",
+   "hidden": false,
+   "pct": 53.4,
+   "api_name": "CompleteWorld1",
+   "internal_key": 517
+  },
+  {
+   "name": "A Day at the Fair",
+   "desc": "Defeat every boss in Inkwell Isle II",
+   "hidden": false,
+   "pct": 31.4,
+   "api_name": "CompleteWorld2",
+   "internal_key": 518
+  },
+  {
+   "name": "A Trip Downtown",
+   "desc": "Defeat every boss in Inkwell Isle III",
+   "hidden": false,
+   "pct": 22.1,
+   "api_name": "CompleteWorld3",
+   "internal_key": 519
+  },
+  {
+   "name": "Casino Night",
+   "desc": "Complete the Casino",
+   "hidden": false,
+   "pct": 18.7,
+   "api_name": "CompleteDicePalace",
+   "internal_key": 520
+  },
+  {
+   "name": "Swing You Sinner",
+   "desc": "Defeat the Devil",
+   "hidden": true,
+   "pct": 17.7,
+   "api_name": "CompleteDevil",
+   "internal_key": 521
+  },
+  {
+   "name": "Selling Out",
+   "desc": "Give in to the Devil",
+   "hidden": true,
+   "pct": 11.3,
+   "api_name": "BadEnding",
+   "internal_key": 522
+  },
+  {
+   "name": "Put On a Show",
+   "desc": "Get an S-Rank",
+   "hidden": false,
+   "pct": 9.0,
+   "api_name": "SRank",
+   "internal_key": 523
+  },
+  {
+   "name": "Sheriff",
+   "desc": "Obtain an A-Rank or higher on all bosses in Inkwell Isle I",
+   "hidden": false,
+   "pct": 10.1,
+   "api_name": "ARankWorld1",
+   "internal_key": 524
+  },
+  {
+   "name": "Boss",
+   "desc": "Obtain an A-Rank or higher on all bosses in Inkwell Isle II",
+   "hidden": false,
+   "pct": 6.6,
+   "api_name": "ARankWorld2",
+   "internal_key": 525
+  },
+  {
+   "name": "Mayor",
+   "desc": "Obtain an A-Rank or higher on all bosses in Inkwell Isle III",
+   "hidden": false,
+   "pct": 5.4,
+   "api_name": "ARankWorld3",
+   "internal_key": 526
+  },
+  {
+   "name": "King",
+   "desc": "Obtain an A-Rank or higher on all bosses in Inkwell Hell",
+   "hidden": false,
+   "pct": 9.8,
+   "api_name": "ARankWorld4",
+   "internal_key": 527
+  },
+  {
+   "name": "Souls Saved",
+   "desc": "Complete the game on Normal",
+   "hidden": false,
+   "pct": 17.6,
+   "api_name": "GoodEnding",
+   "internal_key": 528
+  },
+  {
+   "name": "Beat The Devil At His Own Game",
+   "desc": "Complete the game on Expert",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "NewGamePlus",
+   "internal_key": 529
+  },
+  {
+   "name": "Butter-and-Egg Man",
+   "desc": "Buy everything in Porkrind's Shop",
+   "hidden": false,
+   "pct": 10.2,
+   "api_name": "BoughtAllItems",
+   "internal_key": 530
+  },
+  {
+   "name": "Cutting Corners",
+   "desc": "Find a shortcut",
+   "hidden": true,
+   "pct": 54.6,
+   "api_name": "FoundSecretPassage",
+   "internal_key": 531
+  },
+  {
+   "name": "Ceramic Strike",
+   "desc": "Defeat a boss with an Extra Special move",
+   "hidden": false,
+   "pct": 41.1,
+   "api_name": "ExWin",
+   "internal_key": 532
+  },
+  {
+   "name": "Porcelain Power",
+   "desc": "Defeat a boss with a Super Art",
+   "hidden": false,
+   "pct": 28.3,
+   "api_name": "SuperWin",
+   "internal_key": 533
+  },
+  {
+   "name": "Bravo Zulu P-26",
+   "desc": "Defeat a boss using only the mini-plane bullets",
+   "hidden": true,
+   "pct": 3.9,
+   "api_name": "SmallPlaneOnlyWin",
+   "internal_key": 534
+  },
+  {
+   "name": "Magician Lord",
+   "desc": "Obtain all Super Arts",
+   "hidden": false,
+   "pct": 24.3,
+   "api_name": "UnlockedAllSupers",
+   "internal_key": 535
+  },
+  {
+   "name": "Perfect Run",
+   "desc": "Complete a level without getting hit",
+   "hidden": false,
+   "pct": 45.7,
+   "api_name": "NoHitsTaken",
+   "internal_key": 536
+  },
+  {
+   "name": "Coffers Full",
+   "desc": "Get every coin in all of the levels",
+   "hidden": false,
+   "pct": 13.1,
+   "api_name": "FoundAllLevelMoney",
+   "internal_key": 537
+  },
+  {
+   "name": "Bouncing Ball",
+   "desc": "Parry five times before hitting the ground",
+   "hidden": false,
+   "pct": 21.7,
+   "api_name": "ParryChain",
+   "internal_key": 538
+  },
+  {
+   "name": "Parry Persistance",
+   "desc": "Complete 20 parries",
+   "hidden": false,
+   "pct": 75.1,
+   "api_name": "ParryApprentice",
+   "internal_key": 539
+  },
+  {
+   "name": "Parry Performance",
+   "desc": "Complete 100 parries",
+   "hidden": false,
+   "pct": 59.1,
+   "api_name": "ParryMaster",
+   "internal_key": 540
+  },
+  {
+   "name": "Rolling Sixes",
+   "desc": "Defeat King Dice without taking a hit",
+   "hidden": true,
+   "pct": 7.9,
+   "api_name": "NoHitsTakenDicePalace",
+   "internal_key": 541
+  },
+  {
+   "name": "High Roller",
+   "desc": "Get every coin in the game",
+   "hidden": true,
+   "pct": 8.1,
+   "api_name": "FoundAllMoney",
+   "internal_key": 542
+  },
+  {
+   "name": "Pacifist",
+   "desc": "Complete all levels without killing an enemy",
+   "hidden": true,
+   "pct": 4.8,
+   "api_name": "PacifistRun",
+   "internal_key": 543
+  },
+  {
+   "name": "A Vacation in the Wilds",
+   "desc": "Defeat every boss in Inkwell Isle IV",
+   "hidden": false,
+   "pct": 9.2,
+   "api_name": "CompleteWorldDLC",
+   "internal_key": 1280
+  },
+  {
+   "name": "Ranger",
+   "desc": "Obtain an A-Rank or Higher on all bosses in Inkwell Isle IV",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "ARankWorldDLC",
+   "internal_key": 1281
+  },
+  {
+   "name": "Alive and Kicking",
+   "desc": "Defeat a boss with Ms. Chalice",
+   "hidden": false,
+   "pct": 13.5,
+   "api_name": "DefeatBossAsChalice",
+   "internal_key": 1282
+  },
+  {
+   "name": "Decadent",
+   "desc": "Defeat 10 bosses with Ms. Chalice",
+   "hidden": false,
+   "pct": 6.7,
+   "api_name": "DefeatXBossesAsChalice",
+   "internal_key": 1283
+  },
+  {
+   "name": "The Golden Touch",
+   "desc": "Defeat a boss with one of Ms. Chalice's Super Arts",
+   "hidden": false,
+   "pct": 6.7,
+   "api_name": "ChaliceSuperWin",
+   "internal_key": 1284
+  },
+  {
+   "name": "The Latest Sensation",
+   "desc": "Defeat a boss with one of Porkrind's new weapons",
+   "hidden": false,
+   "pct": 12.6,
+   "api_name": "DefeatBossDLCWeapon",
+   "internal_key": 1285
+  },
+  {
+   "name": "Checkmate",
+   "desc": "Defeat all of the King of Games' Champions",
+   "hidden": false,
+   "pct": 8.4,
+   "api_name": "DefeatAllKOG",
+   "internal_key": 1286
+  },
+  {
+   "name": "A King's Admiration",
+   "desc": "Defeat the King's Gauntlet",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "DefeatKOGGauntlet",
+   "internal_key": 1287
+  },
+  {
+   "name": "Compliments to the Chef",
+   "desc": "Complete your quest on Inkwell Isle IV",
+   "hidden": false,
+   "pct": 8.5,
+   "api_name": "DefeatSaltbaker",
+   "internal_key": 1288
+  },
+  {
+   "name": "Cooked to Perfection",
+   "desc": "Get an S-Rank on a stage of Inkwell Isle IV",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "SRankAnyDLC",
+   "internal_key": 1289
+  },
+  {
+   "name": "The High Hat",
+   "desc": "Defeat a boss on Inkwell Isle IV without killing any of its minions",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "DefeatBossNoMinions",
+   "internal_key": 1290
+  },
+  {
+   "name": "Hearty",
+   "desc": "Have 9HP at one time",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "HP9",
+   "internal_key": 1291
+  },
+  {
+   "name": "A Horrible Night To Have a Curse",
+   "desc": "Survive the nightmare",
+   "hidden": true,
+   "pct": 7.4,
+   "api_name": "DefeatDevilPhase2",
+   "internal_key": 1292
+  },
+  {
+   "name": "Paladin",
+   "desc": "Obtain great power",
+   "hidden": true,
+   "pct": 4.3,
+   "api_name": "Paladin",
+   "internal_key": 1293
+  }
+ ]
+}

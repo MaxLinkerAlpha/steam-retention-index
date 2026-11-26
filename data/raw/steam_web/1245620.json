@@ -1,0 +1,345 @@
+{
+ "appid": 1245620,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 42,
+ "achievements": [
+  {
+   "name": "Elden Ring",
+   "desc": "Obtained all achievements",
+   "hidden": false,
+   "pct": 10.5,
+   "api_name": "ACH00",
+   "internal_key": 256
+  },
+  {
+   "name": "Elden Lord",
+   "desc": "Achieved the \"Elden Lord\" ending",
+   "hidden": true,
+   "pct": 23.9,
+   "api_name": "ACH01",
+   "internal_key": 257
+  },
+  {
+   "name": "Age of the Stars",
+   "desc": "Achieved the \"Age of the Stars\" ending",
+   "hidden": true,
+   "pct": 28.2,
+   "api_name": "ACH02",
+   "internal_key": 258
+  },
+  {
+   "name": "Lord of Frenzied Flame",
+   "desc": "Achieved the \"Lord of Frenzied Flame\" ending",
+   "hidden": true,
+   "pct": 16.5,
+   "api_name": "ACH03",
+   "internal_key": 259
+  },
+  {
+   "name": "Shardbearer Godrick",
+   "desc": "Defeated Shardbearer Godrick",
+   "hidden": true,
+   "pct": 65.0,
+   "api_name": "ACH04",
+   "internal_key": 260
+  },
+  {
+   "name": "Shardbearer Radahn",
+   "desc": "Defeated Shardbearer Radahn",
+   "hidden": true,
+   "pct": 53.2,
+   "api_name": "ACH05",
+   "internal_key": 261
+  },
+  {
+   "name": "Shardbearer Morgott",
+   "desc": "Defeated Shardbearer Morgott",
+   "hidden": true,
+   "pct": 49.6,
+   "api_name": "ACH06",
+   "internal_key": 262
+  },
+  {
+   "name": "Shardbearer Rykard",
+   "desc": "Defeated Shardbearer Rykard",
+   "hidden": true,
+   "pct": 43.6,
+   "api_name": "ACH07",
+   "internal_key": 263
+  },
+  {
+   "name": "Shardbearer Malenia",
+   "desc": "Defeated Shardbearer Malenia",
+   "hidden": true,
+   "pct": 36.4,
+   "api_name": "ACH08",
+   "internal_key": 264
+  },
+  {
+   "name": "Shardbearer Mohg",
+   "desc": "Defeated Shardbearer Mohg",
+   "hidden": true,
+   "pct": 40.7,
+   "api_name": "ACH09",
+   "internal_key": 265
+  },
+  {
+   "name": "Maliketh the Black Blade",
+   "desc": "Defeated Maliketh the Black Blade",
+   "hidden": true,
+   "pct": 41.6,
+   "api_name": "ACH10",
+   "internal_key": 266
+  },
+  {
+   "name": "Hoarah Loux, Warrior",
+   "desc": "Defeated Hoarah Loux, Warrior",
+   "hidden": true,
+   "pct": 40.5,
+   "api_name": "ACH11",
+   "internal_key": 267
+  },
+  {
+   "name": "Dragonlord Placidusax",
+   "desc": "Defeated Dragonlord Placidusax",
+   "hidden": true,
+   "pct": 30.2,
+   "api_name": "ACH12",
+   "internal_key": 268
+  },
+  {
+   "name": "God-Slaying Armament",
+   "desc": "Upgraded any armament to its highest stage",
+   "hidden": false,
+   "pct": 45.5,
+   "api_name": "ACH13",
+   "internal_key": 269
+  },
+  {
+   "name": "Legendary Armaments",
+   "desc": "Acquired all legendary armaments",
+   "hidden": false,
+   "pct": 18.3,
+   "api_name": "ACH14",
+   "internal_key": 270
+  },
+  {
+   "name": "Legendary Ashen Remains",
+   "desc": "Acquired all legendary ashen remains",
+   "hidden": false,
+   "pct": 17.7,
+   "api_name": "ACH15",
+   "internal_key": 271
+  },
+  {
+   "name": "Legendary Sorceries and Incantations",
+   "desc": "Acquired all legendary sorceries and incantations",
+   "hidden": false,
+   "pct": 17.2,
+   "api_name": "ACH16",
+   "internal_key": 272
+  },
+  {
+   "name": "Legendary Talismans",
+   "desc": "Acquired all legendary talismans",
+   "hidden": false,
+   "pct": 17.7,
+   "api_name": "ACH17",
+   "internal_key": 273
+  },
+  {
+   "name": "Rennala, Queen of the Full Moon",
+   "desc": "Defeated Rennala, Queen of the Full Moon",
+   "hidden": true,
+   "pct": 57.9,
+   "api_name": "ACH18",
+   "internal_key": 274
+  },
+  {
+   "name": "Lichdragon Fortissax",
+   "desc": "Defeated Lichdragon Fortissax",
+   "hidden": true,
+   "pct": 29.1,
+   "api_name": "ACH19",
+   "internal_key": 276
+  },
+  {
+   "name": "Godskin Duo",
+   "desc": "Defeated Godskin Duo",
+   "hidden": true,
+   "pct": 43.2,
+   "api_name": "ACH20",
+   "internal_key": 277
+  },
+  {
+   "name": "Fire Giant",
+   "desc": "Defeated Fire Giant",
+   "hidden": true,
+   "pct": 45.0,
+   "api_name": "ACH21",
+   "internal_key": 518
+  },
+  {
+   "name": "Dragonkin Soldier of Nokstella",
+   "desc": "Defeated Dragonkin Soldier of Nokstella",
+   "hidden": true,
+   "pct": 39.1,
+   "api_name": "ACH22",
+   "internal_key": 519
+  },
+  {
+   "name": "Regal Ancestor Spirit",
+   "desc": "Defeated Regal Ancestor Spirit",
+   "hidden": true,
+   "pct": 38.1,
+   "api_name": "ACH23",
+   "internal_key": 520
+  },
+  {
+   "name": "Valiant Gargoyles",
+   "desc": "Defeated Valiant Gargoyles",
+   "hidden": true,
+   "pct": 39.8,
+   "api_name": "ACH24",
+   "internal_key": 521
+  },
+  {
+   "name": "Margit, the Fell Omen",
+   "desc": "Defeated Margit, the Fell Omen",
+   "hidden": true,
+   "pct": 70.9,
+   "api_name": "ACH25",
+   "internal_key": 522
+  },
+  {
+   "name": "Red Wolf of Radagon",
+   "desc": "Defeated the Red Wolf of Radagon",
+   "hidden": true,
+   "pct": 59.2,
+   "api_name": "ACH26",
+   "internal_key": 523
+  },
+  {
+   "name": "Godskin Noble",
+   "desc": "Defeated Godskin Noble",
+   "hidden": true,
+   "pct": 43.0,
+   "api_name": "ACH27",
+   "internal_key": 524
+  },
+  {
+   "name": "Magma Wyrm Makar",
+   "desc": "Defeated Magma Wyrm Makar",
+   "hidden": true,
+   "pct": 47.8,
+   "api_name": "ACH28",
+   "internal_key": 525
+  },
+  {
+   "name": "Godfrey, First Elden Lord",
+   "desc": "Defeated Godfrey, First Elden Lord",
+   "hidden": true,
+   "pct": 50.0,
+   "api_name": "ACH29",
+   "internal_key": 526
+  },
+  {
+   "name": "Mohg, the Omen",
+   "desc": "Defeated Mohg, the Omen",
+   "hidden": true,
+   "pct": 34.9,
+   "api_name": "ACH30",
+   "internal_key": 527
+  },
+  {
+   "name": "Mimic Tear",
+   "desc": "Defeated Mimic Tear",
+   "hidden": true,
+   "pct": 50.8,
+   "api_name": "ACH31",
+   "internal_key": 528
+  },
+  {
+   "name": "Loretta, Knight of the Haligtree",
+   "desc": "Defeated Loretta, Knight of the Haligtree",
+   "hidden": true,
+   "pct": 39.8,
+   "api_name": "ACH32",
+   "internal_key": 529
+  },
+  {
+   "name": "Astel, Naturalborn of the Void",
+   "desc": "Defeated Astel, Naturalborn of the Void",
+   "hidden": true,
+   "pct": 43.4,
+   "api_name": "ACH33",
+   "internal_key": 530
+  },
+  {
+   "name": "Leonine Misbegotten",
+   "desc": "Defeated the Leonine Misbegotten",
+   "hidden": true,
+   "pct": 57.6,
+   "api_name": "ACH34",
+   "internal_key": 531
+  },
+  {
+   "name": "Royal Knight Loretta",
+   "desc": "Defeated Royal Knight Loretta",
+   "hidden": true,
+   "pct": 55.4,
+   "api_name": "ACH35",
+   "internal_key": 532
+  },
+  {
+   "name": "Elemer of the Briar",
+   "desc": "Defeated Elemer of the Briar",
+   "hidden": true,
+   "pct": 39.7,
+   "api_name": "ACH36",
+   "internal_key": 533
+  },
+  {
+   "name": "Ancestor Spirit",
+   "desc": "Defeated Ancestor Spirit",
+   "hidden": true,
+   "pct": 41.8,
+   "api_name": "ACH37",
+   "internal_key": 534
+  },
+  {
+   "name": "Commander Niall",
+   "desc": "Defeated Commander Niall",
+   "hidden": true,
+   "pct": 44.0,
+   "api_name": "ACH38",
+   "internal_key": 535
+  },
+  {
+   "name": "Roundtable Hold",
+   "desc": "Arrived at Roundtable Hold",
+   "hidden": true,
+   "pct": 74.9,
+   "api_name": "ACH39",
+   "internal_key": 536
+  },
+  {
+   "name": "Great Rune",
+   "desc": "Restored the power of a Great Rune",
+   "hidden": true,
+   "pct": 60.6,
+   "api_name": "ACH40",
+   "internal_key": 537
+  },
+  {
+   "name": "Erdtree Aflame",
+   "desc": "Used kindling to set the Erdtree aflame",
+   "hidden": true,
+   "pct": 44.2,
+   "api_name": "ACH41",
+   "internal_key": 538
+  }
+ ]
+}

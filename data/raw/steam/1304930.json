@@ -1,0 +1,197 @@
+{
+ "appid": 1304930,
+ "game": "The Outlast Trials",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 27,
+ "achievements": [
+  {
+   "api": "achievement_marathonian",
+   "name": "Marathoner",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.4
+  },
+  {
+   "api": "achievement_hunchback",
+   "name": "Hunchback",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.2
+  },
+  {
+   "api": "achievement_big_saver",
+   "name": "Big Saver",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.7
+  },
+  {
+   "api": "achievement_mechanophiliac",
+   "name": "Mechanophiliac",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.8
+  },
+  {
+   "api": "achievement_bullseye",
+   "name": "Bullseye",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.6
+  },
+  {
+   "api": "achievement_determined",
+   "name": "Glutton for Therapy",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.3
+  },
+  {
+   "api": "achievement_chicken_shit",
+   "name": "Chicken in a Pot",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.7
+  },
+  {
+   "api": "achievement_power_surge",
+   "name": "Power Surge",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.3
+  },
+  {
+   "api": "achievement_drift_king",
+   "name": "Slip and Slider",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.3
+  },
+  {
+   "api": "achievement_together_we_are_stong",
+   "name": "Together We Are Strong",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.8
+  },
+  {
+   "api": "achievement_major_league_player",
+   "name": "Major League Player",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.5
+  },
+  {
+   "api": "achievement_hemophiliac",
+   "name": "Hemophiliac",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.9
+  },
+  {
+   "api": "achievement_step_on_me_daddy",
+   "name": "Get Down",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.2
+  },
+  {
+   "api": "achievement_bamboozle",
+   "name": "Bamboozler",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.0
+  },
+  {
+   "api": "achievement_anger_issues",
+   "name": "Anger Issues",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.5
+  },
+  {
+   "api": "achievement_high_as_a_kite",
+   "name": "Vision Quest",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.1
+  },
+  {
+   "api": "achievement_clear_vision",
+   "name": "Tapetum Lucidum",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.6
+  },
+  {
+   "api": "achievement_hoarder",
+   "name": "Hoarder",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.4
+  },
+  {
+   "api": "achievement_trigger_happy",
+   "name": "Trigger Happy",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.0
+  },
+  {
+   "api": "achievement_gotta_go_fast",
+   "name": "Speed Freak",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.8
+  },
+  {
+   "api": "achievement_no_time_to_sleep",
+   "name": "Sawbones",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.4
+  },
+  {
+   "api": "achievement_crowd_control",
+   "name": "Crowd Control",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.8
+  },
+  {
+   "api": "achievement_boost_me_up",
+   "name": "Toastmaster",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.0
+  },
+  {
+   "api": "achievement_cant_touch_this",
+   "name": "Can't Touch This",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.8
+  },
+  {
+   "api": "achievement_breathe_in",
+   "name": "Breathe In",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.6
+  },
+  {
+   "api": "achievement_sleight_of_hand",
+   "name": "Sleight of Hand",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.5
+  },
+  {
+   "api": "achievement_hypochondriac",
+   "name": "Hypochondriac",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.5
+  }
+ ]
+}

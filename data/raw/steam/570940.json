@@ -1,0 +1,295 @@
+{
+ "appid": 570940,
+ "game": "DARK SOULS™: REMASTERED",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 41,
+ "achievements": [
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_26",
+   "name": "Enkindle",
+   "desc": "Light bonfire flame.",
+   "hidden": false,
+   "pct": 96.5
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_27",
+   "name": "Estus Flask",
+   "desc": "Acquire Estus Flask.",
+   "hidden": false,
+   "pct": 93.8
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_28",
+   "name": "Reach Lordran",
+   "desc": "Arrive in Lordran.",
+   "hidden": false,
+   "pct": 91.5
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_29",
+   "name": "Ring the Bell (Undead Church)",
+   "desc": "Ring Bell of Awakening at Undead Church.",
+   "hidden": false,
+   "pct": 67.7
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_07",
+   "name": "Covenant: Way of White",
+   "desc": "Discover Way of White covenant.",
+   "hidden": false,
+   "pct": 66.4
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_30",
+   "name": "Ring the Bell (Quelaag's Domain)",
+   "desc": "Ring Bell of Awakening in Quelaag's domain.",
+   "hidden": false,
+   "pct": 56.5
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_33",
+   "name": "Reach Anor Londo",
+   "desc": "Arrive in Anor Londo.",
+   "hidden": false,
+   "pct": 53.0
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_34",
+   "name": "Lordvessel",
+   "desc": "Acquire the Lordvessel.",
+   "hidden": false,
+   "pct": 50.4
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_31",
+   "name": "Rite of Kindling",
+   "desc": "Acquire the Rite of Kindling.",
+   "hidden": false,
+   "pct": 48.9
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_15",
+   "name": "Covenant: Chaos Servant",
+   "desc": "Discover Chaos Servant covenant.",
+   "hidden": false,
+   "pct": 47.8
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_32",
+   "name": "Art of Abysswalking",
+   "desc": "Acquire the Art of Abysswalking.",
+   "hidden": false,
+   "pct": 47.7
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_38",
+   "name": "Defeat Seath the Scaleless",
+   "desc": "Defeat Seath the Scaleless, inheritors of souls.",
+   "hidden": false,
+   "pct": 42.7
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_35",
+   "name": "Defeat Gravelord Nito",
+   "desc": "Defeat the Soul Lord Gravelord Nito.",
+   "hidden": false,
+   "pct": 42.4
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_37",
+   "name": "Defeat the Four Kings",
+   "desc": "Defeat the Four Kings, inheritors of souls.",
+   "hidden": false,
+   "pct": 42.4
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_36",
+   "name": "Defeat Bed of Chaos",
+   "desc": "Defeat the Soul Lord Bed of Chaos.",
+   "hidden": false,
+   "pct": 42.0
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_08",
+   "name": "Covenant: Princess's Guard",
+   "desc": "Discover Princess's Guard covenant.",
+   "hidden": false,
+   "pct": 40.6
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_11",
+   "name": "Covenant: Forest Hunter",
+   "desc": "Discover Forest Hunter covenant.",
+   "hidden": false,
+   "pct": 38.1
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_40",
+   "name": "Defeat Crossbreed Priscilla",
+   "desc": "Defeat Crossbreed Priscilla, the Lifehunter",
+   "hidden": false,
+   "pct": 34.1
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_39",
+   "name": "Defeat the Dark Sun Gwyndolin",
+   "desc": "Defeat Dark Sun Gwyndolin, the Darkmoon God.",
+   "hidden": false,
+   "pct": 31.7
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_01",
+   "name": "To Link the Fire",
+   "desc": "Reach \"To Link the Fire\" ending.",
+   "hidden": false,
+   "pct": 31.1
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_14",
+   "name": "Covenant: Gravelord Servant",
+   "desc": "Discover Gravelord Servant covenant.",
+   "hidden": false,
+   "pct": 29.7
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_13",
+   "name": "Covenant: Path of the Dragon",
+   "desc": "Discover Path of the Dragon covenant.",
+   "hidden": false,
+   "pct": 29.4
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_16",
+   "name": "Strongest Weapon",
+   "desc": "Acquire best weapon through standard reinforcement.",
+   "hidden": false,
+   "pct": 24.7
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_09",
+   "name": "Covenant: Blade of the Darkmoon",
+   "desc": "Discover Blade of the Darkmoon covenant.",
+   "hidden": false,
+   "pct": 22.6
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_10",
+   "name": "Covenant: Warrior of Sunlight",
+   "desc": "Discover Warrior of Sunlight covenant.",
+   "hidden": false,
+   "pct": 20.6
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_02",
+   "name": "Dark Lord",
+   "desc": "Reach \"The Dark Lord\" ending.",
+   "hidden": false,
+   "pct": 19.7
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_12",
+   "name": "Covenant: Darkwraith",
+   "desc": "Discover Darkwraith covenant.",
+   "hidden": false,
+   "pct": 17.0
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_18",
+   "name": "Lightning Weapon",
+   "desc": "Acquire best weapon through lightning reinforcement.",
+   "hidden": false,
+   "pct": 13.9
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_19",
+   "name": "Raw Weapon",
+   "desc": "Acquire best weapon through raw reinforcement.",
+   "hidden": false,
+   "pct": 13.3
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_22",
+   "name": "Divine Weapon",
+   "desc": "Acquire best weapon through divine reinforcement.",
+   "hidden": false,
+   "pct": 12.0
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_21",
+   "name": "Enchanted Weapon",
+   "desc": "Acquire best weapon through enchanted reinforcement.",
+   "hidden": false,
+   "pct": 11.5
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_17",
+   "name": "Crystal Weapon",
+   "desc": "Acquire best weapon through crystal reinforcement.",
+   "hidden": false,
+   "pct": 11.1
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_04",
+   "name": "Wisdom of a Sage",
+   "desc": "Acquire all sorceries.",
+   "hidden": false,
+   "pct": 11.0
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_25",
+   "name": "Chaos Weapon",
+   "desc": "Acquire best weapon through chaos reinforcement.",
+   "hidden": false,
+   "pct": 11.0
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_23",
+   "name": "Occult Weapon",
+   "desc": "Acquire best weapon through occult reinforcement.",
+   "hidden": false,
+   "pct": 10.8
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_24",
+   "name": "Fire Weapon",
+   "desc": "Acquire best weapon through fire reinforcement.",
+   "hidden": false,
+   "pct": 10.7
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_05",
+   "name": "Bond of a Pyromancer",
+   "desc": "Acquire all pyromancies.",
+   "hidden": false,
+   "pct": 10.1
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_20",
+   "name": "Magic Weapon",
+   "desc": "Acquire best weapon through magic reinforcement.",
+   "hidden": false,
+   "pct": 9.8
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_06",
+   "name": "Prayer of a Maiden",
+   "desc": "Acquire all miracles.",
+   "hidden": false,
+   "pct": 8.7
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_03",
+   "name": "Knight's Honor",
+   "desc": "Acquire all rare weapons.",
+   "hidden": false,
+   "pct": 8.3
+  },
+  {
+   "api": "ACHIEVEMENT_FRPG_ACHIEVEMENTS_00",
+   "name": "The Dark Soul",
+   "desc": "All achievements completed. Congratulations!",
+   "hidden": false,
+   "pct": 8.2
+  }
+ ]
+}

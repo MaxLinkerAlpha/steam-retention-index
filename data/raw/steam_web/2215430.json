@@ -1,0 +1,625 @@
+{
+ "appid": 2215430,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 77,
+ "achievements": [
+  {
+   "name": "Living Legend",
+   "desc": "Obtain all base game achievements.",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "livinglegend",
+   "internal_key": 256
+  },
+  {
+   "name": "Gathering Storm",
+   "desc": "Recover the katana of clan Sakai.",
+   "hidden": true,
+   "pct": 92.7,
+   "api_name": "_autoGenTrophy_0001",
+   "internal_key": 512
+  },
+  {
+   "name": "Point of No Return",
+   "desc": "Break your code to help a new friend.",
+   "hidden": true,
+   "pct": 83.5,
+   "api_name": "_autoGenTrophy_0002",
+   "internal_key": 768
+  },
+  {
+   "name": "Company of Wolves",
+   "desc": "Recruit the Straw Hat ronin.",
+   "hidden": true,
+   "pct": 66.1,
+   "api_name": "_autoGenTrophy_0003",
+   "internal_key": 1024
+  },
+  {
+   "name": "Stoking the Flame",
+   "desc": "Rescue Taka from Mongol captivity.",
+   "hidden": true,
+   "pct": 67.9,
+   "api_name": "_autoGenTrophy_0004",
+   "internal_key": 1280
+  },
+  {
+   "name": "Family Reunion",
+   "desc": "Free Lord Shimura from the Khan's clutches.",
+   "hidden": true,
+   "pct": 60.2,
+   "api_name": "_autoGenTrophy_0005",
+   "internal_key": 1536
+  },
+  {
+   "name": "Leader of the People",
+   "desc": "Rally the peasants of Yarikawa.",
+   "hidden": true,
+   "pct": 46.3,
+   "api_name": "_autoGenTrophy_0006",
+   "internal_key": 1792
+  },
+  {
+   "name": "Birthright",
+   "desc": "Recover your father's armor.",
+   "hidden": true,
+   "pct": 48.1,
+   "api_name": "_autoGenTrophy_0007",
+   "internal_key": 2048
+  },
+  {
+   "name": "Dying Embers",
+   "desc": "Eradicate the traitors in the name of a fallen friend.",
+   "hidden": true,
+   "pct": 42.7,
+   "api_name": "_autoGenTrophy_0008",
+   "internal_key": 2304
+  },
+  {
+   "name": "The Ghost",
+   "desc": "Embrace your new identity.",
+   "hidden": true,
+   "pct": 42.0,
+   "api_name": "_autoGenTrophy_0009",
+   "internal_key": 2560
+  },
+  {
+   "name": "The Exiled Alliance",
+   "desc": "Reunite with your allies in the frozen north.",
+   "hidden": true,
+   "pct": 40.5,
+   "api_name": "_autoGenTrophy_0010",
+   "internal_key": 2816
+  },
+  {
+   "name": "Sovereign End",
+   "desc": "Confront the Khan.",
+   "hidden": true,
+   "pct": 37.5,
+   "api_name": "_autoGenTrophy_0011",
+   "internal_key": 3072
+  },
+  {
+   "name": "Mono No Aware",
+   "desc": "Leave the past behind and accept the burden of your new mantle.",
+   "hidden": true,
+   "pct": 36.9,
+   "api_name": "_autoGenTrophy_0012",
+   "internal_key": 3328
+  },
+  {
+   "name": "The Warrior Monk",
+   "desc": "Complete all of Norio's Tales.",
+   "hidden": true,
+   "pct": 24.7,
+   "api_name": "_autoGenTrophy_0013",
+   "internal_key": 3584
+  },
+  {
+   "name": "The Vengeful Warrior",
+   "desc": "Complete all of Masako's Tales.",
+   "hidden": true,
+   "pct": 27.5,
+   "api_name": "_autoGenTrophy_0014",
+   "internal_key": 3840
+  },
+  {
+   "name": "The Unbending Archer",
+   "desc": "Complete all of Ishikawa's Tales.",
+   "hidden": true,
+   "pct": 28.0,
+   "api_name": "_autoGenTrophy_0015",
+   "internal_key": 4096
+  },
+  {
+   "name": "The Headstrong Thief",
+   "desc": "Complete all of Yuna's Tales.",
+   "hidden": true,
+   "pct": 33.2,
+   "api_name": "_autoGenTrophy_0016",
+   "internal_key": 4352
+  },
+  {
+   "name": "Teller of Tales",
+   "desc": "Complete all of the Mythic Tales.",
+   "hidden": false,
+   "pct": 26.3,
+   "api_name": "_autoGenTrophy_0017",
+   "internal_key": 4608
+  },
+  {
+   "name": "Helping Sword Hand",
+   "desc": "Complete all Tales of Tsushima.",
+   "hidden": false,
+   "pct": 11.3,
+   "api_name": "_autoGenTrophy_0018",
+   "internal_key": 4864
+  },
+  {
+   "name": "Flash of Steel",
+   "desc": "Defeat 20 enemies with a counterattack after a Perfect Parry.",
+   "hidden": false,
+   "pct": 52.8,
+   "api_name": "_autoGenTrophy_0019",
+   "internal_key": 5120
+  },
+  {
+   "name": "Witness Protection",
+   "desc": "Shoot a Terrified enemy with an arrow while they are fleeing.",
+   "hidden": true,
+   "pct": 46.5,
+   "api_name": "_autoGenTrophy_0020",
+   "internal_key": 5376
+  },
+  {
+   "name": "All in the Wrist",
+   "desc": "Defeat the maximum amount of enemies within a single Standoff.",
+   "hidden": false,
+   "pct": 26.7,
+   "api_name": "_autoGenTrophy_0021",
+   "internal_key": 5632
+  },
+  {
+   "name": "Open for Business",
+   "desc": "Successfully Stagger enemies 50 times.",
+   "hidden": false,
+   "pct": 71.0,
+   "api_name": "_autoGenTrophy_0022",
+   "internal_key": 5888
+  },
+  {
+   "name": "There Can Be Only One",
+   "desc": "Successfully complete every duel.",
+   "hidden": false,
+   "pct": 20.0,
+   "api_name": "_autoGenTrophy_0023",
+   "internal_key": 6144
+  },
+  {
+   "name": "Have a Nice Fall",
+   "desc": "Kill an enemy with fall damage by knocking them off a ledge.",
+   "hidden": true,
+   "pct": 29.5,
+   "api_name": "_autoGenTrophy_0024",
+   "internal_key": 6400
+  },
+  {
+   "name": "Haunting Precision",
+   "desc": "Kill 20 enemies with Ghost Stance strikes.",
+   "hidden": false,
+   "pct": 40.3,
+   "api_name": "_autoGenTrophy_0025",
+   "internal_key": 6656
+  },
+  {
+   "name": "The Ghost of Legend",
+   "desc": "Build your Legend to earn the title Ghost of Tsushima.",
+   "hidden": false,
+   "pct": 26.1,
+   "api_name": "_autoGenTrophy_0026",
+   "internal_key": 6912
+  },
+  {
+   "name": "Quick Study",
+   "desc": "Learn the Stone, Water, Wind, and Moon combat stances.",
+   "hidden": false,
+   "pct": 57.1,
+   "api_name": "_autoGenTrophy_0027",
+   "internal_key": 7168
+  },
+  {
+   "name": "Every Trick in the Book",
+   "desc": "Acquire all the throwable Ghost Weapon techniques.",
+   "hidden": false,
+   "pct": 38.7,
+   "api_name": "_autoGenTrophy_0028",
+   "internal_key": 7424
+  },
+  {
+   "name": "The Perfect Storm",
+   "desc": "Fully upgrade your sword.",
+   "hidden": false,
+   "pct": 34.3,
+   "api_name": "_autoGenTrophy_0029",
+   "internal_key": 7680
+  },
+  {
+   "name": "A Charming Man",
+   "desc": "Equip a charm in all 6 slots.",
+   "hidden": false,
+   "pct": 39.8,
+   "api_name": "_autoGenTrophy_0030",
+   "internal_key": 7936
+  },
+  {
+   "name": "Gifted",
+   "desc": "Collect 10 gifts.",
+   "hidden": false,
+   "pct": 49.1,
+   "api_name": "_autoGenTrophy_0031",
+   "internal_key": 8192
+  },
+  {
+   "name": "Slay",
+   "desc": "Acquire 30 pieces of Vanity Gear.",
+   "hidden": false,
+   "pct": 54.4,
+   "api_name": "_autoGenTrophy_0032",
+   "internal_key": 8448
+  },
+  {
+   "name": "Light the Way",
+   "desc": "Rekindle all the lighthouses of Tsushima.",
+   "hidden": false,
+   "pct": 13.7,
+   "api_name": "_autoGenTrophy_0033",
+   "internal_key": 8704
+  },
+  {
+   "name": "Den of Thieves",
+   "desc": "Discover Umugi Cove.",
+   "hidden": true,
+   "pct": 48.4,
+   "api_name": "_autoGenTrophy_0034",
+   "internal_key": 8960
+  },
+  {
+   "name": "Favor of the Kami",
+   "desc": "Find and honor all of the Shinto Shrines on Tsushima.",
+   "hidden": false,
+   "pct": 14.6,
+   "api_name": "_autoGenTrophy_0035",
+   "internal_key": 9216
+  },
+  {
+   "name": "Honor the Unseen",
+   "desc": "Bow to 10 hidden altars across Tsushima.",
+   "hidden": true,
+   "pct": 8.3,
+   "api_name": "_autoGenTrophy_0036",
+   "internal_key": 9472
+  },
+  {
+   "name": "Lost and Found",
+   "desc": "Discover a Pillar of Honor and collect its Sword Kit.",
+   "hidden": true,
+   "pct": 64.7,
+   "api_name": "_autoGenTrophy_0037",
+   "internal_key": 9728
+  },
+  {
+   "name": "Monochrome Masters",
+   "desc": "Purchase an item from the Black and White Dye Merchants.",
+   "hidden": true,
+   "pct": 22.0,
+   "api_name": "_autoGenTrophy_0038",
+   "internal_key": 9984
+  },
+  {
+   "name": "Cooper Clan Cosplayer",
+   "desc": "Dress up as a legendary thief.",
+   "hidden": true,
+   "pct": 5.2,
+   "api_name": "_autoGenTrophy_0039",
+   "internal_key": 10240
+  },
+  {
+   "name": "Dirge of the Fallen Forge",
+   "desc": "Play the \"Lament of the Storm\" at a friend's grave.",
+   "hidden": true,
+   "pct": 6.3,
+   "api_name": "_autoGenTrophy_0040",
+   "internal_key": 10496
+  },
+  {
+   "name": "A Moment in Time",
+   "desc": "Personalize a scene in Photo Mode.",
+   "hidden": false,
+   "pct": 33.0,
+   "api_name": "_autoGenTrophy_0041",
+   "internal_key": 10752
+  },
+  {
+   "name": "Avid Reader",
+   "desc": "Collect 20 Records.",
+   "hidden": false,
+   "pct": 14.1,
+   "api_name": "_autoGenTrophy_0042",
+   "internal_key": 11008
+  },
+  {
+   "name": "Know Your Enemy",
+   "desc": "Collect 20 Mongol artifacts.",
+   "hidden": false,
+   "pct": 28.0,
+   "api_name": "_autoGenTrophy_0043",
+   "internal_key": 11264
+  },
+  {
+   "name": "Body, Mind, and Spirit",
+   "desc": "Complete all Hot Springs, Haiku, Inari Shrines, and Bamboo Strikes.",
+   "hidden": false,
+   "pct": 10.7,
+   "api_name": "_autoGenTrophy_0044",
+   "internal_key": 11520
+  },
+  {
+   "name": "Hero of the People",
+   "desc": "Liberate 12 occupied areas in Izuhara.",
+   "hidden": false,
+   "pct": 53.3,
+   "api_name": "_autoGenTrophy_0045",
+   "internal_key": 11776
+  },
+  {
+   "name": "A Fight For The Isle….",
+   "desc": "Liberate all occupied areas in Izuhara.",
+   "hidden": false,
+   "pct": 34.1,
+   "api_name": "_autoGenTrophy_0046",
+   "internal_key": 12032
+  },
+  {
+   "name": "Good Riddance",
+   "desc": "Liberate 8 occupied areas in Toyotama.",
+   "hidden": false,
+   "pct": 39.1,
+   "api_name": "_autoGenTrophy_0047",
+   "internal_key": 12288
+  },
+  {
+   "name": "Securing Sanctuary….",
+   "desc": "Liberate all occupied areas in Toyotama.",
+   "hidden": false,
+   "pct": 27.0,
+   "api_name": "_autoGenTrophy_0048",
+   "internal_key": 12544
+  },
+  {
+   "name": "Mass Eviction",
+   "desc": "Liberate 7 occupied areas in Kamiagata.",
+   "hidden": false,
+   "pct": 28.4,
+   "api_name": "_autoGenTrophy_0049",
+   "internal_key": 12800
+  },
+  {
+   "name": "A New Safe Haven",
+   "desc": "Liberate all occupied areas in Kamiagata.",
+   "hidden": false,
+   "pct": 22.3,
+   "api_name": "_autoGenTrophy_0050",
+   "internal_key": 13056
+  },
+  {
+   "name": "Master Liberator",
+   "desc": "Liberate the entirety of Tsushima Island.",
+   "hidden": false,
+   "pct": 22.0,
+   "api_name": "_autoGenTrophy_0051",
+   "internal_key": 13312
+  },
+  {
+   "name": "Transcendence",
+   "desc": "Complete all 3 Raid chapters.",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "_autoGenTrophy_0052",
+   "internal_key": 13568
+  },
+  {
+   "name": "Ultimate Warrior",
+   "desc": "Reach rank 20 with all roles.",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "_autoGenTrophy_0053",
+   "internal_key": 13824
+  },
+  {
+   "name": "Ultimate Truth",
+   "desc": "Complete the final wave in a gold Survival.",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "_autoGenTrophy_0054",
+   "internal_key": 14080
+  },
+  {
+   "name": "Promising Start",
+   "desc": "Complete a Legends Mode story.",
+   "hidden": false,
+   "pct": 11.7,
+   "api_name": "_autoGenTrophy_0055",
+   "internal_key": 14336
+  },
+  {
+   "name": "True Understanding",
+   "desc": "Complete all Legends Mode stories on a single difficulty.",
+   "hidden": false,
+   "pct": 5.5,
+   "api_name": "_autoGenTrophy_0056",
+   "internal_key": 14592
+  },
+  {
+   "name": "Self-Actualized",
+   "desc": "Reach rank 20 in any role.",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "_autoGenTrophy_0057",
+   "internal_key": 14848
+  },
+  {
+   "name": "Grand Opening",
+   "desc": "Purchase something from Baku the Voiceless in New Game+.",
+   "hidden": false,
+   "pct": 35.2,
+   "api_name": "_autoGenTrophy_0058",
+   "internal_key": 15104
+  },
+  {
+   "name": "A Legend for All Time",
+   "desc": "Complete Jin's Journey in New Game+.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "_autoGenTrophy_0059",
+   "internal_key": 15360
+  },
+  {
+   "name": "Out of the Past",
+   "desc": "Survive the Eagle's medicine and bid farewell to a new friend.",
+   "hidden": true,
+   "pct": 28.3,
+   "api_name": "_autoGenTrophy_0060",
+   "internal_key": 15616
+  },
+  {
+   "name": "Friend to All Raiders",
+   "desc": "Complete all Tales of Iki.",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "_autoGenTrophy_0061",
+   "internal_key": 15872
+  },
+  {
+   "name": "The Benefit of All Beings",
+   "desc": "Build your Legend on Iki Island to earn the title Legacy Redeemer.",
+   "hidden": false,
+   "pct": 26.0,
+   "api_name": "_autoGenTrophy_0062",
+   "internal_key": 16128
+  },
+  {
+   "name": "The Butcher Redeemed",
+   "desc": "Liberate Iki Island by defeating the Eagle and driving the invaders from Mongol territory.",
+   "hidden": false,
+   "pct": 21.5,
+   "api_name": "_autoGenTrophy_0063",
+   "internal_key": 16384
+  },
+  {
+   "name": "Treasures of the Past",
+   "desc": "Complete all Mythic Tales on Iki Island.",
+   "hidden": true,
+   "pct": 24.6,
+   "api_name": "_autoGenTrophy_0064",
+   "internal_key": 16640
+  },
+  {
+   "name": "Elegy for Kazumasa",
+   "desc": "Complete all Memories of Your Father.",
+   "hidden": true,
+   "pct": 13.2,
+   "api_name": "_autoGenTrophy_0065",
+   "internal_key": 16896
+  },
+  {
+   "name": "Common Courtesy",
+   "desc": "Discover and complete all unwritten tales on Iki Island.",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "_autoGenTrophy_0066",
+   "internal_key": 17152
+  },
+  {
+   "name": "Monkey See",
+   "desc": "Embody the spirit of the monkey on Saruiwa.",
+   "hidden": true,
+   "pct": 5.3,
+   "api_name": "_autoGenTrophy_0067",
+   "internal_key": 17408
+  },
+  {
+   "name": "Pride of Ishikawa",
+   "desc": "Achieve bronze or higher on all Archery Challenges.",
+   "hidden": true,
+   "pct": 9.4,
+   "api_name": "_autoGenTrophy_0068",
+   "internal_key": 17664
+  },
+  {
+   "name": "Chiyoko's Song",
+   "desc": "Complete all Animal Sanctuaries.",
+   "hidden": true,
+   "pct": 15.6,
+   "api_name": "_autoGenTrophy_0069",
+   "internal_key": 17920
+  },
+  {
+   "name": "A Few Splinters",
+   "desc": "Complete all bokken duels at the Hidden Cove Tournament.",
+   "hidden": false,
+   "pct": 24.0,
+   "api_name": "_autoGenTrophy_0070",
+   "internal_key": 18176
+  },
+  {
+   "name": "Well-Rounded Warrior",
+   "desc": "Complete all Haiku, Onsen, Shinto Shrines, and Bamboo Strikes on Iki Island.",
+   "hidden": false,
+   "pct": 15.2,
+   "api_name": "_autoGenTrophy_0071",
+   "internal_key": 18432
+  },
+  {
+   "name": "Blood on Your Hands",
+   "desc": "Purchase an item from the Crimson Dye Merchant and obtain a dye for your Sakai Horse Armor.",
+   "hidden": true,
+   "pct": 12.2,
+   "api_name": "_autoGenTrophy_0072",
+   "internal_key": 18688
+  },
+  {
+   "name": "Honor Bound",
+   "desc": "Bind a piece of gear to a class.",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "_autoGenTrophy_0073",
+   "internal_key": 18944
+  },
+  {
+   "name": "Champion of the Kami",
+   "desc": "Win a Legends Rivals match.",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "_autoGenTrophy_0074",
+   "internal_key": 19200
+  },
+  {
+   "name": "Cursed No More",
+   "desc": "Purify a Cursed piece of gear.",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "_autoGenTrophy_0075",
+   "internal_key": 19456
+  },
+  {
+   "name": "A Painful Blockage",
+   "desc": "Summon five Shades in a single Rivals match.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "_autoGenTrophy_0076",
+   "internal_key": 19712
+  }
+ ]
+}

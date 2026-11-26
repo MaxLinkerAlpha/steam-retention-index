@@ -1,0 +1,113 @@
+{
+ "appid": 48000,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 13,
+ "achievements": [
+  {
+   "name": "Wrong Way",
+   "desc": "That's not right",
+   "hidden": false,
+   "pct": 32.9,
+   "api_name": "ACH_1",
+   "internal_key": 256
+  },
+  {
+   "name": "Altitude is Attitude",
+   "desc": "Exploration off the ground",
+   "hidden": false,
+   "pct": 47.3,
+   "api_name": "ACH_2",
+   "internal_key": 260
+  },
+  {
+   "name": "It's Stuck",
+   "desc": "Prepare a dry landing",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "ACH_3",
+   "internal_key": 261
+  },
+  {
+   "name": "Urban Exploration",
+   "desc": "Involves heavy lifting",
+   "hidden": false,
+   "pct": 14.1,
+   "api_name": "ACH_4",
+   "internal_key": 262
+  },
+  {
+   "name": "Alone in the Dark",
+   "desc": "Beneath the arthropod",
+   "hidden": false,
+   "pct": 20.8,
+   "api_name": "ACH_5",
+   "internal_key": 263
+  },
+  {
+   "name": "Climbing the Cog",
+   "desc": "Don't pull the lever just because you can",
+   "hidden": false,
+   "pct": 6.5,
+   "api_name": "ACH_6",
+   "internal_key": 264
+  },
+  {
+   "name": "Backtracking",
+   "desc": "Ride the crates",
+   "hidden": false,
+   "pct": 14.5,
+   "api_name": "ACH_7",
+   "internal_key": 265
+  },
+  {
+   "name": "Guided by Sparks",
+   "desc": "The crate is key",
+   "hidden": false,
+   "pct": 15.9,
+   "api_name": "ACH_8",
+   "internal_key": 266
+  },
+  {
+   "name": "Under Ground",
+   "desc": "Vertical passageway",
+   "hidden": false,
+   "pct": 9.8,
+   "api_name": "ACH_9",
+   "internal_key": 267
+  },
+  {
+   "name": "Going Up",
+   "desc": "Don't let gravity keep you down",
+   "hidden": false,
+   "pct": 7.2,
+   "api_name": "ACH_10",
+   "internal_key": 268
+  },
+  {
+   "name": "Where Credit is Due",
+   "desc": "Perseverance has its own reward",
+   "hidden": false,
+   "pct": 29.6,
+   "api_name": "ACH_11",
+   "internal_key": 269
+  },
+  {
+   "name": "No Point in Dying",
+   "desc": "Complete the game in one sitting with five or less deaths",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "ACH_12",
+   "internal_key": 270
+  },
+  {
+   "name": "DING!",
+   "desc": "Running off will get you nowhere",
+   "hidden": true,
+   "pct": 4.5,
+   "api_name": "ACH_13",
+   "internal_key": 271
+  }
+ ]
+}

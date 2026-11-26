@@ -1,0 +1,344 @@
+{
+ "appid": 1222140,
+ "game": "Detroit: Become Human",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 48,
+ "achievements": [
+  {
+   "api": "1",
+   "name": "THANK YOU",
+   "desc": "Play the first chapter",
+   "hidden": false,
+   "pct": 87.9
+  },
+  {
+   "api": "2",
+   "name": "MISSION ACCOMPLISHED",
+   "desc": "",
+   "hidden": true,
+   "pct": 86.8
+  },
+  {
+   "api": "3",
+   "name": "SECRETS",
+   "desc": "",
+   "hidden": true,
+   "pct": 70.7
+  },
+  {
+   "api": "4",
+   "name": "DEVIANT LOCATED",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.9
+  },
+  {
+   "api": "5",
+   "name": "WE ARE FREE",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.6
+  },
+  {
+   "api": "11",
+   "name": "RUN KARA RUN",
+   "desc": "",
+   "hidden": true,
+   "pct": 57.5
+  },
+  {
+   "api": "14",
+   "name": "ESCAPE THE MANOR",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.6
+  },
+  {
+   "api": "9",
+   "name": "SHELTER",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.3
+  },
+  {
+   "api": "17",
+   "name": "JERICHO'S HERO",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.1
+  },
+  {
+   "api": "19",
+   "name": "A SMILE ON HER FACE",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.8
+  },
+  {
+   "api": "10",
+   "name": "KNOW YOUR PARTNER",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.3
+  },
+  {
+   "api": "8",
+   "name": "CONFESSION",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.0
+  },
+  {
+   "api": "29",
+   "name": "BLOODHOUND",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.1
+  },
+  {
+   "api": "13",
+   "name": "SAVE HANK",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.9
+  },
+  {
+   "api": "28",
+   "name": "KINSHIP",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.6
+  },
+  {
+   "api": "24",
+   "name": "NOTHING TO SEE HERE",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.4
+  },
+  {
+   "api": "6",
+   "name": "DEFEND YOURSELF",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.3
+  },
+  {
+   "api": "31",
+   "name": "SCORCHED EARTH",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.2
+  },
+  {
+   "api": "30",
+   "name": "THREE AT JERICHO",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.5
+  },
+  {
+   "api": "46",
+   "name": "THIS IS MY STORY",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.1
+  },
+  {
+   "api": "7",
+   "name": "SELF-CONTROL",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.3
+  },
+  {
+   "api": "40",
+   "name": "ONE OF US",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.6
+  },
+  {
+   "api": "22",
+   "name": "SEND A MESSAGE",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.0
+  },
+  {
+   "api": "41",
+   "name": "UNDEFEATED",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.8
+  },
+  {
+   "api": "36",
+   "name": "AN ARMY OF ME",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.7
+  },
+  {
+   "api": "43",
+   "name": "PARTNERS",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.6
+  },
+  {
+   "api": "16",
+   "name": "DOUBTS",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.3
+  },
+  {
+   "api": "38",
+   "name": "MY TURN TO DECIDE",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.0
+  },
+  {
+   "api": "15",
+   "name": "RUTHLESS",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.4
+  },
+  {
+   "api": "26",
+   "name": "STAND YOUR GROUND",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.7
+  },
+  {
+   "api": "25",
+   "name": "CONFRONTATION",
+   "desc": "",
+   "hidden": true,
+   "pct": 21.3
+  },
+  {
+   "api": "33",
+   "name": "MORAL VICTORY",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.5
+  },
+  {
+   "api": "32",
+   "name": "LIBERATION",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.2
+  },
+  {
+   "api": "20",
+   "name": "WHEN A PLAN COMES TOGETHER",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.5
+  },
+  {
+   "api": "44",
+   "name": "HAPPY FAMILY",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.1
+  },
+  {
+   "api": "35",
+   "name": "SAFE HARBOR",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.2
+  },
+  {
+   "api": "12",
+   "name": "CATCH IT",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.1
+  },
+  {
+   "api": "39",
+   "name": "COMPLIANT",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.2
+  },
+  {
+   "api": "27",
+   "name": "PRIORITIES",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.8
+  },
+  {
+   "api": "23",
+   "name": "BURN THE PLACE",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.4
+  },
+  {
+   "api": "21",
+   "name": "A GLIMPSE OF JERICHO",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.7
+  },
+  {
+   "api": "18",
+   "name": "JUST A MACHINE",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.5
+  },
+  {
+   "api": "34",
+   "name": "ESCAPE DEATH",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.3
+  },
+  {
+   "api": "48",
+   "name": "SURVIVORS",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.0
+  },
+  {
+   "api": "37",
+   "name": "MISSION COMPLETE",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.6
+  },
+  {
+   "api": "47",
+   "name": "THESE ARE OUR STORIES",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.2
+  },
+  {
+   "api": "42",
+   "name": "BOOKWORM",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.3
+  },
+  {
+   "api": "45",
+   "name": "I'LL BE BACK",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.3
+  }
+ ]
+}

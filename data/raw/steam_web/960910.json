@@ -1,0 +1,457 @@
+{
+ "appid": 960910,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 56,
+ "achievements": [
+  {
+   "name": "Happy Birthday",
+   "desc": "Prologue - Complete the drawing + Set the table + Play with kids",
+   "hidden": true,
+   "pct": 13.6,
+   "api_name": "Trophy_1",
+   "internal_key": 257
+  },
+  {
+   "name": "Interactive Drama",
+   "desc": "Thank you for supporting Interactive Drama",
+   "hidden": false,
+   "pct": 52.4,
+   "api_name": "Trophy_2",
+   "internal_key": 258
+  },
+  {
+   "name": "Good Father",
+   "desc": "Father and Son - Follow the schedule with Shaun and put him to bed in a good mood",
+   "hidden": true,
+   "pct": 17.2,
+   "api_name": "Trophy_3",
+   "internal_key": 259
+  },
+  {
+   "name": "White Knight",
+   "desc": "Sleazy Place - Beat Troy",
+   "hidden": true,
+   "pct": 46.5,
+   "api_name": "Trophy_4",
+   "internal_key": 260
+  },
+  {
+   "name": "Private Eye",
+   "desc": "Sleazy Place - Lead Lauren to talk about her son",
+   "hidden": true,
+   "pct": 40.3,
+   "api_name": "Trophy_5",
+   "internal_key": 261
+  },
+  {
+   "name": "FBI Investigator",
+   "desc": "Crime Scene - Find all clues related to the Origami Killer in the scene",
+   "hidden": true,
+   "pct": 29.3,
+   "api_name": "Trophy_6",
+   "internal_key": 262
+  },
+  {
+   "name": "Good Friends",
+   "desc": "The Park - Play two games with Shaun successfully and buy him candy",
+   "hidden": true,
+   "pct": 19.8,
+   "api_name": "Trophy_7",
+   "internal_key": 263
+  },
+  {
+   "name": "Got To Remember!",
+   "desc": "Welcome, Norman! - Remember the time it was at the park and what Shaun was wearing",
+   "hidden": true,
+   "pct": 7.5,
+   "api_name": "Trophy_8",
+   "internal_key": 264
+  },
+  {
+   "name": "Negotiator",
+   "desc": "Hassan's Shop - Persuade the Robber to leave",
+   "hidden": true,
+   "pct": 9.8,
+   "api_name": "Trophy_9",
+   "internal_key": 265
+  },
+  {
+   "name": "VIP",
+   "desc": "Paparazzi - Leave home without being spotted by the journalists",
+   "hidden": true,
+   "pct": 26.3,
+   "api_name": "Trophy_10",
+   "internal_key": 266
+  },
+  {
+   "name": "Agoraphobia",
+   "desc": "Lexington Station - Knock down at least 50 passers-by",
+   "hidden": true,
+   "pct": 5.4,
+   "api_name": "Trophy_11",
+   "internal_key": 267
+  },
+  {
+   "name": "Lucky Locker",
+   "desc": "Lexington Station - Find the correct locker on first try",
+   "hidden": true,
+   "pct": 36.7,
+   "api_name": "Trophy_12",
+   "internal_key": 268
+  },
+  {
+   "name": "Blunder",
+   "desc": "Nathaniel - Shoot Nathaniel",
+   "hidden": true,
+   "pct": 23.4,
+   "api_name": "Trophy_13",
+   "internal_key": 269
+  },
+  {
+   "name": "Self Control",
+   "desc": "Nathaniel - Do not shoot Nathaniel",
+   "hidden": true,
+   "pct": 22.6,
+   "api_name": "Trophy_14",
+   "internal_key": 270
+  },
+  {
+   "name": "Baby Master",
+   "desc": "Suicide Baby - Make no mistakes taking care of the baby",
+   "hidden": true,
+   "pct": 8.9,
+   "api_name": "Trophy_15",
+   "internal_key": 271
+  },
+  {
+   "name": "Kamikaze",
+   "desc": "The Bear - Take the best route on the highway",
+   "hidden": true,
+   "pct": 4.0,
+   "api_name": "Trophy_16",
+   "internal_key": 272
+  },
+  {
+   "name": "Good Driver",
+   "desc": "The Bear - Complete the Bear Trial successfully",
+   "hidden": true,
+   "pct": 36.3,
+   "api_name": "Trophy_17",
+   "internal_key": 273
+  },
+  {
+   "name": "Cat & Mouse",
+   "desc": "Covered Market - Beat Korda in the cold storage",
+   "hidden": true,
+   "pct": 34.3,
+   "api_name": "Trophy_18",
+   "internal_key": 274
+  },
+  {
+   "name": "Tough Guy",
+   "desc": "Kramer's Party - Defeat Gordi's bodyguards",
+   "hidden": true,
+   "pct": 33.9,
+   "api_name": "Trophy_19",
+   "internal_key": 275
+  },
+  {
+   "name": "Coward!",
+   "desc": "The Butterfly - Give up or fail the Butterfly Trial",
+   "hidden": true,
+   "pct": 9.2,
+   "api_name": "Trophy_20",
+   "internal_key": 276
+  },
+  {
+   "name": "Electrified",
+   "desc": "The Butterfly - Complete the Butterfly Trial successfully",
+   "hidden": true,
+   "pct": 32.5,
+   "api_name": "Trophy_21",
+   "internal_key": 277
+  },
+  {
+   "name": "Good Cop",
+   "desc": "Shrink and Punches - Stop Blake from hitting Dupré",
+   "hidden": true,
+   "pct": 35.6,
+   "api_name": "Trophy_22",
+   "internal_key": 278
+  },
+  {
+   "name": "Bad Cop",
+   "desc": "Shrink and Punches - Do not stop Blake from hitting Dupré",
+   "hidden": true,
+   "pct": 3.0,
+   "api_name": "Trophy_23",
+   "internal_key": 279
+  },
+  {
+   "name": "Gold Finger",
+   "desc": "The Lizard - Cut your finger using axe, knife or pliers + disinfect or cauterize the wound",
+   "hidden": true,
+   "pct": 16.7,
+   "api_name": "Trophy_24",
+   "internal_key": 280
+  },
+  {
+   "name": "Butcher",
+   "desc": "The Lizard - Cut your finger using saw or scissors",
+   "hidden": true,
+   "pct": 5.8,
+   "api_name": "Trophy_25",
+   "internal_key": 281
+  },
+  {
+   "name": "Fugitive",
+   "desc": "Fugitive - Manage to escape Blake in the subway station",
+   "hidden": true,
+   "pct": 24.0,
+   "api_name": "Trophy_26",
+   "internal_key": 282
+  },
+  {
+   "name": "Hands Up!",
+   "desc": "Fugitive or On the Loose - Get arrested by Blake ",
+   "hidden": true,
+   "pct": 18.8,
+   "api_name": "Trophy_27",
+   "internal_key": 283
+  },
+  {
+   "name": "Ludwig Von",
+   "desc": "Jayden Blues - Play the piano without a wrong note",
+   "hidden": true,
+   "pct": 20.7,
+   "api_name": "Trophy_28",
+   "internal_key": 284
+  },
+  {
+   "name": "Detox",
+   "desc": "Jayden Blues - Resist Triptocaine ",
+   "hidden": true,
+   "pct": 19.3,
+   "api_name": "Trophy_29",
+   "internal_key": 285
+  },
+  {
+   "name": "Wise Guy",
+   "desc": "Under Arrest - Switch the camera off in the surveillance room before saving Ethan",
+   "hidden": true,
+   "pct": 15.7,
+   "api_name": "Trophy_30",
+   "internal_key": 286
+  },
+  {
+   "name": "I'm a Killer...",
+   "desc": "The Shark - Kill the Drug Dealer",
+   "hidden": true,
+   "pct": 17.2,
+   "api_name": "Trophy_31",
+   "internal_key": 287
+  },
+  {
+   "name": "I'm not a Killer!",
+   "desc": "The Shark - Do not kill the Drug Dealer",
+   "hidden": true,
+   "pct": 18.1,
+   "api_name": "Trophy_32",
+   "internal_key": 512
+  },
+  {
+   "name": "Smart Girl",
+   "desc": "The Doc - Do not drink the Doc's beverage",
+   "hidden": true,
+   "pct": 24.6,
+   "api_name": "Trophy_33",
+   "internal_key": 513
+  },
+  {
+   "name": "Queen of Ropes",
+   "desc": "The Doc - Escape before the Doc returns",
+   "hidden": true,
+   "pct": 26.0,
+   "api_name": "Trophy_34",
+   "internal_key": 514
+  },
+  {
+   "name": "Goodbye Mad Jack",
+   "desc": "Mad Jack - Survive the fights against Mad Jack",
+   "hidden": true,
+   "pct": 14.5,
+   "api_name": "Trophy_35",
+   "internal_key": 515
+  },
+  {
+   "name": "The Chef",
+   "desc": "Eureka - Prepare a good omelette on time",
+   "hidden": true,
+   "pct": 26.2,
+   "api_name": "Trophy_36",
+   "internal_key": 516
+  },
+  {
+   "name": "I'm not Scared!",
+   "desc": "Twins - Follow your brother without making any mistakes",
+   "hidden": true,
+   "pct": 3.2,
+   "api_name": "Trophy_37",
+   "internal_key": 517
+  },
+  {
+   "name": "Pride Saved",
+   "desc": "Sexy Girl - Take off no more than one item of clothing during the strip-tease",
+   "hidden": true,
+   "pct": 20.3,
+   "api_name": "Trophy_38",
+   "internal_key": 518
+  },
+  {
+   "name": "Unforgivable",
+   "desc": "On the Loose - Do not forgive Madison",
+   "hidden": true,
+   "pct": 3.8,
+   "api_name": "Trophy_39",
+   "internal_key": 519
+  },
+  {
+   "name": "Lover Boy",
+   "desc": "On the Loose - Forgive Madison",
+   "hidden": true,
+   "pct": 24.5,
+   "api_name": "Trophy_40",
+   "internal_key": 520
+  },
+  {
+   "name": "Escape Master",
+   "desc": "On the Loose - Escape the police at the motel",
+   "hidden": true,
+   "pct": 27.8,
+   "api_name": "Trophy_41",
+   "internal_key": 521
+  },
+  {
+   "name": "Swimming Instructor",
+   "desc": "Trapped - Save Lauren underwater",
+   "hidden": true,
+   "pct": 23.3,
+   "api_name": "Trophy_42",
+   "internal_key": 522
+  },
+  {
+   "name": "Invincible Scott",
+   "desc": "Face to Face - Do not get shot in Kramer's villa",
+   "hidden": true,
+   "pct": 17.8,
+   "api_name": "Trophy_43",
+   "internal_key": 523
+  },
+  {
+   "name": "Kind Hearted",
+   "desc": "Face to Face - Give Kramer his medicine",
+   "hidden": true,
+   "pct": 23.4,
+   "api_name": "Trophy_44",
+   "internal_key": 524
+  },
+  {
+   "name": "Sacrifice",
+   "desc": "The Rat - Drink the poison",
+   "hidden": true,
+   "pct": 23.9,
+   "api_name": "Trophy_45",
+   "internal_key": 525
+  },
+  {
+   "name": "Clever Dad",
+   "desc": "The Rat - Work out where Shaun is held",
+   "hidden": true,
+   "pct": 17.0,
+   "api_name": "Trophy_46",
+   "internal_key": 526
+  },
+  {
+   "name": "Cold as Ice",
+   "desc": "Killer's Place - Survive the explosion by hiding in the fridge",
+   "hidden": true,
+   "pct": 22.8,
+   "api_name": "Trophy_47",
+   "internal_key": 527
+  },
+  {
+   "name": "Simple Mind",
+   "desc": "The Old Warehouse - Save the Origami Killer before he falls, with Jayden or Madison",
+   "hidden": true,
+   "pct": 16.8,
+   "api_name": "Trophy_48",
+   "internal_key": 528
+  },
+  {
+   "name": "So Close...",
+   "desc": "The Old Warehouse - Reach the end with all characters... and fail",
+   "hidden": true,
+   "pct": 2.8,
+   "api_name": "Trophy_49",
+   "internal_key": 529
+  },
+  {
+   "name": "HEAVY RAIN™ Hero",
+   "desc": "Finish HEAVY RAIN™",
+   "hidden": false,
+   "pct": 31.5,
+   "api_name": "Trophy_50",
+   "internal_key": 530
+  },
+  {
+   "name": "Four Heroes",
+   "desc": "Complete the story with four characters alive",
+   "hidden": false,
+   "pct": 19.4,
+   "api_name": "Trophy_51",
+   "internal_key": 531
+  },
+  {
+   "name": "Trial Master",
+   "desc": "Succeeded in all Ethan's trials",
+   "hidden": true,
+   "pct": 11.2,
+   "api_name": "Trophy_52",
+   "internal_key": 532
+  },
+  {
+   "name": "Nerd",
+   "desc": "Find all clues using ARI (Crime scene + Mad Jack + Fish tank) and find the Origami Killer",
+   "hidden": true,
+   "pct": 16.4,
+   "api_name": "Trophy_53",
+   "internal_key": 533
+  },
+  {
+   "name": "Saved the Kid",
+   "desc": "Save Shaun",
+   "hidden": true,
+   "pct": 29.8,
+   "api_name": "Trophy_54",
+   "internal_key": 534
+  },
+  {
+   "name": "Perfect Crime",
+   "desc": "Clean Manfred's shop of evidence + Let Lauren, Hassan and Kramer die + Kill Madison and Jayden + Origami Killer free",
+   "hidden": true,
+   "pct": 2.1,
+   "api_name": "Trophy_55",
+   "internal_key": 535
+  },
+  {
+   "name": "All Endings",
+   "desc": "See all endings",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "Trophy_56",
+   "internal_key": 536
+  }
+ ]
+}

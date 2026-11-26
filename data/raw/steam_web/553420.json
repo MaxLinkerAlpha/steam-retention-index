@@ -1,0 +1,297 @@
+{
+ "appid": 553420,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 36,
+ "achievements": [
+  {
+   "name": "A Stick!",
+   "desc": "Found a stick",
+   "hidden": true,
+   "pct": 96.6,
+   "api_name": "STICK",
+   "internal_key": 256
+  },
+  {
+   "name": "A Sword!",
+   "desc": "Found a sword",
+   "hidden": true,
+   "pct": 81.2,
+   "api_name": "SWORD",
+   "internal_key": 257
+  },
+  {
+   "name": "What just happened?",
+   "desc": "Was resurrected",
+   "hidden": true,
+   "pct": 87.2,
+   "api_name": "RESURRECTION",
+   "internal_key": 258
+  },
+  {
+   "name": "Ding",
+   "desc": "Rang the Eastern Bell",
+   "hidden": false,
+   "pct": 75.8,
+   "api_name": "EASTBELL",
+   "internal_key": 259
+  },
+  {
+   "name": "Dong",
+   "desc": "Rang the Western Bell",
+   "hidden": false,
+   "pct": 53.6,
+   "api_name": "WESTBELL",
+   "internal_key": 260
+  },
+  {
+   "name": "You hear a strange hum",
+   "desc": "Engaged a strange device",
+   "hidden": true,
+   "pct": 51.4,
+   "api_name": "FUSE",
+   "internal_key": 261
+  },
+  {
+   "name": "Your gift is accepted",
+   "desc": "Made an offering",
+   "hidden": true,
+   "pct": 58.0,
+   "api_name": "OFFERING",
+   "internal_key": 262
+  },
+  {
+   "name": "Deep In The Forest",
+   "desc": "Found the red key",
+   "hidden": false,
+   "pct": 46.3,
+   "api_name": "HEX1",
+   "internal_key": 263
+  },
+  {
+   "name": "High Above The Clouds",
+   "desc": "Found the green key",
+   "hidden": false,
+   "pct": 44.5,
+   "api_name": "HEX2",
+   "internal_key": 264
+  },
+  {
+   "name": "At The Root of The World",
+   "desc": "Found the blue key",
+   "hidden": false,
+   "pct": 41.8,
+   "api_name": "HEX3",
+   "internal_key": 265
+  },
+  {
+   "name": "What now?",
+   "desc": "Completed key collection",
+   "hidden": true,
+   "pct": 41.5,
+   "api_name": "GYRO",
+   "internal_key": 266
+  },
+  {
+   "name": "You feel a tingling...",
+   "desc": "Earned the Cathedral's Prize",
+   "hidden": true,
+   "pct": 38.5,
+   "api_name": "DASH",
+   "internal_key": 267
+  },
+  {
+   "name": "Your body is restored.",
+   "desc": "Restored corporeal form",
+   "hidden": true,
+   "pct": 36.0,
+   "api_name": "RELICS",
+   "internal_key": 268
+  },
+  {
+   "name": "Game Over",
+   "desc": "Found your rightful place",
+   "hidden": true,
+   "pct": 24.0,
+   "api_name": "BADEND",
+   "internal_key": 269
+  },
+  {
+   "name": "Thank you for playing!",
+   "desc": "Completed the Manual",
+   "hidden": true,
+   "pct": 24.9,
+   "api_name": "MANUAL",
+   "internal_key": 270
+  },
+  {
+   "name": "I'm free!",
+   "desc": "Freed a friendly fairy",
+   "hidden": true,
+   "pct": 33.9,
+   "api_name": "FAIRY",
+   "internal_key": 271
+  },
+  {
+   "name": "Mr Mayor",
+   "desc": "Found Secret Treasure #1",
+   "hidden": true,
+   "pct": 29.7,
+   "api_name": "GT1",
+   "internal_key": 272
+  },
+  {
+   "name": "A Secret Legend",
+   "desc": "Found Secret Treasure #2",
+   "hidden": true,
+   "pct": 16.2,
+   "api_name": "GT2",
+   "internal_key": 273
+  },
+  {
+   "name": "Sacred Geometry",
+   "desc": "Found Secret Treasure #3",
+   "hidden": true,
+   "pct": 26.9,
+   "api_name": "GT3",
+   "internal_key": 274
+  },
+  {
+   "name": "Vintage",
+   "desc": "Found Secret Treasure #4",
+   "hidden": true,
+   "pct": 16.2,
+   "api_name": "GT4",
+   "internal_key": 275
+  },
+  {
+   "name": "Just Some Pals",
+   "desc": "Found Secret Treasure #5",
+   "hidden": true,
+   "pct": 17.7,
+   "api_name": "GT5",
+   "internal_key": 276
+  },
+  {
+   "name": "Regal Weasel",
+   "desc": "Found Secret Treasure #6",
+   "hidden": true,
+   "pct": 25.3,
+   "api_name": "GT6",
+   "internal_key": 277
+  },
+  {
+   "name": "Spring Falls",
+   "desc": "Found Secret Treasure #7",
+   "hidden": true,
+   "pct": 20.6,
+   "api_name": "GT7",
+   "internal_key": 278
+  },
+  {
+   "name": "Power Up",
+   "desc": "Found Secret Treasure #8",
+   "hidden": true,
+   "pct": 17.5,
+   "api_name": "GT8",
+   "internal_key": 279
+  },
+  {
+   "name": "Back to Work",
+   "desc": "Found Secret Treasure #9",
+   "hidden": true,
+   "pct": 18.2,
+   "api_name": "GT9",
+   "internal_key": 280
+  },
+  {
+   "name": "Phonomath",
+   "desc": "Found Secret Treasure #10",
+   "hidden": true,
+   "pct": 16.9,
+   "api_name": "GT10",
+   "internal_key": 281
+  },
+  {
+   "name": "Dusty",
+   "desc": "Found Secret Treasure #11",
+   "hidden": true,
+   "pct": 22.3,
+   "api_name": "GT11",
+   "internal_key": 282
+  },
+  {
+   "name": "Forever Friend",
+   "desc": "Found Secret Treasure #12",
+   "hidden": true,
+   "pct": 19.2,
+   "api_name": "GT12",
+   "internal_key": 283
+  },
+  {
+   "name": "Lawnmower",
+   "desc": "Chopped down 1000 blades of grass",
+   "hidden": true,
+   "pct": 59.2,
+   "api_name": "GRASS",
+   "internal_key": 284
+  },
+  {
+   "name": "Too Cute To Smash",
+   "desc": "Had 10 moneybanks at once",
+   "hidden": true,
+   "pct": 7.4,
+   "api_name": "PIGGYBANKS",
+   "internal_key": 285
+  },
+  {
+   "name": "Nothing happened...",
+   "desc": "Made a wish",
+   "hidden": true,
+   "pct": 51.5,
+   "api_name": "COIN1",
+   "internal_key": 286
+  },
+  {
+   "name": "Well done!",
+   "desc": "Made 15 wishes",
+   "hidden": true,
+   "pct": 11.3,
+   "api_name": "COIN15",
+   "internal_key": 287
+  },
+  {
+   "name": "It uses stamina",
+   "desc": "Perfectly executed a special technique",
+   "hidden": true,
+   "pct": 71.7,
+   "api_name": "ROLLSTAB",
+   "internal_key": 512
+  },
+  {
+   "name": "Bring it to the wrong fight",
+   "desc": "Found a certain weapon before getting a sword. (Page 38)",
+   "hidden": true,
+   "pct": 6.7,
+   "api_name": "WRONGFIGHT",
+   "internal_key": 513
+  },
+  {
+   "name": "Whoops",
+   "desc": "Froze yourself",
+   "hidden": true,
+   "pct": 37.8,
+   "api_name": "FREEZESELF",
+   "internal_key": 514
+  },
+  {
+   "name": "Your pocket feels heavier...",
+   "desc": "Understood the margin of page 17",
+   "hidden": true,
+   "pct": 58.7,
+   "api_name": "BONUSBOMB",
+   "internal_key": 515
+  }
+ ]
+}

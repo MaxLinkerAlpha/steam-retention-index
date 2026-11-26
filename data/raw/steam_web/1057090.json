@@ -1,0 +1,305 @@
+{
+ "appid": 1057090,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 37,
+ "achievements": [
+  {
+   "name": "Close Call",
+   "desc": "Fend off Howl",
+   "hidden": true,
+   "pct": 79.6,
+   "api_name": "1",
+   "internal_key": 256
+  },
+  {
+   "name": "Take the Bug by the Horn",
+   "desc": "Defeat the Horn Beetle",
+   "hidden": true,
+   "pct": 57.7,
+   "api_name": "3",
+   "internal_key": 258
+  },
+  {
+   "name": "Laser Brain",
+   "desc": "Defeat the Willow Stone",
+   "hidden": true,
+   "pct": 36.0,
+   "api_name": "4",
+   "internal_key": 259
+  },
+  {
+   "name": "Home Sweet Home",
+   "desc": "Reach the Wellspring Glades",
+   "hidden": true,
+   "pct": 54.5,
+   "api_name": "7",
+   "internal_key": 262
+  },
+  {
+   "name": "Let the Waters Flow",
+   "desc": "Clear the Watermill",
+   "hidden": true,
+   "pct": 50.1,
+   "api_name": "8",
+   "internal_key": 263
+  },
+  {
+   "name": "Icy Escape",
+   "desc": "Escape the Avalanche",
+   "hidden": true,
+   "pct": 38.6,
+   "api_name": "9",
+   "internal_key": 264
+  },
+  {
+   "name": "Dark Triumph",
+   "desc": "Fend off Mora",
+   "hidden": true,
+   "pct": 39.5,
+   "api_name": "10",
+   "internal_key": 265
+  },
+  {
+   "name": "Guardian's Rest",
+   "desc": "Fend off Kwolok",
+   "hidden": true,
+   "pct": 39.6,
+   "api_name": "11",
+   "internal_key": 266
+  },
+  {
+   "name": "Quick Sand",
+   "desc": "Escape the Ruins",
+   "hidden": true,
+   "pct": 37.0,
+   "api_name": "12",
+   "internal_key": 267
+  },
+  {
+   "name": "Stone Cold",
+   "desc": "Defeat Shriek",
+   "hidden": true,
+   "pct": 35.4,
+   "api_name": "13",
+   "internal_key": 268
+  },
+  {
+   "name": "Destiny",
+   "desc": "Complete the Game",
+   "hidden": false,
+   "pct": 35.5,
+   "api_name": "14",
+   "internal_key": 269
+  },
+  {
+   "name": "Hardcore Fan",
+   "desc": "Complete Hard Mode",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "15",
+   "internal_key": 270
+  },
+  {
+   "name": "Tools of the Trade",
+   "desc": "Unlock all Abilities",
+   "hidden": false,
+   "pct": 25.4,
+   "api_name": "16",
+   "internal_key": 271
+  },
+  {
+   "name": "Mad Skills",
+   "desc": "Upgrade all Abilities",
+   "hidden": false,
+   "pct": 20.4,
+   "api_name": "17",
+   "internal_key": 272
+  },
+  {
+   "name": "Fully Slotted",
+   "desc": "Upgrade all Shard Slots",
+   "hidden": false,
+   "pct": 30.6,
+   "api_name": "18",
+   "internal_key": 273
+  },
+  {
+   "name": "Shard Hunter",
+   "desc": "Unlock all Shards",
+   "hidden": false,
+   "pct": 16.4,
+   "api_name": "19",
+   "internal_key": 274
+  },
+  {
+   "name": "Shard Specialist",
+   "desc": "Upgrade all Shards",
+   "hidden": false,
+   "pct": 10.9,
+   "api_name": "20",
+   "internal_key": 275
+  },
+  {
+   "name": "Powerful",
+   "desc": "Max out Energy",
+   "hidden": false,
+   "pct": 16.9,
+   "api_name": "22",
+   "internal_key": 277
+  },
+  {
+   "name": "Cartographer's Protégé",
+   "desc": "Buy all Maps from Lupo",
+   "hidden": false,
+   "pct": 20.0,
+   "api_name": "23",
+   "internal_key": 278
+  },
+  {
+   "name": "Shrine Bright",
+   "desc": "Complete all Spirit Shrines",
+   "hidden": false,
+   "pct": 30.8,
+   "api_name": "24",
+   "internal_key": 279
+  },
+  {
+   "name": "Lost and Found",
+   "desc": "Find all Collectibles",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "25",
+   "internal_key": 280
+  },
+  {
+   "name": "Mark of the Trader",
+   "desc": "Complete the Trade Sequence Quest",
+   "hidden": false,
+   "pct": 20.5,
+   "api_name": "26",
+   "internal_key": 281
+  },
+  {
+   "name": "Completionist",
+   "desc": "Complete every Side Quest",
+   "hidden": false,
+   "pct": 17.2,
+   "api_name": "27",
+   "internal_key": 282
+  },
+  {
+   "name": "Fixer Upper",
+   "desc": "Complete all Wellspring Glades Projects",
+   "hidden": false,
+   "pct": 18.1,
+   "api_name": "28",
+   "internal_key": 283
+  },
+  {
+   "name": "Speed Demon",
+   "desc": "Complete all Spirit Trials",
+   "hidden": false,
+   "pct": 10.9,
+   "api_name": "29",
+   "internal_key": 284
+  },
+  {
+   "name": "Healthy",
+   "desc": "Max out Life",
+   "hidden": false,
+   "pct": 17.9,
+   "api_name": "21",
+   "internal_key": 285
+  },
+  {
+   "name": "Untouchable",
+   "desc": "Defeat Mora Without Taking any Damage",
+   "hidden": true,
+   "pct": 2.3,
+   "api_name": "30",
+   "internal_key": 286
+  },
+  {
+   "name": "Timely Demise",
+   "desc": "Defeat Kwolok in Under 2 Minutes",
+   "hidden": true,
+   "pct": 39.4,
+   "api_name": "31",
+   "internal_key": 287
+  },
+  {
+   "name": "Juggling Act",
+   "desc": "Juggle 3 or More Projectiles in the Air for Over 5 Seconds",
+   "hidden": false,
+   "pct": 49.2,
+   "api_name": "32",
+   "internal_key": 512
+  },
+  {
+   "name": "Bring it On",
+   "desc": "Defeat 5 Enemies Without Touching the Ground",
+   "hidden": false,
+   "pct": 37.3,
+   "api_name": "33",
+   "internal_key": 513
+  },
+  {
+   "name": "High and Dry",
+   "desc": "Avoid Touching any Corrupted Water",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "34",
+   "internal_key": 514
+  },
+  {
+   "name": "Damage Spike",
+   "desc": "Defeat 3 Enemies with a Single Spike",
+   "hidden": false,
+   "pct": 12.6,
+   "api_name": "35",
+   "internal_key": 515
+  },
+  {
+   "name": "Did I Do That?",
+   "desc": "Defeat 10 Enemies using Environmental Hazards",
+   "hidden": false,
+   "pct": 60.4,
+   "api_name": "37",
+   "internal_key": 517
+  },
+  {
+   "name": "Shardless",
+   "desc": "Beat the Game Without Equipping a Shard",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "38",
+   "internal_key": 518
+  },
+  {
+   "name": "Lightless",
+   "desc": "Beat the Game Without Spending any Spirit Light",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "39",
+   "internal_key": 519
+  },
+  {
+   "name": "Look at the Time",
+   "desc": "Complete the Game in Under 4 Hours",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "40",
+   "internal_key": 520
+  },
+  {
+   "name": "Immortal",
+   "desc": "Complete the Game without Dying",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "41",
+   "internal_key": 521
+  }
+ ]
+}

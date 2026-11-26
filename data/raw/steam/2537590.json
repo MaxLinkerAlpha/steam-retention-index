@@ -1,0 +1,197 @@
+{
+ "appid": 2537590,
+ "game": "Microsoft Flight Simulator 2024",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 27,
+ "achievements": [
+  {
+   "api": "1",
+   "name": "First Flight",
+   "desc": "Complete a flight in any game mode",
+   "hidden": false,
+   "pct": 93.7
+  },
+  {
+   "api": "27",
+   "name": "Earning Your Wings",
+   "desc": "Earn your Private Pilots License in the Career",
+   "hidden": false,
+   "pct": 46.0
+  },
+  {
+   "api": "25",
+   "name": "Baby Steps",
+   "desc": "Complete your first tutorial training mission",
+   "hidden": false,
+   "pct": 43.8
+  },
+  {
+   "api": "7",
+   "name": "Aced It!",
+   "desc": "Achieve an A grade in any base Training mission",
+   "hidden": false,
+   "pct": 34.1
+  },
+  {
+   "api": "10",
+   "name": "Touch and Go",
+   "desc": "Perform a touch-and-go landing at 2 different airports in a single session",
+   "hidden": false,
+   "pct": 19.7
+  },
+  {
+   "api": "29",
+   "name": "Entrepreneurial Spirit",
+   "desc": "Create your first company in the Career",
+   "hidden": false,
+   "pct": 16.6
+  },
+  {
+   "api": "12",
+   "name": "On Your Way",
+   "desc": "Accumulate 50 hours of total flight time",
+   "hidden": false,
+   "pct": 15.0
+  },
+  {
+   "api": "6",
+   "name": "Your Own Private Pilot",
+   "desc": "Take off from an airport and land at another in an aircraft you own",
+   "hidden": false,
+   "pct": 11.0
+  },
+  {
+   "api": "20",
+   "name": "Amateur Photographer",
+   "desc": "Take a photo in World Photographer, using photo mode",
+   "hidden": false,
+   "pct": 9.5
+  },
+  {
+   "api": "26",
+   "name": "Extensive Training",
+   "desc": "Complete all Basic Handling, Take Off and Landing, and VFR training missions",
+   "hidden": false,
+   "pct": 9.4
+  },
+  {
+   "api": "4",
+   "name": "5K Fun Run",
+   "desc": "Walk or run for 5km total",
+   "hidden": false,
+   "pct": 9.2
+  },
+  {
+   "api": "28",
+   "name": "Growing the Fleet",
+   "desc": "Purchase 5 aircraft in the Career",
+   "hidden": false,
+   "pct": 6.6
+  },
+  {
+   "api": "14",
+   "name": "Multi-talented",
+   "desc": "Have a rank in each active weekly Challenge in the Challenge League",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "16",
+   "name": "Challenger",
+   "desc": "Complete 10 weekly Challenges in the Challenge League",
+   "hidden": false,
+   "pct": 3.6
+  },
+  {
+   "api": "3",
+   "name": "Wind Whisperer",
+   "desc": "Soar for 20 minutes in a glider",
+   "hidden": false,
+   "pct": 3.5
+  },
+  {
+   "api": "5",
+   "name": "Give Us a Wave",
+   "desc": "Successfully complete 30 seaplane landings without incident",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "19",
+   "name": "Overachiever",
+   "desc": "Earn all 20 base certifications in the Career",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "8",
+   "name": "Jack of all Trades",
+   "desc": "Complete 3 missions in each of the World Photographer, Career, and Challenge League modes",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "13",
+   "name": "Helo Hero",
+   "desc": "Complete 50 successful landings at any heliport with no incidents",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "17",
+   "name": "Thrillseeker",
+   "desc": "Complete 100 weekly Challenges in the Challenge League",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "2",
+   "name": "Say Threese",
+   "desc": "Take three 3 star photos in World Photographer, in three separate collections",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "11",
+   "name": "Eclectic Eagle",
+   "desc": "Accumulate 2 hours of flight each in a jet, airliner, glider, and rotorcraft",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "9",
+   "name": "Skyward Sightseer",
+   "desc": "Visit 7 landmarks by hot-air balloon. Stay within 1 km for 3 minutes at each landmark you visit",
+   "hidden": false,
+   "pct": 0.2
+  },
+  {
+   "api": "21",
+   "name": "Scrapbooking",
+   "desc": "Complete a Collection Page in World Photographer",
+   "hidden": false,
+   "pct": 0.2
+  },
+  {
+   "api": "22",
+   "name": "Expanded Portfolio",
+   "desc": "Complete 10 Collection Pages in World Photographer",
+   "hidden": false,
+   "pct": 0.1
+  },
+  {
+   "api": "23",
+   "name": "Multifaceted Photography",
+   "desc": "Complete a Collection Page for Aviation, Man-Made, Nature, and Fauna in World Photographer",
+   "hidden": false,
+   "pct": 0.1
+  },
+  {
+   "api": "24",
+   "name": "Sky Full of Stars",
+   "desc": "Collect 100 Stars in World Photographer",
+   "hidden": false,
+   "pct": 0.1
+  }
+ ]
+}

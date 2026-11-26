@@ -1,0 +1,799 @@
+{
+ "appid": 208650,
+ "game": "Batman™: Arkham Knight",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 113,
+ "achievements": [
+  {
+   "api": "EACID_MP_Journey_into_Knight",
+   "name": "Journey into Knight",
+   "desc": "Even The Odds.",
+   "hidden": false,
+   "pct": 86.0
+  },
+  {
+   "api": "EACID_MP_Trail_of_Fear",
+   "name": "Trail of Fear",
+   "desc": "Lock up your first Supervillain in GCPD.",
+   "hidden": false,
+   "pct": 77.1
+  },
+  {
+   "api": "EACID_MP_The_Frequency_of_Fear",
+   "name": "The Frequency of Fear",
+   "desc": "Scan Gotham City to pinpoint Scarecrow's location.",
+   "hidden": false,
+   "pct": 63.5
+  },
+  {
+   "api": "EACID_MP_Fear_of_Faith",
+   "name": "Fear of Faith",
+   "desc": "Rescue the ACE Chemical workers.",
+   "hidden": false,
+   "pct": 57.7
+  },
+  {
+   "api": "EACID_MP_As_the_Crow_Flies",
+   "name": "As the Crow Flies",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.4
+  },
+  {
+   "api": "EACID_MP_No_Mans_Land",
+   "name": "No Man's Land",
+   "desc": "Restore power to the bridges of Gotham City.",
+   "hidden": false,
+   "pct": 51.7
+  },
+  {
+   "api": "EACID_RI_The_Road_to_Hell",
+   "name": "The Road to Hell",
+   "desc": "Successfully complete the first Riddler trial.",
+   "hidden": false,
+   "pct": 50.1
+  },
+  {
+   "api": "EACID_MP_Living_Hell",
+   "name": "Living Hell",
+   "desc": "Interrogate the Militia APC Driver.",
+   "hidden": false,
+   "pct": 47.1
+  },
+  {
+   "api": "EACID_MP_Cold_World",
+   "name": "Cold World",
+   "desc": "Destroy the first weapons cache in Gotham City.",
+   "hidden": false,
+   "pct": 45.9
+  },
+  {
+   "api": "EACID_MP_A_Battle_Within",
+   "name": "A Battle Within",
+   "desc": "",
+   "hidden": true,
+   "pct": 44.6
+  },
+  {
+   "api": "EACID_MP_Dark_Wings_Fly_Away_in_Fear",
+   "name": "Dark Wings Fly Away in Fear",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.8
+  },
+  {
+   "api": "EACID_MP_With_a_Vengeance",
+   "name": "With a Vengeance!",
+   "desc": "Take on the heavy artillery reinforcements.",
+   "hidden": false,
+   "pct": 42.2
+  },
+  {
+   "api": "EACID_MP_Strange_Deadfellows",
+   "name": "Strange Deadfellows",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.5
+  },
+  {
+   "api": "EACID_MP_Creature_of_the_Night",
+   "name": "Creature of the Night",
+   "desc": "Freedom of the city.",
+   "hidden": false,
+   "pct": 39.2
+  },
+  {
+   "api": "EACID_MP_Brothers_in_Arms",
+   "name": "Brotherhood of the Fist",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.9
+  },
+  {
+   "api": "EACID_MP_A_Heart_Broken_in_Two",
+   "name": "A Heart Broken in Two",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.2
+  },
+  {
+   "api": "EACID_RI_Pieces_of_the_Puzzle",
+   "name": "Pieces of the Puzzle",
+   "desc": "Obtain a key by completing the second Riddler trial.",
+   "hidden": false,
+   "pct": 36.5
+  },
+  {
+   "api": "EACID_OT_Death_and_Glory",
+   "name": "Death and Glory",
+   "desc": "Perform 20 fear takedowns.",
+   "hidden": false,
+   "pct": 36.4
+  },
+  {
+   "api": "EACID_MP_City_of_Fear",
+   "name": "City of Fear",
+   "desc": "Defend the assault on your ally's fortress.",
+   "hidden": false,
+   "pct": 36.3
+  },
+  {
+   "api": "EACID_MW_Two_Faces_of_Fear",
+   "name": "Two Faces of Fear!",
+   "desc": "Stop the bank heist on Bleake Island.",
+   "hidden": false,
+   "pct": 36.0
+  },
+  {
+   "api": "EACID_MP_Who_Rules_The_Night",
+   "name": "Who Rules The Night",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.2
+  },
+  {
+   "api": "EACID_OT_Cycle_of_Violence",
+   "name": "Cycle of Violence",
+   "desc": "Use 100 Quick Gadgets while in free flow combat.",
+   "hidden": false,
+   "pct": 34.6
+  },
+  {
+   "api": "EACID_RI_Riddles_in_the_Dark",
+   "name": "The Cat and the Bat",
+   "desc": "Obtain a key by completing the third Riddler trial.",
+   "hidden": false,
+   "pct": 34.6
+  },
+  {
+   "api": "EACID_MP_Judgement_Day",
+   "name": "Judgment Day",
+   "desc": "Win the rumble down under.",
+   "hidden": false,
+   "pct": 33.8
+  },
+  {
+   "api": "EACID_MP_Fear_of_Success",
+   "name": "Fear of Success",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.6
+  },
+  {
+   "api": "EACID_MW_Beautiful_Boy",
+   "name": "Beautiful Boy",
+   "desc": "Destroy the second weapons cache in Gotham City.",
+   "hidden": false,
+   "pct": 33.4
+  },
+  {
+   "api": "EACID_MW_Two_Sides_of_the_Same_Coin",
+   "name": "Two Sides of the Same Coin!",
+   "desc": "Stop the bank heist on Founders' Island.",
+   "hidden": false,
+   "pct": 33.2
+  },
+  {
+   "api": "EACID_MP_Be_Not_Afraid",
+   "name": "Be Not Afraid",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.5
+  },
+  {
+   "api": "EACID_RI_Riddler_on_the_Rampage",
+   "name": "Riddler on the Rampage",
+   "desc": "Obtain a key by completing the fourth Riddler trial.",
+   "hidden": false,
+   "pct": 32.5
+  },
+  {
+   "api": "EACID_MW_Double_Jeopardy",
+   "name": "Double Jeopardy",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.3
+  },
+  {
+   "api": "EACID_MW_Jekyll_and_Hyde",
+   "name": "Jekyll & Hyde",
+   "desc": "Stop the bank heist on Miagani Island and lock up the master mind in GCPD.",
+   "hidden": false,
+   "pct": 31.9
+  },
+  {
+   "api": "EACID_MP_Master_of_Fear",
+   "name": "Master of Fear",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.7
+  },
+  {
+   "api": "EACID_RI_The_Burning_Question",
+   "name": "The Burning Question",
+   "desc": "Obtain a key by completing the fifth Riddler trial.",
+   "hidden": false,
+   "pct": 31.4
+  },
+  {
+   "api": "EACID_RI_The_Primal_Riddle",
+   "name": "The Primal Riddle",
+   "desc": "Obtain a key by completing the sixth Riddler trial.",
+   "hidden": false,
+   "pct": 30.7
+  },
+  {
+   "api": "EACID_MW_Blind_Love",
+   "name": "Blind Love",
+   "desc": "Destroy the third weapons cache in Gotham City.",
+   "hidden": false,
+   "pct": 30.0
+  },
+  {
+   "api": "EACID_MW_The_Cult",
+   "name": "The Cult",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.4
+  },
+  {
+   "api": "EACID_MW_Scar_of_the_Bat",
+   "name": "Scar of the Bat",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.8
+  },
+  {
+   "api": "EACID_MW_Days_of_Fire",
+   "name": "Days of Fire",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.2
+  },
+  {
+   "api": "EACID_MW_Practice_Run",
+   "name": "Practice Run",
+   "desc": "Destroy the fourth weapons cache in Gotham City.",
+   "hidden": false,
+   "pct": 28.1
+  },
+  {
+   "api": "EACID_MW_Touch_of_Death",
+   "name": "Touch of Death",
+   "desc": "Apprehend the weapons dealer and lock him up in GCPD.",
+   "hidden": false,
+   "pct": 28.0
+  },
+  {
+   "api": "EACID_RI_Death_by_Design",
+   "name": "Death by Design",
+   "desc": "Obtain a key by completing the seventh Riddler trial.",
+   "hidden": false,
+   "pct": 27.4
+  },
+  {
+   "api": "EACID_OT_Dreamland",
+   "name": "Savage Metal",
+   "desc": "Smash 10 militia transport vehicles off the road without using the immobilizer.",
+   "hidden": false,
+   "pct": 27.3
+  },
+  {
+   "api": "EACID_RI_The_Riddle_Factory",
+   "name": "The Riddle Factory",
+   "desc": "Obtain a key by completing the eighth Riddler trial.",
+   "hidden": false,
+   "pct": 27.1
+  },
+  {
+   "api": "EACID_RI_Lethal_Pursuits",
+   "name": "Lethal Pursuits",
+   "desc": "Obtain a key by completing the ninth Riddler trial.",
+   "hidden": false,
+   "pct": 26.6
+  },
+  {
+   "api": "EACID_RI_Nine_Lives",
+   "name": "Nine Lives",
+   "desc": "Obtain a key by completing the last Riddler trial.",
+   "hidden": false,
+   "pct": 25.8
+  },
+  {
+   "api": "EACID_MW_The_Road_Home",
+   "name": "The Road Home",
+   "desc": "Destroy all of the militia APC's.",
+   "hidden": false,
+   "pct": 25.5
+  },
+  {
+   "api": "EACID_MW_Manhunt",
+   "name": "The Monster Machine",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.7
+  },
+  {
+   "api": "EACID_MW_Angel_in_the_Dark",
+   "name": "Angel in the Dark",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.1
+  },
+  {
+   "api": "EACID_MW_Gates_of_Gotham",
+   "name": "Gates of Gotham",
+   "desc": "Destroy all of the militia watchtowers.",
+   "hidden": false,
+   "pct": 21.3
+  },
+  {
+   "api": "EACID_DLCVillainHatter_The_Scene_Of_The_Crime",
+   "name": "The Scene of the Crime",
+   "desc": "Rescue Mad Hatter's first hostage.",
+   "hidden": false,
+   "pct": 20.9
+  },
+  {
+   "api": "EACID_MW_Streets_of_Gotham",
+   "name": "Streets of Gotham",
+   "desc": "Destroy all of the militia checkpoints.",
+   "hidden": false,
+   "pct": 20.0
+  },
+  {
+   "api": "EACID_MW_Death_of_Innocents",
+   "name": "Death of Innocents",
+   "desc": "Rescue station 17 fire crew.",
+   "hidden": false,
+   "pct": 19.6
+  },
+  {
+   "api": "EACID_MW_Gotham_Underground",
+   "name": "Gotham Underground",
+   "desc": "Defuse all of the militia explosive ordinance in Gotham City.",
+   "hidden": false,
+   "pct": 19.0
+  },
+  {
+   "api": "EACID_DLCVillainHatter_Mind_Games",
+   "name": "Head Games",
+   "desc": "Rescue Mad Hatter's second hostage.",
+   "hidden": false,
+   "pct": 19.0
+  },
+  {
+   "api": "EACID_MW_Dark_Allegiances",
+   "name": "Dark Allegiances",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.2
+  },
+  {
+   "api": "EACID_DLCVillainHatter_In_Storybook_Endings",
+   "name": "In Storybook Endings",
+   "desc": "Lock up Mad Hatter in GCPD.",
+   "hidden": false,
+   "pct": 17.9
+  },
+  {
+   "api": "EACID_DLCVillainRas_The_Demon_Lives_Again",
+   "name": "The Demon Lives Again!",
+   "desc": "Follow the assassin's trail.",
+   "hidden": false,
+   "pct": 17.6
+  },
+  {
+   "api": "EACID_DLCVillainCroc_The_Beast_Beneath",
+   "name": "The Beast Beneath",
+   "desc": "Defeat the prisoners.",
+   "hidden": false,
+   "pct": 17.2
+  },
+  {
+   "api": "EACID_OT_Seduction_of_the_Gun",
+   "name": "Seduction of the Gun",
+   "desc": "Achieve 50 critical shots on light tanks.",
+   "hidden": false,
+   "pct": 17.0
+  },
+  {
+   "api": "EACID_DLCVillainCroc_Breaking_The_Skin",
+   "name": "Breaking the Skin",
+   "desc": "Gain access to the high security area.",
+   "hidden": false,
+   "pct": 16.8
+  },
+  {
+   "api": "EACID_DLCVillainCroc_Evolution",
+   "name": "Evolution",
+   "desc": "Lockup Killer Croc in GCPD.",
+   "hidden": false,
+   "pct": 16.6
+  },
+  {
+   "api": "EACID_DLCVillainRas_Daughter_Of_The_Demon",
+   "name": "Daughter Of The Demon!",
+   "desc": "Discover the Lazarus pit.",
+   "hidden": false,
+   "pct": 16.4
+  },
+  {
+   "api": "EACID_DLCVillainRas_Ashes_To_Ashes",
+   "name": "Ashes to Ashes",
+   "desc": "End the League of Assassins' war.",
+   "hidden": false,
+   "pct": 16.2
+  },
+  {
+   "api": "EACID_DLCVillainFreeze_Cold_Case",
+   "name": "Cold Case",
+   "desc": "Interrogate the Militia Lieutenant.",
+   "hidden": false,
+   "pct": 16.2
+  },
+  {
+   "api": "EACID_DLCVillainFreeze_Out_In_The_Cold",
+   "name": "Out in the Cold",
+   "desc": "Track down the cryopod.",
+   "hidden": false,
+   "pct": 16.1
+  },
+  {
+   "api": "EACID_DLCVillainFreeze_The_Resurrection_And_The_Life",
+   "name": "The Resurrection and the Life",
+   "desc": "Survive the Militia onslaught.",
+   "hidden": false,
+   "pct": 16.1
+  },
+  {
+   "api": "EACID_DLCHarley_NightwingDefeated",
+   "name": "Cuckoo for Incarceration",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.0
+  },
+  {
+   "api": "EACID_DLCRedhood_BlackMaskDefeated",
+   "name": "Under The Red Hood",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.0
+  },
+  {
+   "api": "EACID_OT_Unseen",
+   "name": "Choice of Weapons",
+   "desc": "Use all five Batmobile weapons successfully in one tank battle.",
+   "hidden": false,
+   "pct": 11.9
+  },
+  {
+   "api": "EACID_DLCBatGirl_HostageFerrisWheel",
+   "name": "A Fire in the Heavens",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.6
+  },
+  {
+   "api": "EACID_DLCBatGirl_HostageMerryGoRound",
+   "name": "A House Made of Spun Glass",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.2
+  },
+  {
+   "api": "EACID_DLCBatGirl_HostageGhostShip",
+   "name": "The Laughing Fish!",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.9
+  },
+  {
+   "api": "EACID_DLCBatGirl_JokerDefeated",
+   "name": "A Courtship of Razors",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.6
+  },
+  {
+   "api": "EACID_DLCStoryGCPD_Rough_Justice",
+   "name": "Rough Justice",
+   "desc": "Stop Penguin's escape from GCPD.",
+   "hidden": false,
+   "pct": 8.8
+  },
+  {
+   "api": "EACID_MP_Knightfall",
+   "name": "Knightfall",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.6
+  },
+  {
+   "api": "EACID_RI_Riddle_Me_That",
+   "name": "Riddle Me That",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.6
+  },
+  {
+   "api": "EACID_DLCBatGirl_ScareHackThugDefeated",
+   "name": "Ambush",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.4
+  },
+  {
+   "api": "EACID_DLCStoryTwoFace_Succession_Plans",
+   "name": "Succession Plans",
+   "desc": "Break into Hell's Gate HQ and apprehend Two-Face.",
+   "hidden": false,
+   "pct": 7.8
+  },
+  {
+   "api": "EACID_DLCStoryCatwoman_Final_Jeopardy",
+   "name": "The Cat Came Back",
+   "desc": "Break into Riddler's secret hideout and exact your revenge.",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "EACID_OT_Sins_of_Youth",
+   "name": "Sins of Youth",
+   "desc": "Achieve 23 Stars in AR Challenges.",
+   "hidden": false,
+   "pct": 7.2
+  },
+  {
+   "api": "EACID_OT_Rite_of_Passage",
+   "name": "Dirty Tricks",
+   "desc": "Achieve 3 minutes of drifting time in the Batmobile.",
+   "hidden": false,
+   "pct": 6.2
+  },
+  {
+   "api": "EACID_OT_Gotham_After_Midnight",
+   "name": "Gotham After Midnight",
+   "desc": "Glide for 400 meters while less than 20 meters from the ground.",
+   "hidden": false,
+   "pct": 4.9
+  },
+  {
+   "api": "EACID_OT_Fortunate_Son",
+   "name": "Fortunate Son",
+   "desc": "Achieve 46 Stars in AR Challenges.",
+   "hidden": false,
+   "pct": 4.5
+  },
+  {
+   "api": "EACID_OT_The_Real_Deal",
+   "name": "The Real Deal",
+   "desc": "Takedown 20 moving cars without using the Batmobile.",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "EACID_MP_The_Long_Halloween",
+   "name": "The Long Halloween",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.8
+  },
+  {
+   "api": "EACID_OT_Absolution",
+   "name": "Absolution",
+   "desc": "Achieve 69 Stars in AR Challenges.",
+   "hidden": false,
+   "pct": 3.6
+  },
+  {
+   "api": "EACID_DLCBatGirl_Colletable",
+   "name": "A Blade of Memory",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.7
+  },
+  {
+   "api": "EACID_DLCBatGirl_HiddenTapes",
+   "name": "All Snug in Their Beds",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  },
+  {
+   "api": "EACID_RI_The_Riddle_Unanswered",
+   "name": "Point of Impact",
+   "desc": "Perform 5 perfect shots in a row with the Vulcan Gun without taking damage.",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "EACID_OT_Dead_to_Rights",
+   "name": "Brutality 101",
+   "desc": "Perform 15 different combat moves in one FreeFlow.",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "EACID_DLCBatGirl_HackingThugDefeated",
+   "name": "Weird War Tales",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.4
+  },
+  {
+   "api": "EACID_OT_Blunt_Trauma",
+   "name": "Blunt Trauma",
+   "desc": "Perform every type of predator takedown.",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "EACID_DLCRobin_The_Big_Leagues",
+   "name": "The Big Leagues",
+   "desc": "Achieve 21 Stars in AR Challenges playing as Robin.",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "EACID_DLCEternal",
+   "name": "Eternal",
+   "desc": "Complete the Endless Knight AR Challenge, taking out 50 Enemies as Batman.",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "EACID_OT_The_Twilight_Kingdom",
+   "name": "Run Through the Jungle",
+   "desc": "Fly under 3 main bridges between the islands in one continuous glide.",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "EACID_DLCNightwing_Acts_of_Violence",
+   "name": "Acts of Violence",
+   "desc": "Achieve 21 Stars in AR Challenges playing as Nightwing.",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "EACID_DLCCatwoman_Relentless",
+   "name": "Relentless",
+   "desc": "Achieve 21 Stars in AR Challenges playing as Catwoman.",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "EACID_DLCRedhood_Higher_Learning",
+   "name": "Higher Learning",
+   "desc": "Achieve 21 Stars in AR Challenges playing as Red Hood.",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "EACID_OT_Black_and_White",
+   "name": "A Leap of Faith",
+   "desc": "Complete 8 different jumps over 100 meters.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "EACID_DLCAzrael_Shock_and_Awe",
+   "name": "Shock and Awe",
+   "desc": "Achieve 21 Stars in AR Challenges playing as Azrael.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "EACID_DLCBatgirl_Motherlode",
+   "name": "Motherlode",
+   "desc": "Achieve 21 Stars in AR Challenges playing as Batgirl.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "EACID_DLCHarley_Vengeance_Unlimited",
+   "name": "Vengeance Unlimited",
+   "desc": "Achieve 21 Stars in AR Challenges playing as Harley Quinn.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "EACID_DLCBmobBurton_Street_Demonz",
+   "name": "Street Demonz",
+   "desc": "Achieve 33 Stars in AR Challenges using the 1989 Movie Batmobile.",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "EACID_DLCBmobClassic_A_Cut_Above",
+   "name": "Joy Ride",
+   "desc": "Achieve 33 Stars in AR Challenges using the 1960's TV Series Batmobile.",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "EACID_DLCBmobSnyder_The_Worlds_Finest",
+   "name": "The World's Finest",
+   "desc": "Achieve 21 Stars in AR Challenges using the 2016 Batman v Superman Batmobile.",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "EACID_DLCBmobArkham_Life_After_Death",
+   "name": "Life After Death",
+   "desc": "Achieve 21 Stars in AR Challenges using the Original Arkham Batmobile.",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "EACID_DLCWhat_the_Butler_Saw",
+   "name": "What the Butler Saw",
+   "desc": "Complete the Wayne Manor AR Challenge as Batman without using any gadgets or taking any damage.",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "EACID_DLCBmobTumbler_Gangland_Express",
+   "name": "Gangland Express",
+   "desc": "Achieve 33 Stars in AR Challenges using the 2008 Tumbler Batmobile.",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "EACID_DLCRequiem_for_a_Killer",
+   "name": "Requiem for a Killer",
+   "desc": "Defeat an old adversary in the Iceberg Lounge AR Challenge, playing as Batman.",
+   "hidden": false,
+   "pct": 1.9
+  },
+  {
+   "api": "EACID_DLCSecrets_of_the_Batcave",
+   "name": "Secrets of the Batcave",
+   "desc": "Complete the Batcave AR Challenge unharmed as Batman and Nightwing, using only Beat Downs.",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "EACID_DLCSilent_Night_Deadly_Night",
+   "name": "Silent Night, Deadly Night",
+   "desc": "Complete the Silent Knight AR Challenge unharmed as Batman and Robin, using only Knockout Smashes.",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "EACID_DLCThe_Chill_in_the_Air",
+   "name": "The Chill in the Air",
+   "desc": "Complete the Crime Alley AR Challenge unharmed as Batman, Robin and Nightwing.",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "EACID_DLCThe_Curtain_Falls",
+   "name": "The Curtain Falls",
+   "desc": "Flawless FreeFlow in every round of the Monarch Theatre as Batman, Robin, Nightwing and Catwoman.",
+   "hidden": false,
+   "pct": 1.7
+  }
+ ]
+}

@@ -1,0 +1,386 @@
+{
+ "appid": 1244090,
+ "game": "Sea of Stars: Sunset Edition",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 54,
+ "achievements": [
+  {
+   "api": "SOS_ACHIEVEMENT_1",
+   "name": "Boss Slugged",
+   "desc": "",
+   "hidden": true,
+   "pct": 74.4
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_2",
+   "name": "No, wait!",
+   "desc": "",
+   "hidden": true,
+   "pct": 66.2
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_36",
+   "name": "Lock's Myth",
+   "desc": "Break a total 50 locks in battle",
+   "hidden": false,
+   "pct": 65.6
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_3",
+   "name": "Stretch Quest",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.7
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_35",
+   "name": "Bouncy",
+   "desc": "Bounce a Moonerang 25 times in a row",
+   "hidden": false,
+   "pct": 45.2
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_4",
+   "name": "Now give me that!",
+   "desc": "",
+   "hidden": true,
+   "pct": 42.1
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_44",
+   "name": "Verifying Glass",
+   "desc": "Reveal a lock by either breaking it or using a special move with the scan function",
+   "hidden": false,
+   "pct": 40.9
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_5",
+   "name": "Dweller of Woe",
+   "desc": "",
+   "hidden": true,
+   "pct": 40.3
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_6",
+   "name": "Who would have thought?",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.9
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_7",
+   "name": "Yo, Ho!",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.5
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_8",
+   "name": "Home sweet home",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.0
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_9",
+   "name": "Solstice Power",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.3
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_10",
+   "name": "Dweller of Torment",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.4
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_11",
+   "name": "Detritus Fallen",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.3
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_12",
+   "name": "And stay down, too!",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.8
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_13",
+   "name": "Dweller of Strife",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.7
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_14",
+   "name": "Fight fire with lunar",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.6
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_15",
+   "name": "The Warrior Cook",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.6
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_16",
+   "name": "Who would have thought? Part 2",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.2
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_17",
+   "name": "Chin up!",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.2
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_18",
+   "name": "Featherweight",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.6
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_19",
+   "name": "Enter the Artificer",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.2
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_20",
+   "name": "Dweller of Dread",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.9
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_21",
+   "name": "Lieupedant",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.9
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_25",
+   "name": "Hey, that's a reskin!",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.9
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_26",
+   "name": "Elder Dissed",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.4
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_28",
+   "name": "Free from serviduke",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.2
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_39",
+   "name": "To the teeth",
+   "desc": "Unlock all combos",
+   "hidden": false,
+   "pct": 18.4
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_31",
+   "name": "Master Angler",
+   "desc": "Catch every fish species at least once",
+   "hidden": false,
+   "pct": 17.9
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_27",
+   "name": "Glassdiator",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.4
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_24",
+   "name": "Better off dead",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.3
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_29",
+   "name": "Home Neat Home",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.9
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_30",
+   "name": "Conch Master",
+   "desc": "Bring all Conches to Mirna in Docarri Village",
+   "hidden": false,
+   "pct": 14.6
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_33",
+   "name": "New Garl +",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.0
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_22",
+   "name": "Clockwork Champion",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.2
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_34",
+   "name": "No God of mine",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.1
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_23",
+   "name": "Wholesome Food",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.0
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_40",
+   "name": "Well read (to)",
+   "desc": "Listen to all of the campfire stories",
+   "hidden": false,
+   "pct": 10.7
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_32",
+   "name": "Living Encyclopedia",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.0
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_41",
+   "name": "Measure Hunter",
+   "desc": "Find every single treasure",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_42",
+   "name": "Me day",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.7
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_45",
+   "name": "Team Power",
+   "desc": "Do a team Timed Hit or Block",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_38",
+   "name": "Gustative Completion",
+   "desc": "Cook every recipe at least once",
+   "hidden": false,
+   "pct": 5.7
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_53",
+   "name": "Clockworkn't",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.8
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_49",
+   "name": "Marquee Star",
+   "desc": "Unlock all skills and combos for circus classes",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_51",
+   "name": "Warlocked",
+   "desc": "Beat all of Horloge's Wheels champions",
+   "hidden": false,
+   "pct": 4.2
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_50",
+   "name": "Carnival Culinarian",
+   "desc": "Cook each of the five Horloge recipes at least once",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_52",
+   "name": "Unrivaled Wonder",
+   "desc": "Earn top rank in all three of Horloge's minigames",
+   "hidden": false,
+   "pct": 3.5
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_54",
+   "name": "What doth it meanst?",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.5
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_37",
+   "name": "What a technique!",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_48",
+   "name": "I'm walking here!",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.4
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_43",
+   "name": "Turtle Power",
+   "desc": "Do a team Timed Block with three players",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_47",
+   "name": "Fishing Trip",
+   "desc": "Catch at least one fish with each character",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "SOS_ACHIEVEMENT_46",
+   "name": "Down Low",
+   "desc": "Try all high-five combinations",
+   "hidden": false,
+   "pct": 1.3
+  }
+ ]
+}

@@ -1,0 +1,537 @@
+{
+ "appid": 1475810,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 66,
+ "achievements": [
+  {
+   "name": "Beginnings",
+   "desc": "Complete Chapter 1.",
+   "hidden": true,
+   "pct": 83.5,
+   "api_name": "ACH_001",
+   "internal_key": 256
+  },
+  {
+   "name": "Trouble",
+   "desc": "Complete Chapter 2.",
+   "hidden": true,
+   "pct": 45.5,
+   "api_name": "ACH_002",
+   "internal_key": 257
+  },
+  {
+   "name": "Connection",
+   "desc": "Complete Chapter 3.",
+   "hidden": true,
+   "pct": 33.6,
+   "api_name": "ACH_003",
+   "internal_key": 258
+  },
+  {
+   "name": "Contortion",
+   "desc": "Complete Chapter 4.",
+   "hidden": true,
+   "pct": 25.3,
+   "api_name": "ACH_004",
+   "internal_key": 259
+  },
+  {
+   "name": "Severance",
+   "desc": "Complete Chapter 5.",
+   "hidden": true,
+   "pct": 24.8,
+   "api_name": "ACH_005",
+   "internal_key": 260
+  },
+  {
+   "name": "Binding",
+   "desc": "Complete Chapter 6.",
+   "hidden": true,
+   "pct": 24.5,
+   "api_name": "ACH_006",
+   "internal_key": 262
+  },
+  {
+   "name": "Conclusions",
+   "desc": "Complete the main story.",
+   "hidden": true,
+   "pct": 24.5,
+   "api_name": "ACH_007",
+   "internal_key": 263
+  },
+  {
+   "name": "Helping Hand",
+   "desc": "Transfer 25% of the spirits in the city.",
+   "hidden": false,
+   "pct": 24.0,
+   "api_name": "ACH_008",
+   "internal_key": 264
+  },
+  {
+   "name": "Savior",
+   "desc": "Transfer 50% of the spirits in the city.",
+   "hidden": false,
+   "pct": 13.1,
+   "api_name": "ACH_009",
+   "internal_key": 265
+  },
+  {
+   "name": "Salvation of All",
+   "desc": "Transfer at least 100% of the spirits in the city.",
+   "hidden": false,
+   "pct": 5.4,
+   "api_name": "ACH_010",
+   "internal_key": 266
+  },
+  {
+   "name": "Hero of Shibuya",
+   "desc": "Complete the main story after transferring at least 100% of the spirits in the city.",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "ACH_011",
+   "internal_key": 267
+  },
+  {
+   "name": "Problem Solver",
+   "desc": "Complete a side mission.",
+   "hidden": false,
+   "pct": 61.5,
+   "api_name": "ACH_012",
+   "internal_key": 268
+  },
+  {
+   "name": "Wishmaker",
+   "desc": "Complete all side missions (excluding update content).",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "ACH_013",
+   "internal_key": 269
+  },
+  {
+   "name": "Opening a Path",
+   "desc": "Cleanse a torii gate.",
+   "hidden": false,
+   "pct": 80.8,
+   "api_name": "ACH_014",
+   "internal_key": 270
+  },
+  {
+   "name": "Liberator",
+   "desc": "Cleanse all torii gates (excluding update content).",
+   "hidden": false,
+   "pct": 17.9,
+   "api_name": "ACH_015",
+   "internal_key": 271
+  },
+  {
+   "name": "Treasure Hunter",
+   "desc": "Acquire a relic.",
+   "hidden": false,
+   "pct": 78.7,
+   "api_name": "ACH_016",
+   "internal_key": 272
+  },
+  {
+   "name": "Collector",
+   "desc": "Acquire all relics.",
+   "hidden": false,
+   "pct": 5.6,
+   "api_name": "ACH_017",
+   "internal_key": 273
+  },
+  {
+   "name": "Mind and Body",
+   "desc": "Unlock all Spirit Skills (excluding update content).",
+   "hidden": false,
+   "pct": 5.4,
+   "api_name": "ACH_018",
+   "internal_key": 274
+  },
+  {
+   "name": "On the Same Wavelength",
+   "desc": "Raise your synergy level to 50 or higher.",
+   "hidden": false,
+   "pct": 14.3,
+   "api_name": "ACH_019",
+   "internal_key": 275
+  },
+  {
+   "name": "Shibuya Is My Back Yard",
+   "desc": "Find all landmarks.",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "ACH_020",
+   "internal_key": 276
+  },
+  {
+   "name": "Echoes of the Past",
+   "desc": "Acquire a voice log.",
+   "hidden": false,
+   "pct": 63.8,
+   "api_name": "ACH_021",
+   "internal_key": 277
+  },
+  {
+   "name": "The Whole Truth",
+   "desc": "Acquire all voice logs.",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "ACH_022",
+   "internal_key": 278
+  },
+  {
+   "name": "It's All Thanks to Yokai",
+   "desc": "Acquire a magatama.",
+   "hidden": false,
+   "pct": 58.6,
+   "api_name": "ACH_023",
+   "internal_key": 279
+  },
+  {
+   "name": "With Their Powers Combined",
+   "desc": "Acquire 40 or more different magatama.",
+   "hidden": false,
+   "pct": 7.4,
+   "api_name": "ACH_024",
+   "internal_key": 280
+  },
+  {
+   "name": "Roadside Spirituality",
+   "desc": "Pray to a Jizo statue.",
+   "hidden": false,
+   "pct": 65.6,
+   "api_name": "ACH_025",
+   "internal_key": 281
+  },
+  {
+   "name": "Pilgrim",
+   "desc": "Pray to all Jizo statues.",
+   "hidden": false,
+   "pct": 6.5,
+   "api_name": "ACH_026",
+   "internal_key": 282
+  },
+  {
+   "name": "Your Tail's Showing",
+   "desc": "Find all of the missing tanuki.",
+   "hidden": false,
+   "pct": 5.4,
+   "api_name": "ACH_027",
+   "internal_key": 283
+  },
+  {
+   "name": "Gourmand",
+   "desc": "Acquire all types of food and drink.",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "ACH_028",
+   "internal_key": 284
+  },
+  {
+   "name": "DJ Akito",
+   "desc": "Acquire all music tracks (excluding update content).",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "ACH_029",
+   "internal_key": 285
+  },
+  {
+   "name": "Trendsetter",
+   "desc": "Acquire all items for the Outfit menu (excluding bonus and update content).",
+   "hidden": false,
+   "pct": 4.1,
+   "api_name": "ACH_030",
+   "internal_key": 286
+  },
+  {
+   "name": "Talismania",
+   "desc": "Acquire all talismans (excluding update content).",
+   "hidden": false,
+   "pct": 25.1,
+   "api_name": "ACH_031",
+   "internal_key": 287
+  },
+  {
+   "name": "Power Overwhelming",
+   "desc": "Acquire all sets of prayer beads (excluding update content).",
+   "hidden": false,
+   "pct": 3.5,
+   "api_name": "ACH_032",
+   "internal_key": 512
+  },
+  {
+   "name": "Boundless Spirit",
+   "desc": "Acquire the maximum number of katashiro.",
+   "hidden": false,
+   "pct": 25.8,
+   "api_name": "ACH_033",
+   "internal_key": 513
+  },
+  {
+   "name": "Animal Lover",
+   "desc": "Pet an animal.",
+   "hidden": true,
+   "pct": 70.5,
+   "api_name": "ACH_034",
+   "internal_key": 514
+  },
+  {
+   "name": "Amateur Photographer",
+   "desc": "Use Photo Mode for the first time.",
+   "hidden": true,
+   "pct": 39.5,
+   "api_name": "ACH_035",
+   "internal_key": 515
+  },
+  {
+   "name": "You Wouldn't Steal a Spirit",
+   "desc": "Successfully protect at least 3 Containment Cubes in a single battle.",
+   "hidden": true,
+   "pct": 40.8,
+   "api_name": "ACH_036",
+   "internal_key": 516
+  },
+  {
+   "name": "Don't Worry About It",
+   "desc": "Pull a \"Daikyo\" omikuji.",
+   "hidden": true,
+   "pct": 4.9,
+   "api_name": "ACH_037",
+   "internal_key": 517
+  },
+  {
+   "name": "Better Together",
+   "desc": "Fuse back with KK after being hit by a severance attack.",
+   "hidden": true,
+   "pct": 31.6,
+   "api_name": "ACH_038",
+   "internal_key": 518
+  },
+  {
+   "name": "Visiting Hours Are Over",
+   "desc": "Defeat at least one of every type of Visitor (excluding update content).",
+   "hidden": false,
+   "pct": 9.5,
+   "api_name": "ACH_039",
+   "internal_key": 519
+  },
+  {
+   "name": "Heartbreaker",
+   "desc": "Defeat a Visitor by pulling out its core.",
+   "hidden": false,
+   "pct": 89.4,
+   "api_name": "ACH_040",
+   "internal_key": 520
+  },
+  {
+   "name": "Soul Breaker",
+   "desc": "Defeat 50 Visitors by pulling out their cores.",
+   "hidden": false,
+   "pct": 51.8,
+   "api_name": "ACH_041",
+   "internal_key": 521
+  },
+  {
+   "name": "One Fell Swoop",
+   "desc": "Defeat at least 5 Visitors simultaneously by pulling out their cores.",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "ACH_042",
+   "internal_key": 522
+  },
+  {
+   "name": "Couldn't Take the Heat",
+   "desc": "Defeat at least 3 Visitors simultaneously by detonating a red ether crystal.",
+   "hidden": false,
+   "pct": 28.8,
+   "api_name": "ACH_043",
+   "internal_key": 523
+  },
+  {
+   "name": "Silent Kill",
+   "desc": "Defeat a total of 200 Visitors using Quick Purge.",
+   "hidden": false,
+   "pct": 9.1,
+   "api_name": "ACH_044",
+   "internal_key": 524
+  },
+  {
+   "name": "Take a Bow",
+   "desc": "Defeat a total of 50 Visitors using the bow.",
+   "hidden": false,
+   "pct": 18.5,
+   "api_name": "ACH_045",
+   "internal_key": 525
+  },
+  {
+   "name": "Go For the Eyes",
+   "desc": "Defeat a total of 20 Visitors with headshots.",
+   "hidden": false,
+   "pct": 9.7,
+   "api_name": "ACH_046",
+   "internal_key": 526
+  },
+  {
+   "name": "Sniper",
+   "desc": "Defeat a Visitor with a headshot from a distance of at least 40m.",
+   "hidden": true,
+   "pct": 3.7,
+   "api_name": "ACH_047",
+   "internal_key": 527
+  },
+  {
+   "name": "Freeze, Scumbag",
+   "desc": "Defeat a total of 10 Visitors with Quick Purge while they are held by a Stun Talisman.",
+   "hidden": false,
+   "pct": 5.6,
+   "api_name": "ACH_048",
+   "internal_key": 528
+  },
+  {
+   "name": "A Shrubbery!",
+   "desc": "Defeat a total of 3 Visitors with Quick Purge while hiding in bushes created by a Thicket Talisman.",
+   "hidden": false,
+   "pct": 3.8,
+   "api_name": "ACH_049",
+   "internal_key": 529
+  },
+  {
+   "name": "Left Yourself Open",
+   "desc": "Defeat a total of 10 Visitors by exposing their cores with Exposure Talismans and ripping them out.",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "ACH_050",
+   "internal_key": 530
+  },
+  {
+   "name": "Master of Blocking",
+   "desc": "Perform a total of 30 Perfect Blocks.",
+   "hidden": false,
+   "pct": 22.1,
+   "api_name": "ACH_051",
+   "internal_key": 531
+  },
+  {
+   "name": "In Sync",
+   "desc": "Wire In a total of 10 times.",
+   "hidden": false,
+   "pct": 17.8,
+   "api_name": "ACH_052",
+   "internal_key": 532
+  },
+  {
+   "name": "Walking on Air",
+   "desc": "Grapple and glide to remain in the air for at least 10 seconds.",
+   "hidden": true,
+   "pct": 9.3,
+   "api_name": "ACH_053",
+   "internal_key": 533
+  },
+  {
+   "name": "Big Spender",
+   "desc": "Spend a total of 1,000,000 meika.",
+   "hidden": false,
+   "pct": 9.4,
+   "api_name": "ACH_054",
+   "internal_key": 534
+  },
+  {
+   "name": "Pious",
+   "desc": "Put a total of 10,000 meika into offering boxes.",
+   "hidden": false,
+   "pct": 17.1,
+   "api_name": "ACH_055",
+   "internal_key": 535
+  },
+  {
+   "name": "Lonely Tsukimi",
+   "desc": "Spend at least 30 seconds looking at the moon.",
+   "hidden": true,
+   "pct": 12.5,
+   "api_name": "ACH_056",
+   "internal_key": 536
+  },
+  {
+   "name": "Scary Stories to Tell at School",
+   "desc": "STU: Complete all newly-added side missions revolving around the school.",
+   "hidden": true,
+   "pct": 9.9,
+   "api_name": "ACH_057",
+   "internal_key": 537
+  },
+  {
+   "name": "Spirit Photographer",
+   "desc": "STU: Complete all newly-added side missions revolving around spirit photographs.",
+   "hidden": true,
+   "pct": 2.8,
+   "api_name": "ACH_058",
+   "internal_key": 538
+  },
+  {
+   "name": "Further Liberation",
+   "desc": "STU: Cleanse all newly-added torii gates.",
+   "hidden": false,
+   "pct": 11.8,
+   "api_name": "ACH_059",
+   "internal_key": 539
+  },
+  {
+   "name": "On-The-Job Training",
+   "desc": "STU: Unlock all newly-added Spirit Skills.",
+   "hidden": false,
+   "pct": 3.9,
+   "api_name": "ACH_060",
+   "internal_key": 540
+  },
+  {
+   "name": "Unparalleled Talismaniac",
+   "desc": "STU: Acquire all newly-added talismans.",
+   "hidden": false,
+   "pct": 15.3,
+   "api_name": "ACH_061",
+   "internal_key": 541
+  },
+  {
+   "name": "Unexpected Visitors",
+   "desc": "STU: Defeat at least one of every newly-added type of Visitor.",
+   "hidden": false,
+   "pct": 14.8,
+   "api_name": "ACH_062",
+   "internal_key": 542
+  },
+  {
+   "name": "Figure Aficionado",
+   "desc": "STU: Try your luck at capsule machines at least 50 times.",
+   "hidden": false,
+   "pct": 5.2,
+   "api_name": "ACH_063",
+   "internal_key": 543
+  },
+  {
+   "name": "Views From the Abyss",
+   "desc": "STU: Complete \"The Spider's Thread\" mode.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "ACH_064",
+   "internal_key": 768
+  },
+  {
+   "name": "Catalog Conqueror",
+   "desc": "STU: Complete all nekomata jobs in \"The Spider's Thread\" mode.",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "ACH_065",
+   "internal_key": 769
+  },
+  {
+   "name": "Welcome to Shibuya",
+   "desc": "STU: Acquire at least one SHIBUYA♡HACHI stamp.",
+   "hidden": true,
+   "pct": 22.2,
+   "api_name": "ACH_066",
+   "internal_key": 770
+  }
+ ]
+}

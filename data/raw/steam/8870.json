@@ -1,0 +1,568 @@
+{
+ "appid": 8870,
+ "game": "BioShock Infinite",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 80,
+ "achievements": [
+  {
+   "api": "Achievement_1",
+   "name": "Written in the Clouds",
+   "desc": "",
+   "hidden": true,
+   "pct": 91.8
+  },
+  {
+   "api": "Achievement_2",
+   "name": "Welcome to Monument Island",
+   "desc": "",
+   "hidden": true,
+   "pct": 75.7
+  },
+  {
+   "api": "Achievement_17",
+   "name": "A Real Pistol",
+   "desc": "Killed 25 enemies with the Broadsider Pistol.",
+   "hidden": false,
+   "pct": 75.3
+  },
+  {
+   "api": "Achievement_41",
+   "name": "Dress for Success",
+   "desc": "Equipped a piece of Gear in all four slots.",
+   "hidden": false,
+   "pct": 68.0
+  },
+  {
+   "api": "Achievement_3",
+   "name": "Shock Tactics",
+   "desc": "",
+   "hidden": true,
+   "pct": 66.8
+  },
+  {
+   "api": "Achievement_4",
+   "name": "First Class Ticket",
+   "desc": "",
+   "hidden": true,
+   "pct": 64.0
+  },
+  {
+   "api": "Achievement_39",
+   "name": "David & Goliath",
+   "desc": "Killed 20 \"Heavy Hitter\" enemies.",
+   "hidden": false,
+   "pct": 58.2
+  },
+  {
+   "api": "Achievement_5",
+   "name": "Armed Revolt",
+   "desc": "",
+   "hidden": true,
+   "pct": 57.3
+  },
+  {
+   "api": "Achievement_49",
+   "name": "Coins in the Cushion",
+   "desc": "Looted 200 containers.",
+   "hidden": false,
+   "pct": 56.1
+  },
+  {
+   "api": "Achievement_6",
+   "name": "Working Class Hero",
+   "desc": "",
+   "hidden": true,
+   "pct": 56.0
+  },
+  {
+   "api": "Achievement_27",
+   "name": "Vigorous Opposition",
+   "desc": "Killed 75 enemies either with a Vigor or while the enemy is under the effects of a Vigor.",
+   "hidden": false,
+   "pct": 55.1
+  },
+  {
+   "api": "Achievement_31",
+   "name": "Tear 'em a New One",
+   "desc": "Opened 30 Tears.",
+   "hidden": false,
+   "pct": 55.1
+  },
+  {
+   "api": "Achievement_7",
+   "name": "Blood in the Streets",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.8
+  },
+  {
+   "api": "Achievement_8",
+   "name": "Higher Learning",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.9
+  },
+  {
+   "api": "Achievement_46",
+   "name": "The Roguish Type",
+   "desc": "Used Elizabeth to pick 30 locks.",
+   "hidden": false,
+   "pct": 49.4
+  },
+  {
+   "api": "Achievement_9",
+   "name": "The Bird or The Cage",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.4
+  },
+  {
+   "api": "Achievement_14",
+   "name": "Should Auld Acquaintance...",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.3
+  },
+  {
+   "api": "Achievement_10",
+   "name": "Tin Soldier",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.2
+  },
+  {
+   "api": "Achievement_42",
+   "name": "Kitted Out",
+   "desc": "Fully upgraded one weapon and one Vigor.",
+   "hidden": false,
+   "pct": 42.0
+  },
+  {
+   "api": "Achievement_22",
+   "name": "On a Clear Day...",
+   "desc": "Killed 30 enemies with the Bird's Eye Sniper Rifle.",
+   "hidden": false,
+   "pct": 40.9
+  },
+  {
+   "api": "Achievement_48",
+   "name": "Grand Largesse",
+   "desc": "Spent $10,000 at the vending machines of Columbia.",
+   "hidden": false,
+   "pct": 40.6
+  },
+  {
+   "api": "Achievement_11",
+   "name": "Saw the Elephant",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.8
+  },
+  {
+   "api": "Achievement_20",
+   "name": "Big Game Hunter",
+   "desc": "Killed 100 enemies with the Founder Huntsman Carbine or Vox Burstgun.",
+   "hidden": false,
+   "pct": 37.0
+  },
+  {
+   "api": "Achievement_19",
+   "name": "Street Sweeper",
+   "desc": "Killed 50 enemies with the Founder China Broom Shotgun or Vox Heater.",
+   "hidden": false,
+   "pct": 34.6
+  },
+  {
+   "api": "Achievement_21",
+   "name": "Loose Cannon",
+   "desc": "Killed 25 enemies with the Paddywhacker Hand Cannon.",
+   "hidden": false,
+   "pct": 30.6
+  },
+  {
+   "api": "Achievement_26",
+   "name": "Well Rounded",
+   "desc": "Used all 8 Vigors against enemies.",
+   "hidden": false,
+   "pct": 30.1
+  },
+  {
+   "api": "Achievement_18",
+   "name": "Passionately Reciprocated",
+   "desc": "Killed 150 enemies with the Founder Triple R Machine Gun or Vox Repeater.",
+   "hidden": false,
+   "pct": 29.3
+  },
+  {
+   "api": "Achievement_24",
+   "name": "Master of Pyrotechnics",
+   "desc": "Killed 20 enemies with the Barnstormer RPG.",
+   "hidden": false,
+   "pct": 28.1
+  },
+  {
+   "api": "Achievement_35",
+   "name": "Hazard Pay",
+   "desc": "Killed 10 enemies by utilizing environmental hazards.",
+   "hidden": false,
+   "pct": 26.1
+  },
+  {
+   "api": "Achievement_16",
+   "name": "Aerial Assassin",
+   "desc": "Killed 20 enemies with a Sky-Line Strike.",
+   "hidden": false,
+   "pct": 22.8
+  },
+  {
+   "api": "Achievement_43",
+   "name": "Raising the Bar",
+   "desc": "Upgraded one attribute (Health, Shield, or Salts) to its maximum level.",
+   "hidden": false,
+   "pct": 21.9
+  },
+  {
+   "api": "Achievement_28",
+   "name": "More for Your Money",
+   "desc": "Lured 3 enemies into a single Vigor trap 5 times.",
+   "hidden": false,
+   "pct": 20.2
+  },
+  {
+   "api": "ACHIEVEMENT_61",
+   "name": "Down in the Briney",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.2
+  },
+  {
+   "api": "Achievement_23",
+   "name": "Here Little Piggy",
+   "desc": "Killed 30 enemies with the Founder Pig Volley Gun or Vox Hail Fire.",
+   "hidden": false,
+   "pct": 17.9
+  },
+  {
+   "api": "Achievement_25",
+   "name": "Seasoned to Taste",
+   "desc": "Killed 30 enemies with the Peppermill Crank Gun.",
+   "hidden": false,
+   "pct": 17.7
+  },
+  {
+   "api": "Achievement_32",
+   "name": "Strange Bedfellows",
+   "desc": "Killed 20 enemies using allies brought in through a Tear.",
+   "hidden": false,
+   "pct": 17.4
+  },
+  {
+   "api": "ACHIEVEMENT_70",
+   "name": "Going Places",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.6
+  },
+  {
+   "api": "Achievement_15",
+   "name": "Industrial Accident",
+   "desc": "Killed 20 enemies with a Sky-Hook Execution.",
+   "hidden": false,
+   "pct": 16.4
+  },
+  {
+   "api": "ACHIEVEMENT_62",
+   "name": "Burial at Sea",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.6
+  },
+  {
+   "api": "ACHIEVEMENT_71",
+   "name": "Up and Running",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.4
+  },
+  {
+   "api": "ACHIEVEMENT_72",
+   "name": "Mein Hair",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.0
+  },
+  {
+   "api": "ACHIEVEMENT_73",
+   "name": "Paid in Full",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.7
+  },
+  {
+   "api": "ACHIEVEMENT_77",
+   "name": "Twofer",
+   "desc": "Knocked out two or more enemies using the same Gas Bolt. ",
+   "hidden": false,
+   "pct": 11.7
+  },
+  {
+   "api": "Achievement_37",
+   "name": "Skeet Shoot",
+   "desc": "Killed 5 enemies while they are falling.",
+   "hidden": false,
+   "pct": 10.4
+  },
+  {
+   "api": "Achievement_12",
+   "name": "Stone Cold Pinkerton",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.3
+  },
+  {
+   "api": "Achievement_40",
+   "name": "Heartbreaker",
+   "desc": "Killed a Handyman by only shooting his heart.",
+   "hidden": false,
+   "pct": 9.3
+  },
+  {
+   "api": "ACHIEVEMENT_76",
+   "name": "Making Some Noise",
+   "desc": "Gained five noisemakers through lockpicking.",
+   "hidden": false,
+   "pct": 9.1
+  },
+  {
+   "api": "Achievement_44",
+   "name": "Infused with Greatness",
+   "desc": "Collected every Infusion upgrade in a single game.",
+   "hidden": false,
+   "pct": 8.7
+  },
+  {
+   "api": "Achievement_30",
+   "name": "Mind Over Matter",
+   "desc": "Killed 20 enemies using Possessed machines.",
+   "hidden": false,
+   "pct": 8.5
+  },
+  {
+   "api": "ACHIEVEMENT_66",
+   "name": "Cook and Serve",
+   "desc": "Made 5 enemies explode with the Radar Range in Burial at Sea - Episode 1.",
+   "hidden": false,
+   "pct": 7.0
+  },
+  {
+   "api": "ACHIEVEMENT_68",
+   "name": "Break the Ice",
+   "desc": "Shattered 5 enemies who had been frozen with Old Man Winter.",
+   "hidden": false,
+   "pct": 7.0
+  },
+  {
+   "api": "Achievement_34",
+   "name": "Bolt From the Blue",
+   "desc": "Killed 5 enemies with a headshot while riding a Sky-Line.",
+   "hidden": false,
+   "pct": 6.3
+  },
+  {
+   "api": "Achievement_36",
+   "name": "Bon Voyage",
+   "desc": "Killed 20 enemies by knocking them off Columbia.",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "ACHIEVEMENT_64",
+   "name": "Fully Equipped",
+   "desc": "Purchased any two upgrades for Old Man Winter or Radar Range in Burial at Sea - Episode 1.",
+   "hidden": false,
+   "pct": 5.5
+  },
+  {
+   "api": "ACHIEVEMENT_69",
+   "name": "Snowball Effect",
+   "desc": "Froze 2 enemies with the same Old Man Winter trap.",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "ACHIEVEMENT_79",
+   "name": "Dead Drop",
+   "desc": "On three occasions, knocked out an enemy after silently dropping off a Freight Hook.  ",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "ACHIEVEMENT_80",
+   "name": "Never Saw It Coming",
+   "desc": "While invisible, used Peeping Tom to knock out 15 enemies with a melee attack. ",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "Achievement_33",
+   "name": "On the Fly",
+   "desc": "Killed 30 enemies while riding a Sky-Line.",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "Achievement_29",
+   "name": "Combination Shock",
+   "desc": "Performed all 8 of the Vigor combinations.",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "ACHIEVEMENT_51",
+   "name": "Friendly Skies",
+   "desc": "Defeated all waves in The OPS Zeal.",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "ACHIEVEMENT_65",
+   "name": "Confirmed Luddite",
+   "desc": "Destroyed ten Turrets in Burial at Sea - Episode 1.",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "Achievement_13",
+   "name": "Auld Lang Syne",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.8
+  },
+  {
+   "api": "Achievement_47",
+   "name": "Eavesdropper",
+   "desc": "Collected every Voxophone.",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "ACHIEVEMENT_52",
+   "name": "Duke or Dimwit?",
+   "desc": "Defeated all waves in Duke and Dimwit Theater.",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "ACHIEVEMENT_59",
+   "name": "Missile Defense System",
+   "desc": "In CitC, killed an enemy with splash damage by shooting a rocket out of the air.",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "ACHIEVEMENT_53",
+   "name": "Rooftop Ruffian",
+   "desc": "Defeated all waves in Raven's Dome.",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "ACHIEVEMENT_55",
+   "name": "Museum Curator",
+   "desc": "In CitC, unlocked all Gallery items.",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "ACHIEVEMENT_63",
+   "name": "Audio Enthusiast",
+   "desc": "Collected all Audio Diaries in Burial at Sea - Episode 1.",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "Achievement_38",
+   "name": "Lost Weekend",
+   "desc": "Killed 5 enemies while you are drunk.",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "Achievement_45",
+   "name": "Sightseer",
+   "desc": "Used all telescopes and Kinetoscopes in the game.",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "Achievement_50",
+   "name": "Scavenger Hunt",
+   "desc": "Complete the game in 1999 Mode without purchasing anything from a Dollar Bill vending machine.",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "ACHIEVEMENT_57",
+   "name": "Rope-a-Dope",
+   "desc": "In CitC, knocked an enemy off the city with Undertow, then rescued him, then knocked him off again.",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "ACHIEVEMENT_67",
+   "name": "Chain Reaction",
+   "desc": "Damaged fifteen foes with an exploding enemy, using the Radar Range in Burial at Sea - Episode 1.",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "ACHIEVEMENT_54",
+   "name": "Hand of the Prophet",
+   "desc": "Defeated all waves in Emporia Arcade.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "ACHIEVEMENT_74",
+   "name": "The Whole Story",
+   "desc": "Collected all Audio Diaries and Voxophones in Burial at Sea - Episode 2. ",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "ACHIEVEMENT_56",
+   "name": "Sergeant-at-Arms",
+   "desc": "In CitC, got a kill with each weapon and vigor (except Bucking Bronco).",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "ACHIEVEMENT_75",
+   "name": "Taffer's Delight",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.8
+  },
+  {
+   "api": "ACHIEVEMENT_78",
+   "name": "Glutton for Punishment",
+   "desc": "Used Ironsides to collect 20 rounds of ammo or more in Burial at Sea - Episode 2. ",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "ACHIEVEMENT_58",
+   "name": "The Ol' One-Two",
+   "desc": "In CitC, used all eight different vigor combos to deliver the killing blow on an enemy.",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "ACHIEVEMENT_60",
+   "name": "Blue Ribbon Champ",
+   "desc": "In CitC, completed all Blue Ribbon Challenges.",
+   "hidden": false,
+   "pct": 1.5
+  }
+ ]
+}

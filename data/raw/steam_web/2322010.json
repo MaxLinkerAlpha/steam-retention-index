@@ -1,0 +1,393 @@
+{
+ "appid": 2322010,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 48,
+ "achievements": [
+  {
+   "name": "The Bear and the Wolf",
+   "desc": "Collect all Trophies",
+   "hidden": false,
+   "pct": 10.8,
+   "api_name": "NEW_ACHIEVEMENT_1_0",
+   "internal_key": 256
+  },
+  {
+   "name": "The Florist",
+   "desc": "Collect one flower from each of the nine realms",
+   "hidden": true,
+   "pct": 17.8,
+   "api_name": "NEW_ACHIEVEMENT_1_1",
+   "internal_key": 257
+  },
+  {
+   "name": "The Librarian",
+   "desc": "Collect all of the Books",
+   "hidden": false,
+   "pct": 17.1,
+   "api_name": "NEW_ACHIEVEMENT_1_2",
+   "internal_key": 258
+  },
+  {
+   "name": "The Curator",
+   "desc": "Collect all of the Artifacts",
+   "hidden": false,
+   "pct": 15.6,
+   "api_name": "NEW_ACHIEVEMENT_1_3",
+   "internal_key": 259
+  },
+  {
+   "name": "How it Started",
+   "desc": "Equip an Enchantment",
+   "hidden": false,
+   "pct": 67.5,
+   "api_name": "NEW_ACHIEVEMENT_1_4",
+   "internal_key": 260
+  },
+  {
+   "name": "Spit Shine",
+   "desc": "Upgrade one piece of armor",
+   "hidden": false,
+   "pct": 82.7,
+   "api_name": "NEW_ACHIEVEMENT_1_5",
+   "internal_key": 261
+  },
+  {
+   "name": "Spartan Ways",
+   "desc": "Remember the Spartan teachings",
+   "hidden": false,
+   "pct": 60.2,
+   "api_name": "NEW_ACHIEVEMENT_1_6",
+   "internal_key": 262
+  },
+  {
+   "name": "Full Belly",
+   "desc": "Obtain all of the Apples of Iðunn and Horns of Blood Mead",
+   "hidden": false,
+   "pct": 26.3,
+   "api_name": "NEW_ACHIEVEMENT_1_7",
+   "internal_key": 263
+  },
+  {
+   "name": "Knock off the Rust",
+   "desc": "Purchase a Skill",
+   "hidden": false,
+   "pct": 86.3,
+   "api_name": "NEW_ACHIEVEMENT_1_8",
+   "internal_key": 264
+  },
+  {
+   "name": "A Grizzly Encounter",
+   "desc": "Battle the Bear",
+   "hidden": true,
+   "pct": 92.6,
+   "api_name": "NEW_ACHIEVEMENT_1_9",
+   "internal_key": 265
+  },
+  {
+   "name": "Blood Debt",
+   "desc": "Battle the God of Thunder",
+   "hidden": true,
+   "pct": 91.1,
+   "api_name": "NEW_ACHIEVEMENT_1_10",
+   "internal_key": 266
+  },
+  {
+   "name": "Backyard Brawl",
+   "desc": "Battle the Mysterious Valkyrie",
+   "hidden": true,
+   "pct": 69.2,
+   "api_name": "NEW_ACHIEVEMENT_1_11",
+   "internal_key": 267
+  },
+  {
+   "name": "Root of the Problem",
+   "desc": "Battle Níðhögg",
+   "hidden": true,
+   "pct": 67.5,
+   "api_name": "NEW_ACHIEVEMENT_1_12",
+   "internal_key": 268
+  },
+  {
+   "name": "The Cauldron",
+   "desc": "Destroy Grýla's cauldron",
+   "hidden": true,
+   "pct": 69.4,
+   "api_name": "NEW_ACHIEVEMENT_1_13",
+   "internal_key": 269
+  },
+  {
+   "name": "Off the Leash",
+   "desc": "Battle Garm",
+   "hidden": true,
+   "pct": 59.8,
+   "api_name": "NEW_ACHIEVEMENT_1_14",
+   "internal_key": 270
+  },
+  {
+   "name": "Comeuppance",
+   "desc": "Battle Heimdall",
+   "hidden": true,
+   "pct": 58.2,
+   "api_name": "NEW_ACHIEVEMENT_1_15",
+   "internal_key": 271
+  },
+  {
+   "name": "Better Together",
+   "desc": "Battle Hrist and Mist",
+   "hidden": true,
+   "pct": 55.9,
+   "api_name": "NEW_ACHIEVEMENT_1_16",
+   "internal_key": 272
+  },
+  {
+   "name": "Phalanx",
+   "desc": "Obtain all Shields",
+   "hidden": false,
+   "pct": 26.4,
+   "api_name": "NEW_ACHIEVEMENT_1_17",
+   "internal_key": 273
+  },
+  {
+   "name": "Collector",
+   "desc": "Obtain all Relics and Sword Hilts",
+   "hidden": false,
+   "pct": 13.3,
+   "api_name": "NEW_ACHIEVEMENT_1_18",
+   "internal_key": 274
+  },
+  {
+   "name": "Dragon Slayer",
+   "desc": "Craft the Dragon Scaled Armor Set",
+   "hidden": false,
+   "pct": 25.8,
+   "api_name": "NEW_ACHIEVEMENT_1_19",
+   "internal_key": 275
+  },
+  {
+   "name": "How it's Going",
+   "desc": "Fully repair the Amulet of Yggdrasil",
+   "hidden": false,
+   "pct": 33.4,
+   "api_name": "NEW_ACHIEVEMENT_1_20",
+   "internal_key": 276
+  },
+  {
+   "name": "Funeral for a Friend",
+   "desc": "Attend the funeral",
+   "hidden": true,
+   "pct": 35.5,
+   "api_name": "NEW_ACHIEVEMENT_1_21",
+   "internal_key": 277
+  },
+  {
+   "name": "Rebel Leader",
+   "desc": "Return the Hammer of the Rebellion",
+   "hidden": true,
+   "pct": 45.4,
+   "api_name": "NEW_ACHIEVEMENT_1_22",
+   "internal_key": 278
+  },
+  {
+   "name": "New Friends",
+   "desc": "Fetch Lúnda's orb",
+   "hidden": true,
+   "pct": 52.7,
+   "api_name": "NEW_ACHIEVEMENT_1_23",
+   "internal_key": 279
+  },
+  {
+   "name": "Full Gufa",
+   "desc": "Free the Hafgufas",
+   "hidden": true,
+   "pct": 47.2,
+   "api_name": "NEW_ACHIEVEMENT_1_24",
+   "internal_key": 280
+  },
+  {
+   "name": "Making Amends",
+   "desc": "Free the Lyngbakr",
+   "hidden": true,
+   "pct": 57.3,
+   "api_name": "NEW_ACHIEVEMENT_1_25",
+   "internal_key": 281
+  },
+  {
+   "name": "It Was a Good Day",
+   "desc": "Retrieve Mardöll",
+   "hidden": true,
+   "pct": 51.6,
+   "api_name": "NEW_ACHIEVEMENT_1_26",
+   "internal_key": 282
+  },
+  {
+   "name": "Invasive Species ",
+   "desc": "Complete all of the Crater Hunts",
+   "hidden": true,
+   "pct": 29.2,
+   "api_name": "NEW_ACHIEVEMENT_1_27",
+   "internal_key": 283
+  },
+  {
+   "name": "Besties",
+   "desc": "Pet Speki and Svanna",
+   "hidden": true,
+   "pct": 46.6,
+   "api_name": "NEW_ACHIEVEMENT_1_28",
+   "internal_key": 284
+  },
+  {
+   "name": "Rightful Place",
+   "desc": "Return all the Lindwyrms to Ratatoskr",
+   "hidden": true,
+   "pct": 29.1,
+   "api_name": "NEW_ACHIEVEMENT_1_29",
+   "internal_key": 285
+  },
+  {
+   "name": "Pure of Hart",
+   "desc": "Return the Stags of the Four Seasons",
+   "hidden": true,
+   "pct": 30.8,
+   "api_name": "NEW_ACHIEVEMENT_1_30",
+   "internal_key": 286
+  },
+  {
+   "name": "Trials by Fire",
+   "desc": "Complete the Trials of Muspelheim",
+   "hidden": true,
+   "pct": 21.9,
+   "api_name": "NEW_ACHIEVEMENT_1_31",
+   "internal_key": 287
+  },
+  {
+   "name": "Ready for Commitment",
+   "desc": "Fully upgrade one armor set",
+   "hidden": false,
+   "pct": 26.4,
+   "api_name": "NEW_ACHIEVEMENT_2_0",
+   "internal_key": 512
+  },
+  {
+   "name": "Ragnarök",
+   "desc": "Battle the All-Father",
+   "hidden": true,
+   "pct": 55.2,
+   "api_name": "NEW_ACHIEVEMENT_2_1",
+   "internal_key": 513
+  },
+  {
+   "name": "Grave Mistake",
+   "desc": "Battle King Hrólf",
+   "hidden": true,
+   "pct": 21.9,
+   "api_name": "NEW_ACHIEVEMENT_2_2",
+   "internal_key": 514
+  },
+  {
+   "name": "The True Queen",
+   "desc": "Battle Gná",
+   "hidden": true,
+   "pct": 20.9,
+   "api_name": "NEW_ACHIEVEMENT_2_3",
+   "internal_key": 515
+  },
+  {
+   "name": "God of Hope",
+   "desc": "Master Valhalla and master thyself",
+   "hidden": true,
+   "pct": 17.8,
+   "api_name": "NEW_ACHIEVEMENT_2_4",
+   "internal_key": 516
+  },
+  {
+   "name": "Invitation Accepted",
+   "desc": "Discover the secret of Valhalla",
+   "hidden": false,
+   "pct": 34.2,
+   "api_name": "NEW_ACHIEVEMENT_2_5",
+   "internal_key": 517
+  },
+  {
+   "name": "Dark Odyssey",
+   "desc": "Participate in the sacrifice",
+   "hidden": true,
+   "pct": 26.0,
+   "api_name": "NEW_ACHIEVEMENT_2_6",
+   "internal_key": 518
+  },
+  {
+   "name": "Blood, Sweat, and Týr",
+   "desc": "Battle Týr",
+   "hidden": true,
+   "pct": 23.1,
+   "api_name": "NEW_ACHIEVEMENT_2_7",
+   "internal_key": 519
+  },
+  {
+   "name": "Scry Me a River",
+   "desc": "Reclaim Kratos' Oath Stone",
+   "hidden": true,
+   "pct": 21.9,
+   "api_name": "NEW_ACHIEVEMENT_2_8",
+   "internal_key": 520
+  },
+  {
+   "name": "Wayfarer",
+   "desc": "Visit all 9 Realms in Valhalla",
+   "hidden": false,
+   "pct": 16.2,
+   "api_name": "NEW_ACHIEVEMENT_2_9",
+   "internal_key": 521
+  },
+  {
+   "name": "No Kratos, No Scry",
+   "desc": "Reclaim Pandora's Statue",
+   "hidden": true,
+   "pct": 19.1,
+   "api_name": "NEW_ACHIEVEMENT_2_10",
+   "internal_key": 522
+  },
+  {
+   "name": "Fight at the Forum",
+   "desc": "Participate in a fight at The Forum arena",
+   "hidden": false,
+   "pct": 10.6,
+   "api_name": "NEW_ACHIEVEMENT_2_11",
+   "internal_key": 523
+  },
+  {
+   "name": "Easy Come, Easy Go",
+   "desc": "Acquire more than 15,000 Fleeting Echoes on a single attempt",
+   "hidden": false,
+   "pct": 14.2,
+   "api_name": "NEW_ACHIEVEMENT_2_12",
+   "internal_key": 524
+  },
+  {
+   "name": "Understood the Assignment",
+   "desc": "Complete 9 Mastery Quests",
+   "hidden": false,
+   "pct": 12.5,
+   "api_name": "NEW_ACHIEVEMENT_2_13",
+   "internal_key": 525
+  },
+  {
+   "name": "Style Points",
+   "desc": "Equip a Cosmetic Armor",
+   "hidden": false,
+   "pct": 28.2,
+   "api_name": "NEW_ACHIEVEMENT_2_14",
+   "internal_key": 526
+  },
+  {
+   "name": "You Again?",
+   "desc": "Find all 3 Boat Captain Keys",
+   "hidden": true,
+   "pct": 13.7,
+   "api_name": "NEW_ACHIEVEMENT_2_15",
+   "internal_key": 527
+  }
+ ]
+}

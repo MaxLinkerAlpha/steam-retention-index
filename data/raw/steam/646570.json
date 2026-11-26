@@ -1,0 +1,330 @@
+{
+ "appid": 646570,
+ "game": "Slay the Spire",
+ "snapshot": "2026-11-24 17:41 +08",
+ "count": 46,
+ "achievements": [
+  {
+   "api": "GUARDIAN",
+   "name": "The Guardian",
+   "desc": "",
+   "hidden": true,
+   "pct": 84.9
+  },
+  {
+   "api": "GHOST_GUARDIAN",
+   "name": "The Ghost",
+   "desc": "",
+   "hidden": true,
+   "pct": 81.5
+  },
+  {
+   "api": "SLIME_BOSS",
+   "name": "The Boss",
+   "desc": "",
+   "hidden": true,
+   "pct": 78.1
+  },
+  {
+   "api": "CHAMP",
+   "name": "The Champion",
+   "desc": "",
+   "hidden": true,
+   "pct": 70.7
+  },
+  {
+   "api": "ASCEND_0",
+   "name": "Ascend 0",
+   "desc": "Unlock Ascension mode.",
+   "hidden": false,
+   "pct": 66.4
+  },
+  {
+   "api": "AUTOMATON",
+   "name": "The Automaton",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.8
+  },
+  {
+   "api": "COLLECTOR",
+   "name": "The Collector",
+   "desc": "",
+   "hidden": true,
+   "pct": 64.0
+  },
+  {
+   "api": "THE_PACT",
+   "name": "The Pact",
+   "desc": "Exhaust 20 cards in a single combat.",
+   "hidden": false,
+   "pct": 61.8
+  },
+  {
+   "api": "ADRENALINE",
+   "name": "Adrenaline",
+   "desc": "Have 9 Energy during a single turn of combat.",
+   "hidden": false,
+   "pct": 60.6
+  },
+  {
+   "api": "SHRUG_IT_OFF",
+   "name": "Shrug It Off",
+   "desc": "Win a battle with 1 HP remaining.",
+   "hidden": false,
+   "pct": 58.9
+  },
+  {
+   "api": "PERFECT",
+   "name": "Perfect",
+   "desc": "Defeat a boss without taking any damage.",
+   "hidden": false,
+   "pct": 56.5
+  },
+  {
+   "api": "RUBY",
+   "name": "Ruby",
+   "desc": "Beat the game with the Ironclad.",
+   "hidden": false,
+   "pct": 56.0
+  },
+  {
+   "api": "SHAPES",
+   "name": "The Shapes",
+   "desc": "",
+   "hidden": true,
+   "pct": 55.4
+  },
+  {
+   "api": "CROW",
+   "name": "The Crow",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.8
+  },
+  {
+   "api": "COME_AT_ME",
+   "name": "Come At Me",
+   "desc": "Win a combat without playing an Attack.",
+   "hidden": false,
+   "pct": 54.0
+  },
+  {
+   "api": "PLAGUE",
+   "name": "Plague",
+   "desc": "Defeat 3 enemies with Poison in a single combat.",
+   "hidden": false,
+   "pct": 52.7
+  },
+  {
+   "api": "EMERALD",
+   "name": "Emerald",
+   "desc": "Beat the game with the Silent.",
+   "hidden": false,
+   "pct": 50.4
+  },
+  {
+   "api": "TIME_EATER",
+   "name": "The Time Eater",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.3
+  },
+  {
+   "api": "SAPPHIRE",
+   "name": "Sapphire",
+   "desc": "Beat the game with the Defect.",
+   "hidden": false,
+   "pct": 44.0
+  },
+  {
+   "api": "IMPERVIOUS",
+   "name": "Impervious",
+   "desc": "Have 99 or more Block during combat.",
+   "hidden": false,
+   "pct": 38.3
+  },
+  {
+   "api": "CATALYST",
+   "name": "Catalyst",
+   "desc": "Apply 99 or more Poison on a single enemy.",
+   "hidden": false,
+   "pct": 32.9
+  },
+  {
+   "api": "POWERFUL",
+   "name": "Powerful",
+   "desc": "Have 10 or more buffs during combat.",
+   "hidden": false,
+   "pct": 32.8
+  },
+  {
+   "api": "NINJA",
+   "name": "Ninja",
+   "desc": "Play 10 Shivs in a single turn.",
+   "hidden": false,
+   "pct": 27.8
+  },
+  {
+   "api": "AMETHYST",
+   "name": "Amethyst",
+   "desc": "Beat the game with the Watcher.",
+   "hidden": false,
+   "pct": 26.0
+  },
+  {
+   "api": "LUCKY_DAY",
+   "name": "My Lucky Day",
+   "desc": "Win a Daily Climb.",
+   "hidden": false,
+   "pct": 23.9
+  },
+  {
+   "api": "INFINITY",
+   "name": "Infinity",
+   "desc": "Play 25 cards in a single turn.",
+   "hidden": false,
+   "pct": 23.4
+  },
+  {
+   "api": "JAXXED",
+   "name": "Jaxxed",
+   "desc": "Have 50 or more Strength during combat.",
+   "hidden": false,
+   "pct": 23.2
+  },
+  {
+   "api": "PURITY",
+   "name": "Purity",
+   "desc": "Have 3 or fewer cards in hand, draw, and discard pile combined.",
+   "hidden": false,
+   "pct": 18.8
+  },
+  {
+   "api": "RUBY_PLUS",
+   "name": "Ruby+",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.2
+  },
+  {
+   "api": "EMERALD_PLUS",
+   "name": "Emerald+",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.9
+  },
+  {
+   "api": "ASCEND_10",
+   "name": "Ascend 10",
+   "desc": "Complete Ascension Level 10.",
+   "hidden": false,
+   "pct": 14.9
+  },
+  {
+   "api": "TRANSIENT",
+   "name": "The Transient",
+   "desc": "Defeat the Transient before it fades away.",
+   "hidden": false,
+   "pct": 14.7
+  },
+  {
+   "api": "SAPPHIRE_PLUS",
+   "name": "Sapphire+",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.5
+  },
+  {
+   "api": "AMETHYST_PLUS",
+   "name": "Amethyst+",
+   "desc": "Complete the Ending with the Watcher.",
+   "hidden": false,
+   "pct": 13.2
+  },
+  {
+   "api": "THE_ENDING",
+   "name": "The End?",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.1
+  },
+  {
+   "api": "YOU_ARE_NOTHING",
+   "name": "You Are Nothing",
+   "desc": "Defeat a boss on turn 1.",
+   "hidden": false,
+   "pct": 13.0
+  },
+  {
+   "api": "BARRICADED",
+   "name": "Barricaded",
+   "desc": "Have 999 Block during combat.",
+   "hidden": false,
+   "pct": 12.7
+  },
+  {
+   "api": "DONUT",
+   "name": "Ooh Donut!",
+   "desc": "Finish Donu with a Feed.",
+   "hidden": false,
+   "pct": 8.0
+  },
+  {
+   "api": "ASCEND_20",
+   "name": "Ascend 20",
+   "desc": "Complete Ascension Level 20.",
+   "hidden": false,
+   "pct": 7.3
+  },
+  {
+   "api": "SPEED_CLIMBER",
+   "name": "Speed Climber",
+   "desc": "Beat the game in under 20 minutes.",
+   "hidden": false,
+   "pct": 6.7
+  },
+  {
+   "api": "NEON",
+   "name": "Neon",
+   "desc": "Channel 9 Plasma in a single turn.",
+   "hidden": false,
+   "pct": 5.9
+  },
+  {
+   "api": "FOCUSED",
+   "name": "Focused",
+   "desc": "Have 25 or more Focus during combat.",
+   "hidden": false,
+   "pct": 5.4
+  },
+  {
+   "api": "MINIMALIST",
+   "name": "Minimalist",
+   "desc": "Beat the game with a 5 card deck or smaller.",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "COMMON_SENSE",
+   "name": "Common Sense",
+   "desc": "Beat the game with a deck containing no uncommons or rares.",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "ONE_RELIC",
+   "name": "Who Needs Relics?",
+   "desc": "Beat the game with a single relic.",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "ETERNAL_ONE",
+   "name": "Eternal One",
+   "desc": "Obtain all other Achievements.",
+   "hidden": false,
+   "pct": 2.8
+  }
+ ]
+}

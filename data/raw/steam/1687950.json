@@ -1,0 +1,379 @@
+{
+ "appid": 1687950,
+ "game": "Persona 5 Royal",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 53,
+ "achievements": [
+  {
+   "api": "TrophyTitle_11_fiber_Steam",
+   "name": "Spirit of Rebellion",
+   "desc": "Obtained Arsène.",
+   "hidden": false,
+   "pct": 79.7
+  },
+  {
+   "api": "TrophyTitle_20_fiber_Steam",
+   "name": "I am Thou...",
+   "desc": "Obtained a Persona through negotiation.",
+   "hidden": false,
+   "pct": 68.9
+  },
+  {
+   "api": "TrophyTitle_23_fiber_Steam",
+   "name": "You'd Better Hang On!",
+   "desc": "Used the grappling hook.",
+   "hidden": false,
+   "pct": 66.4
+  },
+  {
+   "api": "TrophyTitle_21_fiber_Steam",
+   "name": "Tactical Teamwork",
+   "desc": "Performed a Baton Pass.",
+   "hidden": false,
+   "pct": 65.9
+  },
+  {
+   "api": "TrophyTitle_24_fiber_Steam",
+   "name": "Technician",
+   "desc": "Triggered a Technical.",
+   "hidden": false,
+   "pct": 65.5
+  },
+  {
+   "api": "TrophyTitle_22_fiber_Steam",
+   "name": "Let's Blow It Up",
+   "desc": "Defeated enemies via Disaster Shadow explosion.",
+   "hidden": false,
+   "pct": 61.9
+  },
+  {
+   "api": "TrophyTitle_01_fiber_Steam",
+   "name": "Castle of Lust: Seized",
+   "desc": "",
+   "hidden": true,
+   "pct": 59.0
+  },
+  {
+   "api": "TrophyTitle_33_fiber_Steam",
+   "name": "A Deadly Debut",
+   "desc": "Performed a Guillotine execution.",
+   "hidden": false,
+   "pct": 58.6
+  },
+  {
+   "api": "TrophyTitle_12_fiber_Steam",
+   "name": "Phantom Thieves: Assemble!",
+   "desc": "Established your own squad of thieves.",
+   "hidden": false,
+   "pct": 58.1
+  },
+  {
+   "api": "TrophyTitle_13_fiber_Steam",
+   "name": "One Step at a Time",
+   "desc": "Completed a Mementos request.",
+   "hidden": false,
+   "pct": 57.3
+  },
+  {
+   "api": "TrophyTitle_16_fiber_Steam",
+   "name": "Tokyo Tourist",
+   "desc": "Went to a hangout spot with someone.",
+   "hidden": false,
+   "pct": 55.6
+  },
+  {
+   "api": "TrophyTitle_41_fiber_Steam",
+   "name": "Batter Up!",
+   "desc": "Scored a hit at the batting cages.",
+   "hidden": false,
+   "pct": 52.2
+  },
+  {
+   "api": "TrophyTitle_25_fiber_Steam",
+   "name": "Talent Thief",
+   "desc": "Obtained a Skill Accessory from a Palace ruler.",
+   "hidden": false,
+   "pct": 51.0
+  },
+  {
+   "api": "TrophyTitle_28_fiber_Steam",
+   "name": "Jose's Favorite Customer",
+   "desc": "Traded in flowers while in Mementos.",
+   "hidden": false,
+   "pct": 50.4
+  },
+  {
+   "api": "TrophyTitle_40_fiber_Steam",
+   "name": "Punch That Clock!",
+   "desc": "Worked a part-time job.",
+   "hidden": false,
+   "pct": 49.2
+  },
+  {
+   "api": "TrophyTitle_29_fiber_Steam",
+   "name": "The Phantom Philatelist",
+   "desc": "Traded in stamps while in Mementos.",
+   "hidden": false,
+   "pct": 48.2
+  },
+  {
+   "api": "TrophyTitle_02_fiber_Steam",
+   "name": "Museum of Vanity: Repossessed",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.4
+  },
+  {
+   "api": "TrophyTitle_39_fiber_Steam",
+   "name": "Leblanc Buffer",
+   "desc": "Cleaned up in Leblanc.",
+   "hidden": false,
+   "pct": 45.6
+  },
+  {
+   "api": "TrophyTitle_31_fiber_Steam",
+   "name": "The Deviated Cognition",
+   "desc": "Encountered a deviation in Mementos.",
+   "hidden": false,
+   "pct": 44.5
+  },
+  {
+   "api": "TrophyTitle_27_fiber_Steam",
+   "name": "It's Showtime!",
+   "desc": "Performed a Showtime attack.",
+   "hidden": false,
+   "pct": 44.1
+  },
+  {
+   "api": "TrophyTitle_37_fiber_Steam",
+   "name": "Accident-Prone",
+   "desc": "Performed an execution during a Fusion Alarm.",
+   "hidden": false,
+   "pct": 42.3
+  },
+  {
+   "api": "TrophyTitle_38_fiber_Steam",
+   "name": "A Grand Experiment",
+   "desc": "Performed an Electric Chair execution.",
+   "hidden": false,
+   "pct": 42.2
+  },
+  {
+   "api": "TrophyTitle_03_fiber_Steam",
+   "name": "Bank of Gluttony: Cleaned Out",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.7
+  },
+  {
+   "api": "TrophyTitle_46_fiber_Steam",
+   "name": "Dartslinger",
+   "desc": "Played a game of darts.",
+   "hidden": false,
+   "pct": 40.6
+  },
+  {
+   "api": "TrophyTitle_26_fiber_Steam",
+   "name": "The Purpose of a Thief",
+   "desc": "Obtained a Treasure Demon.",
+   "hidden": false,
+   "pct": 39.8
+  },
+  {
+   "api": "TrophyTitle_04_fiber_Steam",
+   "name": "Pyramid of Wrath: Plundered",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.2
+  },
+  {
+   "api": "TrophyTitle_45_fiber_Steam",
+   "name": "Trash Into Treasure",
+   "desc": "Sold old clothing at Furugi no Neuchi.",
+   "hidden": false,
+   "pct": 38.0
+  },
+  {
+   "api": "TrophyTitle_18_fiber_Steam",
+   "name": "True Confidence",
+   "desc": "Maxed out one of your Confidants.",
+   "hidden": false,
+   "pct": 37.8
+  },
+  {
+   "api": "TrophyTitle_36_fiber_Steam",
+   "name": "Success Built on Sacrifice",
+   "desc": "Performed a Gallows execution.",
+   "hidden": false,
+   "pct": 36.5
+  },
+  {
+   "api": "TrophyTitle_47_fiber_Steam",
+   "name": "A Hustler's Journey",
+   "desc": "Played a game of billiards.",
+   "hidden": false,
+   "pct": 35.4
+  },
+  {
+   "api": "TrophyTitle_17_fiber_Steam",
+   "name": "My Closest Partner",
+   "desc": "Entered a special relationship.",
+   "hidden": false,
+   "pct": 34.6
+  },
+  {
+   "api": "TrophyTitle_05_fiber_Steam",
+   "name": "Spaceport of Greed: Obliterated",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.7
+  },
+  {
+   "api": "TrophyTitle_50_fiber_Steam",
+   "name": "Professional Modification",
+   "desc": "Customized a gun.",
+   "hidden": false,
+   "pct": 32.8
+  },
+  {
+   "api": "TrophyTitle_06_fiber_Steam",
+   "name": "Casino of Jealousy: Bankrupted",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.4
+  },
+  {
+   "api": "TrophyTitle_14_fiber_Steam",
+   "name": "A Most Studious Disguise",
+   "desc": "Scored the highest on your exams.",
+   "hidden": false,
+   "pct": 30.4
+  },
+  {
+   "api": "TrophyTitle_42_fiber_Steam",
+   "name": "Getting the Vapors",
+   "desc": "Couldn't take the heat in the bathhouse.",
+   "hidden": false,
+   "pct": 30.2
+  },
+  {
+   "api": "TrophyTitle_34_fiber_Steam",
+   "name": "Efficient Executioner",
+   "desc": "Performed a Group Guillotine execution.",
+   "hidden": false,
+   "pct": 29.9
+  },
+  {
+   "api": "TrophyTitle_07_fiber_Steam",
+   "name": "Cruiser of Pride: Capsized",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.3
+  },
+  {
+   "api": "TrophyTitle_08_fiber_Steam",
+   "name": "The Thorough Trickster",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.5
+  },
+  {
+   "api": "TrophyTitle_43_fiber_Steam",
+   "name": "Easy Money",
+   "desc": "Won the lottery.",
+   "hidden": false,
+   "pct": 27.0
+  },
+  {
+   "api": "TrophyTitle_48_fiber_Steam",
+   "name": "A Night in Kichijoji",
+   "desc": "Attended the jazz club.",
+   "hidden": false,
+   "pct": 26.7
+  },
+  {
+   "api": "TrophyTitle_15_fiber_Steam",
+   "name": "Pure Perfection",
+   "desc": "Maxed out all social stats.",
+   "hidden": false,
+   "pct": 26.3
+  },
+  {
+   "api": "TrophyTitle_10_fiber_Steam",
+   "name": "The Path Chosen",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.9
+  },
+  {
+   "api": "TrophyTitle_19_fiber_Steam",
+   "name": "Awakening the Phantom Thieves",
+   "desc": "Evolved a party member's Persona.",
+   "hidden": false,
+   "pct": 24.9
+  },
+  {
+   "api": "TrophyTitle_49_fiber_Steam",
+   "name": "A Serene Experience",
+   "desc": "Visited a temple.",
+   "hidden": false,
+   "pct": 23.1
+  },
+  {
+   "api": "TrophyTitle_30_fiber_Steam",
+   "name": "The Search for Power",
+   "desc": "Completely changed the cognition of Mementos.",
+   "hidden": false,
+   "pct": 22.7
+  },
+  {
+   "api": "TrophyTitle_09_fiber_Steam",
+   "name": "Take Back the Future",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.1
+  },
+  {
+   "api": "TrophyTitle_35_fiber_Steam",
+   "name": "Intensive Training",
+   "desc": "Used Incense on a Persona in Lockdown.",
+   "hidden": false,
+   "pct": 21.6
+  },
+  {
+   "api": "TrophyTitle_44_fiber_Steam",
+   "name": "Going Against the Crane",
+   "desc": "Scored a prize in the crane game.",
+   "hidden": false,
+   "pct": 21.1
+  },
+  {
+   "api": "TrophyTitle_51_fiber_Steam",
+   "name": "Angler's Debut",
+   "desc": "Passed time at the fishing pond.",
+   "hidden": false,
+   "pct": 19.1
+  },
+  {
+   "api": "TrophyTitle_32_fiber_Steam",
+   "name": "Unsurpassed Rebel",
+   "desc": "Conquered the Reaper.",
+   "hidden": false,
+   "pct": 16.8
+  },
+  {
+   "api": "TrophyTitle_52_fiber_Steam",
+   "name": "Master of Akihabara",
+   "desc": "Ordered from the special menu at the maid café.",
+   "hidden": false,
+   "pct": 11.9
+  },
+  {
+   "api": "TrophyTitle_00_fiber_Steam",
+   "name": "The Phenomenal Phantom Thief",
+   "desc": "Unlocked all achievements.",
+   "hidden": false,
+   "pct": 8.4
+  }
+ ]
+}

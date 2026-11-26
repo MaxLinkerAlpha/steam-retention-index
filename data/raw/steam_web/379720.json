@@ -1,0 +1,441 @@
+{
+ "appid": 379720,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 54,
+ "achievements": [
+  {
+   "name": "Shoot it Until it Dies",
+   "desc": "Defeat the Cyberdemon",
+   "hidden": true,
+   "pct": 37.3,
+   "api_name": "ach_1",
+   "internal_key": 256
+  },
+  {
+   "name": "Outnumbered? No Problem",
+   "desc": "Defeat the Hell Guards",
+   "hidden": true,
+   "pct": 34.8,
+   "api_name": "ach_2",
+   "internal_key": 257
+  },
+  {
+   "name": "Who's Next?",
+   "desc": "Defeat the Spider Mastermind",
+   "hidden": true,
+   "pct": 32.2,
+   "api_name": "ach_3",
+   "internal_key": 258
+  },
+  {
+   "name": "E1M1",
+   "desc": "Complete the first mission of the campaign",
+   "hidden": false,
+   "pct": 82.4,
+   "api_name": "ach_4",
+   "internal_key": 259
+  },
+  {
+   "name": "Into the Unknown",
+   "desc": "Warp to Hell",
+   "hidden": true,
+   "pct": 49.4,
+   "api_name": "ach_5",
+   "internal_key": 260
+  },
+  {
+   "name": "Knee-Deep in the Dead",
+   "desc": "Complete the campaign on 'I'm Too Young to Die', 'Hurt Me Plenty', 'Ultra Violence', or 'Nightmare'.",
+   "hidden": false,
+   "pct": 32.2,
+   "api_name": "ach_6",
+   "internal_key": 261
+  },
+  {
+   "name": "A Toe into Madness",
+   "desc": "Complete The UAC on Ultra-Nightmare",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "ach_7",
+   "internal_key": 262
+  },
+  {
+   "name": "Up Close and Personal",
+   "desc": "Kill 50 enemies using the Chainsaw",
+   "hidden": false,
+   "pct": 18.1,
+   "api_name": "ach_8",
+   "internal_key": 263
+  },
+  {
+   "name": "Specialist",
+   "desc": "Earn the Mastery for a weapon mod",
+   "hidden": false,
+   "pct": 36.0,
+   "api_name": "ach_9",
+   "internal_key": 264
+  },
+  {
+   "name": "IDKFA",
+   "desc": "Earn the Masteries for all weapon mods",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "ach_10",
+   "internal_key": 265
+  },
+  {
+   "name": "Hot Swapper",
+   "desc": "Acquire all weapon mods",
+   "hidden": false,
+   "pct": 12.7,
+   "api_name": "ach_11",
+   "internal_key": 266
+  },
+  {
+   "name": "Historian",
+   "desc": "Find all Data Logs",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "ach_12",
+   "internal_key": 267
+  },
+  {
+   "name": "Timing is Everything",
+   "desc": "Use explosive barrels to kill 100 enemies",
+   "hidden": false,
+   "pct": 21.7,
+   "api_name": "ach_13",
+   "internal_key": 268
+  },
+  {
+   "name": "Every Nook and Cranny",
+   "desc": "Find all Collectibles",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "ach_14",
+   "internal_key": 269
+  },
+  {
+   "name": "Argent Overload",
+   "desc": "Fully upgrade Health, Armor, or Ammo capacity",
+   "hidden": false,
+   "pct": 37.8,
+   "api_name": "ach_15",
+   "internal_key": 270
+  },
+  {
+   "name": "Argent Fiend",
+   "desc": "Fully upgrade Health, Armor, and Ammo capacity on a single campaign run.",
+   "hidden": false,
+   "pct": 14.1,
+   "api_name": "ach_16",
+   "internal_key": 271
+  },
+  {
+   "name": "A Gift from Beyond",
+   "desc": "Earn a Rune",
+   "hidden": false,
+   "pct": 53.9,
+   "api_name": "ach_17",
+   "internal_key": 272
+  },
+  {
+   "name": "The Circle is Complete",
+   "desc": "Earn all Runes",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "ach_18",
+   "internal_key": 273
+  },
+  {
+   "name": "Tinkering",
+   "desc": "Fully upgrade a Praetor Suit category.",
+   "hidden": false,
+   "pct": 40.5,
+   "api_name": "ach_19",
+   "internal_key": 274
+  },
+  {
+   "name": "Overclocked",
+   "desc": "Fully upgrade all Praetor Suit categories on a single campaign run.",
+   "hidden": false,
+   "pct": 7.3,
+   "api_name": "ach_20",
+   "internal_key": 275
+  },
+  {
+   "name": "Thorough Shopper",
+   "desc": "Complete all Challenges for a single mission.",
+   "hidden": false,
+   "pct": 31.4,
+   "api_name": "ach_21",
+   "internal_key": 276
+  },
+  {
+   "name": "Butcher",
+   "desc": "Perform 200 Glory Kills",
+   "hidden": false,
+   "pct": 58.4,
+   "api_name": "ach_22",
+   "internal_key": 277
+  },
+  {
+   "name": "Rip and Tear",
+   "desc": "Glory Kill all common enemy types in the campaign.",
+   "hidden": false,
+   "pct": 43.0,
+   "api_name": "ach_23",
+   "internal_key": 278
+  },
+  {
+   "name": "Juicin' it up",
+   "desc": "Kill 150 enemies while using Power Ups",
+   "hidden": false,
+   "pct": 29.0,
+   "api_name": "ach_24",
+   "internal_key": 279
+  },
+  {
+   "name": "Momentum Shift",
+   "desc": "Upgrade a Rune",
+   "hidden": false,
+   "pct": 44.0,
+   "api_name": "ach_25",
+   "internal_key": 280
+  },
+  {
+   "name": "IDDQD",
+   "desc": "Upgrade all Runes",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "ach_26",
+   "internal_key": 281
+  },
+  {
+   "name": "What Else Ya Got?",
+   "desc": "Complete all Mission Challenges",
+   "hidden": false,
+   "pct": 3.3,
+   "api_name": "ach_27",
+   "internal_key": 282
+  },
+  {
+   "name": "IPXSETUP.EXE",
+   "desc": "Win a Multiplayer match",
+   "hidden": false,
+   "pct": 11.4,
+   "api_name": "ach_28",
+   "internal_key": 283
+  },
+  {
+   "name": "Combat tested, Doomguy approved",
+   "desc": "Reach Level 5 in Multiplayer",
+   "hidden": false,
+   "pct": 8.8,
+   "api_name": "ach_29",
+   "internal_key": 284
+  },
+  {
+   "name": "An Old Friend",
+   "desc": "Acquire the BFG",
+   "hidden": true,
+   "pct": 40.1,
+   "api_name": "ach_30",
+   "internal_key": 285
+  },
+  {
+   "name": "Shareware",
+   "desc": "Create and publish a SnapMap",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ach_31",
+   "internal_key": 286
+  },
+  {
+   "name": "No Rest for the Living",
+   "desc": "Play 5 published SnapMaps",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "ach_32",
+   "internal_key": 287
+  },
+  {
+   "name": "Entryway",
+   "desc": "Complete the SnapMap Basic and Advanced Tutorials",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ach_33",
+   "internal_key": 512
+  },
+  {
+   "name": "Tenderizing the Crops",
+   "desc": "Kill 10 enemies with the Harvester demon in Multiplayer",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ach_34",
+   "internal_key": 513
+  },
+  {
+   "name": "Marked for Death",
+   "desc": "Kill 10 enemies with the EMG Mark V Pistol in Multiplayer",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "ach_35",
+   "internal_key": 514
+  },
+  {
+   "name": "Motion in the Explosion",
+   "desc": "Kill 5 enemies with the Kinetic Mine in Multiplayer",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ach_36",
+   "internal_key": 515
+  },
+  {
+   "name": "Sitting Duck",
+   "desc": "Use a taunt from Expansion 1 during a Multiplayer Match",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ach_37",
+   "internal_key": 516
+  },
+  {
+   "name": "Computing with Style",
+   "desc": "Play a Multiplayer Match with a piece of Robotic Armor equipped",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "ach_38",
+   "internal_key": 517
+  },
+  {
+   "name": "Threat Assessment",
+   "desc": "Detect 20 enemies using the Threat Pulse in Multiplayer",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "ach_39",
+   "internal_key": 518
+  },
+  {
+   "name": "Eat Your Vitamins",
+   "desc": "Kill 10 enemies with the Cacodemon in Multiplayer",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "ach_40",
+   "internal_key": 519
+  },
+  {
+   "name": "Reaping all the Benefits",
+   "desc": "Kill 10 enemies with the Reaper in Multiplayer",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ach_41",
+   "internal_key": 520
+  },
+  {
+   "name": "Beauty is Pain",
+   "desc": "Play a Multiplayer Match with a piece of Cyber-Demonic armor equipped",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "ach_42",
+   "internal_key": 521
+  },
+  {
+   "name": "Like Nobody is Watching",
+   "desc": "Use a taunt from Expansion 2 during a Multiplayer Match",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "ach_43",
+   "internal_key": 522
+  },
+  {
+   "name": "Filling the Trophy Case",
+   "desc": "Earn every medal type in Arcade Mode in one run",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "ach_44",
+   "internal_key": 523
+  },
+  {
+   "name": "Go for the Gold",
+   "desc": "Earn a gold rating in Arcade Mode",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "ach_45",
+   "internal_key": 524
+  },
+  {
+   "name": "Arcade Stockpile",
+   "desc": "Collect 20 bonus lives or relics in Arcade Mode",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "ach_46",
+   "internal_key": 525
+  },
+  {
+   "name": "Bowling for Gibs",
+   "desc": "Perform a MultiKill with the Spectre demon in Multiplayer",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "ach_47",
+   "internal_key": 526
+  },
+  {
+   "name": "Head First",
+   "desc": "Kill 10 enemies with the Spectre demon in Multiplayer",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "ach_48",
+   "internal_key": 527
+  },
+  {
+   "name": "Successful Launch",
+   "desc": "Kill 10 enemies with the Grenade Launcher in Multiplayer",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "ach_49",
+   "internal_key": 528
+  },
+  {
+   "name": "Fashion Fanatic",
+   "desc": "Play a Multiplayer Match with a piece of Evil Cultist armor equipped",
+   "hidden": false,
+   "pct": 2.1,
+   "api_name": "ach_50",
+   "internal_key": 529
+  },
+  {
+   "name": "Insult to Injury",
+   "desc": "Use a taunt from Expansion 3 during a Multiplayer Match",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "ach_51",
+   "internal_key": 530
+  },
+  {
+   "name": "On Track",
+   "desc": "Complete a tracked challenge in a Multiplayer Match",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "ach_52",
+   "internal_key": 531
+  },
+  {
+   "name": "A Memorable Performance",
+   "desc": "Earn a Gold Rating in a Multiplayer Match",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "ach_53",
+   "internal_key": 532
+  },
+  {
+   "name": "Slotted for Success",
+   "desc": "Unlock all Multiplayer Runes",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "ach_54",
+   "internal_key": 533
+  }
+ ]
+}

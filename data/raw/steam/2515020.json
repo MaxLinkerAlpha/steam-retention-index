@@ -1,0 +1,491 @@
+{
+ "appid": 2515020,
+ "game": "FINAL FANTASY XVI",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 69,
+ "achievements": [
+  {
+   "api": "1019",
+   "name": "Sheeeeeeeeeeeeeeeift",
+   "desc": "Land 15 Shift Strikes or Shift Shots combined (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 87.1
+  },
+  {
+   "api": "1001",
+   "name": "Awoken",
+   "desc": "",
+   "hidden": true,
+   "pct": 86.5
+  },
+  {
+   "api": "1015",
+   "name": "Punisher",
+   "desc": "Punish 10 enemies (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 78.3
+  },
+  {
+   "api": "1002",
+   "name": "With Great Power",
+   "desc": "",
+   "hidden": true,
+   "pct": 74.1
+  },
+  {
+   "api": "1013",
+   "name": "Dressed to the Fives",
+   "desc": "Craft or upgrade 5 pieces of gear.",
+   "hidden": false,
+   "pct": 67.6
+  },
+  {
+   "api": "1046",
+   "name": "A Fine Hound",
+   "desc": "",
+   "hidden": true,
+   "pct": 65.6
+  },
+  {
+   "api": "1003",
+   "name": "Acceptance",
+   "desc": "",
+   "hidden": true,
+   "pct": 64.2
+  },
+  {
+   "api": "1004",
+   "name": "Lawless",
+   "desc": "",
+   "hidden": true,
+   "pct": 58.1
+  },
+  {
+   "api": "1005",
+   "name": "Legacy",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.1
+  },
+  {
+   "api": "1023",
+   "name": "I Am the Thunder",
+   "desc": "Discharge 50 Blind Justice lightning balls (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 50.8
+  },
+  {
+   "api": "1006",
+   "name": "Twilight Rose",
+   "desc": "",
+   "hidden": true,
+   "pct": 49.4
+  },
+  {
+   "api": "1047",
+   "name": "When You Ride Alone",
+   "desc": "",
+   "hidden": true,
+   "pct": 48.5
+  },
+  {
+   "api": "1045",
+   "name": "You Can Pet the Dog",
+   "desc": "Pet Torgal 5 times.",
+   "hidden": false,
+   "pct": 47.9
+  },
+  {
+   "api": "1007",
+   "name": "From Stone to Sand",
+   "desc": "",
+   "hidden": true,
+   "pct": 45.9
+  },
+  {
+   "api": "1008",
+   "name": "Twin Flames",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.8
+  },
+  {
+   "api": "1018",
+   "name": "It's Over 50,000",
+   "desc": "Deal an enemy 50,000 damage while it is staggered (excluding battles in the Hall of Virtue and while fully primed as Ifrit).",
+   "hidden": false,
+   "pct": 39.3
+  },
+  {
+   "api": "1009",
+   "name": "The Promise",
+   "desc": "",
+   "hidden": true,
+   "pct": 37.7
+  },
+  {
+   "api": "1036",
+   "name": "The Pen Is Mightier",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.5
+  },
+  {
+   "api": "1010",
+   "name": "A Vessel Complete",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.9
+  },
+  {
+   "api": "1017",
+   "name": "Made to Be Broken",
+   "desc": "",
+   "hidden": true,
+   "pct": 35.6
+  },
+  {
+   "api": "1011",
+   "name": "Ashes to Ashes",
+   "desc": "",
+   "hidden": true,
+   "pct": 34.7
+  },
+  {
+   "api": "1040",
+   "name": "Think, Mark!",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.9
+  },
+  {
+   "api": "1012",
+   "name": "Falling Star",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.6
+  },
+  {
+   "api": "1025",
+   "name": "Untouchable",
+   "desc": "Use Titanic Block to fend off 10 enemy attacks (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 30.8
+  },
+  {
+   "api": "1031",
+   "name": "Every Damn Sinew",
+   "desc": "",
+   "hidden": true,
+   "pct": 30.3
+  },
+  {
+   "api": "1027",
+   "name": "100 Mfps",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.8
+  },
+  {
+   "api": "1038",
+   "name": "With Two Ds",
+   "desc": "Upgrade consumable potency and inventory slots to their maximum.",
+   "hidden": false,
+   "pct": 28.6
+  },
+  {
+   "api": "1037",
+   "name": "The More You Know",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.4
+  },
+  {
+   "api": "1039",
+   "name": "And They Opened Up My Mind",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.8
+  },
+  {
+   "api": "1026",
+   "name": "Beat Rocking Blocks",
+   "desc": "Land the third punch of a Titanic Counter twice in a single battle (excluding those in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 22.5
+  },
+  {
+   "api": "1014",
+   "name": "Half Past Twilight",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.3
+  },
+  {
+   "api": "1044",
+   "name": "Careful Whisper",
+   "desc": "Obtain all available items from your patrons.",
+   "hidden": false,
+   "pct": 20.4
+  },
+  {
+   "api": "1033",
+   "name": "Yes, Eikon",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.2
+  },
+  {
+   "api": "2000",
+   "name": "A Crystal Darkly",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.7
+  },
+  {
+   "api": "1028",
+   "name": "Such Dodge, So Mega",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.6
+  },
+  {
+   "api": "3000",
+   "name": "The Calm",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.6
+  },
+  {
+   "api": "1021",
+   "name": "Fatal Attraction",
+   "desc": "Defeat 5 enemies in the air after using Deadly Embrace (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 19.3
+  },
+  {
+   "api": "1041",
+   "name": "Hunter, Hunted",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.2
+  },
+  {
+   "api": "1035",
+   "name": "Here Be Rosfields",
+   "desc": "Visit all areas on the world and local maps.",
+   "hidden": false,
+   "pct": 19.1
+  },
+  {
+   "api": "3001",
+   "name": "Homecoming",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.1
+  },
+  {
+   "api": "1024",
+   "name": "Rod to Redemption",
+   "desc": "Lure an enemy into striking a Lightning Rod 3 times before it dissipates (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 19.0
+  },
+  {
+   "api": "3002",
+   "name": "Flow",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.8
+  },
+  {
+   "api": "2001",
+   "name": "The Only Way Is Up",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.7
+  },
+  {
+   "api": "1016",
+   "name": "You're Not the Boss of Me",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.5
+  },
+  {
+   "api": "2002",
+   "name": "Repercussion",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.3
+  },
+  {
+   "api": "3003",
+   "name": "Flood",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.1
+  },
+  {
+   "api": "2005",
+   "name": "My Reward Is with Me",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.9
+  },
+  {
+   "api": "3004",
+   "name": "Explain That",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.6
+  },
+  {
+   "api": "1030",
+   "name": "Cold-blooded",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.3
+  },
+  {
+   "api": "2004",
+   "name": "Bit Fit",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.9
+  },
+  {
+   "api": "3006",
+   "name": "Tideslinger",
+   "desc": "",
+   "hidden": true,
+   "pct": 15.0
+  },
+  {
+   "api": "1029",
+   "name": "Oh, Snap!",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.7
+  },
+  {
+   "api": "3010",
+   "name": "The End Can Wait",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.5
+  },
+  {
+   "api": "1042",
+   "name": "Trial Run",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.0
+  },
+  {
+   "api": "1020",
+   "name": "Packing Heat",
+   "desc": "Execute and land 2 Heatwave Counters in a single battle (excluding those in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 13.9
+  },
+  {
+   "api": "3008",
+   "name": "Deus Ex",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.8
+  },
+  {
+   "api": "3007",
+   "name": "Supersoaker",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.0
+  },
+  {
+   "api": "1032",
+   "name": "Fistful of Steel",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.4
+  },
+  {
+   "api": "1043",
+   "name": "For the Hoard",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.7
+  },
+  {
+   "api": "1034",
+   "name": "Masterclass",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.5
+  },
+  {
+   "api": "1048",
+   "name": "Eureka",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.2
+  },
+  {
+   "api": "3011",
+   "name": "Still Breathing",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.9
+  },
+  {
+   "api": "1022",
+   "name": "Never Coming Down",
+   "desc": "Land Gouge, Wicked Wheel, and Rook's Gambit in midair before landing (excluding battles in the Hall of Virtue).",
+   "hidden": false,
+   "pct": 5.0
+  },
+  {
+   "api": "3009",
+   "name": "A Most Worthy Vessel",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.9
+  },
+  {
+   "api": "3012",
+   "name": "Occasio Calva",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.6
+  },
+  {
+   "api": "1049",
+   "name": "Fantasy, Finally",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.0
+  },
+  {
+   "api": "2003",
+   "name": "OMG",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "3005",
+   "name": "Thou Brakest the Head",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.9
+  },
+  {
+   "api": "1000",
+   "name": "The Chronicler",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.2
+  }
+ ]
+}

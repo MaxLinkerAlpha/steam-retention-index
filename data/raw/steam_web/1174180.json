@@ -1,0 +1,417 @@
+{
+ "appid": 1174180,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 51,
+ "achievements": [
+  {
+   "name": "Back in the Mud",
+   "desc": "Complete Chapter 1.",
+   "hidden": true,
+   "pct": 72.8,
+   "api_name": "Achievement1",
+   "internal_key": 25856
+  },
+  {
+   "name": "Just a Scratch",
+   "desc": "Complete 'Enter, Pursued by a Memory'.",
+   "hidden": true,
+   "pct": 85.5,
+   "api_name": "Achievement2",
+   "internal_key": 25858
+  },
+  {
+   "name": "To Greener Pastures",
+   "desc": "Complete Chapter 2.",
+   "hidden": true,
+   "pct": 41.5,
+   "api_name": "Achievement3",
+   "internal_key": 25887
+  },
+  {
+   "name": "Settling Feuds",
+   "desc": "Complete Chapter 3.",
+   "hidden": true,
+   "pct": 32.6,
+   "api_name": "Achievement4",
+   "internal_key": 26112
+  },
+  {
+   "name": "Washed Ashore",
+   "desc": "Complete Chapter 4.",
+   "hidden": true,
+   "pct": 27.7,
+   "api_name": "Achievement5",
+   "internal_key": 26113
+  },
+  {
+   "name": "No Traitors",
+   "desc": "Complete Chapter 5.",
+   "hidden": true,
+   "pct": 26.7,
+   "api_name": "Achievement6",
+   "internal_key": 26114
+  },
+  {
+   "name": "Third Time Lucky",
+   "desc": "Complete 'Goodbye, Dear Friend'.",
+   "hidden": true,
+   "pct": 25.1,
+   "api_name": "Achievement7",
+   "internal_key": 26115
+  },
+  {
+   "name": "Redemption",
+   "desc": "Complete 'Red Dead Redemption'.",
+   "hidden": true,
+   "pct": 23.7,
+   "api_name": "Achievement8",
+   "internal_key": 26116
+  },
+  {
+   "name": "Cowboy Builder",
+   "desc": "Complete 'A New Jerusalem'.",
+   "hidden": true,
+   "pct": 21.3,
+   "api_name": "Achievement9",
+   "internal_key": 26117
+  },
+  {
+   "name": "Endless Summer",
+   "desc": "Complete the Epilogue.",
+   "hidden": true,
+   "pct": 20.5,
+   "api_name": "Achievement10",
+   "internal_key": 26118
+  },
+  {
+   "name": "Lending a Hand",
+   "desc": "Complete all optional Honor story missions.",
+   "hidden": false,
+   "pct": 9.6,
+   "api_name": "Achievement11",
+   "internal_key": 26119
+  },
+  {
+   "name": "Best in the West",
+   "desc": "Attain 100% completion.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "Achievement12",
+   "internal_key": 26120
+  },
+  {
+   "name": "Gold Rush",
+   "desc": "Earn 70 Gold Medals in Story missions.",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "Achievement13",
+   "internal_key": 26121
+  },
+  {
+   "name": "Friends With Benefits",
+   "desc": "Complete a Companion Activity in each camp.",
+   "hidden": false,
+   "pct": 16.3,
+   "api_name": "Achievement14",
+   "internal_key": 26122
+  },
+  {
+   "name": "Hobby Horse",
+   "desc": "Play all mini games.",
+   "hidden": false,
+   "pct": 10.2,
+   "api_name": "Achievement15",
+   "internal_key": 26123
+  },
+  {
+   "name": "Breaking and Entering",
+   "desc": "Recover the stash from 4 homesteads.",
+   "hidden": false,
+   "pct": 18.6,
+   "api_name": "Achievement16",
+   "internal_key": 26124
+  },
+  {
+   "name": "Artificial Intelligence",
+   "desc": "Discover the fate of Marko Dragic.",
+   "hidden": false,
+   "pct": 5.7,
+   "api_name": "Achievement17",
+   "internal_key": 26125
+  },
+  {
+   "name": "Take From the Rich",
+   "desc": "Rob or loot $250.",
+   "hidden": false,
+   "pct": 34.7,
+   "api_name": "Achievement18",
+   "internal_key": 26126
+  },
+  {
+   "name": "Give to the Poor",
+   "desc": "Donate $250 to the gang tithing box.",
+   "hidden": false,
+   "pct": 43.0,
+   "api_name": "Achievement19",
+   "internal_key": 26127
+  },
+  {
+   "name": "Pony Up",
+   "desc": "Spend $5000 across all shops.",
+   "hidden": false,
+   "pct": 14.2,
+   "api_name": "Achievement20",
+   "internal_key": 26128
+  },
+  {
+   "name": "Extreme Personality",
+   "desc": "Reach maximum or minimum Honor level.",
+   "hidden": false,
+   "pct": 20.1,
+   "api_name": "Achievement21",
+   "internal_key": 26129
+  },
+  {
+   "name": "Western Stranger",
+   "desc": "Complete 10 Stranger mission strands.",
+   "hidden": false,
+   "pct": 11.3,
+   "api_name": "Achievement22",
+   "internal_key": 26130
+  },
+  {
+   "name": "Bountiful",
+   "desc": "Survive 3 days holding a bounty of $250 in all states.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "Achievement23",
+   "internal_key": 26131
+  },
+  {
+   "name": "Collector's Item",
+   "desc": "Complete one of the Collectable strands.",
+   "hidden": false,
+   "pct": 5.8,
+   "api_name": "Achievement24",
+   "internal_key": 26132
+  },
+  {
+   "name": "Paying Respects",
+   "desc": "Find the graves of each of your fallen companions.",
+   "hidden": true,
+   "pct": 3.0,
+   "api_name": "Achievement25",
+   "internal_key": 26133
+  },
+  {
+   "name": "Errand Boy",
+   "desc": "Deliver 5 camp companion item requests.",
+   "hidden": false,
+   "pct": 8.4,
+   "api_name": "Achievement26",
+   "internal_key": 26134
+  },
+  {
+   "name": "It's Art",
+   "desc": "Find a permanent home for the squirrel statue.",
+   "hidden": true,
+   "pct": 1.6,
+   "api_name": "Achievement27",
+   "internal_key": 26135
+  },
+  {
+   "name": "Self Sufficient",
+   "desc": "Craft 30 unique items in Story Mode.",
+   "hidden": false,
+   "pct": 13.3,
+   "api_name": "Achievement28",
+   "internal_key": 26136
+  },
+  {
+   "name": "Skin Deep",
+   "desc": "Skin every species of animal in Story Mode.",
+   "hidden": false,
+   "pct": 3.6,
+   "api_name": "Achievement29",
+   "internal_key": 26137
+  },
+  {
+   "name": "Zoologist",
+   "desc": "Study every animal across all states in Story Mode.",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "Achievement30",
+   "internal_key": 26138
+  },
+  {
+   "name": "It was THIS Big!",
+   "desc": "Catch a fish weighing at least 16 lbs (7.3 kg).",
+   "hidden": false,
+   "pct": 19.0,
+   "api_name": "Achievement31",
+   "internal_key": 26139
+  },
+  {
+   "name": "Locked and Loaded",
+   "desc": "Upgrade each available component for a single sidearm or longarm weapon.",
+   "hidden": false,
+   "pct": 35.6,
+   "api_name": "Achievement32",
+   "internal_key": 26140
+  },
+  {
+   "name": "Grin and Bear it",
+   "desc": "Survive 18 bear attacks and kill the bear each time in Story Mode.",
+   "hidden": false,
+   "pct": 1.7,
+   "api_name": "Achievement33",
+   "internal_key": 26141
+  },
+  {
+   "name": "Trusty Steed",
+   "desc": "Reach max bonding level with a horse.",
+   "hidden": false,
+   "pct": 50.8,
+   "api_name": "Achievement34",
+   "internal_key": 26142
+  },
+  {
+   "name": "Breakout",
+   "desc": "Red Dead Online: Complete the Intro.",
+   "hidden": false,
+   "pct": 32.4,
+   "api_name": "Achievement35",
+   "internal_key": 26143
+  },
+  {
+   "name": "Series Major",
+   "desc": "Red Dead Online: Take part in a Series.",
+   "hidden": false,
+   "pct": 6.6,
+   "api_name": "Achievement36",
+   "internal_key": 26368
+  },
+  {
+   "name": "Gun For Hire",
+   "desc": "Red Dead Online: Accept 10 Free Roam missions from characters around the world.",
+   "hidden": false,
+   "pct": 8.1,
+   "api_name": "Achievement37",
+   "internal_key": 26369
+  },
+  {
+   "name": "Eventful",
+   "desc": "Red Dead Online: Play 5 Free Roam Events.",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "Achievement38",
+   "internal_key": 26370
+  },
+  {
+   "name": "Buckle Up",
+   "desc": "Red Dead Online: Achieve 5 gold belt buckles from awards.",
+   "hidden": false,
+   "pct": 10.1,
+   "api_name": "Achievement39",
+   "internal_key": 26371
+  },
+  {
+   "name": "The Real Deal",
+   "desc": "Red Dead Online: Achieve MVP 3 times (in a round with at least 4 players).",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "Achievement40",
+   "internal_key": 26372
+  },
+  {
+   "name": "Horses for Courses",
+   "desc": "Red Dead Online: Concurrently own 5 horses.",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "Achievement41",
+   "internal_key": 26373
+  },
+  {
+   "name": "Getting Started",
+   "desc": "Red Dead Online: Reach Rank 10.",
+   "hidden": false,
+   "pct": 14.6,
+   "api_name": "Achievement42",
+   "internal_key": 26374
+  },
+  {
+   "name": "Notorious",
+   "desc": "Red Dead Online: Reach Rank 50.",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "Achievement43",
+   "internal_key": 26375
+  },
+  {
+   "name": "All's Fair",
+   "desc": "Red Dead Online: Successfully counter a rival Posse's Free Roam mission.",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "Achievement44",
+   "internal_key": 26376
+  },
+  {
+   "name": "Home Comforts",
+   "desc": "Red Dead Online: Purchase 5 camp improvements.",
+   "hidden": false,
+   "pct": 4.2,
+   "api_name": "Achievement45",
+   "internal_key": 26377
+  },
+  {
+   "name": "Non-Regulation",
+   "desc": "Red Dead Online: Craft 25 pieces of ammunition.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "Achievement46",
+   "internal_key": 26378
+  },
+  {
+   "name": "Posse Up",
+   "desc": "Red Dead Online: Form a Persistent Posse.",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "Achievement47",
+   "internal_key": 26379
+  },
+  {
+   "name": "Master Craftsman",
+   "desc": "Red Dead Online: Craft 20 items (excluding ammo).",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "Achievement48",
+   "internal_key": 26380
+  },
+  {
+   "name": "Butchered",
+   "desc": "Red Dead Online: Sell 20 items to the Butcher.",
+   "hidden": false,
+   "pct": 9.6,
+   "api_name": "Achievement49",
+   "internal_key": 26381
+  },
+  {
+   "name": "Picked to Perfection",
+   "desc": "Red Dead Online: Pick 25 Herbs.",
+   "hidden": false,
+   "pct": 8.1,
+   "api_name": "Achievement50",
+   "internal_key": 26382
+  },
+  {
+   "name": "Strength in Numbers",
+   "desc": "Red Dead Online: Complete a Free Roam mission as part of a Posse with at least 2 members.",
+   "hidden": false,
+   "pct": 12.9,
+   "api_name": "Achievement51",
+   "internal_key": 26383
+  }
+ ]
+}

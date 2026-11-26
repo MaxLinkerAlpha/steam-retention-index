@@ -1,0 +1,127 @@
+{
+ "appid": 264710,
+ "game": "Subnautica",
+ "snapshot": "2026-11-24 17:42 +08",
+ "count": 17,
+ "achievements": [
+  {
+   "api": "DiveForTheVeryFirstTime",
+   "name": "Getting Your Feet Wet",
+   "desc": "",
+   "hidden": true,
+   "pct": 89.8
+  },
+  {
+   "api": "BuildBase",
+   "name": "Settling in for the Long Haul",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.0
+  },
+  {
+   "api": "BuildSeamoth",
+   "name": "Personal Propulsion",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.3
+  },
+  {
+   "api": "FindPrecursorGun",
+   "name": "Ancient Technologies",
+   "desc": "",
+   "hidden": true,
+   "pct": 43.9
+  },
+  {
+   "api": "FindDegasiFloatingIslandsBase",
+   "name": "Seaside Living with an Ocean View",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.9
+  },
+  {
+   "api": "RepairAuroraReactor",
+   "name": "Extinction Event Avoided",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.0
+  },
+  {
+   "api": "BuildCyclops",
+   "name": "40-foot Sub For One",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.6
+  },
+  {
+   "api": "FindDegasiJellyshroomCavesBase",
+   "name": "Follow the Degasi",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.4
+  },
+  {
+   "api": "BuildExosuit",
+   "name": "Ordered the Prawn",
+   "desc": "",
+   "hidden": true,
+   "pct": 32.3
+  },
+  {
+   "api": "FindPrecursorLostRiverFacility",
+   "name": "Follow the Lost River",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.3
+  },
+  {
+   "api": "FindDegasiDeepGrandReefBase",
+   "name": "Seamonsters",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.1
+  },
+  {
+   "api": "FindPrecursorLavaCastleFacility",
+   "name": "Thermal Activity",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.9
+  },
+  {
+   "api": "FindPrecursorPrisonFacility",
+   "name": "Fourteen Thousand Leagues Under the Sea",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.5
+  },
+  {
+   "api": "CureInfection",
+   "name": "Optimal Health",
+   "desc": "",
+   "hidden": true,
+   "pct": 17.4
+  },
+  {
+   "api": "DeployTimeCapsule",
+   "name": "Leave Only Time Capsules",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.2
+  },
+  {
+   "api": "LaunchRocket",
+   "name": "Go Among the Stars",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.2
+  },
+  {
+   "api": "HatchCutefish",
+   "name": "\"Man's Best Friend\"",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.0
+  }
+ ]
+}

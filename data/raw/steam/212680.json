@@ -1,0 +1,365 @@
+{
+ "appid": 212680,
+ "game": "FTL: Faster Than Light",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 51,
+ "achievements": [
+  {
+   "api": "ACH_SECTOR_5",
+   "name": "Just Getting Started",
+   "desc": "Get to sector 5.",
+   "hidden": false,
+   "pct": 45.1
+  },
+  {
+   "api": "ACH_SECTOR_8",
+   "name": "Federation Base in Range",
+   "desc": "Get to sector 8.",
+   "hidden": false,
+   "pct": 38.9
+  },
+  {
+   "api": "ACH_NO_DRONES",
+   "name": "Technophobia",
+   "desc": "Get to sector 8 without using drones.",
+   "hidden": false,
+   "pct": 32.4
+  },
+  {
+   "api": "ACH_NO_DEATH",
+   "name": "No Redshirts Here",
+   "desc": "Get to sector 8 without losing a crewmember.",
+   "hidden": false,
+   "pct": 31.8
+  },
+  {
+   "api": "ACH_SCRAP",
+   "name": "Rule Ten: Greed is Eternal",
+   "desc": "Collect 10,000 scrap across all games.",
+   "hidden": false,
+   "pct": 29.9
+  },
+  {
+   "api": "ACH_NO_MISSILES",
+   "name": "Ballistophobia",
+   "desc": "Get to sector 8 without using missiles/bombs.",
+   "hidden": false,
+   "pct": 28.4
+  },
+  {
+   "api": "ACH_ONLY_DRONES",
+   "name": "I hardly lifted a finger",
+   "desc": "With the Engi Cruiser, destroy an enemy ship using only drones (no weapons).",
+   "hidden": false,
+   "pct": 26.6
+  },
+  {
+   "api": "ACH_WIN_EASY",
+   "name": "Federation Victory (Easy)",
+   "desc": "Beat the boss on Easy.",
+   "hidden": false,
+   "pct": 26.4
+  },
+  {
+   "api": "ACH_ROBOTIC",
+   "name": "Robotic Warfare",
+   "desc": "With the Engi Cruiser, have 3 drones functioning at the same time.",
+   "hidden": false,
+   "pct": 23.8
+  },
+  {
+   "api": "ACH_FULL_ARSENAL",
+   "name": "Full Arsenal",
+   "desc": "Have 11 systems installed on the Kestrel Cruiser at one time.",
+   "hidden": false,
+   "pct": 23.6
+  },
+  {
+   "api": "ACH_NO_REPAIR",
+   "name": "On a Wing and a Prayer",
+   "desc": "Get to sector 5 without repairing at a store.",
+   "hidden": false,
+   "pct": 22.4
+  },
+  {
+   "api": "ACH_ENERGY_SHIELDS",
+   "name": "Shields Holding",
+   "desc": "Destroy a ship before it gets through the Zoltan Shield.",
+   "hidden": false,
+   "pct": 22.3
+  },
+  {
+   "api": "ACH_SUFFOCATE",
+   "name": "Victory through Asphyxiation",
+   "desc": "Empty the oxygen (Net level less than 5 percent) of a non-automated, hostile enemy ship.",
+   "hidden": false,
+   "pct": 20.8
+  },
+  {
+   "api": "ACH_IONED",
+   "name": "The guns... They've stopped",
+   "desc": "Have 4 enemy systems or subsystems ioned at the same time while using the Engi Cruiser.",
+   "hidden": false,
+   "pct": 20.5
+  },
+  {
+   "api": "ACH_SLICE_DICE",
+   "name": "Slice and Dice",
+   "desc": "Hit every room of a ship with at least one beam in under 5 seconds.",
+   "hidden": false,
+   "pct": 20.4
+  },
+  {
+   "api": "ACH_TOUGH_SHIP",
+   "name": "Tough Little Ship",
+   "desc": "As the Kestrel Cruiser, repair back to full health when it only has 1 HP remaining.",
+   "hidden": false,
+   "pct": 17.9
+  },
+  {
+   "api": "ACH_FED_PATIENCE",
+   "name": "Master of Patience",
+   "desc": "Use only the Artillery Beam to destroy an enemy ship while taking no hull damage.",
+   "hidden": false,
+   "pct": 17.7
+  },
+  {
+   "api": "ACH_FED_UPGRADE",
+   "name": "Artillery Mastery",
+   "desc": "Get to sector 5 in the Federation Cruiser without upgrading your Weapons system.",
+   "hidden": false,
+   "pct": 16.9
+  },
+  {
+   "api": "ACH_UNITED_FEDERATION",
+   "name": "The United Federation",
+   "desc": "Have six unique aliens on the Kestrel Cruiser simultaneously.",
+   "hidden": false,
+   "pct": 16.1
+  },
+  {
+   "api": "ACH_BAD_DODGING",
+   "name": "Astronomically Low Odds",
+   "desc": "Fail to evade 5 shots in a row with a fully powered and upgraded engine.",
+   "hidden": false,
+   "pct": 14.7
+  },
+  {
+   "api": "ACH_ONE_VOLLEY",
+   "name": "They never saw it coming",
+   "desc": "Use the Weapon Pre-Igniter augmentation to destroy an enemy ship in one volley before the enemy can get a single shot off.",
+   "hidden": false,
+   "pct": 12.8
+  },
+  {
+   "api": "ACH_MANTIS_SLAUGHTER",
+   "name": "Avast, ye scurvy dogs!",
+   "desc": "Kill 5 enemy crew in a fight without taking hull damage or losing a crewmember while using the Mantis Cruiser.",
+   "hidden": false,
+   "pct": 12.6
+  },
+  {
+   "api": "ACH_INVADE_SHIP",
+   "name": "Trustworthy Auto-Pilot",
+   "desc": "Defeat an enemy ship with all of your crew aboard it.",
+   "hidden": false,
+   "pct": 12.1
+  },
+  {
+   "api": "ACH_SHIPS",
+   "name": "Warlord",
+   "desc": "Defeat 1000 ships across all playthroughs.",
+   "hidden": false,
+   "pct": 11.9
+  },
+  {
+   "api": "ACH_ENERGY_MANPOWER",
+   "name": "Manpower",
+   "desc": "Get to sector 5 without upgrading your reactor in the Zoltan Cruiser.",
+   "hidden": false,
+   "pct": 11.9
+  },
+  {
+   "api": "ACH_MANTIS_CREW_DEAD",
+   "name": "Take no prisoners!",
+   "desc": "Kill the crew of 20 ships by sector 6 in the Mantis Cruiser.",
+   "hidden": false,
+   "pct": 11.5
+  },
+  {
+   "api": "ACH_NO_UPGRADES",
+   "name": "I don't need no stinkin' upgrades!",
+   "desc": "Get to sector 5 with no system/reactor upgrades.",
+   "hidden": false,
+   "pct": 10.6
+  },
+  {
+   "api": "ACH_WIN_NORMAL",
+   "name": "Federation Victory (Normal)",
+   "desc": "Beat the boss on Normal.",
+   "hidden": false,
+   "pct": 10.4
+  },
+  {
+   "api": "ACH_ENERGY_POWER",
+   "name": "Givin' her all she's got, Captain!",
+   "desc": "With the Zoltan Cruiser, have 29 power in systems at the same time.",
+   "hidden": false,
+   "pct": 9.8
+  },
+  {
+   "api": "ACH_FED_DIPLOMACY",
+   "name": "Diplomatic Immunity",
+   "desc": "While using the Federation Cruiser, use your crew in 4 special blue event choices by sector 5.",
+   "hidden": false,
+   "pct": 9.8
+  },
+  {
+   "api": "ACH_ROCK_MISSILES",
+   "name": "Defense Drones Don't Do D'anything!",
+   "desc": "While using the Rock Cruiser, destroy an enemy ship which has a defense drone deployed using only missiles.",
+   "hidden": false,
+   "pct": 9.5
+  },
+  {
+   "api": "ACH_STEALTH_DESTROY",
+   "name": "Bird of Prey",
+   "desc": "Destroy a ship at full health during a single cloak in the Stealth Cruiser.",
+   "hidden": false,
+   "pct": 9.4
+  },
+  {
+   "api": "ACH_STEALTH_TACTICAL",
+   "name": "Tactical Approach",
+   "desc": "With the Stealth Cruiser, get to sector 8 without jumping to a beacon with an environmental danger.",
+   "hidden": false,
+   "pct": 9.2
+  },
+  {
+   "api": "ACH_LANIUS_ADVANCED",
+   "name": "Advanced Mastery",
+   "desc": "Have Hacking, Mind Control and the Battery active at once.",
+   "hidden": false,
+   "pct": 9.2
+  },
+  {
+   "api": "ACH_BURNING",
+   "name": "Some people just like to watch ships burn",
+   "desc": "Have every square of an enemy ship on fire simultaneously.",
+   "hidden": false,
+   "pct": 8.7
+  },
+  {
+   "api": "ACH_SLUG_NEBULA",
+   "name": "Home Sweet Home",
+   "desc": "Jump to 30 nebula locations before sector 8.",
+   "hidden": false,
+   "pct": 8.5
+  },
+  {
+   "api": "ACH_STEALTH_AVOID",
+   "name": "Phase Shift",
+   "desc": "With the Stealth Cruiser, avoid 9 points of damage during a single cloak.",
+   "hidden": false,
+   "pct": 8.0
+  },
+  {
+   "api": "ACH_LANIUS_SCRAP",
+   "name": "Scrap Hoarder",
+   "desc": "Have at least 600 scrap in your ship storage.",
+   "hidden": false,
+   "pct": 8.0
+  },
+  {
+   "api": "ACH_SLUG_BIO",
+   "name": "Disintegration Ray",
+   "desc": "While using the Slug Cruiser, kill 3 enemy crewmembers with one shot from the Anti-Bio Beam.",
+   "hidden": false,
+   "pct": 7.9
+  },
+  {
+   "api": "ACH_ROCK_FIRE",
+   "name": "Is it warm in here?",
+   "desc": "Have your crew kill a burning enemy on their ship while using the Rock Cruiser.",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "ACH_MANTIS_SURVIVOR",
+   "name": "Battle Royale",
+   "desc": "While using the Mantis Cruiser, kill the last enemy with your last crewmember on their ship.",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "ACH_SLUG_VISION",
+   "name": "We're in Position!",
+   "desc": "While using the Slug Cruiser, have vision of every room of the enemy ship without functioning sensors.",
+   "hidden": false,
+   "pct": 7.0
+  },
+  {
+   "api": "ACH_UNLOCK_ALL",
+   "name": "Your Own Fleet",
+   "desc": "Unlock the Type A layout for every playable ship.",
+   "hidden": false,
+   "pct": 6.4
+  },
+  {
+   "api": "ACH_CRYSTAL_SHARD",
+   "name": "Sweet Revenge",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.7
+  },
+  {
+   "api": "ACH_LANIUS_OXYGEN",
+   "name": "Loss of Cabin Pressure",
+   "desc": "Get to sector 8 without your ship's net oxygen levels exceeding 20 percent (starts after the first jump).",
+   "hidden": false,
+   "pct": 5.6
+  },
+  {
+   "api": "ACH_CRYSTAL_LOCKDOWN",
+   "name": "No Escape",
+   "desc": "",
+   "hidden": true,
+   "pct": 5.4
+  },
+  {
+   "api": "ACH_ROCK_CRYSTAL",
+   "name": "Ancestry",
+   "desc": "Find the secret sector with the Rock Cruiser.",
+   "hidden": false,
+   "pct": 4.2
+  },
+  {
+   "api": "ACH_PACIFIST",
+   "name": "Coming in for my Pacifism run!",
+   "desc": "Get to sector 5 without firing a shot, using an offensive drone, or teleporting.",
+   "hidden": false,
+   "pct": 3.6
+  },
+  {
+   "api": "ACH_BOARDING_DRONE",
+   "name": "BOARDING OBJECTIVE SUCCESSFUL",
+   "desc": "Have a single boarding drone kill 4 crewmembers on one ship.",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "ACH_NO_BUYING",
+   "name": "Living off the Land",
+   "desc": "Get to sector 8 without buying at a store (Repairs are ok).",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "ACH_CRYSTAL_CLASH",
+   "name": "Clash of the Titans",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.6
+  }
+ ]
+}

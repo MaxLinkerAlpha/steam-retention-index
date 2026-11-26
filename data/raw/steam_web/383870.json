@@ -1,0 +1,89 @@
+{
+ "appid": 383870,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 10,
+ "achievements": [
+  {
+   "name": "\"Good first day.\"",
+   "desc": "Completed Day 1",
+   "hidden": true,
+   "pct": 79.0,
+   "api_name": "VG_DAY1",
+   "internal_key": 256
+  },
+  {
+   "name": "\"Back to work.\"",
+   "desc": "Completed Day 2",
+   "hidden": true,
+   "pct": 66.4,
+   "api_name": "VG_DAY2",
+   "internal_key": 257
+  },
+  {
+   "name": "\"Someone's out here.\"",
+   "desc": "Completed Day 76",
+   "hidden": true,
+   "pct": 59.1,
+   "api_name": "VG_DAY76",
+   "internal_key": 258
+  },
+  {
+   "name": "\"Burn the place down.\"",
+   "desc": "Completed Day 77",
+   "hidden": true,
+   "pct": 56.8,
+   "api_name": "VG_DAY77",
+   "internal_key": 259
+  },
+  {
+   "name": "Firewatch",
+   "desc": "Completed Day 79",
+   "hidden": true,
+   "pct": 55.3,
+   "api_name": "VG_DAY79",
+   "internal_key": 260
+  },
+  {
+   "name": "Bee Plot",
+   "desc": "Got stung by a bee. It happens.",
+   "hidden": false,
+   "pct": 46.3,
+   "api_name": "VG_BEE",
+   "internal_key": 261
+  },
+  {
+   "name": "The Life and Times of Raccoon Carter",
+   "desc": "Got attacked by a raccoon; probably didn't get rabies.",
+   "hidden": false,
+   "pct": 11.6,
+   "api_name": "VG_RACCOONATTACK",
+   "internal_key": 262
+  },
+  {
+   "name": "Shutter Bug",
+   "desc": "Filled a disposable camera with photos.",
+   "hidden": false,
+   "pct": 13.4,
+   "api_name": "VG_CAMERA",
+   "internal_key": 263
+  },
+  {
+   "name": "Love Turts",
+   "desc": "Adopted a turtle as a pet. The average lifespan of a box turtle is fifty years. It will outlive you.",
+   "hidden": false,
+   "pct": 25.3,
+   "api_name": "VG_TURTLE",
+   "internal_key": 264
+  },
+  {
+   "name": "Ol' Shoshone",
+   "desc": "Listened to the tape of \"Ol' Shoshone.\" Cavorted among the aspens.",
+   "hidden": false,
+   "pct": 7.8,
+   "api_name": "VG_OLSHOSHONE",
+   "internal_key": 265
+  }
+ ]
+}

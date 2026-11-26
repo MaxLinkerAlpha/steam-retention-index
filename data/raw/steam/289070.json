@@ -1,0 +1,2248 @@
+{
+ "appid": 289070,
+ "game": "Sid Meier’s Civilization® VI",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 320,
+ "achievements": [
+  {
+   "api": "NEW_ACHIEVEMENT_4_14",
+   "name": "If You Build It, They Will Come",
+   "desc": "Have 6 Improvements at one time.",
+   "hidden": false,
+   "pct": 74.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_20",
+   "name": "A Revolution Without Dancing",
+   "desc": "Change your government",
+   "hidden": false,
+   "pct": 73.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_13",
+   "name": "Escort Service",
+   "desc": "Put two units into a formation",
+   "hidden": false,
+   "pct": 70.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_23",
+   "name": "New Orleans Style Spanish Rice",
+   "desc": "Become Suzerain of a City-State",
+   "hidden": false,
+   "pct": 68.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_16",
+   "name": "Everything is Awesome!!!",
+   "desc": "At the start of the turn have an Ecstatic city.",
+   "hidden": false,
+   "pct": 64.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_15",
+   "name": "Voyage of the Mayflower",
+   "desc": "Found or conquer a city on a different continent",
+   "hidden": false,
+   "pct": 60.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_17",
+   "name": "Investment Banking",
+   "desc": "Have an enemy city under siege at the start of the turn",
+   "hidden": false,
+   "pct": 49.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_12",
+   "name": "Land Party",
+   "desc": "Play a multiplayer game",
+   "hidden": false,
+   "pct": 39.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_18",
+   "name": "A Case for War",
+   "desc": "Declare a formal war",
+   "hidden": false,
+   "pct": 38.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_0",
+   "name": "Game, Settler, Match",
+   "desc": "Win a regular game at Settler difficulty or harder",
+   "hidden": false,
+   "pct": 37.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_0",
+   "name": "Gift From the Storm God",
+   "desc": "Receive a Strategic Resource from Hattusa",
+   "hidden": false,
+   "pct": 36.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_28",
+   "name": "The Test of Time",
+   "desc": "Win a regular game with an Ancient Era start",
+   "hidden": false,
+   "pct": 36.8
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_35",
+   "name": "Real Estate Disclosures Required",
+   "desc": "Have a district be pillaged by 3 different random events",
+   "hidden": false,
+   "pct": 35.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_19",
+   "name": "Naming Rights",
+   "desc": "Name a unit",
+   "hidden": false,
+   "pct": 34.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_1",
+   "name": "Irish Heartbeat",
+   "desc": "Win a regular game at Chieftain difficulty or harder",
+   "hidden": false,
+   "pct": 33.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_2",
+   "name": "Warlording Over Others",
+   "desc": "Win a regular game at Warlord difficulty or harder",
+   "hidden": false,
+   "pct": 32.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_3",
+   "name": "Machiavelli's Great Work",
+   "desc": "Win a regular game at Prince difficulty or harder",
+   "hidden": false,
+   "pct": 29.9
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_35",
+   "name": "Victory Belongs to the Most Persevering",
+   "desc": "Achieve a Heroic Age",
+   "hidden": false,
+   "pct": 27.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_5",
+   "name": "Archimedes Bath",
+   "desc": "Get 5 Tech boosts in 1 turn",
+   "hidden": false,
+   "pct": 25.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_31",
+   "name": "Tectonic Shift",
+   "desc": "Win a regular game on the Continents Map",
+   "hidden": false,
+   "pct": 24.9
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_20",
+   "name": "Subject Matter Expert",
+   "desc": "Have a Governor with every promotion",
+   "hidden": false,
+   "pct": 24.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_8",
+   "name": "Mission to Mars",
+   "desc": "Win a regular game with a Science victory on any difficulty with any leader",
+   "hidden": false,
+   "pct": 21.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_28",
+   "name": "Eight is Enough",
+   "desc": "Win a regular game on a Standard Map",
+   "hidden": false,
+   "pct": 20.9
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_36",
+   "name": "I'm going to break the wheel",
+   "desc": "Earn three Golden Ages in a row",
+   "hidden": false,
+   "pct": 20.8
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_30",
+   "name": "Desperate Times Call For Desperate Measures",
+   "desc": "Assign a Dark Policy to your Government",
+   "hidden": false,
+   "pct": 20.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_11",
+   "name": "Veni, vidi, vici",
+   "desc": "Win a regular game with a Domination victory on any difficulty with any leader",
+   "hidden": false,
+   "pct": 20.0
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_22",
+   "name": "Drama Queen",
+   "desc": "Join or be the target of 3 Emergencies in a single game",
+   "hidden": false,
+   "pct": 20.0
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_16",
+   "name": "Surprise Attack",
+   "desc": "Move a military unit into an enemy's owned tile using a Mountain Tunnel (or Qhapaq Nan)",
+   "hidden": false,
+   "pct": 19.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_24",
+   "name": "Oneth By Land Twoeth By Sea",
+   "desc": "Have an Army of land Units and 2 Armadas",
+   "hidden": false,
+   "pct": 19.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_27",
+   "name": "Six Shooter",
+   "desc": "Win a regular game on a Small Map",
+   "hidden": false,
+   "pct": 19.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_10",
+   "name": "Buying Your Blue Jeans and Listening to Your Pop Music",
+   "desc": "Win a regular game with a Culture victory on any difficulty with any leader",
+   "hidden": false,
+   "pct": 19.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_30",
+   "name": "Dirty Dozen",
+   "desc": "Win a regular game on a Huge Map",
+   "hidden": false,
+   "pct": 16.0
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_33",
+   "name": "Future is Now",
+   "desc": "Be the first to complete all the technologies in the Future Era in a game with 8 or more players",
+   "hidden": false,
+   "pct": 15.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_10",
+   "name": "Repo Man",
+   "desc": "Steal a Great Work of Art and don't get caught",
+   "hidden": false,
+   "pct": 15.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_4",
+   "name": "The Divine Right of Kings",
+   "desc": "Win a regular game at King difficulty or harder",
+   "hidden": false,
+   "pct": 15.3
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_14",
+   "name": "When Diplomacy Fails",
+   "desc": "Have a fully upgraded Giant Death Robot capture a city",
+   "hidden": false,
+   "pct": 14.8
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_26",
+   "name": "Die Another Day",
+   "desc": "Neutralize a Governor with a Spy",
+   "hidden": false,
+   "pct": 14.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_3",
+   "name": "Alfred Wegener's Legacy",
+   "desc": "Win a regular game on the Pangaea Map",
+   "hidden": false,
+   "pct": 13.6
+  },
+  {
+   "api": "DLC4_ACHIEVEMENT_05",
+   "name": "Envoy Convoy",
+   "desc": "After building the Apadana wonder, construct 7 additional wonders in the same city",
+   "hidden": false,
+   "pct": 12.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_9",
+   "name": "Nirvana",
+   "desc": "Win a regular game with a Religious victory on any difficulty with any leader",
+   "hidden": false,
+   "pct": 11.3
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_32",
+   "name": "Elcano's Revenge",
+   "desc": "Be the first player to circumnavigate the world after Ferdinand Magellan has been recruited by another player",
+   "hidden": false,
+   "pct": 11.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_26",
+   "name": "Elixir of Immortality",
+   "desc": "Win a regular game as Qin Shi Huang",
+   "hidden": false,
+   "pct": 11.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_5",
+   "name": "Emperor's New Groove",
+   "desc": "Win a regular game at Emperor difficulty or harder",
+   "hidden": false,
+   "pct": 10.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_29",
+   "name": "Ten Commandments",
+   "desc": "Win a regular game on a Large Map",
+   "hidden": false,
+   "pct": 10.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_29",
+   "name": "Rome If You Want To",
+   "desc": "Win a regular game as Trajan",
+   "hidden": false,
+   "pct": 9.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_32",
+   "name": "Toward Carbon Neutrality",
+   "desc": "Complete the Carbon Recapture project 10 times during a single game",
+   "hidden": false,
+   "pct": 9.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_12",
+   "name": "Crusader King",
+   "desc": "Win a regular game as Frederick Barbarossa",
+   "hidden": false,
+   "pct": 9.0
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_21",
+   "name": "Airing Your Grievances",
+   "desc": "Win a Diplomatic Victory Resolution and use it to reduce another player's progress toward that victory",
+   "hidden": false,
+   "pct": 9.0
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_31",
+   "name": "Frenemy",
+   "desc": "Gain control of an Ally's city after it becomes disloyal, and choose to keep it",
+   "hidden": false,
+   "pct": 8.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_24",
+   "name": "Bronze Horseman",
+   "desc": "Win a regular game as Peter the Great",
+   "hidden": false,
+   "pct": 8.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_22",
+   "name": "Silver Anniversary",
+   "desc": "Possess 6 Silver luxury resources at the start of the turn",
+   "hidden": false,
+   "pct": 8.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_6",
+   "name": "12 Labors of Hercules",
+   "desc": "Win a regular game at Immortal difficulty or harder",
+   "hidden": false,
+   "pct": 8.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_11",
+   "name": "District 12",
+   "desc": "Build every district type in one city and the Colosseum",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_38",
+   "name": "Metroplex",
+   "desc": "Completely surround your Government Plaza with districts or wonders you own at the start of the turn",
+   "hidden": false,
+   "pct": 7.9
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_10",
+   "name": "The Art of Telling Plain Truths",
+   "desc": "Win a Diplomatic Victory",
+   "hidden": false,
+   "pct": 7.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_30",
+   "name": "Let Teddy Win",
+   "desc": "Win a regular game as Theodore Roosevelt",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_37",
+   "name": "What Could Possibly Go Wrong?",
+   "desc": "Have an improved Amber resource in a city with a Zoo and an Archaeological Museum at the start of the turn",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "STK5_ACHIEVEMENT_03",
+   "name": "Top Hat and Monocle",
+   "desc": "Control a 100% Monopoly on a given Luxury Resource on a Standard sized map or larger.",
+   "hidden": false,
+   "pct": 7.7
+  },
+  {
+   "api": "STK4_ACHIEVEMENT_03",
+   "name": "Sing, O Muse",
+   "desc": "Claim every Hero across multiple games.",
+   "hidden": false,
+   "pct": 7.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_7",
+   "name": "God-Like",
+   "desc": "Win a regular game at Deity difficulty",
+   "hidden": false,
+   "pct": 7.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_2",
+   "name": "Riffle and Bridge",
+   "desc": "Win a regular game on the Shuffle Map",
+   "hidden": false,
+   "pct": 6.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_26",
+   "name": "Four Corners Offense",
+   "desc": "Win a regular game on a Tiny Map",
+   "hidden": false,
+   "pct": 6.8
+  },
+  {
+   "api": "STK4_ACHIEVEMENT_02",
+   "name": "Let's Do the Time Warp Again",
+   "desc": "As Babylon, earn 5 tech boosts for techs that are at least one era later than your current era.",
+   "hidden": false,
+   "pct": 6.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_19",
+   "name": "Katsu!",
+   "desc": "Win a regular game as Hojo Tokimune",
+   "hidden": false,
+   "pct": 6.3
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_33",
+   "name": "Dark Horse",
+   "desc": "Win the game while in a Dark Age",
+   "hidden": false,
+   "pct": 6.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_23",
+   "name": "The Origin of Species",
+   "desc": "Activate Darwin adjacent to the Galapagos Islands",
+   "hidden": false,
+   "pct": 5.9
+  },
+  {
+   "api": "STK3_ACHIEVEMENT_06",
+   "name": "The City Ever-Shining",
+   "desc": "In Dramatic Ages Mode, enter a Golden Age with an excess 20 Era Score",
+   "hidden": false,
+   "pct": 5.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_31",
+   "name": "I Am Amused",
+   "desc": "Win a regular game as Victoria",
+   "hidden": false,
+   "pct": 5.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_1",
+   "name": "Legends of the Hidden Temple",
+   "desc": "Build a Colossal Head adjacent to a Holy Site with a Temple.",
+   "hidden": false,
+   "pct": 5.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_25",
+   "name": "Here's Looking At You Kid",
+   "desc": "Win a regular game on a Duel Map",
+   "hidden": false,
+   "pct": 5.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_21",
+   "name": "Secret Service",
+   "desc": "Have top secret access with five civilizations in one game at once.",
+   "hidden": false,
+   "pct": 5.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_14",
+   "name": "Daughter of Isis",
+   "desc": "Win a regular game as Cleopatra",
+   "hidden": false,
+   "pct": 5.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_13",
+   "name": "Valois Dynasty",
+   "desc": "Win a regular game as Catherine De Medici",
+   "hidden": false,
+   "pct": 5.0
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_28",
+   "name": "Extend the Olive Branch",
+   "desc": "Make a peace deal which includes you giving or receiving an Olives resource",
+   "hidden": false,
+   "pct": 5.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_16",
+   "name": "First to Civilize",
+   "desc": "Win a regular game as Gilgamesh",
+   "hidden": false,
+   "pct": 4.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_23",
+   "name": "Oratorical Skills",
+   "desc": "Win a regular game as Pericles",
+   "hidden": false,
+   "pct": 4.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_28",
+   "name": "Warrior Queen",
+   "desc": "Win a regular game as Tomyris",
+   "hidden": false,
+   "pct": 4.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_20",
+   "name": "Montezuma's Revenge",
+   "desc": "Win a regular game as Montezuma",
+   "hidden": false,
+   "pct": 4.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_1",
+   "name": "The Taste of Victory",
+   "desc": "Win a regular game on the Island Plates Map",
+   "hidden": false,
+   "pct": 4.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_4",
+   "name": "Unique Snowflake",
+   "desc": "Win a regular game on Fractal Map",
+   "hidden": false,
+   "pct": 4.5
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_05",
+   "name": "From Peonies to Doricheon",
+   "desc": "Win a regular game as Queen Seondeok",
+   "hidden": false,
+   "pct": 4.5
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_24",
+   "name": "Blackest Queen",
+   "desc": "As France, build an Intelligence Agency",
+   "hidden": false,
+   "pct": 4.5
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_22",
+   "name": "Peacekeeper",
+   "desc": "As Wilfrid Laurier, successfully complete an Emergency",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "STK5_ACHIEVEMENT_05",
+   "name": "Robber Baron",
+   "desc": "Control 5 Luxury Resource Monopolies at once on a Standard sized map or larger.",
+   "hidden": false,
+   "pct": 4.3
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_07",
+   "name": "Majestrix of the Court of Love",
+   "desc": "Win a game as Eleanor of Aquitaine",
+   "hidden": false,
+   "pct": 4.2
+  },
+  {
+   "api": "STK2_ACHIEVEMENT_03",
+   "name": "The Mask of Baphomet",
+   "desc": "Earn all Governor promotions for the Owls of Minerva Secret Society.",
+   "hidden": false,
+   "pct": 4.2
+  },
+  {
+   "api": "STK5_ACHIEVEMENT_06",
+   "name": "Limited Edition",
+   "desc": "Hire a unique unit from a Barbarian Clan.",
+   "hidden": false,
+   "pct": 4.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_17",
+   "name": "For Sparta!!!",
+   "desc": "Win a regular game as Gorgo",
+   "hidden": false,
+   "pct": 4.1
+  },
+  {
+   "api": "STK5_ACHIEVEMENT_04",
+   "name": "Jack of all Trades, Master of None",
+   "desc": "Win a game on a Standard sized map or larger with 5 or more Industries, but no Corporations.",
+   "hidden": false,
+   "pct": 4.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_22",
+   "name": "Emperor of Brazil",
+   "desc": "Win a regular game as Pedro II",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_25",
+   "name": "Non Sufficit Orbis",
+   "desc": "Win a regular game as Philip II",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_6",
+   "name": "Civ 6 Civets System",
+   "desc": "Get 5 Civic boosts in 1 turn",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "STK4_ACHIEVEMENT_06",
+   "name": "Steel-Driving Man",
+   "desc": "Recall a Hero after the Industrial Era.",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_18",
+   "name": "Varangian Guard",
+   "desc": "Win a regular game as Harald Hardrada",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_21",
+   "name": "Mwene Kongo",
+   "desc": "Win a regular game as Mvemba a Nzinga",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_27",
+   "name": "Sultan of Egypt",
+   "desc": "Win a regular game as Saladin",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_13",
+   "name": "12 Olympians",
+   "desc": "Have 12 Policy Slots as Greece",
+   "hidden": false,
+   "pct": 3.8
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_29",
+   "name": "Shopping Spree",
+   "desc": "Have 10 Shopping Malls in your civilization at the same time",
+   "hidden": false,
+   "pct": 3.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_4",
+   "name": "Arabian Knights",
+   "desc": "Conquer a city with a Mamluk",
+   "hidden": false,
+   "pct": 3.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_21",
+   "name": "Nobody Expects the Spanish Inquisition",
+   "desc": "Launch an Inquisition as Spain",
+   "hidden": false,
+   "pct": 3.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_22",
+   "name": "Epic of Gilgamesh",
+   "desc": "As Sumeria, have the first Great Work of Writing",
+   "hidden": false,
+   "pct": 3.6
+  },
+  {
+   "api": "DLC3_ACHIEVEMENT_01",
+   "name": "A Smashing Victory",
+   "desc": "Win a regular game as John Curtin",
+   "hidden": false,
+   "pct": 3.6
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_10",
+   "name": "Master and Commander",
+   "desc": "Win a regular game on the Archipelago Map",
+   "hidden": false,
+   "pct": 3.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_2",
+   "name": "Army of Cthulhu",
+   "desc": "Levy the military of Nan Madol",
+   "hidden": false,
+   "pct": 3.5
+  },
+  {
+   "api": "STK2_ACHIEVEMENT_04",
+   "name": "Voice of Aiwass",
+   "desc": "Earn all Governor promotions for the Hermetic Order Secret Society.",
+   "hidden": false,
+   "pct": 3.5
+  },
+  {
+   "api": "DLC4_ACHIEVEMENT_01",
+   "name": "Never Lost a Battle",
+   "desc": "Win a regular game as Alexander",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "STK2_ACHIEVEMENT_05",
+   "name": "Dead But Dreaming",
+   "desc": "Earn all Governor promotions for the Voidsingers Secret Society.",
+   "hidden": false,
+   "pct": 3.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_2_15",
+   "name": "Be the Change You Wish to See In the World",
+   "desc": "Win a regular game as Gandhi",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_21",
+   "name": "Getting the Band Back Together",
+   "desc": "Unlock every Governor, and have them established at the same time before the game reaches the Industrial Era",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "STK1_ACHIEVEMENT_05",
+   "name": "I'll melt with you",
+   "desc": "Win any Victory with Apocalypse mode enabled.",
+   "hidden": false,
+   "pct": 3.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_24",
+   "name": "Man on the Moon",
+   "desc": "Win a regular game with a Science victory on any difficulty with any leader with a captured Egyptian city -- having also activated Newton and Darwin",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "STK4_ACHIEVEMENT_01",
+   "name": "Babylon Rocker",
+   "desc": "Win a regular game as Hammurabi.",
+   "hidden": false,
+   "pct": 3.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_0",
+   "name": "Mare Nostrum",
+   "desc": "Win a regular game on the Inland Sea Map",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "DLC5_ACHIEVEMENT_05",
+   "name": "Overclocked Conviction",
+   "desc": "After building the Jebel Barkal wonder, earn 28 Faith per turn on its tile",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_23",
+   "name": "Curse your sudden but inevitable betrayal!",
+   "desc": "Join a Betrayal Emergency",
+   "hidden": false,
+   "pct": 3.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_15",
+   "name": "Meiji Restoration",
+   "desc": "Playing as Japan, have a district with 6 adjacent unpillaged districts",
+   "hidden": false,
+   "pct": 3.0
+  },
+  {
+   "api": "DLC6_ACHIEVEMENT_01",
+   "name": "Cardamom and Mangos and Elephants",
+   "desc": "Win a regular game as Jayavarman VII",
+   "hidden": false,
+   "pct": 3.0
+  },
+  {
+   "api": "DLC3_ACHIEVEMENT_10",
+   "name": "Attack of the Drop Bear",
+   "desc": "Lose a unit to the perils of Australia in the Outback Tycoon scenario",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "DLC5_ACHIEVEMENT_01",
+   "name": "gg nub",
+   "desc": "Win a regular game as Amanitore",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_17",
+   "name": "Advanced Seminar in Astrophysics",
+   "desc": "As Seondeok, build a Spaceport district next to a Seowon",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_09",
+   "name": "Tu Meke",
+   "desc": "Win a game as Kupe",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_20",
+   "name": "Nobel-er than the Noblest",
+   "desc": "Achieve first place in all three Nobel Prizes in the same game",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "STK4_ACHIEVEMENT_07",
+   "name": "The Dream Team",
+   "desc": "Claim 5 Heroes in a single game.",
+   "hidden": false,
+   "pct": 2.9
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_06",
+   "name": "The Sunny Way",
+   "desc": "Win a game as Wilfrid Laurier",
+   "hidden": false,
+   "pct": 2.8
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_03",
+   "name": "A small Country, a great people, so sorely tried",
+   "desc": "Win a regular game as Queen Wilhelmina",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_09",
+   "name": "Justice and Lasting Peace",
+   "desc": "Win a regular game as Poundmaker",
+   "hidden": false,
+   "pct": 2.7
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_02",
+   "name": "Lord of Tahuantinsuyo",
+   "desc": "Win a game as Pachacuti",
+   "hidden": false,
+   "pct": 2.6
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_05",
+   "name": "Literally Playable",
+   "desc": "Win a game as Kristina",
+   "hidden": false,
+   "pct": 2.6
+  },
+  {
+   "api": "DLC2_ACHIEVEMENT_01",
+   "name": "Armor of Faith",
+   "desc": "Win a regular game as Jadwiga",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_04",
+   "name": "Lord of All Who Live in Felt Tents",
+   "desc": "Win a regular game as Genghis Khan",
+   "hidden": false,
+   "pct": 2.5
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_06",
+   "name": "Let gentle blood shew generous might",
+   "desc": "Win a regular game as Robert the Bruce",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "STK4_ACHIEVEMENT_04",
+   "name": "Clash of the Titans",
+   "desc": "Kill an enemy Hero with your Hero.",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "STK6_ACHIEVEMENT_01",
+   "name": "The Spice Must Flow",
+   "desc": "Win a regular game as João III.",
+   "hidden": false,
+   "pct": 2.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_12",
+   "name": "Third Crusade",
+   "desc": "Playing as Frederick Barbarossa, conquer the city-state of Jerusalem",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "DLC4_ACHIEVEMENT_02",
+   "name": "King of the Four Corners of the World",
+   "desc": "Win a regular game as Cyrus",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_25",
+   "name": "Bromance",
+   "desc": "Achieve the maximum Alliance level with Gilgamesh",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_15",
+   "name": "A Man A Plan A Canal Panama",
+   "desc": "Build the Panama Canal as Teddy Roosevelt",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "STK3_ACHIEVEMENT_01",
+   "name": "One Eye in One Hundred",
+   "desc": "Win a regular game as Basil II.",
+   "hidden": false,
+   "pct": 2.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_29",
+   "name": "After Antiquity",
+   "desc": "Win a regular game with a Classical Era start",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_01",
+   "name": "Treasures of Heaven and Earth",
+   "desc": "Win a game as Mansa Musa",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_04",
+   "name": "Padishah Efendim",
+   "desc": "Win a game as Suleiman The Magnificent",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "STK2_ACHIEVEMENT_06",
+   "name": "This Blood is the Life",
+   "desc": "Earn all Governor promotions for the Sanguine Pact Secret Society.",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "STK3_ACHIEVEMENT_02",
+   "name": "Et tu, Gallia?",
+   "desc": "Win a regular game as Ambiorix.",
+   "hidden": false,
+   "pct": 2.2
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_20",
+   "name": "Scythian Horse Rush",
+   "desc": "Playing as Scythia have 10 Saka Horse Archers in your army",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "DLC6_ACHIEVEMENT_02",
+   "name": "All Beneath the Wings of Garuda",
+   "desc": "Win a regular game as Gitarja",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_08",
+   "name": "The Laurels of Virtues and Letters",
+   "desc": "Win a game as Matthias Corvinus",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "STK1_ACHIEVEMENT_02",
+   "name": "El Libertador",
+   "desc": "Win a regular game as Simón Bolívar.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_01",
+   "name": "uSuthu! uSuthu!",
+   "desc": "Win a regular game as Shaka",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_03",
+   "name": "Queen of the Byrsa",
+   "desc": "Win a game as Dido",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "ROYALE_ACHIEVEMENT_04",
+   "name": "Reinforcements Have Arrived",
+   "desc": "Claim a Supply Drop in the Red Death scenario",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_06",
+   "name": "Live Yongle Reaction",
+   "desc": "Win a regular game as Yongle",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "DLC1_ACHIEVEMENT_01",
+   "name": "Even Our Castles Have Castles",
+   "desc": "Build an Alcazar within 2 tiles of the Alhambra",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "STK1_ACHIEVEMENT_01",
+   "name": "The stars are right",
+   "desc": "Win a regular game as Lady Six Sky.",
+   "hidden": false,
+   "pct": 1.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_30",
+   "name": "Out of the Dark Ages",
+   "desc": "Win a regular game with a Medieval Era start",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_07",
+   "name": "Radiant Deeds, Bright as Sunshine",
+   "desc": "Win a regular game as Tamar",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_08",
+   "name": "Deeds of a Monarch-Scorning People",
+   "desc": "Win a regular game as Lautaro",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "ROYALE_ACHIEVEMENT_01",
+   "name": "The Test of Royale",
+   "desc": "Win the Red Death scenario",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "STK2_ACHIEVEMENT_01",
+   "name": "The Lion of Judah",
+   "desc": "Win a regular game as Menelik II.",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "STK5_ACHIEVEMENT_01",
+   "name": "I will not bend my back",
+   "desc": "Win a regular game as Bà Triệu.",
+   "hidden": false,
+   "pct": 1.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_5_3",
+   "name": "Through the Digital Age",
+   "desc": "Win a regular game with an Information Era start",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_18",
+   "name": "Ibutho",
+   "desc": "As Shaka, train a Corps of Impi using the Ikanda district",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "STK5_ACHIEVEMENT_02",
+   "name": "For he on honey-dew hath fed",
+   "desc": "Win a regular game as Kublai Khan.",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_10",
+   "name": "For Queen and Country",
+   "desc": "Playing as England on a Huge map, have a city on every continent at the start of the turn",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_31",
+   "name": "Renaissance Man",
+   "desc": "Win a regular game with a Renaissance Era start",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_02",
+   "name": "A Burning Splendor",
+   "desc": "Win a regular game as Chandragupta",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_31",
+   "name": "Let Our Powers Combine – Wait Heart is Missing!",
+   "desc": "Have a city with a Wind Farm, Solar Farm, Hydroelectric Dam, and Geothermal Plant",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "ARR_ACHIEVEMENT_07",
+   "name": "Liquid Assets",
+   "desc": "Sink or capture a treasure ship.",
+   "hidden": false,
+   "pct": 1.5
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_27",
+   "name": "Circle of Life",
+   "desc": "Build a Fishery adjacent to the Great Barrier Reef",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "ROYALE_ACHIEVEMENT_02",
+   "name": "Do Unto Others",
+   "desc": "Nuclear Strike another faction in the Red Death scenario",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "ROYALE_ACHIEVEMENT_03",
+   "name": "Have Them Do Unto You",
+   "desc": "Get nuked by another faction in the Red Death scenario",
+   "hidden": false,
+   "pct": 1.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_16",
+   "name": "City of Kongo",
+   "desc": "Playing as Kongo, have a capital city with a population of 30",
+   "hidden": false,
+   "pct": 1.3
+  },
+  {
+   "api": "ARR_ACHIEVEMENT_05",
+   "name": "I am a Pirate King!",
+   "desc": "Win the Pirates scenario.",
+   "hidden": false,
+   "pct": 1.3
+  },
+  {
+   "api": "STK6_ACHIEVEMENT_04",
+   "name": "Well Hello Mr. Fancypants",
+   "desc": "Destroy a Zombie unit that has +50 or more Mutation Strength.",
+   "hidden": false,
+   "pct": 1.3
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_5_0",
+   "name": "Captain of Industry",
+   "desc": "Win a regular game with an Industrial Era start",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "DLC2_ACHIEVEMENT_03",
+   "name": "Winged Hussar Mastery",
+   "desc": "Win Jadwiga's Legacy as Stanislaw Potocki",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "DLC5_ACHIEVEMENT_06",
+   "name": "More Wind for the Wind God",
+   "desc": "Win Gifts of the Nile on any difficulty",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_04",
+   "name": "I Will Wait",
+   "desc": "Win a regular game as Tokugawa",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_11",
+   "name": "Partial Completionist",
+   "desc": "Win a regular game as Ludwig II",
+   "hidden": false,
+   "pct": 1.2
+  },
+  {
+   "api": "DLC6_ACHIEVEMENT_07",
+   "name": "Try To Snatch the Pebble From My Hand ",
+   "desc": "Have a Warrior Monk with 4 Promotions",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "ARR_ACHIEVEMENT_10",
+   "name": "I Want You to Hit Me as Hard as You Can",
+   "desc": "Win the Pirates scenario using mostly Fightin' Points.",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_01",
+   "name": "Salad Sensation",
+   "desc": "Win a regular game as Julius Caesar",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_02",
+   "name": "Addressing Gettysburg",
+   "desc": "Win a regular game as Abraham Lincoln",
+   "hidden": false,
+   "pct": 1.1
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_8",
+   "name": "Walk Like an Egyptian",
+   "desc": "As Egypt build a Sphinx adjacent to the Pyramids both on Desert Floodplains",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_9",
+   "name": "Seven Wonders of the Post-Apocalyptic World",
+   "desc": "Launch a weapon of mass destruction and have it pillage seven wonders",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_27",
+   "name": "Island Hopping",
+   "desc": "Win a regular game with a Domination victory on any difficulty with any leader on a Huge Island Plates map.",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_5_1",
+   "name": "Modern Major General",
+   "desc": "Win a regular game with a Modern Era start",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_34",
+   "name": "Taxation Without Representation",
+   "desc": "As England, lose a city to disloyalty which has an established Financier Governor",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "STK3_ACHIEVEMENT_05",
+   "name": "Things Fall Apart",
+   "desc": "In Dramatic Ages Mode, lose 4 or more cities by entering a Dark Age.",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_03",
+   "name": "The Self-Made Throne",
+   "desc": "Win a regular game as Nzinga Mbande",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_10",
+   "name": "Father of Korean Literature",
+   "desc": "Win a regular game as Sejong",
+   "hidden": false,
+   "pct": 1.0
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_7",
+   "name": "Crouching Tiger Hidden Cannon",
+   "desc": "Playing as China, end a turn with 5 Crouching Tigers on Great Wall tiles",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_17",
+   "name": "Viking Raid",
+   "desc": "Capture a settler with a Viking Longship",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_5_2",
+   "name": "Splitting the Atom",
+   "desc": "Win a regular game with an Atomic Era start",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "DLC4_ACHIEVEMENT_06",
+   "name": "No More Worlds To Conquer",
+   "desc": "Win Conquests of Alexander on any difficulty",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_15",
+   "name": "Adamantine Confederacy",
+   "desc": "As Poundmaker, have an active Alliance of every type",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_19",
+   "name": "Rock God",
+   "desc": "Have no cities following your religion then convert a city to your religion using a Rock Band unit",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_23",
+   "name": "Shield of Christianity",
+   "desc": "As Hungary, have Christianity as your dominant religion and defeat a unit whose Civilization's dominant religion is not Christianity",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_12",
+   "name": "The Power Beside the Throne",
+   "desc": "Win a regular game as Theodora",
+   "hidden": false,
+   "pct": 0.9
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_5",
+   "name": "Huey Tlatoani",
+   "desc": "As Aztecs on a standard-sized map, attack an opponent while receiving a +16 Combat Strength bonus for having all of the luxuries",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_6",
+   "name": "2016 Ready",
+   "desc": "Playing as Brazil, complete both Estadio Do Maracana and Christo Redentor in one city",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "DLC1_ACHIEVEMENT_05",
+   "name": "More Hacksilver For Harald",
+   "desc": "Win Vikings, Traders, and Raiders! as Harald Hardrada",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "DLC4_ACHIEVEMENT_08",
+   "name": "He Named Them All After Himself?",
+   "desc": "Settle four cities in Conquests of Alexander on any difficulty",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "DLC6_ACHIEVEMENT_03",
+   "name": "What is Mind? No Matter. ",
+   "desc": "Win the Path to Nirvana scenario on any difficulty",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_12",
+   "name": "Buying your Deels and Listening to Your Throat Singing",
+   "desc": "As Genghis, win a Cultural Victory",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "ARR_ACHIEVEMENT_02",
+   "name": "Naval Supremacy",
+   "desc": "Privateer - Ensure that your patron has a naval fleet twice the size of any other colonial power.",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_07",
+   "name": "Mother’s Day",
+   "desc": "Win a regular game as Wu Zetian",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_13",
+   "name": "The Triumphs of Oriana",
+   "desc": "Win a regular game as Elizabeth I",
+   "hidden": false,
+   "pct": 0.8
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_14",
+   "name": "Give Peace a Chance",
+   "desc": "Playing as India on a Huge map, receive +35 Faith in one turn from the Satyagraha ability",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_26",
+   "name": "Selfie",
+   "desc": "Win a regular game with a Culture victory with your leader in the game as your opponent as well",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "DLC2_ACHIEVEMENT_05",
+   "name": "The Grandest of Hetmans",
+   "desc": "Win Jadwiga's Legacy as Konstanty Ostrogski",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_14",
+   "name": "Mulligan",
+   "desc": "Build a Golf Course in a tile where you had previously attempted to build a Wonder, but got beaten to the Wonder by another Civ",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_19",
+   "name": "Holy Righteous Queen Tamar",
+   "desc": "As Tamar, have every city-state in the game following the religion you founded",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_18",
+   "name": "Seahenge",
+   "desc": "Have Stonehenge become submerged due to Coastal Flooding",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_28",
+   "name": "Nobody's Business But the Turks",
+   "desc": "As the Ottomans, capture another Civilization's capital and then rename it",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_34",
+   "name": "And the Walls Kept Tumbling Down",
+   "desc": "Have your Roman city lose 6 population from one Vesuvius eruption",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "STK6_ACHIEVEMENT_03",
+   "name": "Re-Animator",
+   "desc": "Control at least 20 Zombie units at the start of your turn.",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_08",
+   "name": "Valley of Kings",
+   "desc": "Win a regular game as Ramses II",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_09",
+   "name": "Dawn of a Dynasty",
+   "desc": "Win a regular game as Sundiata Keita",
+   "hidden": false,
+   "pct": 0.7
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_9",
+   "name": "Flight Slingulator",
+   "desc": "Airlift a level 3 Slinger",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_11",
+   "name": "Loire Valley",
+   "desc": "Create 5 Châteaux in one city with the Wine resource.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_25",
+   "name": "We Are The Champions",
+   "desc": "Win a regular game with a Religious victory with your dominant religion being Zoroastrianism and at the time of victory you are the Suzerain of Zanzibar",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "DLC1_ACHIEVEMENT_02",
+   "name": "Finn MacCool's Pipe Organ",
+   "desc": "Build a Monastery within 2 tiles of the Giant's Causeway",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "DLC1_ACHIEVEMENT_04",
+   "name": "Absolutely Nothing Rotten in the State of Denmark",
+   "desc": "Win Vikings, Traders, and Raiders! as Canute",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "DLC1_ACHIEVEMENT_06",
+   "name": "Master of the Baltic",
+   "desc": "Win Vikings, Traders, and Raiders! as Olof Skötkonung",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "DLC2_ACHIEVEMENT_04",
+   "name": "Always Bet On Black",
+   "desc": "Win Jadwiga's Legacy as Mikolaj \"the Black\" Radziwill",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "DLC4_ACHIEVEMENT_04",
+   "name": "Some Wine For Your Soldiers?",
+   "desc": "Playing as Persia, conquer the original Scythian capital within 10 turns of declaring a surprise war on Scythia",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "DLC6_ACHIEVEMENT_06",
+   "name": "Thalassocratophile ",
+   "desc": "Have 5 cities on landmasses 5 or less tiles with Indonesia",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_11",
+   "name": "Reverse Colonialism",
+   "desc": "As Lautaro, capture Philip II's original capital city ",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_16",
+   "name": "I Thought We'd Moved Past This Joke",
+   "desc": "As Chandragupta, launch a nuclear weapon",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_29",
+   "name": "Smörgåsbord",
+   "desc": "As Kristina, at the start of a turn have cities in five different terrain types (Snow, Tundra, Desert, Plains and Grassland) and have Open Air Museums in all of them",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_39",
+   "name": "Gesundheit",
+   "desc": "Win the Black Death as the Holy Roman Empire",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "ROYALE_ACHIEVEMENT_05",
+   "name": "The Good Die Young",
+   "desc": "Lose your last Civilian within the first ten turns in the Red Death scenario",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "STK3_ACHIEVEMENT_03",
+   "name": "Rome is Where the Heart is",
+   "desc": "As Byzantium, take the original capital of Rome while it is following your founded religion.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "ARR_ACHIEVEMENT_08",
+   "name": "Mine! Mine! Mine!",
+   "desc": "Win the Pirates scenario using mostly Treasure Points.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "STK4_ACHIEVEMENT_05",
+   "name": "The Brave Live Forever",
+   "desc": "Recall a Hero 5 times in a single game.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "STK5_ACHIEVEMENT_08",
+   "name": "Frenemies",
+   "desc": "Hire, Bribe, Incite, and Raid the same Barbarian Clan.",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "NEB_ACHIEVEMENT_05",
+   "name": "Claimants of the Peacock Throne",
+   "desc": "Win a regular game as Nader Shah",
+   "hidden": false,
+   "pct": 0.6
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_3",
+   "name": "100th Anniversary",
+   "desc": "As America make a National Park of Crater Lake and both tiles of Yosemite in one game",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_18",
+   "name": "Missed That Day in History Class",
+   "desc": "Clear nuclear contamination with a Roman Legion",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "DLC2_ACHIEVEMENT_06",
+   "name": "God-Like Legacy",
+   "desc": "Win Jadwiga's Legacy at Deity difficulty",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "DLC3_ACHIEVEMENT_03",
+   "name": "Revenge of the Banana Benders",
+   "desc": "Win Outback Tycoon as Queensland",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "DLC3_ACHIEVEMENT_04",
+   "name": "Crow-eater Conquest",
+   "desc": "Win Outback Tycoon as South Australia",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "DLC3_ACHIEVEMENT_05",
+   "name": "Gumsucker Punch",
+   "desc": "Win Outback Tycoon as Victoria",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "DLC3_ACHIEVEMENT_06",
+   "name": "Sandgroper Sweep",
+   "desc": "Win Outback Tycoon as Western Australia",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "DLC3_ACHIEVEMENT_08",
+   "name": "Quite a Crowded House",
+   "desc": "Complete an online multiplayer game of Outback Tycoon",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "DLC5_ACHIEVEMENT_3",
+   "name": "Claim the Fourth Cataract",
+   "desc": "Playing as Egypt in a regular game, conquer the original Nubian capital within 10 turns of declaring a formal war on Nubia",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "DLC6_ACHIEVEMENT_05",
+   "name": "Wat is Love",
+   "desc": "Build Angkor Wat and a Wat in Angkor Wat",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "DLC6_ACHIEVEMENT_08",
+   "name": "Raid Healer",
+   "desc": "With a Guru Heal 7 religious units with one action",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "DLC6_ACHIEVEMENT_10",
+   "name": "Do You Have A Moment To Talk About Salvation?",
+   "desc": "Convert 3 opposing Holy Cities in the Paths to Nirvana scenario",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "RAF_ACHIEVEMENT_13",
+   "name": "Triple Seven",
+   "desc": "As Wilhelmina, have seven cities and seven Zeven de Provincien at the start of the turn",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_11",
+   "name": "Rivals on Ice",
+   "desc": "Playing as Russia, conquer a city with an Ice Hockey rink",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_36",
+   "name": "Eat, Drink and Be Merry",
+   "desc": "Win the Black Death as England",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_37",
+   "name": "Santé Passe Richesse",
+   "desc": "Win the Black Death as France",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_38",
+   "name": "Bendición",
+   "desc": "Win the Black Death as Castile",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_42",
+   "name": "Medieval Medicine",
+   "desc": "Train 25 Plague Doctors during the Black Death scenario",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_48",
+   "name": "Big Bertha",
+   "desc": "In War Machine, reduce and capture a full-health city in a single turn",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_50",
+   "name": "Hello Cleveland!",
+   "desc": "Perform a Rock Concert in Cleveland",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "STK3_ACHIEVEMENT_07",
+   "name": "No Light Without the Dark",
+   "desc": "In Dramatic Age Mode, as Georgia, have simultaneously a Golden and a Dark Policy active.",
+   "hidden": false,
+   "pct": 0.5
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_3_19",
+   "name": "Trans-Siberian Railroad",
+   "desc": "Playing as Russia, have a city that is at least 60 tiles away from your capital, connected by a Trade Route and road at the start of the turn.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_7",
+   "name": "Luftballons",
+   "desc": "Use a bomber class unit to detonate a nuclear device, as long as its base and 9 Observation Balloons are located on the continent of Nena at the time of detonation.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "NEW_ACHIEVEMENT_4_8",
+   "name": "Pizza Party!",
+   "desc": "Activate Leonardo da Vinci in New York with Great Works from Michelangelo and Donatello -- and a sewer -- all in that city",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC1_ACHIEVEMENT_03",
+   "name": "What Do You Mean, \"Active Volcano?\"",
+   "desc": "Build three Aerodromes within 2 tiles of Eyjafjallajökull",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC1_ACHIEVEMENT_07",
+   "name": "God of the Sea",
+   "desc": "Win Vikings, Traders, and Raiders! at Deity difficulty",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC2_ACHIEVEMENT_02",
+   "name": "You Are A Terrible Person",
+   "desc": "Playing as Poland, destroy another civilization's incomplete wonder by initiating a Culture Bomb",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC3_ACHIEVEMENT_02",
+   "name": "Wood for Sheep",
+   "desc": "Playing as Australia, build a Pasture over Sheep and steal an adjacent player's Lumbermill",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC3_ACHIEVEMENT_07",
+   "name": "Meanwhile, in Australia",
+   "desc": "Win Outback Tycoon at Deity difficulty",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC3_ACHIEVEMENT_09",
+   "name": "Midnight Oil",
+   "desc": "Build an Oil Well on the final turn of the Outback Tycoon scenario",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC4_ACHIEVEMENT_03",
+   "name": "Greatest Is As Greatest Does",
+   "desc": "Playing as Macedon, conquer a city containing both the Great Library and Great Lighthouse wonders",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC4_ACHIEVEMENT_09",
+   "name": "Resplendent Panoply",
+   "desc": "Possess all of the following after conquering a city in Conquests of Alexander: Hoplite, Saka Horse Archer, Maryannu Chariot Archer, Immortal, and Varu",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC4_ACHIEVEMENT_10",
+   "name": "I Quenched Your Thirst For Blood",
+   "desc": "Playing as Scythia, recapture one of your founded cities from Persia",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC5_ACHIEVEMENT_02",
+   "name": "Pyramid Scheme",
+   "desc": "As Nubia, earn six different adjacency bonuses on a Nubian Pyramid",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC5_ACHIEVEMENT_07",
+   "name": "Total A-Nile-hilation",
+   "desc": "Playing Gifts of the Nile as Egypt, win on Deity difficulty",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC5_ACHIEVEMENT_08",
+   "name": "That's Some Good Kerma",
+   "desc": "Playing Gifts of the Nile as Nubia, win on Deity difficulty",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC5_ACHIEVEMENT_09",
+   "name": "Sea of the Bow",
+   "desc": "Playing Gifts of the Nile as Nubia, found a coastal city on the Mediterranean Sea",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC5_ACHIEVEMENT_10",
+   "name": "From Med to Red to the Land of the Dead",
+   "desc": "Playing Gifts of the Nile as Egypt, conquer Irem and Punt",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC6_ACHIEVEMENT_04",
+   "name": "What is Matter? Nevermind. ",
+   "desc": "Win the Path to Nirvana scenario on Deity",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC6_ACHIEVEMENT_09",
+   "name": "Many Signs and Wonders ",
+   "desc": "Build all 3 Wonders in the Paths to Nirvana scenario",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_12",
+   "name": "Sid Meier's Ditchdigging Simulator",
+   "desc": "Use two cities and the Panama Canal to make 7 contiguous land tiles passable by ships",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_13",
+   "name": "An Engineer's Dream",
+   "desc": "Have a Canal, Dam, Aqueduct, Railroad, Golden Gate Bridge, and Mountain Tunnel in a city",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_25",
+   "name": "One does not simply walk into Ngauruhoe",
+   "desc": "As the Maori, have a Maori Toa discover the Ngauruhoe volcano",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_26",
+   "name": "Hajj",
+   "desc": "As Mansa Musa, send a Trade Route to Mecca that gives the sending player at least 30 gold",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_27",
+   "name": "Purple Reign",
+   "desc": "As Dido, complete the Move Capital project on 4 different continents",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_30",
+   "name": "Meet the New Boss, Same as the Old Boss",
+   "desc": "As Eleanor, gain a city to loyalty that was owned by a different civilization with Eleanor as its leader",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_40",
+   "name": "I'm Not Dead Yet",
+   "desc": "Win the Black Death after turn 80",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_41",
+   "name": "Aggressive Strain",
+   "desc": "Win the Black Death after conquering five cities",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_43",
+   "name": "Élan",
+   "desc": "Win War Machine as France",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_44",
+   "name": "Auftragstaktik",
+   "desc": "Win War Machine as Germany",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_47",
+   "name": "Croix de Lorraine",
+   "desc": "In War Machine, as France, conquer Metz within 5 turns",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_49",
+   "name": "Danse Macabre",
+   "desc": "Win the Black Death scenario on Deity difficulty",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "STK1_ACHIEVEMENT_03",
+   "name": "Court of Itzamna",
+   "desc": "As the Maya found a settlement adjacent to 4 luxury resources.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "STK1_ACHIEVEMENT_04",
+   "name": "To plow the sea",
+   "desc": "As Simón Bolívar activate all the Comandante Generals across multiple games.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "ARR_ACHIEVEMENT_01",
+   "name": "The Abyss is Hungry",
+   "desc": "Dread Pirate - Sink 10 ships while using Walk the Plank across multiple games.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "ARR_ACHIEVEMENT_06",
+   "name": "Forced Retirement",
+   "desc": "Lose the Pirates scenario due to mutiny.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "STK6_ACHIEVEMENT_02",
+   "name": "Ultramar Português",
+   "desc": "As Portugal, have a Trading Post in cities belonging to Brazil, India, and Japan.",
+   "hidden": false,
+   "pct": 0.4
+  },
+  {
+   "api": "DLC4_ACHIEVEMENT_07",
+   "name": "You're the Demonstrably Greatest",
+   "desc": "Achieve the highest possible rank in Conquests of Alexander at Deity difficulty",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "DLC5_ACHIEVEMENT_4",
+   "name": "The 25th Dynasty",
+   "desc": "Playing as Nubia, liberate the original Egyptian capital in a liberation war with the capital's conqueror",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_17",
+   "name": "One Tree Hill",
+   "desc": "Have one of your Rock Band units perform a concert adjacent to a Maori Pa unique improvement",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_24",
+   "name": "Po-tay-toes!",
+   "desc": "As Pachacuti, construct a Terrace Farm that is adjacent to 2 Aqueducts and 4 Mountains",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_45",
+   "name": "With The Army You Have",
+   "desc": "Win War Machine without training any units",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "VSV_ACHIEVEMENT_46",
+   "name": "Vernichtungsstrategie",
+   "desc": "As Germany, win War Machine within 25 turns",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "STK1_ACHIEVEMENT_06",
+   "name": "The end of the world as we know it",
+   "desc": "Be the last person standing after comets begin falling.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "STK1_ACHIEVEMENT_07",
+   "name": "The accursed share",
+   "desc": "Use a max-promotions Soothsayer to sacrifice a max-promotions GDR.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "RD2_ACHIEVEMENT_01",
+   "name": "Ashes of Time",
+   "desc": "Wanderers - Explore 30 city ruins across multiple games.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "RD2_ACHIEVEMENT_02",
+   "name": "Experience Is Everything",
+   "desc": "Preppers - Have 5 units earn 5 promotions across multiple games.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "RD2_ACHIEVEMENT_03",
+   "name": "It's Alive!",
+   "desc": "Mad Scientists - Heal 1000 health points across multiple games.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "RD2_ACHIEVEMENT_04",
+   "name": "Hope Springs Eternal",
+   "desc": "Be defeated 5 times in the Red Death scenario.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "RD2_ACHIEVEMENT_05",
+   "name": "From the Outer Darkness",
+   "desc": "Mutants - Attack a unit outside the Red Death while inside the Red Death 20 times.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "RD2_ACHIEVEMENT_06",
+   "name": "Getting Pruney",
+   "desc": "Pirates - Spend 50 turns in the water across multiple games.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "RD2_ACHIEVEMENT_07",
+   "name": "U mad, bro?",
+   "desc": "Borderlords - Trick enemy factions into triggering Grieving Gifts 5 times across multiple games.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "RD2_ACHIEVEMENT_08",
+   "name": "It Hungers",
+   "desc": "Cultists - Kill 10 units with the Undying Eye.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "RD2_ACHIEVEMENT_09",
+   "name": "NERDS!",
+   "desc": "Jocks - Use Hail Marys to wound, but not kill, 5 Civilians across multiple games.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "RD2_ACHIEVEMENT_10",
+   "name": "They're coming to get you, Barbara",
+   "desc": "Zombie Beastmasters - Spawn 30 Zombie Hordes through combat kills.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "RD2_ACHIEVEMENT_11",
+   "name": "Out of Sight, Out of Mind",
+   "desc": "Aliens - Attack while cloaked 20 times.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "STK2_ACHIEVEMENT_02",
+   "name": "Battle of Adwa",
+   "desc": "Defeat an Infantry unit whose capital is on another continent with an Oromo Cavalry.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "STK3_ACHIEVEMENT_04",
+   "name": "Crom Laughs at Your Tanks",
+   "desc": "As Gaul, kill a Tank with a Gaesatae.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "ARR_ACHIEVEMENT_03",
+   "name": "Port in Every Storm",
+   "desc": "Swashbuckler - Visit the tavern of 10 ports in a single game.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "ARR_ACHIEVEMENT_04",
+   "name": "Love It When a Plan Comes Together",
+   "desc": "Hoarder - Sink or capture a treasure ship while a treasure escort is locked by a chainshot.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "ARR_ACHIEVEMENT_09",
+   "name": "I am Kind of a Big Deal",
+   "desc": "Win the Pirates scenario using mostly Infamous Pirate Points.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "STK5_ACHIEVEMENT_07",
+   "name": "Finder's Fee",
+   "desc": "Ransom 5 units from Barbarian Clans in a single game.",
+   "hidden": false,
+   "pct": 0.3
+  },
+  {
+   "api": "STK6_ACHIEVEMENT_05",
+   "name": "It's a Trap!!!",
+   "desc": "Deal 50 or more damage to a single unit from trap damage on a single tile in one turn.",
+   "hidden": false,
+   "pct": 0.3
+  }
+ ]
+}

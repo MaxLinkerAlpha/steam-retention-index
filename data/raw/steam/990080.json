@@ -1,0 +1,323 @@
+{
+ "appid": 990080,
+ "game": "Hogwarts Legacy",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 45,
+ "achievements": [
+  {
+   "api": "PFA_1",
+   "name": "The Sort Who Makes an Entrance",
+   "desc": "",
+   "hidden": true,
+   "pct": 92.1
+  },
+  {
+   "api": "PFA_6",
+   "name": "First Class Student",
+   "desc": "",
+   "hidden": true,
+   "pct": 84.3
+  },
+  {
+   "api": "PFA_7",
+   "name": "Troll with the Punches",
+   "desc": "",
+   "hidden": true,
+   "pct": 76.7
+  },
+  {
+   "api": "PFA_23",
+   "name": "A Keen Sense of Spell",
+   "desc": "",
+   "hidden": true,
+   "pct": 71.1
+  },
+  {
+   "api": "PFA_30",
+   "name": "A Talent for Spending",
+   "desc": "Spend 5 Talent Points",
+   "hidden": false,
+   "pct": 60.5
+  },
+  {
+   "api": "PFA_8",
+   "name": "That's a Keeper",
+   "desc": "",
+   "hidden": true,
+   "pct": 54.7
+  },
+  {
+   "api": "PFA_24",
+   "name": "Loom for Improvement",
+   "desc": "Upgrade a piece of gear",
+   "hidden": false,
+   "pct": 46.0
+  },
+  {
+   "api": "PFA_35",
+   "name": "Followed the Butterflies",
+   "desc": "Follow butterflies to a treasure",
+   "hidden": false,
+   "pct": 45.1
+  },
+  {
+   "api": "PFA_21",
+   "name": "Challenge Accepted",
+   "desc": "Complete all tiers of a challenge",
+   "hidden": false,
+   "pct": 38.4
+  },
+  {
+   "api": "PFA_16",
+   "name": "The Defender of Dragons",
+   "desc": "",
+   "hidden": true,
+   "pct": 36.8
+  },
+  {
+   "api": "PFA_39",
+   "name": "Coasting Along",
+   "desc": "",
+   "hidden": true,
+   "pct": 33.1
+  },
+  {
+   "api": "PFA_44",
+   "name": "The Spell Master",
+   "desc": "Learn all spells",
+   "hidden": false,
+   "pct": 31.9
+  },
+  {
+   "api": "PFA_12",
+   "name": "The Hallowed Hero",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.2
+  },
+  {
+   "api": "PFA_11",
+   "name": "The One Who Mastered Memories",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.5
+  },
+  {
+   "api": "PFA_10",
+   "name": "Grappling with a Graphorn",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.3
+  },
+  {
+   "api": "PFA_42",
+   "name": "Raising Expectations",
+   "desc": "Reach a combo of 100",
+   "hidden": false,
+   "pct": 26.4
+  },
+  {
+   "api": "PFA_13",
+   "name": "The Hero of Hogwarts",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.8
+  },
+  {
+   "api": "PFA_9",
+   "name": "Rising From the Ashes",
+   "desc": "",
+   "hidden": true,
+   "pct": 24.5
+  },
+  {
+   "api": "PFA_2",
+   "name": "The Toast of the Town",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.9
+  },
+  {
+   "api": "PFA_19",
+   "name": "Flight the Good Flight",
+   "desc": "",
+   "hidden": true,
+   "pct": 22.5
+  },
+  {
+   "api": "PFA_25",
+   "name": "The Root of the Problem",
+   "desc": "Stun 10 different enemies using a Mandrake",
+   "hidden": false,
+   "pct": 21.8
+  },
+  {
+   "api": "PFA_18",
+   "name": "A Sallow Grave",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.5
+  },
+  {
+   "api": "PFA_5",
+   "name": "The Wise Owl",
+   "desc": "",
+   "hidden": true,
+   "pct": 20.4
+  },
+  {
+   "api": "PFA_4",
+   "name": "The Gryffindor in the Graveyard",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.5
+  },
+  {
+   "api": "PFA_29",
+   "name": "Third Time's a Charm",
+   "desc": "Upgrade a piece of gear 3 times",
+   "hidden": false,
+   "pct": 19.3
+  },
+  {
+   "api": "PFA_15",
+   "name": "The Avenging Gazelle",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.1
+  },
+  {
+   "api": "PFA_17",
+   "name": "Beast Friends",
+   "desc": "",
+   "hidden": true,
+   "pct": 18.4
+  },
+  {
+   "api": "PFA_41",
+   "name": "The Ends Petrify the Means",
+   "desc": "Defeat a total of fifty enemies using Petrificus Totalus",
+   "hidden": false,
+   "pct": 18.4
+  },
+  {
+   "api": "PFA_27",
+   "name": "Going Through the Potions",
+   "desc": "Brew every type of potion",
+   "hidden": false,
+   "pct": 17.7
+  },
+  {
+   "api": "PFA_14",
+   "name": "The Seeker of Knowledge",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.6
+  },
+  {
+   "api": "PFA_28",
+   "name": "Put Down Roots",
+   "desc": "Grow every type of plant",
+   "hidden": false,
+   "pct": 13.9
+  },
+  {
+   "api": "PFA_32",
+   "name": "Room with a View",
+   "desc": "Reach the highest point in the castle, the Headmaster's upper study",
+   "hidden": false,
+   "pct": 12.6
+  },
+  {
+   "api": "PFA_3",
+   "name": "The Auror's Apprentice",
+   "desc": "",
+   "hidden": true,
+   "pct": 12.2
+  },
+  {
+   "api": "PFA_38",
+   "name": "The Intrepid Explorer",
+   "desc": "Discover all cairn dungeons",
+   "hidden": false,
+   "pct": 10.4
+  },
+  {
+   "api": "PFA_34",
+   "name": "Floo Around the World",
+   "desc": "Unlock all Floo Flames",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "PFA_36",
+   "name": "Rise to the Challenges",
+   "desc": "Defeat enemies in all battle arenas",
+   "hidden": false,
+   "pct": 7.1
+  },
+  {
+   "api": "PFA_33",
+   "name": "Spilled Milk",
+   "desc": "Use Flipendo ten times – to tip one cow or several",
+   "hidden": false,
+   "pct": 6.7
+  },
+  {
+   "api": "PFA_45",
+   "name": "A Forte for Achievement",
+   "desc": "Reach Level 40",
+   "hidden": false,
+   "pct": 6.3
+  },
+  {
+   "api": "PFA_31",
+   "name": "Savvy Spender",
+   "desc": "Spend all Talent Points",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "PFA_40",
+   "name": "Demiguise Dread",
+   "desc": "Find all Demiguise statues",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "PFA_20",
+   "name": "The Good Samaritan",
+   "desc": "Complete all side quests",
+   "hidden": false,
+   "pct": 5.8
+  },
+  {
+   "api": "PFA_43",
+   "name": "Finishing Touches",
+   "desc": "Use Ancient Magic on every enemy in the game",
+   "hidden": false,
+   "pct": 4.9
+  },
+  {
+   "api": "PFA_37",
+   "name": "Merlin's Beard!",
+   "desc": "Complete all Merlin Trials",
+   "hidden": false,
+   "pct": 4.0
+  },
+  {
+   "api": "PFA_26",
+   "name": "The Nature of the Beast",
+   "desc": "Breed every type of beast",
+   "hidden": false,
+   "pct": 3.6
+  },
+  {
+   "api": "PFA_22",
+   "name": "Collector's Edition",
+   "desc": "Complete all collections",
+   "hidden": false,
+   "pct": 2.3
+  }
+ ]
+}

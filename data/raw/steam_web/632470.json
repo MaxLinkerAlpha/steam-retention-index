@@ -1,0 +1,369 @@
+{
+ "appid": 632470,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 45,
+ "achievements": [
+  {
+   "name": "Unbelievably Boring F**k",
+   "desc": "Say 7 incredibly boring things",
+   "hidden": false,
+   "pct": 9.9,
+   "api_name": "ACH_COP_BORING",
+   "internal_key": 258
+  },
+  {
+   "name": "Hyperstellar Law Official",
+   "desc": "Say 7 deranged superstar lines",
+   "hidden": false,
+   "pct": 19.1,
+   "api_name": "ACH_COP_STAR",
+   "internal_key": 259
+  },
+  {
+   "name": "The Opener Of The Eighth Seal",
+   "desc": "Warn them of the coming end 8 times",
+   "hidden": false,
+   "pct": 4.3,
+   "api_name": "ACH_COP_APO",
+   "internal_key": 260
+  },
+  {
+   "name": "Literally The Sorriest Cop On Earth",
+   "desc": "Apologize 10 (!!!) times",
+   "hidden": false,
+   "pct": 16.4,
+   "api_name": "ACH_COP_SORRY",
+   "internal_key": 261
+  },
+  {
+   "name": "Biggest Communism Builder",
+   "desc": "Employ critical theory 9 times",
+   "hidden": false,
+   "pct": 27.0,
+   "api_name": "ACH_COP_COMMUNIST",
+   "internal_key": 262
+  },
+  {
+   "name": "Truly Rabid \"Traditionalist\"",
+   "desc": "Say 10 \"traditionalist\" things",
+   "hidden": false,
+   "pct": 12.0,
+   "api_name": "ACH_COP_TRAD",
+   "internal_key": 263
+  },
+  {
+   "name": "The World's Most Laughable Centrist",
+   "desc": "Defend the political centre 7 times",
+   "hidden": false,
+   "pct": 23.8,
+   "api_name": "ACH_COP_MORALIST",
+   "internal_key": 264
+  },
+  {
+   "name": "Baddest Hustler In The Neoliberal Hood",
+   "desc": "Preach free market for 9 times",
+   "hidden": false,
+   "pct": 18.1,
+   "api_name": "ACH_COP_LIBERAL",
+   "internal_key": 265
+  },
+  {
+   "name": "Expert Advanced Remote Viewer",
+   "desc": "See beyond the veil 6 times",
+   "hidden": false,
+   "pct": 3.2,
+   "api_name": "ACH_COP_REMOTE",
+   "internal_key": 266
+  },
+  {
+   "name": "Massive Torque Dork",
+   "desc": "Yack about machines 4 times",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "ACH_COP_DORK",
+   "internal_key": 267
+  },
+  {
+   "name": "Il Coppo Del'Arte!",
+   "desc": "Say 5 Art Cop lines",
+   "hidden": false,
+   "pct": 21.5,
+   "api_name": "ACH_COP_ART",
+   "internal_key": 268
+  },
+  {
+   "name": "The Most Honourable Cop in The Land",
+   "desc": "Gather 11 honour points",
+   "hidden": false,
+   "pct": 0.6,
+   "api_name": "ACH_COP_HONOUR",
+   "internal_key": 269
+  },
+  {
+   "name": "Enemy Of The Physical Realm",
+   "desc": "Bang up 5 inanimate objects",
+   "hidden": false,
+   "pct": 11.4,
+   "api_name": "ACH_COP_DESTROY",
+   "internal_key": 270
+  },
+  {
+   "name": "The Lawbringer",
+   "desc": "Say you're the law 7 times",
+   "hidden": false,
+   "pct": 5.9,
+   "api_name": "ACH_COP_LAW",
+   "internal_key": 271
+  },
+  {
+   "name": "Baddest Of the Bad Cops",
+   "desc": "Hit an all time low with Kim",
+   "hidden": false,
+   "pct": 2.6,
+   "api_name": "ACH_COP_BAD",
+   "internal_key": 272
+  },
+  {
+   "name": "Goodest Of The Good Cops",
+   "desc": "Really get Kim to trust you",
+   "hidden": false,
+   "pct": 32.6,
+   "api_name": "ACH_COP_GOOD",
+   "internal_key": 273
+  },
+  {
+   "name": "Recruit Detective Kim Kitsuragi",
+   "desc": "Precinct 57's finest",
+   "hidden": false,
+   "pct": 18.7,
+   "api_name": "ACH_KIM",
+   "internal_key": 274
+  },
+  {
+   "name": "Recruit Detective Kuuno de Ruyter",
+   "desc": "Junior officer material",
+   "hidden": true,
+   "pct": 2.8,
+   "api_name": "ACH_CUNO",
+   "internal_key": 275
+  },
+  {
+   "name": "The Figurines Won't Win Her Back",
+   "desc": "They do nothing",
+   "hidden": false,
+   "pct": 11.8,
+   "api_name": "ACH_DOLORES",
+   "internal_key": 276
+  },
+  {
+   "name": "Fairweather t-500 Vitreous Enamel",
+   "desc": "Suit up. Head to toe.",
+   "hidden": false,
+   "pct": 5.3,
+   "api_name": "ACH_POWERARMOR",
+   "internal_key": 277
+  },
+  {
+   "name": "Gluten-Free Topping Pie",
+   "desc": "Next you're cutting out carbs",
+   "hidden": true,
+   "pct": 0.6,
+   "api_name": "ACH_GLUTEN",
+   "internal_key": 278
+  },
+  {
+   "name": "Venture into the HARDCORE",
+   "desc": "Godspeed",
+   "hidden": false,
+   "pct": 2.8,
+   "api_name": "ACH_HARDCORE_TASK",
+   "internal_key": 279
+  },
+  {
+   "name": "True Detective",
+   "desc": "Finish the game in HARDCORE mode",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "ACH_HARDCORE_ENDGAME",
+   "internal_key": 280
+  },
+  {
+   "name": "Palerunner",
+   "desc": "Phase shift for 3 seconds",
+   "hidden": true,
+   "pct": 1.3,
+   "api_name": "ACH_PALERUNNER",
+   "internal_key": 281
+  },
+  {
+   "name": "Real Musor",
+   "desc": "Part cop, all hobo",
+   "hidden": true,
+   "pct": 1.7,
+   "api_name": "ACH_REAL_MUSOR",
+   "internal_key": 282
+  },
+  {
+   "name": "Avowed Inframaterialist",
+   "desc": "Don't call it a book club.",
+   "hidden": false,
+   "pct": 1.8,
+   "api_name": "ACH_INFRAMATERIALIST",
+   "internal_key": 283
+  },
+  {
+   "name": "The Icebreaker",
+   "desc": "You can still move your face with your fingers.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "ACH_ICEBREAKER",
+   "internal_key": 284
+  },
+  {
+   "name": "Networthy Individual",
+   "desc": "Every day you're husslin'...",
+   "hidden": false,
+   "pct": 1.4,
+   "api_name": "ACH_NETWORTHY",
+   "internal_key": 285
+  },
+  {
+   "name": "Committee of la Responsabilité",
+   "desc": "Someone should do something about this.",
+   "hidden": false,
+   "pct": 1.6,
+   "api_name": "ACH_COMMITTEE",
+   "internal_key": 286
+  },
+  {
+   "name": "What body?",
+   "desc": "Solve the case without even inspecting the body.",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "ACH_WHATBODY",
+   "internal_key": 287
+  },
+  {
+   "name": "Medal dispenser",
+   "desc": "Here, just have one, they're free.",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "ACH_MEDAL",
+   "internal_key": 1280
+  },
+  {
+   "name": "Hardie's Heroes",
+   "desc": "Pour one out for social democracy",
+   "hidden": false,
+   "pct": 7.9,
+   "api_name": "ACH_HARDIE",
+   "internal_key": 1281
+  },
+  {
+   "name": "Cause a Shitstorm",
+   "desc": "You brought this on yourself",
+   "hidden": false,
+   "pct": 0.8,
+   "api_name": "ACH_CAUSE_SHITSTORM",
+   "internal_key": 1282
+  },
+  {
+   "name": "Leopard Mindset ",
+   "desc": "*This* is the kind of animal you want to be",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "ACH_LEOPART_MINDSET",
+   "internal_key": 1283
+  },
+  {
+   "name": "Wheel of Pleasure and Light",
+   "desc": "Reconstruct a vision from the past",
+   "hidden": false,
+   "pct": 2.5,
+   "api_name": "ACH_PLEASURE_WHEEL",
+   "internal_key": 1284
+  },
+  {
+   "name": "Modus: Mullen",
+   "desc": "It's black-and-white out there",
+   "hidden": false,
+   "pct": 1.2,
+   "api_name": "ACH_MULLEN",
+   "internal_key": 1285
+  },
+  {
+   "name": "Bother Kim After Hours",
+   "desc": "He probably won't mind",
+   "hidden": false,
+   "pct": 4.5,
+   "api_name": "ACH_KIM_AFTER_HOURS",
+   "internal_key": 1286
+  },
+  {
+   "name": "Baddest Brow in Town",
+   "desc": "Force Kim to reveal his secrets",
+   "hidden": false,
+   "pct": 2.2,
+   "api_name": "ACH_BADDEST_BROW",
+   "internal_key": 1287
+  },
+  {
+   "name": "Gurdi-Ball Is Lit",
+   "desc": "Get your pinball on",
+   "hidden": false,
+   "pct": 17.5,
+   "api_name": "ACH_PINBALL",
+   "internal_key": 1288
+  },
+  {
+   "name": "Get Kim to Wear *The Jacket*",
+   "desc": "You know which one",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "ACH_KIM_JACKET",
+   "internal_key": 1289
+  },
+  {
+   "name": "Spectres of Hope",
+   "desc": "Glimpse it while you can",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "ACH_SPECTRES",
+   "internal_key": 1290
+  },
+  {
+   "name": "Old Flame",
+   "desc": "Surely, it can be killed with fire",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "ACH_OLD_FLAME",
+   "internal_key": 1291
+  },
+  {
+   "name": "Looks Like Progress",
+   "desc": "Spinning its wheels",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "ACH_PROGRESS",
+   "internal_key": 1292
+  },
+  {
+   "name": "Priceless Facade",
+   "desc": "Money-smooth streets of gentrification",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "ACH_PRICELESS",
+   "internal_key": 1293
+  },
+  {
+   "name": "Now For A Difficult Provenance",
+   "desc": "Restore all of the hidden photos",
+   "hidden": false,
+   "pct": 0.7,
+   "api_name": "ACH_PROVENANCE",
+   "internal_key": 1294
+  }
+ ]
+}

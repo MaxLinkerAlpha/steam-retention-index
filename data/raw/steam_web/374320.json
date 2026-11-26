@@ -1,0 +1,353 @@
+{
+ "appid": 374320,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 43,
+ "achievements": [
+  {
+   "name": "The Dark Soul",
+   "desc": "Complete all achievements.",
+   "hidden": false,
+   "pct": 5.1,
+   "api_name": "ACH00",
+   "internal_key": 256
+  },
+  {
+   "name": "To Link the First Flame",
+   "desc": "Reach \"To Link the First Flame\" ending.",
+   "hidden": true,
+   "pct": 26.4,
+   "api_name": "ACH01",
+   "internal_key": 258
+  },
+  {
+   "name": "The End of Fire",
+   "desc": "Reach \"The End of Fire\" ending.",
+   "hidden": true,
+   "pct": 21.4,
+   "api_name": "ACH02",
+   "internal_key": 259
+  },
+  {
+   "name": "The Usurpation of Fire",
+   "desc": "Reach \"The Usurpation of Fire\" ending.",
+   "hidden": true,
+   "pct": 16.0,
+   "api_name": "ACH03",
+   "internal_key": 260
+  },
+  {
+   "name": "Lords of Cinder: Abyss Watchers",
+   "desc": "Defeat the Abyss Watchers, Lords of Cinder.",
+   "hidden": true,
+   "pct": 55.0,
+   "api_name": "ACH04",
+   "internal_key": 261
+  },
+  {
+   "name": "Lord of Cinder: Yhorm the Giant",
+   "desc": "Defeat Yhorm the Giant, Lord of Cinder.",
+   "hidden": true,
+   "pct": 47.4,
+   "api_name": "ACH05",
+   "internal_key": 262
+  },
+  {
+   "name": "Lord of Cinder: Aldrich, Devourer of Gods",
+   "desc": "Defeat Aldrich, Devourer of Gods, Lord of Cinder.",
+   "hidden": true,
+   "pct": 47.4,
+   "api_name": "ACH06",
+   "internal_key": 263
+  },
+  {
+   "name": "Lord of Cinder: Lothric, Younger Prince",
+   "desc": "Defeat Lothric, Younger Prince, Lord of Cinder.",
+   "hidden": true,
+   "pct": 42.7,
+   "api_name": "ACH07",
+   "internal_key": 264
+  },
+  {
+   "name": "Supreme Weapon Reinforcement",
+   "desc": "Reinforce any weapon to the highest level.",
+   "hidden": false,
+   "pct": 42.3,
+   "api_name": "ACH08",
+   "internal_key": 265
+  },
+  {
+   "name": "Master of Infusion",
+   "desc": "Perform all forms of infusion.",
+   "hidden": false,
+   "pct": 8.7,
+   "api_name": "ACH09",
+   "internal_key": 266
+  },
+  {
+   "name": "Master of Sorceries",
+   "desc": "Acquire all sorceries.",
+   "hidden": false,
+   "pct": 7.7,
+   "api_name": "ACH10",
+   "internal_key": 267
+  },
+  {
+   "name": "Master of Pyromancies",
+   "desc": "Acquire all pyromancies.",
+   "hidden": false,
+   "pct": 7.1,
+   "api_name": "ACH11",
+   "internal_key": 268
+  },
+  {
+   "name": "Master of Miracles",
+   "desc": "Acquire all miracles.",
+   "hidden": false,
+   "pct": 6.7,
+   "api_name": "ACH12",
+   "internal_key": 269
+  },
+  {
+   "name": "Master of Rings",
+   "desc": "Acquire all rings.",
+   "hidden": false,
+   "pct": 6.2,
+   "api_name": "ACH13",
+   "internal_key": 270
+  },
+  {
+   "name": "Master of Expression",
+   "desc": "Learn all gestures.",
+   "hidden": false,
+   "pct": 6.3,
+   "api_name": "ACH14",
+   "internal_key": 271
+  },
+  {
+   "name": "Ultimate Bonfire",
+   "desc": "Reinforce a bonfire to the highest level.",
+   "hidden": false,
+   "pct": 31.9,
+   "api_name": "ACH15",
+   "internal_key": 272
+  },
+  {
+   "name": "Ultimate Estus",
+   "desc": "Reinforce the Estus Flask to the highest level.",
+   "hidden": false,
+   "pct": 31.3,
+   "api_name": "ACH16",
+   "internal_key": 273
+  },
+  {
+   "name": "Covenant: Warrior of Sunlight",
+   "desc": "Discover Warrior of Sunlight covenant.",
+   "hidden": true,
+   "pct": 52.2,
+   "api_name": "ACH17",
+   "internal_key": 274
+  },
+  {
+   "name": "Covenant: Way of Blue",
+   "desc": "Discover Way of Blue covenant.",
+   "hidden": true,
+   "pct": 65.4,
+   "api_name": "ACH18",
+   "internal_key": 275
+  },
+  {
+   "name": "Covenant: Blue Sentinels",
+   "desc": "Discover Blue Sentinels covenant.",
+   "hidden": true,
+   "pct": 60.0,
+   "api_name": "ACH19",
+   "internal_key": 276
+  },
+  {
+   "name": "Covenant: Blade of the Darkmoon",
+   "desc": "Discover Blade of the Darkmoon covenant.",
+   "hidden": true,
+   "pct": 31.8,
+   "api_name": "ACH20",
+   "internal_key": 277
+  },
+  {
+   "name": "Covenant: Rosaria's Fingers",
+   "desc": "Discover Rosaria's Fingers covenant.",
+   "hidden": true,
+   "pct": 42.9,
+   "api_name": "ACH21",
+   "internal_key": 278
+  },
+  {
+   "name": "Covenant: Mound-makers",
+   "desc": "Discover Mound-makers covenant.",
+   "hidden": true,
+   "pct": 35.1,
+   "api_name": "ACH22",
+   "internal_key": 279
+  },
+  {
+   "name": "Covenant: Watchdogs of Farron",
+   "desc": "Discover Watchdogs of Farron covenant.",
+   "hidden": true,
+   "pct": 48.5,
+   "api_name": "ACH23",
+   "internal_key": 280
+  },
+  {
+   "name": "Covenant: Aldrich Faithful",
+   "desc": "Discover Aldrich Faithful covenant.",
+   "hidden": true,
+   "pct": 33.8,
+   "api_name": "ACH24",
+   "internal_key": 281
+  },
+  {
+   "name": "Untended Graves",
+   "desc": "Reach the Untended Graves.",
+   "hidden": true,
+   "pct": 43.4,
+   "api_name": "ACH25",
+   "internal_key": 282
+  },
+  {
+   "name": "Archdragon Peak",
+   "desc": "Reach Archdragon Peak.",
+   "hidden": true,
+   "pct": 40.8,
+   "api_name": "ACH26",
+   "internal_key": 283
+  },
+  {
+   "name": "Iudex Gundyr",
+   "desc": "Defeat Iudex Gundyr.",
+   "hidden": true,
+   "pct": 85.7,
+   "api_name": "ACH27",
+   "internal_key": 284
+  },
+  {
+   "name": "Vordt of the Boreal Valley",
+   "desc": "Defeat Vordt of the Boreal Valley.",
+   "hidden": true,
+   "pct": 67.8,
+   "api_name": "ACH28",
+   "internal_key": 285
+  },
+  {
+   "name": "Curse-rotted Greatwood",
+   "desc": "Defeat the Curse-rotted Greatwood.",
+   "hidden": true,
+   "pct": 61.2,
+   "api_name": "ACH29",
+   "internal_key": 286
+  },
+  {
+   "name": "Crystal Sage",
+   "desc": "Defeat Crystal Sage.",
+   "hidden": true,
+   "pct": 57.6,
+   "api_name": "ACH30",
+   "internal_key": 287
+  },
+  {
+   "name": "Deacons of the Deep",
+   "desc": "Defeat the Deacons of the Deep.",
+   "hidden": true,
+   "pct": 54.0,
+   "api_name": "ACH31",
+   "internal_key": 512
+  },
+  {
+   "name": "High Lord Wolnir",
+   "desc": "Defeat High Lord Wolnir.",
+   "hidden": true,
+   "pct": 52.9,
+   "api_name": "ACH32",
+   "internal_key": 513
+  },
+  {
+   "name": "Pontiff Sulyvahn",
+   "desc": "Defeat Pontiff Sulyvahn.",
+   "hidden": true,
+   "pct": 49.4,
+   "api_name": "ACH33",
+   "internal_key": 514
+  },
+  {
+   "name": "Dancer of the Boreal Valley",
+   "desc": "Defeat Dancer of the Boreal Valley.",
+   "hidden": true,
+   "pct": 48.1,
+   "api_name": "ACH34",
+   "internal_key": 515
+  },
+  {
+   "name": "Dragonslayer Armour",
+   "desc": "Defeat Dragonslayer Armour.",
+   "hidden": true,
+   "pct": 45.1,
+   "api_name": "ACH35",
+   "internal_key": 516
+  },
+  {
+   "name": "Old Demon King",
+   "desc": "Defeat Old Demon King.",
+   "hidden": true,
+   "pct": 45.8,
+   "api_name": "ACH36",
+   "internal_key": 517
+  },
+  {
+   "name": "Oceiros, the Consumed King",
+   "desc": "Defeat Oceiros, the Consumed King.",
+   "hidden": true,
+   "pct": 44.1,
+   "api_name": "ACH37",
+   "internal_key": 518
+  },
+  {
+   "name": "Champion Gundyr",
+   "desc": "Defeat Champion Gundyr.",
+   "hidden": true,
+   "pct": 42.6,
+   "api_name": "ACH38",
+   "internal_key": 519
+  },
+  {
+   "name": "Ancient Wyvern",
+   "desc": "Defeat Ancient Wyvern.",
+   "hidden": true,
+   "pct": 40.3,
+   "api_name": "ACH39",
+   "internal_key": 520
+  },
+  {
+   "name": "The Nameless King",
+   "desc": "Defeat Nameless King.",
+   "hidden": true,
+   "pct": 36.2,
+   "api_name": "ACH40",
+   "internal_key": 521
+  },
+  {
+   "name": "Enkindle",
+   "desc": "Light a bonfire flame for the first time.",
+   "hidden": false,
+   "pct": 93.9,
+   "api_name": "ACH41",
+   "internal_key": 522
+  },
+  {
+   "name": "Embrace the Flame",
+   "desc": "Become a Host of Embers for the first time.",
+   "hidden": false,
+   "pct": 86.2,
+   "api_name": "ACH42",
+   "internal_key": 523
+  }
+ ]
+}

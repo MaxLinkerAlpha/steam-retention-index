@@ -1,0 +1,7 @@
+.env
+_tmp/
+__pycache__/
+*.pyc
+_shot/
+pages/
+*.png

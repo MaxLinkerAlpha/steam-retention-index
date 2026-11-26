@@ -1,0 +1,1017 @@
+{
+ "appid": 262060,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 126,
+ "achievements": [
+  {
+   "name": "Welcome home...",
+   "desc": "Reach the Estate",
+   "hidden": false,
+   "pct": 93.8,
+   "api_name": "welcome_home",
+   "internal_key": 256
+  },
+  {
+   "name": "The first of many victories...",
+   "desc": "Complete a quest",
+   "hidden": false,
+   "pct": 87.6,
+   "api_name": "first_victory",
+   "internal_key": 257
+  },
+  {
+   "name": "Our victories are mounting...",
+   "desc": "Complete 10 quests",
+   "hidden": false,
+   "pct": 50.4,
+   "api_name": "ten_victories",
+   "internal_key": 258
+  },
+  {
+   "name": "We are victorious, but at what cost...",
+   "desc": "Complete 25 quests",
+   "hidden": false,
+   "pct": 32.6,
+   "api_name": "twenty_five_victories",
+   "internal_key": 259
+  },
+  {
+   "name": "Discretion, my old friend...",
+   "desc": "Abandon a quest",
+   "hidden": false,
+   "pct": 71.9,
+   "api_name": "abandon_quest",
+   "internal_key": 260
+  },
+  {
+   "name": "The first evil to fall...",
+   "desc": "Slay your first boss",
+   "hidden": false,
+   "pct": 53.4,
+   "api_name": "first_boss",
+   "internal_key": 261
+  },
+  {
+   "name": "A strenuous adventure comes to a close...",
+   "desc": "Complete a medium quest",
+   "hidden": false,
+   "pct": 61.5,
+   "api_name": "medium_quest",
+   "internal_key": 262
+  },
+  {
+   "name": "A grueling adventure comes to a close...",
+   "desc": "Complete a long quest",
+   "hidden": false,
+   "pct": 33.6,
+   "api_name": "long_quest",
+   "internal_key": 263
+  },
+  {
+   "name": "A team of hardened veterans...",
+   "desc": "Start a quest with all four heroes of Resolve Level 6",
+   "hidden": false,
+   "pct": 20.1,
+   "api_name": "start_quest_heroes_level_6",
+   "internal_key": 264
+  },
+  {
+   "name": "Like lambs to the slaughter...",
+   "desc": "Start a Darkest Dungeon quest with four heroes of resolve level 0",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "start_dd_heroes_level_0",
+   "internal_key": 265
+  },
+  {
+   "name": "I've seen every corner of this ruined land...",
+   "desc": "Complete a quest in all four regions",
+   "hidden": false,
+   "pct": 46.4,
+   "api_name": "all_regions",
+   "internal_key": 266
+  },
+  {
+   "name": "Twisted and about to break",
+   "desc": "Complete a dungeon with all 4 heroes afflicted",
+   "hidden": false,
+   "pct": 22.0,
+   "api_name": "four_afflicted",
+   "internal_key": 267
+  },
+  {
+   "name": "And our training begins...",
+   "desc": "Upgrade a Combat skill",
+   "hidden": false,
+   "pct": 61.5,
+   "api_name": "single_combat_skill",
+   "internal_key": 268
+  },
+  {
+   "name": "It takes more than brawn...",
+   "desc": "Learn a new Camping skill",
+   "hidden": false,
+   "pct": 45.0,
+   "api_name": "single_camping_skill",
+   "internal_key": 269
+  },
+  {
+   "name": "A drink, a hand, and a companion...",
+   "desc": "Treat a hero in the Tavern",
+   "hidden": false,
+   "pct": 73.5,
+   "api_name": "tavern_treatment",
+   "internal_key": 270
+  },
+  {
+   "name": "A rumination, a prayer, and a confession...",
+   "desc": "Treat a hero in the Abbey",
+   "hidden": false,
+   "pct": 75.4,
+   "api_name": "abbey_treatment",
+   "internal_key": 271
+  },
+  {
+   "name": "Weeding out the weak...",
+   "desc": "Dismiss your first hero",
+   "hidden": false,
+   "pct": 58.3,
+   "api_name": "hero_dismissed",
+   "internal_key": 272
+  },
+  {
+   "name": "A veritable crowd...",
+   "desc": "Have one of each class on your roster",
+   "hidden": false,
+   "pct": 22.8,
+   "api_name": "one_of_each_hero",
+   "internal_key": 273
+  },
+  {
+   "name": "The price we pay for sanity...",
+   "desc": "Remove a Quirk in the Sanitarium",
+   "hidden": false,
+   "pct": 63.3,
+   "api_name": "quirk_treatment",
+   "internal_key": 274
+  },
+  {
+   "name": "Encouragement...",
+   "desc": "Lock a positive Quirk in the Sanitarium",
+   "hidden": false,
+   "pct": 27.2,
+   "api_name": "quirk_lock",
+   "internal_key": 275
+  },
+  {
+   "name": "Our equipment polished to a mirror finish...",
+   "desc": "Fully upgrade the Blacksmith",
+   "hidden": false,
+   "pct": 20.5,
+   "api_name": "blacksmith_upgraded",
+   "internal_key": 276
+  },
+  {
+   "name": "Our techniques sharpened to a razor's edge...",
+   "desc": "Fully upgrade the Guild",
+   "hidden": false,
+   "pct": 21.1,
+   "api_name": "guild_upgraded",
+   "internal_key": 277
+  },
+  {
+   "name": "The tavern my Ancestor once saw...",
+   "desc": "Fully upgrade the Tavern",
+   "hidden": false,
+   "pct": 12.9,
+   "api_name": "tavern_upgraded",
+   "internal_key": 278
+  },
+  {
+   "name": "The abbey my Ancestor once knew...",
+   "desc": "Fully upgrade the Abbey",
+   "hidden": false,
+   "pct": 12.3,
+   "api_name": "abbey_upgraded",
+   "internal_key": 279
+  },
+  {
+   "name": "Only the finest equipment will endure this torment...",
+   "desc": "Fully upgrade a hero's weapons and armor",
+   "hidden": false,
+   "pct": 23.0,
+   "api_name": "weapon_and_armour_upgraded",
+   "internal_key": 280
+  },
+  {
+   "name": "Only masterful technique will suffice in battle...",
+   "desc": "Fully upgrade at least four of a hero's skills",
+   "hidden": false,
+   "pct": 25.4,
+   "api_name": "hero_4_skill_upgrade",
+   "internal_key": 281
+  },
+  {
+   "name": "Restored to its former glory...",
+   "desc": "Fully upgrade the Town",
+   "hidden": false,
+   "pct": 9.6,
+   "api_name": "town_fully_upgraded",
+   "internal_key": 282
+  },
+  {
+   "name": "A sobering visit with the departed...",
+   "desc": "Visit the Graveyard",
+   "hidden": false,
+   "pct": 90.0,
+   "api_name": "visit_graveyard",
+   "internal_key": 283
+  },
+  {
+   "name": "A true champion emerges...",
+   "desc": "Raise a hero to Resolve Level 6",
+   "hidden": false,
+   "pct": 27.6,
+   "api_name": "one_hero_level_6",
+   "internal_key": 284
+  },
+  {
+   "name": "Darkest sentinels...",
+   "desc": "Raise 4 heroes to Resolve Level 6",
+   "hidden": false,
+   "pct": 23.6,
+   "api_name": "four_hero_level_6",
+   "internal_key": 285
+  },
+  {
+   "name": "And we slew the evils that lurketh...",
+   "desc": "Defeat 100 Eldritch enemies",
+   "hidden": false,
+   "pct": 35.8,
+   "api_name": "eldritch_100",
+   "internal_key": 286
+  },
+  {
+   "name": "And we slew the abominations that haunteth...",
+   "desc": "Defeat 100 Unholy enemies",
+   "hidden": false,
+   "pct": 41.7,
+   "api_name": "unholy_100",
+   "internal_key": 287
+  },
+  {
+   "name": "And we slew the beasts that creepeth...",
+   "desc": "Defeat 100 Beast enemies",
+   "hidden": false,
+   "pct": 40.4,
+   "api_name": "beast_100",
+   "internal_key": 512
+  },
+  {
+   "name": "And we slew the men who were wicked...",
+   "desc": "Defeat 100 Human enemies",
+   "hidden": false,
+   "pct": 45.0,
+   "api_name": "human_100",
+   "internal_key": 513
+  },
+  {
+   "name": "The fiends must be driven back...",
+   "desc": "Slay 1000 enemies",
+   "hidden": false,
+   "pct": 24.6,
+   "api_name": "total_enemies",
+   "internal_key": 514
+  },
+  {
+   "name": "The end of the first year...",
+   "desc": "Reach week 52",
+   "hidden": false,
+   "pct": 20.8,
+   "api_name": "week_52",
+   "internal_key": 515
+  },
+  {
+   "name": "Two years of this...",
+   "desc": "Reach week 104",
+   "hidden": false,
+   "pct": 8.3,
+   "api_name": "week_104",
+   "internal_key": 516
+  },
+  {
+   "name": "Greater riches were never witnessed...",
+   "desc": "Collect at least 20,000 gold from a single quest",
+   "hidden": false,
+   "pct": 37.8,
+   "api_name": "quest_20k_gold",
+   "internal_key": 517
+  },
+  {
+   "name": "A collection of treasured antiques...",
+   "desc": "Collect at least 30 heirlooms from a single quest",
+   "hidden": false,
+   "pct": 60.4,
+   "api_name": "quest_30_heirloom",
+   "internal_key": 518
+  },
+  {
+   "name": "A killer of striking force and wit...",
+   "desc": "Kill 50 enemies with one hero",
+   "hidden": false,
+   "pct": 48.2,
+   "api_name": "kill_50",
+   "internal_key": 519
+  },
+  {
+   "name": "More than a weary traveler...",
+   "desc": "Walk 500 steps with one hero",
+   "hidden": false,
+   "pct": 37.4,
+   "api_name": "walk_500",
+   "internal_key": 520
+  },
+  {
+   "name": "The first of many has fallen...",
+   "desc": "Lose your first hero",
+   "hidden": false,
+   "pct": 74.4,
+   "api_name": "lost_first_hero",
+   "internal_key": 521
+  },
+  {
+   "name": "The stresses were unbearable...",
+   "desc": "Lose your first hero to heart attack",
+   "hidden": false,
+   "pct": 55.6,
+   "api_name": "first_heart_attack_death",
+   "internal_key": 522
+  },
+  {
+   "name": "Gnawing hunger sets in...",
+   "desc": "Lose a hero to hunger",
+   "hidden": false,
+   "pct": 7.5,
+   "api_name": "first_hunger_death",
+   "internal_key": 523
+  },
+  {
+   "name": "That'll do, pig...",
+   "desc": "Lose a hero to Wilbur",
+   "hidden": true,
+   "pct": 10.5,
+   "api_name": "death_to_wilbur",
+   "internal_key": 524
+  },
+  {
+   "name": "We return to the worms of the earth...",
+   "desc": "Lose a hero to a Maggot",
+   "hidden": true,
+   "pct": 3.5,
+   "api_name": "death_to_maggot",
+   "internal_key": 525
+  },
+  {
+   "name": "Watch your step...",
+   "desc": "Lose a hero to a trap",
+   "hidden": true,
+   "pct": 3.4,
+   "api_name": "first_trap_death",
+   "internal_key": 526
+  },
+  {
+   "name": "Blocked from life...",
+   "desc": "Lose a hero to an obstacle",
+   "hidden": true,
+   "pct": 3.9,
+   "api_name": "first_obstacle_death",
+   "internal_key": 527
+  },
+  {
+   "name": "Valiant sacrifice...",
+   "desc": "Lose all four heroes on a Darkest Dungeon quest",
+   "hidden": true,
+   "pct": 6.1,
+   "api_name": "darkest_dungeon_party_wipe",
+   "internal_key": 528
+  },
+  {
+   "name": "No retreat, no quarter...",
+   "desc": "First party wipe",
+   "hidden": false,
+   "pct": 41.8,
+   "api_name": "first_party_wipe",
+   "internal_key": 529
+  },
+  {
+   "name": "We all return to dust...",
+   "desc": "Lose a Legendary (Level 6) hero",
+   "hidden": false,
+   "pct": 17.7,
+   "api_name": "lose_level_6_hero",
+   "internal_key": 530
+  },
+  {
+   "name": "What is already Dead Cannot Die",
+   "desc": "Have a character survive 5 attacks at Death's Door in a single combat",
+   "hidden": false,
+   "pct": 18.5,
+   "api_name": "deaths_door_survived_5_attacks",
+   "internal_key": 531
+  },
+  {
+   "name": "More blood soaks the soil...",
+   "desc": "Party wipe on a boss",
+   "hidden": false,
+   "pct": 23.0,
+   "api_name": "first_boss_party_wipe",
+   "internal_key": 532
+  },
+  {
+   "name": "Sentimental relics from our forefathers...",
+   "desc": "Acquire all your Ancestor's Trinkets",
+   "hidden": false,
+   "pct": 2.9,
+   "api_name": "ancestors_trinkets",
+   "internal_key": 533
+  },
+  {
+   "name": "A terrifying figure emerged from the darkness...",
+   "desc": "Slay a Shambler",
+   "hidden": true,
+   "pct": 28.4,
+   "api_name": "slay_a_shambler",
+   "internal_key": 534
+  },
+  {
+   "name": "Strict Mode",
+   "desc": "Complete the game with default difficulty options",
+   "hidden": false,
+   "pct": 4.4,
+   "api_name": "game_complete_on_default",
+   "internal_key": 535
+  },
+  {
+   "name": "Driven from this land...",
+   "desc": "Kill all bosses",
+   "hidden": false,
+   "pct": 4.9,
+   "api_name": "kill_all_bosses",
+   "internal_key": 536
+  },
+  {
+   "name": "Caretaker",
+   "desc": "Complete all Caretaker Goals",
+   "hidden": false,
+   "pct": 3.7,
+   "api_name": "caretaker_goals_complete",
+   "internal_key": 538
+  },
+  {
+   "name": "Victory, such as it is...",
+   "desc": "Complete the game",
+   "hidden": false,
+   "pct": 4.6,
+   "api_name": "game_complete",
+   "internal_key": 539
+  },
+  {
+   "name": "In such haste...",
+   "desc": "Complete the game within 99 Weeks",
+   "hidden": false,
+   "pct": 6.5,
+   "api_name": "game_complete_in_75_weeks",
+   "internal_key": 540
+  },
+  {
+   "name": "Lone survivor",
+   "desc": "Kill any boss with only one hero remaining",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "kill_boss_with_one_hero",
+   "internal_key": 541
+  },
+  {
+   "name": "Dysfunction",
+   "desc": "Kill any boss with a party of four afflicted heroes",
+   "hidden": false,
+   "pct": 4.8,
+   "api_name": "kill_boss_with_four_afflicted",
+   "internal_key": 542
+  },
+  {
+   "name": "World End",
+   "desc": "Complete the game on Stygian",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "game_complete_ng",
+   "internal_key": 543
+  },
+  {
+   "name": "On the old road, we found redemption.",
+   "desc": "Dismas and Reynauld Made it to the final Darkest Dungeon Quest",
+   "hidden": false,
+   "pct": 2.3,
+   "api_name": "dismas_and_reynauld_completed",
+   "internal_key": 768
+  },
+  {
+   "name": "In Sheep's Clothing",
+   "desc": "Defeat the brigand Vvulf",
+   "hidden": false,
+   "pct": 12.2,
+   "api_name": "defeat_the_brigand_vulf",
+   "internal_key": 769
+  },
+  {
+   "name": "Entry Level",
+   "desc": "Complete the game on Radiant",
+   "hidden": false,
+   "pct": 6.8,
+   "api_name": "game_complete_radiant",
+   "internal_key": 770
+  },
+  {
+   "name": "Murder of Crows",
+   "desc": "Kill the Shrieker",
+   "hidden": true,
+   "pct": 18.9,
+   "api_name": "slay_a_crow",
+   "internal_key": 771
+  },
+  {
+   "name": "Four on the Floor",
+   "desc": "Kill Squiffy Ghast, Swine Skiver, Bone Bearer and Hateful Virago",
+   "hidden": false,
+   "pct": 10.8,
+   "api_name": "slay_4_champions",
+   "internal_key": 772
+  },
+  {
+   "name": "Mine Goes to 11",
+   "desc": "Kill a Squiffy Ghast with a Jester",
+   "hidden": true,
+   "pct": 2.5,
+   "api_name": "slay_a_squiffy_with_jester",
+   "internal_key": 773
+  },
+  {
+   "name": "Les Jeux Sont Faits",
+   "desc": "Defeat the Baron",
+   "hidden": true,
+   "pct": 20.4,
+   "api_name": "slay_the_baron",
+   "internal_key": 774
+  },
+  {
+   "name": "Just the Cheque",
+   "desc": "Defeat the Viscount",
+   "hidden": true,
+   "pct": 12.2,
+   "api_name": "slay_the_viscount",
+   "internal_key": 775
+  },
+  {
+   "name": "Her Last Dance",
+   "desc": "Defeat the Countess",
+   "hidden": true,
+   "pct": 8.4,
+   "api_name": "slay_the_countess",
+   "internal_key": 776
+  },
+  {
+   "name": "Symptoms",
+   "desc": "Get infected by the Crimson Curse",
+   "hidden": true,
+   "pct": 46.3,
+   "api_name": "get_crimson_curse",
+   "internal_key": 777
+  },
+  {
+   "name": "Happy Together",
+   "desc": "Collect your first Trinket Set",
+   "hidden": true,
+   "pct": 28.1,
+   "api_name": "collect_trinket_set",
+   "internal_key": 778
+  },
+  {
+   "name": "From Rubble to Rabble",
+   "desc": "Build your first district building",
+   "hidden": true,
+   "pct": 38.0,
+   "api_name": "build_a_district_building",
+   "internal_key": 779
+  },
+  {
+   "name": "The Red Hook",
+   "desc": "Build The Red Hook",
+   "hidden": true,
+   "pct": 8.2,
+   "api_name": "build_the_red_hook",
+   "internal_key": 780
+  },
+  {
+   "name": "The Flesh is Willing",
+   "desc": "Recruit a flagellant",
+   "hidden": true,
+   "pct": 69.6,
+   "api_name": "recruit_a_flagellant",
+   "internal_key": 781
+  },
+  {
+   "name": "An Unexpected Party",
+   "desc": "Collect The Invitation",
+   "hidden": true,
+   "pct": 26.9,
+   "api_name": "collect_the_invitation",
+   "internal_key": 782
+  },
+  {
+   "name": "Expired",
+   "desc": "Lose a hero to Wasting Away from the Curse",
+   "hidden": true,
+   "pct": 8.4,
+   "api_name": "lose_a_cursed_hero",
+   "internal_key": 783
+  },
+  {
+   "name": "Shadows Blur Together",
+   "desc": "Kill an ally while under the Curse",
+   "hidden": true,
+   "pct": 2.2,
+   "api_name": "kill_an_ally_through_curse",
+   "internal_key": 784
+  },
+  {
+   "name": "What Strange Bedfellows",
+   "desc": "Contract the Crimson Curse via contagion",
+   "hidden": true,
+   "pct": 23.6,
+   "api_name": "get_crimson_curse_via_contagion",
+   "internal_key": 785
+  },
+  {
+   "name": "Zealous Accusation",
+   "desc": "Defeat the Fanatic",
+   "hidden": true,
+   "pct": 10.5,
+   "api_name": "slay_the_fanatic",
+   "internal_key": 786
+  },
+  {
+   "name": "Jailbreak",
+   "desc": "Rescue someone",
+   "hidden": true,
+   "pct": 22.9,
+   "api_name": "rescue_a_prisoner",
+   "internal_key": 787
+  },
+  {
+   "name": "Blood Cult",
+   "desc": "Have your entire roster affected by the crimson curse",
+   "hidden": true,
+   "pct": 1.3,
+   "api_name": "entire_roster_has_curse",
+   "internal_key": 788
+  },
+  {
+   "name": "Plowshares To Swords",
+   "desc": "Reach Death's Door From Farmhand's Riposte",
+   "hidden": true,
+   "pct": 5.2,
+   "api_name": "plowshares_to_swords",
+   "internal_key": 789
+  },
+  {
+   "name": "Tears Lost In The Dust",
+   "desc": "Acquire Mildred's Locket Trinket",
+   "hidden": true,
+   "pct": 22.3,
+   "api_name": "lost_in_dust",
+   "internal_key": 790
+  },
+  {
+   "name": "A Taste Of Madness",
+   "desc": "Complete The First Farmstead Quest",
+   "hidden": true,
+   "pct": 55.7,
+   "api_name": "taste_of_madness",
+   "internal_key": 791
+  },
+  {
+   "name": "A Merciful Act",
+   "desc": "Defeat the Miller",
+   "hidden": true,
+   "pct": 31.9,
+   "api_name": "merciful_act",
+   "internal_key": 792
+  },
+  {
+   "name": "Beyond The Infinite",
+   "desc": "Defeat the Sleeper",
+   "hidden": true,
+   "pct": 14.6,
+   "api_name": "defeat_sleeper",
+   "internal_key": 793
+  },
+  {
+   "name": "Shards Well Spent",
+   "desc": "Collect All of Color of Madness Trinkets",
+   "hidden": true,
+   "pct": 4.2,
+   "api_name": "shards_well_spent",
+   "internal_key": 794
+  },
+  {
+   "name": "A Memory Of Better Times (And Spaces)",
+   "desc": "Build the Windmill",
+   "hidden": true,
+   "pct": 4.2,
+   "api_name": "build_windmill",
+   "internal_key": 795
+  },
+  {
+   "name": "This Is Nothing",
+   "desc": "Get 100 Kills",
+   "hidden": true,
+   "pct": 11.4,
+   "api_name": "this_is_nothing",
+   "internal_key": 796
+  },
+  {
+   "name": "A Hollow Reckoning",
+   "desc": "Get 200 Kills",
+   "hidden": true,
+   "pct": 6.0,
+   "api_name": "hollow_reckoning",
+   "internal_key": 797
+  },
+  {
+   "name": "Ashes To Ashes",
+   "desc": "Get 300 Kills",
+   "hidden": true,
+   "pct": 3.8,
+   "api_name": "ashes_to_ashes",
+   "internal_key": 798
+  },
+  {
+   "name": "In The Mouth of Madness",
+   "desc": "Defeat the Sleeper With 2 Afflicted, 2 Virtuous Heroes",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "mouth_of_madness",
+   "internal_key": 799
+  },
+  {
+   "name": "The Blinders Are Lifted",
+   "desc": "Gain the Refracted Affliction",
+   "hidden": true,
+   "pct": 26.5,
+   "api_name": "blinders_lifted",
+   "internal_key": 1024
+  },
+  {
+   "name": "Rogues Gallery",
+   "desc": "Fight Every Wondering Boss in Endless",
+   "hidden": true,
+   "pct": 3.2,
+   "api_name": "rogues_gallery",
+   "internal_key": 1025
+  },
+  {
+   "name": "There Are No Words",
+   "desc": "Defeat the Thing From The Stars",
+   "hidden": true,
+   "pct": 37.1,
+   "api_name": "defeat_thing_from_stars",
+   "internal_key": 1026
+  },
+  {
+   "name": "Time Is A Flat Circle",
+   "desc": "Kill the Sleeper's Herald With a Riposte",
+   "hidden": true,
+   "pct": 13.7,
+   "api_name": "revenant_riposte",
+   "internal_key": 1027
+  },
+  {
+   "name": "Blue Skies Ahead",
+   "desc": "Use The Shard Dust Provision",
+   "hidden": true,
+   "pct": 13.0,
+   "api_name": "blue_skies_ahead",
+   "internal_key": 1028
+  },
+  {
+   "name": "A Poor Harvest",
+   "desc": "All 4 Heroes Dodge the Miller's Reaping",
+   "hidden": true,
+   "pct": 11.4,
+   "api_name": "four_hero_dodge_miller",
+   "internal_key": 1029
+  },
+  {
+   "name": "Lining the Jeweller's Pockets",
+   "desc": "Earn 200 Shards In One Endless Run",
+   "hidden": true,
+   "pct": 6.8,
+   "api_name": "lining_pocket",
+   "internal_key": 1030
+  },
+  {
+   "name": "Rainbow's End",
+   "desc": "Lose a Hero Equipped with the Coat of Many Colors",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "rainbows_end",
+   "internal_key": 1031
+  },
+  {
+   "name": "Pipe Dream",
+   "desc": "Lose a Hero Equipped with the Miller's Pipe",
+   "hidden": true,
+   "pct": 1.6,
+   "api_name": "pipe_dream",
+   "internal_key": 1032
+  },
+  {
+   "name": "Fresh Meat",
+   "desc": "Play your first match in the Butcher's Circus",
+   "hidden": false,
+   "pct": 28.9,
+   "api_name": "arena_first_arena_played",
+   "internal_key": 1033
+  },
+  {
+   "name": "Scare Tactics",
+   "desc": "Cause an enemy hero to have a heart attack",
+   "hidden": false,
+   "pct": 6.9,
+   "api_name": "arena_first_heartattack",
+   "internal_key": 1034
+  },
+  {
+   "name": "Taking All Challengers",
+   "desc": "Kill each hero class in the Butcher's Circus",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "arena_kill_all_heroes",
+   "internal_key": 1035
+  },
+  {
+   "name": "Mono et Mono",
+   "desc": "Win a match in the dueling grounds",
+   "hidden": false,
+   "pct": 3.0,
+   "api_name": "arena_direct_challenge",
+   "internal_key": 1036
+  },
+  {
+   "name": "Bright Lights",
+   "desc": "Daze 10 enemies in the Butcher's Circus",
+   "hidden": false,
+   "pct": 4.0,
+   "api_name": "arena_daze_ten_enemies",
+   "internal_key": 1037
+  },
+  {
+   "name": "Shouting Match",
+   "desc": "Win a match using ONLY stress against your enemies",
+   "hidden": false,
+   "pct": 1.3,
+   "api_name": "arena_no_damage_win",
+   "internal_key": 1038
+  },
+  {
+   "name": "Devil's Luck",
+   "desc": "Have a hero survive 5 death's door checks in a single match",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "arena_survive_multiple_dd_checks",
+   "internal_key": 1039
+  },
+  {
+   "name": "MVP",
+   "desc": "Have a single hero deal deathblows to 4 enemies in a single match",
+   "hidden": false,
+   "pct": 3.1,
+   "api_name": "arena_single_hero_kills_all",
+   "internal_key": 1040
+  },
+  {
+   "name": "One and Done",
+   "desc": "Kill an enemy hero in the first round of a match",
+   "hidden": false,
+   "pct": 2.0,
+   "api_name": "arena_round_one_kill",
+   "internal_key": 1041
+  },
+  {
+   "name": "Pacemaker",
+   "desc": "Have a single hero survive 4 heart attacks in a single match",
+   "hidden": false,
+   "pct": 1.5,
+   "api_name": "arena_survive_multiple_heartattack",
+   "internal_key": 1042
+  },
+  {
+   "name": "Naked and Unafraid",
+   "desc": "Win a match without using any trinkets",
+   "hidden": false,
+   "pct": 5.4,
+   "api_name": "arena_no_trinket_win",
+   "internal_key": 1043
+  },
+  {
+   "name": "Blood Soaks the Sand",
+   "desc": "Win 100 matches in the Butcher's Circus",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "arena_win_100",
+   "internal_key": 1044
+  },
+  {
+   "name": "Be Still My Heart!",
+   "desc": "Cause 150 heart attacks in the Butcher's Circus",
+   "hidden": false,
+   "pct": 1.0,
+   "api_name": "arena_heartattack_150",
+   "internal_key": 1045
+  },
+  {
+   "name": "Blood Flood",
+   "desc": "Kill 600 enemies in the Butcher's Circus",
+   "hidden": false,
+   "pct": 0.9,
+   "api_name": "arena_kill_600",
+   "internal_key": 1046
+  },
+  {
+   "name": "Crowd Pleaser",
+   "desc": "Reach the max Prestige level in the Butcher's Circus",
+   "hidden": false,
+   "pct": 3.4,
+   "api_name": "arena_reach_max_prestige",
+   "internal_key": 1047
+  },
+  {
+   "name": "Flawless Execution",
+   "desc": "Win any 10 matches without losing any heroes",
+   "hidden": false,
+   "pct": 1.9,
+   "api_name": "arena_ten_perfect_victories",
+   "internal_key": 1048
+  },
+  {
+   "name": "Burnout",
+   "desc": "Have a hero die to burn",
+   "hidden": true,
+   "pct": 3.1,
+   "api_name": "burnout",
+   "internal_key": 1049
+  },
+  {
+   "name": "Faced Worse",
+   "desc": "Have a Runaway and a Duelist face the Ancestor",
+   "hidden": true,
+   "pct": 1.7,
+   "api_name": "faced_worse",
+   "internal_key": 1050
+  },
+  {
+   "name": "Dueling Duo",
+   "desc": "Duelist and Highwayman riposte the same target together",
+   "hidden": true,
+   "pct": 15.0,
+   "api_name": "dueling_duo",
+   "internal_key": 1051
+  },
+  {
+   "name": "The Perfection",
+   "desc": "Duelist ripostes 5 times without being hit in a single fight",
+   "hidden": true,
+   "pct": 9.0,
+   "api_name": "the_perfection",
+   "internal_key": 1052
+  },
+  {
+   "name": "Pavlovian",
+   "desc": "Trigger trinkets cumulatively 1000 times",
+   "hidden": true,
+   "pct": 16.5,
+   "api_name": "pavlovian",
+   "internal_key": 1053
+  },
+  {
+   "name": "Cooked to Perfection",
+   "desc": "Have Burn on the Hag’s Cauldron deal damage to the hero within",
+   "hidden": true,
+   "pct": 5.1,
+   "api_name": "cooked_to_perfection",
+   "internal_key": 1054
+  }
+ ]
+}

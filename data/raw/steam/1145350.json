@@ -1,0 +1,358 @@
+{
+ "appid": 1145350,
+ "game": "Hades II",
+ "snapshot": "2026-11-24 17:34 +08",
+ "count": 50,
+ "achievements": [
+  {
+   "api": "AchClearErebus",
+   "name": "Witch of the Woods",
+   "desc": "Clear Erebus",
+   "hidden": false,
+   "pct": 68.8
+  },
+  {
+   "api": "AchClearOceanus",
+   "name": "Witch of the Depths",
+   "desc": "Clear Oceanus",
+   "hidden": false,
+   "pct": 61.9
+  },
+  {
+   "api": "AchClearFields",
+   "name": "Witch of the Plains",
+   "desc": "Clear the Fields of Mourning",
+   "hidden": false,
+   "pct": 57.9
+  },
+  {
+   "api": "AchClearEphyra",
+   "name": "Witch of the Outskirts",
+   "desc": "Clear the City of Ephyra",
+   "hidden": false,
+   "pct": 51.6
+  },
+  {
+   "api": "AchClearThessaly",
+   "name": "Witch of the Waters",
+   "desc": "Clear the Rift of Thessaly",
+   "hidden": false,
+   "pct": 48.1
+  },
+  {
+   "api": "AchBathHouse",
+   "name": "Soothing Soak",
+   "desc": "Take one of your comrades to the Hot Springs",
+   "hidden": false,
+   "pct": 48.0
+  },
+  {
+   "api": "AchClearTartarus",
+   "name": "Witch of the Abyss",
+   "desc": "Clear Tartarus",
+   "hidden": false,
+   "pct": 46.9
+  },
+  {
+   "api": "AchAllWeapons",
+   "name": "The Arms of Night",
+   "desc": "Fulfill the Prophecy 'The Arms of Night'",
+   "hidden": false,
+   "pct": 46.4
+  },
+  {
+   "api": "AchClearOlympus",
+   "name": "Witch of the Mountains",
+   "desc": "Clear Mount Olympus",
+   "hidden": false,
+   "pct": 43.2
+  },
+  {
+   "api": "AchKillWitchAsSheep",
+   "name": "Sheep's Clothing",
+   "desc": "Slay a Sister of the Dead while afflicted with Twilight Curse",
+   "hidden": false,
+   "pct": 43.0
+  },
+  {
+   "api": "AchCauldronSpells1",
+   "name": "So Mote It Be",
+   "desc": "Cast 50 Incantations at the Crossroads Cauldron",
+   "hidden": false,
+   "pct": 42.3
+  },
+  {
+   "api": "AchAllArcana",
+   "name": "Breadth of Knowledge",
+   "desc": "Fulfill the Prophecy 'Breadth of Knowledge'",
+   "hidden": false,
+   "pct": 39.0
+  },
+  {
+   "api": "AchConfideFrinos",
+   "name": "Familiar Confidant",
+   "desc": "Fulfill the Prophecy 'Familiar Confidant'",
+   "hidden": false,
+   "pct": 37.3
+  },
+  {
+   "api": "AchClearSummit",
+   "name": "Witch of the Clouds",
+   "desc": "Clear the Summit",
+   "hidden": false,
+   "pct": 37.0
+  },
+  {
+   "api": "AchFishingPier",
+   "name": "Catch of the Night",
+   "desc": "Take one of your comrades to the Fishing Pier",
+   "hidden": false,
+   "pct": 36.8
+  },
+  {
+   "api": "AchMaxMem",
+   "name": "Mind for Magick",
+   "desc": "Gain 30 Grasp at the Altar of Ashes",
+   "hidden": false,
+   "pct": 34.1
+  },
+  {
+   "api": "AchTaverna",
+   "name": "Ambrosia for Two",
+   "desc": "Take one of your comrades to the Taverna",
+   "hidden": false,
+   "pct": 34.0
+  },
+  {
+   "api": "AchBeatHecateNoArcana",
+   "name": "Natural Talent",
+   "desc": "Fulfill the Prophecy 'Natural Talent'",
+   "hidden": false,
+   "pct": 31.3
+  },
+  {
+   "api": "AchTrueEnding",
+   "name": "Death to Chronos",
+   "desc": "Complete the lifelong task of the Princess of the Underworld",
+   "hidden": false,
+   "pct": 27.5
+  },
+  {
+   "api": "AchAllFamiliars",
+   "name": "Animal Whisperer",
+   "desc": "Recruit all Animal Familiars",
+   "hidden": false,
+   "pct": 25.6
+  },
+  {
+   "api": "AchEarnStatue1",
+   "name": "Behold Night's Champion",
+   "desc": "Earn the first Gift of the Veil",
+   "hidden": false,
+   "pct": 24.9
+  },
+  {
+   "api": "AchSummonSiren",
+   "name": "Breaking Up the Band",
+   "desc": "Use Night Bloom to raise a Siren",
+   "hidden": false,
+   "pct": 24.4
+  },
+  {
+   "api": "AchEarnPrestige1",
+   "name": "Giving Back",
+   "desc": "Earn 10,000 Kudos",
+   "hidden": false,
+   "pct": 19.2
+  },
+  {
+   "api": "AchWinSecretContest",
+   "name": "Elysian Glory",
+   "desc": "Prevail in the Contest of Champions",
+   "hidden": false,
+   "pct": 17.1
+  },
+  {
+   "api": "AchEarnStatue2",
+   "name": "Mercy, Night's Executioner",
+   "desc": "Earn the second Gift of the Veil",
+   "hidden": false,
+   "pct": 17.0
+  },
+  {
+   "api": "AchHelpDora",
+   "name": "Haunted by the Past",
+   "desc": "Fulfill the Prophecy 'Haunted by the Past'",
+   "hidden": false,
+   "pct": 16.5
+  },
+  {
+   "api": "AchHelpHypnos",
+   "name": "Soundest of Sleepers",
+   "desc": "Fulfill the Prophecy 'Soundest of Sleepers'",
+   "hidden": false,
+   "pct": 16.5
+  },
+  {
+   "api": "AchBeatChronosWithArcana",
+   "name": "Arcana of the Ages",
+   "desc": "Fulfill the Prophecy 'Arcana of the Ages'",
+   "hidden": false,
+   "pct": 16.0
+  },
+  {
+   "api": "AchCatchFish",
+   "name": "Denizens of the Depths",
+   "desc": "Fulfill the Prophecy 'Denizens of the Depths'",
+   "hidden": false,
+   "pct": 15.5
+  },
+  {
+   "api": "AchNemesisCombat",
+   "name": "Fair Fight",
+   "desc": "Earn 1,000 Gold competing against Nemesis",
+   "hidden": false,
+   "pct": 14.9
+  },
+  {
+   "api": "AchBeatTyphonWithWeapons",
+   "name": "Sword of the Night",
+   "desc": "Fulfill the Prophecy 'Sword of the Night'",
+   "hidden": false,
+   "pct": 13.6
+  },
+  {
+   "api": "AchProphecies1",
+   "name": "Hand of the Fates",
+   "desc": "Fulfill 60 Minor Prophecies",
+   "hidden": false,
+   "pct": 12.7
+  },
+  {
+   "api": "AchForgeBonds",
+   "name": "Close Comrades",
+   "desc": "Forge a bond with 10 comrades",
+   "hidden": false,
+   "pct": 12.5
+  },
+  {
+   "api": "AchClearChaosQuest",
+   "name": "Born to Win",
+   "desc": "Fulfill the Prophecy 'Born to Win'",
+   "hidden": false,
+   "pct": 12.4
+  },
+  {
+   "api": "AchAllArcanaMax",
+   "name": "Unassailable Insight",
+   "desc": "Fully upgrade all Arcana",
+   "hidden": false,
+   "pct": 12.2
+  },
+  {
+   "api": "AchTartarusInDress",
+   "name": "Dressed to Kill",
+   "desc": "Reach the final confrontation in an Arachne outfit",
+   "hidden": false,
+   "pct": 12.2
+  },
+  {
+   "api": "AchHelpNarcissusAndEcho",
+   "name": "Voice and Vanity",
+   "desc": "Fulfill the Prophecy 'Voice and Vanity'",
+   "hidden": false,
+   "pct": 11.7
+  },
+  {
+   "api": "AchAllKeepsakes",
+   "name": "Sentimental Value",
+   "desc": "Collect every Keepsake",
+   "hidden": false,
+   "pct": 11.6
+  },
+  {
+   "api": "AchAllAspects",
+   "name": "The Unseen Sentinel",
+   "desc": "Fulfill the Prophecy 'The Unseen Sentinel'",
+   "hidden": false,
+   "pct": 10.3
+  },
+  {
+   "api": "AchBeatRivalsVow1",
+   "name": "Unrivaled Prowess",
+   "desc": "Fulfill the Prophecy 'Unrivaled Prowess'",
+   "hidden": false,
+   "pct": 10.1
+  },
+  {
+   "api": "AchBounties1",
+   "name": "Infinite Possibility",
+   "desc": "Clear 20 Chaos Trials",
+   "hidden": false,
+   "pct": 10.0
+  },
+  {
+   "api": "AchEpilogue",
+   "name": "Golden Age",
+   "desc": "Reach the epilogue of the story",
+   "hidden": false,
+   "pct": 9.6
+  },
+  {
+   "api": "AchAllFamiliarsMax",
+   "name": "Beast Master",
+   "desc": "Fully upgrade all Animal Familiars",
+   "hidden": false,
+   "pct": 8.9
+  },
+  {
+   "api": "AchHelpOdysseus",
+   "name": "Unfinished Business",
+   "desc": "Fulfill the Prophecy 'Unfinished Business'",
+   "hidden": false,
+   "pct": 8.1
+  },
+  {
+   "api": "AchHelpArachne",
+   "name": "Silk and Spitefulness",
+   "desc": "Fulfill the Prophecy 'Silk and Spitefulness'",
+   "hidden": false,
+   "pct": 7.2
+  },
+  {
+   "api": "AchFamiliarCostumes",
+   "name": "Unfamiliar Forms",
+   "desc": "Alter the appearance of each Animal Familiar",
+   "hidden": false,
+   "pct": 7.1
+  },
+  {
+   "api": "AchClearWithAllAspects",
+   "name": "Bearing Dark Gifts",
+   "desc": "Fulfill the Prophecy 'Bearing Dark Gifts'",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "AchAllRandomStreak",
+   "name": "Improbable Outcomes",
+   "desc": "Fulfill the Prophecy 'Improbable Outcomes'",
+   "hidden": false,
+   "pct": 5.5
+  },
+  {
+   "api": "AchAllRandomUnderworld",
+   "name": "Chaos in Hell",
+   "desc": "Clear the 'Great Chaos Below' Trial",
+   "hidden": false,
+   "pct": 4.9
+  },
+  {
+   "api": "AchAllOtherAch",
+   "name": "Goddess of Nightmares",
+   "desc": "Earn all other Achievements",
+   "hidden": false,
+   "pct": 4.2
+  }
+ ]
+}

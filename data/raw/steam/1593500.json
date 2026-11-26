@@ -1,0 +1,267 @@
+{
+ "appid": 1593500,
+ "game": "God of War",
+ "snapshot": "2026-11-24 17:30 +08",
+ "count": 37,
+ "achievements": [
+  {
+   "api": "ACHIEVEMENT_20",
+   "name": "Enchanted",
+   "desc": "Slot an Enchantment into your armor",
+   "hidden": false,
+   "pct": 88.2
+  },
+  {
+   "api": "ACHIEVEMENT_1",
+   "name": "The Journey Begins",
+   "desc": "",
+   "hidden": true,
+   "pct": 86.9
+  },
+  {
+   "api": "ACHIEVEMENT_16",
+   "name": "Nice Moves",
+   "desc": "Obtain a Runic Attack Gem",
+   "hidden": false,
+   "pct": 84.0
+  },
+  {
+   "api": "ACHIEVEMENT_2",
+   "name": "A New Friend",
+   "desc": "",
+   "hidden": true,
+   "pct": 75.3
+  },
+  {
+   "api": "ACHIEVEMENT_15",
+   "name": "Dwarven Ingenuity",
+   "desc": "Upgrade a piece of armor",
+   "hidden": false,
+   "pct": 72.4
+  },
+  {
+   "api": "ACHIEVEMENT_3",
+   "name": "Feels Like Home",
+   "desc": "",
+   "hidden": true,
+   "pct": 63.1
+  },
+  {
+   "api": "ACHIEVEMENT_19",
+   "name": "Best Dressed",
+   "desc": "Craft an outfit for Atreus",
+   "hidden": false,
+   "pct": 61.8
+  },
+  {
+   "api": "ACHIEVEMENT_4",
+   "name": "Dragon Slayer",
+   "desc": "",
+   "hidden": true,
+   "pct": 57.6
+  },
+  {
+   "api": "ACHIEVEMENT_5",
+   "name": "Troubling Consequences",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.9
+  },
+  {
+   "api": "ACHIEVEMENT_6",
+   "name": "Hello, Old Friend",
+   "desc": "",
+   "hidden": true,
+   "pct": 53.1
+  },
+  {
+   "api": "ACHIEVEMENT_7",
+   "name": "Promise Fulfilled",
+   "desc": "",
+   "hidden": true,
+   "pct": 52.8
+  },
+  {
+   "api": "ACHIEVEMENT_8",
+   "name": "Round 2",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.5
+  },
+  {
+   "api": "ACHIEVEMENT_9",
+   "name": "Past Haunts",
+   "desc": "",
+   "hidden": true,
+   "pct": 50.1
+  },
+  {
+   "api": "ACHIEVEMENT_26",
+   "name": "The Best Moves",
+   "desc": "Fully upgrade a Runic Attack",
+   "hidden": false,
+   "pct": 49.7
+  },
+  {
+   "api": "ACHIEVEMENT_10",
+   "name": "Twilight Beckons",
+   "desc": "",
+   "hidden": true,
+   "pct": 47.5
+  },
+  {
+   "api": "ACHIEVEMENT_11",
+   "name": "Last Wish",
+   "desc": "",
+   "hidden": true,
+   "pct": 46.9
+  },
+  {
+   "api": "ACHIEVEMENT_14",
+   "name": "Trilingual",
+   "desc": "Learn the languages of Muspelheim and Niflheim",
+   "hidden": false,
+   "pct": 44.5
+  },
+  {
+   "api": "ACHIEVEMENT_21",
+   "name": "All Will Fall",
+   "desc": "Kill 1,000 Enemies",
+   "hidden": false,
+   "pct": 32.1
+  },
+  {
+   "api": "ACHIEVEMENT_13",
+   "name": "Death Happened Here",
+   "desc": "",
+   "hidden": true,
+   "pct": 31.8
+  },
+  {
+   "api": "ACHIEVEMENT_17",
+   "name": "Iðunn’s Orchard",
+   "desc": "Fully upgrade your Health",
+   "hidden": false,
+   "pct": 27.5
+  },
+  {
+   "api": "ACHIEVEMENT_23",
+   "name": "Like Oil and Water",
+   "desc": "Complete all of Brok and Sindri’s Favors",
+   "hidden": false,
+   "pct": 26.8
+  },
+  {
+   "api": "ACHIEVEMENT_18",
+   "name": "Quick Tempered",
+   "desc": "Fully upgrade your rage",
+   "hidden": false,
+   "pct": 25.8
+  },
+  {
+   "api": "ACHIEVEMENT_12",
+   "name": "Beneath the Surface",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.1
+  },
+  {
+   "api": "ACHIEVEMENT_31",
+   "name": "Unfinished Business",
+   "desc": "Assist all of the wayward spirits",
+   "hidden": false,
+   "pct": 23.4
+  },
+  {
+   "api": "ACHIEVEMENT_28",
+   "name": "Why Fight It?",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.3
+  },
+  {
+   "api": "ACHIEVEMENT_22",
+   "name": "Dangerous Skies",
+   "desc": "Free all of the Dragons",
+   "hidden": false,
+   "pct": 22.8
+  },
+  {
+   "api": "ACHIEVEMENT_27",
+   "name": "Worthy",
+   "desc": "Fully upgrade the Leviathan Axe",
+   "hidden": false,
+   "pct": 22.8
+  },
+  {
+   "api": "ACHIEVEMENT_36",
+   "name": "Chooser of the Slain",
+   "desc": "Defeat the nine Valkyries",
+   "hidden": false,
+   "pct": 16.8
+  },
+  {
+   "api": "ACHIEVEMENT_29",
+   "name": "Path of the Zealot",
+   "desc": "Obtain Traveler armor set",
+   "hidden": false,
+   "pct": 14.4
+  },
+  {
+   "api": "ACHIEVEMENT_34",
+   "name": "Fire and Brimstone",
+   "desc": "Complete all of the Trials of Muspelheim",
+   "hidden": false,
+   "pct": 14.2
+  },
+  {
+   "api": "ACHIEVEMENT_33",
+   "name": "The Truth",
+   "desc": "Read all of the Jötnar shrines",
+   "hidden": false,
+   "pct": 13.8
+  },
+  {
+   "api": "ACHIEVEMENT_30",
+   "name": "Primordial",
+   "desc": "Obtain Ancient armor set",
+   "hidden": false,
+   "pct": 12.6
+  },
+  {
+   "api": "ACHIEVEMENT_35",
+   "name": "Darkness and Fog",
+   "desc": "Retrieve all treasure from the Workshop’s center chamber",
+   "hidden": false,
+   "pct": 12.5
+  },
+  {
+   "api": "ACHIEVEMENT_25",
+   "name": "Allfather Blinded",
+   "desc": "Kill all of Odin’s Ravens",
+   "hidden": false,
+   "pct": 8.3
+  },
+  {
+   "api": "ACHIEVEMENT_32",
+   "name": "Treasure Hunter",
+   "desc": "Use treasure maps to find all of the dig spots",
+   "hidden": false,
+   "pct": 8.3
+  },
+  {
+   "api": "ACHIEVEMENT_24",
+   "name": "Curator",
+   "desc": "Collect all of the Artifacts",
+   "hidden": false,
+   "pct": 8.2
+  },
+  {
+   "api": "ACHIEVEMENT_ALL",
+   "name": "Father and Son",
+   "desc": "Obtain all other achievements",
+   "hidden": false,
+   "pct": 6.6
+  }
+ ]
+}

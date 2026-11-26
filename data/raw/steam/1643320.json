@@ -1,0 +1,540 @@
+{
+ "appid": 1643320,
+ "game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+ "snapshot": "2026-11-26 18:24 +08",
+ "count": 76,
+ "achievements": [
+  {
+   "api": "HelloZone",
+   "name": "Welcome to the Zone",
+   "desc": "Prologue complete, but this is so far from over.",
+   "hidden": false,
+   "pct": 86.0
+  },
+  {
+   "api": "SitNearBonfire",
+   "name": "Goss",
+   "desc": "Join Stalkers for some campfire gossip.",
+   "hidden": false,
+   "pct": 66.9
+  },
+  {
+   "api": "Lockpick",
+   "name": "Lockpick",
+   "desc": "Lure a mutant into an anomaly. Hardly a noble deed, but it gets the job done.",
+   "hidden": false,
+   "pct": 66.4
+  },
+  {
+   "api": "FinishSquad",
+   "name": "Proxy",
+   "desc": "Kill a squad that just finished off another squad and won the fight. Or so they thought…",
+   "hidden": false,
+   "pct": 64.9
+  },
+  {
+   "api": "PurchaseUpgrade",
+   "name": "First touches",
+   "desc": "First equipment enhancement. Never the last, for most Zone folks.",
+   "hidden": false,
+   "pct": 64.5
+  },
+  {
+   "api": "GoodbyeLesserZone",
+   "name": "Good hunting, stalker",
+   "desc": "",
+   "hidden": true,
+   "pct": 63.6
+  },
+  {
+   "api": "Sandwich",
+   "name": "On the go",
+   "desc": "Bread and sausage — Zone's most popular sandwich recipe.",
+   "hidden": false,
+   "pct": 63.4
+  },
+  {
+   "api": "Progressive_DoHeadshots",
+   "name": "Clincher",
+   "desc": "100 enemies shot in the head. Not bad for a head start…",
+   "hidden": false,
+   "pct": 58.1
+  },
+  {
+   "api": "Gunsmith",
+   "name": "Pump it up",
+   "desc": "Fully enhance any type of weapon. Somewhere out there, a Zone technician just shed a tear of pride..",
+   "hidden": false,
+   "pct": 53.7
+  },
+  {
+   "api": "MeetShram",
+   "name": "Would you like some toast?",
+   "desc": "",
+   "hidden": true,
+   "pct": 51.1
+  },
+  {
+   "api": "HeadshotStreak",
+   "name": "The good, the bad and the ugly",
+   "desc": "5 headshots in 10 seconds. Good eye.",
+   "hidden": false,
+   "pct": 42.5
+  },
+  {
+   "api": "MainPrize",
+   "name": "Eyes on the prize",
+   "desc": "",
+   "hidden": true,
+   "pct": 41.1
+  },
+  {
+   "api": "CrystalLock",
+   "name": "House of glass",
+   "desc": "",
+   "hidden": true,
+   "pct": 39.0
+  },
+  {
+   "api": "VerySpecialWeapon",
+   "name": "Your move!",
+   "desc": "",
+   "hidden": true,
+   "pct": 38.4
+  },
+  {
+   "api": "UseDifferentWeapons",
+   "name": "Personal approach",
+   "desc": "One fight, four enemies, killed by different weapons. That trick would charm the hell out of Mavka!",
+   "hidden": false,
+   "pct": 36.0
+  },
+  {
+   "api": "SneakyClearLair",
+   "name": "Peace and quiet",
+   "desc": "Kill everyone in the camp before the alarm is set off. They couldn't see it coming!",
+   "hidden": false,
+   "pct": 36.0
+  },
+  {
+   "api": "BreakEquipment",
+   "name": "Taking it for granted",
+   "desc": "Gear broken beyond repair. Don't forget to pay regular visits to the technician.",
+   "hidden": false,
+   "pct": 35.8
+  },
+  {
+   "api": "KillFaust",
+   "name": "Such is the will of the Monolith",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.2
+  },
+  {
+   "api": "DeclineFaustHelp",
+   "name": "Monolith envoy",
+   "desc": "",
+   "hidden": true,
+   "pct": 29.2
+  },
+  {
+   "api": "Progressive_CouponsToBurn",
+   "name": "Coupons to burn",
+   "desc": "Spend over 1,000,000 coupons. Myklukha and Sidorovich will fight hard over their favorite customer.",
+   "hidden": false,
+   "pct": 28.8
+  },
+  {
+   "api": "OSoznanie",
+   "name": "I see you have many questions",
+   "desc": "",
+   "hidden": true,
+   "pct": 28.7
+  },
+  {
+   "api": "SaveZalesie",
+   "name": "Baptism by fire",
+   "desc": "",
+   "hidden": true,
+   "pct": 27.4
+  },
+  {
+   "api": "DoctorMystery",
+   "name": "Doctor's oath",
+   "desc": "",
+   "hidden": true,
+   "pct": 26.5
+  },
+  {
+   "api": "MeetStrelok",
+   "name": "Living legend",
+   "desc": "",
+   "hidden": true,
+   "pct": 25.8
+  },
+  {
+   "api": "ChimeraRun",
+   "name": "Run, stalker, run!",
+   "desc": "That Chimera made you run like an Olympic champion!",
+   "hidden": false,
+   "pct": 25.6
+  },
+  {
+   "api": "MutantHunter",
+   "name": "Zone's deadliest predator",
+   "desc": "Kill a mutant of every kind. You'll need a bigger wall to fit all those trophies!",
+   "hidden": false,
+   "pct": 25.0
+  },
+  {
+   "api": "MeetDegtyarev",
+   "name": "The Prypiat guardian",
+   "desc": "",
+   "hidden": true,
+   "pct": 23.7
+  },
+  {
+   "api": "Bouncy",
+   "name": "Bouncy",
+   "desc": "A successful jump from a 30-meter height. No parachute, though.",
+   "hidden": false,
+   "pct": 22.9
+  },
+  {
+   "api": "KillShram",
+   "name": "Alas poor Yorick",
+   "desc": "",
+   "hidden": true,
+   "pct": 19.7
+  },
+  {
+   "api": "CanOpener",
+   "name": "Can opener",
+   "desc": "Use a knife to kill an enemy wearing an exoskeleton. Epic battle indeed.",
+   "hidden": false,
+   "pct": 17.5
+  },
+  {
+   "api": "KillKorshunov",
+   "name": "All quiet in the Zone",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.9
+  },
+  {
+   "api": "ShootApples",
+   "name": "Apple-shot",
+   "desc": "",
+   "hidden": true,
+   "pct": 16.8
+  },
+  {
+   "api": "Progressive_NoObstacleTooBig",
+   "name": "No obstacle too big…",
+   "desc": "Kill 50 enemies through obstacles. No one in the Zone is really safe.",
+   "hidden": false,
+   "pct": 16.7
+  },
+  {
+   "api": "KillStrelok",
+   "name": "Legends never die",
+   "desc": "",
+   "hidden": true,
+   "pct": 14.9
+  },
+  {
+   "api": "MerryGoRound",
+   "name": "Merry-go-round",
+   "desc": "Drop a corpse into the Whirlgig anomaly. A joy for someone who never got to ride the Ferris Wheel.",
+   "hidden": false,
+   "pct": 14.6
+  },
+  {
+   "api": "SaveSkadovsk",
+   "name": "The good ol' days",
+   "desc": "",
+   "hidden": true,
+   "pct": 13.1
+  },
+  {
+   "api": "DrunkMaster",
+   "name": "Keeping your hands steady",
+   "desc": "Shoot an enemy in the head, through an obstacle, having the intoxication effect. ",
+   "hidden": false,
+   "pct": 12.8
+  },
+  {
+   "api": "Povodok",
+   "name": "On a leash",
+   "desc": "",
+   "hidden": true,
+   "pct": 11.8
+  },
+  {
+   "api": "EndingStrelok",
+   "name": "She will never be free",
+   "desc": "",
+   "hidden": true,
+   "pct": 10.0
+  },
+  {
+   "api": "DLC1_Woods",
+   "name": "High voltage",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.8
+  },
+  {
+   "api": "AcceptFaustHelp",
+   "name": "One awkward step",
+   "desc": "",
+   "hidden": true,
+   "pct": 9.1
+  },
+  {
+   "api": "DLC1_Agreement",
+   "name": "Casus Belli ",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.7
+  },
+  {
+   "api": "EndingKaymanov",
+   "name": "Project Y",
+   "desc": "",
+   "hidden": true,
+   "pct": 8.6
+  },
+  {
+   "api": "PerfectBarter",
+   "name": "Tit for tat",
+   "desc": "Sidorovich's worst nightmare: buy and sell goods for the exact same amount of coupons in one deal.",
+   "hidden": false,
+   "pct": 8.2
+  },
+  {
+   "api": "LonerShooter",
+   "name": "Loner shooter",
+   "desc": "Shoot an enemy in the head from 75 meters. No scope-peeking!",
+   "hidden": false,
+   "pct": 8.0
+  },
+  {
+   "api": "EndingKorshunov",
+   "name": "Brave new world",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.4
+  },
+  {
+   "api": "DLC1_Science",
+   "name": "The territory of the future",
+   "desc": "",
+   "hidden": true,
+   "pct": 7.2
+  },
+  {
+   "api": "BetweenTheLines",
+   "name": "Between the lines",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.8
+  },
+  {
+   "api": "DLC1_BubbleLeave",
+   "name": "Welcome back",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.6
+  },
+  {
+   "api": "DLC1_OldLegends",
+   "name": "Shadows of the idols",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.5
+  },
+  {
+   "api": "DLC1_HeartHunter",
+   "name": "Get your hands dirty",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.5
+  },
+  {
+   "api": "DLC1_Brainstorm",
+   "name": "It's a no-brainer!",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.2
+  },
+  {
+   "api": "WipedOut",
+   "name": "Wiped out",
+   "desc": "Kill a Rodent using a grenade launcher. A good wipe-out makes the Duty proud.",
+   "hidden": false,
+   "pct": 6.0
+  },
+  {
+   "api": "DLC1_HomeSweetHome",
+   "name": "Kilometer Zero",
+   "desc": "",
+   "hidden": true,
+   "pct": 6.0
+  },
+  {
+   "api": "Progressive_DoStealthKills",
+   "name": "Goodnight",
+   "desc": "Get 20 covert kills. The Zone likes it quiet.",
+   "hidden": false,
+   "pct": 5.5
+  },
+  {
+   "api": "ArchiHoarder",
+   "name": "Curiouser and curiouser!",
+   "desc": "Collect all arch-artifacts. A priceless collection, arguably too weird, even by Zone standards.",
+   "hidden": false,
+   "pct": 5.2
+  },
+  {
+   "api": "CatchingUp",
+   "name": "Catching up",
+   "desc": "Shoot an incoming grenade to make it explode. Nice view!",
+   "hidden": false,
+   "pct": 4.2
+  },
+  {
+   "api": "DLC1_SideMavka",
+   "name": "Freedom of Choice",
+   "desc": "",
+   "hidden": true,
+   "pct": 4.0
+  },
+  {
+   "api": "Discovery",
+   "name": "The four winds",
+   "desc": "Unlock the whole map. Few folks know the Zone this well.",
+   "hidden": false,
+   "pct": 3.9
+  },
+  {
+   "api": "DLC1_ArenaBoss",
+   "name": "The end of the Golden Era",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.8
+  },
+  {
+   "api": "DLC1_SideZulus",
+   "name": "This is our Duty",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.7
+  },
+  {
+   "api": "DLC1_FreedomCamp",
+   "name": "The times of Freedom",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.7
+  },
+  {
+   "api": "DLC1_RailLeader",
+   "name": "His last order",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.5
+  },
+  {
+   "api": "DLC1_TrueFreedomPrice",
+   "name": "Contra spem spero",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.5
+  },
+  {
+   "api": "DLC1_DutyCamp",
+   "name": "In the heart of the enemy",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.4
+  },
+  {
+   "api": "DLC1_OneTrueDuty",
+   "name": "Battle on – and win your battle!",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.3
+  },
+  {
+   "api": "EndingShram",
+   "name": "Today never ends",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.2
+  },
+  {
+   "api": "DLC1_Assembler",
+   "name": "The draw of the Flare",
+   "desc": "",
+   "hidden": true,
+   "pct": 3.1
+  },
+  {
+   "api": "Progressive_Demoman",
+   "name": "BOOM!",
+   "desc": "20 enemies killed by blowing up the surroundings. Save on hand grenades and enjoy the fireworks.",
+   "hidden": false,
+   "pct": 2.1
+  },
+  {
+   "api": "BlueHoarder",
+   "name": "Flash Royal",
+   "desc": "Gather all armor and gear enhancement flash drives.",
+   "hidden": false,
+   "pct": 2.0
+  },
+  {
+   "api": "TheSmartest",
+   "name": "Stalker's smarts",
+   "desc": "",
+   "hidden": true,
+   "pct": 2.0
+  },
+  {
+   "api": "FindAllScanners",
+   "name": "Scanning complete",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.9
+  },
+  {
+   "api": "DLC1_WhatsThatNoise",
+   "name": "Voices of the Zone",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.8
+  },
+  {
+   "api": "SaveChernozem",
+   "name": "Wardens drool",
+   "desc": "",
+   "hidden": true,
+   "pct": 1.7
+  },
+  {
+   "api": "RoyalFlush",
+   "name": "Bingo",
+   "desc": "Experience the effects of bleeding, sleep, hunger, alcohol, radiation and psi. Doesn't sound pretty.",
+   "hidden": false,
+   "pct": 1.6
+  },
+  {
+   "api": "ArtiHoarder",
+   "name": "Miracle hoarder",
+   "desc": "Collect all artifacts. What about arch-artifacts?",
+   "hidden": false,
+   "pct": 1.5
+  }
+ ]
+}

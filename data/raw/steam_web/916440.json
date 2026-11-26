@@ -1,0 +1,905 @@
+{
+ "appid": 916440,
+ "game": null,
+ "snapshot": "2026-11-26 18:13",
+ "source": "steamcommunity/achievements",
+ "count": 112,
+ "achievements": [
+  {
+   "name": "A Ticket Home",
+   "desc": "Obtain a ticket home.",
+   "hidden": true,
+   "pct": 65.9,
+   "api_name": "1",
+   "internal_key": 1024
+  },
+  {
+   "name": "Nosey Parker",
+   "desc": "Open the letter you were asked to deliver to Eli Bleakworth.",
+   "hidden": true,
+   "pct": 41.2,
+   "api_name": "2",
+   "internal_key": 1025
+  },
+  {
+   "name": "Discreet",
+   "desc": "Deliver the letter to Eli Bleakworth unopened.",
+   "hidden": true,
+   "pct": 12.7,
+   "api_name": "3",
+   "internal_key": 1026
+  },
+  {
+   "name": "Back in Business",
+   "desc": "Fulfill Sir Archibald Blake's bulk order.",
+   "hidden": true,
+   "pct": 32.0,
+   "api_name": "4",
+   "internal_key": 1027
+  },
+  {
+   "name": "Dutiful Child",
+   "desc": "Read the whole of your father's diary.",
+   "hidden": true,
+   "pct": 21.9,
+   "api_name": "5",
+   "internal_key": 1028
+  },
+  {
+   "name": "Isabel Found",
+   "desc": "Discover the New World in the campaign.",
+   "hidden": true,
+   "pct": 25.4,
+   "api_name": "6",
+   "internal_key": 1029
+  },
+  {
+   "name": "Special Operations",
+   "desc": "Rescue Isabel's comrades.",
+   "hidden": true,
+   "pct": 16.2,
+   "api_name": "7",
+   "internal_key": 1030
+  },
+  {
+   "name": "The Truth Uncovered",
+   "desc": "Learn the secret behind your father's death.",
+   "hidden": true,
+   "pct": 14.4,
+   "api_name": "8",
+   "internal_key": 1031
+  },
+  {
+   "name": "Fire and Rescue",
+   "desc": "Find all the arsonists and evacuate Bright Sands.",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "9",
+   "internal_key": 1032
+  },
+  {
+   "name": "Supply Chain Management",
+   "desc": "Defend all royal supply ships and destroy all supplies of your enemy.",
+   "hidden": true,
+   "pct": 2.7,
+   "api_name": "10",
+   "internal_key": 1033
+  },
+  {
+   "name": "For Company,...",
+   "desc": "Finish the campaign on normal difficulty.",
+   "hidden": true,
+   "pct": 12.2,
+   "api_name": "11",
+   "internal_key": 1034
+  },
+  {
+   "name": "...Queen,...",
+   "desc": "Finish the campaign on advanced difficulty.",
+   "hidden": true,
+   "pct": 2.2,
+   "api_name": "12",
+   "internal_key": 1035
+  },
+  {
+   "name": "...and Empire.",
+   "desc": "Finish the campaign on expert difficulty.",
+   "hidden": true,
+   "pct": 1.0,
+   "api_name": "13",
+   "internal_key": 1036
+  },
+  {
+   "name": "City Planner",
+   "desc": "Have 10 buildings planned in blueprint mode.",
+   "hidden": true,
+   "pct": 58.1,
+   "api_name": "14",
+   "internal_key": 1037
+  },
+  {
+   "name": "Full Steam Ahead!",
+   "desc": "Build a steam ship.",
+   "hidden": true,
+   "pct": 19.2,
+   "api_name": "16",
+   "internal_key": 1038
+  },
+  {
+   "name": "Climate Change Denier",
+   "desc": "Build a power plant.",
+   "hidden": true,
+   "pct": 23.0,
+   "api_name": "17",
+   "internal_key": 1039
+  },
+  {
+   "name": "Isambard's Kingdom",
+   "desc": "Build wood, stone and railway bridges.",
+   "hidden": true,
+   "pct": 13.4,
+   "api_name": "18",
+   "internal_key": 1040
+  },
+  {
+   "name": "The Great Eastern",
+   "desc": "Obtain The Great Eastern via Archibald's special quest The 'Floating City'",
+   "hidden": true,
+   "pct": 8.6,
+   "api_name": "20",
+   "internal_key": 1041
+  },
+  {
+   "name": "Party Like It's 1851",
+   "desc": "Organise a truly sumptuous exhibition.",
+   "hidden": true,
+   "pct": 5.5,
+   "api_name": "22",
+   "internal_key": 1042
+  },
+  {
+   "name": "Great Exhibitionist",
+   "desc": "Organise an exhibition.",
+   "hidden": true,
+   "pct": 7.9,
+   "api_name": "28",
+   "internal_key": 1043
+  },
+  {
+   "name": "Gold Digger",
+   "desc": "Reach 100,000 coins.",
+   "hidden": true,
+   "pct": 45.1,
+   "api_name": "33",
+   "internal_key": 1044
+  },
+  {
+   "name": "No Business like Ship Business",
+   "desc": "Sell 5 Schooners.",
+   "hidden": true,
+   "pct": 8.2,
+   "api_name": "35",
+   "internal_key": 1045
+  },
+  {
+   "name": "Winter Is Coming",
+   "desc": "Have 10t of Bread, Fish, Beer, Schnapps and Canned Food in stock.",
+   "hidden": true,
+   "pct": 35.9,
+   "api_name": "39",
+   "internal_key": 1046
+  },
+  {
+   "name": "On a Knife Edge",
+   "desc": "Finish an expedition with morale below 15%.",
+   "hidden": true,
+   "pct": 12.9,
+   "api_name": "41",
+   "internal_key": 1047
+  },
+  {
+   "name": "Fake News",
+   "desc": "Swap all the articles in a newspaper and then publish it.",
+   "hidden": true,
+   "pct": 28.7,
+   "api_name": "48",
+   "internal_key": 1048
+  },
+  {
+   "name": "Annoholic",
+   "desc": "Win a custom game with the highest possible difficulty settings.",
+   "hidden": true,
+   "pct": 0.5,
+   "api_name": "50",
+   "internal_key": 1049
+  },
+  {
+   "name": "Choo Choo!",
+   "desc": "Own your first train.",
+   "hidden": true,
+   "pct": 23.4,
+   "api_name": "51",
+   "internal_key": 1050
+  },
+  {
+   "name": "What's That Smell?",
+   "desc": "Have a burning sailing ship.",
+   "hidden": true,
+   "pct": 17.5,
+   "api_name": "63",
+   "internal_key": 1051
+  },
+  {
+   "name": "One for all, all for one.",
+   "desc": "Play a multiplayer match with 3 other players.",
+   "hidden": true,
+   "pct": 2.6,
+   "api_name": "72",
+   "internal_key": 1052
+  },
+  {
+   "name": "Besties",
+   "desc": "Form an alliance with both Bente Jorgensen and Princess Qing.",
+   "hidden": true,
+   "pct": 9.4,
+   "api_name": "76",
+   "internal_key": 1053
+  },
+  {
+   "name": "Bankster",
+   "desc": "Make someone happy by building a bank.",
+   "hidden": true,
+   "pct": 7.9,
+   "api_name": "77",
+   "internal_key": 1054
+  },
+  {
+   "name": "Thank you, Mr. Scrooge.",
+   "desc": "Lure Carl Leonard von Malching into gifting you money.",
+   "hidden": true,
+   "pct": 2.9,
+   "api_name": "78",
+   "internal_key": 1055
+  },
+  {
+   "name": "World Peace",
+   "desc": "Form alliances with all players and pirates.",
+   "hidden": true,
+   "pct": 0.9,
+   "api_name": "79",
+   "internal_key": 1280
+  },
+  {
+   "name": "Chartered Company",
+   "desc": "Reach Investors using only charter routes.",
+   "hidden": true,
+   "pct": 2.1,
+   "api_name": "83",
+   "internal_key": 1281
+  },
+  {
+   "name": "Leviathan",
+   "desc": "Build a battle cruiser.",
+   "hidden": true,
+   "pct": 14.9,
+   "api_name": "86",
+   "internal_key": 1282
+  },
+  {
+   "name": "DLC: Spread Anarchy",
+   "desc": "Publish at least one of Dr. Hugo Mercier's propaganda articles in your newspaper (The Anarchist).",
+   "hidden": true,
+   "pct": 2.9,
+   "api_name": "87",
+   "internal_key": 1283
+  },
+  {
+   "name": "DLC: Propaganda of the Deed",
+   "desc": "Complete 20 anarchy resident quests (The Anarchist).",
+   "hidden": true,
+   "pct": 0.5,
+   "api_name": "88",
+   "internal_key": 1284
+  },
+  {
+   "name": "DLC: Syndicalism",
+   "desc": "Establish an alliance with Dr. Hugo Mercier (The Anarchist).",
+   "hidden": true,
+   "pct": 0.6,
+   "api_name": "89",
+   "internal_key": 1285
+  },
+  {
+   "name": "DLC: No God, No Master",
+   "desc": "Complete Dr. Hugo Mercier's main arc (The Anarchist).",
+   "hidden": true,
+   "pct": 1.1,
+   "api_name": "90",
+   "internal_key": 1286
+  },
+  {
+   "name": "DLC: Anarchy is Dead",
+   "desc": "Defeat Dr. Hugo Mercier (The Anarchist).",
+   "hidden": true,
+   "pct": 0.7,
+   "api_name": "91",
+   "internal_key": 1287
+  },
+  {
+   "name": "DLC: The Better Anarchist",
+   "desc": "Defeat Dr. Hugo Mercier without luxury needs, public services or police stations (The Anarchist).",
+   "hidden": true,
+   "pct": 0.4,
+   "api_name": "92",
+   "internal_key": 1288
+  },
+  {
+   "name": "DLC: Into the Depths",
+   "desc": "Use the Diving Bell for the first time (Sunken Treasures).",
+   "hidden": true,
+   "pct": 10.0,
+   "api_name": "100",
+   "internal_key": 1289
+  },
+  {
+   "name": "DLC: The Queen's Favour",
+   "desc": "Complete the story quest 'The Great Exhibition' (Sunken Treasures).",
+   "hidden": true,
+   "pct": 3.4,
+   "api_name": "101",
+   "internal_key": 1290
+  },
+  {
+   "name": "DLC: An Ocean of Knowledge",
+   "desc": "Complete all the cultural sets from Sunken Treasures (Sunken Treasures).",
+   "hidden": true,
+   "pct": 0.9,
+   "api_name": "102",
+   "internal_key": 1291
+  },
+  {
+   "name": "DLC: The Glamorous Life",
+   "desc": "Reach the 'glamorous' attractiveness level on a city or higher on Crown Falls (Sunken Treasures).",
+   "hidden": true,
+   "pct": 3.0,
+   "api_name": "103",
+   "internal_key": 1292
+  },
+  {
+   "name": "DLC: Seriously Invested",
+   "desc": "Reach 50,000 investors on Crown Falls (Sunken Treasures).",
+   "hidden": true,
+   "pct": 1.7,
+   "api_name": "104",
+   "internal_key": 1293
+  },
+  {
+   "name": "DLC: Importer",
+   "desc": "Supply a metropolis on Crown Falls via trade routes only for 5 minutes (Sunken Treasures).",
+   "hidden": true,
+   "pct": 1.3,
+   "api_name": "105",
+   "internal_key": 1294
+  },
+  {
+   "name": "DLC: Coming Up Roses",
+   "desc": "Complete a Botanical Expedition (Botanica).",
+   "hidden": true,
+   "pct": 4.7,
+   "api_name": "110",
+   "internal_key": 1295
+  },
+  {
+   "name": "DLC: Sounds Familiar",
+   "desc": "Equip a music pavilion with sheet music from Anno (Botanica).",
+   "hidden": true,
+   "pct": 12.4,
+   "api_name": "111",
+   "internal_key": 1296
+  },
+  {
+   "name": "DLC: City in Bloom",
+   "desc": "Place the first botanical ornament in a cultural building (Botanica).",
+   "hidden": true,
+   "pct": 4.5,
+   "api_name": "112",
+   "internal_key": 1297
+  },
+  {
+   "name": "DLC: Encyclopaedia Botanica",
+   "desc": "Complete all the cultural sets for the botanical garden (Botanica).",
+   "hidden": true,
+   "pct": 1.2,
+   "api_name": "113",
+   "internal_key": 1298
+  },
+  {
+   "name": "DLC: Perambulator",
+   "desc": "Build all the botanical ornaments in any cultural building (Botanica).",
+   "hidden": true,
+   "pct": 0.4,
+   "api_name": "114",
+   "internal_key": 1299
+  },
+  {
+   "name": "DLC: Gardens of Babylon",
+   "desc": "Reach 2,500 attractiveness points in a botanical garden (Botanica).",
+   "hidden": true,
+   "pct": 1.0,
+   "api_name": "115",
+   "internal_key": 1300
+  },
+  {
+   "name": "DLC: The Lost Expedition",
+   "desc": "Find Sir John Faithful's lost expedition to the Northwest Passage (The Passage).",
+   "hidden": true,
+   "pct": 4.0,
+   "api_name": "120",
+   "internal_key": 1301
+  },
+  {
+   "name": "DLC: Stick Together",
+   "desc": "Complete 10 Inuit or arctic residents' quests (The Passage).",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "121",
+   "internal_key": 1302
+  },
+  {
+   "name": "DLC: Arcticologist",
+   "desc": "Complete all the cultural sets from the Arctic (The Passage).",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "122",
+   "internal_key": 1303
+  },
+  {
+   "name": "DLC: Fuel Imports",
+   "desc": "Don’t build a charcoal kiln in the Arctic until you pass 1,000 technicians (The Passage).",
+   "hidden": true,
+   "pct": 1.0,
+   "api_name": "123",
+   "internal_key": 1304
+  },
+  {
+   "name": "DLC: Environmental Campaigner",
+   "desc": "Having passed 500 technicians, turn off any heaters heating residences for 60 minutes (The Passage).",
+   "hidden": true,
+   "pct": 0.7,
+   "api_name": "124",
+   "internal_key": 1305
+  },
+  {
+   "name": "DLC: Aero Tycoon",
+   "desc": "Build one hangar on each of the 4 Arctic plateaus (The Passage).",
+   "hidden": true,
+   "pct": 0.4,
+   "api_name": "125",
+   "internal_key": 1306
+  },
+  {
+   "name": "DLC: All Under Control",
+   "desc": "Unlock all the Departments of the Palace (Seat of Power).",
+   "hidden": true,
+   "pct": 6.4,
+   "api_name": "130",
+   "internal_key": 1307
+  },
+  {
+   "name": "DLC: Cultural Capitol",
+   "desc": "Have at least a zoo, a museum, a world's fair and a public mooring within the palace's area of influence for 30 minutes (Seat of Power).",
+   "hidden": true,
+   "pct": 1.1,
+   "api_name": "131",
+   "internal_key": 1308
+  },
+  {
+   "name": "DLC: Apparatus of State",
+   "desc": "Have at least one trade union, town hall and harbourmaster's office, with 4 item slots equipped at each (Seat of Power).",
+   "hidden": true,
+   "pct": 0.5,
+   "api_name": "132",
+   "internal_key": 1309
+  },
+  {
+   "name": "DLC: Prime Minister",
+   "desc": "Unlock all the palace policies (Seat of Power).",
+   "hidden": true,
+   "pct": 2.9,
+   "api_name": "133",
+   "internal_key": 1310
+  },
+  {
+   "name": "DLC: Megopalace",
+   "desc": "Build 40 wings for the palace (Seat of Power).",
+   "hidden": true,
+   "pct": 3.7,
+   "api_name": "134",
+   "internal_key": 1311
+  },
+  {
+   "name": "DLC: Long Term Grains",
+   "desc": "Have one working silo in the Old World region (Bright Harvest).",
+   "hidden": true,
+   "pct": 22.6,
+   "api_name": "140",
+   "internal_key": 1536
+  },
+  {
+   "name": "DLC: Traction Control",
+   "desc": "Have at least 10 farms with working tractors supplied by only one fuel station (Bright Harvest).",
+   "hidden": true,
+   "pct": 3.0,
+   "api_name": "141",
+   "internal_key": 1537
+  },
+  {
+   "name": "DLC: Flawless Defence",
+   "desc": "Build a wooden fence entrance underneath a brick wall gate (Bright Harvest).",
+   "hidden": true,
+   "pct": 0.5,
+   "api_name": "142",
+   "internal_key": 1538
+  },
+  {
+   "name": "DLC: Crop Rotator",
+   "desc": "Improve one of every type of farm with a tractor or silo in the Old and New World regions (Bright Harvest).",
+   "hidden": true,
+   "pct": 1.0,
+   "api_name": "143",
+   "internal_key": 1539
+  },
+  {
+   "name": "DLC: As Far as the Eye Can See",
+   "desc": "Build at least 350 farm fields on any crop farm that requires this amount (Bright Harvest).",
+   "hidden": true,
+   "pct": 0.8,
+   "api_name": "144",
+   "internal_key": 1540
+  },
+  {
+   "name": "DLC: Fuel Efficient",
+   "desc": "Reach a global production rate of fuel of at least 100 tons per minute (Bright Harvest).",
+   "hidden": true,
+   "pct": 0.5,
+   "api_name": "145",
+   "internal_key": 1541
+  },
+  {
+   "name": "DLC: Monumental Knowledge",
+   "desc": "Build the Research Institute (Land of Lions)",
+   "hidden": true,
+   "pct": 4.8,
+   "api_name": "161",
+   "internal_key": 1542
+  },
+  {
+   "name": "DLC: Goatberg Variations",
+   "desc": "The Goats Sing: Mi Ti So Do and ? (Land of Lions)",
+   "hidden": true,
+   "pct": 0.7,
+   "api_name": "162",
+   "internal_key": 1543
+  },
+  {
+   "name": "DLC: Major Discoverer",
+   "desc": "Research all major discoveries at least once. (Land of Lions)",
+   "hidden": true,
+   "pct": 1.0,
+   "api_name": "163",
+   "internal_key": 1544
+  },
+  {
+   "name": "DLC: Stir Crazy",
+   "desc": "Reach a seafood stew production rate of 25 tonnes per minute. (Land of Lions).",
+   "hidden": true,
+   "pct": 0.9,
+   "api_name": "164",
+   "internal_key": 1545
+  },
+  {
+   "name": "DLC: Conciliator",
+   "desc": "Unify Waha Desher, Kidusi Anitoni and Angereb with Enbesa. (Land of Lions).",
+   "hidden": true,
+   "pct": 1.6,
+   "api_name": "165",
+   "internal_key": 1546
+  },
+  {
+   "name": "DLC: The Wilde Ones",
+   "desc": "Reach a population of 25,000 scholars (Land of Lions)",
+   "hidden": true,
+   "pct": 1.4,
+   "api_name": "166",
+   "internal_key": 1547
+  },
+  {
+   "name": "DLC: Devil of a Deal",
+   "desc": "Establish three Export/Import Contract (Docklands)",
+   "hidden": true,
+   "pct": 10.0,
+   "api_name": "171",
+   "internal_key": 1548
+  },
+  {
+   "name": "DLC: For the Long Haul",
+   "desc": "Unlock all of a trade partner's goods (Docklands)",
+   "hidden": true,
+   "pct": 6.2,
+   "api_name": "172",
+   "internal_key": 1549
+  },
+  {
+   "name": "DLC: The Actual Art of the Deal",
+   "desc": "Simultaneously have goods in every specialty slot (Docklands)",
+   "hidden": true,
+   "pct": 3.1,
+   "api_name": "173",
+   "internal_key": 1550
+  },
+  {
+   "name": "DLC: The Voiceless City",
+   "desc": "Build 100 docklands modules across all islands (Docklands)",
+   "hidden": true,
+   "pct": 3.2,
+   "api_name": "174",
+   "internal_key": 1551
+  },
+  {
+   "name": "DLC: Snagging the Market",
+   "desc": "Upgrade 10 goods to Household Name level (Docklands)",
+   "hidden": true,
+   "pct": 0.6,
+   "api_name": "175",
+   "internal_key": 1552
+  },
+  {
+   "name": "DLC: Flooding the Market",
+   "desc": "Export 50,000t of any one good(Docklands)",
+   "hidden": true,
+   "pct": 2.9,
+   "api_name": "176",
+   "internal_key": 1553
+  },
+  {
+   "name": "DLC: By the Busload",
+   "desc": "Attract 500 Tourists (Tourist Season).",
+   "hidden": true,
+   "pct": 5.3,
+   "api_name": "181",
+   "internal_key": 1554
+  },
+  {
+   "name": "DLC: Experimental Chef",
+   "desc": "Unlock 1 Additional Recipe (Tourist Season).",
+   "hidden": true,
+   "pct": 6.5,
+   "api_name": "182",
+   "internal_key": 1555
+  },
+  {
+   "name": "DLC: Busman's Holiday",
+   "desc": "Connect a Zoo and a Museum to a Hotel by bus, and fulfill these needs to at least 50%. (Tourist Season).",
+   "hidden": true,
+   "pct": 5.2,
+   "api_name": "183",
+   "internal_key": 1556
+  },
+  {
+   "name": "DLC: All Inclusive",
+   "desc": "Fulfill the need for Restaurants, Bars and Cafés by 100% for at least 5 Hotels for 1 hour (Tourist Season).",
+   "hidden": true,
+   "pct": 1.9,
+   "api_name": "184",
+   "internal_key": 1557
+  },
+  {
+   "name": "DLC: Memento Mori",
+   "desc": "Reach a souvenir demand of more than 30t/min, and then supply it (Tourist Season).",
+   "hidden": true,
+   "pct": 0.8,
+   "api_name": "185",
+   "internal_key": 1558
+  },
+  {
+   "name": "DLC: La Dame De Fer",
+   "desc": "Construct the 'Iron Tower' (Tourist Season).",
+   "hidden": true,
+   "pct": 3.4,
+   "api_name": "186",
+   "internal_key": 1559
+  },
+  {
+   "name": "DLC: Going Up!",
+   "desc": "Build three engineer and three investor skyscrapers (The High Life).",
+   "hidden": true,
+   "pct": 4.8,
+   "api_name": "191",
+   "internal_key": 1560
+  },
+  {
+   "name": "DLC: It's Black Friday!",
+   "desc": "Achieve the toasters, crockery and vacuum cleaners bonus effect for at least 150 residences at the same time (The High Life).",
+   "hidden": true,
+   "pct": 0.8,
+   "api_name": "192",
+   "internal_key": 1561
+  },
+  {
+   "name": "DLC: Reach for the Stars – Almost!",
+   "desc": "Build the Skyline Tower (The High Life).",
+   "hidden": true,
+   "pct": 2.0,
+   "api_name": "193",
+   "internal_key": 1562
+  },
+  {
+   "name": "DLC: Better Safe Than Sorry",
+   "desc": "Organize a Plan B with Miss Jenny during the Skyline Tower quest (The High Life).",
+   "hidden": true,
+   "pct": 1.5,
+   "api_name": "194",
+   "internal_key": 1563
+  },
+  {
+   "name": "DLC: 360° Panorama!",
+   "desc": "Have 10 Intense Panorama Effects in your investor skyscrapers at the same time (The High Life).",
+   "hidden": true,
+   "pct": 3.2,
+   "api_name": "195",
+   "internal_key": 1564
+  },
+  {
+   "name": "DLC: Tower Of Power",
+   "desc": "Have 3,400 investors living in the Skyline Tower (The High Life).",
+   "hidden": true,
+   "pct": 0.9,
+   "api_name": "196",
+   "internal_key": 1565
+  },
+  {
+   "name": "DLC: El Gran Hacendado",
+   "desc": "Build all hacienda modules (Seeds of Change).",
+   "hidden": true,
+   "pct": 2.9,
+   "api_name": "197",
+   "internal_key": 1566
+  },
+  {
+   "name": "DLC: Muck Spreader",
+   "desc": "Use fertiliser to boost a farm outside of the New World (Seeds of Change).",
+   "hidden": true,
+   "pct": 3.0,
+   "api_name": "198",
+   "internal_key": 1567
+  },
+  {
+   "name": "DLC: Earthly Delights",
+   "desc": "Have every kind of hacienda crop farm operating simultaneously on a single island (Seeds of Change).",
+   "hidden": true,
+   "pct": 0.8,
+   "api_name": "199",
+   "internal_key": 1792
+  },
+  {
+   "name": "DLC: Lawgiver",
+   "desc": "Have every hacienda edict employed simultaneously across your islands (Seeds of Change).",
+   "hidden": true,
+   "pct": 0.3,
+   "api_name": "200",
+   "internal_key": 1793
+  },
+  {
+   "name": "DLC: Great Estate",
+   "desc": "Have more than 20 modules linked to a single hacienda (Seeds of Change).",
+   "hidden": true,
+   "pct": 5.2,
+   "api_name": "201",
+   "internal_key": 1794
+  },
+  {
+   "name": "DLC: Living it Large",
+   "desc": "Achieve a population of 2,000 on a single island, using only hacienda residence buildings (Seeds of Change).",
+   "hidden": true,
+   "pct": 36.2,
+   "api_name": "202",
+   "internal_key": 1795
+  },
+  {
+   "name": "DLC: Fully Operational",
+   "desc": "Build an airship platform with all modules (Empire of the Skies).",
+   "hidden": true,
+   "pct": 6.1,
+   "api_name": "203",
+   "internal_key": 1796
+  },
+  {
+   "name": "DLC: Touch the Sky",
+   "desc": "Build a rigid airship hangar and construct an airship (Empire of the Skies).",
+   "hidden": true,
+   "pct": 7.2,
+   "api_name": "204",
+   "internal_key": 1797
+  },
+  {
+   "name": "DLC: Profits Rising",
+   "desc": "Have 15 active trade routes using airships (Empire of the Skies).",
+   "hidden": true,
+   "pct": 2.3,
+   "api_name": "205",
+   "internal_key": 1798
+  },
+  {
+   "name": "DLC: Si Vis Pacem, Para Bellum",
+   "desc": "Have 20+ flak monitors and 20+ flak emplacements in the same region (Empire of the Skies).",
+   "hidden": true,
+   "pct": 0.4,
+   "api_name": "206",
+   "internal_key": 1799
+  },
+  {
+   "name": "DLC: Make it Rain",
+   "desc": "Perform 50 airship drop runs (Empire of the Skies).",
+   "hidden": true,
+   "pct": 0.7,
+   "api_name": "207",
+   "internal_key": 1800
+  },
+  {
+   "name": "DLC: Aerial Armada",
+   "desc": "Build 5 of each of the new rigid airships (Empire of the Skies).",
+   "hidden": true,
+   "pct": 0.3,
+   "api_name": "209",
+   "internal_key": 1801
+  },
+  {
+   "name": "Brain Gain",
+   "desc": "Attract 100 artistas.",
+   "hidden": true,
+   "pct": 7.5,
+   "api_name": "210",
+   "internal_key": 1802
+  },
+  {
+   "name": "An Outpost in Paradise",
+   "desc": "Settle on Manola.",
+   "hidden": true,
+   "pct": 11.4,
+   "api_name": "211",
+   "internal_key": 1803
+  },
+  {
+   "name": "Powered Up",
+   "desc": "Provide electricity to 20 factories in the New World.",
+   "hidden": true,
+   "pct": 5.0,
+   "api_name": "212",
+   "internal_key": 1804
+  },
+  {
+   "name": "Committed To Your Goals",
+   "desc": "Construct a stadium and launch a football championship.",
+   "hidden": true,
+   "pct": 2.6,
+   "api_name": "213",
+   "internal_key": 1805
+  },
+  {
+   "name": "Busy As A Beaver",
+   "desc": "Complete the construction of the dam.",
+   "hidden": true,
+   "pct": 3.8,
+   "api_name": "214",
+   "internal_key": 1806
+  },
+  {
+   "name": "State of the Art",
+   "desc": "Host 50,000 Artistas on Manola.",
+   "hidden": true,
+   "pct": 0.5,
+   "api_name": "215",
+   "internal_key": 1807
+  }
+ ]
+}
