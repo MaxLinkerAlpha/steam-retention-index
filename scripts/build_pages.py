@@ -253,10 +253,11 @@ button.primary:hover{background:rgba(76,194,255,.2);color:#bfe9ff}
 .chip-sel button{border:0;background:none;padding:0 3px;color:var(--tx3);font-size:14px;line-height:1}
 .chip-sel button:hover{color:var(--bad)}
 .chips-wrap{display:flex;gap:6px;flex-wrap:wrap;flex:1;min-width:0}
-.empty{padding:52px 16px;text-align:center;color:var(--tx3);font-size:13px;border:1px dashed var(--line2);
-  border-radius:10px;margin:6px 0}
-.empty b{color:var(--tx2);font-weight:400}
-.empty .acts{margin-top:14px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.empty{padding:44px 18px;text-align:center;color:var(--tx2);font-size:13.5px;border:1px dashed var(--line2);
+  border-radius:10px;margin:6px 0;line-height:1.75}
+.empty b{color:var(--tx);font-weight:400}
+.empty .acts{margin-top:16px;display:flex;gap:10px;justify-content:center;flex-wrap:wrap;align-items:center}
+.empty .acts .hint{font-size:12px;color:var(--tx3)}
 .chart{overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch}
 .chart svg{display:block;width:100%;min-width:720px;height:auto}
 .chart svg text.ax{fill:#66707f;font-size:10.5px}
@@ -377,7 +378,7 @@ JS = r"""
     var on=boxes.filter(function(b){return b.checked;});
     chips.innerHTML='';
     if(!on.length){
-      chips.innerHTML='<span class="tip" style="margin:0">未选择作品</span>';
+      chips.innerHTML='';
     }
     on.forEach(function(b){
       var tr=b.closest('tr');
@@ -575,8 +576,8 @@ def main():
     </div>
     <div class="empty" id="empty1"><div class="msg"></div>
       <div class="acts">
-        <button class="primary" id="demo" data-k="{demo_attr}">看三款代表作</button>
-        <button onclick="document.getElementById('add').click()">自己挑</button>
+        <button id="demo" data-k="{demo_attr}">看三款代表作</button>
+        <span class="hint">或从上方「添加作品」自己挑</span>
       </div>
     </div>
     <div class="chart">{line_chart(curves)}</div>
