@@ -323,8 +323,9 @@ tbody tr:hover{background:var(--panel2)}
 .pick:hover{background:var(--panel2);color:var(--tx)}
 .pick i{width:8px;height:8px;border-radius:2px;flex:none}
 .pick span{margin-left:auto;font-size:10.5px;color:var(--tx3);flex:none}
-.pick.on{color:var(--tx)}
+.pick.on{color:var(--tx);background:rgba(76,194,255,.08)}
 .pick.on span{color:#8fd8ff}
+.pick.on i{box-shadow:0 0 0 2px rgba(76,194,255,.35)}
 .pickfoot{padding:9px 16px;border-top:1px solid var(--line);font-size:11px;color:var(--tx3);display:flex;
   justify-content:space-between;align-items:center}
 ul.tight{margin:0;padding-left:18px;font-size:12.5px;color:var(--tx2);line-height:1.75}
@@ -549,12 +550,12 @@ def main():
                box, r["color"], r["name"], r["appid"], r["n"], r["start"], r["deep"],
                "#7fe0b2" if r["rel"] >= 40 else "#ffb977" if r["rel"] >= 20 else "#ff8080", r["rel"],
                ("%.1f%%" % r["finish"]) if r["finish"] is not None else "—", tag))
-        picks.append('<button class="pick" data-k="%s" data-c="%s" data-name="%s">'
-                     '<i style="background:%s"></i>%s<span>%s</span></button>'
-                     % (k, "1" if c else "0", r["name"].replace('"', "&quot;"), r["color"], r["name"],
-                        ("%d 段" % len(c["nodes"])) if c else "仅剖面"))
-
-    picks.sort(key=lambda s: ('data-c="0"' in s, s))
+        picks.append(((0 if c else 1, r["name"].lower()),
+                      '<button class="pick" data-k="%s" data-c="%s" data-name="%s">'
+                      '<i style="background:%s"></i>%s<span>%s</span></button>'
+                      % (k, "1" if c else "0", r["name"].replace('"', "&quot;"), r["color"], r["name"],
+                         ("%d 段" % len(c["nodes"])) if c else "仅剖面")))
+    picks = [h for _, h in sorted(picks, key=lambda t: t[0])]
     demo_keys = []
     for want in ("Elden Ring", "Baldur's Gate 3", "Cyberpunk 2077"):
         for r in recs:
