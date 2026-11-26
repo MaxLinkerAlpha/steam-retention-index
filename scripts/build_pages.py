@@ -111,26 +111,34 @@ def load():
     return recs, curves, snap, prof
 
 
-def line_chart(curves):
-    W, H = 960, 440
-    L, R, T, Bm = 52, 168, 26, 52
+def line_chart(curves, mobile=False):
+    if mobile:
+        W, H, L, R, T, Bm = 400, 306, 34, 44, 18, 40
+    else:
+        W, H, L, R, T, Bm = 960, 440, 52, 168, 26, 52
+    cls = "axm" if mobile else "ax"
+    cls2 = "axm2" if mobile else "ax2"
     pw, ph = W - L - R, H - T - Bm
     X = lambda p: L + p / 100.0 * pw
     Y = lambda v: T + (100.0 - v) / 90.0 * ph
     esc = lambda s: s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     o = ['<svg viewBox="0 0 %d %d" role="img" aria-label="所选作品的章节留存曲线">' % (W, H)]
-    for g in range(10, 101, 10):
+    ystep = 20 if mobile else 10
+    for g in range(ystep, 101, ystep):
         o.append('<line x1="%d" y1="%.1f" x2="%d" y2="%.1f" stroke="#1b222c"/>' % (L, Y(g), L + pw, Y(g)))
-        o.append('<text class="ax" x="%d" y="%.1f" text-anchor="end">%d%%</text>' % (L - 8, Y(g) + 3.5, g))
+        o.append('<text class="%s" x="%d" y="%.1f" text-anchor="end">%d%%</text>' % (cls, L - 6, Y(g) + 3.5, g))
     o.append('<line x1="%d" y1="%.1f" x2="%d" y2="%.1f" stroke="#39445a" stroke-dasharray="4 5"/>'
              % (L, Y(50), L + pw, Y(50)))
-    o.append('<text class="ax2" x="%d" y="%.1f">一半玩家留到这里</text>' % (L + 6, Y(50) - 6))
-    for p in range(0, 101, 20):
-        o.append('<text class="ax" x="%.1f" y="%d" text-anchor="middle">%d%%</text>'
-                 % (X(p), H - 28, p))
-    o.append('<text class="ax2" x="%.1f" y="%d" text-anchor="middle">'
-             '剧情推进（起点 → 结局，按节点等距）</text>' % (L + pw / 2, H - 8))
-    o.append('<g id="curves">')
+    if not mobile:
+        o.append('<text class="%s" x="%d" y="%.1f">一半玩家留到这里</text>' % (cls2, L + 6, Y(50) - 6))
+    xstep = 50 if mobile else 20
+    for p in range(0, 101, xstep):
+        o.append('<text class="%s" x="%.1f" y="%d" text-anchor="middle">%d%%</text>'
+                 % (cls, X(p), H - (22 if mobile else 28), p))
+    o.append('<text class="%s" x="%.1f" y="%d" text-anchor="middle">%s</text>'
+             % (cls2, L + pw / 2, H - (6 if mobile else 8),
+                '剧情推进（按节点等距）' if mobile else '剧情推进（起点 → 结局，按节点等距）'))
+    o.append('<g class="curves">')
     ends = []
     for c in curves:
         rel = [n["pct"] / c["base"] * 100 for n in c["nodes"]]
@@ -156,31 +164,40 @@ def line_chart(curves):
                      '<title>%s</title></circle>' % (x, y, c["color"], tip))
         o.append('</g>')
         ends.append([c["key"], pts[-1][0] + 9, pts[-1][1] + 4, c["color"], rel[-1]])
+    ecls = "elm" if mobile else "el"
     for k, ex, ey, col, val in ends:
-        o.append('<text class="el" data-k="%s" data-y="%.1f" fill="%s" x="-99" y="-99" '
-                 'style="display:none">%.1f</text>' % (k, ey, col, val))
+        o.append('<text class="%s" data-k="%s" data-y="%.1f" fill="%s" x="-99" y="-99" '
+                 'style="display:none">%.1f</text>' % (ecls, k, ey, col, val))
     o.append('</g></svg>')
     return "".join(o)
 
 
-def profile_chart(recs, prof):
-    W, H = 960, 380
-    L, R, T, Bm = 52, 20, 22, 52
+def profile_chart(recs, prof, mobile=False):
+    if mobile:
+        W, H, L, R, T, Bm = 400, 300, 34, 16, 18, 40
+    else:
+        W, H, L, R, T, Bm = 960, 380, 52, 20, 22, 52
+    cls = "axm" if mobile else "ax"
+    cls2 = "axm2" if mobile else "ax2"
     pw, ph = W - L - R, H - T - Bm
     X = lambda q: L + q / 100.0 * pw
     Y = lambda v: T + (100.0 - v) / 100.0 * ph
     esc = lambda t: t.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
     o = ['<svg viewBox="0 0 %d %d" role="img" aria-label="内容消耗剖面：成就难易分位与解锁率">' % (W, H)]
-    for v in range(0, 101, 20):
+    ystep = 25 if mobile else 20
+    for v in range(0, 101, ystep):
         o.append('<line x1="%d" y1="%.1f" x2="%d" y2="%.1f" stroke="#1b222c"/>' % (L, Y(v), L + pw, Y(v)))
-        o.append('<text class="ax" x="%d" y="%.1f" text-anchor="end">%d%%</text>' % (L - 8, Y(v) + 3.5, v))
-    for q in range(0, 101, 20):
-        o.append('<text class="ax" x="%.1f" y="%d" text-anchor="middle">%d%%</text>' % (X(q), H - 28, q))
-    o.append('<text class="ax2" x="%.1f" y="%d" text-anchor="middle">'
-             '成就难易分位（0%% = 最容易拿到 · 100%% = 最难）</text>' % (L + pw / 2, H - 8))
-    o.append('<text class="ax2" x="%d" y="%d">解锁率</text>' % (L, T - 6))
+        o.append('<text class="%s" x="%d" y="%.1f" text-anchor="end">%d%%</text>' % (cls, L - 6, Y(v) + 3.5, v))
+    xstep = 50 if mobile else 20
+    for q in range(0, 101, xstep):
+        o.append('<text class="%s" x="%.1f" y="%d" text-anchor="middle">%d%%</text>'
+                 % (cls, X(q), H - (22 if mobile else 28), q))
+    o.append('<text class="%s" x="%.1f" y="%d" text-anchor="middle">%s</text>'
+             % (cls2, L + pw / 2, H - (6 if mobile else 8),
+                '成就难易分位' if mobile else '成就难易分位（0%% = 最容易拿到 · 100%% = 最难）'))
+    o.append('<text class="%s" x="%d" y="%d">解锁率</text>' % (cls2, L, T - 5))
 
-    o.append('<g id="prof-all" style="display:none">')
+    o.append('<g class="prof-all" style="display:none">')
     for r in recs:
         pr = prof.get(r["appid"])
         if not pr:
@@ -258,11 +275,14 @@ button.primary:hover{background:rgba(76,194,255,.2);color:#bfe9ff}
 .empty b{color:var(--tx);font-weight:400}
 .empty .acts{margin-top:16px;display:flex;gap:10px;justify-content:center;flex-wrap:wrap;align-items:center}
 .empty .acts .hint{font-size:12px;color:var(--tx3)}
-.chart{overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch}
-.chart svg{display:block;width:100%;min-width:720px;height:auto}
+.chart svg{display:block;width:100%;height:auto}
 .chart svg text.ax{fill:#66707f;font-size:10.5px}
 .chart svg text.ax2{fill:#5b677d;font-size:10.5px}
 .chart svg text.el{font-size:10.5px;font-weight:600}
+.chart svg text.axm{fill:#8b95a6;font-size:12.5px}
+.chart svg text.axm2{fill:#7a8595;font-size:12.5px}
+.chart svg text.elm{font-size:12.5px;font-weight:600}
+.only-mob{display:none}
 .chart svg .ser:hover .ln{stroke-width:3.2}
 .chart svg .hit{cursor:help}
 .tip{font-size:11.5px;color:var(--tx3);margin:8px 0 0}
@@ -326,9 +346,8 @@ footer{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);font-si
   .stat span{font-size:11px}
   section{margin:24px 0 0}
   .panel{padding:11px;border-radius:10px}
-  .chart svg{min-width:680px}
-  .chart{-webkit-overflow-scrolling:touch}
-  .swipe{display:block;font-size:11px;color:var(--tx3);margin-top:6px;text-align:right}
+  .only-desk{display:none}
+  .only-mob{display:block}
   .toolbar{gap:8px}
   .chips-wrap{order:3;flex:1 0 100%;flex-wrap:nowrap;overflow-x:auto;padding-bottom:2px}
   .chips-wrap::-webkit-scrollbar{height:0}
@@ -347,7 +366,6 @@ JS = r"""
   var boxes=[].slice.call(document.querySelectorAll('input.ck'));
   var chips=document.getElementById('chips');
   var empty1=document.getElementById('empty1'), empty2=document.getElementById('empty2');
-  var profAll=document.getElementById('prof-all');
   var cnt1=document.getElementById('chartcnt');
 
   function curveEl(k){return document.querySelector('#curves g.ser[data-k="'+k+'"]');}
@@ -358,28 +376,33 @@ JS = r"""
   }
   function hasCurve(k){return !!HAS[k];}
 
-  var els=[].slice.call(document.querySelectorAll('text.el'));
-  function shown(k){var g=curveEl(k);return g&&g.style.display!=='none';}
-  function layout(){
+  function shown(k){
+    var g=document.querySelector('.curves g.ser[data-k="'+k+'"]');
+    return g&&g.style.display!=='none';
+  }
+  function layoutSet(sel,ncol,x0,dx,gap,maxOff){
+    var els=[].slice.call(document.querySelectorAll('text.'+sel));
     els.forEach(function(e){e.style.display='none';});
     var on=els.filter(function(e){return shown(e.dataset.k);});
     on.sort(function(a,b){return a.dataset.y-b.dataset.y;});
-    var cols=[[],[],[]];
+    var cols=[];
+    for(var i=0;i<ncol;i++)cols.push([]);
     on.forEach(function(e){
       var y0=+e.dataset.y,best=null;
-      for(var c=0;c<3;c++){
+      for(var c=0;c<ncol;c++){
         var last=cols[c].length?cols[c][cols[c].length-1]:-1e9;
-        var y=Math.max(y0,last+11);
-        if(y-y0>90)continue;
+        var y=Math.max(y0,last+gap);
+        if(y-y0>maxOff)continue;
         if(!best||y<best.y)best={c:c,y:y};
       }
       if(!best)return;
       cols[best.c].push(best.y);
-      e.setAttribute('x',(801+best.c*40).toFixed(1));
+      e.setAttribute('x',(x0+best.c*dx).toFixed(1));
       e.setAttribute('y',best.y.toFixed(1));
       e.style.display='';
     });
   }
+  function layout(){layoutSet('el',3,801,40,11,90);layoutSet('elm',1,360,0,13,110);}
 
   function renderChips(){
     var on=boxes.filter(function(b){return b.checked;});
@@ -410,7 +433,7 @@ JS = r"""
     var on=boxes.filter(function(b){return b.checked;});
     var m=countCurves();
     cnt1.textContent=on.length?('已选 '+on.length+' 款 · 曲线 '+m+' 条'):'';
-    if(profAll)profAll.style.display=on.length?'':'none';
+    document.querySelectorAll('.prof-all').forEach(function(g){g.style.display=on.length?'':'none';});
     if(empty1){
       empty1.style.display=m?'none':'';
       empty1.querySelector('.msg').innerHTML=on.length
@@ -587,8 +610,8 @@ def main():
         <span class="hint">或从上方「添加作品」自己挑</span>
       </div>
     </div>
-    <div class="chart">{line_chart(curves)}</div>
-    <div class="swipe">← 左右滑动查看完整曲线 →</div>
+    <div class="chart only-desk">{line_chart(curves)}</div>
+    <div class="chart only-mob">{line_chart(curves, mobile=True)}</div>
     <p class="tip">实线 = 多节点章节 · 虚线 = 只有「起点 → 通关」两个点 · <span style="color:var(--tx2)">手机可左右滑动</span></p>
   </div>
 </section>
@@ -598,7 +621,8 @@ def main():
   <p class="sub">换一个不依赖章节的尺度：横轴把所有成就按解锁率从易到难排开，看玩家把内容吃到了多深。{len(recs)} 款全部可画。</p>
   <div class="panel">
     <div class="empty" id="empty2">勾选作品后，这里会显示它的成就难易剖面，并叠在全库灰底之上。</div>
-    <div class="chart">{profile_chart(recs, prof)}</div>
+    <div class="chart only-desk">{profile_chart(recs, prof)}</div>
+    <div class="chart only-mob">{profile_chart(recs, prof, mobile=True)}</div>
     <p class="tip">曲线越平、越靠上 = 内容消耗越深；越早贴地 = 大多数人只摸了开头。灰底为全部作品。</p>
   </div>
 </section>
