@@ -3,10 +3,10 @@
 """把 issue 里提交的 appid 收进库。
 
 设计约束（写死在代码里，不靠人记）：
-  · 单次最多 3 个 appid      —— 防止一条 issue 塞几十个
-  · 每天最多 10 个新 appid   —— 全站配额，超了排队到明天
+  · 单次最多 5 个 appid      —— 防止一条 issue 塞几十个
+  · 每天最多 30 个新 appid   —— 全站配额，超了排队到明天
   · 每个 appid 只发 3 个请求  —— appdetails + 官方百分比 + 成就页
-  · 请求间隔 ≥ 8 秒          —— 远低于 Steam 的 200 次/5 分钟
+  · 请求间隔 ≥ 6 秒          —— 30 款全排满也只有 90 次请求 / 约 3 分钟
   · 已收录直接跳过            —— 不重复抓
   · 抓过 7 天内不重抓         —— raw/steam_web 缓存即事实来源
 
@@ -31,9 +31,9 @@ DATA = os.path.join(ROOT, "data")
 WEB = os.path.join(ROOT, "data", "raw", "steam_web")
 QUEUE = os.path.join(DATA, "submissions.json")
 
-MAX_PER_ISSUE = 3
-DAILY_LIMIT = int(os.environ.get("DAILY_LIMIT", "10"))
-SLEEP = float(os.environ.get("FETCH_SLEEP", "8"))
+MAX_PER_ISSUE = 5
+DAILY_LIMIT = int(os.environ.get("DAILY_LIMIT", "30"))
+SLEEP = float(os.environ.get("FETCH_SLEEP", "6"))
 UA = "steam-retention-index/1.0 (research; low-frequency; contact via GitHub issue)"
 TZ = timezone(timedelta(hours=8))
 

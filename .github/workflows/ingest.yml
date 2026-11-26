@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       appids:
-        description: "手动测试：要收录的 appid（逗号分隔，最多 3 个）"
+        description: "手动测试：要收录的 appid（逗号分隔，最多 5 个）"
         required: false
 
 permissions:
@@ -96,7 +96,7 @@ jobs:
               pick('REJECTED') ? '- 退回：' + pick('REJECTED') : '',
               pick('QUOTA') ? '- 今日配额：' + pick('QUOTA') : '',
               '',
-              '新作品通常几分钟内出现在页面上。抓取间隔 ≥ 8 秒，全站每天最多 10 个，只做低频率的研究性读取。'
+              '新作品通常几分钟内出现在页面上。抓取间隔 ≥ 6 秒，全站每天最多 30 个，只做低频率的研究性读取。'
             ].filter(Boolean).join('\n');
             await github.rest.issues.createComment({
               owner: context.repo.owner, repo: context.repo.repo,

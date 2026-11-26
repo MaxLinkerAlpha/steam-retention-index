@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         **只需填 Steam appid** —— 就是商店链接 `store.steampowered.com/app/` **1245620** `/` 里那串数字。
-        一次最多 3 个，每天全站最多处理 10 个，超出会排在后面的某天。
+        一次最多 5 个，每天全站最多处理 30 个，超出会排在后面的某天。
 
         提交前请确认：这是**单机 / 买断制**游戏，且**有 Steam 成就**。
         联机、纯沙盒、无成就的作品读不出留存，会被自动退回。
@@ -15,8 +15,8 @@ body:
     id: appids
     attributes:
       label: Steam appid
-      description: 多个用空格或逗号分隔，最多 3 个
-      placeholder: "1245620, 1086940"
+      description: 多个用空格或逗号分隔，最多 5 个
+      placeholder: "1245620, 1086940, 292030"
     validations:
       required: true
   - type: textarea
