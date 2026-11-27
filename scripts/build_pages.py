@@ -349,7 +349,9 @@ footer{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);font-si
   .panel{padding:11px;border-radius:10px}
   .only-desk{display:none}
   .only-mob{display:block}
-  .toolbar{gap:8px}
+  .toolbar{gap:6px}
+  .toolbar button{padding:6px 9px;font-size:12px}
+  .bgroup button{margin-left:-1px}
   .chips-wrap{order:3;flex:1 0 100%;flex-wrap:nowrap;overflow-x:auto;padding-bottom:2px}
   .chips-wrap::-webkit-scrollbar{height:0}
   #chartcnt{order:4;flex:1 0 100%;margin:0}
@@ -482,10 +484,21 @@ JS = r"""
   }
   document.getElementById('pq').addEventListener('input',function(e){filter(e.target.value);});
 
-  document.getElementById('clr').onclick=function(){
-    boxes.forEach(function(b){if(b.checked){b.checked=false;paint(b.dataset.k,false);}});
+  function rowVisible(b){
+    var tr=b.closest('tr');
+    return !tr || tr.style.display!=='none';
+  }
+  function bulk(fn){
+    boxes.forEach(function(b){
+      if(!rowVisible(b))return;
+      var v=fn(b);
+      if(b.checked!==v){b.checked=v;paint(b.dataset.k,v);}
+    });
     refresh();
-  };
+  }
+  document.getElementById('sel-all').onclick=function(){bulk(function(){return true;});};
+  document.getElementById('sel-inv').onclick=function(){bulk(function(b){return !b.checked;});};
+  document.getElementById('clr').onclick=function(){bulk(function(){return false;});};
   var demo=document.getElementById('demo');
   if(demo)demo.onclick=function(){
     (demo.dataset.k||'').split(',').forEach(function(k){if(k)set(k,true);});
@@ -601,7 +614,11 @@ def main():
   <div class="panel">
     <div class="toolbar">
       <button class="primary" id="add">＋ 添加作品</button>
-      <button id="clr">清空</button>
+      <span class="bgroup">
+        <button id="sel-all" title="勾选当前筛选结果里的全部作品">全选</button>
+        <button id="sel-inv" title="在当前筛选结果内反转勾选">反选</button>
+        <button id="clr" title="取消当前筛选结果里的全部勾选">清空</button>
+      </span>
       <div class="chips-wrap" id="chips"></div>
       <span class="tip" id="chartcnt" style="margin:0"></span>
     </div>
