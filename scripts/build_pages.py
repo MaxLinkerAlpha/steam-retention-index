@@ -111,7 +111,7 @@ def load():
     return recs, curves, snap, prof
 
 
-def line_chart(curves, mobile=False):
+def line_chart(curves, mobile=False, default_on=()):
     if mobile:
         W, H, L, R, T, Bm = 400, 306, 34, 44, 18, 40
     else:
@@ -138,6 +138,16 @@ def line_chart(curves, mobile=False):
     o.append('<text class="%s" x="%.1f" y="%d" text-anchor="middle">%s</text>'
              % (cls2, L + pw / 2, H - (6 if mobile else 8),
                 '剧情推进（按节点等距）' if mobile else '剧情推进（起点 → 结局，按节点等距）'))
+    o.append('<g class="ghostwrap" style="display:none">')
+    for c in curves:
+        rel = [n["pct"] / c["base"] * 100 for n in c["nodes"]]
+        n = len(rel)
+        pts = [(X(j / (n - 1) * 100.0), Y(v)) for j, v in enumerate(rel)]
+        d = "M %.1f %.1f " % pts[0] + " ".join("L %.1f %.1f" % p for p in pts[1:])
+        hid = ' style="display:none"' if c["key"] in default_on else ""
+        o.append('<g class="gh" data-k="%s"%s><path d="%s" fill="none" stroke="#7c879b" '
+                 'stroke-width="0.85" opacity=".17"/></g>' % (c["key"], hid, d))
+    o.append('</g>')
     o.append('<g class="curves">')
     ends = []
     for c in curves:
@@ -376,6 +386,7 @@ JS = r"""
 
   function paint(k,on){
     document.querySelectorAll('g.ser[data-k="'+k+'"]').forEach(function(g){g.style.display=on?'':'none';});
+    document.querySelectorAll('g.gh[data-k="'+k+'"]').forEach(function(g){g.style.display=on?'none':'';});
   }
   function hasCurve(k){return !!HAS[k];}
 
@@ -437,6 +448,7 @@ JS = r"""
     var m=countCurves();
     cnt1.textContent=on.length?('已选 '+on.length+' 款 · 曲线 '+m+' 条'):'';
     document.querySelectorAll('.prof-all').forEach(function(g){g.style.display=on.length?'':'none';});
+    document.querySelectorAll('.ghostwrap').forEach(function(g){g.style.display=on.length?'':'none';});
     if(empty1){
       empty1.style.display=m?'none':'';
       empty1.querySelector('.msg').innerHTML=on.length
@@ -505,6 +517,7 @@ JS = r"""
     closePicker();
   };
 
+  boxes.forEach(function(b){if(b.checked)paint(b.dataset.k,true);});
   refresh();
   renderTable();
   function renderTable(){
@@ -540,6 +553,14 @@ JS = r"""
 def main():
     recs, curves, snap, prof = load()
     cmap = {c["key"]: c for c in curves}
+    default_on = set()
+    for k in ("1245620",      # Elden Ring
+              "1086940",      # Baldur's Gate 3
+              "1091500",      # Cyberpunk 2077
+              "1850570",      # Death Stranding Director's Cut
+              "2050650"):     # Resident Evil 4
+        if k in cmap:
+            default_on.add(k)
     nc = len(curves)
     fin_vals = [r["finish"] for r in recs if r["finish"] is not None]
     avg_fin = sum(fin_vals) / len(fin_vals)
@@ -550,7 +571,8 @@ def main():
         k = str(r["appid"])
         c = cmap.get(k)
         tag = ('<span class="tag has">%d 段</span>' % len(c["nodes"])) if c else '<span class="tag">—</span>'
-        box = '<input type="checkbox" class="ck" data-k="%s">' % k
+        box = ('<input type="checkbox" class="ck" data-k="%s"%s>'
+               % (k, " checked" if k in default_on else ""))
         rows.append(
             '<tr data-k="%s" data-g="%s" data-name="%s" data-color="%s">'
             '<td class="c0">%s</td>'
@@ -569,14 +591,7 @@ def main():
                       % (k, "1" if c else "0", r["name"].replace('"', "&quot;"), r["color"], r["name"],
                          ("%d 段" % len(c["nodes"])) if c else "仅剖面")))
     picks = [h for _, h in sorted(picks, key=lambda t: t[0])]
-    demo_keys = []
-    for want in ("Elden Ring", "Baldur's Gate 3", "Cyberpunk 2077"):
-        for r in recs:
-            if r["name"].lower().startswith(want.lower()) and str(r["appid"]) in cmap:
-                demo_keys.append(str(r["appid"]))
-                break
-    demo_attr = ",".join(demo_keys[:3])
-
+    demo_attr = ",".join(sorted(default_on))
     html = f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -628,9 +643,9 @@ def main():
         <span class="hint">或从上方「添加作品」自己挑</span>
       </div>
     </div>
-    <div class="chart only-desk">{line_chart(curves)}</div>
-    <div class="chart only-mob">{line_chart(curves, mobile=True)}</div>
-    <p class="tip">实线 = 多节点章节 · 虚线 = 只有「起点 → 通关」两个点 · <span style="color:var(--tx2)">手机可左右滑动</span></p>
+    <div class="chart only-desk">{line_chart(curves, default_on=default_on)}</div>
+    <div class="chart only-mob">{line_chart(curves, mobile=True, default_on=default_on)}</div>
+    <p class="tip">实线 = 多节点章节 · 虚线 = 只有「起点 → 通关」两个点 · <span style="color:var(--tx2)">灰线是未选中的其余作品，只作参照，悬停不显示信息</span></p>
   </div>
 </section>
 
@@ -646,7 +661,7 @@ def main():
 </section>
 
 <section>
-  <details class="fold">
+  <details class="fold" open>
     <summary>全库明细 · {len(recs)} 款（可勾选、可搜索、可排序）</summary>
     <div class="body">
       <div class="toolbar">
