@@ -296,6 +296,7 @@ button.primary:hover{background:rgba(76,194,255,.2);color:#bfe9ff}
 .chart svg .ser:hover .ln{stroke-width:3.2}
 .chart svg .hit{cursor:help}
 .tip{font-size:11.5px;color:var(--tx3);margin:8px 0 0}
+button.mini{font-size:11px;padding:2px 8px;margin-left:8px;border-radius:6px;vertical-align:1px}
 details.fold{border:1px solid var(--line);border-radius:12px;background:var(--panel);margin-top:10px}
 details.fold>summary{cursor:pointer;padding:11px 14px;font-size:12.5px;color:var(--tx2);
   list-style:none;display:flex;justify-content:space-between;align-items:center}
@@ -416,7 +417,29 @@ JS = r"""
       e.style.display='';
     });
   }
-  function layout(){layoutSet('el',3,801,40,11,90);layoutSet('elm',1,360,0,13,110);}
+  var labAll=false, labBtn=document.getElementById('lab-tog');
+  function visCount(){
+    var first=document.querySelector('.curves');
+    if(!first)return 0;
+    return [].filter.call(first.querySelectorAll('g.ser'),function(g){
+      return getComputedStyle(g).display!=='none';
+    }).length;
+  }
+  function layout(){
+    var n=visCount();
+    var showLabels = n<=8 || labAll;
+    if(labBtn){
+      labBtn.style.display = (n>8||labAll)?'':'none';
+      labBtn.textContent = labAll?'隐藏末端标签':('显示 '+n+' 个末端标签');
+    }
+    if(!showLabels){
+      document.querySelectorAll('text.el,text.elm').forEach(function(e){e.style.display='none';});
+      return;
+    }
+    layoutSet('el',3,801,40,11,90);
+    layoutSet('elm',1,360,0,13,110);
+  }
+  if(labBtn)labBtn.onclick=function(){labAll=!labAll;layout();};
 
   function renderChips(){
     var on=boxes.filter(function(b){return b.checked;});
@@ -629,11 +652,6 @@ def main():
   <div class="panel">
     <div class="toolbar">
       <button class="primary" id="add">＋ 添加作品</button>
-      <span class="bgroup">
-        <button id="sel-all" title="勾选当前筛选结果里的全部作品">全选</button>
-        <button id="sel-inv" title="在当前筛选结果内反转勾选">反选</button>
-        <button id="clr" title="取消当前筛选结果里的全部勾选">清空</button>
-      </span>
       <div class="chips-wrap" id="chips"></div>
       <span class="tip" id="chartcnt" style="margin:0"></span>
     </div>
@@ -645,7 +663,8 @@ def main():
     </div>
     <div class="chart only-desk">{line_chart(curves, default_on=default_on)}</div>
     <div class="chart only-mob">{line_chart(curves, mobile=True, default_on=default_on)}</div>
-    <p class="tip">实线 = 多节点章节 · 虚线 = 只有「起点 → 通关」两个点 · <span style="color:var(--tx2)">灰线是未选中的其余作品，只作参照，悬停不显示信息</span></p>
+    <p class="tip">实线 = 多节点章节 · 虚线 = 只有「起点 → 通关」两个点 · <span style="color:var(--tx2)">灰线是未选中的其余作品，只作参照，悬停不显示信息</span>
+      <button id="lab-tog" class="mini" style="display:none">显示末端标签</button></p>
   </div>
 </section>
 
@@ -665,8 +684,13 @@ def main():
     <summary>全库明细 · {len(recs)} 款（可勾选、可搜索、可排序）</summary>
     <div class="body">
       <div class="toolbar">
-        <input id="q" placeholder="搜索游戏名 / 类型…" style="flex:1;min-width:180px;background:var(--bg);
+        <input id="q" placeholder="搜索游戏名 / 类型…" style="flex:1;min-width:150px;background:var(--bg);
           border:1px solid var(--line2);color:var(--tx);border-radius:8px;padding:7px 11px;font:inherit;font-size:12.5px;outline:none">
+        <span class="bgroup">
+          <button id="sel-all" title="勾选当前筛选结果里的全部作品">全选</button>
+          <button id="sel-inv" title="在当前筛选结果内反转勾选">反选</button>
+          <button id="clr" title="取消当前筛选结果里的全部勾选">清空</button>
+        </span>
         <span class="tip" id="cnt" style="margin:0"></span>
       </div>
       <div class="tblwrap">
