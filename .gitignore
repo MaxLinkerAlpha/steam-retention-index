@@ -5,3 +5,6 @@ __pycache__/
 _shot/
 pages/
 *.png
+
+# 历史版本归档：只在本地留档，不进仓库、不参与构建
+archive/
